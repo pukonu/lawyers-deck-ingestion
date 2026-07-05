@@ -1,0 +1,688 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/486.json",
+    "status": "done",
+    "notes": "Full appeal on manual handling regulations and causation; outcome and ratio are clear.",
+    "enrichment": {
+      "short_title": "MOD employee manual handling injury appeal dismissed",
+      "area_of_law": [
+        "Personal injury",
+        "Health and safety at work",
+        "Employment law",
+        "Negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Manual Handling Operations Regulations 1992",
+          "provisions": [
+            "regulation 4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Bennetts, a 64-year-old MOD civilian worker at Yeovilton, injured her back on 25 July 2000 while trying to lift a mail sack onto a trolley to decant stuck contents.",
+        "Her normal procedure was to sort post on the floor; the injury occurred when the sack caught on the trolley and she tugged against its weight.",
+        "The recorder found no breach of regulation 4 because decanting mail bags did not pose a real risk in normal handling, and any post-accident assessment risks were not causally linked.",
+        "The recorder also found 60 per cent contributory negligence if liability had arisen."
+      ],
+      "procedural_posture": "Appeal from a county court judgment dismissing a personal injury claim brought in negligence and under the Manual Handling Operations Regulations 1992.",
+      "outcome": "Appeal dismissed; no breach of statutory duty or common law negligence established on causation grounds.",
+      "ratio": "Even if a post-injury manual handling assessment indicated medium risk from stooping in normal procedures, that risk was not relevant to the mechanism of this one-off injury caused by the sack snagging on a trolley; the employer's duties under regulation 4 did not extend to preventing an untrained employee's novel and unusual lifting manoeuvre where training would not have altered the outcome.",
+      "legal_issues": [
+        "Whether decanting mail sacks involved a real risk triggering regulation 4 duties",
+        "Meaning of risk under regulation 4 compared with common law negligence",
+        "Causation between any breach and the injury mechanism",
+        "Whether negligent packing of mail bags caused the injury",
+        "Contributory negligence"
+      ],
+      "catchwords": [
+        "manual handling",
+        "regulation 4",
+        "risk assessment",
+        "causation",
+        "contributory negligence",
+        "employer's liability"
+      ],
+      "index_terms": [
+        "Ministry of Defence",
+        "Yeovilton",
+        "mail room",
+        "Koonjul v Thameslink",
+        "Health and Safety Executive",
+        "post decanting",
+        "trolley snag"
+      ],
+      "linked_authorities": [
+        "Koonjul v Thameslink [2000] PIQR 123",
+        "Hawkes v London Borough of Southwark [1998] EWCA Civ 310",
+        "Cullen v North Lanarkshire Council [1998] SC 451"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full judgment with clear findings on risk, causation, and appeal outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/293.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists historical House of Lords members rather than the actual Court of Appeal panel; substantive employment judgment otherwise complete.",
+    "enrichment": {
+      "short_title": "No implied duty to protect employee's economic welfare",
+      "area_of_law": [
+        "Employment law",
+        "Contract law",
+        "Pensions and benefits",
+        "Implied terms"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Crossley, a senior director of Faithful & Gould, went on sick leave in December 1996 with depression and sought early retirement on health grounds.",
+        "While employed he had a contractual right to long-term disability benefits under a group insurance scheme; on termination benefits became discretionary.",
+        "The employer knew resignation would end his as-of-right entitlement but did not warn him when assisting with retirement letters for tax efficiency.",
+        "UNUM paid benefits until June 1998 but not thereafter after his employment ended."
+      ],
+      "procedural_posture": "Appeal from a county court decision dismissing claims for breach of implied contractual terms relating to pension and disability scheme benefits.",
+      "outcome": "Appeal dismissed; no implied portmanteau obligation to take reasonable care for economic well-being and Scally criteria not satisfied.",
+      "ratio": "There is no general implied term in contracts of employment requiring employers to take reasonable care for employees' economic welfare; even where an employer knows resignation will prejudice disability scheme benefits, no duty arises to warn a senior employee who could reasonably be expected to understand the scheme or obtain advice from his pensions broker.",
+      "legal_issues": [
+        "Whether a general implied term protects employees' economic well-being",
+        "Employer's duty when requesting resignation letters affecting insurance benefits",
+        "Application of Scally criteria to senior employees with access to advice",
+        "Distinction between Hedley Byrne advice duties and general financial protection"
+      ],
+      "catchwords": [
+        "implied term",
+        "economic loss",
+        "disability insurance",
+        "Scally",
+        "constructive advice",
+        "early retirement"
+      ],
+      "index_terms": [
+        "Faithful & Gould",
+        "UNUM",
+        "long-term disability scheme",
+        "Spring v Guardian Assurance",
+        "University of Nottingham v Eyett",
+        "portmanteau obligation",
+        "pensions adviser"
+      ],
+      "linked_authorities": [
+        "Scally v Southern Health and Social Services Board [1992] 1 AC 1",
+        "Spring v Guardian Assurance Plc [1995] 2 AC 296",
+        "University of Nottingham v Eyett [1999] ICR 87",
+        "Outram v Academy Plastics Ltd [2000] ICR 499",
+        "Hagen v ICI Chemicals and Polymers Ltd [2002] IRLR 31",
+        "Johnson v Unisys Ltd [2001] UKHL 13"
+      ],
+      "confidence": {
+        "score": 0.85,
+        "level": "high",
+        "notes": "Substantive ratio and authorities are clear, but judges metadata is corrupted and should not be relied on for citation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/242.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists deceased Law Lords and duplicate entries rather than the 2004 Court of Appeal panel; tax analysis is otherwise full.",
+    "enrichment": {
+      "short_title": "Intra-group property transfer as trading stock for tax",
+      "area_of_law": [
+        "Tax law",
+        "Corporation tax",
+        "Capital gains tax",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Taxation of Chargeable Gains Act 1992",
+          "provisions": [
+            "section 161",
+            "section 173"
+          ]
+        },
+        {
+          "title": "Income and Corporation Taxes Act 1988",
+          "provisions": [
+            "section 100(2)",
+            "section 832"
+          ]
+        }
+      ],
+      "key_facts": [
+        "New Angel Court Ltd, a Hilton Group property dealer, acquired nine commercial properties from fellow group companies on 13 November 1996.",
+        "The vendor companies held the properties as capital investments, not trading stock; the properties were pregnant with about £68M capital losses.",
+        "NAC sold most properties at a profit and claimed a trading loss on acquisition enabling group relief; the Revenue disputed trading stock characterisation.",
+        "Special Commissioners and Lawrence Collins J held the transfers were not acquisitions as trading stock; the Court of Appeal reversed."
+      ],
+      "procedural_posture": "Second appeal from Special Commissioners and High Court on whether intra-group property acquisitions qualified as trading stock under section 173(1) TCGA 1992.",
+      "outcome": "Appeal allowed; properties acquired as trading stock; Special Commissioners and judge erred in treating group disposal policy as negativing trading purpose.",
+      "ratio": "Fiscal motive does not prevent an asset being acquired as trading stock under section 173(1) where the asset is of a kind sold in the company's ordinary course and acquired for trading with a view to resale at profit; group purpose to dispose of investment properties cannot negative the trading purpose identifiable when NAC in isolation bought and sold at market prices for real profit.",
+      "legal_issues": [
+        "Meaning of acquired as trading stock under section 173(1)",
+        "Relevance of fiscal purpose versus trading purpose",
+        "Whether group-wide disposal policy negates trading character",
+        "Application of Coates v Arndale and Reed v Nova Securities",
+        "Distinction between window-dressing and genuine trading"
+      ],
+      "catchwords": [
+        "trading stock",
+        "group relief",
+        "intra-group transfer",
+        "capital loss conversion",
+        "section 173",
+        "property dealing"
+      ],
+      "index_terms": [
+        "Hilton Group",
+        "New Angel Court Ltd",
+        "Coates v Arndale",
+        "Reed v Nova Securities",
+        "Ensign Tankers",
+        "Macniven v Westmoreland Investments",
+        "group companies"
+      ],
+      "linked_authorities": [
+        "Coates v Arndale [1984] 1 WLR 1328",
+        "Reed v Nova Securities Ltd [1985] 1 WLR 193",
+        "Ensign Tankers (Leasing) Ltd v Stokes [1991] 1 WLR 341",
+        "Overseas Containers (Finance) Ltd v Stoker [1989] 1 WLR 606",
+        "Macniven v Westmoreland Investments Ltd [2001] 2 WLR 377"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Detailed tax reasoning and outcome are explicit, but judges metadata requires correction before ingestion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/492.json",
+    "status": "needs_review",
+    "notes": "Judges metadata incorrectly includes Lord Steyn alongside Leveson J; family residence context and pending contempt proceedings limit some findings.",
+    "enrichment": {
+      "short_title": "Tipstaff assault on McKenzie friend in family proceedings",
+      "area_of_law": [
+        "Tort law",
+        "Human rights",
+        "Family procedure",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 2(9)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Pelling acted as McKenzie friend for a father in long-running residence proceedings; Singer J ordered a 10-year-old boy to stay with his mother for two days.",
+        "After the judge left the corridor, Dr Pelling told the boy to hold firm and not return to his mother; Assistant Tipstaff Mr Johnson intervened.",
+        "The judge reversed his order, barred Dr Pelling as McKenzie friend, and contemplated contempt proceedings; parallel Attorney General contempt proceedings were pending.",
+        "Leveson J found trivial intentional physical contact constituting assault but rejected misfeasance and Article 8 claims."
+      ],
+      "procedural_posture": "Trial of limited issues in a civil claim for trespass, misfeasance in public office, and Convention breaches arising from Royal Courts of Justice corridor incidents.",
+      "outcome": "Assault established; £50 damages awarded; misfeasance and Article 8 claims dismissed.",
+      "ratio": "A Tipstaff who honestly but mistakenly believed a McKenzie friend should not speak to a child and made intentional but trivial physical contact without lawful justification commits assault; honest belief in performing duties negates subjective recklessness required for misfeasance in public office.",
+      "legal_issues": [
+        "Whether Tipstaff used unlawful force against a McKenzie friend",
+        "Misfeasance in public office and requisite bad faith",
+        "Article 8 Convention rights in family court corridor interactions",
+        "Admissibility and reliability of child and Tipstaff evidence",
+        "Impact of pending contempt proceedings on parallel civil trial"
+      ],
+      "catchwords": [
+        "McKenzie friend",
+        "Tipstaff",
+        "assault",
+        "misfeasance",
+        "family residence",
+        "Article 8"
+      ],
+      "index_terms": [
+        "Royal Courts of Justice",
+        "Singer J",
+        "CAFCASS reporter",
+        "Three Rivers v Bank of England (No 3)",
+        "contempt of court",
+        "residence order",
+        "Michael Pelling"
+      ],
+      "linked_authorities": [
+        "Three Rivers District Council v Bank of England (No 3) [2000] 2 WLR 1220",
+        "R. Cruikshank Ltd v Chief Constable of Kent County Constabulary [2002] EWCA Civ 1840"
+      ],
+      "confidence": {
+        "score": 0.84,
+        "level": "high",
+        "notes": "Liability findings are detailed, but judges metadata is wrong and some contempt-related issues were expressly not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/334.json",
+    "status": "needs_review",
+    "notes": "Interim permission-to-appeal ruling delivered without appellant appearance; no full merits determination.",
+    "enrichment": {
+      "short_title": "Disability living allowance mobility component permission refused",
+      "area_of_law": [
+        "Social security",
+        "Administrative law",
+        "Human rights",
+        "Disability benefits"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Social Security Contributions and Benefits Act 1992",
+          "provisions": [
+            "section 73(1)(a)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr McKee, a disabled retired miner, received disability living allowance including the higher mobility component based on walking no more than 30–50 yards before dyspnoea.",
+        "After protracted proceedings Commissioner Mesher held a change of circumstances meant he could walk about 100 yards and removed the mobility component from January 1998.",
+        "The appellant and his adviser declined a video-link hearing and did not appear; renewed application for disclosure of Commissioner notes was refused.",
+        "Improvement followed medical advice to reduce smoking and drinking."
+      ],
+      "procedural_posture": "Application for permission to appeal against a Social Security Commissioner's decision removing the mobility component of disability living allowance.",
+      "outcome": "Permission to appeal refused; no viable ground of appeal identified.",
+      "ratio": "Historical delay in social security appeals cannot now usefully be remedied by allowing appeal; walking 100 yards rather than 50 falls outside the statutory virtual inability to walk threshold under section 73(1)(a), and alleged Article 6 violations as to the Secretary of State judging his own cause or inequality of arms are unsupported.",
+      "legal_issues": [
+        "Whether undue delay vitiated the Commissioner's decision",
+        "Irrationality of mobility component removal on medical evidence",
+        "Article 6 fair trial and reasonable time",
+        "Disclosure of Commissioner notes of evidence",
+        "Legal significance of walking distance thresholds for mobility component"
+      ],
+      "catchwords": [
+        "disability living allowance",
+        "mobility component",
+        "change of circumstances",
+        "permission to appeal",
+        "Article 6",
+        "virtual inability to walk"
+      ],
+      "index_terms": [
+        "retired miner",
+        "County Durham",
+        "Commissioner Mesher",
+        "dyspnoea",
+        "social security commissioner",
+        "walking distance test",
+        "video link"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.78,
+        "level": "medium",
+        "notes": "Interim permission refusal only; appellant absent and full merits not reheard."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/396.json",
+    "status": "done",
+    "notes": "Complete right-of-way construction appeal with clear declaration and costs order.",
+    "enrichment": {
+      "short_title": "Partition deed vehicular right of way over flagged path",
+      "area_of_law": [
+        "Property law",
+        "Easements and rights of way",
+        "Conveyancing",
+        "Landlord and tenant"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The Wray at Grasmere was divided into two dwellings by a 1971 Deed of Partition between the Brooks and Griffiths families.",
+        "No 2 owners claimed a vehicular right of way across the front of No 1 wider than the existing slate path; the Georges cross-appealed for footpath-only access.",
+        "The judge had held vehicular access limited to 6 feet 6 inches straddling the path; neither party supported that width on appeal.",
+        "The flagged path laid in 1969 was about three feet wide and the front gates about eight feet six inches."
+      ],
+      "procedural_posture": "Appeal and cross-appeal from county court construction of easement rights in a 1971 Deed of Partition.",
+      "outcome": "Appeal dismissed and cross-appeal allowed; vehicular right confined to the flagged path, not a wider car route across the front garden.",
+      "ratio": "A grant of right of way with or without vehicles over passageways edged brown identifies existing passageways first and only permits vehicles that fit on them; it is improbable the parties intended a small road in front of French windows when a carport existed and the obvious passageway was the slate path.",
+      "legal_issues": [
+        "Construction of express vehicular easement in a partition deed",
+        "Whether passageways include grass strips beside a flagged path",
+        "Relevance of carport and improbability of front vehicular access",
+        "Effect of conveyancing rule allowing grantee to improve access"
+      ],
+      "catchwords": [
+        "right of way",
+        "deed of partition",
+        "vehicular access",
+        "easement construction",
+        "passageway",
+        "Grasmere"
+      ],
+      "index_terms": [
+        "The Wray",
+        "slate path",
+        "French windows",
+        "carport",
+        "National Trust land",
+        "flagged pathway",
+        "1971 partition"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full judgment with agreed legal approach and definitive declaration."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/349.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists only Lord Chancellor rather than Gibson, Tuckey, and Nourse LJJ; otherwise substantive employment remitter judgment.",
+    "enrichment": {
+      "short_title": "Court Service employee remitted for constructive dismissal findings",
+      "area_of_law": [
+        "Employment law",
+        "Unfair dismissal",
+        "Disability discrimination",
+        "Tribunal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Disability Discrimination Act 1995",
+          "provisions": []
+        },
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 139(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Wendy Comfort, a Court Service HEO, sought appointment as Newport County Court manager after Cardiff and Swansea court groups merged.",
+        "She was offered training and shadowing but resigned in April 2001 claiming constructive dismissal, disability discrimination, and redundancy.",
+        "The tribunal found disability but no discrimination and rejected constructive dismissal; a sharp dispute arose over what Mr Risk said at September and October 2000 meetings.",
+        "Metadata on Mr Risk's meeting notes suggested they were typed in January 2001, not contemporaneously, but the tribunal made no findings on authenticity."
+      ],
+      "procedural_posture": "Appeal from Employment Appeal Tribunal dismissing appeal against Employment Tribunal rejection of constructive dismissal and redundancy claims.",
+      "outcome": "Appeal allowed; ET and EAT decisions on constructive dismissal and redundancy set aside; remitted to a differently constituted tribunal with expedition.",
+      "ratio": "An employment tribunal commits an error of law if it decides constructive dismissal without resolving an important disputed fact—what a senior manager said at meetings central to the claim—including whether allegedly contemporaneous notes were authentic; such disputes cannot be treated as immaterial or otiose without explanation.",
+      "legal_issues": [
+        "Sufficiency of tribunal reasons on disputed meeting evidence",
+        "Constructive dismissal and serious breach of contract",
+        "Redundancy versus mobility clause in reorganisation",
+        "Authenticity of manager's meeting notes",
+        "Whether ET should have recalled a witness"
+      ],
+      "catchwords": [
+        "constructive dismissal",
+        "insufficient reasons",
+        "employment tribunal",
+        "redundancy",
+        "Court Service",
+        "remitter"
+      ],
+      "index_terms": [
+        "Lord Chancellor's Department",
+        "Cardiff Civil Justice Centre",
+        "Newport County Court",
+        "Peter Risk",
+        "Anya v University of Oxford",
+        "High Table Ltd v Horst",
+        "HEO reorganisation"
+      ],
+      "linked_authorities": [
+        "Anya v University of Oxford [2001] ICR 847",
+        "High Table Ltd v Horst [1998] ICR 409"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Remitter ratio is clear, but judges metadata is unreliable and disability claim was not disturbed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/243.json",
+    "status": "done",
+    "notes": "Full VAT limitation appeal; section 78A construction and outcome clearly reasoned.",
+    "enrichment": {
+      "short_title": "VAT recovery assessments time-barred after Primback",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "Limitation",
+        "EU law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": [
+            "section 73",
+            "section 77",
+            "section 78",
+            "section 78A",
+            "section 80"
+          ]
+        },
+        {
+          "title": "Finance Act 1997",
+          "provisions": [
+            "section 45",
+            "section 47"
+          ]
+        },
+        {
+          "title": "Finance Act 1999",
+          "provisions": [
+            "section 18"
+          ]
+        }
+      ],
+      "key_facts": [
+        "DFS accounted for VAT on full customer prices on interest-free credit sales but received lower sums from finance companies.",
+        "Following the Court of Appeal decision in Primback, DFS received about £13.1M repayments and £1.5M interest in 1996–97.",
+        "After the ECJ judgment in Primback in May 2001 the Commissioners issued recovery assessments; DFS argued they were out of time under section 78A(2).",
+        "The tribunal held the ECJ judgment was evidence of law not fact; the Vice-Chancellor allowed the Commissioners' appeal; the Court of Appeal restored the tribunal."
+      ],
+      "procedural_posture": "Second appeal on preliminary issue whether VAT recovery assessments under sections 80(4A) and 78A were made within the section 78A(2) limitation period.",
+      "outcome": "Appeal allowed; assessments out of time; ECJ judgment legal effect is not evidence of facts for section 78A(2) purposes.",
+      "ratio": "The legal effect of a judicial decision is not a fact within the natural meaning of evidence of facts in section 78A(2); where all relevant facts were known when repayments were made, the two-year period under section 78A(2) expired long before assessments, with section 73(6)(a) governing mistake-of-law recoveries by reference to the accounting period of payment.",
+      "legal_issues": [
+        "Construction of evidence of facts in section 78A(2) VATA 1994",
+        "Whether ECJ judgment in Primback starts limitation period",
+        "Distinction between facts and legal effect of court decisions",
+        "Interaction of sections 73, 78A, and 80(4A)-(4B)",
+        "Retrospective Finance Act 1997 limitation amendments"
+      ],
+      "catchwords": [
+        "VAT assessment",
+        "limitation period",
+        "section 78A",
+        "Primback",
+        "evidence of facts",
+        "overpayment recovery"
+      ],
+      "index_terms": [
+        "DFS Furniture",
+        "interest-free credit",
+        "Customs and Excise",
+        "Croydon Hotel",
+        "R v Governor of Brockhill Prison ex p Evans (No 2)",
+        "group relief",
+        "finance company"
+      ],
+      "linked_authorities": [
+        "Commissioners of Customs and Excise v Primback Ltd [2001] STC ECJ 803",
+        "Customs and Excise Commissioners v Croydon Hotel and Leisure Co Ltd [1996] STC CA 1105",
+        "R v Governor of Brockhill Prison, ex parte Evans (No 2) [2001] 2 AC 19",
+        "Marks and Spencer plc v Customs and Excise Commissioners [2002] STC ECJ 1036"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed statutory analysis and limitation conclusion are explicit throughout the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/532.json",
+    "status": "needs_review",
+    "notes": "Judges metadata is empty; bankruptcy appeal reasoning is otherwise complete.",
+    "enrichment": {
+      "short_title": "Bankruptcy petition upheld against securities trader",
+      "area_of_law": [
+        "Insolvency law",
+        "Bankruptcy",
+        "Banking and finance",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 265",
+            "section 267",
+            "section 268"
+          ]
+        },
+        {
+          "title": "Insolvency Rules 1986",
+          "provisions": [
+            "rule 6.3",
+            "rule 6.11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Jonathan Anderson traded securities through KAS Bank NV from 1996 to 1997 after Adams & Neville's liquidation, leaving a debit balance on his trading account.",
+        "He agreed in 2000 that £47,956.21 was due, paid £22,500 in instalments, and later moved to the Philippines while KAS continued contacting his Wimbledon address.",
+        "A statutory demand was left at 24 Haygarth Place in August 2002; bankruptcy petition followed with substituted service.",
+        "Late cross-claims for overcharged commission and Irish stamp duty were unsupported by evidence."
+      ],
+      "procedural_posture": "Appeal from bankruptcy order made on KAS Bank NV's petition based on an unpaid trading account debt.",
+      "outcome": "Appeal dismissed; bankruptcy order upheld.",
+      "ratio": "Where a debtor acknowledged the debt, made partial payments, and failed to correct the creditor's understanding that he remained at his UK address, service of a statutory demand at that address was reasonable; unsupported reconciliation and stamp duty cross-claims do not establish a genuine dispute or set-off exceeding the petition debt, and lack of notice of reserved judgment delivery did not cause prejudice without evidence payment could have been made.",
+      "legal_issues": [
+        "Validity of statutory demand service under Insolvency Rules",
+        "Genuine dispute as to petition debt",
+        "Cross-claims exceeding bankruptcy level",
+        "Prejudice from reserved judgment without notice",
+        "Jurisdiction to make bankruptcy order"
+      ],
+      "catchwords": [
+        "bankruptcy petition",
+        "statutory demand",
+        "service",
+        "cross-claim",
+        "trading account",
+        "substituted service"
+      ],
+      "index_terms": [
+        "KAS Bank NV",
+        "Adams & Neville",
+        "securities trading",
+        "Kingston County Court",
+        "Clifford Chance",
+        "commission overcharge",
+        "Irish stamp duty"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.83,
+        "level": "high",
+        "notes": "Appeal grounds and findings are clear, but empty judges metadata requires correction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/241.json",
+    "status": "needs_review",
+    "notes": "Costs-only appeal on legal aid regulation 64; no merits determination of underlying partnership dispute.",
+    "enrichment": {
+      "short_title": "Legal aid costs order restored after preliminary issue win",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Legal aid",
+        "Partnership law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Legal Aid Act 1988",
+          "provisions": [
+            "section 15",
+            "section 31"
+          ]
+        },
+        {
+          "title": "Civil Legal Aid (General) Regulations 1989",
+          "provisions": [
+            "regulation 64",
+            "regulation 90",
+            "regulation 92",
+            "regulation 107",
+            "regulation 107A",
+            "regulation 107B"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Peter Stacy and Dr Player dissolved their Flimwell Bird Park partnership; dispute arose over sale of partnership property.",
+        "Stacy won a preliminary issue that solicitors lacked authority to exchange a contract in a contract race with Marshall.",
+        "Stacy's lawyers accepted about £16,000 from Mr Mauger to fund the preliminary issue while a legal aid certificate was in force.",
+        "The deputy judge refused a costs order because regulation 64 forbade third-party payments; the Court of Appeal held that was an erroneous exercise of discretion."
+      ],
+      "procedural_posture": "Appeal against refusal to award costs of a preliminary issue won by a legally aided claimant where third-party funding breached regulation 64.",
+      "outcome": "Appeal allowed; Dr Player ordered to pay Stacy's costs of the preliminary issue subject to legal aid taxation.",
+      "ratio": "A breach of regulation 64 by receiving third-party funding does not conclusively deny a successful legally aided party costs against the opponent; inter partes costs recovered under an order are paid to the Legal Services Commission under the legal aid scheme, and the normal costs-follows-event order should be made with Mauger repaid separately.",
+      "legal_issues": [
+        "Effect of regulation 64 breach on inter partes costs orders",
+        "Whether third-party funding affects costs as between parties",
+        "Application of legal aid costs regulations to preliminary issues",
+        "Exercise of discretion where certificate scope was disputed",
+        "Late appeal and extension of time"
+      ],
+      "catchwords": [
+        "costs order",
+        "legal aid",
+        "regulation 64",
+        "preliminary issue",
+        "third-party funding",
+        "taxation"
+      ],
+      "index_terms": [
+        "Flimwell Bird Park",
+        "partnership dissolution",
+        "contract race",
+        "Legal Services Commission",
+        "Davies v Taylor (No 2)",
+        "Peter Leaver QC",
+        "legally assisted person"
+      ],
+      "linked_authorities": [
+        "Davies v Taylor (No. 2) [1974] AC 234"
+      ],
+      "confidence": {
+        "score": 0.86,
+        "level": "high",
+        "notes": "Costs-only ruling with clear regulatory analysis; underlying partnership merits not decided."
+      }
+    }
+  }
+]

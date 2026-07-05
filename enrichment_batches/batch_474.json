@@ -1,0 +1,620 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/686.json",
+    "status": "done",
+    "notes": "Patents Court appeal on oil-well debris filter patent; Lord Hoffmann allowed appeal on claim 1 novelty.",
+    "enrichment": {
+      "short_title": "Smith v SPS: patent validity of down-hole well debris filter tool",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Oil and gas",
+        "Engineering"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Patents Act 1977",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 72(1)",
+            "section 97",
+            "section 125"
+          ]
+        }
+      ],
+      "key_facts": [
+        "SPS held GB 2335687 for a down-hole tool filtering debris in well fluid in one flow direction but bypassing the filter in the other.",
+        "Smith applied to revoke the patent for lack of novelty and inventive step over prior art including US junk-catcher patent D6.",
+        "The Comptroller held claim 1 not novel but not obvious; subsidiary claims were largely valid.",
+        "Lord Hoffmann held D6 was not a filter and did not bypass the filter in one direction, so claim 1 was valid."
+      ],
+      "procedural_posture": "Appeal and cross-appeal in the Patents Court from a Comptroller decision on validity of amended patent claims.",
+      "outcome": "Appeal allowed on claim 1 and cross-appeal dismissed on subsidiary claims; claim 1 held valid for novelty and obviousness.",
+      "ratio": "A filter must both retain particles and allow fluid passage; a junk catcher with bypass slots is not necessarily a filter, and prior art must give clear instructions that inevitably produce an infringing device to anticipate a claim.",
+      "legal_issues": [
+        "Construction of 'filter for filtering debris particles' in claim 1",
+        "Whether US prior art D6 anticipated the diversion means integer",
+        "Whether obviousness modification of D6 by adding mesh was established",
+        "Validity of subsidiary claims 8, 13-18 and method claim 23"
+      ],
+      "catchwords": [
+        "patent validity",
+        "novelty",
+        "obviousness",
+        "claim construction",
+        "filter",
+        "well bore debris"
+      ],
+      "index_terms": [
+        "Specialised Petroleum Services",
+        "Smith International",
+        "junk catcher",
+        "D6 prior art",
+        "ball valve bypass",
+        "Kirin-Amgen"
+      ],
+      "linked_authorities": [
+        "Kirin-Amgen Inc v Hoechst Marion Roussel Ltd [2005] RPC 9",
+        "General Tire & Rubber Co v Firestone Tyre & Rubber Co Ltd [1972] RPC 457",
+        "Glaverbel SA v British Coal [1995] RPC 255"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed claim-by-claim reasoning and explicit final dispositions on appeal and cross-appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/574.json",
+    "status": "done",
+    "notes": "Road traffic contributory negligence appeal; 50/50 apportionment upheld despite expert evidence.",
+    "enrichment": {
+      "short_title": "Askey v Wood: contributory negligence on blind country bend",
+      "area_of_law": [
+        "Personal injury",
+        "Negligence",
+        "Road traffic",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law Reform (Contributory Negligence) Act 1945",
+          "provisions": [
+            "section 1(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Askey's car and Mr Wood's motorcycle collided on a blind 90-degree bend on the B1268 in North Yorkshire.",
+        "The judge found the car about a metre over the centre line at about 25 mph and the motorcyclist at about 60 mph on a 60 limit road.",
+        "Both parties were held equally causative and blameworthy; damages apportioned 50/50.",
+        "Mr Wood appealed, arguing his excessive speed did not cause the damage and the apportionment was wrong in principle."
+      ],
+      "procedural_posture": "Appeal from a county court or High Court trial determining liability and contributory negligence after the claimant's claim had settled.",
+      "outcome": "Appeal dismissed; 50/50 apportionment held within the range reasonably open to the judge; respondent awarded appeal costs summarily assessed at £3,000 plus VAT.",
+      "ratio": "Excessive speed causing loss of control before seeing an oncoming vehicle on the wrong side of the road can be causative contributory negligence; apportionment is for the trial judge and will not be disturbed unless outside the reasonable range.",
+      "legal_issues": [
+        "Whether the motorcyclist's speed caused or contributed to his injuries",
+        "Whether a safe speed of 40 mph would still have produced collision",
+        "Whether 50/50 apportionment was an error of principle",
+        "Whether ADR refusal justified departing from the usual costs order"
+      ],
+      "catchwords": [
+        "contributory negligence",
+        "road traffic accident",
+        "apportionment",
+        "excessive speed",
+        "motorcycle",
+        "blind bend"
+      ],
+      "index_terms": [
+        "B1268",
+        "Guisborough",
+        "Saltburn-by-Sea",
+        "Peter Sorton expert",
+        "high-sided motorcycle",
+        "Halsey ADR"
+      ],
+      "linked_authorities": [
+        "Halsey v Milton Keynes General NHS Trust [2004] EWCA Civ 576"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Findings, apportionment reasoning and dismissal are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/643.json",
+    "status": "done",
+    "notes": "International child relocation appeal; mother chose Holland v Dubai binary and lost residence to father.",
+    "enrichment": {
+      "short_title": "Re B (Children): residence and relocation to Dubai or Netherlands",
+      "area_of_law": [
+        "Family law",
+        "Child welfare",
+        "International relocation",
+        "Private international law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Two children born in Dubai moved to England with their mother after parental separation while the father returned to Dubai.",
+        "The mother sought permission to relocate to the Netherlands; the father cross-applied for residence and removal to Dubai.",
+        "Proceedings expanded from a leave-to-remove application to a choice between Holland and Dubai; the mother instructed counsel not to argue remaining in England.",
+        "The judge granted the father residence and permission to remove the children to Dubai; the Court of Appeal dismissed the mother's appeal."
+      ],
+      "procedural_posture": "Appeal with permission granted from a contested residence and international relocation hearing following expanded CAFCASS reporting.",
+      "outcome": "Permission granted but appeal dismissed; residence order and Dubai relocation upheld.",
+      "ratio": "Payne v Payne does not apply where both parents seek relocation abroad and the contest is between two foreign jurisdictions; the welfare checklist governs and appellate interference is limited unless the judge misdirected himself.",
+      "legal_issues": [
+        "Applicability of Payne v Payne to dual-relocation cases",
+        "Whether the judge should have considered a third option of remaining in England",
+        "Weight to be given to the mother as primary carer and status quo",
+        "Whether the judge adequately explained departure from the welfare officer's neutral recommendation"
+      ],
+      "catchwords": [
+        "leave to remove",
+        "residence order",
+        "international relocation",
+        "welfare checklist",
+        "Dubai",
+        "Netherlands"
+      ],
+      "index_terms": [
+        "Payne v Payne",
+        "CAFCASS report",
+        "Middlesborough",
+        "primary carer",
+        "specific issue order",
+        "Sharia law Dubai"
+      ],
+      "linked_authorities": [
+        "Payne v Payne [2001] 1 FLR 1502",
+        "Pole v Pole"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Unusual fact pattern and clear appellate reasoning on Payne and the third-option issue."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2005/693.json",
+    "status": "done",
+    "notes": "Charlotte Wyatt best interests review; declarations continued withholding ICU ventilation on respiratory collapse.",
+    "enrichment": {
+      "short_title": "Wyatt v Portsmouth: best interests and withholding intensive ventilation",
+      "area_of_law": [
+        "Medical law",
+        "Family law",
+        "Human rights",
+        "End-of-life care"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Charlotte Wyatt, a severely disabled terminally ill infant, survived the winter contrary to medical expectation but remained dependent on high-flow oxygen and had no brain growth.",
+        "All parties agreed her day-to-day life was no longer intolerable and non-invasive treatment should continue.",
+        "Doctors disagreed whether intubation, transfer and ventilation would serve any purpose in an overwhelming respiratory infection.",
+        "The parents wanted full intensive care; Portsmouth and the Guardian sought continuation of declarations excluding ventilation."
+      ],
+      "procedural_posture": "Third High Court review application to discharge earlier best interests declarations concerning life-sustaining treatment.",
+      "outcome": "Declarations continued that aggressive invasive ventilation would not be in Charlotte's best interests on respiratory collapse; decision made now rather than at crisis, subject to review and consultation qualifications.",
+      "ratio": "Parental wishes are profoundly relevant but not decisive; where a highly probable respiratory crisis is foreseeable and ICU would likely be futile or restore intolerable suffering, a prospective best interests declaration may be made to avoid crisis litigation.",
+      "legal_issues": [
+        "Whether intubation and ventilation would be in the child's best interests on respiratory collapse",
+        "Whether a decision should be taken now or deferred until crisis",
+        "Weight to be given to parental views against professional consensus",
+        "Continued lawfulness of non-invasive sustaining treatment"
+      ],
+      "catchwords": [
+        "best interests",
+        "withholding treatment",
+        "intensive care",
+        "ventilation",
+        "terminally ill child",
+        "medical treatment"
+      ],
+      "index_terms": [
+        "Charlotte Wyatt",
+        "Portsmouth NHS Trust",
+        "oxygen head box",
+        "Re L (a child)",
+        "Glass v UK",
+        "respiratory collapse"
+      ],
+      "linked_authorities": [
+        "Re L (a child) [2004] EWHC 2713 (Fam)",
+        "R v Portsmouth Hospitals NHS Trust ex p Glass [1999] 2 FLR 905",
+        "Glass v United Kingdom [2004] 1 FLR 1019"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Clear medical consensus analysis and explicit prospective declaration with qualifications."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/511.json",
+    "status": "done",
+    "notes": "Incapacity benefit appeal; Court of Appeal found no error of law in PCA tribunal decision.",
+    "enrichment": {
+      "short_title": "Fryer-Kelsey v SoS: incapacity benefit personal capability assessment appeal",
+      "area_of_law": [
+        "Social security",
+        "Administrative law",
+        "Employment and disability",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Social Security Contributions and Benefits Act 1992",
+          "provisions": [
+            "section 30A",
+            "section 30C(1)(a)",
+            "section 171C(2)(a)"
+          ]
+        },
+        {
+          "title": "Social Security Act 1998",
+          "provisions": [
+            "section 10",
+            "section 12",
+            "section 14",
+            "section 15"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Fryer-Kelsey, a plumber, had received incapacity benefit since 1996 until a 2002 PCA assessment found him capable of work.",
+        "The Appeal Tribunal preferred Dr Hardman's clinical findings and the incapacity questionnaire completed by his wife over GP letters and the claimant's oral evidence.",
+        "The Social Security Commissioner upheld the tribunal; the claimant appealed on alleged misreading of GP evidence, failure to consider pain, and hearing descriptor error.",
+        "The Court of Appeal held each ground was a question of fact or evaluation, not law."
+      ],
+      "procedural_posture": "Appeal with leave from a Social Security Commissioner decision upholding refusal of incapacity benefit after Appeal Tribunal rehearing.",
+      "outcome": "Appeal dismissed; no error of law identified in the Appeal Tribunal's PCA scoring decision.",
+      "ratio": "Appeals to Commissioners and the Court of Appeal lie only on questions of law; tribunals may prefer recent expert PCA evidence and questionnaire answers over GP letters, and factual weighing cannot be recast as legal error.",
+      "legal_issues": [
+        "Whether the tribunal misconstrued the GP's 'not fit for work' letter",
+        "Whether failure to address chronic pain amounted to error of law",
+        "Whether the hearing descriptor test was misapplied",
+        "Whether the overall decision was perverse"
+      ],
+      "catchwords": [
+        "incapacity benefit",
+        "personal capability assessment",
+        "social security appeal",
+        "error of law",
+        "pain",
+        "tribunal fact-finding"
+      ],
+      "index_terms": [
+        "Dr Hardman",
+        "regulation 6(2)(g)",
+        "15 points threshold",
+        "Cooke v Secretary of State",
+        "questionnaire",
+        "Commissioner Henty"
+      ],
+      "linked_authorities": [
+        "Cooke v Secretary of State for Social Security [2002] 3 All ER 279",
+        "Cooke v Secretary of State for Social Security [2001] EWCA Civ 734"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory appeal route and rejection of each suggested legal error are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/781.json",
+    "status": "done",
+    "notes": "Judicial review of same-day assault conviction after court security incident; conviction quashed for bias and unfairness.",
+    "enrichment": {
+      "short_title": "Morris v Woolwich: judicial review of same-day court assault conviction",
+      "area_of_law": [
+        "Criminal law",
+        "Administrative law",
+        "Judicial review",
+        "Human rights",
+        "Magistrates' courts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 142"
+          ]
+        }
+      ],
+      "key_facts": [
+        "After pleading guilty to burglary and committal for sentence, Mr Morris head-butted a court security officer in the holding area and claimed self-defence.",
+        "District Judge Riddle, who had witnessed earlier dock exchanges, heard a same-day guilty plea to common assault and imposed four months' imprisonment.",
+        "The claimant was represented by the duty solicitor; his own barrister and solicitor were not contacted despite requests.",
+        "Medical evidence of injury was obtained hours after sentencing; no independent investigation of the claimant's counter-allegation occurred."
+      ],
+      "procedural_posture": "Judicial review with permission granted challenging conviction and sentence for procedural impropriety and apparent bias.",
+      "outcome": "Conviction quashed for lack of objective impartiality and unfair process; prosecution may decide whether to retry.",
+      "ratio": "Where court misbehaviour may constitute a substantive offence rather than contempt, Article 6 requires investigation and determination by a different bench; a judge who witnessed part of the incident cannot fairly sentence even on a guilty plea.",
+      "legal_issues": [
+        "Whether District Judge Riddle was objectively impartial",
+        "Whether same-day prosecution before the same judge was an abuse of process",
+        "Whether failure to contact the claimant's lawyers rendered proceedings unfair",
+        "Whether section 142 or crown court appeal was an adequate alternative remedy"
+      ],
+      "catchwords": [
+        "judicial review",
+        "apparent bias",
+        "court security assault",
+        "Article 6",
+        "guilty plea",
+        "abuse of process"
+      ],
+      "index_terms": [
+        "Woolwich Magistrates Court",
+        "District Judge Riddle",
+        "Kyprianou v Cyprus",
+        "duty solicitor",
+        "Premier Prison Services",
+        "Belmarsh"
+      ],
+      "linked_authorities": [
+        "Kyprianou v Cyprus (ECtHR, 27 January 2004)"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed procedural chronology and unanimous quashing order with Article 6 analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2005/678.json",
+    "status": "done",
+    "notes": "9/11 WTC reinsurance trial on Illinois construction of 'authorized business trip' AD&D cover.",
+    "enrichment": {
+      "short_title": "Rendall v Combined: 9/11 AD&D reinsurance and authorized business trip",
+      "area_of_law": [
+        "Insurance law",
+        "Reinsurance",
+        "Commercial law",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Combined insured Aon Group employees under a 24-hour AD&D policy with a Business Only section covering authorized business trips.",
+        "176 Aon employees died in the South Tower on 11 September 2001; reinsurers disputed coverage for 169 whose regular workplace was in the tower.",
+        "Reinsurers argued evacuation deaths were not on an authorized business trip; Combined contended coverage extended during attempted evacuation.",
+        "The court applied Illinois contract construction rules to the underlying policy and reinsurance."
+      ],
+      "procedural_posture": "Commercial Court trial of reinsurance coverage dispute following the World Trade Center attacks.",
+      "outcome": "Claimant reinsurers succeeded; declaration that deaths of 169 tower-based employees were outside the authorized business trip cover and reinsurance.",
+      "ratio": "Under Illinois law, 'trip for the purpose of furthering business' denotes a journey or tour in the course of business operations and does not include evacuation from a regular workplace during the 9/11 attacks; absent ambiguity, contra proferentem does not apply.",
+      "legal_issues": [
+        "Whether 169 employees were on an authorized business trip when they died",
+        "Meaning of 'trip' and 'furthering business' under Illinois law",
+        "Whether employees had left their regular place of employment",
+        "Whether policy language was ambiguous"
+      ],
+      "catchwords": [
+        "accidental death and dismemberment",
+        "reinsurance",
+        "World Trade Center",
+        "authorized business trip",
+        "policy construction",
+        "Illinois law"
+      ],
+      "index_terms": [
+        "Combined Insurance Company of America",
+        "Aon Group",
+        "South Tower",
+        "24 Hr All Risk Hazard",
+        "Webster's Third Dictionary",
+        "contra proferentem"
+      ],
+      "linked_authorities": [
+        "Hobbs v Hartford (Illinois Supreme Court, 2005 WL 120357)"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Agreed introduction and explicit declaration on 169 employee deaths; seven visiting employees treated separately."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/881.json",
+    "status": "done",
+    "notes": "Fresh claim judicial review; Secretary of State misdirected on Batayav real risk test for Cote d'Ivoire return.",
+    "enrichment": {
+      "short_title": "Kpangni v SoS: fresh human rights claim and Batayav real risk test",
+      "area_of_law": [
+        "Immigration law",
+        "Human rights",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The claimant, an Ivorian national, sought reconsideration of his asylum claim citing country conditions and medical condition.",
+        "The Secretary of State refused to treat representations as a fresh claim under paragraph 353 of the Immigration Rules.",
+        "The decision letter relied on AZ (Ivory Coast) and the Hariri 'consistent pattern' formulation for Article 3 risk.",
+        "Munby J held the Secretary of State misdirected himself by failing to apply Batayav's clarification that real risk is less than probability."
+      ],
+      "procedural_posture": "Judicial review with permission granted challenging refusal to treat post-adjudicator representations as a fresh human rights claim.",
+      "outcome": "Claim succeeded; decisions of 14 July and 9 December 2004 quashed; Secretary of State ordered to reconsider; claimant awarded costs from 7 April.",
+      "ratio": "Paragraph 353 requires significantly different material creating a realistic prospect of success; where a decision letter adopts the superseded Hariri threshold after Batayav, the decision is vitiated by misdirection even if 'real risk' language appears elsewhere.",
+      "legal_issues": [
+        "Whether representations amounted to a fresh claim under paragraph 353",
+        "Correct Article 3 real risk test after Batayav",
+        "Effect of reliance on AZ (Ivory Coast) applying Hariri",
+        "Whether medical condition combined with country conditions could satisfy paragraph 353"
+      ],
+      "catchwords": [
+        "fresh claim",
+        "paragraph 353",
+        "Article 3",
+        "real risk",
+        "Cote d'Ivoire",
+        "judicial review"
+      ],
+      "index_terms": [
+        "AZ (risk on return) Ivory Coast",
+        "Hariri v Secretary of State",
+        "Batayav v Secretary of State",
+        "UNHCR report",
+        "Human Rights Watch",
+        "credibility"
+      ],
+      "linked_authorities": [
+        "Batayav v Secretary of State for the Home Department [2003] EWCA Civ 1489",
+        "Hariri v Secretary of State for the Home Department [2003] EWCA Civ 607",
+        "AZ (risk on return) Ivory Coast CG [2004] UKIAT 00170"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Focused legal error identified and conceded consequence of quashing clearly resolved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/962.json",
+    "status": "done",
+    "notes": "Versailles/Traders fraud appeal; inconsistent verdicts ground rejected and Cushnie conviction upheld.",
+    "enrichment": {
+      "short_title": "R v Cushnie: Versailles and Traders conspiracy to defraud convictions",
+      "area_of_law": [
+        "Criminal law",
+        "Fraud",
+        "Company law",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Law Act 1977",
+          "provisions": [
+            "section 1"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Cushnie and Clough ran fraudulent finance schemes through Normandy Marketing, Versailles Group and Traders companies, causing massive losses to banks, shareholders and private investors.",
+        "Clough pleaded guilty; Cushnie was acquitted of the Versailles conspiracy but convicted of the separate Traders conspiracy after a four-month trial.",
+        "Both were sentenced to six years; Clough's Normandy sentence was ordered concurrent on appeal.",
+        "Cushnie appealed on inconsistent verdicts and the Crown's later treatment of co-accused Clough as untruthful in the Black trial."
+      ],
+      "procedural_posture": "Court of Appeal (Criminal Division) applications for leave to appeal against conviction and sentence following Serious Fraud Office prosecution.",
+      "outcome": "Cushnie's conviction and sentence appeals dismissed; Clough's sentence appeal allowed in part so total imprisonment reduced from six to five years.",
+      "ratio": "Acquittal on one conspiracy and conviction on another is not logically inconsistent where victims and means of fraud differ; particulars in a conspiracy to defraud need not all be essential ingredients, and the Crown may treat an accomplice as truthful on some issues but not others.",
+      "legal_issues": [
+        "Whether acquittal on Versailles count was inconsistent with Traders conviction",
+        "Whether paragraph (b) inflation of VTF turnover was an essential element",
+        "Whether a Brown direction was required",
+        "Whether Clough's credibility in a later trial rendered Cushnie's conviction unsafe"
+      ],
+      "catchwords": [
+        "conspiracy to defraud",
+        "inconsistent verdicts",
+        "Versailles Group",
+        "Traders fraud",
+        "sentencing",
+        "accomplice evidence"
+      ],
+      "index_terms": [
+        "Clough",
+        "Trading Partners Limited",
+        "VTL",
+        "cross-firing cheques",
+        "Serious Fraud Office",
+        "Hancock"
+      ],
+      "linked_authorities": [
+        "Hancock [1996] 2 Cr App R 554",
+        "Durante 56 Cr App R 708",
+        "Brown [1984] 79 Cr App R 115"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Grounds analysed in detail with explicit outcomes on both appellants."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/571.json",
+    "status": "done",
+    "notes": "Constructive dismissal appeal; vague Christmas party salary assurance held too uncertain to be contractual.",
+    "enrichment": {
+      "short_title": "Judge v Crown Leisure: constructive dismissal and vague salary promise",
+      "area_of_law": [
+        "Employment law",
+        "Contract law",
+        "Constructive dismissal"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Judge, a Special Operations Manager, resigned alleging breach of contract over failure to match colleague Mr Mills' salary.",
+        "Mr Fannon had told managers salaries would eventually be brought into line; the tribunal rejected an explicit two-year parity promise at a Christmas party.",
+        "The tribunal found only vague assurances of eventual parity and held no binding contractual commitment existed.",
+        "Mr Judge resigned in June 2003 when a 2.5% increase still left him well below Mr Mills' package."
+      ],
+      "procedural_posture": "Appeal from the Employment Appeal Tribunal dismissing appeal against an employment tribunal rejection of constructive unfair dismissal.",
+      "outcome": "Appeal dismissed; no constructive dismissal because no certain contractual promise was breached.",
+      "ratio": "A promise to achieve salary parity 'eventually' or 'in due course' is too vague to be an enforceable contractual term; where employer and employee already stand in legal relations, the issue is certainty of promise not intention to create legal relations.",
+      "legal_issues": [
+        "Whether Mr Fannon made a binding promise of salary parity within two years",
+        "Whether the tribunal erred in finding a vague rather than specific conversation",
+        "Whether failure to allow submissions on an unanticipated finding was procedurally unfair",
+        "Whether the burden on intention to create legal relations was misapplied"
+      ],
+      "catchwords": [
+        "constructive dismissal",
+        "fundamental breach",
+        "salary promise",
+        "contractual certainty",
+        "employment tribunal",
+        "intention to create legal relations"
+      ],
+      "index_terms": [
+        "Crown Leisure",
+        "Special Operations Manager",
+        "Mr Mills",
+        "Mr Fannon",
+        "Savoy Hotel Blackpool",
+        "Edwards v Skyways"
+      ],
+      "linked_authorities": [
+        "Edwards v Skyways Ltd [1964] 1 All ER 494"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Tribunal findings and Court of Appeal contract certainty analysis are clearly reasoned."
+      }
+    }
+  }
+]

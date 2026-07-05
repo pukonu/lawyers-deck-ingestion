@@ -1,0 +1,866 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1107.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on contributory negligence apportionment.",
+    "enrichment": {
+      "short_title": "Pedestrian's contributory negligence reduced from 60% to 40% where driver bore greater causative potency",
+      "area_of_law": [
+        "Personal injury",
+        "Negligence",
+        "Road traffic"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law Reform (Contributory Negligence) Act 1945",
+          "provisions": [
+            "section 1(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A 17-year-old pedestrian was very seriously injured when struck by a car on Marine Parade, Great Yarmouth, at night in June 1989.",
+        "She had walked along the carriageway for some time, refused warnings to get off the road, and was in the offside lane when struck.",
+        "The driver was in the offside lane at about 30–35 mph, had consumed enough alcohol to impair his driving, and failed to see or avoid her despite good visibility.",
+        "Moses J found the driver liable but apportioned 60% contributory negligence to the claimant; the only challenged finding was that she was 'drunk', which the Court of Appeal held was unsupported."
+      ],
+      "procedural_posture": "Claimant's appeal to the Court of Appeal (Civil Division) against a High Court apportionment of contributory negligence.",
+      "outcome": "Appeal allowed; contributory negligence substituted at 40%; costs on an indemnity basis.",
+      "ratio": "Under section 1(1) of the 1945 Act the court must do what is just and equitable by comparing both parties' causative potency and blameworthiness; it is rare for a pedestrian to be found more responsible than a driver unless they suddenly move into the path of a vehicle, and a qualitative difference exists between findings of 60% and 40% contribution.",
+      "legal_issues": [
+        "Whether the trial judge was plainly wrong to hold the claimant more responsible than the defendant",
+        "How causative potency and blameworthiness should be balanced under the 1945 Act",
+        "Whether the finding that the claimant was drunk was supported by evidence"
+      ],
+      "catchwords": [
+        "contributory negligence",
+        "apportionment",
+        "pedestrian",
+        "drink driving",
+        "causative potency",
+        "blameworthiness"
+      ],
+      "index_terms": [
+        "Marine Parade Great Yarmouth",
+        "Davies v Swan Motor Co",
+        "Fitzgerald v Lane",
+        "Lunt v Khelifa",
+        "road traffic accident"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Davies v Swan Motor Co Ltd",
+          "citation": "[1949] 2 KB 291",
+          "relation": "applied"
+        },
+        {
+          "name": "Fitzgerald v Lane",
+          "citation": "[1989] AC 328",
+          "relation": "applied"
+        },
+        {
+          "name": "Stapley v Gypsum Mines Ltd",
+          "citation": "[1953] AC 663",
+          "relation": "applied"
+        },
+        {
+          "name": "Lunt v Khelifa",
+          "citation": "[2002] EWCA Civ 801",
+          "relation": "applied"
+        },
+        {
+          "name": "Brown v Thompson",
+          "citation": "[1968] 1 WLR 1003",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full judgment with clear outcome and detailed reasoning on apportionment principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1105.json",
+    "status": "done",
+    "notes": "Complete interlocutory judgment on Court of Appeal case management powers during pending appeal.",
+    "enrichment": {
+      "short_title": "Appeal conditioned on payment of interim costs where impecunious company delayed enforcement",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 51"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 2.1",
+            "CPR 3.1",
+            "CPR 52.9",
+            "CPR 52.10",
+            "CPR 25.15"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Contract Facilities Ltd, restored to the register with retrospective effect, lost at trial a claim for specific performance or damages relating to a share purchase contract and was ordered to pay costs.",
+        "The company had no assets; Mr Shuck funded the litigation and used procedural tactics to postpone detailed assessment and enforcement before the appeal was heard.",
+        "Security for costs on the appeal was provided ten minutes late; an interim costs certificate for £37,000 and further costs orders remained unpaid.",
+        "The respondents applied for dismissal of the appeal or for payment of outstanding costs as a condition of pursuing the appeal."
+      ],
+      "procedural_posture": "Respondents' application to the Court of Appeal during the currency of Contract Facilities Ltd's appeal against a county court order.",
+      "outcome": "Unless Contract paid £37,000 into court and £2,000 and £4,792 to the respondents by 18 July 2003, the appeal would be struck out; respondents' costs of the application also ordered.",
+      "ratio": "The Court of Appeal has case management powers under CPR 2.1 and 3.1 to impose conditions on a pending appeal where a funded appellant seeks to prosecute an appeal while disobeying costs orders and there is no real risk of stifling; this is distinct from an application to vary permission to appeal at first instance under CPR 52.9.",
+      "legal_issues": [
+        "Whether the Court of Appeal had jurisdiction to impose payment conditions on a pending appeal",
+        "Whether CPR 52.9(3) prevented imposing conditions after permission was granted in the respondents' presence",
+        "Whether requiring payment of past costs as a condition of appeal prejudged a section 51 application against the funder"
+      ],
+      "catchwords": [
+        "case management",
+        "strike out appeal",
+        "security for costs",
+        "interim costs certificate",
+        "impecunious appellant",
+        "litigation funder"
+      ],
+      "index_terms": [
+        "Contract Facilities Ltd",
+        "Hammond Suddard v Agrichem",
+        "CIBC Mellon Trust v Mora Hotel",
+        "Great Future International v Sealand Housing",
+        "stay of execution"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Great Future International Ltd v Sealand Housing Corporation",
+          "citation": "[2003] EWCA Civ 682",
+          "relation": "applied"
+        },
+        {
+          "name": "Hammond Suddard v Agrichem International Holdings Ltd",
+          "citation": "[2001] EWCA Civ 2065",
+          "relation": "applied"
+        },
+        {
+          "name": "CIBC Mellon Trust Company v Mora Hotel Corporation NV",
+          "citation": "[2002] EWCA Civ 1688",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Olatawura v Abiloye",
+          "citation": "[2002] CP Rep 73",
+          "relation": "applied"
+        },
+        {
+          "name": "Societe Eran Shipping",
+          "citation": "[2001] EWCA Civ 568",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full judgment with detailed procedural reasoning and clear conditional order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2105.json",
+    "status": "done",
+    "notes": "Complete section 288 planning appeal and linked costs challenge; source judge metadata appears erroneous.",
+    "enrichment": {
+      "short_title": "Inspector's grant of guest-house reconversion upheld; prematurity refusal and costs award lawful",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Costs in planning appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 54A",
+            "section 288"
+          ]
+        },
+        {
+          "title": "Planning Policy Wales",
+          "provisions": [
+            "Chapter 3 paragraph 5.1",
+            "Chapter 3 paragraph 5.2",
+            "Chapter 9 paragraph 2.15"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8",
+            "Article 14",
+            "Article 1 of Protocol 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Delabatouche applied to convert upper floors of Sherebourne, Tenby, from guest-house use into two flats without local-needs occupancy restrictions.",
+        "Pembrokeshire Coast National Park Authority refused permission on prematurity grounds to protect emerging draft policy 47 restricting unrestricted housing in the national park.",
+        "The inspector allowed the appeal, giving little weight to the emerging policy and awarding costs against the authority for unreasonable conduct.",
+        "The authority challenged both the planning decision and the costs award under section 288."
+      ],
+      "procedural_posture": "Statutory appeal under section 288 of the Town and Country Planning Act 1990, with a linked judicial review of the inspector's costs order.",
+      "outcome": "Section 288 challenge dismissed; challenge to the costs order dismissed; claimant ordered to pay defendants' agreed costs of £8,149.50.",
+      "ratio": "Prematurity is not an automatic trump card where an emerging policy is controversial and not deposited with strong evidential support; a decision-maker may lawfully attach little weight to an emerging local-needs housing policy and refuse prematurity where the proposal is a small internal reconversion with limited cumulative impact, and may award costs where the authority acted unreasonably in refusing permission.",
+      "legal_issues": [
+        "Whether the inspector erred in attaching little weight to emerging draft policy 47",
+        "Whether prematurity was established for a two-unit reconversion in Tenby",
+        "Whether cumulative precedent effects were adequately addressed",
+        "Whether the inspector lawfully awarded costs for unreasonable conduct"
+      ],
+      "catchwords": [
+        "planning appeal",
+        "prematurity",
+        "emerging development plan",
+        "local needs housing",
+        "section 54A",
+        "planning costs"
+      ],
+      "index_terms": [
+        "Pembrokeshire Coast National Park",
+        "Tenby Sutton Street",
+        "Joint Unitary Development Plan",
+        "Policy GE7",
+        "Policy 47",
+        "Mrs Delabatouche"
+      ],
+      "linked_authorities": [
+        {
+          "name": "City of Edinburgh Council v Secretary of State for Scotland",
+          "citation": "[1997] 1 WLR 1447",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Leominster DC ex parte Pothecary",
+          "citation": "[1998] JPL 335",
+          "relation": "applied"
+        },
+        {
+          "name": "Rumsey v Secretary of State for Environment, Transport and the Regions",
+          "citation": "(2001) 81 P & CR 32",
+          "relation": "considered"
+        },
+        {
+          "name": "Poundstretcher Ltd v Secretary of State for the Environment",
+          "citation": "[1988] 3 PLR 69",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Very long but complete judgment; source metadata lists incorrect judges but full text identifies Mr Justice Pitchford."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1071.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on tribunal bias, apparent bias and waiver with procedural guidance.",
+    "enrichment": {
+      "short_title": "Employment tribunal chairman's link to counsel instructed by employer did not require recusal",
+      "area_of_law": [
+        "Employment law",
+        "Natural justice",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Jones, a senior claims handler at DAS Legal Expenses Insurance Co Ltd, brought sex discrimination and victimisation claims before an employment tribunal.",
+        "At the outset the chairman disclosed that her barrister husband's chambers undertook work for DAS and that he had occasionally been instructed by the respondent; Mr Jones did not object.",
+        "After dismissal of his claims he investigated and found Mr Harper had been directly instructed on several occasions and paid fees of about £3,000 in the year before the hearing.",
+        "The Employment Appeal Tribunal rejected bias and perversity grounds; Mr Jones appealed to the Court of Appeal."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from the Employment Appeal Tribunal on alleged bias and lack of impartiality.",
+      "outcome": "Appeal dismissed with costs summarily assessed at £1,000.",
+      "ratio": "A tribunal chairman whose spouse occasionally received modest panel work from the respondent does not have the requisite direct financial interest for automatic disqualification; applying Porter v Magill, a fair-minded informed observer would not conclude there was a real possibility of bias, and where adequate disclosure was made the litigant in person waived objection by continuing after adjournment with full knowledge of the essential facts.",
+      "legal_issues": [
+        "Whether presumed bias arose from the chairman's spouse's occasional instructions by DAS",
+        "Whether apparent bias was established under Porter v Magill",
+        "Whether Mr Jones validly waived the disclosed conflict",
+        "What procedural steps tribunals should take when a conflict emerges at the start of a hearing"
+      ],
+      "catchwords": [
+        "apparent bias",
+        "presumed bias",
+        "employment tribunal",
+        "Locabail",
+        "waiver",
+        "Article 6"
+      ],
+      "index_terms": [
+        "DAS Legal Expenses Insurance",
+        "litigant in person",
+        "spouse interest",
+        "panel counsel",
+        "recusal guidance"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Locabail (UK) Ltd v Bayfield Properties Ltd",
+          "citation": "[2000] QB 451",
+          "relation": "applied"
+        },
+        {
+          "name": "Porter v Magill",
+          "citation": "[2002] 2 AC 359",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Bow Street Magistrate, Ex p Pinochet (No 2)",
+          "citation": "[2000] 1 AC 119",
+          "relation": "applied"
+        },
+        {
+          "name": "In re Medicaments and Related Classes of Goods (No 2)",
+          "citation": "[2001] 1 WLR 700",
+          "relation": "applied"
+        },
+        {
+          "name": "Lawal v Northern Spirit Ltd",
+          "citation": "[2003] UKHL 35",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full judgment with extensive bias and waiver analysis plus procedural guidance."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1103.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment refusing strike-out of auditor negligence claim.",
+    "enrichment": {
+      "short_title": "Auditors' duty to bond insurer arguable where travel agent's accounts were known to support ABTA/IATA applications",
+      "area_of_law": [
+        "Professional negligence",
+        "Negligence",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 3.4(2)(a)",
+            "CPR 24.2(a)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "IAIC provided ABTA and IATA bonds and loans to Swift Travel, relying on audited accounts prepared by Michael Cook & Co.",
+        "Swift Travel later ceased trading; IAIC suffered losses and investigation costs and alleged the auditors negligently prepared materially misleading financial statements.",
+        "The auditors applied to strike out or obtain summary judgment on the ground that no duty of care was owed to IAIC.",
+        "Mr Justice Lloyd refused the application, holding the pleaded case arguable on proximity and scope of duty."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against refusal of strike-out/summary judgment application.",
+      "outcome": "Appeal dismissed; claim allowed to proceed to trial.",
+      "ratio": "In auditor liability, where the pleaded facts allege the auditors knew audited statements would be supplied to institutions such as the claimant to obtain bond facilities and would be relied on, the case is at the margin of existing authority and should not be struck out under CPR 3.4(2)(a); the law in this field remains incrementally developing and is fact-sensitive.",
+      "legal_issues": [
+        "Whether auditors owed a duty of care to a bond provider not identified in advance",
+        "Whether proximity and assumption of responsibility were sufficiently pleaded",
+        "Whether the claim was plainly covered by Al Saudi Banque and Caparo",
+        "Whether CPR 24.2 added anything where all facts were taken from the particulars of claim"
+      ],
+      "catchwords": [
+        "auditor negligence",
+        "duty of care",
+        "strike out",
+        "travel agent bonds",
+        "proximity",
+        "Caparo test"
+      ],
+      "index_terms": [
+        "Independents Advantage Insurance Company",
+        "Swift Travel",
+        "ABTA",
+        "IATA",
+        "Michael Cook & Co",
+        "negligent misstatement"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Caparo Industries Plc v Dickman",
+          "citation": "[1990] 2 AC 605",
+          "relation": "applied"
+        },
+        {
+          "name": "Al Saudi Banque v Clark Pixley",
+          "citation": "[1990] Ch 313",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Andrew v Kounnis Freeman",
+          "citation": "[2000] Lloyd's Rep PN 263",
+          "relation": "applied"
+        },
+        {
+          "name": "Law Society v KPMG Peat Marwick",
+          "citation": "[2000] 1 WLR 1921",
+          "relation": "applied"
+        },
+        {
+          "name": "Coulthard v Neville Russell",
+          "citation": "[1998] PNLR 276",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full judgment with detailed assumed facts and clear refusal of summary disposal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2167.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal criminal judgment on fair trial and section 23 witness statements.",
+    "enrichment": {
+      "short_title": "Drug importation trial fair despite refusal of visas for Nigerian defence witnesses",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 23"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1967",
+          "provisions": [
+            "section 9"
+          ]
+        },
+        {
+          "title": "Criminal Procedure Act 1865",
+          "provisions": [
+            "section 2"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6(3)(d)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant was stopped at Gatwick with cocaine and heroin concealed in a false bottom of a wheelie bag she said had been given to her in Nigeria by Mama Chardy.",
+        "Two Nigerian witnesses supported her account in statements taken by her solicitor, but visa applications to attend trial were refused.",
+        "The trial judge refused a stay; the witnesses' statements were read under section 23 of the Criminal Justice Act 1988 with an appropriate jury direction.",
+        "She was convicted by a 10:2 majority and sentenced to eleven and a half years' imprisonment on each count concurrent."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Criminal Division) against conviction following refusal of a stay for alleged unfairness.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Refusal of entry visas for defence witnesses does not automatically breach Article 6 where their statements are admitted under section 23 and the jury receives a proper direction; a trial judge is not required to review immigration decisions, and fairness depends on whether the trial process as a whole remained fair on the central issue of knowledge.",
+      "legal_issues": [
+        "Whether Customs and Excise failed to assist sufficiently in obtaining visas",
+        "Whether the state was indivisible so visa refusal rendered the trial unfair",
+        "Whether reading statements under section 23 cured the restriction on calling witnesses",
+        "Whether the judge should have stayed proceedings as an abuse of process"
+      ],
+      "catchwords": [
+        "fair trial",
+        "defence witnesses abroad",
+        "section 23 statements",
+        "Article 6",
+        "drug importation",
+        "abuse of process"
+      ],
+      "index_terms": [
+        "Gatwick airport",
+        "visa refusal",
+        "Nigeria witnesses",
+        "R v McCoy",
+        "R v D",
+        "Customs and Excise"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v D",
+          "citation": "[2002] EWCA Crim 990",
+          "relation": "applied"
+        },
+        {
+          "name": "Van Mechelen v Netherlands",
+          "citation": "[1997] 25 EHRR 647",
+          "relation": "considered"
+        },
+        {
+          "name": "Samleung International Trading Co Ltd v Collector of Customs",
+          "citation": "[1994] 3 NZLR 285",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment with detailed fair trial analysis and clear dismissal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1281.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on Limitation Act date of knowledge and section 33 discretion.",
+    "enrichment": {
+      "short_title": "Dyslexia negligence claim held time-barred where knowledge accrued before majority",
+      "area_of_law": [
+        "Limitation of actions",
+        "Education law",
+        "Negligence",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 11",
+            "section 14",
+            "section 33"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3(1)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Nicholas Rowe, born in 1974, was educated in Hull and Essex and diagnosed with dyslexia in March 1991.",
+        "He claimed local education authorities negligently failed to identify and ameliorate his dyslexia, causing personal injury and loss.",
+        "Writ issued in September 1998, more than three years after his eighteenth birthday in October 1992.",
+        "The trial judge held the claim not time-barred and said he would exercise section 33 discretion; the authorities appealed on limitation as a preliminary issue."
+      ],
+      "procedural_posture": "Defendants' appeal to the Court of Appeal from a High Court preliminary issue decision on limitation.",
+      "outcome": "Appeal allowed; action held statute-barred; section 33 discretion refused; permission to appeal refused.",
+      "ratio": "Knowledge under section 14(1)(a) is of the fact of a significant injury, not of legal entitlement to sue; where a claimant knew before majority that he was dyslexic, remedial steps existed and had not been taken, time began at eighteen, and section 33 should not be exercised where the passage of time has substantially impaired the defendants' ability to defend stale school-negligence claims.",
+      "legal_issues": [
+        "When the claimant acquired knowledge of a significant injury under section 14(1)(a)",
+        "Whether Phelps v Hillingdon changed the date of knowledge",
+        "Whether section 14 should be read compatibly with Article 6",
+        "Whether the judge misdirected himself in exercising section 33 discretion"
+      ],
+      "catchwords": [
+        "limitation",
+        "date of knowledge",
+        "section 33 discretion",
+        "dyslexia",
+        "education authority negligence",
+        "stale claims"
+      ],
+      "index_terms": [
+        "Kingston upon Hull City Council",
+        "Essex County Council",
+        "Phelps v Hillingdon",
+        "Robinson v St Helens",
+        "Dobbie v Medway"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Phelps v Hillingdon London Borough Council",
+          "citation": "[2001] 2 AC 619",
+          "relation": "applied"
+        },
+        {
+          "name": "Robinson v St Helens Metropolitan Borough Council",
+          "citation": "[2002] ELR 681",
+          "relation": "applied"
+        },
+        {
+          "name": "Dobbie v Medway Health Authority",
+          "citation": "[1994] 1 WLR 1234",
+          "relation": "applied"
+        },
+        {
+          "name": "Stubbings v United Kingdom",
+          "citation": "[1996] 23 EHRR 213",
+          "relation": "applied"
+        },
+        {
+          "name": "KR v Bryn Alyn Community (Holdings) Ltd",
+          "citation": "[2003] 3 WLR 107",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full judgment with detailed limitation and discretion analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1832.json",
+    "status": "done",
+    "notes": "Complete judicial review on mandatory disabled facilities grant under section 23(1)(b).",
+    "enrichment": {
+      "short_title": "Loft bedroom grant refused where extra room would alleviate but not make home safe for autistic child",
+      "area_of_law": [
+        "Housing law",
+        "Public law",
+        "Judicial review",
+        "Disability"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Grants, Construction and Regeneration Act 1996",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 23(1)(b)",
+            "section 23(1)(d)",
+            "section 24(1)",
+            "section 24(3)",
+            "section 100"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr and Mrs B sought a mandatory disabled facilities grant to convert their loft into an extra bedroom for their son DB, who has dyspraxia and Asperger's syndrome.",
+        "DB shared a bedroom with his brother SB and displayed aggressive behaviour at home, though school reports were more positive.",
+        "Occupational therapists concluded the main issue was overcrowding and behavioural management rather than a mandatory safety adaptation.",
+        "Calderdale refused the grant on the basis that the works were not within section 23(1)(b) and were not necessary and appropriate under section 24(3)."
+      ],
+      "procedural_posture": "Judicial review of Calderdale Metropolitan Borough Council's refusal of a mandatory disabled facilities grant.",
+      "outcome": "Claim dismissed; permission to appeal granted.",
+      "ratio": "Section 23(1)(b) requires works whose purpose is to make the dwelling safe for the disabled occupant and others residing with him, not merely safer; where behavioural problems persist throughout the home, providing an extra bedroom may be beneficial but does not necessarily make the premises safe, and the authority lawfully distinguished mandatory safety grants from sleeping accommodation under paragraph (d).",
+      "legal_issues": [
+        "Whether loft conversion fell within section 23(1)(b) mandatory purposes",
+        "Whether 'safe' means wholly safe or materially safer",
+        "Whether section 24(3) necessity and appropriateness were lawfully assessed",
+        "Whether irrelevant considerations rendered the decision unlawful"
+      ],
+      "catchwords": [
+        "disabled facilities grant",
+        "section 23(1)(b)",
+        "Asperger's syndrome",
+        "challenging behaviour",
+        "housing adaptation",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Calderdale Metropolitan Borough Council",
+        "Circular 17/96",
+        "mandatory DFG",
+        "occupational therapist assessment",
+        "overcrowding"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment with detailed statutory construction and fact-specific safety assessment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2063.json",
+    "status": "done",
+    "notes": "Complete judicial review quashing section 94(3) certification for Albanian blood-feud claim.",
+    "enrichment": {
+      "short_title": "Albanian blood-feud certification quashed where Secretary of State failed to weigh claim properly",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 94(3)",
+            "section 94(4)",
+            "section 94(5)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Albanian claimant sought asylum/human rights protection based on a long-running family blood feud with the Dodaj family, including recent threats in Tirana.",
+        "Albania was listed under section 94(4); the Secretary of State certified the claim under section 94(3) as not clearly unfounded.",
+        "The claimant had reported threats to police and fled internally before leaving for the UK; objective country evidence showed continuing blood-feud killings and limited state protection.",
+        "The claimant had been removed to Albania before permission was granted, but the challenge proceeded through his father."
+      ],
+      "procedural_posture": "Judicial review of the Secretary of State's section 94(3) certification.",
+      "outcome": "Claim succeeded; certification quashed; costs awarded to claimant; permission to appeal refused.",
+      "ratio": "Certification under section 94(3) requires anxious scrutiny of the individual claim against objective country material; where blood-feud cases admit more than one legitimate view on sufficiency of protection, and the decision-maker gives insufficient weight to the depth of the feud and contemporaneous tribunal decisions such as Brozi and Koci, certification as clearly unfounded is unlawful.",
+      "legal_issues": [
+        "The ZL & VL approach to section 94(3) certification",
+        "Whether sufficiency of protection in Albania was clearly established",
+        "Whether failure to use reconciliation services defeated the claim",
+        "Whether the Secretary of State adequately weighed the claimant's particular feud history"
+      ],
+      "catchwords": [
+        "section 94 certification",
+        "clearly unfounded",
+        "blood feud",
+        "Albania",
+        "sufficiency of protection",
+        "Horvath"
+      ],
+      "index_terms": [
+        "Kanun of Lek Dukagjini",
+        "Entry Clearance Officer Lagos",
+        "CIPU country report",
+        "Brozi",
+        "Koci",
+        "Tirana"
+      ],
+      "linked_authorities": [
+        {
+          "name": "ZL & VL v Secretary of State for the Home Department",
+          "citation": "[2003] EWCA Civ 25",
+          "relation": "applied"
+        },
+        {
+          "name": "Horvath v Secretary of State for the Home Department",
+          "citation": "[2001] 1 AC 489",
+          "relation": "applied"
+        },
+        {
+          "name": "Alfred Brozi",
+          "citation": "[2002] UKIAT 06978",
+          "relation": "considered"
+        },
+        {
+          "name": "Koci",
+          "citation": "[2002] UKIAT 08006",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment with detailed fact and country guidance analysis; outcome clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1846.json",
+    "status": "done",
+    "notes": "Very long Chancery judgment; enrichment based on full text including conclusion at paragraph 290.",
+    "enrichment": {
+      "short_title": "Earl denied life interest in Shirburn Castle but entitled to two years' notice as licensee",
+      "area_of_law": [
+        "Property law",
+        "Equity",
+        "Landlord and tenant",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 320"
+          ]
+        },
+        {
+          "title": "Protection from Eviction Act 1977",
+          "provisions": [
+            "section 5(1A)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Shirburn Castle and estate are owned by Shirburn Estate Company Ltd, controlled by branches of the Parker/Macclesfield family.",
+        "In 1993 the Ninth Earl moved from Portobello Farm into the castle while negotiating, through Cluttons, for a tenancy at arm's length.",
+        "Family negotiations to grant him a life occupancy failed; the company served short notices to quit in 2002.",
+        "The Earl claimed proprietary estoppel/life occupancy; Fentville occupied the Old Stores and claimed similar rights."
+      ],
+      "procedural_posture": "Trial of preliminary issues ordered by Master Price on the legal and equitable rights of the Earl and Fentville in the castle and Old Stores.",
+      "outcome": "Proprietary estoppel claim rejected; Earl and Fentville held to occupy as licensees requiring not less than two years' dated notice to vacate; short notices invalid.",
+      "ratio": "A vague expectation of life occupancy of part of a complex historic castle, coupled with a reserved right to reject arbitrator-determined lease terms, is too uncertain for proprietary estoppel; where occupation was granted to facilitate arm's-length lease negotiations, the occupier was a licensee revocable only on not less than two years' notice once negotiations broke down.",
+      "legal_issues": [
+        "Whether the Earl established proprietary estoppel to a life interest in Shirburn Castle",
+        "Whether occupation was a tenancy or licence",
+        "What notice was required to terminate the licence",
+        "Whether section 320 of the Companies Act 1985 invalidated any arrangement"
+      ],
+      "catchwords": [
+        "proprietary estoppel",
+        "licence",
+        "Shirburn Castle",
+        "family estate company",
+        "notice to quit",
+        "life occupancy"
+      ],
+      "index_terms": [
+        "Earl of Macclesfield",
+        "Shirburn Estate Company",
+        "Fentville",
+        "Old Stores",
+        "Portobello Farm",
+        "Crabb v Arun DC"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Crabb v Arun District Council",
+          "citation": "[1976] Ch 179",
+          "relation": "applied"
+        },
+        {
+          "name": "Jennings v Rice",
+          "citation": "[2003] 1 P & CR 100",
+          "relation": "applied"
+        },
+        {
+          "name": "Javad v Aqil",
+          "citation": "[1991] 1 WLR 1007",
+          "relation": "considered"
+        },
+        {
+          "name": "Ministry of Health v Bellotti",
+          "citation": "[1944] 1 KB 298",
+          "relation": "applied"
+        },
+        {
+          "name": "Willis v Hoare",
+          "citation": "[1999] EWCA Civ 287",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Extremely long narrative judgment but conclusion and core legal holdings are explicit; some intermediate factual detail omitted from enrichment."
+      }
+    }
+  }
+]

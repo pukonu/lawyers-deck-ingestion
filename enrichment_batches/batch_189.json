@@ -1,0 +1,818 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2968.json",
+    "status": "done",
+    "notes": "Complete Admin Court judgment on s72 manifestly unfounded certification for Dublin removal to Germany.",
+    "enrichment": {
+      "short_title": "Immigration JR: manifestly unfounded human rights certification for removal to Germany under Dublin Convention",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law",
+        "Human rights law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": ["s 11(2)(a)", "s 11(3)", "s 65", "s 72(1)", "s 72(2)(a)"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art 3", "Art 8(1)", "Art 8(2)"]
+        }
+      ],
+      "key_facts": [
+        "Mrs H, a Kosovan Albanian with mixed Serbian ethnicity, sought asylum in the UK after earlier failed asylum claims in Germany; Germany accepted responsibility under the Dublin Convention for her and her children.",
+        "She claimed removal to Germany would breach Articles 3 and 8 because of PTSD and depression following rape, supported by psychiatric evidence mainly focused on fear of return to Kosovo rather than Germany.",
+        "The Secretary of State certified her human rights claim as manifestly unfounded under section 72(2)(a), and her son Bl had developmental and speech difficulties but no evidence that special needs could not be met in Germany."
+      ],
+      "procedural_posture": "Judicial review of the Secretary of State's certificate under section 72(2)(a) of the Immigration and Asylum Act 1999, limited at hearing to the lawfulness of certification.",
+      "outcome": "Application for judicial review dismissed; certification upheld.",
+      "ratio": "Where the Secretary of State reasonably concludes, applying the Yogathas/Razgar test, that a human rights claim would clearly be bound to fail before an adjudicator, he is entitled to certify it as manifestly unfounded; on the evidence here, removal to Germany with access to modern medical and educational services did not arguably engage Article 3 or Article 8(1), and any Article 8(2) justification for maintaining immigration control was within the range of permissible responses.",
+      "legal_issues": [
+        "Whether removal to Germany would arguably breach Article 3 because of the claimant's psychiatric condition",
+        "Whether Article 8(1) was arguably engaged for the claimant or her son by removal to Germany",
+        "Whether the Secretary of State was entitled to certify the human rights claims as manifestly unfounded",
+        "Whether Article 8(2) justified removal in pursuit of effective immigration control and Dublin transfers"
+      ],
+      "catchwords": [
+        "manifestly unfounded certificate",
+        "section 72",
+        "Dublin Convention",
+        "Article 3",
+        "Article 8",
+        "removal to safe third country",
+        "PTSD",
+        "immigration judicial review"
+      ],
+      "index_terms": [
+        "R (H) v SSHD",
+        "Yogathas",
+        "Razgar",
+        "Djali",
+        "N v SSHD",
+        "Edore",
+        "Dublin removal Germany",
+        "human rights certification"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Yogathas and Thangarasa v SSHD",
+          "citation": "[2003] 1 AC 920"
+        },
+        {
+          "name": "Razgar and others v SSHD",
+          "citation": "[2003] EWCA Civ 840"
+        },
+        {
+          "name": "N v Secretary of State for the Home Department",
+          "citation": "C1/2003/0915"
+        },
+        {
+          "name": "Edore v Secretary of State for the Home Department",
+          "citation": "[2003] 3 All ER 1265"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment available with clear statutory framework, facts and conclusion on certification."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1746.json",
+    "status": "done",
+    "notes": "Landmark EWCA Civ judgment on Data Protection Act 1998 subject access, personal data and relevant filing systems.",
+    "enrichment": {
+      "short_title": "Durant v FSA: narrow meaning of personal data and restrictive test for relevant filing systems under the DPA 1998",
+      "area_of_law": [
+        "Data protection",
+        "Information law",
+        "Privacy law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": ["s 1(1)", "s 7(1)", "s 7(4)-(6)", "s 7(9)", "s 8(2)", "s 8(7)", "s 15(2)", "s 27(5)"]
+        },
+        {
+          "title": "Financial Services and Markets Act 2000",
+          "provisions": ["s 348"]
+        },
+        {
+          "title": "Banking Act 1987",
+          "provisions": ["ss 82-85"]
+        },
+        {
+          "title": "Directive 95/46/EC",
+          "provisions": ["Art 2(a)", "Art 2(c)", "Art 12", "Art 13", "Recitals (1)-(3)", "Recital (10)", "Recital (15)", "Recital (27)"]
+        }
+      ],
+      "key_facts": [
+        "Mr Durant sought further disclosure from the FSA under section 7 of the Data Protection Act 1998 relating to its investigation of his complaint against Barclays Bank.",
+        "The FSA had disclosed some computerised records but refused access to manual files, arguing the material was not his personal data and/or not part of a relevant filing system.",
+        "The Court of Appeal inspected withheld material and held that complaint investigation files mentioning Durant were not personal data focused on him and that the FSA's manual systems lacked the structured indexing required by the Act."
+      ],
+      "procedural_posture": "Appeal with permission from Edmonton County Court against refusal of a section 7(9) order for further subject access disclosure.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Personal data under section 1(1) of the Data Protection Act 1998 is information biographically significant about, and focused on, the data subject rather than mere mention of him in documents about third parties or complaints he instigated; a relevant filing system must be structured and indexed so that specific personal data about an individual is readily accessible in a manner broadly comparable to computerised retrieval; courts reviewing section 7(4) reasonableness apply anxious scrutiny rather than rehearing the merits, and section 7(9) confers a broad discretion.",
+      "legal_issues": [
+        "What information 'relates to' a data subject for the purposes of personal data",
+        "What constitutes a relevant filing system for manual records",
+        "How section 7(4) balances a data subject's access rights against third-party privacy",
+        "The scope of the court's discretion under section 7(9)"
+      ],
+      "catchwords": [
+        "personal data",
+        "relevant filing system",
+        "subject access request",
+        "section 7 DPA 1998",
+        "redaction",
+        "data controller",
+        "Financial Services Authority",
+        "Directive 95/46"
+      ],
+      "index_terms": [
+        "Durant v FSA",
+        "Campbell v MGN",
+        "Gaskin v United Kingdom",
+        "Lindqvist",
+        "R v Brown",
+        "subject access",
+        "manual filing systems"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Campbell v MGN Ltd",
+          "citation": "[2002] EWCA Civ 1373"
+        },
+        {
+          "name": "Gaskin v United Kingdom",
+          "citation": "[1990] 1 FLR 167"
+        },
+        {
+          "name": "Criminal Proceedings against Lindqvist",
+          "citation": "Case C-101/01"
+        },
+        {
+          "name": "R v Brown",
+          "citation": "[1996] AC 543"
+        },
+        {
+          "name": "R (Lord) v SSHD",
+          "citation": "[2003] EWHC 2073 (Admin)"
+        }
+      ],
+      "confidence": {
+        "score": 0.97,
+        "level": "high",
+        "notes": "Authoritative leading judgment with detailed analysis of all four issues; widely cited authority."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/2971.json",
+    "status": "done",
+    "notes": "Complete QB libel judgment striking out qualified privilege defence before jury trial.",
+    "enrichment": {
+      "short_title": "Wood v West Midlands Police: qualified privilege struck out where police warned insurers about unconvicted suspect before trial",
+      "area_of_law": [
+        "Defamation",
+        "Tort law",
+        "Police law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Pt 3.4", "Pt 24"]
+        },
+        {
+          "title": "Police (Conduct) Regulations 1999",
+          "provisions": ["Sch 1 para 2"]
+        }
+      ],
+      "key_facts": [
+        "DCI Mulligan wrote letters and a fax in September 1999 to insurance industry contacts about Gary Hart, arrested and charged with handling stolen vehicles linked to Vehicle Salvage Group Ltd, urging recipients to reconsider doing business with Hart.",
+        "Mr Woods, co-founder and director of VSG, brought libel proceedings alleging the words meant he aided and abetted Hart's criminal offences; Mulligan said he did not know Woods existed.",
+        "Hart's trial was later stopped for disclosure abuse; Mulligan's conduct was investigated and he received professional standards advice."
+      ],
+      "procedural_posture": "Pre-trial application under CPR Parts 3.4 and 24 to strike out the defendant's qualified privilege defence before a jury trial listed for December 2003.",
+      "outcome": "Qualified privilege defence struck out; no real prospect of success on that defence.",
+      "ratio": "Applying Thorpe principles, police disclosure of damaging non-public information about a person not yet convicted requires a pressing public need, careful judgment, safeguards and consultation; Mulligan's personal initiative to warn insurers lacked lawful justification, was not materially effective in preventing crime, and could not attract qualified privilege even assuming the words referred to and defamed the claimant.",
+      "legal_issues": [
+        "Whether police communications to insurers about a charged but unconvicted suspect were on an occasion of qualified privilege",
+        "Application of public law disclosure principles from R v Chief Constable of North Wales Police, ex p Thorpe to libel qualified privilege",
+        "Whether the defence was fact-sensitive or could be determined summarily under CPR Part 24"
+      ],
+      "catchwords": [
+        "qualified privilege",
+        "libel",
+        "police disclosure",
+        "strike out",
+        "CPR Part 24",
+        "insurance industry warning",
+        "unconvicted suspect",
+        "Thorpe"
+      ],
+      "index_terms": [
+        "Wood v West Midlands Police",
+        "Halford v Chief Constable of Hampshire",
+        "Downtex v Flatley",
+        "Kearns v General Council of the Bar",
+        "Vehicle Salvage Group",
+        "Gary Hart",
+        "ACPO ABI information exchange"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Chief Constable of North Wales Police, ex p Thorpe",
+          "citation": "[1999] QB 396"
+        },
+        {
+          "name": "Halford v Chief Constable of Hampshire",
+          "citation": "[2003] EWCA Civ 102"
+        },
+        {
+          "name": "Downtex v Flatley",
+          "citation": "[2003] EWCA Civ 1282"
+        },
+        {
+          "name": "Kearns v General Council of the Bar",
+          "citation": "[2003] EWCA Civ 331"
+        },
+        {
+          "name": "Marcel v Commissioner of Police for the Metropolis",
+          "citation": "[1992] Ch 225"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed pre-trial judgment with full analysis of privilege law and assumed facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1767.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ judgment on TUPE commercial venture exception and Francovich damages claim.",
+    "enrichment": {
+      "short_title": "Alderson v SSI: Liverpool refuse collection held a commercial venture under pre-1993 TUPE despite council operation",
+      "area_of_law": [
+        "Employment law",
+        "EU law",
+        "Public procurement",
+        "Local government"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Transfer of Undertakings (Protection of Employment) Regulations 1981",
+          "provisions": ["reg 2(1) definition of undertaking"]
+        },
+        {
+          "title": "Council Directive 77/187/EEC (Acquired Rights Directive)",
+          "provisions": ["Art 1"]
+        },
+        {
+          "title": "Trade Union Reform and Employment Rights Act 1993",
+          "provisions": ["s 33(1)", "s 33(2)", "s 51", "Sch 10"]
+        },
+        {
+          "title": "Directive 2001/23/EC",
+          "provisions": ["Art 1.1(a)-(c)"]
+        }
+      ],
+      "key_facts": [
+        "Liverpool City Council transferred its refuse collection service to Onyx UK Ltd under a contract allowing Onyx to operate for profit.",
+        "Onyx offered employment to some former council refuse workers on less favourable terms; about 2,000 employees' claims turned on whether TUPE applied.",
+        "The pre-1993 TUPE definition excluded undertakings not 'in the nature of a commercial venture'; the claimants sought Francovich damages for defective transposition of the Acquired Rights Directive."
+      ],
+      "procedural_posture": "Appeal from Newman J on whether the council's refuse service before transfer was an undertaking in the nature of a commercial venture under TUPE 1981.",
+      "outcome": "Appeal dismissed; employees within TUPE protection and no Francovich damages claim.",
+      "ratio": "TUPE must be construed purposively to accord with the Acquired Rights Directive so far as possible; where an undertaking after transfer is operated as a commercial venture and before transfer had the same characteristics save that it was not run for profit, the pre-transfer service will normally be 'in the nature of a commercial venture', and Liverpool's refuse collection service satisfied that test.",
+      "legal_issues": [
+        "Meaning of 'in the nature of a commercial venture' in TUPE 1981",
+        "Whether a local authority refuse service run under statutory duty but transferred to a for-profit contractor fell within TUPE",
+        "Effect of Commission v UK and Woodcock on construing the commercial venture exception",
+        "Whether Francovich damages were available for defective implementation of the ARD"
+      ],
+      "catchwords": [
+        "TUPE",
+        "commercial venture",
+        "Acquired Rights Directive",
+        "refuse collection outsourcing",
+        "local authority transfer",
+        "Francovich damages",
+        "undertaking transfer"
+      ],
+      "index_terms": [
+        "Alderson v SSI",
+        "Woodcock v Friends School Wigton",
+        "UK Waste Control v Wren",
+        "Commission v UK",
+        "Litster v Forth Dry Dock",
+        "Liverpool refuse service",
+        "Onyx UK"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Woodcock and others v Committee for the Time Being of the Friends School, Wigton",
+          "citation": "[1987] IRLR 98"
+        },
+        {
+          "name": "Commission of the European Communities v United Kingdom",
+          "citation": "[1994] ICR 664"
+        },
+        {
+          "name": "UK Waste Control v Wren",
+          "citation": "[1995] ICR 974"
+        },
+        {
+          "name": "Litster v Forth Dry Dock and Engineering Co Ltd",
+          "citation": "[1990] 1 AC 546"
+        },
+        {
+          "name": "Francovich & another v the Italian Republic",
+          "citation": "Case C-6/90"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full appellate judgment on statutory construction with clear outcome affecting 2,000 employees."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/3451.json",
+    "status": "done",
+    "notes": "Complete Commercial Court section 69 appeal on validity of notice of readiness in FOB grain sale contracts.",
+    "enrichment": {
+      "short_title": "Agrimex v Tradigrain: notice of readiness valid at anchorage when berth unavailable despite unready holds",
+      "area_of_law": [
+        "Commercial law",
+        "Sale of goods",
+        "Shipping law",
+        "Arbitration"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": ["s 69"]
+        }
+      ],
+      "key_facts": [
+        "Agrimex sold Ukrainian/Russian feed wheat FOB Illychevsk to Tradigrain under GAFTA contracts incorporating charterparty laytime and demurrage terms.",
+        "MV Mastra Giorgis tendered notice of readiness at anchorage on 11 March 1999 while the berth was occupied and her holds were not fit to load until cleaning on 27 March 1999.",
+        "Tradigrain claimed demurrage; the GAFTA Board upheld validity of the NOR and Agrimex appealed under section 69."
+      ],
+      "procedural_posture": "Appeal on a point of law under section 69 of the Arbitration Act 1996 from a GAFTA Board of Appeal award.",
+      "outcome": "Appeal dismissed; tribunal decision upheld.",
+      "ratio": "Where FOB sale contracts provide demurrage and laytime 'as per charterparty' and incorporate WIPON/WIBON terms, a notice of readiness valid under the charterparty when the berth is unavailable and the master warrants readiness from anchorage is also valid under the sale contracts; the reference to a 'valid' notice does not require physical readiness if the incorporated charterparty permits tender in those circumstances.",
+      "legal_issues": [
+        "Whether a notice of readiness can be valid under sale contracts when the vessel is not physically ready to load",
+        "Extent of incorporation of charterparty laytime provisions into FOB grain contracts",
+        "Interaction between sale contract NOR clauses and Synacomex 90 charterparty clause 8"
+      ],
+      "catchwords": [
+        "notice of readiness",
+        "demurrage",
+        "FOB sale contract",
+        "charterparty incorporation",
+        "WIPON",
+        "laytime",
+        "GAFTA arbitration",
+        "section 69 appeal"
+      ],
+      "index_terms": [
+        "Agrimex v Tradigrain",
+        "The Tres Flores",
+        "OK Petroleum v Vitol",
+        "Gill & Duffus v Rionda",
+        "The Northern Progress",
+        "Synacomex 90",
+        "grain sales FOB"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Tres Flores",
+          "citation": "[1973] 2 Lloyd's Rep 247"
+        },
+        {
+          "name": "OK Petroleum AB v Vitol Energy SA",
+          "citation": "[1995] 2 Lloyd's Rep 160"
+        },
+        {
+          "name": "Gill & Duffus SA v Rionda Futures Ltd",
+          "citation": "[1994] 2 Lloyd's Rep 67"
+        },
+        {
+          "name": "The Northern Progress",
+          "citation": "[1996] 2 Lloyd's Rep 319"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed Commercial Court judgment on contract construction with clear common ground and holding."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3252.json",
+    "status": "done",
+    "notes": "Complete Admin Court judgment refusing JR of PCT refusal to fund recombinant Factor VIII outside DoH phased rollout.",
+    "enrichment": {
+      "short_title": "Longstaff v Newcastle PCT: refusal to fund recombinant Factor VIII for adult refusing plasma product upheld",
+      "area_of_law": [
+        "Healthcare law",
+        "Administrative law",
+        "Human rights law",
+        "Disability discrimination"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Disability Discrimination Act 1995",
+          "provisions": ["s 20"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["s 6", "s 7"]
+        },
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": ["s 13"]
+        },
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": ["s 22(10)"]
+        }
+      ],
+      "key_facts": [
+        "The claimant, an adult haemophiliac with HIV/HCV, refused plasma-derived Factor VIII from May 2000 and sought NHS funding for recombinant Factor VIII on clinical need grounds.",
+        "Newcastle NHS Primary Care Trust refused funding outside Department of Health criteria, which prioritised under-16s and new patients and planned phased adult rollout from February 2003.",
+        "The claimant had untreated joint bleeds, chronic liver disease and feared theoretical blood-borne infection risks from plasma products."
+      ],
+      "procedural_posture": "Judicial review of PCT decisions communicated in letters of 18 February and 18 March 2003 refusing recombinant Factor VIII funding; permission granted on limited grounds after refusal on the papers.",
+      "outcome": "Claim dismissed on all remaining grounds.",
+      "ratio": "A PCT's refusal to fund recombinant Factor VIII outside national phased rollout criteria, where clinically effective plasma-derived treatment was available and the patient chose to refuse it based on theoretical infection fears shared by the Department of Health, was within its broad discretion; challenges based on misapplication of the 1998 circular, failure to investigate the patient's reasons, and Disability Discrimination Act discrimination failed.",
+      "legal_issues": [
+        "Whether the PCT misapplied the 1998 Health Service Circular by treating funding categories as exclusive",
+        "Whether the PCT failed to act fairly by not seeking further information about the patient's refusal of plasma treatment",
+        "Whether the patient's refusal of treatment was an irrelevant consideration",
+        "Whether the 1998 circular unlawfully discriminated under the Disability Discrimination Act 1995"
+      ],
+      "catchwords": [
+        "NHS funding",
+        "recombinant Factor VIII",
+        "haemophilia",
+        "plasma-derived product refusal",
+        "Primary Care Trust discretion",
+        "Department of Health circular",
+        "judicial review healthcare",
+        "Disability Discrimination Act"
+      ],
+      "index_terms": [
+        "Longstaff v Newcastle PCT",
+        "Re T (Adult: Refusal of Treatment)",
+        "St George's NHS Trust v S",
+        "Clark v Novacold",
+        "vCJD blood products",
+        "clinical effectiveness",
+        "treatment strike"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re T (Adult: Refusal of Treatment)",
+          "citation": "[1993] Fam 95"
+        },
+        {
+          "name": "St George's Healthcare NHS Trust v S",
+          "citation": "[1999] Fam 26"
+        },
+        {
+          "name": "Clark v Novacold Ltd",
+          "citation": "[1999] ICR 951"
+        },
+        {
+          "name": "R v P Borough Council ex p S",
+          "citation": "[1999] Fam 188"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Long but complete judgment; multiple grounds addressed with clear overall dismissal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3556.json",
+    "status": "done",
+    "notes": "CCRC-referred appeal of Ruth Ellis murder conviction; pre-1957 provocation law applied.",
+    "enrichment": {
+      "short_title": "Ellis v R: Ruth Ellis murder conviction safe where pre-1957 provocation law excluded weekend omissions as trigger",
+      "area_of_law": [
+        "Criminal law",
+        "Homicide",
+        "Criminal appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Homicide Act 1957",
+          "provisions": ["s 2", "s 3"]
+        }
+      ],
+      "key_facts": [
+        "Ruth Ellis shot dead David Blakely outside a Hampstead pub on 10 April 1955 after a turbulent jealous relationship involving his violence and her discovery of his Easter weekend absence with friends.",
+        "She admitted killing him, was convicted of murder in 1955 and executed; the CCRC referred the case because the trial judge withdrew provocation from the jury.",
+        "The judge ruled that no reasonable jury could find provocation reducing murder to manslaughter on the pre-1957 common law test."
+      ],
+      "procedural_posture": "Reference by the Criminal Cases Review Commission to the Court of Appeal (Criminal Division) against a 1955 murder conviction where no appeal had been brought at the time.",
+      "outcome": "Appeal dismissed; conviction held safe under the law applicable at trial.",
+      "ratio": "Applying pre-Homicide Act 1957 provocation law, the deceased's omissions and concealment over the Easter weekend were not acts capable of provoking a sudden temporary loss of self-control; post-1957 developments including Camplin and personal characteristics cannot be applied retrospectively, and the judge was entitled to withdraw provocation where the response was premeditated, disproportionate and not triggered by a recognised provocative act.",
+      "legal_issues": [
+        "Whether the trial judge wrongly withdrew provocation from the jury",
+        "Whether intentional killing precluded a provocation defence under pre-1957 law",
+        "Whether post-1957 statutory and common law developments could be applied on a CCRC reference",
+        "Whether fresh psychiatric evidence could support diminished responsibility retrospectively"
+      ],
+      "catchwords": [
+        "provocation",
+        "murder",
+        "manslaughter",
+        "CCRC reference",
+        "Ruth Ellis",
+        "pre-1957 law",
+        "sudden loss of self-control",
+        "Holmes v DPP"
+      ],
+      "index_terms": [
+        "Ellis v R",
+        "Holmes v DPP",
+        "R v Duffy",
+        "Stingel v The Queen",
+        "R v Bentley",
+        "Camplin",
+        "historical conviction appeal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Holmes v DPP",
+          "citation": "[1946] AC 588"
+        },
+        {
+          "name": "R v Duffy",
+          "citation": "[1949] 1 All ER 932"
+        },
+        {
+          "name": "Stingel v The Queen",
+          "citation": "(1990) 171 CLR 312"
+        },
+        {
+          "name": "R v Derek Bentley",
+          "citation": "(2001) 1 Cr App R 307"
+        },
+        {
+          "name": "AG for Ceylon v Kumarasinhege",
+          "citation": "[1953] AC 200"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with detailed historical law analysis and clear dismissal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2969.json",
+    "status": "done",
+    "notes": "Complete Admin Court judgment quashing Schools Adjudicator reduction of partial selection at Ernest Bevin College.",
+    "enrichment": {
+      "short_title": "Wandsworth v Schools Adjudicator: irrational 30% partial selection reduction at Ernest Bevin where intake already balanced",
+      "area_of_law": [
+        "Education law",
+        "Administrative law",
+        "School admissions"
+      ],
+      "statutes_considered": [
+        {
+          "title": "School Standards and Framework Act 1998",
+          "provisions": ["s 88(2)", "s 89(1)", "s 90(2)", "s 90(3)", "s 90(6)", "s 90(7)", "s 90(8)", "s 100", "s 101"]
+        },
+        {
+          "title": "Education (Objection to Admission Arrangements) Regulations 1999",
+          "provisions": ["reg 6", "reg 9"]
+        }
+      ],
+      "key_facts": [
+        "Parents in North Battersea objected to partial selection by ability at Ernest Bevin College, Graveney School and Burntwood School, arguing selective schools creamed off able pupils and harmed Battersea Technology College.",
+        "The Schools Adjudicator found BTC suffered an unbalanced intake but upheld partial selection while reducing selective places at EBC from 33% to 30%, GS to 25% and BS to 25%.",
+        "Evidence showed EBC's intake was not significantly imbalanced compared with borough averages or BTC, unlike GS and BS."
+      ],
+      "procedural_posture": "Judicial review by Wandsworth LBC as admissions authority for Ernest Bevin College of the Schools Adjudicator's determination on objections to 2004/5 admission arrangements.",
+      "outcome": "Permission granted; decision quashed insofar as it reduced partial selection at Ernest Bevin College.",
+      "ratio": "Where objectors' core complaint that partial selection caused an unfairly able-heavy intake failed in respect of EBC because its intake was already balanced, it was irrational to reduce EBC's selective quota by 3% on a speculative ripple-effect theory that a few more able pupils might indirectly reach BTC; partial selection was not a sufficient or primary cause of the unfairness identified.",
+      "legal_issues": [
+        "Scope of the Schools Adjudicator's jurisdiction to modify admission arrangements beyond the objectors' specific grounds",
+        "Whether the Adjudicator erred in reducing EBC's partial selection despite finding no significant intake imbalance at that school",
+        "Rationality of a remedy affecting EBC based on cumulative impact across three partially selective schools",
+        "Natural justice and adequacy of reasons in school admissions adjudication"
+      ],
+      "catchwords": [
+        "school admissions",
+        "partial selection",
+        "Schools Adjudicator",
+        "judicial review",
+        "fair banding",
+        "intake balance",
+        "Wandsworth",
+        "Ernest Bevin College"
+      ],
+      "index_terms": [
+        "Wandsworth v Schools Adjudicator",
+        "Battersea Technology College",
+        "Graveney School",
+        "Burntwood School",
+        "section 90 SSFA 1998",
+        "Watford Grammar School v Adjudicator",
+        "Wirral v Chief Schools Adjudicator"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Queen on the Application of Watford Grammar School for Girls v The Adjudicator for Schools",
+          "citation": "CO/4304/2003"
+        },
+        {
+          "name": "Metropolitan Borough of Wirral v The Chief Schools Adjudicator",
+          "citation": "CO/3642/2000"
+        },
+        {
+          "name": "R v the Schools Adjudicator, ex parte Wirral (No 1)",
+          "citation": "[2000] ELR 2620"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed determination analysed at length; quashing limited to EBC with clear irrationality reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3868.json",
+    "status": "done",
+    "notes": "Complete EWCA Crim judgment on section 23 OAPA unlawful act manslaughter by supplying/preparing heroin.",
+    "enrichment": {
+      "short_title": "R v Finlay: preparing heroin and handing loaded syringe can 'cause' administration under section 23 OAPA 1861",
+      "area_of_law": [
+        "Criminal law",
+        "Homicide",
+        "Drugs offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": ["s 23"]
+        }
+      ],
+      "key_facts": [
+        "Jasmine Grosvenor, a drug-dependent woman who could not prepare heroin herself, died after injecting heroin prepared and supplied in a syringe by Paul Finlay.",
+        "Finlay was acquitted on count 1 (direct injection) but convicted on count 2 of manslaughter based on unlawful act manslaughter via section 23.",
+        "The judge left count 2 to the jury on causation principles, applying Kennedy, Dias and the then-recent Rogers."
+      ],
+      "procedural_posture": "Appeal against conviction for manslaughter following trial at Winchester Crown Court in February 2002.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "A defendant who cooks heroin, loads a syringe and hands it to a user who self-injects may commit section 23 by causing the noxious thing to be taken even without wielding the syringe, provided his acts are a cause of the administration and the victim's self-injection is not an extraordinary novus actus; R v Rogers joint principalship and Environment Agency v Empress Car Co causation principles apply.",
+      "legal_issues": [
+        "Whether section 23 can be committed by causing self-administration without physically injecting",
+        "Correct approach to causation where the victim injects herself",
+        "Application of R v Kennedy, R v Dias and R v Rogers to drug supply manslaughter",
+        "Whether the judge should have withdrawn count 2 as no case to answer"
+      ],
+      "catchwords": [
+        "unlawful act manslaughter",
+        "section 23 OAPA 1861",
+        "heroin injection",
+        "causing administration",
+        "joint principal",
+        "novus actus interveniens",
+        "self-injection",
+        "drugs homicide"
+      ],
+      "index_terms": [
+        "R v Finlay",
+        "R v Kennedy",
+        "R v Dias",
+        "R v Rogers",
+        "Environment Agency v Empress Car Co",
+        "noxious thing",
+        "drug supply manslaughter"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Kennedy",
+          "citation": "[1999] Crim LR 65"
+        },
+        {
+          "name": "R v Dias",
+          "citation": "[2002] 2 Cr App R 5"
+        },
+        {
+          "name": "R v Rogers",
+          "citation": "[2003] 1 WLR 1374"
+        },
+        {
+          "name": "Environment Agency v Empress Car Co (Abertillery) Ltd",
+          "citation": "[1999] 2 AC 22"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full appellate judgment applying established post-Dias/Rogers authority with clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3114.json",
+    "status": "done",
+    "notes": "Complete Divisional Court judgment making indefinite civil proceedings order against vexatious litigant.",
+    "enrichment": {
+      "short_title": "Attorney General v Bhamjee: indefinite section 42 civil proceedings order for habitual vexatious litigation",
+      "area_of_law": [
+        "Civil procedure",
+        "Administrative law",
+        "Planning law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["s 42"]
+        },
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": ["s 22(10)"]
+        }
+      ],
+      "key_facts": [
+        "Mr Bhamjee failed in planning permission and judicial review challenges to Newham's refusal to allow a car cleaning business at his Forest Gate yard.",
+        "From 2000 he brought at least 14 claims and 25 applications/appeals against councils, barristers, the Bar Council, judges and others, all unsuccessful and often described as hopeless or abusive.",
+        "The Court of Appeal had already made a two-year extended Grepe v Loam order in related proceedings in July 2003."
+      ],
+      "procedural_posture": "Application by the Attorney General to the Divisional Court for a civil proceedings order under section 42 of the Supreme Court Act 1981 following an interim order.",
+      "outcome": "Civil proceedings order made without time limit; leave to appeal refused.",
+      "ratio": "Section 42 requires habitual, persistent litigation without reasonable ground that is vexatious; where a litigant repeatedly re-litigates the same hopeless points after exhausting legitimate remedies, subjects defendants to disproportionate harassment and abuses court process, an indefinite civil proceedings order is a proper exercise of discretion balancing the right to litigate against protection of others.",
+      "legal_issues": [
+        "Whether Mr Bhamjee habitually and persistently instituted vexatious proceedings without reasonable ground",
+        "Whether a section 42 order should be made without time limit",
+        "Relationship between section 42 orders and extended Grepe v Loam civil restraint orders",
+        "Whether prior judicial findings of hopeless or abusive proceedings may be relied on"
+      ],
+      "catchwords": [
+        "vexatious litigant",
+        "section 42",
+        "civil proceedings order",
+        "habitual litigation",
+        "abuse of process",
+        "Attorney General",
+        "planning appeal",
+        "Grepe v Loam"
+      ],
+      "index_terms": [
+        "Attorney General v Bhamjee",
+        "In Re Vernazza",
+        "Attorney-General v Barker",
+        "Attorney-General v Jones",
+        "Bhamjee v Forsdick",
+        "Newham planning",
+        "civil restraint order"
+      ],
+      "linked_authorities": [
+        {
+          "name": "In Re Vernazza",
+          "citation": "[1959] 1 WLR 622"
+        },
+        {
+          "name": "Attorney-General v Barker",
+          "citation": "[2000] 1 FLR 759"
+        },
+        {
+          "name": "Attorney-General v Jones",
+          "citation": "[1991] 1 WLR 859"
+        },
+        {
+          "name": "Bhamjee v Forsdick (No 2)",
+          "citation": "[2003] EWCA Civ 1113"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Comprehensive Divisional Court judgment cataloguing 19 proceedings with clear section 42 analysis."
+      }
+    }
+  }
+]

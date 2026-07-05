@@ -1,0 +1,1491 @@
+{
+  "judgments": [
+    {
+      "source_path": "data/judgments/ewca/civ/2002/215.json",
+      "status": "done",
+      "notes": "Catchup batch 1 generated manually for storyline backfill.",
+      "storyline": {
+        "title": "A drug trafficker's £750,000 confiscation order and a doomed section 14 application",
+        "summary": "After a Southwark Crown Court confiscation order based on assumed hidden assets, a court-appointed receiver recovered only £18,920. N'Guessan applied under section 14 of the Drug Trafficking Offences Act 1986 for a certificate of inadequacy, but Deputy Judge Beatson QC struck the application out as an abuse of process. The Court of Appeal refused permission to appeal at an oral hearing where the applicant, serving his sentence, did not appear.",
+        "span": {
+          "start": "1995-04-28",
+          "end": "2002-01-24",
+          "label": "April 1995 – January 2002"
+        },
+        "parties": [
+          {
+            "role": "applicant",
+            "name": "N'Guessan",
+            "short_name": "Applicant"
+          },
+          {
+            "role": "respondent",
+            "name": "Crown Prosecution Service",
+            "short_name": "CPS"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "conviction-and-confiscation",
+            "order": 1,
+            "date": "1995-04-28",
+            "date_label": "28 April 1995",
+            "date_precision": "exact",
+            "title": "Conviction and confiscation order at Southwark Crown Court",
+            "category": "background",
+            "actor": "His Honour Judge Rivlin QC",
+            "what_happened": "A jury convicted N'Guessan of conspiring to supply large quantities of crack cocaine. Judge Rivlin sentenced him to 20 years' imprisonment and, on the Crown's application, made a confiscation order of £750,000 based on benefit of at least £1.3 million and assumed realisable assets of £750,000, largely reflecting profits salted away abroad.",
+            "why_it_matters": "Fixed the confiscation sum and the Crown Court's assessment of realisable assets that the later section 14 application sought to reopen.",
+            "legal_hook": "Drug Trafficking Offences Act 1986 sections 1–4"
+          },
+          {
+            "id": "criminal-appeal",
+            "order": 2,
+            "date": "1996-03-08",
+            "date_label": "8 March 1996",
+            "date_precision": "exact",
+            "title": "Criminal appeal dismissed; confiscation unchallenged",
+            "category": "decision",
+            "actor": "Court of Appeal (Criminal Division)",
+            "what_happened": "The Court of Appeal dismissed N'Guessan's sentence appeal. The confiscation order was not challenged on that appeal.",
+            "why_it_matters": "Left the Crown Court's asset assessment standing when the civil inadequacy application was later made.",
+            "legal_hook": null
+          },
+          {
+            "id": "receiver-appointed",
+            "order": 3,
+            "date": "1997-07-28",
+            "date_label": "28 July 1997",
+            "date_precision": "exact",
+            "title": "Receiver appointed over defendant's affairs",
+            "category": "institutional",
+            "actor": "High Court",
+            "what_happened": "The High Court appointed Nicholas O'Reilly of Rothman Pantall and Co as receiver. The receiver ultimately recovered no more than £18,920.72.",
+            "why_it_matters": "The low recovery became the factual foundation for the certificate-of-inadequacy application.",
+            "legal_hook": "Drug Trafficking Offences Act 1986 — enforcement"
+          },
+          {
+            "id": "section-14-application",
+            "order": 4,
+            "date": "2001-09-06",
+            "date_label": "6 September 2001",
+            "date_precision": "exact",
+            "title": "Section 14 certificate application filed",
+            "category": "procedural",
+            "actor": "Applicant's solicitors",
+            "what_happened": "Solicitors filed an Administrative Court application for a certificate that realisable property was inadequate to meet the amount remaining due under the confiscation order, supported by the applicant's sworn affidavit and the receiver's report.",
+            "why_it_matters": "Launched the civil challenge to enforcement that Beatson QC would strike out.",
+            "legal_hook": "Drug Trafficking Offences Act 1986 section 14"
+          },
+          {
+            "id": "beatson-strike-out",
+            "order": 5,
+            "date": "2001-09-26",
+            "date_label": "26 September 2001",
+            "date_precision": "exact",
+            "title": "Deputy Judge Beatson QC strikes out application",
+            "category": "decision",
+            "actor": "Mr Jack Beatson QC (Deputy High Court Judge)",
+            "what_happened": "Following prosecution submissions, Beatson QC held that although strict issue estoppel did not apply, the application was an abuse of process because it sought to go behind Judge Rivlin's assessment of realisable assets, including assumed hidden assets. He applied Re Norris, Gokal v Serious Fraud Office and related authorities.",
+            "why_it_matters": "This was the order challenged on permission to appeal.",
+            "legal_hook": "Re Norris; Gokal v Serious Fraud Office; abuse of process"
+          },
+          {
+            "id": "paper-permission-refused",
+            "order": 6,
+            "date": "2001-11-26",
+            "date_label": "26 November 2001",
+            "date_precision": "exact",
+            "title": "Permission to appeal refused on the papers",
+            "category": "procedural",
+            "actor": "Laws LJ",
+            "what_happened": "Laws LJ refused permission to appeal on the papers.",
+            "why_it_matters": "Left the applicant to renew orally if he wished to pursue the challenge.",
+            "legal_hook": null
+          },
+          {
+            "id": "renewal-notice",
+            "order": 7,
+            "date": "2002-01-10",
+            "date_label": "10 January 2002",
+            "date_precision": "exact",
+            "title": "Civil Appeals Office gives notice of oral renewal hearing",
+            "category": "procedural",
+            "actor": "Civil Appeals Office",
+            "what_happened": "The Civil Appeals Office wrote to the applicant in prison giving notice of the oral renewal date. The court treated it as established that he received the letter.",
+            "why_it_matters": "Underpinned the court's decision to proceed in the applicant's absence.",
+            "legal_hook": null
+          },
+          {
+            "id": "oral-permission-hearing",
+            "order": 8,
+            "date": null,
+            "date_label": "Oral renewal hearing, 2002",
+            "date_precision": "year",
+            "title": "Applicant absent; permission refused as hopeless",
+            "category": "hearing",
+            "actor": "Laws LJ",
+            "what_happened": "The applicant did not attend the oral renewal. Laws LJ held the application entirely hopeless, endorsed Beatson QC's reasoning, and dismissed it. The applicant's grounds on estoppel, jurisdictional distinction and fresh receiver evidence were rejected.",
+            "why_it_matters": "Closed the civil route to reopen the confiscation assessment.",
+            "legal_hook": "Drug Trafficking Offences Act 1986 section 14; R v Rezvi"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "conviction-and-confiscation",
+            "label": "Crown Court fixes realisable assets at £750,000",
+            "impact": "The assumed hidden assets abroad became the figure the applicant later sought to relitigate through section 14."
+          },
+          {
+            "stage_id": "receiver-appointed",
+            "label": "Receiver recovers only £18,920",
+            "impact": "Supplied the factual trigger for the inadequacy application but was held not to constitute fresh evidence going behind the confiscation order."
+          },
+          {
+            "stage_id": "beatson-strike-out",
+            "label": "Abuse of process ruling",
+            "impact": "Held that failure to recover assumed assets does not permit a collateral attack on the Crown Court's realisable-assets finding."
+          }
+        ],
+        "confidence": {
+          "score": 0.91,
+          "level": "high",
+          "notes": [
+            "Key dates, statutory framework and abuse-of-process reasoning are explicit in the judgment.",
+            "Exact date of the oral permission hearing is not stated in the source text."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1.json",
+      "status": "done",
+      "notes": "Catchup batch 1 generated manually for storyline backfill.",
+      "storyline": {
+        "title": "A wet bend on Norton Avenue and who owed Supertram rail-height duties",
+        "summary": "William Roe lost control of his car on a wet left-hand bend beside Sheffield's Supertram line and suffered serious injuries when he struck a central reservation post. He sued South Yorkshire Light Rail Ltd and Sheffield City Council in negligence and under incorporated Tramways Act provisions. Holland J held the operator liable in principle but largely rejected claims against the council; the Court of Appeal, by a majority, allowed the appeal in part and the cross-appeal, recognising private law duties under sections 25 and 28 of the Tramways Act 1870.",
+        "span": {
+          "start": "1995-05-19",
+          "end": "2003-01-01",
+          "label": "May 1995 – Court of Appeal 2003"
+        },
+        "parties": [
+          {
+            "role": "claimant",
+            "name": "William Roe",
+            "short_name": "Roe"
+          },
+          {
+            "role": "defendant",
+            "name": "South Yorkshire Light Rail Ltd",
+            "short_name": "Operator"
+          },
+          {
+            "role": "defendant",
+            "name": "Sheffield City Council",
+            "short_name": "Council"
+          },
+          {
+            "role": "intervener",
+            "name": "Secretary of State for Transport",
+            "short_name": "Secretary of State"
+          }
+        ],
+        "stages": [
+          {
+            "id": "road-accident",
+            "order": 1,
+            "date": "1995-05-19",
+            "date_label": "19 May 1995",
+            "date_precision": "exact",
+            "title": "Single-vehicle accident on Norton Avenue",
+            "category": "factual",
+            "actor": "William Roe",
+            "what_happened": "On a wet road, Roe lost control on a left-hand bend beside the Supertram line, experienced a violent nearside 'kick', mounted the central reservation and collided with an electric pylon. PC Bashforth inspected the site and measured tram rail height relative to the adjacent carriageway.",
+            "why_it_matters": "The accident and rail-height evidence formed the factual basis for statutory and common-law claims.",
+            "legal_hook": null
+          },
+          {
+            "id": "litigation-commenced",
+            "order": 2,
+            "date": null,
+            "date_label": "After May 1995",
+            "date_precision": "approximate",
+            "title": "Claim against operator, council and others",
+            "category": "procedural",
+            "actor": "William Roe",
+            "what_happened": "Roe sued the tram operator and Sheffield City Council in negligence, nuisance and breach of statutory duty under Tramways Act provisions incorporated by the South Yorkshire Light Rail Transit Act 1988. Claims against four other defendants were struck out or stayed by July 2001.",
+            "why_it_matters": "Framed the multi-party dispute on rail maintenance and highway authority duties.",
+            "legal_hook": "Tramways Act 1870 sections 25 and 28; South Yorkshire Light Rail Transit Act 1988"
+          },
+          {
+            "id": "partial-trial-judgment",
+            "order": 3,
+            "date": "2001-05-11",
+            "date_label": "11 May 2001",
+            "date_precision": "exact",
+            "title": "Holland J delivers partial trial judgment",
+            "category": "decision",
+            "actor": "Holland J",
+            "what_happened": "Following a trial at which Holland J made findings on how the accident happened, he delivered an interim judgment on 11 May 2001.",
+            "why_it_matters": "Marked the first judicial findings on causation before later procedural and merits rulings.",
+            "legal_hook": null
+          },
+          {
+            "id": "council-claim-struck-out",
+            "order": 4,
+            "date": "2001-07-31",
+            "date_label": "31 July 2001",
+            "date_precision": "exact",
+            "title": "Part of council claim struck out; remainder stayed",
+            "category": "procedural",
+            "actor": "Holland J",
+            "what_happened": "Holland J ordered part of Roe's claim against the council struck out and the remainder stayed pending resolution of issues between Roe and the operator. The council was permitted to appear at the operator trial.",
+            "why_it_matters": "Narrowed the live issues before the December 2001 judgment.",
+            "legal_hook": "Highways Act 1980 section 41"
+          },
+          {
+            "id": "holland-judgment",
+            "order": 5,
+            "date": "2001-12-20",
+            "date_label": "20 December 2001",
+            "date_precision": "exact",
+            "title": "Judgment for operator; council succeeds",
+            "category": "decision",
+            "actor": "Holland J",
+            "what_happened": "Holland J gave judgment for Roe against South Yorkshire Light Rail Ltd with damages to be assessed, but judgment for Sheffield City Council against Roe. The action did not dispose of all remaining issues between Roe and the operator.",
+            "why_it_matters": "Produced the first-instance split outcome appealed to the Court of Appeal.",
+            "legal_hook": "Tramways Act 1870; South Yorkshire Light Rail Transit Act 1988 section 15"
+          },
+          {
+            "id": "court-of-appeal-hearing",
+            "order": 6,
+            "date": null,
+            "date_label": "Court of Appeal, 2003",
+            "date_precision": "year",
+            "title": "Appeal and cross-appeal with Secretary of State intervention",
+            "category": "hearing",
+            "actor": "Court of Appeal (Civil Division)",
+            "what_happened": "The Court of Appeal heard Roe's appeal and the operator's cross-appeal, with intervention by the Secretary of State on public transport policy implications of statutory liability.",
+            "why_it_matters": "Tested whether sections 25 and 28 create actionable private law duties and how rail-level obligations apply to modern light rail.",
+            "legal_hook": "Sadler v South Staffordshire Tramways; Tramways Act 1870"
+          },
+          {
+            "id": "appeal-outcome",
+            "order": 7,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Appeal allowed in part; cross-appeal allowed",
+            "category": "outcome",
+            "actor": "Court of Appeal (majority)",
+            "what_happened": "By a majority, the Court of Appeal allowed the appeal in part and the cross-appeal, holding that private law causes of action arise from sections 25 and 28 as incorporated, requiring rails to be kept level with the adjacent roadway to the extent the statutory language demands. Remission of remaining issues was deferred pending possible further appeals.",
+            "why_it_matters": "Recognised statutory duties protecting road users against tramway construction and maintenance defects.",
+            "legal_hook": "Tramways Act 1870 sections 25 and 28"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "road-accident",
+            "label": "Rail height on wet bend",
+            "impact": "Evidence that tram rail level relative to the carriageway may have contributed to loss of control drove the statutory duty analysis."
+          },
+          {
+            "stage_id": "holland-judgment",
+            "label": "Operator liable; council largely excused",
+            "impact": "Split first-instance result triggered the appeal on the scope of Tramways Act duties and council responsibility under the 1988 Act."
+          },
+          {
+            "stage_id": "appeal-outcome",
+            "label": "Statutory causes of action confirmed",
+            "impact": "Majority held incorporated Tramways Act provisions give road users actionable remedies for construction and maintenance defects."
+          }
+        ],
+        "confidence": {
+          "score": 0.84,
+          "level": "high",
+          "notes": [
+            "Accident date and Holland J judgment dates are explicit; Court of Appeal hearing date is not stated.",
+            "Remitted quantification and some split reasoning points were not finally resolved in this judgment."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1002.json",
+      "status": "done",
+      "notes": "Catchup batch 1 generated manually for storyline backfill.",
+      "storyline": {
+        "title": "A claimant who asked the courts to require a referendum before EU constitutional ratification",
+        "summary": "Southall sought declarations that ratification of a proposed EU constitutional treaty required prior popular consent by referendum or manifesto mandate. Silber J refused permission for judicial review, finding no arguable basis for six (later seven) declarations. The Court of Appeal refused permission to appeal, holding that courts have not in modern times treated Acts of Parliament as unenforceable for lack of prior referendum and that alleged constitutional conventions are not established as justiciable legal rules.",
+        "span": {
+          "start": "2001-12-01",
+          "end": "2003-06-01",
+          "label": "December 2001 – mid-2003"
+        },
+        "parties": [
+          {
+            "role": "claimant",
+            "name": "Southall",
+            "short_name": "Applicant"
+          },
+          {
+            "role": "defendant",
+            "name": "Secretary of State for Foreign and Commonwealth Affairs",
+            "short_name": "Secretary of State"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "laeken-convention",
+            "order": 1,
+            "date": "2001-12-01",
+            "date_label": "December 2001",
+            "date_precision": "month",
+            "title": "European Council convenes Convention on Europe's future",
+            "category": "background",
+            "actor": "Council of the European Union",
+            "what_happened": "Following the Laeken meeting in December 2001, the European Convention on the future of Europe was convened to prepare constitutional reform proposals.",
+            "why_it_matters": "Started the intergovernmental process the applicant sought to subject to judicial preconditions.",
+            "legal_hook": null
+          },
+          {
+            "id": "draft-treaty-presented",
+            "order": 2,
+            "date": "2003-06-20",
+            "date_label": "20 June 2003",
+            "date_precision": "exact",
+            "title": "Draft constitutional treaty presented to European Council",
+            "category": "background",
+            "actor": "European Convention",
+            "what_happened": "The Convention produced a Draft Treaty establishing a constitution for Europe, presented to the European Council on 20 June 2003. Final content and ratification remained uncertain.",
+            "why_it_matters": "Provided the immediate political context for the declaratory relief sought.",
+            "legal_hook": null
+          },
+          {
+            "id": "declarations-sought",
+            "order": 3,
+            "date": null,
+            "date_label": "Before Silber J, 2003",
+            "date_precision": "approximate",
+            "title": "Seven declarations sought on referendum and constitutional consent",
+            "category": "procedural",
+            "actor": "Southall",
+            "what_happened": "The applicant sought declarations that fundamental constitutional change required electorate approval by referendum or manifesto mandate, including that ratification of the proposed EU constitution could lawfully occur only with Parliament and popular consent.",
+            "why_it_matters": "Defined the high-level constitutional claims Silber J and the Court of Appeal rejected as unarguable.",
+            "legal_hook": "Political Parties, Elections and Referendums Act 2000 section 101(2)"
+          },
+          {
+            "id": "silber-refuses-permission",
+            "order": 4,
+            "date": null,
+            "date_label": "Silber J, 2003",
+            "date_precision": "approximate",
+            "title": "Silber J refuses permission for judicial review",
+            "category": "decision",
+            "actor": "Silber J",
+            "what_happened": "Silber J was not persuaded there was an arguable case for any of the six declarations before him (seven by the time of the appeal).",
+            "why_it_matters": "Ended the claim at first instance and triggered the permission-to-appeal application.",
+            "legal_hook": "Judicial review — permission stage"
+          },
+          {
+            "id": "illegality-argument-rejected",
+            "order": 5,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Court rejects common-law illegality and convention claims",
+            "category": "hearing",
+            "actor": "Schiemann LJ",
+            "what_happened": "The Court of Appeal held there was no seriously arguable case that an Act passed without prior referendum or manifesto inclusion would for that reason be unenforceable. It also rejected a broad constitutional convention requiring electorate approval before fundamental change, noting referendums had been held pursuant to Acts of Parliament rather than as preconditions to lawfulness.",
+            "why_it_matters": "Affirmed parliamentary sovereignty and the non-justiciability of the alleged convention at this stage.",
+            "legal_hook": "European Communities Act 1972; Human Rights Act 1998"
+          },
+          {
+            "id": "permission-refused",
+            "order": 6,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Permission to appeal refused",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "The court refused permission to appeal, holding declaratory relief inappropriate where no final treaty had been agreed and the declarations were too abstract or vague.",
+            "why_it_matters": "Closed the judicial route to require a referendum before ratification legislation.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "draft-treaty-presented",
+            "label": "Draft EU constitution published",
+            "impact": "Supplied the political trigger but the court emphasised ratification content remained uncertain."
+          },
+          {
+            "stage_id": "illegality-argument-rejected",
+            "label": "No common-law power to strike down legislation",
+            "impact": "Rejected the applicant's central thesis that courts may refuse to recognise Acts lacking prior popular approval."
+          },
+          {
+            "stage_id": "permission-refused",
+            "label": "Convention claim non-justiciable",
+            "impact": "Held alleged referendum conventions are matters for political judgment, not declaratory relief."
+          }
+        ],
+        "confidence": {
+          "score": 0.93,
+          "level": "high",
+          "notes": [
+            "Constitutional ruling and June 2003 draft treaty date are explicit.",
+            "Silber J decision date and Court of Appeal hand-down date are not stated in enrichment fields."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1005.json",
+      "status": "done",
+      "notes": "Catchup batch 1 generated manually for storyline backfill.",
+      "storyline": {
+        "title": "Twenty-four passengers, eighteen airlines, and whether DVT on a normal flight is an 'accident'",
+        "summary": "In group litigation, passengers alleged deep vein thrombosis caused by long-haul air travel against major international carriers under Article 17 of the Warsaw Convention. On an agreed specimen matrix assuming flight-caused symptomatic DVT, industry-standard seating and failure to warn, Nelson J held no 'accident' was disclosed. The Court of Appeal dismissed the appeal, holding that normal cabin conditions and omissions to warn are not unexpected external events under Air France v Saks.",
+        "span": {
+          "start": "2002-12-20",
+          "end": "2003-07-01",
+          "label": "December 2002 – July 2003"
+        },
+        "parties": [
+          {
+            "role": "claimant",
+            "name": "Passengers in the DVT Group Litigation",
+            "short_name": "Passengers"
+          },
+          {
+            "role": "defendant",
+            "name": "International air carriers (18 airlines)",
+            "short_name": "Carriers"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "group-litigation",
+            "order": 1,
+            "date": null,
+            "date_label": "Group litigation, early 2000s",
+            "date_precision": "approximate",
+            "title": "Group claims brought under Warsaw Convention Article 17",
+            "category": "procedural",
+            "actor": "Passengers",
+            "what_happened": "Twenty-four passengers sued eighteen leading international airlines, alleging DVT and in fatal cases pulmonary embolism caused by carriage by air. Claims were brought under Article 17 as incorporated by the Carriage by Air Act 1961.",
+            "why_it_matters": "Established the scale of the preliminary issue on the meaning of 'accident'.",
+            "legal_hook": "Warsaw Convention Article 17; Carriage by Air Act 1961"
+          },
+          {
+            "id": "specimen-matrix-agreed",
+            "order": 2,
+            "date": null,
+            "date_label": "Before preliminary issue",
+            "date_precision": "approximate",
+            "title": "Specimen matrix agreed for preliminary issue",
+            "category": "procedural",
+            "actor": "Parties",
+            "what_happened": "The parties agreed a specimen matrix assuming symptomatic DVT caused by the flight, usual seating and cabin conditions, regulatory compliance, carrier knowledge of increased DVT risk, and no warning or advice to passengers.",
+            "why_it_matters": "Isolated the legal question whether such facts disclose an accident.",
+            "legal_hook": "Air France v Saks"
+          },
+          {
+            "id": "nelson-j-preliminary-issue",
+            "order": 3,
+            "date": "2002-12-20",
+            "date_label": "20 December 2002",
+            "date_precision": "exact",
+            "title": "Nelson J holds matrix discloses no accident",
+            "category": "decision",
+            "actor": "Nelson J",
+            "what_happened": "On preliminary issues, Nelson J held the specimen matrix did not disclose an 'accident' within Article 17 and gave permission to appeal.",
+            "why_it_matters": "First-instance rejection of the passengers' Warsaw Convention route.",
+            "legal_hook": "Warsaw Convention Article 17"
+          },
+          {
+            "id": "saks-framework-applied",
+            "order": 4,
+            "date": null,
+            "date_label": "Court of Appeal hearing",
+            "date_precision": "unknown",
+            "title": "Parties debate Saks definition of accident",
+            "category": "hearing",
+            "actor": "Court of Appeal (Hope MR, Judge LJ, Kay LJ)",
+            "what_happened": "The court analysed whether cramped seating, normal cabin environment and failure to warn could constitute unexpected or unusual external events. The carriers contended industry-standard operation could not be an accident; passengers argued reasonable-expectation and omission-based accidents.",
+            "why_it_matters": "Applied the universally accepted Saks test to DVT on ordinary flights.",
+            "legal_hook": "Air France v Saks; Morris v KLM Royal Dutch Airlines"
+          },
+          {
+            "id": "no-event-holding",
+            "order": 5,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Permanent cabin features and non-warnings held not 'events'",
+            "category": "decision",
+            "actor": "Lord Hope of Craighead (MR)",
+            "what_happened": "The Master of the Rolls held permanent cabin features of an ordinary flight are not an ephemeral event under Article 17, and failure to warn or advise is inaction — a non-event — not an accident. Povey v Civil Aviation Safety Authority was rejected on omissions.",
+            "why_it_matters": "Denied Article 17 liability without requiring full causation trials.",
+            "legal_hook": "Warsaw Convention Article 17; Husain v Olympic Airways distinguished"
+          },
+          {
+            "id": "appeal-dismissed",
+            "order": 6,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Appeal dismissed unanimously",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Judge LJ and Kay LJ agreed. The appeal was dismissed, ending the Article 17 route on the agreed matrix.",
+            "why_it_matters": "Binding English authority that DVT from normal flight conditions falls outside Article 17.",
+            "legal_hook": "Carriage by Air Act 1961"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "specimen-matrix-agreed",
+            "label": "Assumed flight-caused DVT without unusual operation",
+            "impact": "Confined the appeal to whether ordinary long-haul conditions could ever be an accident."
+          },
+          {
+            "stage_id": "no-event-holding",
+            "label": "Omissions are non-events",
+            "impact": "Rejected the principal passenger route that failure to warn constituted an Article 17 accident."
+          },
+          {
+            "stage_id": "appeal-dismissed",
+            "label": "Group litigation Article 17 barrier",
+            "impact": "Prevented hundreds of similar claims proceeding under the Convention on the agreed facts."
+          }
+        ],
+        "confidence": {
+          "score": 0.96,
+          "level": "high",
+          "notes": [
+            "Nelson J decision date and core Article 17 analysis are explicit.",
+            "Individual flight dates are not central to the preliminary issue and are not stated."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1007.json",
+      "status": "done",
+      "notes": "Catchup batch 1 generated manually for storyline backfill.",
+      "storyline": {
+        "title": "Westminster licensing magistrates discover the Court of Appeal is not a second tier on case stated",
+        "summary": "After Horseferry Road justices granted a Special Hours Certificate for part of on-licence premises without a music and dancing licence, Mackay J held on case stated that section 77A of the Licensing Act 1964 did not permit such partial certification. Licensees appealed to the Court of Appeal, but the court declined jurisdiction because High Court decisions on non-criminal case stated are final under section 28A(4) of the Supreme Court Act 1981.",
+        "span": {
+          "start": "2003-02-28",
+          "end": "2003-07-01",
+          "label": "February – July 2003"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Horseferry Road Justices and licensees",
+            "short_name": "Justices and licensees"
+          },
+          {
+            "role": "respondent",
+            "name": "Westminster City Council",
+            "short_name": "Westminster"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "magistrates-certificate",
+            "order": 1,
+            "date": null,
+            "date_label": "Before February 2003",
+            "date_precision": "approximate",
+            "title": "Special Hours Certificate granted for part of premises",
+            "category": "institutional",
+            "actor": "Horseferry Road Justices",
+            "what_happened": "Westminster licensing magistrates granted a Special Hours Certificate under section 77A(3) of the Licensing Act 1964 for part of on-licence premises for which no music and dancing licence had been granted.",
+            "why_it_matters": "Generated the substantive licensing question on partial certification.",
+            "legal_hook": "Licensing Act 1964 section 77A(3)"
+          },
+          {
+            "id": "case-stated",
+            "order": 2,
+            "date": null,
+            "date_label": "Before February 2003",
+            "date_precision": "approximate",
+            "title": "Case stated to High Court",
+            "category": "procedural",
+            "actor": "Horseferry Road Justices",
+            "what_happened": "The justices stated a case on whether a Special Hours Certificate could be granted for part of premises lacking a music and dancing licence.",
+            "why_it_matters": "Brought the issue before the High Court under section 111 Magistrates' Courts Act 1980.",
+            "legal_hook": "Magistrates' Courts Act 1980 section 111"
+          },
+          {
+            "id": "mackay-j-decision",
+            "order": 3,
+            "date": "2003-02-28",
+            "date_label": "28 February 2003",
+            "date_precision": "exact",
+            "title": "Mackay J holds partial certificate unlawful",
+            "category": "decision",
+            "actor": "Mackay J",
+            "what_happened": "Mackay J held section 77A did not permit a Special Hours Certificate for part of on-licence premises without a music and dancing licence for that part. He granted permission to appeal to the Court of Appeal and stayed his order pending appeal.",
+            "why_it_matters": "Produced the High Court decision licensees sought to challenge further.",
+            "legal_hook": "Licensing Act 1964 section 77A"
+          },
+          {
+            "id": "jurisdiction-challenge",
+            "order": 4,
+            "date": "2003-07-01",
+            "date_label": "1 July 2003",
+            "date_precision": "exact",
+            "title": "Court considers whether it has jurisdiction",
+            "category": "hearing",
+            "actor": "Auld LJ (with Clarke LJ; Lord Chief Justice)",
+            "what_happened": "Master Venne drew attention to the statutory finality bar. Counsel argued the Access to Justice Act 1999 created a second appeal route; the court rejected that construction.",
+            "why_it_matters": "Framed the appeal as a jurisdictional question before merits could be heard.",
+            "legal_hook": "Supreme Court Act 1981 sections 18 and 28A(4); Access to Justice Act 1999 sections 54–55"
+          },
+          {
+            "id": "maile-applied",
+            "order": 5,
+            "date": null,
+            "date_label": "1 July 2003 judgment",
+            "date_precision": "exact",
+            "title": "Maile v Manchester City Council applied; jurisdiction declined",
+            "category": "decision",
+            "actor": "Auld LJ",
+            "what_happened": "Following Maile and In Re Racal Communications Ltd, the court held section 28A(4) and section 18 absolutely prohibit appeal from a final High Court case-stated decision, including on points of law.",
+            "why_it_matters": "Confirmed binding precedent that licensing case stated is a one-tier High Court process.",
+            "legal_hook": "Maile v Manchester City Council; In Re Racal Communications Ltd"
+          },
+          {
+            "id": "consequences-and-stay",
+            "order": 6,
+            "date": "2003-07-01",
+            "date_label": "1 July 2003",
+            "date_precision": "exact",
+            "title": "No order on merits; 28-day delay before order drawn up",
+            "category": "outcome",
+            "actor": "Lord Chief Justice",
+            "what_happened": "The court declined jurisdiction and made no order on the merits. Westminster was awarded costs. The Lord Chief Justice said fresh licensing applications could continue before the justices and indicated judicial review might be available; drawing up of the order was delayed 28 days to protect the licensees.",
+            "why_it_matters": "Explained practical routes after the jurisdictional dead end.",
+            "legal_hook": "Maile v Manchester City Council"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "mackay-j-decision",
+            "label": "High Court rejects partial Special Hours Certificate",
+            "impact": "Resolved the licensing point at High Court level but triggered an appeal the statute barred."
+          },
+          {
+            "stage_id": "jurisdiction-challenge",
+            "label": "Finality provision noticed",
+            "impact": "Master Venne's intervention prevented repetition of Mendoza, where jurisdiction had been assumed in error."
+          },
+          {
+            "stage_id": "maile-applied",
+            "label": "No Court of Appeal route on case stated",
+            "impact": "Binding confirmation that non-criminal case stated decisions are final however expressed."
+          }
+        ],
+        "confidence": {
+          "score": 0.98,
+          "level": "high",
+          "notes": [
+            "Mackay J decision date and 1 July 2003 Court of Appeal hearing date are explicit.",
+            "Date of magistrates' original grant is not stated in the source."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1008.json",
+      "status": "done",
+      "notes": "Catchup batch 1 generated manually for storyline backfill.",
+      "storyline": {
+        "title": "SYNAGIS royalties, Kabat position 23, and prosecution history estoppel under US law",
+        "summary": "Celltech licensed MedImmune under the US Adair Patent for humanised antibodies and claimed royalties on palivizumab (SYNAGIS), arguing equivalence where position 23 had threonine rather than the claimed donor serine. Jacob J held argument estoppel but not amendment estoppel barred reliance on the US doctrine of equivalents. The Court of Appeal (Vice-Chancellor and Longmore LJ; Arden LJ dissenting) held both estoppels applied after Festo, barring Celltech's royalty claim.",
+        "span": {
+          "start": "1991-07-11",
+          "end": "2003-07-01",
+          "label": "July 1991 – July 2003"
+        },
+        "parties": [
+          {
+            "role": "claimant",
+            "name": "Celltech Chiroscience Ltd",
+            "short_name": "Celltech"
+          },
+          {
+            "role": "defendant",
+            "name": "MedImmune Inc",
+            "short_name": "MedImmune"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "patent-application",
+            "order": 1,
+            "date": "1991-07-11",
+            "date_label": "11 July 1991",
+            "date_precision": "exact",
+            "title": "US patent application filed for humanised antibodies",
+            "category": "background",
+            "actor": "Celltech",
+            "what_happened": "Celltech applied to the USPTO under the Patent Cooperation Treaty for a patent on CDR-grafted humanised antibodies. Original claim 1 required donor residues at at least one of several framework positions including 23.",
+            "why_it_matters": "Started the prosecution history central to estoppel.",
+            "legal_hook": "US patent prosecution"
+          },
+          {
+            "id": "riechmann-amendment",
+            "order": 2,
+            "date": "1993-01-19",
+            "date_label": "19 January 1993",
+            "date_precision": "exact",
+            "title": "Claims amended to overcome Riechmann prior art",
+            "category": "procedural",
+            "actor": "Celltech",
+            "what_happened": "Facing a section 102(b) objection based on Riechmann, Celltech amended claim 1 so residues 6, 23, 24 and 49 must be donor amino acids and told the examiner that in Riechmann positions 23 and 24 were acceptor residues.",
+            "why_it_matters": "The amendment and representations at position 23 underpinned both amendment and argument estoppel.",
+            "legal_hook": "35 USC §102(b)"
+          },
+          {
+            "id": "patent-granted",
+            "order": 3,
+            "date": "1999-01-12",
+            "date_label": "12 January 1999",
+            "date_precision": "exact",
+            "title": "Adair Patent granted",
+            "category": "background",
+            "actor": "USPTO",
+            "what_happened": "After USPTO indicated on 4 September 1996 that claims in amended form would be allowed, the Adair Patent was granted on 12 January 1999 requiring donor residues at positions 6, 23, 24 and 49.",
+            "why_it_matters": "Defined the literal claim MedImmune said SYNAGIS did not infringe at position 23.",
+            "legal_hook": "US Adair Patent claim 1"
+          },
+          {
+            "id": "licence-and-synagis",
+            "order": 4,
+            "date": "1998-01-19",
+            "date_label": "19 January 1998",
+            "date_precision": "exact",
+            "title": "Licence granted; SYNAGIS developed and sold",
+            "category": "factual",
+            "actor": "Celltech and MedImmune",
+            "what_happened": "Celltech licensed MedImmune to develop and sell antibodies with royalties on products that would infringe valid claims. MedImmune developed palivizumab (SYNAGIS), which had threonine rather than donor serine at Kabat position 23.",
+            "why_it_matters": "Created the royalty dispute resolved by equivalence and estoppel.",
+            "legal_hook": "Licence agreement — 2% net receipts"
+          },
+          {
+            "id": "proceedings-and-preliminary-issues",
+            "order": 5,
+            "date": "2000-10-01",
+            "date_label": "October 2000 – October 2002",
+            "date_precision": "approximate",
+            "title": "English proceedings and preliminary issues before Jacob J",
+            "category": "procedural",
+            "actor": "Celltech",
+            "what_happened": "Celltech issued proceedings in October 2000. Preliminary issues on prosecution history estoppel were ordered in March 2001 and heard on 1–2 October 2002 after the US Supreme Court judgment in Festo Corp v Shoketsu (2002).",
+            "why_it_matters": "English court applied US federal patent law following MCC Proceeds.",
+            "legal_hook": "Festo Corp v Shoketsu (2002); doctrine of equivalents"
+          },
+          {
+            "id": "jacob-j-decision",
+            "order": 6,
+            "date": "2002-10-02",
+            "date_label": "1–2 October 2002",
+            "date_precision": "exact",
+            "title": "Jacob J finds argument estoppel only",
+            "category": "decision",
+            "actor": "Jacob J",
+            "what_happened": "Jacob J held Celltech precluded by argument estoppel but not amendment estoppel from relying on equivalence at position 23 and dismissed the claim.",
+            "why_it_matters": "Split estoppel finding produced cross-appeal and appeal.",
+            "legal_hook": "Texas Instruments v US International Trade Commission"
+          },
+          {
+            "id": "court-of-appeal-estoppel",
+            "order": 7,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Cross-appeal allowed; both estoppels held to apply",
+            "category": "outcome",
+            "actor": "Vice-Chancellor (with Longmore LJ)",
+            "what_happened": "The Vice-Chancellor and Longmore LJ held amendment estoppel applied because the claim was narrowed to require donor residue at position 23, surrendering acceptor residues including threonine. Argument estoppel also applied to Celltech's prosecution representations. Arden LJ dissented. Celltech's appeal was dismissed.",
+            "why_it_matters": "Barred Celltech from recovering SYNAGIS royalties via the doctrine of equivalents.",
+            "legal_hook": "Festo Corp v Shoketsu; prosecution history estoppel"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "riechmann-amendment",
+            "label": "Mandatory donor residue at position 23",
+            "impact": "Amendment to distinguish Riechmann was treated as surrender of non-donor residues at that position."
+          },
+          {
+            "stage_id": "jacob-j-decision",
+            "label": "Argument estoppel but not amendment estoppel",
+            "impact": "First-instance split prompted the cross-appeal that shifted the outcome."
+          },
+          {
+            "stage_id": "court-of-appeal-estoppel",
+            "label": "Royalties blocked by Festo principles",
+            "impact": "Majority held conservative substitution at a narrowed claim element cannot be reclaimed by equivalence."
+          }
+        ],
+        "confidence": {
+          "score": 0.91,
+          "level": "high",
+          "notes": [
+            "Prosecution dates, SYNAGIS science and Festo analysis are detailed in the judgment.",
+            "Court of Appeal hand-down date is not stated; source judge metadata lists Lord Denning but the text identifies other judges."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1013.json",
+      "status": "done",
+      "notes": "Catchup batch 1 generated manually for storyline backfill.",
+      "storyline": {
+        "title": "A solicitor's four-month service failure and when limitation began to run",
+        "summary": "Peter Polley instructed Warner Goodman & Streat to pursue a workplace injury claim against Hydro Polymers. Proceedings were issued near limitation expiry but not served in time; an ex parte extension without evidence was later set aside. Polley issued negligence proceedings in April 2000. On a preliminary issue, the Court of Appeal held the claim time-barred because damage accrued when service time expired in September 1993, not when the extension was set aside in April 1994.",
+        "span": {
+          "start": "1990-06-01",
+          "end": "2003-06-30",
+          "label": "June 1990 – June 2003"
+        },
+        "parties": [
+          {
+            "role": "claimant",
+            "name": "Peter Polley",
+            "short_name": "Polley"
+          },
+          {
+            "role": "defendant",
+            "name": "Warner Goodman & Streat",
+            "short_name": "Solicitors"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "workplace-injury",
+            "order": 1,
+            "date": "1990-06-01",
+            "date_label": "About June 1990",
+            "date_precision": "approximate",
+            "title": "Injury at Hydro Polymers",
+            "category": "background",
+            "actor": "Peter Polley",
+            "what_happened": "Polley suffered personal injury while moving a bag of polymer in the course of employment with Hydro Polymers Ltd.",
+            "why_it_matters": "Underlying claim the solicitors were instructed to pursue.",
+            "legal_hook": "Limitation Act 1980 sections 2 and 5"
+          },
+          {
+            "id": "proceedings-issued",
+            "order": 2,
+            "date": "1993-05-25",
+            "date_label": "25 May 1993",
+            "date_precision": "exact",
+            "title": "County Court proceedings issued near limitation expiry",
+            "category": "procedural",
+            "actor": "Warner Goodman & Streat",
+            "what_happened": "With legal aid from 13 January 1993, the solicitors issued proceedings against the employers. The three-year limitation period would have expired in June 1993.",
+            "why_it_matters": "Issuing within limitation did not save the claim if service failed.",
+            "legal_hook": "County Court Rules — four-month service period"
+          },
+          {
+            "id": "service-period-expires",
+            "order": 3,
+            "date": "1993-09-24",
+            "date_label": "24 September 1993",
+            "date_precision": "exact",
+            "title": "Time for service expires without valid service",
+            "category": "factual",
+            "actor": "Warner Goodman & Streat",
+            "what_happened": "The summons was not served within four months. The court held there was no good reason for non-service; medical evidence differences were insufficient.",
+            "why_it_matters": "Court of Appeal treated this as the date relevant damage accrued.",
+            "legal_hook": "RSC Order 6 rule 8 / County Court equivalent"
+          },
+          {
+            "id": "extension-set-aside",
+            "order": 4,
+            "date": "1994-04-18",
+            "date_label": "18 April 1994",
+            "date_precision": "exact",
+            "title": "Ex parte extension set aside",
+            "category": "decision",
+            "actor": "District Judge Bailey-Cox",
+            "what_happened": "An ex parte extension granted on 29 September 1993 without supporting evidence was set aside on the employers' application. Polley was ordered to pay costs.",
+            "why_it_matters": "Polley argued limitation ran from this date; the court rejected that.",
+            "legal_hook": "Hatton v Chafes; Khan v Falvey"
+          },
+          {
+            "id": "independent-advice-letter",
+            "order": 5,
+            "date": "1994-04-20",
+            "date_label": "20 April 1994",
+            "date_precision": "exact",
+            "title": "Solicitors advise seeking independent legal advice",
+            "category": "institutional",
+            "actor": "Warner Goodman & Streat",
+            "what_happened": "The solicitors wrote that the Hydro Polymers claim could no longer be pursued and advised Polley to seek independent legal advice about a possible claim against the firm.",
+            "why_it_matters": "Showed Polley was on notice of the underlying failure before the six-year tort period ended.",
+            "legal_hook": null
+          },
+          {
+            "id": "solicitor-claim-issued",
+            "order": 6,
+            "date": "2000-04-14",
+            "date_label": "14 April 2000",
+            "date_precision": "exact",
+            "title": "Negligence proceedings issued against former solicitors",
+            "category": "procedural",
+            "actor": "Peter Polley",
+            "what_happened": "Polley issued proceedings for negligence and breach of contract against Warner Goodman & Streat, pleading loss of chance, costs liability and continuing injuries.",
+            "why_it_matters": "Raised whether the claim was within six years of accrual.",
+            "legal_hook": "Limitation Act 1980"
+          },
+          {
+            "id": "preliminary-issue-trial",
+            "order": 7,
+            "date": "2002-10-23",
+            "date_label": "23 October 2002",
+            "date_precision": "exact",
+            "title": "Circuit Judge finds claim time-barred",
+            "category": "decision",
+            "actor": "HHJ Anthony Thompson QC",
+            "what_happened": "On a preliminary limitation issue ordered by District Judge Sparrow, the judge held the claim form was issued outside the limitation period.",
+            "why_it_matters": "First-instance defeat on the sole live issue after section 32 was abandoned.",
+            "legal_hook": "Limitation Act 1980"
+          },
+          {
+            "id": "appeal-dismissed",
+            "order": 8,
+            "date": "2003-06-30",
+            "date_label": "30 June 2003",
+            "date_precision": "exact",
+            "title": "Court of Appeal dismisses appeal",
+            "category": "outcome",
+            "actor": "Clarke LJ (with Auld LJ; Lord Chief Justice)",
+            "what_happened": "Applying Khan v Falvey and Hatton v Chafes, Clarke LJ held the application to set aside the extension was bound to succeed, so Polley had suffered relevant damage by 24 September 1993. The appeal was dismissed with costs.",
+            "why_it_matters": "Confirmed limitation can accrue before underlying proceedings are formally ended.",
+            "legal_hook": "Khan v Falvey; Hatton v Chafes; Cartledge v Jopling"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "service-period-expires",
+            "label": "No good reason for failure to serve",
+            "impact": "Underlying claim was doomed when service time expired, fixing accrual of solicitor negligence damage."
+          },
+          {
+            "stage_id": "extension-set-aside",
+            "label": "Polley's argued limitation start date rejected",
+            "impact": "Court held setting aside confirmed rather than created the loss."
+          },
+          {
+            "stage_id": "appeal-dismissed",
+            "label": "Doomed-to-failure test applied",
+            "impact": "Binding application that claimant need not wait for strike-out to suffer actionable damage."
+          }
+        ],
+        "confidence": {
+          "score": 0.96,
+          "level": "high",
+          "notes": [
+            "Chronology and limitation analysis are explicit in the approved judgment.",
+            "Exact date of workplace injury is given only as about June 1990."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1014.json",
+      "status": "done",
+      "notes": "Catchup batch 1 generated manually for storyline backfill.",
+      "storyline": {
+        "title": "Partial permission for Parole Board judicial review and whether refused grounds may be reopened",
+        "summary": "Robert Smith challenged the Parole Board's refusal to hold an oral hearing before rejecting his representations against recall for drug use on extended licence. Silber J granted permission only on Article 6 and common-law oral hearing grounds after a contested oral permission hearing, refusing Article 5. At the substantive hearing Goldring J, applying Opoku, declined to reopen Article 5. The Court of Appeal held the judge retained broader discretion and granted unrestricted permission, retaining the case for final hearing.",
+        "span": {
+          "start": "1998-05-08",
+          "end": "2003-06-24",
+          "label": "May 1998 – June 2003"
+        },
+        "parties": [
+          {
+            "role": "claimant",
+            "name": "Robert Smith",
+            "short_name": "Smith"
+          },
+          {
+            "role": "defendant",
+            "name": "The Parole Board",
+            "short_name": "Parole Board"
+          },
+          {
+            "role": "interested party",
+            "name": "Secretary of State for the Home Department",
+            "short_name": "Secretary of State"
+          }
+        ],
+        "stages": [
+          {
+            "id": "conviction-and-extended-licence",
+            "order": 1,
+            "date": "1998-05-08",
+            "date_label": "8 May 1998",
+            "date_precision": "exact",
+            "title": "Conviction and extended licence order",
+            "category": "background",
+            "actor": "Manchester Crown Court",
+            "what_happened": "Smith was convicted of rape and threats to kill and sentenced to eight years, later reduced on appeal to six-and-a-half years. An extended licence order under section 44 of the Criminal Justice Act 1991 extended supervision to the end of sentence.",
+            "why_it_matters": "Extended licence regime governed recall and Parole Board review.",
+            "legal_hook": "Criminal Justice Act 1991 section 44"
+          },
+          {
+            "id": "release-and-recall",
+            "order": 2,
+            "date": "2002-02-06",
+            "date_label": "November 2001 – February 2002",
+            "date_precision": "approximate",
+            "title": "Release, positive drug tests and recall",
+            "category": "factual",
+            "actor": "Parole Board and Secretary of State",
+            "what_happened": "Smith was released on licence on 7 November 2001. After testing positive for class A drugs, probation recommended recall; the Parole Board recommended recall on 4 February 2002 and the Secretary of State revoked the licence on 6 February 2002.",
+            "why_it_matters": "Recall without oral hearing generated the judicial review.",
+            "legal_hook": "Licence conditions"
+          },
+          {
+            "id": "representations-rejected",
+            "order": 3,
+            "date": "2002-04-03",
+            "date_label": "3 April 2002",
+            "date_precision": "exact",
+            "title": "Parole Board rejects written representations",
+            "category": "decision",
+            "actor": "Parole Board",
+            "what_happened": "By letter of 3 April 2002 the Board rejected Smith's representations against recall after studying written submissions. No oral hearing was requested of the Board.",
+            "why_it_matters": "Administrative decision challenged eight months later by judicial review.",
+            "legal_hook": null
+          },
+          {
+            "id": "partial-permission",
+            "order": 4,
+            "date": "2003-03-17",
+            "date_label": "17 March 2003",
+            "date_precision": "exact",
+            "title": "Silber J grants limited permission after oral hearing",
+            "category": "decision",
+            "actor": "Silber J",
+            "what_happened": "After a contested oral permission hearing of about three hours, Silber J granted permission only on whether Smith was entitled to an oral hearing under Article 6 or at common law following West v Secretary of State. Article 5 grounds were refused.",
+            "why_it_matters": "Created the procedural dispute on expanding grounds at substantive hearing.",
+            "legal_hook": "CPR 54.15; West v Secretary of State for the Home Department"
+          },
+          {
+            "id": "goldring-refuses-expansion",
+            "order": 5,
+            "date": "2003-06-24",
+            "date_label": "24 June 2003",
+            "date_precision": "exact",
+            "title": "Goldring J declines to reopen Article 5",
+            "category": "decision",
+            "actor": "Goldring J",
+            "what_happened": "On the eve of hearing, Smith sought to rely on new authorities on Article 5. Goldring J, applying Opoku paragraph 16, declined to grant permission on refused grounds.",
+            "why_it_matters": "Prompted appeal on the proper approach after partial permission.",
+            "legal_hook": "R (Opoku) v Principal of Southwark College"
+          },
+          {
+            "id": "court-of-appeal-procedure",
+            "order": 6,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Broader discretion recognised; unrestricted permission granted",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "The court held Opoku paragraph 16 is not exhaustive: a judge conducting substantive judicial review may permit refused grounds where justice requires. Article 5 and Article 6 were closely related and should be heard together. Permission was granted without restriction and the case retained by the Court of Appeal for final hearing.",
+            "why_it_matters": "Practical guidance on partial permission after contested oral hearings in Parole Board cases.",
+            "legal_hook": "CPR 54.15 and 52.15; R (Giles) v Parole Board"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "partial-permission",
+            "label": "Article 5 excluded at permission stage",
+            "impact": "Set up conflict between Silber J's limited grant and Smith's wish to argue Article 5 at trial."
+          },
+          {
+            "stage_id": "goldring-refuses-expansion",
+            "label": "Opoku paragraph 16 applied strictly",
+            "impact": "Substantive judge treated refused grounds as closed absent new circumstances."
+          },
+          {
+            "stage_id": "court-of-appeal-procedure",
+            "label": "Related Convention grounds to be heard together",
+            "impact": "Appeal allowed on procedure only; merits of oral hearing left for later Court of Appeal hearing."
+          }
+        ],
+        "confidence": {
+          "score": 0.94,
+          "level": "high",
+          "notes": [
+            "Procedural ruling is complete; Article 5/6 merits expressly reserved.",
+            "Court of Appeal judgment hand-down date is not stated in enrichment fields."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/102.json",
+      "status": "done",
+      "notes": "Catchup batch 1 generated manually for storyline backfill.",
+      "storyline": {
+        "title": "An education welfare officer, an 'open file', and qualified privilege in child-protection disclosure",
+        "summary": "Peter Halford, an education welfare officer, was investigated after his stepson alleged assault. The CPS decided not to prosecute because of conflicting evidence. DS Curtis told Hampshire County Council personnel by telephone and letter that the police file remained open as an undetected crime. Halford was suspended pending discipline but later reinstated without sanction. The High Court ruled the publications were on occasions of qualified privilege and that no jury could properly find malice; the Court of Appeal agreed.",
+        "span": {
+          "start": "1996-10-17",
+          "end": "2003-01-01",
+          "label": "October 1996 – appeal 2003"
+        },
+        "parties": [
+          {
+            "role": "claimant",
+            "name": "Peter Halford",
+            "short_name": "Halford"
+          },
+          {
+            "role": "defendant",
+            "name": "Detective Sergeant Curtis",
+            "short_name": "DS Curtis"
+          },
+          {
+            "role": "defendant",
+            "name": "Chief Constable of Hampshire Constabulary",
+            "short_name": "Chief Constable"
+          },
+          {
+            "role": "recipient",
+            "name": "Hampshire County Council",
+            "short_name": "Council"
+          }
+        ],
+        "stages": [
+          {
+            "id": "assault-allegation",
+            "order": 1,
+            "date": "1996-10-17",
+            "date_label": "17 October 1996",
+            "date_precision": "exact",
+            "title": "Stepson alleges assault at home",
+            "category": "background",
+            "actor": "Paul K (stepson)",
+            "what_happened": "Twelve-year-old Paul alleged Halford assaulted him after an incident involving his sister Sarah. School staff noticed bruising and referred the matter to Social Services and police.",
+            "why_it_matters": "Triggered police and child-protection processes affecting Halford's employment.",
+            "legal_hook": null
+          },
+          {
+            "id": "police-investigation",
+            "order": 2,
+            "date": "1996-10-18",
+            "date_label": "18 October – December 1996",
+            "date_precision": "approximate",
+            "title": "Arrest, interviews and child protection conference",
+            "category": "institutional",
+            "actor": "DS Curtis",
+            "what_happened": "Halford was arrested and interviewed under caution. Statements were taken; Dr Webb's letter noted inconsistencies in injury evidence. A child protection conference on 29 October 1996 placed all three step-children on the register.",
+            "why_it_matters": "Built the evidential picture the CPS and council relied upon.",
+            "legal_hook": null
+          },
+          {
+            "id": "cps-no-prosecution",
+            "order": 3,
+            "date": "1996-12-17",
+            "date_label": "17 December 1996",
+            "date_precision": "exact",
+            "title": "CPS decides prosecution would not succeed",
+            "category": "decision",
+            "actor": "Crown Prosecution Service",
+            "what_happened": "The CPS concluded massive evidential conflicts meant no successful assault prosecution was possible, though violence in the family remained troubling.",
+            "why_it_matters": "Ended criminal proceedings but left the matter classified as undetected under force practice.",
+            "legal_hook": "Prosecution of Offenders Act 1985"
+          },
+          {
+            "id": "telephone-publication",
+            "order": 4,
+            "date": "1997-01-28",
+            "date_label": "28 January 1997",
+            "date_precision": "exact",
+            "title": "Telephone disclosure to council personnel officer",
+            "category": "factual",
+            "actor": "DS Curtis",
+            "what_happened": "Peta Lack telephoned DS Curtis about Halford's suitability. Curtis said the case was not proven, the file remained open, and expressed concerns about Halford's conduct at the child protection conference.",
+            "why_it_matters": "First publication complained of; later added to the libel claim.",
+            "legal_hook": "Qualified privilege — common interest"
+          },
+          {
+            "id": "letter-publication",
+            "order": 5,
+            "date": "1997-04-04",
+            "date_label": "4 April 1997",
+            "date_precision": "exact",
+            "title": "Letter confirms undetected crime on file",
+            "category": "factual",
+            "actor": "DS Curtis",
+            "what_happened": "Curtis wrote confirming the crime record remained on file at Fareham as an undetected crime, not deleted, following CPS advice not to prosecute because of witness conflicts. The matter remained unresolved.",
+            "why_it_matters": "Principal libel complaint; central to meaning and malice arguments.",
+            "legal_hook": "Qualified privilege"
+          },
+          {
+            "id": "disciplinary-and-reinstatement",
+            "order": 6,
+            "date": "1997-06-12",
+            "date_label": "June 1997",
+            "date_precision": "month",
+            "title": "Disciplinary hearing; reinstatement without sanction",
+            "category": "institutional",
+            "actor": "Hampshire County Council",
+            "what_happened": "Disciplinary proceedings over two days in June 1997 ended with no disciplinary action; Halford was reinstated as team manager with phased return to child protection work.",
+            "why_it_matters": "Undercut any suggestion the police disclosures determined the disciplinary outcome.",
+            "legal_hook": null
+          },
+          {
+            "id": "high-court-rulings",
+            "order": 7,
+            "date": "2002-03-25",
+            "date_label": "25 March 2002",
+            "date_precision": "exact",
+            "title": "Judge enters judgment for defendants on privilege and malice",
+            "category": "decision",
+            "actor": "HHJ Richard Walker",
+            "what_happened": "After a trial with jury discharged on an earlier occasion, Judge Walker ruled both publications were on occasions of qualified privilege and that no jury properly directed could find malice against DS Curtis. Judgment was entered for the defendants.",
+            "why_it_matters": "Disposed of the claim before the Court of Appeal.",
+            "legal_hook": "Horrocks v Lowe; Alexander v Arts Council of Wales"
+          },
+          {
+            "id": "appeal-dismissed",
+            "order": 8,
+            "date": null,
+            "date_label": "Court of Appeal, 2003",
+            "date_precision": "year",
+            "title": "Appeal dismissed",
+            "category": "outcome",
+            "actor": "Simon Brown LJ (with Sedley LJ; Jacob J)",
+            "what_happened": "The Court of Appeal held communications to the council about an open undetected file were privileged and candid disclosure in child protection was lawful. The pleaded meaning that Curtis believed Halford guilty was rejected; malice could not properly be found.",
+            "why_it_matters": "Protected police disclosure to employers in child-protection contexts from inflated libel claims.",
+            "legal_hook": "Adam v Ward; qualified privilege"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "letter-publication",
+            "label": "'Undetected crime' wording",
+            "impact": "Objective meaning was unresolved suspicion, not a statement of guilt — defeating the malice case."
+          },
+          {
+            "stage_id": "high-court-rulings",
+            "label": "Privilege and malice withdrawn from jury",
+            "impact": "Experienced trial judge held perversity the only jury verdict on malice."
+          },
+          {
+            "stage_id": "appeal-dismissed",
+            "label": "Candour in child protection upheld",
+            "impact": "Confirmed police may frankly report unresolved investigations to authorities with a duty to know."
+          }
+        ],
+        "confidence": {
+          "score": 0.91,
+          "level": "high",
+          "notes": [
+            "Detailed chronology and legal analysis are in the judgment.",
+            "Court of Appeal hand-down date is not stated in the source text."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1029.json",
+      "status": "done",
+      "notes": "Catchup batch 1 generated manually for storyline backfill.",
+      "storyline": {
+        "title": "A low-profile Liberty Party member and UNHCR guidance on Zimbabwe returns",
+        "summary": "A 22-year-old Zimbabwean woman claimed asylum based on membership of the minor Liberty Party and alleged past ill-treatment. Adjudicator and Immigration Appeal Tribunal found her credible but a low-profile member unlikely to face persecution. Buxton LJ granted permission to appeal only on the Tribunal's treatment of UNHCR guidance. The Court of Appeal dismissed the appeal, holding suspension of removals policy is not determinative of individual refugee status.",
+        "span": {
+          "start": "2001-01-24",
+          "end": "2003-01-23",
+          "label": "January 2001 – January 2003"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Mhute",
+            "short_name": "Mhute"
+          },
+          {
+            "role": "respondent",
+            "name": "Secretary of State for the Home Department",
+            "short_name": "Secretary of State"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "arrival-and-claim",
+            "order": 1,
+            "date": "2001-01-24",
+            "date_label": "24 January 2001",
+            "date_precision": "exact",
+            "title": "Arrival in UK and asylum claim",
+            "category": "factual",
+            "actor": "Mhute",
+            "what_happened": "The appellant arrived in the United Kingdom and immediately claimed asylum, relying on Liberty Party membership and fear of persecution in Zimbabwe.",
+            "why_it_matters": "Started the asylum and Article 3 challenge.",
+            "legal_hook": "Refugee Convention"
+          },
+          {
+            "id": "secretary-of-state-refusal",
+            "order": 2,
+            "date": "2001-01-30",
+            "date_label": "30 January 2001",
+            "date_precision": "exact",
+            "title": "Asylum and human rights claims refused",
+            "category": "decision",
+            "actor": "Secretary of State for the Home Department",
+            "what_happened": "The Secretary of State refused asylum and human rights claims, noting the Liberty Party was very minor with little support and that the appellant had left Zimbabwe on an official passport without difficulty.",
+            "why_it_matters": "First administrative rejection of the factual basis for persecution fear.",
+            "legal_hook": "European Convention on Human Rights Article 3"
+          },
+          {
+            "id": "adjudicator-dismissal",
+            "order": 3,
+            "date": "2001-08-08",
+            "date_label": "8 August 2001",
+            "date_precision": "exact",
+            "title": "Adjudicator dismisses appeal",
+            "category": "decision",
+            "actor": "Immigration Adjudicator",
+            "what_happened": "The adjudicator found the appellant a credible witness but only a low-profile Liberty Party member; there was no reasonable likelihood of persecution or serious ill-treatment on return.",
+            "why_it_matters": "First independent assessment of individual risk.",
+            "legal_hook": "Refugee Convention — well-founded fear"
+          },
+          {
+            "id": "iat-dismissal",
+            "order": 4,
+            "date": "2002-07-26",
+            "date_label": "26 July 2002",
+            "date_precision": "exact",
+            "title": "Immigration Appeal Tribunal dismisses appeal",
+            "category": "decision",
+            "actor": "Immigration Appeal Tribunal",
+            "what_happened": "The IAT upheld findings that past incidents involved mistaken identity or general civil unrest, accepted the appellant left on her passport as a low-profile member, and held present conditions posed no risk to persons like her despite UNHCR suspension of removals.",
+            "why_it_matters": "Rejected country-wide policy as substitute for individual assessment.",
+            "legal_hook": "UNHCR letter of 11 January 2002"
+          },
+          {
+            "id": "unhcr-june-letter",
+            "order": 5,
+            "date": "2002-06-12",
+            "date_label": "12 June 2002",
+            "date_precision": "exact",
+            "title": "UNHCR letter on returns to Zimbabwe",
+            "category": "background",
+            "actor": "UNHCR UK Representative",
+            "what_happened": "Miss Dawson-Shepherd wrote that the situation had not substantially changed since January 2002 and that opposition supporters continued to face human rights violations.",
+            "why_it_matters": "Central to the sole ground on which Buxton LJ granted permission.",
+            "legal_hook": "UNHCR country guidance"
+          },
+          {
+            "id": "limited-permission",
+            "order": 6,
+            "date": "2003-01-23",
+            "date_label": "23 January 2003",
+            "date_precision": "exact",
+            "title": "Buxton LJ grants permission on UNHCR analysis only",
+            "category": "procedural",
+            "actor": "Buxton LJ",
+            "what_happened": "Permission to appeal was granted for one point only: the IAT's analysis of the UNHCR letter of 12 June 2002. Buxton LJ regarded the decision unappealable in every other respect.",
+            "why_it_matters": "Sharply confined the Court of Appeal's review.",
+            "legal_hook": null
+          },
+          {
+            "id": "appeal-dismissed",
+            "order": 7,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Appeal dismissed with costs",
+            "category": "outcome",
+            "actor": "Simon Brown LJ (with Ward LJ; Phillips MR)",
+            "what_happened": "The court held UNHCR guidance on grave risks to Mugabe opponents does not entitle every such asylum seeker to refugee status. Each case requires individual assessment; a low-profile Liberty Party member who left on an official passport failed that test. Removal was not contrary to Convention obligations.",
+            "why_it_matters": "Confirmed administrative suspension of removals is not determinative of refugee status.",
+            "legal_hook": "Refugee Convention; Article 3 ECHR"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "adjudicator-dismissal",
+            "label": "Credible but low-profile",
+            "impact": "Accepted past account yet found insufficient profile for future persecution risk."
+          },
+          {
+            "stage_id": "iat-dismissal",
+            "label": "Country policy not determinative",
+            "impact": "Tribunal separated suspension of removals from individual Convention qualification."
+          },
+          {
+            "stage_id": "appeal-dismissed",
+            "label": "Individual assessment required",
+            "impact": "Court of Appeal rejected argument that UNHCR guidance alone entitled all opponents to asylum."
+          }
+        ],
+        "confidence": {
+          "score": 0.9,
+          "level": "high",
+          "notes": [
+            "Key dates and narrow permission grant are explicit.",
+            "Court of Appeal merits judgment hand-down date is not stated."
+          ]
+        }
+      }
+    }
+  ]
+}

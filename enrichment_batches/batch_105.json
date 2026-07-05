@@ -1,0 +1,890 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/888.json",
+    "status": "done",
+    "notes": "Batch 105 enrichment",
+    "enrichment": {
+      "short_title": "Conditional extension for late PI particulars",
+      "area_of_law": [
+        "Civil procedure",
+        "Personal injury",
+        "Costs and funding"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 1.1",
+            "CPR 1.3",
+            "CPR 1.4",
+            "CPR 3.1",
+            "CPR 3.4",
+            "CPR 3.9",
+            "CPR 7.4(1)(b)"
+          ]
+        },
+        {
+          "title": "Legal Aid Act 1988",
+          "provisions": [
+            "section 18"
+          ]
+        },
+        {
+          "title": "Community Legal Services (Cost Protection) Regulations 2000",
+          "provisions": [
+            "Regulation 5",
+            "Regulation 10"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Paul Price brought a personal injury claim against his wife's hat shop employer after a 1998 workplace accident.",
+        "Particulars of claim were served over 14 months late, after the claimant sought a second medical expert without telling the defendant.",
+        "A circuit judge struck out the action; the claimant appealed on CPR 3.9 extension principles.",
+        "The Court of Appeal found serious pre-action protocol breaches and solicitor misconduct, but also error in the judge's CPR 3.9 balancing exercise.",
+        "The appeal was allowed on condition that damages were limited to injury supported by Dr Gaffney's pre-April 2001 medical evidence."
+      ],
+      "procedural_posture": "Second appeal to the Court of Appeal from a county court order striking out a personal injuries action for failure to serve particulars of claim in time.",
+      "outcome": "Appeal allowed in part: extension of time granted subject to conditions limiting the claim to pre-April 2001 medical evidence; claimant ordered to pay appeal costs.",
+      "ratio": "Where a claimant has repeatedly and deliberately failed to comply with the CPR and pre-action protocol, refusing an extension outright may be proportionate; but where doing so would bar a viable claim entirely, the court may extend time under CPR 3.1 subject to conditions that prevent the defendant being exposed to enlarged losses caused by the claimant's defaults.",
+      "legal_issues": [
+        "Application of the CPR 3.9 checklist to extensions for serving particulars of claim",
+        "Whether refusal of relief would breach Article 6",
+        "Whether conditional relief under CPR 3.1 could limit damages and special damages",
+        "Pre-action protocol compliance in personal injury claims"
+      ],
+      "catchwords": [
+        "extension of time",
+        "particulars of claim",
+        "CPR 3.9",
+        "pre-action protocol",
+        "personal injury",
+        "strike out",
+        "conditional relief",
+        "legal aid"
+      ],
+      "index_terms": [
+        "Price v Price",
+        "Poppyland Headware",
+        "Brooke LJ",
+        "Totty v Snowden",
+        "Walsh v Misseldine",
+        "Dr Gaffney",
+        "Dr Hazleman"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Totty v Snowden",
+          "citation": "[2001] EWCA Civ 1402",
+          "relation": "applied"
+        },
+        {
+          "name": "Sayers v Clarke Walker (a firm)",
+          "citation": "[2002] EWCA Civ 645",
+          "relation": "applied"
+        },
+        {
+          "name": "Biguzzi v Rank Leisure plc",
+          "citation": "[1999] 1 WLR 1926",
+          "relation": "cited"
+        },
+        {
+          "name": "Walsh v Misseldine",
+          "citation": "CAT 29 February 2000",
+          "relation": "applied"
+        },
+        {
+          "name": "Woodhouse v Consignia plc",
+          "citation": "[2002] EWCA Civ 275",
+          "relation": "cited"
+        },
+        {
+          "name": "Carlson v Townsend",
+          "citation": "[2001] EWCA Civ 511",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long, fully reasoned Court of Appeal judgment with clear order and CPR analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1862.json",
+    "status": "done",
+    "notes": "Batch 105 enrichment",
+    "enrichment": {
+      "short_title": "Council tax sole or main residence appeal",
+      "area_of_law": [
+        "Council tax",
+        "Local government finance",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government Finance Act 1992",
+          "provisions": [
+            "section 6"
+          ]
+        },
+        {
+          "title": "Litigants in Person (Costs and Expenses) Act 1975",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Williams owned Pump Cottage in Henfield but lived in college accommodation as a housemaster from 1993 to 1997.",
+        "He claimed a 50% council tax discount on the unoccupied cottage while resident at Hurstpierpoint College.",
+        "The Valuation Tribunal found Pump Cottage remained his sole or main residence and dismissed his appeal.",
+        "Unlike earlier cases, his wife lived with him at the college and he never stayed overnight at the cottage.",
+        "McCombe J held the tribunal wrongly treated security of tenure and intention to return as overriding factors."
+      ],
+      "procedural_posture": "Statutory appeal to the High Court from a Valuation Tribunal decision on council tax liability.",
+      "outcome": "Appeal allowed; matter remitted to the Valuation Tribunal for reconsideration with all relevant factors given proper weight; permission to appeal granted.",
+      "ratio": "On a council tax sole-or-main-residence appeal, the Edwards v Bairstow test applies; a tribunal errs if it elevates security of tenure and intention to return above other material factors such as where the taxpayer actually lived, where his family lived, and the reason for absence from the owned dwelling.",
+      "legal_issues": [
+        "Meaning of sole or main residence under section 6 of the Local Government Finance Act 1992",
+        "Whether the tribunal misapplied Ward, Stark and Anderton",
+        "Whether the tribunal gave undue weight to security of tenure and intention to return",
+        "Appropriate remedy on successful appeal"
+      ],
+      "catchwords": [
+        "council tax",
+        "sole or main residence",
+        "Valuation Tribunal",
+        "Edwards v Bairstow",
+        "empty property discount",
+        "job-related accommodation"
+      ],
+      "index_terms": [
+        "Williams v Horsham District Council",
+        "Pump Cottage",
+        "Hurstpierpoint College",
+        "McCombe J",
+        "Ward v Kingston",
+        "Stark v Doncaster",
+        "Anderton v Bradford"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Edwards v Bairstow",
+          "citation": "[1956] AC 14",
+          "relation": "applied"
+        },
+        {
+          "name": "Bradford Metropolitan City Council v Anderton",
+          "citation": "89 LGR 681",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Ward v Kingston-Upon-Hull City Council",
+          "citation": "[1993] RVR 71",
+          "relation": "cited"
+        },
+        {
+          "name": "Doncaster Borough Council v Stark",
+          "citation": "[1998] RVR 80",
+          "relation": "cited"
+        },
+        {
+          "name": "Bennett v Copeland Borough Council",
+          "citation": "[2003] EWHC 990 Admin",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Clear statutory appeal with detailed tribunal findings and established authority line."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1494.json",
+    "status": "done",
+    "notes": "Batch 105 enrichment",
+    "enrichment": {
+      "short_title": "Dart Harbour mooring licence judicial review",
+      "area_of_law": [
+        "Harbour law",
+        "Administrative law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Dart Harbour and Navigation Authority Act 1975",
+          "provisions": [
+            "section 3",
+            "section 20",
+            "section 30",
+            "section 33",
+            "section 38",
+            "section 39"
+          ]
+        },
+        {
+          "title": "Harbours, Docks and Piers Clauses Act 1847",
+          "provisions": [
+            "section 51",
+            "section 52",
+            "section 58"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Captain Wyatt berthed his vessel Diana Joan alongside St Peter's Quay over river bed leased by the Dart Harbour Authority.",
+        "The Authority refused an occupational licence and later a harbour mooring licence, citing navigation and fundus management concerns.",
+        "Captain Wyatt complained to the Secretary of State under section 33(3)(b) that the licence had been unreasonably refused.",
+        "The Secretary of State determined the refusal was unreasonable and that section 33 applied to the berth.",
+        "The Authority sought judicial review of that decision."
+      ],
+      "procedural_posture": "Judicial review of a Secretary of State determination under section 33 of the Dart Harbour and Navigation Authority Act 1975.",
+      "outcome": "Decision quashed; the Secretary of State had no jurisdiction because the Authority had refused an occupational licence under section 30, not a section 33 harbour licence.",
+      "ratio": "Section 33 of the 1975 Act regulates apparatus placed or used within the harbour and does not authorise occupational rights to berth on fundus land; where an applicant seeks only a section 30 occupational licence, the Secretary of State has no jurisdiction under section 33(3)(b), and shore bitts outside the harbour are not licensable mooring apparatus under section 33.",
+      "legal_issues": [
+        "Relationship between sections 30 and 33 of the Dart Harbour Act 1975",
+        "Whether section 33 applies to apparatus outside the harbour used by a vessel within it",
+        "Meaning of mooring apparatus in section 33",
+        "Whether unreasonableness in section 33(3)(b) is Wednesbury or merits-based review"
+      ],
+      "catchwords": [
+        "harbour licence",
+        "mooring",
+        "berthing",
+        "judicial review",
+        "statutory interpretation",
+        "occupational licence",
+        "fundus"
+      ],
+      "index_terms": [
+        "Dart Harbour and Navigation Authority",
+        "Captain Wyatt",
+        "Diana Joan",
+        "St Peter's Quay",
+        "Lightman J",
+        "Totnes",
+        "Duchy of Cornwall"
+      ],
+      "linked_authorities": [
+        {
+          "name": "A-G v Wright",
+          "citation": "[1897] 2 QB 318",
+          "relation": "cited"
+        },
+        {
+          "name": "Liverpool & North Wales SS Co Ltd v Mersey Trading Co",
+          "citation": "(1908) 99 LT 863",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Somerset County Council ex parte Fewings",
+          "citation": "[1995] 1 WLR 1037",
+          "relation": "cited"
+        },
+        {
+          "name": "Ipswich BC v Moore and Duke",
+          "citation": "[2001] EWCA Civ 1273",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed statutory construction judgment with clear quashing grounds."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1694.json",
+    "status": "done",
+    "notes": "Batch 105 enrichment",
+    "enrichment": {
+      "short_title": "Civil proceedings order against vexatious litigant",
+      "area_of_law": [
+        "Civil procedure",
+        "Vexatious litigation",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 42"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Attorney General applied for a civil proceedings order against Mr Simmons under section 42.",
+        "The litigation stemmed from his wife's unsuccessful application for a sub-postmaster post at Darnall.",
+        "Mr Simmons had brought about 21 related actions against the Post Office, Post Office Counters, the Co-op and his trade union.",
+        "Those actions were repeatedly struck out or dismissed for lack of jurisdiction or as scandalous and unreasonable.",
+        "Mr Simmons claimed medical unfitness to defend but produced no current medical evidence."
+      ],
+      "procedural_posture": "Application by the Attorney General for a section 42 Civil Proceedings Order before the High Court.",
+      "outcome": "Civil proceedings order made without limit of time, covering proceedings in Mr Simmons's name or that of any other person including his wife.",
+      "ratio": "Under section 42, the court may look at the whole history of a litigant's conduct rather than whether individual pleadings disclose a cause of action; where a person habitually and persistently institutes vexatious proceedings without reasonable ground, an unlimited civil proceedings order is an appropriate exercise of discretion.",
+      "legal_issues": [
+        "Whether Mr Simmons had habitually and persistently brought vexatious civil proceedings",
+        "Appropriate scope and duration of a section 42 order",
+        "Whether medical unfitness prevented the court proceeding",
+        "Application of Re Vernazza principles"
+      ],
+      "catchwords": [
+        "section 42",
+        "vexatious litigant",
+        "civil proceedings order",
+        "Attorney General",
+        "abuse of process",
+        "employment tribunal"
+      ],
+      "index_terms": [
+        "Attorney General v Simmons",
+        "Rose LJ",
+        "Darnall sub-post office",
+        "Post Office",
+        "Communications Workers Union",
+        "Re Vernazza"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re Vernazza",
+          "citation": "[1959] 1 WLR 622",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Straightforward section 42 application with extensive factual history and clear order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1726.json",
+    "status": "done",
+    "notes": "Batch 105 enrichment",
+    "enrichment": {
+      "short_title": "Prosecution costs order against bankrupt defendant",
+      "area_of_law": [
+        "Criminal costs",
+        "Magistrates' courts",
+        "Administrative law",
+        "Insolvency"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Prosecution of Offences Act 1985",
+          "provisions": [
+            "section 16(5)",
+            "section 16(6)",
+            "section 18(1)"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 142"
+          ]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Kury pleaded guilty to obtaining credit while an undischarged bankrupt and received a conditional discharge.",
+        "Maidstone magistrates initially ordered £1,800 prosecution costs, later reduced to £1,200 on reopening under section 142.",
+        "His monthly outgoings exceeded his net income by about £545 and he remained an undischarged bankrupt.",
+        "The justices relied on possible rent help from his father and voluntary reduction of child maintenance payments.",
+        "The Divisional Court held the costs order ignored his means and relevant authority."
+      ],
+      "procedural_posture": "Divisional Court judicial review of a magistrates' court prosecution costs order under section 18 of the Prosecution of Offences Act 1985.",
+      "outcome": "Application allowed; prosecution costs order quashed; claimant's costs ordered from central funds.",
+      "ratio": "A section 18 prosecution costs order must not exceed what the defendant can reasonably pay having regard to his means; magistrates cannot base an order on assumptions that a defendant will reduce voluntary child maintenance or continue to receive informal family assistance, especially where income already falls short of outgoings.",
+      "legal_issues": [
+        "Application of ex parte Dove principles to prosecution costs",
+        "Relevance of the defendant's means and bankruptcy",
+        "Whether justices took into account irrelevant considerations",
+        "Power of a Single Judge to award costs from central funds"
+      ],
+      "catchwords": [
+        "prosecution costs",
+        "section 18",
+        "magistrates",
+        "means assessment",
+        "undischarged bankrupt",
+        "ex parte Dove",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Kury v Maidstone Magistrates' Court",
+        "Rose LJ",
+        "Insolvency Act offences",
+        "Northallerton Magistrates ex p Dove",
+        "Holden v CPS"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Northallerton Magistrates' Court ex parte Dove",
+          "citation": "[2000] 1 Cr App R (S) 136",
+          "relation": "applied"
+        },
+        {
+          "name": "Holden v Crown Prosecution Service (No 2)",
+          "citation": "[1994] 1 AC 22",
+          "relation": "cited"
+        },
+        {
+          "name": "Moore",
+          "citation": "[2003] EWCA Crim 1574",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Clear Divisional Court ruling applying established costs principles to undisputed means evidence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/885.json",
+    "status": "done",
+    "notes": "Batch 105 enrichment",
+    "enrichment": {
+      "short_title": "Insurable interest in life reinsurance dispute",
+      "area_of_law": [
+        "Insurance law",
+        "Reinsurance",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Life Assurance Act 1774",
+          "provisions": []
+        },
+        {
+          "title": "Marine Insurance Act 1906",
+          "provisions": [
+            "section 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Lloyd's Syndicate 957 reinsured Steamship Mutual's personal injury liabilities through policies written by Sun Life and Phoenix.",
+        "Langley J held Steamship had an insurable interest and that reinsurers could not avoid for non-disclosure.",
+        "He also found Centaur lacked authority to bind Phoenix on one reinsurance period.",
+        "On appeal, misrepresentation and non-disclosure points were abandoned.",
+        "Ward LJ allowed the appeal on insurable interest; Dyson LJ dismissed the Syndicate's appeal on underwriting authority."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from Langley J's Commercial Court judgment on reinsurance coverage and underwriting authority.",
+      "outcome": "Appeal allowed on insurable interest and dismissed on authority; reinsurers succeeded on the insurable interest point while the Syndicate failed on Centaur's authority to write for Phoenix.",
+      "ratio": "For life and personal accident reinsurance, the Life Assurance Act 1774 requires a legal or equitable interest in the subject matter of the insurance; a mere expectation of economic benefit from another person's wellbeing is not enough to establish insurable interest, even where insurers knowingly underwrote the risk.",
+      "legal_issues": [
+        "Whether Steamship had an insurable interest in reinsurance of members' personal injury liabilities",
+        "Whether life and non-life insurance require the same concept of insurable interest",
+        "Whether Centaur had authority to write reinsurance for Phoenix",
+        "Application of Macaura and Griffiths v Fleming"
+      ],
+      "catchwords": [
+        "insurable interest",
+        "reinsurance",
+        "life assurance",
+        "personal accident",
+        "P&I club",
+        "underwriting authority",
+        "Lloyd's syndicate"
+      ],
+      "index_terms": [
+        "Feasey v Sun Life",
+        "Steamship Mutual",
+        "Syndicate 957",
+        "Centaur Underwriting",
+        "Phoenix Home Life",
+        "Ward LJ",
+        "Dyson LJ"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Macaura v Northern Assurance Co Ltd",
+          "citation": "[1925] AC 619",
+          "relation": "applied"
+        },
+        {
+          "name": "Griffiths v Fleming",
+          "citation": "[1903] 1 KB 805",
+          "relation": "applied"
+        },
+        {
+          "name": "The Capricorn",
+          "citation": "[1995] 1 Lloyd's Rep 622",
+          "relation": "cited"
+        },
+        {
+          "name": "Lucena v Craufurd",
+          "citation": "(1806) 2 Bos & Pul NR 269",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Very long judgment but core holdings on insurable interest and authority are clearly expressed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1695.json",
+    "status": "done",
+    "notes": "Batch 105 enrichment",
+    "enrichment": {
+      "short_title": "GMC bias challenge after press coverage",
+      "area_of_law": [
+        "Medical regulation",
+        "Administrative law",
+        "Natural justice",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Medical Act 1983",
+          "provisions": []
+        },
+        {
+          "title": "General Medical Council Preliminary Proceedings Committee and Professional Conduct Committee (Procedure) Rules 1988",
+          "provisions": [
+            "Rules 27",
+            "Rules 28",
+            "Rules 29"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Mahfouz faced GMC charges of serious professional misconduct relating to cosmetic laser surgery.",
+        "During the hearing, newspapers published articles mentioning prior erasure from the register in 1987.",
+        "Several committee members had read the articles, which the GMC would not have adduced at the liability stage.",
+        "The committee refused to recuse itself and later refused an adjournment to allow judicial review proceedings.",
+        "Dr Mahfouz's representatives withdrew and he sought judicial review of the committee's rulings."
+      ],
+      "procedural_posture": "Substantive judicial review of GMC Professional Conduct Committee rulings on apparent bias and refusal to adjourn.",
+      "outcome": "Claim dismissed; committee's refusal to recuse and refusal to adjourn upheld; permission to appeal refused.",
+      "ratio": "The Porter v Magill test asks whether a fair-minded and informed observer would conclude there was a real possibility of bias; reading newspaper reports about unrelated prior disciplinary history does not necessarily create apparent bias where an experienced GMC committee can distinguish admissible from inadmissible evidence and a legal assessor is available.",
+      "legal_issues": [
+        "Correct test for apparent bias in GMC proceedings",
+        "Effect of newspaper coverage on committee members",
+        "Whether the committee should have adopted the legal assessor's second question on unconscious bias",
+        "Whether refusal to adjourn breached Article 6"
+      ],
+      "catchwords": [
+        "General Medical Council",
+        "apparent bias",
+        "Porter v Magill",
+        "professional misconduct",
+        "recusal",
+        "Article 6",
+        "cosmetic surgery"
+      ],
+      "index_terms": [
+        "Mahfouz v GMC",
+        "Dr Fayez Mahfouz",
+        "Davis J",
+        "Subramanian v GMC",
+        "Roylance v GMC",
+        "Lawal v Northern Spirit"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Porter v Magill",
+          "citation": "[2002] 2 AC 357",
+          "relation": "applied"
+        },
+        {
+          "name": "Subramanian v General Medical Council",
+          "citation": "[2003] Lloyds Med Law Rep 69",
+          "relation": "applied"
+        },
+        {
+          "name": "Roylance v General Medical Council",
+          "citation": "[2002] 1 AC 311",
+          "relation": "cited"
+        },
+        {
+          "name": "Lawal v Northern Spirit Ltd",
+          "citation": "[2003] UKHL 35",
+          "relation": "applied"
+        },
+        {
+          "name": "Medicaments and Related Classes of Goods (No 2)",
+          "citation": "[2001] 1 WLR 700",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed bias judgment applying recent House of Lords and Privy Council authority."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1523.json",
+    "status": "done",
+    "notes": "Batch 105 enrichment",
+    "enrichment": {
+      "short_title": "PI policy limit for Ghana bridge claims",
+      "area_of_law": [
+        "Insurance law",
+        "Professional indemnity",
+        "Engineering negligence",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "British Standard BS5400",
+          "provisions": [
+            "Part 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mabey incurred over £2 million remedying defective unit construction bridge designs after an Ethiopian bridge failure.",
+        "Its 1996/7 professional indemnity policy had a £2 million limit for a single claim under a claims-made wording.",
+        "Ghana bridge work was split into Ghana I (1992 contract) and Ghana II (1995 contract) phases with separate design negligence.",
+        "Insurers argued there was only one claim because the contracts were varied extensions of one programme.",
+        "Morison J held there were two separate contracts and two negligent design failures, so two claims."
+      ],
+      "procedural_posture": "Preliminary issue trial in the Commercial Court on the meaning of claim under a professional indemnity policy.",
+      "outcome": "Court answered Steel J's preliminary question by finding two claims for the Ghana bridge remedial losses.",
+      "ratio": "Under a claims-made professional indemnity policy, whether there is one claim or more depends on the underlying facts rather than the claimant's formulation; separate contracts, separate negligent design work and separate losses can constitute distinct claims even where the projects form part of one commercial programme.",
+      "legal_issues": [
+        "Construction of claim in a claims-made PI policy",
+        "Whether Ghana I and Ghana II involved one contract or two",
+        "Whether design negligence in phase II was separate or merely repeated phase I errors",
+        "Application of Haydon v Lo & Lo and Citibank v Excess Insurance"
+      ],
+      "catchwords": [
+        "professional indemnity",
+        "claims made",
+        "single claim",
+        "bridge design",
+        "negligent design",
+        "policy limit",
+        "underlying facts"
+      ],
+      "index_terms": [
+        "Mabey and Johnson",
+        "Ecclesiastical Insurance",
+        "Ghana priority bridge programme",
+        "Morison J",
+        "UCB bridges",
+        "Haydon v Lo & Lo"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Haydon v Lo & Lo",
+          "citation": "[1997] 1 WLR 198",
+          "relation": "applied"
+        },
+        {
+          "name": "Citibank NA v Excess Insurance Co Ltd",
+          "citation": "[1999] 1 Lloyd's Rep 122",
+          "relation": "applied"
+        },
+        {
+          "name": "West Wake Price & Co v Ching",
+          "citation": "[1957] 1 WLR 45",
+          "relation": "cited"
+        },
+        {
+          "name": "Alliance & Leicester Building Society v Edgestop Ltd",
+          "citation": "18 January 1991",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Focused preliminary issue with detailed findings on contracts and negligence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1675.json",
+    "status": "done",
+    "notes": "Batch 105 enrichment",
+    "enrichment": {
+      "short_title": "GMC referral to Health Committee quashed",
+      "area_of_law": [
+        "Medical regulation",
+        "Professional discipline",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Medical Act 1983",
+          "provisions": [
+            "section 36",
+            "section 37",
+            "section 41A",
+            "Schedule 4 paragraph 4"
+          ]
+        },
+        {
+          "title": "General Medical Council Preliminary Proceedings Committee and Professional Conduct Committee (Procedure) Rules 1988",
+          "provisions": [
+            "Rule 22A",
+            "Rule 47",
+            "Rule 51"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Toth complained that Dr Jarman negligently failed to give intravenous glucose when his son Wilfred became hypoglycaemic.",
+        "Wilfred died in 1993; civil proceedings had found negligence but no causation of death.",
+        "The GMC misconduct hearing began in 2002 after earlier screening and judicial review history.",
+        "Dr Jarman did not attend because of psychiatric ill health and the PCC referred the case to the Health Committee under rule 51.",
+        "The Health Committee later found Dr Jarman's fitness seriously impaired and imposed conditions preventing GP practice."
+      ],
+      "procedural_posture": "Judicial review of a GMC Professional Conduct Committee decision to refer a misconduct inquiry to the Health Committee at the outset of the hearing.",
+      "outcome": "Reference to the Health Committee quashed, together with the Health Committee's subsequent decision; matter remitted to the PCC.",
+      "ratio": "Under Crabbie and Sreenath, the PCC must not refer a case to the Health Committee under rule 51 unless it is satisfied that erasure from the register would not be the appropriate sanction; that condition applies even at the outset of an inquiry and was not satisfied here.",
+      "legal_issues": [
+        "When the PCC may refer a case to the Health Committee under rule 51",
+        "Whether erasure must be excluded before referral",
+        "Whether referral was permissible without deciding stay/abuse of process applications",
+        "Discretion to refuse relief despite subsequent Health Committee findings"
+      ],
+      "catchwords": [
+        "General Medical Council",
+        "Health Committee",
+        "Professional Conduct Committee",
+        "rule 51",
+        "erasure",
+        "serious professional misconduct",
+        "Crabbie"
+      ],
+      "index_terms": [
+        "Toth v GMC",
+        "Dr Jarman",
+        "Wilfred Toth",
+        "Elias J",
+        "Crabbie v GMC",
+        "Sreenath v GMC",
+        "ex p Toth"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Crabbie v General Medical Council",
+          "citation": "Privy Council Appeal No 7 of 2002",
+          "relation": "applied"
+        },
+        {
+          "name": "Sreenath v General Medical Council",
+          "citation": "Privy Council Appeal No 26 of 2002",
+          "relation": "applied"
+        },
+        {
+          "name": "R v General Medical Council ex parte Toth",
+          "citation": "[2000] 1 WLR 1290",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Clear post-Crabbie application with explicit quashing of both PCC and Health Committee decisions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1555.json",
+    "status": "done",
+    "notes": "Batch 105 enrichment",
+    "enrichment": {
+      "short_title": "Mobile call termination charge judicial review",
+      "area_of_law": [
+        "Telecommunications regulation",
+        "Competition law",
+        "Administrative law",
+        "EU law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Telecommunications Act 1984",
+          "provisions": [
+            "section 3(1)",
+            "section 3(2)",
+            "section 7(3)",
+            "section 7(5)(a)"
+          ]
+        },
+        {
+          "title": "EC Framework Directive 2002/21",
+          "provisions": [
+            "Article 7(6)"
+          ]
+        },
+        {
+          "title": "EC Access Directive 2002/19",
+          "provisions": [
+            "Article 9(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Director General proposed price controls on mobile network operators' call termination charges.",
+        "The Competition Commission recommended caps after finding charges exceeded a fair charge.",
+        "T-Mobile, Vodafone and Orange challenged both the Commission report and licence modifications.",
+        "The dispute arose during transition from the 1984 Act regime to new EU telecommunications directives.",
+        "Moses J upheld the regulation, finding the Commission's fair charge methodology reasoned and lawful."
+      ],
+      "procedural_posture": "Judicial review of Competition Commission recommendations and Oftel/Director licence modifications on mobile termination charges.",
+      "outcome": "All applications dismissed; price caps and continuation notice upheld; permission to appeal granted on all issues.",
+      "ratio": "During the transition to the 2002 EU telecommunications directives, the Director could lawfully impose termination charge caps by licence modification where the Commission had reasonably assessed a fair charge under section 3(1)(a) of the Telecommunications Act 1984, including concepts of equity and fairness, and the regulatory steps were proportionate.",
+      "legal_issues": [
+        "Whether the Director could regulate operators not designated as having significant market power",
+        "Lawfulness of licence modifications between April 2002 and July 2003",
+        "Construction of section 3(1)(a) fair charge duty",
+        "Rationality of the Commission's externality surcharge and cost calculations"
+      ],
+      "catchwords": [
+        "call termination",
+        "mobile network operator",
+        "Competition Commission",
+        "Oftel",
+        "price control",
+        "licence modification",
+        "telecommunications"
+      ],
+      "index_terms": [
+        "T-Mobile v Competition Commission",
+        "Vodafone",
+        "Orange",
+        "Moses J",
+        "termination charges",
+        "Framework Directive",
+        "Interconnection Directive"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Very long regulatory judgment; core conclusions at paragraphs 163-164 are clear though not all sub-issues are individually traced."
+      }
+    }
+  }
+]

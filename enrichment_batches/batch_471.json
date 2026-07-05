@@ -1,0 +1,727 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/782.json",
+    "status": "done",
+    "notes": "Passport delay judicial review refused; Sullivan J accepted Deputy High Commission explanation for complex India first-passport processing.",
+    "enrichment": {
+      "short_title": "Vekariya: judicial review of British passport application delay in Mumbai",
+      "area_of_law": [
+        "Immigration law",
+        "Administrative law",
+        "Judicial review",
+        "Passport law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Vekariya applied for a British passport through the Deputy High Commission in Mumbai from 2000, with applications lapsed twice for insufficient documentation before a third application in July 2004.",
+        "He challenged the continuing delay as disproportionate and unlawful, comparing processing times with the UK Passport Service three-week guideline.",
+        "Papers were initially misdirected to Mumbai rather than the Treasury Solicitor, leading Mitting J to grant permission in the absence of an explanation.",
+        "Vice-Consul Glyn Bottrell explained that first passport applications in India require extensive identity and nationality checks, interviews, verification and often take 12–15 months or longer."
+      ],
+      "procedural_posture": "Judicial review of delay in determining a British passport application made at the British Deputy High Commission, Mumbai.",
+      "outcome": "Application refused; the court held the delays were adequately explained and were neither maladministration nor unlawful, and that lapsing applications for lack of documents was a lawful administrative procedure.",
+      "ratio": "Delay in processing a complex overseas first passport application is not unlawful merely because it exceeds domestic guideline times; lapsing an application for insufficient evidence is not equivalent to refusal and does not prevent subsequent judicial review once a final decision is taken.",
+      "legal_issues": [
+        "Whether delay in processing the passport application was so extreme as to be unlawful",
+        "Whether the lapsing procedure used by the Deputy High Commission was lawful",
+        "Whether insufficient documentation had been provided to establish nationality and identity",
+        "Whether comparison with UK Passport Service processing times was appropriate"
+      ],
+      "catchwords": [
+        "British passport",
+        "judicial review",
+        "administrative delay",
+        "Deputy High Commission",
+        "lapsed application",
+        "nationality verification"
+      ],
+      "index_terms": [
+        "Mumbai",
+        "first passport application",
+        "Treasury Solicitor",
+        "Glyn Bottrell",
+        "identity documents",
+        "statutory declaration",
+        "Foreign and Commonwealth Office"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Chronology, legal test for unlawful delay and refusal of relief are clearly recorded; judges metadata in source is empty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/653.json",
+    "status": "done",
+    "notes": "VAT civil penalty appeal; Hart J upheld tribunal on Article 6 representation, PACE Code C and dishonesty standard.",
+    "enrichment": {
+      "short_title": "Khan v Customs: VAT civil evasion penalty and Article 6 fairness",
+      "area_of_law": [
+        "Tax law",
+        "VAT",
+        "Human rights",
+        "Administrative law",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": [
+            "section 60",
+            "section 70",
+            "section 72",
+            "section 73"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 67(9)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Khan operated Greyhound Dry Cleaners and was compulsorily registered for VAT from July 1997 after Customs inferred suppressed turnover from ticket book analysis.",
+        "Customs assessed £20,793 VAT and a mitigated civil evasion penalty of £12,759 following a Notice 730 interview conducted without a PACE Code C caution.",
+        "The VAT tribunal found dishonest suppression of takings and reduced the assessment after taking account of 1999 ticket book averages.",
+        "On appeal Mr Khan argued his accountant's representation breached Article 6(3)(c), the interview evidence was unfairly obtained, and the tribunal misdirected on burden and standard of proof."
+      ],
+      "procedural_posture": "Appeal on points of law from the VAT and Duties Tribunal against compulsory VAT registration, best judgement assessment and section 60 civil evasion penalty.",
+      "outcome": "Appeal dismissed; the tribunal's findings on registration, assessment and dishonesty were upheld and Article 6, PACE and standard-of-proof challenges rejected.",
+      "ratio": "A section 60 VAT civil penalty involves a criminal charge for Article 6 purposes but not for domestic PACE purposes; inadequate representation by a chosen adviser does not require tribunal intervention unless manifestly ineffective, and civil standard dishonesty findings may stand where Customs discharged the statutory burden.",
+      "legal_issues": [
+        "Whether Article 6(3)(c) required the tribunal to intervene because the appellant was represented by his accountant",
+        "Whether Notice 730 interview evidence was inadmissible for non-compliance with PACE Code C",
+        "Whether Customs bore the burden of proving threshold exceedance and evaded VAT for penalty purposes",
+        "Whether the tribunal applied the correct civil standard for dishonesty"
+      ],
+      "catchwords": [
+        "VAT civil penalty",
+        "Notice 730",
+        "Article 6",
+        "PACE Code C",
+        "dishonesty",
+        "best judgement assessment"
+      ],
+      "index_terms": [
+        "Greyhound Dry Cleaners",
+        "ticket books",
+        "R v Gosh",
+        "Han",
+        "Gill",
+        "compulsory registration",
+        "dry cleaning turnover"
+      ],
+      "linked_authorities": [
+        "Customs & Excise Commissioners v Han and another [2001] EWCA Civ 1040",
+        "R v Gill and Another [2004] 1 WLR 469",
+        "Kamasinski v Austria (1991) 13 EHRR 36"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed reasoning on each ground and dismissal are explicit; source judges metadata appears erroneous."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/470.json",
+    "status": "done",
+    "notes": "Unfair dismissal time limit appeal; Court of Appeal upheld tribunal extension where employer guidance omitted statutory deadline.",
+    "enrichment": {
+      "short_title": "Marks & Spencer v Williams-Ryan: extension of unfair dismissal time limit",
+      "area_of_law": [
+        "Employment law",
+        "Unfair dismissal",
+        "Civil procedure",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 111(2)"
+          ]
+        },
+        {
+          "title": "Employment Act 2002 (Dispute Resolution) Regulations 2004",
+          "provisions": [
+            "regulation 15"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ms Williams-Ryan was summarily dismissed by Marks & Spencer on 17 April 2003 for swearing at a colleague after an unblemished record.",
+        "She contacted the CAB immediately but was not told of the three-month tribunal time limit and pursued the employer's internal appeal, believing she should await its outcome.",
+        "The dismissal letter and internal appeal guide mentioned tribunal rights but not the strict three-month deadline; her ET1 was lodged on 15 August 2003.",
+        "The employment tribunal and EAT held it was not reasonably practicable to present the claim in time and that she acted within a reasonable further period."
+      ],
+      "procedural_posture": "Employer's appeal to the Court of Appeal on a point of law against the employment tribunal's decision to extend time under section 111(2) ERA 1996.",
+      "outcome": "Appeal dismissed; the tribunal's findings that the employee reasonably did not know of the time limit and that employer guidance was misleading were not perverse.",
+      "ratio": "Section 111(2) is to be construed liberally in favour of employees; ignorance of the tribunal time limit may render presentation not reasonably practicable where the employee acted reasonably, and employer materials omitting the deadline can support such a finding without treating CAB advice as necessarily attributable fault.",
+      "legal_issues": [
+        "Whether it was not reasonably practicable to present the unfair dismissal claim within three months",
+        "Whether the employee was put on inquiry as to the time limit once aware of tribunal rights",
+        "Whether reliance on internal appeal procedures was irrelevant to the time limit question",
+        "Whether incorrect CAB advice precluded reliance on ignorance of the deadline"
+      ],
+      "catchwords": [
+        "unfair dismissal",
+        "time limit",
+        "reasonably practicable",
+        "internal appeal",
+        "Employment Rights Act 1996",
+        "Citizens Advice Bureau"
+      ],
+      "index_terms": [
+        "Marks & Spencer",
+        "Dedman",
+        "Palmer",
+        "London International College v Sen",
+        "Riley v Tesco",
+        "teacher training",
+        "gross misconduct"
+      ],
+      "linked_authorities": [
+        "Dedman v British Building & Engineering Appliances Ltd [1974] ICR 53",
+        "Palmer v Southend-on-Sea Borough Council [1984] ICR 372",
+        "Wall's Meat Co Ltd v Khan [1979] ICR 52"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Facts, legal principles and dismissal are comprehensively reasoned; source judges metadata includes anachronistic names."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2005/1022.json",
+    "status": "done",
+    "notes": "Arbitration award challenge dismissed; Jackson J rejected section 67/68 attacks on 22% profit margin assessment.",
+    "enrichment": {
+      "short_title": "Claire & Co v Thames Water: challenge to sewer works compensation award",
+      "area_of_law": [
+        "Arbitration",
+        "Construction law",
+        "Compulsory purchase and statutory compensation",
+        "Civil procedure",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Water Industry Act 1991",
+          "provisions": [
+            "section 158",
+            "section 161",
+            "section 162",
+            "section 180",
+            "Schedule 12 paragraph 1"
+          ]
+        },
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 33",
+            "section 34",
+            "section 67",
+            "section 68",
+            "section 69",
+            "section 70"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Claire & Co opened an estate agency at Torridon Road SE6 but Thames Water's noisy sewer works from September 1997 to July 1998 destroyed the new venture.",
+        "Thames Water admitted liability under Schedule 12 to the Water Industry Act 1991 and arbitrator Arthur Haverd awarded £108,000 compensation after a three-day hearing.",
+        "The claimant challenged the award, arguing a 22% profit margin was too low and that expert concessions on higher margins deprived the tribunal of jurisdiction or caused serious irregularity.",
+        "Mrs Jayson later sought out-of-time amendments alleging fraud and misconduct, which the court found unsubstantiated."
+      ],
+      "procedural_posture": "Technology and Construction Court application to challenge an arbitral award under sections 67 and 68 of the Arbitration Act 1996, with a later application to amend and extend time.",
+      "outcome": "All challenges dismissed; the court held there was no jurisdictional agreement on profit margin, no section 33/68 irregularity in adopting 22%, and refused permission to raise new fraud-based grounds out of time.",
+      "ratio": "An alleged expert concession at arbitration does not remove the arbitrator's jurisdiction to determine the appropriate profit margin; disagreement with an arbitrator's evaluation of evidence on quantum is not a serious irregularity under section 68 and cannot be used as a disguised appeal on fact.",
+      "legal_issues": [
+        "Whether the arbitrator lacked substantive jurisdiction because of an alleged agreed 75% margin on turnover above £100,000",
+        "Whether failure to apply a higher profit margin constituted a section 33 breach or section 68 serious irregularity",
+        "Whether late amendments alleging fraud and excess of powers should be permitted",
+        "Whether Schedule 12 compensation for statutory sewer works was correctly quantified"
+      ],
+      "catchwords": [
+        "arbitral award",
+        "serious irregularity",
+        "statutory compensation",
+        "profit margin",
+        "Water Industry Act 1991",
+        "estate agency"
+      ],
+      "index_terms": [
+        "Torridon Road",
+        "Arthur Haverd",
+        "PMI Global Growth Fund",
+        "Thames Water Utilities",
+        "loss of profits",
+        "Schedule 12",
+        "section 68"
+      ],
+      "linked_authorities": [
+        "Aoot Kalmeft v Glencore International AG [2002] 1 Lloyd's Rep 128"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full ex tempore judgment with detailed facts, legal framework and disposal on each ground."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/535.json",
+    "status": "done",
+    "notes": "Immigration maintenance undertaking appeal dismissed; 'able and willing' declaration held not an enforceable undertaking.",
+    "enrichment": {
+      "short_title": "Ahmed v DWP: whether sponsor declaration was a maintenance undertaking",
+      "area_of_law": [
+        "Immigration law",
+        "Social security law",
+        "Public law",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Rules",
+          "provisions": [
+            "Rule 317",
+            "Rule 318",
+            "Rule 319",
+            "Rule 35"
+          ]
+        },
+        {
+          "title": "Social Security Administration Act 1992",
+          "provisions": [
+            "section 105",
+            "section 106",
+            "section 78(6)"
+          ]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 115",
+            "section 115(10)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Ahmed entered the UK indefinitely in 1999 to join his nephew, who signed a statutory declaration stating he was able and willing to maintain and accommodate him without recourse to public funds.",
+        "Within five years of entry, persons subject to immigration control by reason of a maintenance undertaking are excluded from income support under section 115 of the 1999 Act.",
+        "The Secretary of State contended the declaration was a maintenance undertaking; tribunals below held it was only a statement of present ability and intention, not a promise for the future.",
+        "Mr Ahmed sought back-payment of income support for the first five years after entry."
+      ],
+      "procedural_posture": "Secretary of State's appeal to the Court of Appeal against Social Security Commissioner and appeal tribunal decisions that no maintenance undertaking had been given.",
+      "outcome": "Appeal dismissed; the declaration did not amount to an enforceable maintenance undertaking and Mr Ahmed was not excluded from income support on that basis.",
+      "ratio": "A maintenance undertaking under the immigration rules and section 115(10) requires language promising future responsibility for maintenance and accommodation; a solemn declaration that a sponsor is 'able and willing' to maintain an applicant states present capacity and intention and does not, without clearer promise, create the onerous enforceable obligation triggering welfare exclusion.",
+      "legal_issues": [
+        "Whether the nephew's statutory declaration constituted a maintenance undertaking",
+        "Whether Rule 317 required an undertaking for entry of a dependent relative",
+        "The construction of 'able and willing' language against Home Office forms RON 112 and SET(F)",
+        "Whether income support exclusion under section 115 applied for the first five years"
+      ],
+      "catchwords": [
+        "maintenance undertaking",
+        "dependent relative",
+        "income support",
+        "Immigration Rule 317",
+        "sponsor declaration",
+        "section 115"
+      ],
+      "index_terms": [
+        "Ali Ahmed",
+        "Rule 35",
+        "Social Security Commissioner",
+        "Shah v Secretary of State for Social Security",
+        "Begum",
+        "entry clearance",
+        "public funds"
+      ],
+      "linked_authorities": [
+        "Shah v Secretary of State for Social Security [2002] EWCA Civ 285",
+        "R (Begum) v Social Security Commissioner [2003] EWHC 3380 (Admin)"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Statutory framework, reasoning on substance versus form and dismissal are clearly articulated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/888.json",
+    "status": "done",
+    "notes": "Landmark five-judge judgment modifying Turner rule on advance sentence indications; Goodyear appeal partly allowed.",
+    "enrichment": {
+      "short_title": "R v Goodyear: advance sentence indications and the Turner rule",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Criminal procedure",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 79(2)",
+            "section 118(4)"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 2003",
+          "provisions": [
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Karl Goodyear pleaded guilty to corruption after the judge indicated in chambers that his case was 'not a custody case', distinguishing co-defendant Stones, a council officer.",
+        "Despite the indication and a pre-sentence report recommending a financial penalty, the judge later imposed a six-month suspended sentence for paying bribes and free rendering work to keep a contracts officer 'sweet'.",
+        "The five-judge Court of Appeal convened to reconsider whether the Turner rule prohibiting advance sentence indications should be modified.",
+        "The court held a defendant-initiated request for the maximum sentence on a guilty plea at that stage may be answered, subject to detailed safeguards."
+      ],
+      "procedural_posture": "Appeal against sentence following guilty plea to corruption, raising both breach of an earlier sentence indication and the continuing validity of the Turner practice.",
+      "outcome": "Turner substantially modified with comprehensive guidelines; the suspended sentence was quashed because the judge should have abided by his 19 April indication, but the fine was not increased.",
+      "ratio": "Where a defendant voluntarily seeks an advance indication, the judge may indicate the maximum sentence on an immediate guilty plea at that stage; once given, the indication is binding, but unsolicited indications and plea bargaining remain prohibited.",
+      "legal_issues": [
+        "Whether the judge was bound by his earlier non-custody indication",
+        "Whether the Turner rule against advance sentence indications should be modified",
+        "What safeguards apply to defendant-initiated sentence indication requests",
+        "Whether a suspended sentence was justified for corruption absent positive gain"
+      ],
+      "catchwords": [
+        "advance sentence indication",
+        "Turner",
+        "plea bargaining",
+        "corruption",
+        "binding indication",
+        "guilty plea discount"
+      ],
+      "index_terms": [
+        "Doncaster Metropolitan Council",
+        "Stainforth Estate",
+        "plea and case management hearing",
+        "Attorney General's Reference (No 1 of 2004)",
+        "Criminal Procedure Rules 2005",
+        "suspended sentence"
+      ],
+      "linked_authorities": [
+        "R v Turner [1970] 2 QB 321",
+        "Attorney General's Reference (No. 1 of 2004) [2004] 1 WLR 2111",
+        "R v Simpson [2004] QB 118"
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full five-judge guideline judgment with detailed process rules and disposition on the appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/525.json",
+    "status": "done",
+    "notes": "Costs-only appeal dismissed; Clarke LJ held issue-by-issue costs order fair after overlooked paragraph 3.",
+    "enrichment": {
+      "short_title": "Glidepath v Early Red: costs after freezing order and arbitration stay",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Arbitration",
+        "Commercial law",
+        "Injunctions"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 9",
+            "section 18",
+            "section 44"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 37"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Early Red brought fraud and mismanagement claims against Glidepath defendants in a failed joint venture and obtained ex parte worldwide freezing and disclosure orders from Holland J.",
+        "Mr Thompson applied to stay the action under section 9 and to discharge or limit the orders under section 44, arguing disclosure of merits documents exceeded arbitration preservation powers.",
+        "Eady J refused to set aside the orders for lack of jurisdiction or material non-disclosure, stayed the action, and made an issue-by-issue costs order.",
+        "Permission to appeal was granted on costs only after paragraph 3 of the order, awarding Thompson costs of the suspension application, was overlooked."
+      ],
+      "procedural_posture": "Appeal with permission limited to costs arising from Eady J's determination of applications concerning freezing orders, arbitration stay and Norwich Pharmacal relief.",
+      "outcome": "Appeal dismissed; the judge's issue-by-issue costs allocation was not wrong in principle and paragraph 3 already awarded the appellants their costs of the successful suspension application.",
+      "ratio": "An appellate court will rarely interfere with costs orders unless the judge erred in principle or reached a plainly wrong conclusion; where each party succeeds on distinct issues, dividing costs accordingly is legitimate even if one issue consumed most of the hearing.",
+      "legal_issues": [
+        "Whether the appellants should have received all or most costs after the claimants conceded a permanent suspension of merits disclosure",
+        "Whether the judge erred in ordering the appellants to pay costs of failed discharge and Norwich Pharmacal applications",
+        "The effect of overlooking paragraph 3 of the costs order on permission to appeal",
+        "Whether ex parte freezing order issues were minor compared with the stay application"
+      ],
+      "catchwords": [
+        "costs order",
+        "freezing injunction",
+        "arbitration stay",
+        "section 44",
+        "issue-based costs",
+        "ex parte disclosure"
+      ],
+      "index_terms": [
+        "Glidepath Holdings",
+        "Early Red Corporation",
+        "Eady J",
+        "Andrew Smith J",
+        "Norwich Pharmacal",
+        "English v Emery Reimbold",
+        "section 9 stay"
+      ],
+      "linked_authorities": [
+        "English v Emery Reimbold & Strick Ltd [2002] 1 WLR 2409"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Costs reasoning is clear though much underlying merits litigation is summarised; source judges metadata does not match authoring judge."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/415.json",
+    "status": "done",
+    "notes": "Financial adviser negligence appeal dismissed; Chester causation rejected for pension drawdown advice.",
+    "enrichment": {
+      "short_title": "Beary v Pall Mall: negligent pension drawdown advice and causation",
+      "area_of_law": [
+        "Professional negligence",
+        "Financial services",
+        "Pensions law",
+        "Contract law",
+        "Tort law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Financial Services Act 1986",
+          "provisions": []
+        },
+        {
+          "title": "Financial Services and Markets Act 2000",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Beary retired at 52 and, on Mr Jefferies' advice, transferred his SSAS funds into a Scottish Equitable PMI Global Growth Fund drawdown plan rather than buying an annuity.",
+        "It was admitted Jefferies negligently failed to advise on the annuity alternative; the judge found Beary would still have chosen drawdown even if told of annuities.",
+        "Beary also invested part of his tax-free lump sum in a Lombard bond on advice later held negligent; damages were limited to loss exceeding what the PMI fund would have suffered.",
+        "The Court of Appeal refused to extend Chester v Afshar causation principles to negligent financial advice."
+      ],
+      "procedural_posture": "Appeal from trial judgment dismissing the annuity claim for want of causation and awarding limited damages on the Lombard bond claim.",
+      "outcome": "Appeal dismissed on permitted grounds; permission refused on remaining grounds including index-linked annuity and drawdown suitability.",
+      "ratio": "Where negligent failure to mention an annuity option would not have altered the client's choice on the facts, conventional causation defeats the claim; Chester v Afshar does not apply generally to negligent pension or financial advice, and Bolitho hypothetical conduct analysis is inapplicable where negligence lay in omitting advice rather than in wrongful action.",
+      "legal_issues": [
+        "Whether the trial judge applied the correct causation test for failure to advise on an annuity",
+        "Whether Chester v Afshar should modify causation in negligent financial advice cases",
+        "Whether the judge should have permitted a late index-linked annuity case",
+        "How Lombard bond damages should be calculated relative to the PMI fund"
+      ],
+      "catchwords": [
+        "pension drawdown",
+        "financial adviser negligence",
+        "annuity",
+        "causation",
+        "Chester v Afshar",
+        "independent financial adviser"
+      ],
+      "index_terms": [
+        "Pall Mall Investments",
+        "PMI Global Growth Fund",
+        "Lombard bond",
+        "SSAS",
+        "Bolitho",
+        "Sir Donald Rattee",
+        "income drawdown"
+      ],
+      "linked_authorities": [
+        "Chester v Afshar [2004] UKHL 41",
+        "Bolitho v City and Hackney Health Authority [1998] AC 232",
+        "Allied Maples Group v Simmons & Simmons [1995] 1 WLR 1602"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed causation analysis and clear dismissal; source judges metadata lists unrelated Law Lords."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/783.json",
+    "status": "done",
+    "notes": "Benefit overpayment JR partly succeeded; category (2) overpayments released on bankruptcy discharge.",
+    "enrichment": {
+      "short_title": "Steele: recovery of overpaid benefits after bankruptcy discharge",
+      "area_of_law": [
+        "Social security law",
+        "Insolvency law",
+        "Administrative law",
+        "Judicial review",
+        "Housing law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Social Security Administration Act 1992",
+          "provisions": [
+            "section 1",
+            "section 71",
+            "section 75",
+            "section 187"
+          ]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 279",
+            "section 281",
+            "section 382"
+          ]
+        },
+        {
+          "title": "Housing Benefit (General) Regulations 1987",
+          "provisions": [
+            "regulation 102"
+          ]
+        },
+        {
+          "title": "Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988",
+          "provisions": [
+            "regulation 15"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Steele was made bankrupt on 14 September 2001 and discharged two years later while Birmingham City Council and the DWP continued deducting overpaid housing benefit and jobseeker's allowance from ongoing benefits.",
+        "Overpayments arose from misrepresentation; housing benefit overpayments included sums paid before bankruptcy but recovery decisions issued after the bankruptcy order.",
+        "The claimant argued overpayments in categories (1)–(3) were bankruptcy debts released on discharge under section 281 of the Insolvency Act 1986.",
+        "Authorities such as ex parte Taylor and Mulvey did not directly decide post-discharge recovery where a formal recoverability decision postdated bankruptcy."
+      ],
+      "procedural_posture": "Judicial review of decisions by Birmingham City Council and the Secretary of State for Work and Pensions to recover overpaid social security and housing benefit by deduction after discharge from bankruptcy.",
+      "outcome": "Claim partly succeeded; category (2) overpayments (paid before bankruptcy, recovery decision after bankruptcy) were bankruptcy debts released on discharge and recovery was quashed, but category (3) overpayments paid after bankruptcy remained recoverable.",
+      "ratio": "A liability to repay overpaid benefit can be a contingent bankruptcy debt under section 382 where the obligation existed before bankruptcy and crystallised on a later recovery decision; discharge releases such category (2) debts, but overpayments actually made after the bankruptcy order are not released unless they fall within another protected category.",
+      "legal_issues": [
+        "Whether overpaid benefits constitute bankruptcy debts under section 382 of the Insolvency Act 1986",
+        "Whether recovery by deduction from ongoing benefits survives discharge from bankruptcy",
+        "The classification of overpayments into categories by timing of payment and recovery decision",
+        "Whether social security legislation impliedly excludes insolvency release"
+      ],
+      "catchwords": [
+        "bankruptcy debt",
+        "benefit overpayment",
+        "judicial review",
+        "discharge from bankruptcy",
+        "housing benefit",
+        "deduction from benefits"
+      ],
+      "index_terms": [
+        "Birmingham City Council",
+        "jobseeker's allowance",
+        "incapacity benefit",
+        "section 71 recovery",
+        "Glenister v Rowe",
+        "Winter v IRC",
+        "contingent liability"
+      ],
+      "linked_authorities": [
+        "Glenister v Rowe [2000] Ch 76",
+        "Winter v Inland Revenue Commissioners [1963] AC 235",
+        "Secretary of State for Trade and Industry v Frid [2004] 2 AC 506"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Category analysis and partial quashing are clearly reasoned; source judges metadata appears incorrect."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/542.json",
+    "status": "done",
+    "notes": "Children Act shared residence appeal dismissed despite misdirection; retrial refused after 11 months' status quo.",
+    "enrichment": {
+      "short_title": "Re R children: shared residence misdirection but appeal dismissed",
+      "area_of_law": [
+        "Family law",
+        "Children law",
+        "Private law proceedings",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 1",
+            "section 1(5)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Louie and Patrick, aged 10 and 8, had lived under a five-days-with-each-parent shared care arrangement since December 2003 after their parents separated.",
+        "Both children told the CAFCASS officer they wished shared care to continue, but the officer recommended sole residence with the mother because of geographical separation and parental conflict.",
+        "Judge Swanson rejected shared residence at an early stage, relying on outdated assumptions that harmonious co-parenting was required, and granted sole residence to the mother with reduced contact.",
+        "The father's appeal was delayed by Sheffield County Court mishandling; by the time of the Court of Appeal hearing the mother's order had been in place for nearly 12 months."
+      ],
+      "procedural_posture": "Father's late appeal against a sole residence order, with extension of time granted, following private law Children Act proceedings in Sheffield County Court.",
+      "outcome": "Time extended and permission granted, but appeal dismissed in the exercise of discretion; although shared residence was misdirected, a retrial was disproportionate given the elapsed time and settled arrangements.",
+      "ratio": "Harmonious parental relations are not a prerequisite of a shared residence order and a judge must carefully weigh children's expressed wishes, but an appellate court may refuse a retrial where misdirection is shown if further litigation would risk disproportionate disruption to long-settled welfare arrangements.",
+      "legal_issues": [
+        "Whether the judge misdirected himself on the law of shared residence orders",
+        "Whether sufficient weight was given to the children's wishes",
+        "Whether delay and the status quo since the order should prevent a retrial",
+        "Whether CAFCASS opposition to shared care required rejection of the arrangement"
+      ],
+      "catchwords": [
+        "shared residence",
+        "Children Act 1989",
+        "child's wishes",
+        "CAFCASS",
+        "residence order",
+        "welfare paramountcy"
+      ],
+      "index_terms": [
+        "Louie and Patrick",
+        "Sheffield County Court",
+        "A v A (Shared Residence)",
+        "Judge Swanson",
+        "five-day rotation",
+        "contact order",
+        "Thorpe LJ"
+      ],
+      "linked_authorities": [
+        "A v A (Shared Residence) [2004] 1 FLR 1195"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Misdirection and discretionary refusal to order retrial are clearly explained; children's names anonymised in citation."
+      }
+    }
+  }
+]

@@ -1,0 +1,774 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3137.json",
+    "status": "done",
+    "notes": "Complete administrative JR judgment on Green Belt hospital planning permission; judge identified in text as Harrison J.",
+    "enrichment": {
+      "short_title": "Green Belt hospital planning permission upheld against competing-site and EIA challenges",
+      "area_of_law": [
+        "Planning law",
+        "Environmental law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999",
+          "provisions": ["reg 2(1)", "reg 3(2)", "Sch 4 Pt II paras 2-3"]
+        }
+      ],
+      "key_facts": [
+        "Tunbridge Wells Borough Council granted planning permission in April 2003 for redevelopment of Pembury Hospital in the Green Belt for a new district general hospital.",
+        "Kilmartin Properties, owner of a competing Knights Park site, sought judicial review on Green Belt policy, failure to compare alternative sites, and alleged deficiencies in the environmental statement on contamination.",
+        "The Pembury scheme involved taller buildings and an enlarged footprint including a multi-storey car park; a public inquiry on the Knights Park application was pending."
+      ],
+      "procedural_posture": "Judicial review of a local planning authority's grant of planning permission.",
+      "outcome": "Application dismissed; planning permission not quashed.",
+      "ratio": "Shortcomings in an officer's report on Green Belt harm, height and footprint criteria, and very special circumstances do not require quashing where read as a whole the decision-maker would inevitably have reached the same conclusion; alternative-site comparison is required only in exceptional cases with conspicuous adverse effects; contamination mitigation by condition can satisfy EIA requirements where remedial measures are modest and uncontroversial.",
+      "legal_issues": [
+        "Whether the council misapplied PPG2 Green Belt criteria including Annex C paragraph C4 height and footprint tests",
+        "Whether failure to consider Knights Park as an alternative site was unlawful or Wednesbury unreasonable",
+        "Whether the environmental statement adequately identified contamination effects and mitigation under Schedule 4"
+      ],
+      "catchwords": [
+        "Green Belt",
+        "very special circumstances",
+        "inappropriate development",
+        "alternative site",
+        "environmental impact assessment",
+        "planning officer report",
+        "major developed site"
+      ],
+      "index_terms": [
+        "Pembury Hospital",
+        "Knights Park",
+        "Tunbridge Wells",
+        "PPG2",
+        "Trusthouse Forte",
+        "Scott",
+        "Bellway v Gillespie"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Doncaster Borough Council v Secretary of State for the Environment, Transport and the Regions",
+          "citation": "[2002] EWHC 2081 (Admin)"
+        },
+        {
+          "name": "Trusthouse Forte Hotels Ltd v Secretary of State for the Environment",
+          "citation": "[1986] 53 P&CR 293"
+        },
+        {
+          "name": "R (Scott) v North Warwickshire Borough Council",
+          "citation": "[2001] EWCA Civ 315"
+        },
+        {
+          "name": "Bellway Urban Renewal Southern v Gillespie",
+          "citation": "[2003] EWCA Civ 400"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long first-instance judgment with clear conclusions on all three grounds; metadata judge field does not match Harrison J in the text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3133.json",
+    "status": "needs_review",
+    "notes": "Source full_text appears truncated before final orders; procedural challenge to kava-kava prohibition instruments otherwise analysable.",
+    "enrichment": {
+      "short_title": "Kava-kava prohibition challenge: flawed medicines consultation but no quashing of Order",
+      "area_of_law": [
+        "Administrative law",
+        "Food and medicines regulation",
+        "EU law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Medicines Act 1968",
+          "provisions": ["s 62", "s 85", "s 118", "s 129(6)", "s 130"]
+        },
+        {
+          "title": "Food Safety Act 1990",
+          "provisions": ["s 1", "s 16", "s 48", "s 48(4A)", "s 48(4B)"]
+        },
+        {
+          "title": "Food Standards Act 1999",
+          "provisions": ["s 1"]
+        },
+        {
+          "title": "Medicines for Human Use (Kava-Kava) Prohibition Order 2002",
+          "provisions": ["art 3(c)"]
+        },
+        {
+          "title": "Kava-Kava in Food (England) Regulations 2002",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Following hepatotoxicity concerns, kava-kava was prohibited as an unlicensed medicine and as food in England from December 2002.",
+        "Health stores challenged the procedural lawfulness of the prohibition order and food regulations, including consultation on compulsory labelling and disclosure of adverse-reaction statistics.",
+        "The CSM and Medicines Commission advised prohibition after worldwide suspected hepatotoxicity reports; Professor Ernst's later meta-analysis and opposition were considered by officials but not placed before Lord Hunt in full."
+      ],
+      "procedural_posture": "Judicial review of statutory instruments made by the Secretary of State and related food regulations.",
+      "outcome": "Grounds (1) and (3) rejected for both Order and Regulations; ground (2) rejected for food regulations; medicines consultation held procedurally flawed but no remedy indicated for the Order; ground (4) on missing food transit exemption accepted in principle with Secretary of State undertaking to reconsider—final relief not recorded in truncated text.",
+      "ratio": "Carltona and Bushell principles allow ministerial decisions to rely on responsible officials' knowledge; consultees were not materially misled by omitting breakdown of 'probable' adverse reactions; stating voluntary warnings were the only option misleadingly excluded compulsory labelling from consultation on medicines, but that flaw need not lead to quashing where warnings would not have been an adequate substitute for prohibition; food regulations were disproportionate in omitting transit exemptions mirrored in the medicines order.",
+      "legal_issues": [
+        "Whether decision-makers were adequately informed of Professor Ernst's 2002 review and opposition",
+        "Whether consultation unlawfully excluded compulsory warning labels as an option for unlicensed medicines",
+        "Whether consultees were misled by aggregate presentation of suspected adverse reaction cases",
+        "Whether food regulations were invalid for lacking goods-in-transit exemptions contained in the medicines order"
+      ],
+      "catchwords": [
+        "kava-kava",
+        "prohibition order",
+        "consultation",
+        "compulsory warnings",
+        "Medicines Commission",
+        "CSM",
+        "Carltona principle",
+        "proportionality",
+        "food transit exemption"
+      ],
+      "index_terms": [
+        "Piper methysticum",
+        "hepatotoxicity",
+        "Medicines Control Agency",
+        "Food Standards Agency",
+        "Professor Ernst",
+        "Alpharma",
+        "Best v Secretary of State for the Environment"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Carltona Ltd v Commissioners of Works",
+          "citation": "[1943] 2 All ER 560"
+        },
+        {
+          "name": "Bushell v Secretary of State for the Environment",
+          "citation": "[1981] AC 75"
+        },
+        {
+          "name": "R v Worcestershire Health Council, ex parte Kidderminster and District Community Health Council",
+          "citation": "[1999] EWCA Civ 1525"
+        },
+        {
+          "name": "DPP v Hutchinson",
+          "citation": "[1990] 2 AC 783"
+        }
+      ],
+      "confidence": {
+        "score": 0.78,
+        "level": "medium",
+        "notes": "Judgment text ends mid-conclusion at paragraph 101 without recording final relief on ground (4); metadata judges field lists unrelated historical names."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1862.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ judgment on construction of joint life policy for Inheritance Act purposes.",
+    "enrichment": {
+      "short_title": "Joint life policy death benefit held several not joint for section 9 Inheritance Act claim",
+      "area_of_law": [
+        "Insurance law",
+        "Succession and inheritance",
+        "Contract construction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Inheritance (Provision for Family and Dependants) Act 1975",
+          "provisions": ["s 1(1)(c)", "s 2", "s 3(1)(e)", "s 8", "s 9(1)", "s 9(4)", "s 25(1)"]
+        }
+      ],
+      "key_facts": [
+        "Mr and Mrs Murphy held a joint fixed-term life policy paying on first death or terminal illness; premiums continued after divorce.",
+        "After Mr Murphy's death his infant daughter claimed reasonable financial provision under the 1975 Act, arguing his severable share of the policy fell within section 9.",
+        "The trial judge held the death benefit was jointly held and severable; the Court of Appeal reformulated the preliminary issue as one of policy construction."
+      ],
+      "procedural_posture": "Appeal from preliminary issue trial in Cardiff County Court on whether policy rights were joint property under section 9.",
+      "outcome": "Appeal allowed (2-1); preliminary issue answered in the negative.",
+      "ratio": "On construction of this standard temporary assurance policy without surrender value, the death benefit was intended to pass exclusively to the surviving spouse and was owed severally rather than as a joint tenancy severable by notice; terminal illness benefit could be joint without the death benefit being joint, and policy wording did not create an estate interest in the deceased's share.",
+      "legal_issues": [
+        "Whether rights to the death benefit under the policy were joint or several",
+        "Whether section 9 treats terminal illness and death benefits identically",
+        "How composite policy forms apply where co-insureds have different interests"
+      ],
+      "catchwords": [
+        "life assurance construction",
+        "joint tenancy",
+        "severance",
+        "Inheritance Act 1975",
+        "section 9",
+        "survivorship",
+        "composite policy",
+        "terminal illness benefit"
+      ],
+      "index_terms": [
+        "Royal Life Insurance",
+        "Lifewise policy",
+        "General Accident v Midland Bank",
+        "Griffiths v Fleming",
+        "reasonable financial provision"
+      ],
+      "linked_authorities": [
+        {
+          "name": "General Accident Fire and Life Assurance Corporation v Midland Bank",
+          "citation": "[1940] 2 KB 388"
+        },
+        {
+          "name": "Griffiths v Fleming",
+          "citation": "[1909] 1 KB 805"
+        },
+        {
+          "name": "In re S",
+          "citation": "[1996] 1 WLR 235"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed agreed facts and policy clauses with clear majority reasoning on construction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1860.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ judgment dismissing quarry EIA judicial review appeal.",
+    "enrichment": {
+      "short_title": "Quarry extension EIA permission upheld despite councillor exclusion and reasons challenge",
+      "area_of_law": [
+        "Planning law",
+        "Environmental law",
+        "Local government",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999",
+          "provisions": ["reg 2(1)", "reg 3(2)", "reg 21(1)"]
+        }
+      ],
+      "key_facts": [
+        "North Yorkshire County Council granted EIA planning permission in August 2002 for extension of sand and gravel quarrying at Ripon City Quarry.",
+        "Local objectors challenged the permission, including councillor Paul Richardson's exclusion from the June 2002 committee meeting because of proximity to the site.",
+        "The permission was disputed EIA development requiring environmental information to be taken into account and stated in the decision."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from Richards J's dismissal of judicial review.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "EIA requirements that environmental information be considered and that the decision state this were satisfied on the facts; a councillor with a significant non-pecuniary interest was lawfully excluded from speaking and voting under the model code, and alleged bias or inadequate contemporaneous reasons did not vitiate the planning decision.",
+      "legal_issues": [
+        "Whether the council complied with EIA Regulations on consideration and statement of environmental information",
+        "Whether reasons for the decision were formulated lawfully and in time",
+        "Whether exclusion of Councillor Richardson from the planning committee was unlawful or gave rise to apparent bias"
+      ],
+      "catchwords": [
+        "environmental impact assessment",
+        "quarry extension",
+        "planning committee",
+        "councillor exclusion",
+        "model code of conduct",
+        "non-pecuniary interest",
+        "statement of reasons"
+      ],
+      "index_terms": [
+        "Ripon City Quarry",
+        "Brown & Potter",
+        "Paul Richardson",
+        "Littlethorpe",
+        "Directive 85/337/EEC",
+        "Directive 97/11/EC"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v North and East Devon Health Authority, ex parte Coughlan",
+          "citation": "[2001] QB 213"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Very long judgment but clear unified dismissal; some scattergun grounds not individually addressed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3106.json",
+    "status": "done",
+    "notes": "Complete Chancery appeal on Leasehold Reform Act 1967 notice amendment and Schedule 3 paragraph 3(1).",
+    "enrichment": {
+      "short_title": "Leasehold enfranchisement notice amendment allowed without mews-house rent conditions",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Leasehold enfranchisement",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Leasehold Reform Act 1967",
+          "provisions": ["s 1", "s 2", "s 3(1)", "s 3(5)", "s 8(1)", "s 9(1A)", "s 37(1)(d)", "Sch 3 para 3(1)", "Sch 3 para 6(3)"]
+        },
+        {
+          "title": "Commonhold and Leasehold Reform Act 2002",
+          "provisions": ["s 140"]
+        },
+        {
+          "title": "Landlord and Tenant Act 1954",
+          "provisions": ["Pt I", "Pt II"]
+        }
+      ],
+      "key_facts": [
+        "Tenant served a 1997 notice claiming freehold of both 76 Harley Street and mews house at 27 Weymouth Mews under one 1948 lease.",
+        "House of Lords held the combined properties were not one 'house' but the main house alone could be enfranchised; tenant then sought to amend the notice and served a 2003 notice for the mews house.",
+        "Landlord appealed against refusal to impose conditions including updated valuation date, withdrawal of the 2003 notice, and rack rent for the mews house."
+      ],
+      "procedural_posture": "Landlord's appeal from Central London County Court decision on amendment of a section 5 notice of claim and associated conditions.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "A notice extending to non-enfranchiseable property requires amendment under Schedule 3 paragraph 6(3); even a notice limited to the main house continues the whole tenancy including the mews house under paragraph 3(1), and a tenant may serve a further notice while the tenancy is so continued—so imposing rack-rent or withdrawal conditions on amendment would be unfair and unnecessary.",
+      "legal_issues": [
+        "Whether the 1997 notice required amendment after House of Lords rulings",
+        "Whether valuation date should move from 1997 to date of amendment",
+        "Whether a main-house-only notice continues tenancy of the mews house under paragraph 3(1)",
+        "Whether a second notice may be served while tenancy continues under paragraph 3(1)"
+      ],
+      "catchwords": [
+        "leasehold enfranchisement",
+        "notice of claim",
+        "Schedule 3",
+        "paragraph 3(1)",
+        "amendment",
+        "mews house",
+        "valuation date",
+        "statutory contract"
+      ],
+      "index_terms": [
+        "Harley Street",
+        "Weymouth Mews",
+        "Malekshad",
+        "Howard de Walden",
+        "Birrane",
+        "Oddy",
+        "House of Lords 2002"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Malekshad v Howard de Walden Estates Ltd",
+          "citation": "[2002] 3 WLR 1881"
+        },
+        {
+          "name": "Collin v Duke of Westminster",
+          "citation": "[1985] QB 581"
+        },
+        {
+          "name": "Mannai Investment Co Ltd v Eagle Star Life Assurance Co Ltd",
+          "citation": "[1997] AC 749"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long but complete Neuberger J judgment with explicit conclusions at paragraphs 127-138."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1856.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ employer liability appeal on bus driver assault screens.",
+    "enrichment": {
+      "short_title": "Bus operator not liable for absent assault screen where workforce opposed screens",
+      "area_of_law": [
+        "Personal injury",
+        "Employment law",
+        "Health and safety",
+        "Negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Provision and Use of Work Equipment Regulations 1992",
+          "provisions": ["reg 5(1)", "reg 5(2)", "reg 5(3)", "reg 5(4)"]
+        },
+        {
+          "title": "Council Directive 89/391/EEC (Framework Directive)",
+          "provisions": ["Art 5(1)", "Art 6(1)", "Art 6(2)"]
+        },
+        {
+          "title": "Council Directive 89/655/EEC (Work Equipment Directive)",
+          "provisions": ["Art 3(1)", "Art 3(2)", "Art 8"]
+        }
+      ],
+      "key_facts": [
+        "Bus driver Walter Searby was punched by a passenger in November 1998 and developed PTSD.",
+        "Yorkshire Traction had trialled driver screens in 1986 but removed them after driver and union opposition citing reflection, visibility and claustrophobia concerns.",
+        "About eight serious assaults per year occurred in a workforce of roughly 600 drivers operating partly urban evening routes."
+      ],
+      "procedural_posture": "Employer's appeal to the Court of Appeal against Leeds County Court liability finding.",
+      "outcome": "Appeal allowed; liability finding set aside.",
+      "ratio": "Suitability under regulation 5 requires a qualitative assessment of degree of risk in the conditions of use, not mere foreseeability of assault; given very low statistical risk, coherent driver opposition, and countervailing safety disadvantages of screens in 1998, failure to fit screens was neither negligent nor a breach of statutory duty.",
+      "legal_issues": [
+        "Whether absence of a protective screen rendered the bus unsuitable under regulation 5",
+        "Whether the trial judge misapplied the Palmer suitability test",
+        "Whether employee and union views on screens were relevant to the standard of care",
+        "Whether further investigation of alternative screen designs was causatively required by 1998"
+      ],
+      "catchwords": [
+        "assault screen",
+        "bus driver",
+        "work equipment",
+        "regulation 5 suitability",
+        "employer's liability",
+        "foreseeability",
+        "risk assessment",
+        "union opposition"
+      ],
+      "index_terms": [
+        "Yorkshire Traction",
+        "Searby",
+        "Marks and Spencer v Palmer",
+        "Cleveland Transit screen design",
+        "post-traumatic stress disorder"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Marks and Spencer plc v Palmer",
+          "citation": "[2001] EWCA Civ 1528"
+        },
+        {
+          "name": "Daborn v Bath Tramways Motor Co Ltd",
+          "citation": "[1946] 2 All ER 333"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Unanimous Court of Appeal with detailed review of evidence and Palmer principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3176.json",
+    "status": "done",
+    "notes": "Complete VAT tribunal appeal on Telewest cable TV listing magazines.",
+    "enrichment": {
+      "short_title": "Cable TV listing magazines treated as part of single standard-rated package supply",
+      "area_of_law": [
+        "Tax law",
+        "VAT",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": ["Sch 8 Group 3 Item 2", "s 47(2A)"]
+        },
+        {
+          "title": "Sixth VAT Directive (77/388/EEC)",
+          "provisions": ["Art 5(1)", "Art 5(4)(c)", "Art 13B"]
+        }
+      ],
+      "key_facts": [
+        "Telewest supplied cable television and monthly listing magazines (Cable Guide and Zap) to subscribers for a single monthly fee including a notional £3.25 magazine element.",
+        "From January 2000 a group company Publications purported to supply magazines separately via agency agreements while regional companies collected subscriptions.",
+        "Customs contended the magazines remained part of one standard-rated supply of television services, rejecting split treatment after BSkyB."
+      ],
+      "procedural_posture": "High Court appeal and cross-appeal from VAT and Duties Tribunal decision.",
+      "outcome": "Appeal dismissed; magazines standard-rated as part of package supplied by regional Telewest companies.",
+      "ratio": "For VAT purposes the essential feature is the single package marketed and contracted by the regional companies without customer choice to opt out; restructuring through Publications and agency did not create a separate zero-rated supply where subscribers paid one subscription and dealt with the regional company as supplier.",
+      "legal_issues": [
+        "Whether magazines were supplied by Publications or regional Telewest companies under VAT law",
+        "Whether agency and novation arrangements created a separate contract with subscribers",
+        "Whether the magazine supply was ancillary to the dominant television supply",
+        "Whether section 47(2A) applied"
+      ],
+      "catchwords": [
+        "VAT single supply",
+        "ancillary supply",
+        "zero-rating newspapers",
+        "composite package",
+        "agency agreement",
+        "Tolsma",
+        "Card Protection Plan"
+      ],
+      "index_terms": [
+        "Telewest",
+        "Cable Guide",
+        "Zap magazine",
+        "British Sky Broadcasting v CEE",
+        "Auto Lease Holland",
+        "Wellington Private Hospital"
+      ],
+      "linked_authorities": [
+        {
+          "name": "British Sky Broadcasting PLC v CEE",
+          "citation": "[1999] V&DR 283"
+        },
+        {
+          "name": "Card Protection Plan Ltd v CCE",
+          "citation": "[1999] STC 270"
+        },
+        {
+          "name": "Tolsma v Inspecteur der Omzetbelasting Leeuwarden",
+          "citation": "Case C-15/93"
+        },
+        {
+          "name": "CCE v Wellington Private Hospital Ltd",
+          "citation": "[1997] STC 445"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed first-instance VAT analysis with clear overall conclusion at paragraph 107."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1887.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ judgment on Lloyd's Names amendment and limitation applications.",
+    "enrichment": {
+      "short_title": "Lloyd's Names refused permission to amend for negligent misrepresentation after failed fraud trial",
+      "area_of_law": [
+        "Insurance law",
+        "Professional negligence",
+        "Limitation",
+        "Human rights",
+        "Misrepresentation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Lloyd's Act 1982",
+          "provisions": ["s 14", "s 14(2)(c)", "s 14(3)"]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": ["s 14B", "s 32(1)", "s 35(1)(b)", "s 35(3)", "s 35(4)", "s 35(5)(a)"]
+        },
+        {
+          "title": "Misrepresentation Act 1967",
+          "provisions": ["s 2(1)", "s 3"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["s 3"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["r 17.4(2)"]
+        }
+      ],
+      "key_facts": [
+        "Names who rejected Lloyd's R&R sought to amend pleadings after the Court of Appeal in Jaffray held annual brochures contained misrepresentations about audit rigour but not fraud.",
+        "Cooke J refused amendments relying on Lloyd's Act 1982 section 14 immunity for post-1982 Names and limitation under section 35(5) and section 14B.",
+        "Names argued HRA section 3 should reinterpret section 14 and that negligent misrepresentation claims arose from the same facts as the failed fraud case."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from Cooke J's refusal of applications to amend pleadings in the Lloyd's litigation.",
+      "outcome": "Appeals dismissed; Cooke J's orders upheld; permission to appeal to the House of Lords refused.",
+      "ratio": "Section 14 of the Lloyd's Act confers substantive immunity from negligence and misrepresentation claims relating to regulatory functions, not a procedural bar engageable under Article 6; negligent misrepresentation claims focus on what Lloyd's should have done and do not arise from substantially the same facts as the fraud trial focused on knowledge of falsity; section 35(5) therefore bars time-barred new causes of action.",
+      "legal_issues": [
+        "Whether HRA section 3 can construe section 14 to permit negligent misrepresentation claims",
+        "Whether section 14 is substantive immunity or procedural bar under Article 6",
+        "Whether amended claims arise from substantially the same facts as fraud claims under section 35(5)",
+        "Whether section 32 concealment or section 14B longstop assists Names",
+        "When the Lloyd's Act 1982 came into force"
+      ],
+      "catchwords": [
+        "Lloyd's Names",
+        "section 14 immunity",
+        "negligent misrepresentation",
+        "leave to amend",
+        "section 35(5)",
+        "same facts test",
+        "Equitas premium",
+        "brochure representations"
+      ],
+      "index_terms": [
+        "Jaffray v Society of Lloyd's",
+        "R&R settlement",
+        "Cooke J",
+        "Wilson v First County Trust",
+        "UNO Names",
+        "audit system representation"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Jaffray v The Society of Lloyd's",
+          "citation": "[2000] EWCA Civ 231"
+        },
+        {
+          "name": "Wilson v First County Trust Ltd (No 2)",
+          "citation": "[2003] UKHL 40"
+        },
+        {
+          "name": "Lloyd's Bank plc v Rogers",
+          "citation": "[1996] 3 EGLR 83"
+        },
+        {
+          "name": "Ashmore v Corporation of Lloyd's",
+          "citation": "[1992] 2 Lloyd's Rep 620"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Very long composite judgment but explicit final order at paragraph 166."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3160.json",
+    "status": "done",
+    "notes": "Complete administrative JR on prison rules restricting publication of prisoner autobiography.",
+    "enrichment": {
+      "short_title": "Prison may withhold Nilsen autobiography manuscript as publication-banned material",
+      "area_of_law": [
+        "Prison law",
+        "Human rights",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Prison Act 1952",
+          "provisions": ["s 1", "s 4", "s 47(1)"]
+        },
+        {
+          "title": "Prison Rules 1999",
+          "provisions": ["r 34(1)", "r 34(2)", "r 34(3)", "r 34(8)(c)"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art 10", "Art 10(2)", "Protocol 1 Art 1"]
+        }
+      ],
+      "key_facts": [
+        "Dennis Nilsen, serving whole-life terms for serial murder, wrote a lengthy prison autobiography including explicit offence details.",
+        "Prison authorities refused to return a solicitor-sent copy, finding it material intended for publication barred by Standing Order 5B paragraph 34(9)(c).",
+        "Copies existed outside prison but Nilsen sought to revise the work; much content overlapped with Brian Masters' earlier published account."
+      ],
+      "procedural_posture": "Judicial review of Governor and Secretary of State decision refusing to pass manuscript to prisoner.",
+      "outcome": "Application for judicial review refused.",
+      "ratio": "Paragraph 34(9)(c) is prescribed by law and proportionate: prison authorities may restrict publication-related material about the inmate's offences unless it comprises serious representations on conviction or serious comment on crime or justice; withholding the manuscript to prevent revised first-person publication is justified to protect morals and victims' rights despite partial prior publicity.",
+      "legal_issues": [
+        "Whether Standing Order 34(9)(c) is compatible with Article 10",
+        "Whether prison regulation may address effects outside the prison walls",
+        "Whether autobiographical writing receives special protection",
+        "Whether refusal was proportionate given existing copies and Killing for Company"
+      ],
+      "catchwords": [
+        "prison correspondence",
+        "freedom of expression",
+        "Article 10",
+        "autobiography",
+        "publication ban",
+        "Standing Order 5B",
+        "whole life tariff",
+        "proportionality"
+      ],
+      "index_terms": [
+        "Dennis Nilsen",
+        "HMP Full Sutton",
+        "Killing for Company",
+        "ex parte Simms",
+        "Mellor",
+        "Bamber v United Kingdom"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Secretary of State for the Home Department, ex parte Simms",
+          "citation": "[2000] 2 AC 115"
+        },
+        {
+          "name": "R (Mellor) v Secretary of State for the Home Department",
+          "citation": "[2001] EWCA Civ 472"
+        },
+        {
+          "name": "Raymond v Honey",
+          "citation": "[1983] 1 AC 1"
+        },
+        {
+          "name": "Nilsen v Norway",
+          "citation": "(1999) 30 EHRR 878"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment of Maurice Kay J with structured analysis of three grounds."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3297.json",
+    "status": "done",
+    "notes": "Complete administrative JR on custody time limit extension after co-defendant bail ruling.",
+    "enrichment": {
+      "short_title": "Custody time limit extension upheld where prosecution delay did not postpone trial",
+      "area_of_law": [
+        "Criminal procedure",
+        "Bail",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Prosecution of Offences Act 1985",
+          "provisions": ["s 22(3)"]
+        }
+      ],
+      "key_facts": [
+        "Three defendants awaiting trial for kidnap, GBH and attempted murder had custody time limits expiring on 8 December 2003 with trial fixed for 5 January 2004.",
+        "HHJ Faulks released co-defendant Bowron on bail for prosecution failure to disclose Metro video within seven days, but extended time limits for Willison, Dawson and Atkinson.",
+        "Applicants argued lack of due diligence against one defendant required release of all co-accused awaiting the same joint trial."
+      ],
+      "procedural_posture": "Judicial review converted to full hearing of challenge to Crown Court custody time limit extension ruling.",
+      "outcome": "Applications refused; custody time limit extensions upheld.",
+      "ratio": "Under section 22(3) due expedition and good cause are linked; prosecution failings that did not delay the predetermined trial date or affect readiness for trial do not require release on bail, and co-defendants are not automatically entitled to bail because another defendant's delay-related breach warranted release.",
+      "legal_issues": [
+        "Whether prosecution lack of due diligence in disclosure required release of all co-defendants",
+        "Whether delay must affect trial readiness or merely breach an order",
+        "Application of R v Manchester Crown Court ex parte McDonald and ex parte Quereshi principles"
+      ],
+      "catchwords": [
+        "custody time limit",
+        "due diligence",
+        "due expedition",
+        "extension",
+        "joint trial",
+        "co-defendant bail",
+        "disclosure breach",
+        "good and sufficient cause"
+      ],
+      "index_terms": [
+        "HHJ Faulks",
+        "Newcastle Crown Court",
+        "Bowron",
+        "Willison",
+        "Atkinson",
+        "Dawson",
+        "Metro video disclosure"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Manchester Crown Court, ex parte McDonald",
+          "citation": "[1999] 1 WLR 841"
+        },
+        {
+          "name": "R v Leeds Crown Court, ex parte Quereshi",
+          "citation": "21 May 1999"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Short, complete Elias J judgment applying settled CTL authority."
+      }
+    }
+  }
+]

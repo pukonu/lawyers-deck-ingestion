@@ -1,0 +1,696 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/1359.json",
+    "status": "done",
+    "notes": "Full coronial judicial review; substitution power, Rule 36 breach and costs are all clearly resolved.",
+    "enrichment": {
+      "short_title": "Mowlem v Avon coroner: unlawful inquest wording and post-verdict comments",
+      "area_of_law": [
+        "Coronial law",
+        "Administrative law",
+        "Judicial review",
+        "Health and safety",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Coroners Act 1988",
+          "provisions": [
+            "section 11(5)(b)(ii)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Rule 54.19(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mowlem Plc sought judicial review of an inquest verdict into the death of carpenter Mr Cox, injured at the Bath Spa restoration site on 23 May 2003.",
+        "Paragraph 3 of the inquisition unlawfully recorded that he 'fell from a ladder at work' after staff typed disputed facts before the jury retired.",
+        "Neither Mowlem nor the coroner wanted a fresh inquest; the deceased's widow opposed one.",
+        "The coroner also made post-verdict comments about ladder risk assessments and accident-book completion in breach of Coroners Rules 1986 Rule 36."
+      ],
+      "procedural_posture": "Judicial review of parts of a coroner's inquest verdict and of comments made after the jury's delivery.",
+      "outcome": "Court substituted 'he stumbled, tripped and/or fall at work' for the unlawful wording; declared the coroner's post-verdict comments unlawful and of no effect; coroner ordered to pay 100% of Mowlem's costs; permission to appeal refused.",
+      "ratio": "On judicial review of inquisitions the court has a residual power under CPR 54.19(3) to substitute wording where the jury's determination cannot be identified but a neutral form covering all reasonable hypotheses would not misstate their verdict; coroners must not express opinions outside Rule 36(1) matters.",
+      "legal_issues": [
+        "Whether the court could substitute words in an inquisition rather than order a fresh inquest",
+        "What wording accurately reflected the jury's determination on how the fatal injury occurred",
+        "Whether the coroner's post-verdict comments breached Rule 36(2)",
+        "From what date the coroner should be liable for the claimant's costs"
+      ],
+      "catchwords": [
+        "coroner",
+        "inquest",
+        "inquisition",
+        "judicial review",
+        "Rule 36",
+        "workplace accident"
+      ],
+      "index_terms": [
+        "Mowlem",
+        "Bath Spa",
+        "Cross Bath",
+        "substitution of words",
+        "typed inquisition",
+        "accident book"
+      ],
+      "linked_authorities": [
+        "R (Longfield Care Homes Ltd) v HM Coroner for Blackburn [2004] EWHC 2467",
+        "R v Inner South London Coroner ex parte Kendall [1988] 1 WLR 1186"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment with clear remedial orders on both challenged aspects."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/911.json",
+    "status": "needs_review",
+    "notes": "Judgment text is truncated mid-trial analysis (ends during Mr Iqbal section); final holdings on liability and quantum not present.",
+    "enrichment": {
+      "short_title": "Campden Hill v Chakrani: forged loan and solicitor fraud at Tanners Hill",
+      "area_of_law": [
+        "Commercial law",
+        "Fraud and deceit",
+        "Property law",
+        "Restitution",
+        "Equity and trusts",
+        "Professional negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law of Property (Miscellaneous Provisions) Act 1989",
+          "provisions": [
+            "section 2"
+          ]
+        },
+        {
+          "title": "Consumer Credit Act 1974",
+          "provisions": [
+            "section 137",
+            "section 138",
+            "section 139",
+            "section 140"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 35A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Campden Hill Ltd lent £500,000 secured on 120 Tanners Hill after documents apparently signed by Mr Chakrani were provided through Mrs Karim of Karim Solicitors.",
+        "The judge found Mr Chakrani did not authorise the transaction and Mrs Karim forged his signature on the loan documentation.",
+        "Mrs Karim disbursed about £290,000 to accounts controlled by Mr Chakrani from the firm's client account.",
+        "The Karim defendants conceded liability for £500,000 if forgery was proved; facility fee and restitution/tracing against Mr Chakrani remained in issue."
+      ],
+      "procedural_posture": "Trial of claims for repayment, deceit, breach of warranty of authority, knowing receipt and restitution following a freezing order.",
+      "outcome": "Judgment confirms forgery and Karim defendants' liability for £500,000 with interest; facility fee damages discounted by 20%; tracing analysis proceeds but recorded text ends before final orders on all defendants.",
+      "ratio": "Where a solicitor forges a borrower's signature, she is liable in deceit and for breach of warranty of authority; a 40% six-month facility fee may be extortionate even on a secured loan; equitable tracing through a solicitors' client account is constrained by Clayton's case where claimant funds are exhausted before later payments.",
+      "legal_issues": [
+        "Whether Mr Chakrani authorised the loan and charge",
+        "Measure of damages for breach of warranty of authority including the £200,000 facility fee",
+        "Whether section 2 LP(MP)A 1989 or section 137 CCA 1974 barred enforcement of the facility fee",
+        "Whether Campden Hill could trace loan monies paid from Karim Solicitors' client account to Mr Chakrani and Mr Iqbal"
+      ],
+      "catchwords": [
+        "forged signature",
+        "solicitor fraud",
+        "facility fee",
+        "equitable tracing",
+        "knowing receipt",
+        "breach of warranty of authority"
+      ],
+      "index_terms": [
+        "Tanners Hill SE8",
+        "Karim Solicitors",
+        "Campden Hill Ltd",
+        "client account",
+        "Clayton's case",
+        "Bannatyne v McIver"
+      ],
+      "linked_authorities": [
+        "Westdeutsche Landesbank v Islington LBC [1996] 2 AC 689",
+        "Bannatyne v D&C McIver [1906] 1 KB 103",
+        "Tootal Clothing Ltd v Guinea Properties Management Ltd [1992] 2 EGLR 80"
+      ],
+      "confidence": {
+        "score": 0.62,
+        "level": "medium",
+        "notes": "Detailed findings on forgery and tracing are present but the source JSON cuts off before complete dispositive relief."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/890.json",
+    "status": "done",
+    "notes": "Long section 23 compulsory purchase challenge; all three grounds dismissed with full reasoning.",
+    "enrichment": {
+      "short_title": "Norris v SoS: Tunstall bypass CPO and exchange open space",
+      "area_of_law": [
+        "Compulsory purchase",
+        "Planning law",
+        "Administrative law",
+        "Local government",
+        "Land law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Acquisition of Land Act 1981",
+          "provisions": [
+            "section 19(1)(a)",
+            "section 19(2)",
+            "section 23"
+          ]
+        },
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 106"
+          ]
+        },
+        {
+          "title": "Open Spaces Act 1906",
+          "provisions": []
+        },
+        {
+          "title": "Statutory Orders (Special Procedure) Act 1945",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Norris challenged the Secretary of State's October 2004 decision to make operative a compulsory purchase order for the Tunstall Northern By-pass.",
+        "A Joint Committee amendment required an additional 5.4 hectares of Clanway Farm open space beyond plots 6–9.",
+        "The Secretary of State accepted the council's Option B Phase 1 proposal with landscaped footpath links rather than land adjacent to the Greenway.",
+        "Norris argued the Secretary of State took irrelevant housing-viability considerations and failed to verify the bypass planning permission remained extant."
+      ],
+      "procedural_posture": "High Court application under section 23 of the Acquisition of Land Act 1981 (not judicial review) challenging the operative CPO decision.",
+      "outcome": "Application dismissed on all three grounds: rationality challenge, bypass planning permission challenge and consultation challenge all failed.",
+      "ratio": "When comparing exchange-land proposals under Article 3A, the Secretary of State may lawfully consider deliverability, development potential and cost; he was not obliged to investigate the bypass planning permission before making the CPO operative where no party had raised lapse and criterion (iv) concerned open-space agreements only.",
+      "legal_issues": [
+        "Whether housing viability and compulsory purchase cost were irrelevant to assessing additional open space",
+        "Whether the Secretary of State had to satisfy himself the bypass planning permission remained valid",
+        "Whether petitioners should have been consulted on planning permission status",
+        "Whether March 2002 works lawfully commenced the permitted development"
+      ],
+      "catchwords": [
+        "compulsory purchase order",
+        "exchange land",
+        "public open space",
+        "synergy",
+        "section 23",
+        "Tunstall bypass"
+      ],
+      "index_terms": [
+        "Stoke-on-Trent",
+        "Greenway",
+        "Clanway Farm",
+        "Special Parliamentary Procedure",
+        "Option B Phase 1",
+        "Henry Boot Homes"
+      ],
+      "linked_authorities": [
+        "R (Edward) v Secretary of State for the Environment, Transport and the Regions CO/3624/2000",
+        "Henry Boot Homes v Bassetlaw District Council (2003) JPL 1030"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Comprehensive section 23 judgment with explicit disposal of each ground."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/1129.json",
+    "status": "done",
+    "notes": "HPC fitness-to-practise appeal; adjournment and sentence grounds rejected with clear guidance.",
+    "enrichment": {
+      "short_title": "Azam v HPC: suspension after in-absence misconduct hearing",
+      "area_of_law": [
+        "Professional discipline",
+        "Healthcare regulation",
+        "Administrative law",
+        "Medical law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Health Act 1999",
+          "provisions": [
+            "section 60"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Azam, a registered biomedical scientist, was convicted of common assault and criminal damage and damaged NHS Trust property.",
+        "His HPC Conduct and Competence Committee refused a last-minute email adjournment and proceeded in his absence.",
+        "The panel found fitness to practise impaired by violence and imposed a six-month suspension with interim suspension pending appeal.",
+        "Because of Regulation 29(11), the suspension period had not started until the appeal was determined."
+      ],
+      "procedural_posture": "Appeal to the High Court against HPC suspension order following an in-absence fitness-to-practise hearing.",
+      "outcome": "Appeal dismissed on both grounds; court encouraged Azam to apply under Regulation 30 for review of suspension; costs contribution assessed at £5,000.",
+      "ratio": "A disciplinary panel may refuse a same-day adjournment request where witnesses are present and the applicant does not deny the allegations; sentence falls for appellate interference only if outside the range of reasonable responses, especially where fellow professionals assess impact on public confidence.",
+      "legal_issues": [
+        "Whether refusal to adjourn rendered the hearing unjust",
+        "Whether six months' suspension was unduly severe for a first disciplinary offence",
+        "Effect of interim suspension and Regulation 29(11) on timing of penalty",
+        "Appropriate costs order against a publicly funded regulator"
+      ],
+      "catchwords": [
+        "Health Professions Council",
+        "fitness to practise",
+        "suspension",
+        "adjournment",
+        "biomedical scientist",
+        "professional misconduct"
+      ],
+      "index_terms": [
+        "Conduct and Competence Committee",
+        "interim suspension",
+        "Regulation 30 review",
+        "common assault",
+        "in-absence hearing"
+      ],
+      "linked_authorities": [
+        "Newfield v The Law Society [2005] EWHC 765 (Admin)"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Appeal grounds and disposition are clearly reasoned; supplementary review guidance is explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2005/923.json",
+    "status": "done",
+    "notes": "Default declaratory judgment on threatened tort claim; jurisdiction and merits fully addressed.",
+    "enrichment": {
+      "short_title": "Equitas v Wave City: declarations on profit commission tort threat",
+      "area_of_law": [
+        "Insurance law",
+        "Reinsurance",
+        "Commercial law",
+        "European Union law",
+        "Civil procedure",
+        "Torts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Private International Law (Miscellaneous Provisions) Act 1995",
+          "provisions": [
+            "section 11(1)"
+          ]
+        },
+        {
+          "title": "Council Regulation (EC) No 44/2001",
+          "provisions": [
+            "Article 5(3)",
+            "Article 26"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Wave City and related shipowners threatened to sue Equitas and Lloyd's syndicates over Hellenic war-risk reinsurance profit commission arrangements linked to the 1991 sinking of Demetra Beauty.",
+        "Equitas and ERL sought negative declarations after Greek lawyers indicated an impending claim that profit commission induced Hellenic to reject valid claims.",
+        "Defendants did not acknowledge service despite repeated warnings and proper service in Greece, Cyprus and Liberia.",
+        "Long history of acrimonious Greek litigation between the shipowners and Hellenic preceded the threatened English claim."
+      ],
+      "procedural_posture": "Commercial Court application for default declaratory judgment and costs after defendants failed to acknowledge service.",
+      "outcome": "Declarations granted that Equitas and underwriters were not liable on the threatened tort theories; defendants ordered to pay £42,765 costs summarily assessed.",
+      "ratio": "Article 5(3) Brussels Regulation permits a domiciled defendant's victim to sue in England for a declaration that no tort was committed where the harmful event occurred in London; profit commission clauses do not induce breach of underlying insurance without intention and knowledge, and no such tort was established on the evidence.",
+      "legal_issues": [
+        "Whether the court had jurisdiction under Article 5(3) for negative declarations",
+        "Whether profit commission in reinsurance could constitute inducing breach of insurance contract",
+        "Whether declaratory relief was appropriate against non-participating defendants",
+        "Limitation and membership timing for Robin and Leoninus expulsion claims"
+      ],
+      "catchwords": [
+        "profit commission",
+        "inducing breach of contract",
+        "declaratory relief",
+        "default judgment",
+        "war risks",
+        "jurisdiction"
+      ],
+      "index_terms": [
+        "Demetra Beauty",
+        "Hellenic War Risks",
+        "Equitas",
+        "Janson Green Syndicate 79",
+        "Boss Group",
+        "service regulation"
+      ],
+      "linked_authorities": [
+        "Boss Group Ltd v Boss France SA [1997] 1 WLR 351",
+        "Handelswerkerij GJ Bier NV v SA Mines de Potasse d'Alsace [1978] QB 708",
+        "Patten v Burke Publishing [1991] 1 WLR 541"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete judgment with scheduled declarations and costs assessment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2005/1092.json",
+    "status": "done",
+    "notes": "Consent declarations on HFEA enforcement discretion and DPP policy after Evans litigation.",
+    "enrichment": {
+      "short_title": "HFEA v Amicus: lawfulness of storing Evans embryos pending ECtHR",
+      "area_of_law": [
+        "Medical law",
+        "Human rights",
+        "Reproductive law",
+        "Criminal law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Fertilisation and Embryology Act 1990",
+          "provisions": [
+            "section 3",
+            "section 12(c)",
+            "section 17(1)(e)",
+            "section 18",
+            "section 41",
+            "Schedule 3 paragraph 8(2)"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Following Evans v Amicus in the Court of Appeal, Mr Johnston withdrew consent to storage of embryos created with Ms Evans at the Bath Assisted Conception Clinic.",
+        "Continued storage breached licence conditions and potentially section 41 HFE Act, but the ECtHR issued a Rule 39 indication to preserve embryos pending Strasbourg proceedings.",
+        "HFEA and the clinic sought declarations that regulatory forbearance and the DPP's non-prosecution stance were lawful.",
+        "Parties consented to first two declarations; third legitimate-expectation declaration was refused."
+      ],
+      "procedural_posture": "Part 8 claim for declaratory relief on lawfulness of HFEA non-enforcement and DPP prosecution policy while embryos remain stored.",
+      "outcome": "Court granted amended first and second declarations; declined third declaration on substantive legitimate expectation as a matter of discretion.",
+      "ratio": "HFEA may lawfully exercise its section 18 discretion not to revoke a licence where enforcement would conflict with the UK's Article 34 ECHR obligations; the DPP may publish policy guidance consistent with Pretty v DPP without granting immunity from prosecution for future offences.",
+      "legal_issues": [
+        "Whether HFEA could refrain from licence enforcement pending ECtHR proceedings",
+        "Whether the DPP's public interest indication on section 41 prosecutions was lawful",
+        "Whether the clinic had a substantive legitimate expectation against enforcement or prosecution",
+        "Whether domestic courts could hold the ring pending Strasbourg determination"
+      ],
+      "catchwords": [
+        "embryo storage",
+        "withdrawal of consent",
+        "Human Fertilisation and Embryology Authority",
+        "Rule 39 indication",
+        "legitimate expectation",
+        "section 41"
+      ],
+      "index_terms": [
+        "Natallie Evans",
+        "Bath Assisted Conception Clinic",
+        "Mamatkulov v Turkey",
+        "Evans v Amicus",
+        "Director of Public Prosecutions"
+      ],
+      "linked_authorities": [
+        "Evans v Amicus Healthcare Ltd [2005] Fam 1",
+        "R (Pretty) v DPP",
+        "Ghaidan v Godin-Mendoza [2004] 1 WLR 113"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Final declarations granted or refused with detailed legal analysis on each limb."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/888.json",
+    "status": "done",
+    "notes": "Director disqualification appeal comprehensively dismissed; permission and late evidence issues resolved.",
+    "enrichment": {
+      "short_title": "Paulin: seven-year disqualification for Crown debt and asset hive-off",
+      "area_of_law": [
+        "Company law",
+        "Insolvency",
+        "Director disqualification",
+        "Tax law",
+        "Equity and trusts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Company Directors Disqualification Act 1986",
+          "provisions": [
+            "section 6",
+            "section 21(2)",
+            "Schedule 1"
+          ]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 239"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Paulin acquired Premier Screw from Tomkins via Croftacre and, while Crown debts rose by £540,362, paid £2.8m to other creditors.",
+        "On 26 October 2000 he caused the company to sell its business to group companies for set-off against debts not reflected in the accounts.",
+        "The Registrar found unfitness for trading to Crown detriment and a preferential transaction leaving the Revenue an empty shell.",
+        "Paulin sought late evidence after a reserved judgment and appealed both the refusal to admit it and the seven-year disqualification."
+      ],
+      "procedural_posture": "Appeal to a High Court judge against Registrar's disqualification order and refusal of permission to adduce post-trial evidence.",
+      "outcome": "Both appeals dismissed; seven-year disqualification upheld; no permission required for appeal from Registrar under insolvency practice direction.",
+      "ratio": "Non-payment of Crown debts pursuant to a director's instruction and a pre-insolvency hive-off of assets to connected companies warrant disqualification; late evidence seeking a retrial after reserved judgment requires strong reasons and will be refused where it merely replugs gaps in an unsuccessful defence.",
+      "legal_issues": [
+        "Whether permission to appeal a section 6 disqualification order is required",
+        "Whether the Registrar should have admitted further evidence after trial",
+        "Whether Crown debt non-payment and October 2000 sale rendered Paulin unfit",
+        "Whether seven years fell within the appropriate disqualification bracket"
+      ],
+      "catchwords": [
+        "director disqualification",
+        "Crown debts",
+        "preference",
+        "hive-off",
+        "unfitness",
+        "Ladd v Marshall"
+      ],
+      "index_terms": [
+        "Premier Screw",
+        "Croftacre",
+        "Registrar",
+        "Charlesworth v Relay Roads",
+        "Re Sevenoaks Stationers"
+      ],
+      "linked_authorities": [
+        "Re Grayan [1995] Ch 241",
+        "Re Sevenoaks Stationers Ltd [1991] Ch 164",
+        "Charlesworth v Relay Roads Ltd [2000] 1 WLR 230"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full appellate judgment addressing all four issues with clear outcomes."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/1111.json",
+    "status": "done",
+    "notes": "Case stated appeal on toy classification; convictions upheld with minor CE-mark error corrected.",
+    "enrichment": {
+      "short_title": "PMS v NE Lincolnshire: £1 stationery set classified as toy",
+      "area_of_law": [
+        "Consumer protection",
+        "Product safety",
+        "Criminal law",
+        "Trading standards",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Consumer Protection Act 1987",
+          "provisions": []
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A 12-year-old bought an 'A Plus Office Stationery Set' containing pens, stapler, scissors and a craft knife from a £1 shop.",
+        "Trading Standards prosecuted PMS (supplier) and the retailer after the set lacked child-safe pen caps and knife warnings.",
+        "Justices found the miniaturised, brightly coloured set was targeted at under-14s with play value despite office branding.",
+        "The set was displayed near children's colouring books and bore a CE mark styled like the toy safety mark."
+      ],
+      "procedural_posture": "Appeal by case stated from magistrates' convictions under the Toys (Safety) Regulations 1995.",
+      "outcome": "Appeal dismissed; convictions upheld; case remitted for sentence; respondents' costs assessed at £4,300.",
+      "ratio": "A product is a 'toy' if objectively designed or clearly intended for play by children under 14, assessed from targeting factors such as size, price, display and limited adult utility; inclusion of a craft knife unlawful for under-16s does not negate toy status when viewed in the round.",
+      "legal_issues": [
+        "Whether manufacturers' subjective intent precluded a toy finding",
+        "Whether the CE mark and shop positioning were admissible indicia",
+        "Whether craft-knife inclusion made toy classification impossible",
+        "Whether expert evidence should have dictated the justices' conclusion"
+      ],
+      "catchwords": [
+        "Toys (Safety) Regulations",
+        "stationery set",
+        "CE mark",
+        "trading standards",
+        "case stated",
+        "play value"
+      ],
+      "index_terms": [
+        "A Plus Office Stationery Set",
+        "Freshney Place Grimsby",
+        "functional toy",
+        "PMS International",
+        "magistrates appeal"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full case stated with three questions answered and convictions preserved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/1468.json",
+    "status": "done",
+    "notes": "Costs judgment after discontinued FII GLO judicial review; 85% procedural costs ordered.",
+    "enrichment": {
+      "short_title": "Aegis v Revenue: costs of discontinued s.320 judicial review",
+      "area_of_law": [
+        "Tax law",
+        "European Union law",
+        "Civil procedure",
+        "Costs",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Finance Act 2004",
+          "provisions": [
+            "section 320",
+            "section 320(3)"
+          ]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 32(1)(c)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Aegis issued a Chancery GLO claim for FII/franked investment income tax restitution and also applied to judicial review section 320 Finance Act 2004.",
+        "Section 320 reversed limitation advantages from Deutsche Morgan Grenfell and was listed as GLO issue (Q).",
+        "Dorsey & Whitney invoked the judicial review pre-action protocol but the Revenue did not reply for nearly two months.",
+        "The judicial review claim was transferred to the Chancery Division and discontinued; validity of s.320 to be litigated under issue (Q)."
+      ],
+      "procedural_posture": "Costs dispute following discontinuance of judicial review claim transferred from the Administrative Court to Chancery proceedings.",
+      "outcome": "Aegis ordered to pay 85% of the Revenue's assessed procedural costs of the discontinued judicial review; permission would have been refused had the claim continued.",
+      "ratio": "Judicial review was a misconceived vehicle where GLO issue (Q) provided an adequate Chancery remedy and s.320(3) did not preclude raising invalidity in those proceedings; Revenue breach of the pre-action protocol justified only a 15% costs reduction.",
+      "legal_issues": [
+        "Whether Aegis should pay the Revenue's costs of the discontinued judicial review",
+        "Whether judicial review was appropriate given FII GLO issue (Q)",
+        "Effect of non-compliance with the judicial review pre-action protocol",
+        "Whether s.320(3) deemed discontinuance of the Chancery action"
+      ],
+      "catchwords": [
+        "Finance Act 2004",
+        "judicial review",
+        "group litigation order",
+        "costs",
+        "pre-action protocol",
+        "mistake of law"
+      ],
+      "index_terms": [
+        "FII GLO",
+        "issue Q",
+        "Deutsche Morgan Grenfell",
+        "Metallgesellschaft",
+        "Dorsey & Whitney",
+        "Franked Investment Income"
+      ],
+      "linked_authorities": [
+        "Deutsche Morgan Grenfell Group Plc v IRC [2003] EWHC 1779",
+        "Metallgesellschaft Ltd v IRC (Case C-397/98)",
+        "Marks & Spencer plc v Customs and Excise (Case C-62/00)"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete costs judgment with detailed factual background and clear percentage order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2005/1518.json",
+    "status": "done",
+    "notes": "Costs-capping appeal in hydrocephalus clinical negligence; Master's order upheld.",
+    "enrichment": {
+      "short_title": "Sheppard twins: appeal against claimants' costs cap order",
+      "area_of_law": [
+        "Clinical negligence",
+        "Civil procedure",
+        "Costs",
+        "Personal injury",
+        "Case management"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Twins Toby and Louisa Sheppard claim negligent management of hydrocephalus shunts caused additional brain damage, stroke and lifelong dependency.",
+        "Claimants estimate total costs over £515,000 against defendants' estimate of about £162,000; damages claimed exceed £5 million combined.",
+        "Master Ungley imposed a costs cap on claimants' costs with levels to be fixed by a Costs Judge after wide estimate disparities.",
+        "The case has a long history, eleven experts approved, and substantial costs already incurred over many years."
+      ],
+      "procedural_posture": "Appeal from Master Ungley's costs-capping order under CPR 52.11 in ongoing clinical negligence litigation.",
+      "outcome": "Appeal dismissed; costs cap in principle upheld and referral to Costs Judge for level regarded as appropriate prospective control.",
+      "ratio": "Where publicly funded clinical negligence litigation shows a real risk of unreasonable or disproportionate future costs that post-trial assessment may not effectively control, the court may impose a prospective costs cap or budget as part of active case management under the CPR overriding objective.",
+      "legal_issues": [
+        "Whether Master Ungley erred in imposing a costs cap on the claimants",
+        "Whether there was a real risk of disproportionate or unreasonable costs",
+        "Whether conventional case management and detailed assessment sufficed",
+        "Appropriate test following Smart v East Cheshire and Leigh v Michelin"
+      ],
+      "catchwords": [
+        "costs cap",
+        "clinical negligence",
+        "costs budgeting",
+        "proportionality",
+        "hydrocephalus",
+        "public funding"
+      ],
+      "index_terms": [
+        "Essex County Hospital",
+        "Gadsby Wicks",
+        "Master Ungley",
+        "Smart v East Cheshire NHS Trust",
+        "Ledward claimants",
+        "Supreme Court Costs Office"
+      ],
+      "linked_authorities": [
+        "Smart v East Cheshire NHS Trust [2003] EWHC 2806 (QB)",
+        "Leigh v Michelin Tyre plc [2004] 1 WLR 847",
+        "Ledward Claimants v Kent & Medway Health Authority [2003] EWHC 2551 (QB)"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full appellate reasoning endorsing prospective costs control in an unusual long-running claim."
+      }
+    }
+  }
+]

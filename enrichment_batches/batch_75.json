@@ -1,0 +1,818 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/960.json",
+    "status": "done",
+    "notes": "Batch 75 enrichment",
+    "enrichment": {
+      "short_title": "EIA challenge to Bishopsgate Goods Yard demolition",
+      "area_of_law": [
+        "Planning law",
+        "Environmental law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 90(2A)",
+            "section 106",
+            "section 288"
+          ]
+        },
+        {
+          "title": "Transport and Works Act 1992",
+          "provisions": [
+            "section 1"
+          ]
+        },
+        {
+          "title": "Environmental Impact Assessment Regulations 1999",
+          "provisions": [
+            "regulation 4",
+            "regulation 25",
+            "Schedule 4"
+          ]
+        },
+        {
+          "title": "EC Directive 85/337/EEC (as amended)",
+          "provisions": [
+            "environmental impact assessment requirements"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Prokopp sought to stop London Underground demolishing parts of Bishopsgate Goods Yard for the East London Line extension without fresh planning permission.",
+        "Hackney and Tower Hamlets had decided not to take enforcement action despite the absence of planning permission for demolition.",
+        "An environmental impact assessment had been carried out in 1993 when the Transport and Works Act order and deemed planning permission were granted.",
+        "Collins J held there had been substantial compliance with the EIA Directive but quashed the councils' decisions because enforcement was deferred before section 106 conditions were in place."
+      ],
+      "procedural_posture": "Judicial review claim with interim injunction, amended to challenge local planning authorities' decisions not to enforce against unauthorised demolition.",
+      "outcome": "Claim largely succeeded; councils' non-enforcement decisions quashed for reconsideration, but no new EIA was required before lawful reconsideration.",
+      "ratio": "Where a development already has deemed planning permission supported by an earlier EIA, councils may lawfully decide not to enforce demolition works without a further EIA if there has been substantial compliance with the Directive and the main environmental issues were already addressed; however, a decision not to enforce cannot properly be taken before all necessary section 106 conditions are in place.",
+      "legal_issues": [
+        "Whether demolition without planning permission required a fresh environmental impact assessment",
+        "Whether Hackney and Tower Hamlets acted unlawfully in declining enforcement action",
+        "Application of Berkeley v Secretary of State for the Environment on substantial compliance",
+        "Whether relief should be refused in the court's discretion"
+      ],
+      "catchwords": [
+        "environmental impact assessment",
+        "substantial compliance",
+        "enforcement notice",
+        "planning permission",
+        "listed building",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Prokopp",
+        "London Underground",
+        "Bishopsgate Goods Yard",
+        "East London Line extension",
+        "Hackney",
+        "Tower Hamlets",
+        "Berkeley"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Berkeley v Secretary of State for the Environment",
+          "citation": "[2001] 2 AC 603",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Huddleston ex parte Bradford Metropolitan City Council",
+          "citation": null,
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Long judgment with detailed EIA and enforcement reasoning; outcome and ratio are clearly stated in paragraphs 36-39."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/817.json",
+    "status": "done",
+    "notes": "Batch 75 enrichment",
+    "enrichment": {
+      "short_title": "MoD appeal over Bosnia AFV crash liability",
+      "area_of_law": [
+        "Personal injury",
+        "Negligence",
+        "Military claims"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "John Paul Young suffered serious injuries when an armoured fighting vehicle he was driving crashed through a barrier on a mountain road in Bosnia in November 1996.",
+        "He alleged the accident was caused by excessive play in the left steering tiller and defective brake drums on the AFV.",
+        "The county court judge found the left tiller was out of adjustment but concluded neither alleged defect materially contributed to the accident.",
+        "The judge held on the balance of probabilities that driver error, not mechanical failure, caused the crash in which Lance Corporal Thirlwell was killed."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal with permission against dismissal of a personal injury claim in the county court.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Where alleged vehicle defects are established but expert and factual evidence shows they would not have manifested during the journey before the accident and the experienced driver would have stopped if they had caused difficulty, a trial judge is entitled to find that driver error rather than mechanical defect caused the accident.",
+      "legal_issues": [
+        "Whether the judge could properly reject mechanical defects as the cause of the AFV crash",
+        "Effect of excessive tiller free play on steering control",
+        "Whether scored and pitted brake drums materially impaired braking",
+        "Appellate review of factual causation findings"
+      ],
+      "catchwords": [
+        "personal injury",
+        "negligence",
+        "causation",
+        "driver error",
+        "armoured vehicle",
+        "Ministry of Defence"
+      ],
+      "index_terms": [
+        "Young",
+        "Ministry of Defence",
+        "Bosnia",
+        "armoured fighting vehicle",
+        "brake drums",
+        "steering tiller"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed fact findings and expert evidence on vehicle defects."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/996.json",
+    "status": "done",
+    "notes": "Batch 75 enrichment",
+    "enrichment": {
+      "short_title": "CPR 32.12 disclosure for reinsurers at settlement conference",
+      "area_of_law": [
+        "Civil procedure",
+        "Commercial litigation",
+        "Insurance law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 32.12"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Hollywood Realisations Trust Ltd sued Lexington Insurance and others over film finance losses in massive multi-phase Commercial Court litigation exceeding £25 million in costs.",
+        "Lexington sought an order under CPR 32.12 permitting witness statements and expert reports already exchanged to be disclosed to its reinsurers for a court-ordered settlement conference.",
+        "JLT objected that wider disclosure would prejudice its position and that reinsurers could not absorb the volume of documents in the time available.",
+        "Colman J granted the application subject to strict conditions limiting recipients, use, and return of documents after the conference."
+      ],
+      "procedural_posture": "Application under CPR 32.12 during pre-trial case management in large multi-party commercial proceedings.",
+      "outcome": "Application granted, subject to confidentiality conditions restricting use of witness statements and expert reports to the settlement conference.",
+      "ratio": "Although witness statements served but not yet put in evidence are ordinarily privileged and usable only for the proceedings in which they are served, the court may permit other use under CPR 32.12(2)(b) where strong countervailing public policy favours facilitating settlement of very large litigation, provided disclosure is narrowly confined and protective conditions are imposed.",
+      "legal_issues": [
+        "Scope of the implied restriction on use of exchanged witness statements",
+        "Whether public interest in settlement can override confidentiality of unused witness statements",
+        "Appropriate conditions for limited disclosure to reinsurers",
+        "Application of Comfort Hotels v Wembley Stadium and Prudential Assurance v Fountain Page"
+      ],
+      "catchwords": [
+        "CPR 32.12",
+        "witness statements",
+        "expert reports",
+        "privileged documents",
+        "settlement conference",
+        "reinsurance"
+      ],
+      "index_terms": [
+        "Hollywood Realisations Trust",
+        "Lexington Insurance",
+        "JLT",
+        "Commercial Court",
+        "film finance",
+        "ADR order"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Comfort Hotels Ltd v Wembley Stadium Ltd",
+          "citation": "[1988] 1 WLR 872",
+          "relation": "cited"
+        },
+        {
+          "name": "Prudential Assurance Co Ltd v Fountain Page Ltd",
+          "citation": "[1991] 1 WLR 756",
+          "relation": "applied"
+        },
+        {
+          "name": "Rush & Tompkins Ltd v Greater London Council",
+          "citation": "[1989] AC 1280",
+          "relation": "cited"
+        },
+        {
+          "name": "Riddick v Thames Board Mills Ltd",
+          "citation": "[1977] QB 881",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Focused procedural judgment with clear statutory analysis and outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/961.json",
+    "status": "done",
+    "notes": "Batch 75 enrichment",
+    "enrichment": {
+      "short_title": "Vitamins cartel damages jurisdiction challenge",
+      "area_of_law": [
+        "Competition law",
+        "Civil procedure",
+        "Private international law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "EC Treaty",
+          "provisions": [
+            "Article 81"
+          ]
+        },
+        {
+          "title": "Council Regulation (EC) No 44/2001",
+          "provisions": [
+            "Article 5(3)",
+            "Article 6(1)",
+            "Article 17",
+            "Article 23"
+          ]
+        },
+        {
+          "title": "Lugano Convention",
+          "provisions": [
+            "Article 5(2)",
+            "Article 6(1)",
+            "Article 17"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Following a European Commission decision finding vitamin cartels contrary to Article 81, Provimi, Trouw and related companies brought follow-on damages claims in England against Roche and Aventis group companies.",
+        "Defendants applied to strike out claims or challenge jurisdiction relying on Swiss, German and French jurisdiction clauses in supply contracts.",
+        "Aikens J held the jurisdiction clauses were insufficiently wide to cover tort claims for damages arising from Article 81 infringements.",
+        "The English court could therefore hear the claims under Articles 5 and 6 of Regulation 44/2001 and the Lugano Convention."
+      ],
+      "procedural_posture": "Interlocutory applications in Commercial Court proceedings to strike out claims and challenge jurisdiction in EC competition damages actions.",
+      "outcome": "Strike-out and jurisdiction challenges rejected; English proceedings permitted to continue against the challenged defendants.",
+      "ratio": "Contractual jurisdiction clauses drafted for contractual disputes do not ordinarily cover follow-on tort claims for damages for Article 81 infringements characterised as torts of intent or fraud, so claimants may sue in England under the special jurisdiction and joinder provisions of Regulation 44/2001 and the Lugano Convention.",
+      "legal_issues": [
+        "Whether follow-on Article 81 damages claims are arguable in English proceedings",
+        "Construction of Swiss, German and French jurisdiction clauses",
+        "Application of Article 17 of the Lugano Convention and Article 23 of Regulation 44/2001",
+        "Whether Article 6(1) permits joinder of foreign defendants in England"
+      ],
+      "catchwords": [
+        "Article 81",
+        "vitamins cartel",
+        "jurisdiction clause",
+        "follow-on damages",
+        "Brussels Regulation",
+        "Lugano Convention"
+      ],
+      "index_terms": [
+        "Roche",
+        "Provimi",
+        "Aventis",
+        "Trouw",
+        "European Commission decision",
+        "competition damages"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Very long multi-folio judgment; core jurisdiction conclusions at paragraphs 128-129 are clear, though strike-out reasoning is extensive."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1107.json",
+    "status": "done",
+    "notes": "Batch 75 enrichment",
+    "enrichment": {
+      "short_title": "Unlawful immigration detention pending appeal",
+      "area_of_law": [
+        "Immigration law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3(1)",
+            "section 6(1)",
+            "section 7",
+            "section 8",
+            "Schedule 1 Article 5"
+          ]
+        },
+        {
+          "title": "Immigration Act 1971",
+          "provisions": [
+            "Schedule 2 paragraph 8",
+            "Schedule 2 paragraph 16",
+            "Schedule 2 paragraph 21"
+          ]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 65"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 5(1)(f)",
+            "Article 5(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Amirthanathan, a Sri Lankan asylum seeker, was detained on 6 November 2002 when his human rights claim was refused, although he had indicated he would appeal under section 65.",
+        "The Home Office said detention was to effect removal and to secure attendance at a Sri Lankan High Commission documentation interview.",
+        "He was released on 15 November 2002 after a formal appeal was lodged, but remained detained for about nine days.",
+        "The court held detention was contrary to the Secretary of State's own detention policy and incompatible with Article 5 because removal was not imminent during the short gap before formal appeal papers were lodged."
+      ],
+      "procedural_posture": "Judicial review claim challenging immigration detention, with Article 5 ECHR added on adjournment.",
+      "outcome": "Claim allowed; declaration that detention between 6 and 15 November 2002 was unlawful; permission to appeal granted.",
+      "ratio": "Immigration detention to effect removal is unlawful where the Secretary of State's policy treats removal as no longer imminent once an appeal is pending or clearly intended, and detaining a person solely because formal appeal papers have not yet been lodged in that short interim period is a disproportionate and overly formalistic interference with liberty under Article 5(1)(f).",
+      "legal_issues": [
+        "Whether detention breached the Secretary of State's published detention policy on imminent removal",
+        "Meaning of 'imminent' where informal notice of appeal has been given but formal papers not yet lodged",
+        "Whether Article 5(1)(f) requires necessity or permits proportionality review",
+        "Lawfulness of detention to compel cooperation with travel document interviews"
+      ],
+      "catchwords": [
+        "immigration detention",
+        "Article 5",
+        "human rights",
+        "imminent removal",
+        "detention policy",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Amirthanathan",
+        "Secretary of State for the Home Department",
+        "Nadarajah",
+        "Khawaja",
+        "Saadi",
+        "Chahal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Secretary of State for the Home Department, ex parte Khawaja",
+          "citation": "[1984] AC 74",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Nadarajah) v Secretary of State for the Home Department",
+          "citation": "[2002] EWHC 2595 (Admin)",
+          "relation": "followed"
+        },
+        {
+          "name": "Chahal v United Kingdom",
+          "citation": "(1996) 23 EHRR 413",
+          "relation": "cited"
+        },
+        {
+          "name": "R (Saadi) v Secretary of State for the Home Department",
+          "citation": "[2002] UKHL 41",
+          "relation": "considered"
+        },
+        {
+          "name": "Aksoy v Turkey",
+          "citation": "(1996) 23 EHRR 553",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed judgment on both domestic policy and Article 5 with clear declaration of unlawfulness."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1020.json",
+    "status": "done",
+    "notes": "Batch 75 enrichment",
+    "enrichment": {
+      "short_title": "Anti-suit injunction to enforce ICC arbitration clause",
+      "area_of_law": [
+        "Arbitration",
+        "Commercial law",
+        "Private international law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Council Regulation (EC) No 44/2001",
+          "provisions": [
+            "Article 1(2)(d)"
+          ]
+        },
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": []
+        },
+        {
+          "title": "Italian Law 287/1990",
+          "provisions": [
+            "Article 2"
+          ]
+        },
+        {
+          "title": "EC Regulation 2790/1999",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Electronic Arts and CTO SpA disputed performance of an exclusive Italian distribution agreement governed by English law with an ICC arbitration clause seated in London.",
+        "EA commenced ICC arbitration alleging pricing breaches; CTO commenced Italian proceedings alleging the agreement breached Italian and EU competition law.",
+        "EA applied for an interim anti-suit injunction restraining CTO from pursuing the Bologna Court of Appeal proceedings.",
+        "The court held the claim fell within the arbitration exception in Regulation 44/2001 and granted the injunction unless strong reasons were shown."
+      ],
+      "procedural_posture": "Part 8 claim and interim application for an anti-suit injunction in the Commercial Court.",
+      "outcome": "Interim anti-suit injunction granted restraining CTO from continuing Italian proceedings against EA until trial or further order.",
+      "ratio": "A claim for an anti-suit injunction to enforce an English-law arbitration agreement falls within the arbitration exception in Article 1(2)(d) of Regulation 44/2001, and such an injunction should ordinarily be granted unless the defendant shows strong reasons, including public policy or comity, why contractual arbitration rights should not be enforced.",
+      "legal_issues": [
+        "Whether there was a binding arbitration agreement covering the Italian claims",
+        "Whether anti-suit injunction proceedings fall within the Brussels/Lugano arbitration exception",
+        "Discretionary factors including Italian public policy, multiplicity of proceedings and comity",
+        "Whether competition law issues made the dispute non-arbitrable"
+      ],
+      "catchwords": [
+        "anti-suit injunction",
+        "arbitration agreement",
+        "Brussels Regulation",
+        "ICC arbitration",
+        "competition law",
+        "distribution agreement"
+      ],
+      "index_terms": [
+        "Electronic Arts",
+        "CTO SpA",
+        "Marc Rich",
+        "Angelic Grace",
+        "Donohue v Armco",
+        "Ivan Zagubanski"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Marc Rich & Co AG v Societa Italiana Impianti PA (The Atlantic Emperor)",
+          "citation": "[1992] 1 Lloyd's Rep 342",
+          "relation": "applied"
+        },
+        {
+          "name": "Toepfer International GmbH v Societe Cargill France",
+          "citation": "[1998] 1 Lloyd's Rep 379",
+          "relation": "applied"
+        },
+        {
+          "name": "The Ivan Zagubanski",
+          "citation": "[2002] 1 Lloyd's Rep 106",
+          "relation": "followed"
+        },
+        {
+          "name": "The Angelic Grace",
+          "citation": "[1995] 1 Lloyd's Rep 87",
+          "relation": "applied"
+        },
+        {
+          "name": "Donohue v Armco Inc",
+          "citation": "[2001] UKHL 64",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Continental Bank NA v Aeakos Compania Naviera SA",
+          "citation": "[1994] 1 WLR 588",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Comprehensive Commercial Court judgment with clear holdings on the arbitration exception and discretion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/706.json",
+    "status": "done",
+    "notes": "Batch 75 enrichment",
+    "enrichment": {
+      "short_title": "Dyslexia education claim limitation appeal",
+      "area_of_law": [
+        "Personal injury",
+        "Education law",
+        "Limitation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 11",
+            "section 14",
+            "section 33"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Adams claimed a local education authority failed to diagnose and address his dyslexia while he was a pupil between 1977 and 1988.",
+        "He issued proceedings in 2002 aged 30, and the authority pleaded limitation as a preliminary issue.",
+        "The judge found Adams did not know his difficulties were attributable to the authority's breach until November 1999, when an acquaintance suggested he might be dyslexic.",
+        "The Court of Appeal upheld findings on both actual and constructive knowledge under section 14."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against a county court decision rejecting a limitation defence as a preliminary issue.",
+      "outcome": "Appeal dismissed; limitation defence failed and the claim could proceed.",
+      "ratio": "For undiagnosed dyslexia claims, a claimant may not have the section 14 knowledge that injury was attributable to the defendant's breach until a recognised condition is identified, and the embarrassment and coping strategies associated with literacy difficulties may be relevant to whether a reasonable person would have sought expert advice earlier.",
+      "legal_issues": [
+        "Date of knowledge under section 14(1) for failure to diagnose dyslexia",
+        "Constructive knowledge under section 14(3)",
+        "Relevance of personal characteristics to the objective reasonable person test",
+        "Application of Robinson v St Helens Borough Council"
+      ],
+      "catchwords": [
+        "dyslexia",
+        "limitation",
+        "date of knowledge",
+        "education negligence",
+        "section 14",
+        "constructive knowledge"
+      ],
+      "index_terms": [
+        "Adams",
+        "Bracknell Forest Borough Council",
+        "Robinson v St Helens",
+        "Forbes v Wandsworth",
+        "Smith v Leicester Health Authority"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Robinson v St Helens Borough Council",
+          "citation": "[2002] EWCA Civ 1099",
+          "relation": "applied"
+        },
+        {
+          "name": "Forbes v Wandsworth Health Authority",
+          "citation": "[1997] QB 402",
+          "relation": "considered"
+        },
+        {
+          "name": "Smith v Leicester Health Authority",
+          "citation": "[1998] Lloyd's Rep Med 77",
+          "relation": "considered"
+        },
+        {
+          "name": "Dobbie v Medway Health Authority",
+          "citation": "[1994] 1 WLR 1234",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Clear limitation analysis with detailed fact findings on knowledge in an education injury context."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/695.json",
+    "status": "done",
+    "notes": "Batch 75 enrichment",
+    "enrichment": {
+      "short_title": "Go-kart injury limitation and disclaimer appeal",
+      "area_of_law": [
+        "Personal injury",
+        "Negligence",
+        "Limitation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 11",
+            "section 32",
+            "section 33"
+          ]
+        },
+        {
+          "title": "Unfair Contract Terms Act 1977",
+          "provisions": [
+            "section 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Skerratt was injured at a go-karting track in April 1997 and signed a disclaimer before driving.",
+        "He did not commence proceedings until January 2002, believing the disclaimer prevented any claim.",
+        "His solicitor learned of the accident through disclosure in related Taylor litigation and advised him in November 2001 that he had a viable claim.",
+        "The District Judge and Court of Appeal held section 32 concealment was not made out and refused to extend time under section 33."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from a district judge's decision on limitation as a preliminary issue.",
+      "outcome": "Appeal dismissed; claim held statute-barred.",
+      "ratio": "Signing a pre-accident disclaimer at a leisure activity does not amount to deliberate concealment under section 32 where the operator made no post-accident representation that the claimant had no cause of action, and an honest but unreasonable reliance on the disclaimer will not justify extending limitation under section 33 where the claimant should have taken legal advice and prejudice to the defendant is established.",
+      "legal_issues": [
+        "Whether a disclaimer form involved deliberate concealment under section 32(1)(b)",
+        "Application of section 32(2) to deliberate breach of duty",
+        "Subjective reasons for delay under section 33(3)(a)",
+        "Prejudice to defendants under section 33(3)(b) after a five-year delay"
+      ],
+      "catchwords": [
+        "limitation",
+        "section 32",
+        "section 33",
+        "go-karting",
+        "disclaimer",
+        "deliberate concealment"
+      ],
+      "index_terms": [
+        "Skerratt",
+        "Linfax Ltd",
+        "Go Karting for Fun",
+        "Cave v Robinson Jarvis & Rolf",
+        "Coad v Cornwall Health Authority",
+        "Johnson v Chief Constable of Surrey"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Cave v Robinson Jarvis & Rolf",
+          "citation": "[2002] 2 WLR 1107",
+          "relation": "applied"
+        },
+        {
+          "name": "Coad v Cornwall and Isles of Scilly Health Authority",
+          "citation": "[1997] 1 WLR 189",
+          "relation": "considered"
+        },
+        {
+          "name": "Halford v Brooks",
+          "citation": "[1991] 1 WLR 428",
+          "relation": "cited"
+        },
+        {
+          "name": "Johnson v Chief Constable of Surrey",
+          "citation": null,
+          "relation": "considered"
+        },
+        {
+          "name": "Donovan v Gwentoys Ltd",
+          "citation": "[1990] 1 All ER 1018",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed appellate treatment of sections 32 and 33 with clear dismissal of both limitation arguments."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1127.json",
+    "status": "done",
+    "notes": "Batch 75 enrichment",
+    "enrichment": {
+      "short_title": "Planning inspector quashed for undeclared Chinatown ground",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "enforcement notice appeal procedure"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Entertainu Ltd operated a hostess bar at 26 Wardour Street without planning permission after Westminster refused retrospective permission.",
+        "The council's stated reasons focused on touting, crime and signage rather than a blanket objection to any hostess bar near Chinatown.",
+        "The planning inspector allowed the appeal on the basis that a hostess bar was out of character in the Chinatown setting, without that fundamental issue having been clearly put to the appellant.",
+        "Collins J quashed the inspector's decision and remitted the enforcement and planning appeals for reconsideration."
+      ],
+      "procedural_posture": "Judicial review of a planning inspector's decision on an enforcement notice appeal and linked planning refusal, decided on written representations.",
+      "outcome": "Claim allowed; inspector's decision quashed and matter remitted to the Secretary of State.",
+      "ratio": "A planning inspector may not decide an appeal on a fundamental policy ground that was not clearly raised in the local authority's formal reasons and on which the appellant had no fair opportunity to make representations, even where broader material in the council's case statement might hint at that ground.",
+      "legal_issues": [
+        "Whether the inspector decided the appeal on a ground not fairly before the parties",
+        "Fairness in written-representation planning appeals",
+        "Distinction between site-specific operational objections and in-principle objections to hostess bars in Chinatown",
+        "Effect of quashing an enforcement notice appeal decision"
+      ],
+      "catchwords": [
+        "planning enforcement",
+        "hostess bar",
+        "conservation area",
+        "Chinatown",
+        "natural justice",
+        "written representations"
+      ],
+      "index_terms": [
+        "Entertainu Ltd",
+        "Westminster City Council",
+        "Wardour Street",
+        "Soho Conservation Area",
+        "Central Activities Zone",
+        "planning inspector"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Focused procedural fairness judgment with clear quashing relief."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1181.json",
+    "status": "done",
+    "notes": "Batch 75 enrichment",
+    "enrichment": {
+      "short_title": "HGV permit route 'practicable' means physical not policy",
+      "area_of_law": [
+        "Road traffic",
+        "Administrative law",
+        "Magistrates' courts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Regulation Act 1984",
+          "provisions": [
+            "section 8"
+          ]
+        },
+        {
+          "title": "Greater London (Restriction of Goods Vehicles) Traffic Order 1985",
+          "provisions": [
+            "Article 3",
+            "Article 4",
+            "Article 5",
+            "condition 5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mark Edwards drove an Express Dairies HGV exceeding 18 tonnes along Harlington Road West during restricted hours under a Greater London permit.",
+        "Permit condition 5 required use of the shortest practicable route on restricted roads between planned stopping places.",
+        "His direct route was 11.8 miles; the shortest route using excluded roads was 27.2 miles, avoiding about two miles of restricted road.",
+        "Feltham justices acquitted him, finding a longer detour was not practicable because of extra pollution and congestion, but the Divisional Court held that was not a lawful construction of 'practicable'."
+      ],
+      "procedural_posture": "Prosecutor's appeal by way of case stated from magistrates' acquittal on a goods vehicle permit condition.",
+      "outcome": "Appeal allowed; matter remitted to the justices with a direction to convict.",
+      "ratio": "In condition 5 of a Greater London goods vehicle permit, 'shortest practicable route' refers to the route that is physically practicable for an HGV and minimises distance on restricted roads; justices may not treat wider environmental or congestion policy as making a longer excluded-road detour impracticable.",
+      "legal_issues": [
+        "Meaning of 'shortest practicable route' in permit condition 5",
+        "Whether environmental or congestion factors can be considered under 'practicable'",
+        "Application of Post Office v London Borough of Richmond and TNT Express v Richmond",
+        "Case stated appeal from magistrates on construction of permit conditions"
+      ],
+      "catchwords": [
+        "goods vehicle permit",
+        "restricted streets",
+        "shortest practicable route",
+        "Greater London Traffic Order",
+        "case stated",
+        "HGV"
+      ],
+      "index_terms": [
+        "Richmond",
+        "Express Dairies",
+        "Mark Edwards",
+        "Harlington Road West",
+        "Post Office v Richmond",
+        "TNT Express v Richmond"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Post Office v London Borough of Richmond",
+          "citation": "CO/1278/93",
+          "relation": "applied"
+        },
+        {
+          "name": "TNT Express (United Kingdom) Ltd v London Borough of Richmond upon Thames",
+          "citation": "CO/1537/95",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Short, focused Divisional Court judgment with clear answer to the stated question."
+      }
+    }
+  }
+]

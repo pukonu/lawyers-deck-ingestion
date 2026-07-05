@@ -1,0 +1,807 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3095.json",
+    "status": "done",
+    "notes": "Complete council tax valuation tribunal appeal judgment.",
+    "enrichment": {
+      "short_title": "Council tax liability appeal dismissed where owner failed to prove discounts or non-residence",
+      "area_of_law": [
+        "Local government finance",
+        "Council tax",
+        "Valuation tribunal appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government Finance Act 1992",
+          "provisions": ["s.6", "s.11"]
+        },
+        {
+          "title": "Valuation and Community Charge Tribunals Regulations 1989",
+          "provisions": ["reg 51(1)"]
+        }
+      ],
+      "key_facts": [
+        "Dr Dale Clark, registered freehold owner of 13 Waverley, Bracknell, appealed against Berkshire Valuation Tribunal and Bracknell Forest Council decisions treating him as liable for council tax from July 1995 to March 1999.",
+        "He claimed vacant-property and single-person discounts, alleged he had sold the property to his parents in 1995, and contended the tribunal misdirected itself on evidence, Wednesbury reasonableness, and jurisdiction.",
+        "The tribunal upheld liability on Land Registry evidence that he remained freeholder and that his assertions were unsupported; Munby J heard the statutory appeal in the appellant's absence after a late skeleton argument."
+      ],
+      "procedural_posture": "Statutory appeal under regulation 51(1) of the Valuation and Community Charge Tribunals Regulations 1989 from a valuation tribunal decision dismissing the appellant's council tax appeal.",
+      "outcome": "Appeal dismissed; respondent's costs summarily assessed at £5,250.",
+      "ratio": "A valuation tribunal deciding a council tax appeal must determine whether the appellant has proved the facts needed for liability or discounts on the evidence before it; bare unsupported assertions do not shift the burden to the billing authority, and a passing reference to Wednesbury unreasonableness does not convert an appellate fact-finding exercise into judicial review where the tribunal has properly assessed the evidence.",
+      "legal_issues": [
+        "Whether council tax discounts or exemptions are discretionary or time-limited",
+        "Whether the tribunal considered vacant-property and class C exemption claims",
+        "Whether the tribunal misdirected itself on evidence and burden of proof",
+        "Whether the appellant retained a material interest and sole or main residence despite alleged sale",
+        "Whether the tribunal wrongly treated its role as limited to reviewing billing authority reasonableness"
+      ],
+      "catchwords": [
+        "council tax",
+        "valuation tribunal",
+        "material interest",
+        "sole or main residence",
+        "single person discount",
+        "vacant property discount",
+        "burden of proof",
+        "litigant in person"
+      ],
+      "index_terms": [
+        "Bracknell Forest Borough Council",
+        "Berkshire Valuation Tribunal",
+        "13 Waverley Bracknell",
+        "Land Registry",
+        "liability order",
+        "Munby J"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment with detailed treatment of all grounds; no truncation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1925.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on interim bankruptcy discharge suspension.",
+    "enrichment": {
+      "short_title": "Court may suspend bankrupt's automatic discharge pending section 279 application",
+      "area_of_law": [
+        "Insolvency",
+        "Personal bankruptcy",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": ["s.279", "s.296", "s.333"]
+        },
+        {
+          "title": "Insolvency Rules 1986",
+          "provisions": ["r 6.215", "r 7.4", "r 7.5", "r 12.9"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art 6"]
+        }
+      ],
+      "key_facts": [
+        "Mr Bagnall QC was made bankrupt on 6 August 1999 and due for automatic discharge on 6 August 2002 unless the court suspended the period under section 279(3) for failure to co-operate with the trustee.",
+        "The official receiver applied on 23 July 2002 but could not comply with 21 days' notice under Insolvency Rule 6.215 before the third anniversary; on 2 August 2002 Deputy District Judge Radcliffe made an ex parte interim order suspending discharge.",
+        "A substantive suspension order was later made in May 2003 with no appeal; Bagnall challenged the interim order and procedure, contending Rule 6.215 was mandatory and Article 6 was violated."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (permission granted) against Evans-Lombe J's decision upholding an interim order suspending automatic bankruptcy discharge pending determination of an official receiver's section 279(3) application.",
+      "outcome": "Appeal dismissed; interim suspension upheld.",
+      "ratio": "Section 279(3) of the Insolvency Act 1986 and Insolvency Rule 7.4(6) together enable the court, in urgent cases before the three-year discharge date, to make an interim order suspending automatic discharge where there are reasonable grounds to conclude a substantive suspension would succeed; Rule 6.215 expresses policy for full hearings but does not exclude urgent interim relief, and an ex parte interlocutory suspension order does not violate Article 6 where the bankrupt retains rights at the substantive hearing.",
+      "legal_issues": [
+        "Whether the court has power to make an interim suspension order under section 279(3)",
+        "Whether Insolvency Rule 7.4(6) authorises such an order",
+        "Whether Insolvency Rule 6.215 is mandatory and precludes shortening notice",
+        "Whether Re Jacobs was correctly applied",
+        "Whether the without-notice application breached Article 6"
+      ],
+      "catchwords": [
+        "automatic discharge",
+        "bankruptcy suspension",
+        "official receiver",
+        "interim order",
+        "Insolvency Rule 6.215",
+        "Insolvency Rule 7.4(6)",
+        "co-operation with trustee",
+        "ex parte application"
+      ],
+      "index_terms": [
+        "Bagnall",
+        "Official Receiver",
+        "Re Jacobs",
+        "Hardy v Focus Insurance",
+        "Re First Express Ltd",
+        "Lady Justice Arden"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re Jacobs",
+          "citation": "[1999] 1 WLR 619"
+        },
+        {
+          "name": "Hardy v Focus Insurance Co Ltd",
+          "citation": "[1997] BPIR 77"
+        },
+        {
+          "name": "Re First Express Ltd",
+          "citation": "[1991] BCC 782"
+        },
+        {
+          "name": "Official Receiver v Murjani",
+          "citation": "unreported, 1 March 1995"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete appellate judgment with full reasoning on jurisdiction and procedure."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/2886.json",
+    "status": "done",
+    "notes": "Complete TCC adjudication enforcement judgment.",
+    "enrichment": {
+      "short_title": "Adjudicator's decision not enforced after Galliford abandoned contract basis at enforcement",
+      "area_of_law": [
+        "Construction law",
+        "Adjudication",
+        "Contract formation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Grants, Construction and Regeneration Act 1996",
+          "provisions": ["s.104(1)", "s.107", "s.108(3)", "s.108(5)"]
+        },
+        {
+          "title": "Scheme for Construction Contracts (England and Wales) Regulations 1998",
+          "provisions": ["Sch, Pt 1"]
+        }
+      ],
+      "key_facts": [
+        "Galliford Try sought to enforce adjudicator Brian Eggleston's decision ordering Michael Heal Associates Ltd to pay about £722,586 plus fees for alleged breach of post-tender structural engineering services on the Wellesley Hotel Leeds project.",
+        "Heal disputed jurisdiction: no binding contract, no contract in writing under section 107, or solicitors' correspondence did not waive jurisdictional objections; Galliford changed its case from an ACE-incorporated contract to a heads-of-agreement contract without ACE terms.",
+        "The court found no contract was concluded, Masons and Beachcroft Wansbroughs agreed to submit disputes to adjudication without jurisdictional reservation, but enforcement failed because Galliford abandoned at enforcement the contractual basis on which Eggleston had found liability."
+      ],
+      "procedural_posture": "Technology and Construction Court claim to enforce an adjudicator's decision by summary judgment.",
+      "outcome": "Claim dismissed; adjudicator's decision not enforced.",
+      "ratio": "Parties may agree to submit existing disputes to adjudication even absent a section 108-compliant construction contract, but where the enforcing party succeeds in adjudication only on a contractual basis it later abandons at enforcement, the court will not treat the decision as still binding when final determination shows no contract existed and the agreement to adjudicate was binding only until final resolution of the dispute.",
+      "legal_issues": [
+        "Whether a post-tender services contract was concluded between Galliford and Heal",
+        "Whether any contract was in writing under section 107 of the 1996 Act",
+        "Whether solicitors agreed to adjudication without reserving jurisdiction",
+        "Whether estoppel prevented a jurisdictional challenge",
+        "Whether change of contractual case invalidated enforcement of the adjudicator's decision"
+      ],
+      "catchwords": [
+        "adjudication enforcement",
+        "construction contract",
+        "contract in writing",
+        "section 107",
+        "Scheme for Construction Contracts",
+        "jurisdiction",
+        "heads of agreement",
+        "ACE conditions"
+      ],
+      "index_terms": [
+        "Galliford Try Construction",
+        "Michael Heal Associates",
+        "Brian Eggleston",
+        "Wellesley Hotel Leeds",
+        "Pagnan v Feed Products",
+        "C&B Concept Design v Isobars"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Pagnan SpA v Feed Products Ltd",
+          "citation": "[1987] 2 Lloyd's Rep 601"
+        },
+        {
+          "name": "G Percy Trentham Ltd v Archital Luxfer Ltd",
+          "citation": "[1993] 1 Lloyd's Rep 25"
+        },
+        {
+          "name": "RJT Consulting Engineers Ltd v DM Engineering (Northern Ireland) Ltd",
+          "citation": "[2002] BLR 217"
+        },
+        {
+          "name": "C&B Concept Design Ltd v Isobars Ltd",
+          "citation": "[2002] BLR 93"
+        },
+        {
+          "name": "British Steel Corporation v Cleveland Bridge and Engineering Co Ltd",
+          "citation": "[1984] 1 All ER 504"
+        },
+        {
+          "name": "Joinery Plus Ltd v Laing Ltd",
+          "citation": "[2003] BLR 184"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long but complete judgment with clear conclusions on each issue."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3005.json",
+    "status": "done",
+    "notes": "Complete case stated appeal on police powers during drug search.",
+    "enrichment": {
+      "short_title": "Police may confine occupants to searched rooms during Misuse of Drugs warrant execution",
+      "area_of_law": [
+        "Criminal procedure",
+        "Police powers",
+        "Case stated"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Act 1996",
+          "provisions": ["s.89(1)", "s.89(2)"]
+        },
+        {
+          "title": "Misuse of Drugs Act 1971",
+          "provisions": ["s.23"]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": ["s.15", "s.25", "s.26", "s.117", "Sch 1", "Sch 2", "Code B"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art 5", "Art 8"]
+        }
+      ],
+      "key_facts": [
+        "During execution of a section 23 Misuse of Drugs Act search warrant at 68 Washington Road, Haywards Heath, police required the defendant to move from bathroom to bedroom and prevented him leaving while rooms were searched.",
+        "He resisted movement and later assaulted PC Convery and threw a cigarette lighter; magistrates held officers acted outside their duty because they had no power to detain him and there was no case to answer on assault and obstruction charges.",
+        "Unlike Hepburn, the warrant authorised search of persons on the premises as well as the property; the DPP appealed by case stated."
+      ],
+      "procedural_posture": "Appeal by way of case stated from magistrates' ruling of no case to answer on Police Act 1996 assault and obstruction charges arising from a drugs search warrant.",
+      "outcome": "Appeal allowed; both case stated questions answered yes (subject to fact-specific reasonableness); matter remitted to magistrates to continue the hearing.",
+      "ratio": "Officers executing a warrant under section 23 of the Misuse of Drugs Act 1971 and section 15 of PACE that authorises search of premises and persons may, using reasonable force under section 117 PACE, require occupants to remain in sterile searched rooms to preserve search integrity; such restriction is within the execution of their duty and is distinguishable from Hepburn where the warrant did not extend to persons, and obstruction under section 89(2) is not an automatic power of arrest offence.",
+      "legal_issues": [
+        "Whether police executing a search warrant may require occupants to remain in certain rooms",
+        "Whether police may prevent occupants leaving the premises during the search",
+        "Whether restriction of movement amounted to unlawful detention defeating 'in execution of duty'",
+        "Whether Hepburn v Chief Constable of Thames Valley Police was correctly applied",
+        "Whether section 89(2) obstruction gives rise to a general power of arrest"
+      ],
+      "catchwords": [
+        "search warrant",
+        "Misuse of Drugs Act",
+        "PACE section 117",
+        "assault on police",
+        "wilful obstruction",
+        "no case to answer",
+        "case stated",
+        "Hepburn"
+      ],
+      "index_terms": [
+        "Director of Public Prosecutions",
+        "Meaden",
+        "Haywards Heath",
+        "sterile room procedure",
+        "Rose LJ"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hepburn v Chief Constable of Thames Valley Police",
+          "citation": "[2002] EWCA Civ 1841"
+        },
+        {
+          "name": "Donnelly v Jackman",
+          "citation": "(1970) 1 WLR 562"
+        },
+        {
+          "name": "Rahman",
+          "citation": "(1985) 81 Cr App R 349"
+        },
+        {
+          "name": "O'Loughlin v Chief Constable of Essex",
+          "citation": "[1998] 1 WLR 374"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment with clear answers to both stated questions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3336.json",
+    "status": "done",
+    "notes": "Complete judicial review on licence recall; Parole Board concession recorded.",
+    "enrichment": {
+      "short_title": "Secretary of State's licence recall upheld despite inaccurate probation report",
+      "area_of_law": [
+        "Prison law",
+        "Parole and licence recall",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": ["s.39"]
+        }
+      ],
+      "key_facts": [
+        "Mr Hare was released on licence on 23 May 2003 after imprisonment for unlawful sexual intercourse and witness intimidation; he was arrested for breach of the peace on 28 May 2003 and recalled on 29 May 2003.",
+        "The probation report wrongly stated he had been charged with threatening behaviour; the Parole Board conceded its 16 July 2003 confirmation of revocation should be quashed and undertook urgent reconsideration.",
+        "The claimant challenged the Secretary of State's 29 May recall decision, arguing reliance on mistaken information and that the custody record showed he was not charged or drunk."
+      ],
+      "procedural_posture": "High Court judicial review of the Secretary of State's decision to recall the claimant into custody and of the Parole Board's decision confirming licence revocation.",
+      "outcome": "Parole Board decision quashed by consent; application regarding the Secretary of State's recall refused; Parole Board ordered to pay costs.",
+      "ratio": "The Secretary of State may lawfully exercise the section 39(2) power to revoke a licence where he considers recall expedient in the public interest on information supplied by the Probation Service without an obligation independently to verify every detail against custody records; such decisions are very rarely susceptible to judicial review, especially where Parole Board review follows.",
+      "legal_issues": [
+        "Whether the Secretary of State acted on a material mistake of fact in recalling the licence",
+        "Whether the Secretary of State must verify probation reports against custody records",
+        "Whether recall was Wednesbury unreasonable",
+        "Whether the Parole Board decision was lawful"
+      ],
+      "catchwords": [
+        "licence recall",
+        "parole",
+        "judicial review",
+        "probation report",
+        "breach of the peace",
+        "section 39 Criminal Justice Act 1991",
+        "Parole Board"
+      ],
+      "index_terms": [
+        "Hare",
+        "Secretary of State for the Home Department",
+        "Biggs",
+        "Elias J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Biggs",
+          "citation": "[2002] EWHC 1012 (Admin)"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Complete short judgment; Parole Board outcome conceded at hearing."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1882.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on limitation and amendments.",
+    "enrichment": {
+      "short_title": "Amendment adding B&Q and Grantchester indemnity claims held not a new cause of action",
+      "area_of_law": [
+        "Civil procedure",
+        "Limitation",
+        "Professional negligence",
+        "Construction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": ["s.14A", "s.35"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Pt 17", "r 17.4(2)"]
+        }
+      ],
+      "key_facts": [
+        "Holmes, design-and-build contractor for Luton retail stores, sued structural engineer WSP in Part 20 proceedings in Aldi and B&Q actions for negligent ground-improvement advice causing differential settlement.",
+        "WSP pleaded limitation defences; in the B&Q action Holmes was about nine and a half months out of time on date-of-knowledge if the earlier Aldi issue date fixed knowledge, and sought to amend the Aldi Part 20 claim to add indemnity heads for B&Q and Grantchester liabilities.",
+        "The judge refused permission; the Court of Appeal held the amendments added only further heads of loss from the same negligence, not new causes of action, and allowed the appeal."
+      ],
+      "procedural_posture": "Appeal against refusal of permission to amend Part 20 claim in the Aldi action to include indemnity claims relating to B&Q and Grantchester warranties.",
+      "outcome": "Appeal allowed; amendment permitted with costs.",
+      "ratio": "An amendment seeking indemnity for additional third-party warranty liabilities arising from the same negligent advice and the same design-and-build contract obligation to grant warranties adds new heads of loss, not new causes of action within section 35(2) of the Limitation Act 1980, so a defendant cannot rely on relation-back to revive a separate limitation defence in parallel proceedings where the underlying duty and breach are identical.",
+      "legal_issues": [
+        "Whether the proposed amendment introduced new claims within section 35(2)",
+        "Whether new claims arose out of the same or substantially the same facts",
+        "Whether discretion should refuse amendment as abuse of process or because of accrued limitation prejudice",
+        "Whether separate deeds of warranty created separate causes of action"
+      ],
+      "catchwords": [
+        "limitation",
+        "section 35 Limitation Act",
+        "section 14A",
+        "amendment of pleadings",
+        "Part 20 claim",
+        "new cause of action",
+        "heads of loss",
+        "relation back"
+      ],
+      "index_terms": [
+        "Holmes Buildings",
+        "WSP",
+        "Aldi",
+        "B&Q",
+        "Grantchester Properties",
+        "Laporte Industries",
+        "Lord Justice Dyson"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Lloyds Bank Plc v Rogers",
+          "citation": "[1999] 38 EG 83"
+        },
+        {
+          "name": "Gordon v JB Wheatley & Co (A Firm)",
+          "citation": "[2000] Lloyd's Rep PN 605"
+        },
+        {
+          "name": "Stock v London Underground Ltd",
+          "citation": "30 July 1999, unreported, CA"
+        },
+        {
+          "name": "Welsh Development Agency v Redpath Dorman Long Ltd",
+          "citation": "[1994] 1 WLR 1409"
+        },
+        {
+          "name": "Paragon Finance Plc v DB Thakerar & Co",
+          "citation": "[1999] 1 All ER 400"
+        },
+        {
+          "name": "Gale v Superdrug Stores Plc",
+          "citation": "[1996] 1 WLR 1089"
+        },
+        {
+          "name": "Hunter v Chief Constable of West Midlands Police",
+          "citation": "[1982] AC 529"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete appellate judgment with detailed limitation analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/2871.json",
+    "status": "done",
+    "notes": "Very long preliminary-issues judgment; full_text complete with numbered conclusions at paras 131-132.",
+    "enrichment": {
+      "short_title": "Rolls-Royce unable to recover substantial damages from Ricardo on Allen 5000 engine design claims",
+      "area_of_law": [
+        "Construction and engineering",
+        "Professional negligence",
+        "Agency",
+        "Contract law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Unfair Contract Terms Act 1977",
+          "provisions": []
+        },
+        {
+          "title": "Civil Liability (Contribution) Act 1978",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Rolls-Royce Power Engineering and subsidiary Allen Power Engineering claimed Ricardo Consulting Engineers negligently performed finite element analysis work under concept and definitive design contracts for the ill-fated AX500/Allen 5000 diesel engine range.",
+        "Allen contracted with Ricardo as principal under a 1994 definitive design order; RRPE sought to recover economic losses as undisclosed principal, in tort, or via agency, trust, Dunlop v Lambert, or McAlpine v Panatown routes.",
+        "On preliminary issues the court held Allen was contractual principal, Ricardo owed RRPE no duty of care for pleaded economic losses, Rolls-Royce General Conditions were incorporated, contributory negligence was unavailable, and none of the 'black hole' recovery routes succeeded."
+      ],
+      "procedural_posture": "Technology and Construction Court trial of preliminary issues ordered on 21 July 2003 in a professional negligence and breach of contract claim arising from defective engine development.",
+      "outcome": "Preliminary issues answered against claimants on recovery routes; neither Allen nor RRPE could recover substantial damages (nominal damages theoretically possible); court indicated the action might be dismissed.",
+      "ratio": "Where a subsidiary enters a design contract as principal rather than as agent for its parent, and the consultant owes the parent no duty in tort for pure economic loss, the parent cannot recover the subsidiary's or its own losses through undisclosed agency, trust, Dunlop v Lambert, or the 'broad ground' in McAlpine v Panatown; a party without a remediable legal duty cannot recover simply because otherwise a meritorious claim would fall into a 'black hole'.",
+      "legal_issues": [
+        "Whether Allen contracted as principal or as RRPE's agent",
+        "Whether Ricardo owed RRPE a duty of care for economic losses",
+        "Whether Rolls-Royce General Conditions of Purchase were incorporated",
+        "Whether clause 4.1 imposed a higher standard than reasonable skill and care",
+        "Whether contributory negligence was available",
+        "Whether Allen owed RRPE a duty supporting a contribution claim",
+        "Whether RRPE could recover via agency, trust, Dunlop v Lambert, or McAlpine v Panatown"
+      ],
+      "catchwords": [
+        "preliminary issues",
+        "undisclosed principal",
+        "pure economic loss",
+        "finite element analysis",
+        "engine design",
+        "black hole",
+        "Dunlop v Lambert",
+        "McAlpine v Panatown"
+      ],
+      "index_terms": [
+        "Rolls-Royce Power Engineering",
+        "Allen Power Engineering",
+        "Ricardo Consulting Engineers",
+        "AX500",
+        "Allen 5000",
+        "Second Management Agreement",
+        "Definitive Design Contract"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Caparo Industries plc v Dickman",
+          "citation": "[1990] 2 AC 605"
+        },
+        {
+          "name": "Henderson v Merrett Syndicates Ltd",
+          "citation": "[1995] 2 AC 145"
+        },
+        {
+          "name": "South Australia Asset Management Corporation v York Montague Ltd",
+          "citation": "[1997] AC 191"
+        },
+        {
+          "name": "Smith v Bush",
+          "citation": "[1990] 1 AC 831"
+        },
+        {
+          "name": "Linden Gardens Trust Ltd v Lenesta Sludge Disposals Ltd",
+          "citation": "[1994] 1 AC 85"
+        },
+        {
+          "name": "Alfred McAlpine Construction Ltd v Panatown Ltd",
+          "citation": "[2001] 1 AC 788"
+        },
+        {
+          "name": "Dunlop v Lambert",
+          "citation": "(1839) 6 Cl & F 600"
+        },
+        {
+          "name": "Darlington Borough Council v Wiltshier Northern Ltd",
+          "citation": "[1995] 1 WLR 68"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Extremely long judgment but conclusions on all seven preliminary issues are explicit; trial judge not named in source text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1715.json",
+    "status": "done",
+    "notes": "Complete demurrage appeal with no challenge to judge's findings of fact.",
+    "enrichment": {
+      "short_title": "Charterer liable for load-port demurrage after failing to provide timely Sikka cargo",
+      "area_of_law": [
+        "Shipping",
+        "Charterparty",
+        "Demurrage and laytime"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Triton Navigation chartered the Nikmary to Vitol on Asbatankvoy terms amended by Vitol clauses for a gasoil cargo at Reliance Petroleum's Sikka refinery.",
+        "The vessel arrived late, was rejected twice for unclean tanks, tendered valid notice of readiness on 5 December 2000, but Reliance deferred loading until 2 January 2001 to meet December domestic quota commitments because Vitol had no effective contractual cargo window after the original November shipment period.",
+        "Vitol appealed Moore-Bick J's award of about US$291,691.75 demurrage, arguing laytime did not run until hoses connected under clause 6, clause 30(c)(v), or owner-fault principles."
+      ],
+      "procedural_posture": "Appeal against High Court judgment holding charterers liable for load-port demurrage after laytime expired on 9 December 2000.",
+      "outcome": "Appeal dismissed; demurrage award upheld.",
+      "ratio": "A voyage charterer's absolute duty is to provide cargo available for loading in time to complete loading within laydays; delay because the supplier will not perform until after other contractual commitments are met is a failure to provide cargo, not a delay in loading within charter exceptions, and clause 30(c)(v) suspending laytime until hoses connect after clean inspection does not protect a charterer whose own procurement failure prevented cargo being available.",
+      "legal_issues": [
+        "Whether delay getting to berth was for reasons outside charterers' control under clause 6",
+        "Whether clause 30(c)(v) suspended laytime until hose connection after tank rejection",
+        "Whether laytime was interrupted by owners' fault in presenting a dirty vessel",
+        "Whether Vitol provided cargo within a reasonable time after valid notice of readiness",
+        "Whether 'jointly appointed inspector' requirements were satisfied"
+      ],
+      "catchwords": [
+        "demurrage",
+        "laytime",
+        "notice of readiness",
+        "provision of cargo",
+        "Asbatankvoy",
+        "tank cleaning",
+        "Sikka",
+        "charterer's absolute duty"
+      ],
+      "index_terms": [
+        "Triton Navigation",
+        "Vitol SA",
+        "Nikmary",
+        "Reliance Petroleum",
+        "Grant v Coverdale",
+        "Universal Cargo Carriers v Citati"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Grant v Coverdale",
+          "citation": "(1884) 9 App Cas 470"
+        },
+        {
+          "name": "Bunge y Born v Brightman",
+          "citation": "[1925] AC 799"
+        },
+        {
+          "name": "Universal Cargo Carriers Corp v Citati",
+          "citation": "[1957] QB 401"
+        },
+        {
+          "name": "Ardan v Weir",
+          "citation": "[1905] AC 501"
+        },
+        {
+          "name": "The Aello",
+          "citation": "[1961] AC 135"
+        },
+        {
+          "name": "The Altus",
+          "citation": "[1985] 1 Ll R 423"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete appellate judgment; facts unchallenged on appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2914.json",
+    "status": "done",
+    "notes": "Complete Chancery trial judgment on commissioned logo copyright.",
+    "enrichment": {
+      "short_title": "Griggs held equitable owner of copyright in combined Dr Martens/AirWair logo",
+      "area_of_law": [
+        "Intellectual property",
+        "Copyright",
+        "Equity"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Copyright, Designs and Patents Act 1988",
+          "provisions": ["s.11"]
+        },
+        {
+          "title": "Copyright Act 1956",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "In 1988 Griggs commissioned Irwin Jordan advertising agency to combine existing Dr Martens and AirWair logos; freelance designer Ross Evans drew the combined logo at £15 per hour.",
+        "Griggs used the combined logo on Dr Martens footwear worldwide from 1988; Evans assigned copyright to Australian company Raben Footwear in 2002 after settlement negotiations failed.",
+        "Griggs sued for declaration that it was beneficial copyright owner and for assignment of legal title; Raben claimed Evans remained owner because the commission was only for UK point-of-sale material."
+      ],
+      "procedural_posture": "Chancery Division claim for declaration of copyright ownership and order for assignment of legal title in the combined Dr Martens/AirWair logo.",
+      "outcome": "Claimants succeeded; Griggs held beneficial owner of copyright; no accord and satisfaction with Evans; Raben not a purchaser for value without notice.",
+      "ratio": "Where a client commissions and pays a freelance designer to create a corporate logo for commercial branding, section 11 CDPA 1988 gives the designer legal title but equity ordinarily implies an assignment of beneficial copyright to the client because the client must be able to use and enforce the logo against third parties from creation, especially in a paradigm commissioned-logo case.",
+      "legal_issues": [
+        "Who owned legal and equitable copyright in the combined logo",
+        "Whether implied term granted full copyright or only a licence",
+        "Whether scope of commission was limited to UK point-of-sale material",
+        "Whether Evans was underpaid for global footwear use",
+        "Whether accord and satisfaction occurred in May 2002 negotiations"
+      ],
+      "catchwords": [
+        "copyright",
+        "commissioned work",
+        "logo",
+        "implied assignment",
+        "freelance designer",
+        "section 11 CDPA 1988",
+        "equitable ownership",
+        "Dr Martens"
+      ],
+      "index_terms": [
+        "R Griggs Group",
+        "Ross Evans",
+        "Raben Footwear",
+        "Irwin Jordan",
+        "AirWair",
+        "Robin Ray v Classic FM"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Robin Ray v Classic FM plc",
+          "citation": "[1998] FSR 622"
+        },
+        {
+          "name": "Massine v de Basil",
+          "citation": "[1936-45] MCC 233"
+        },
+        {
+          "name": "Blair v Osborne & Tompkins",
+          "citation": "[1971] 2 QB 78"
+        },
+        {
+          "name": "Stovin-Bradford v Volpoint Properties Ltd",
+          "citation": "[1971] 1 Ch 1007"
+        },
+        {
+          "name": "Liverpool City Council v Irwin",
+          "citation": "[1977] AC 239"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment with detailed copyright/trade mark distinction and fact findings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1811.json",
+    "status": "done",
+    "notes": "Complete contributory negligence appeal; employer liability already established.",
+    "enrichment": {
+      "short_title": "No contributory negligence where employee lifted unmarked plywood over hatchway",
+      "area_of_law": [
+        "Personal injury",
+        "Employers' liability",
+        "Health and safety"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Carpenter Cooper fell through an unguarded hatch on a Carillion dry-dock refurbishment site on 4 October 2001 when he and his foreman lifted an unmarked plywood board covering the aperture to use as shuttering timber.",
+        "Employer liability for breach of statutory duty and negligence had already been established; the night shift had removed the scaffolding barrier and replaced it only with loose unmarked plywood.",
+        "The trial judge found 10% contributory negligence because Cooper should have looked under the board before stepping into the concealed area."
+      ],
+      "procedural_posture": "Claimant's appeal against 10% contributory negligence finding at Plymouth County Court after employer liability was already established.",
+      "outcome": "Appeal allowed; contributory negligence finding set aside; defendants to pay claimant's costs of trial and appeal.",
+      "ratio": "An employee may rely on the employer's compliance with statutory safety duties and is not contributorily negligent for failing to anticipate a hazard that site practice never created—loose plywood sheets were commonly reused and hatchways were normally guarded by barriers or nailed marked boards, so it was not reasonably foreseeable that lifting an ordinary board would conceal an unguarded hole.",
+      "legal_issues": [
+        "Whether the claimant ought reasonably to have foreseen injury if he lifted the plywood without checking underneath",
+        "Whether familiarity with random apertures on site imposed a duty to inspect every board",
+        "Whether the foreman's conduct affected contributory negligence",
+        "Appropriate deference to trial judge on apportionment versus inference of negligence"
+      ],
+      "catchwords": [
+        "contributory negligence",
+        "workplace accident",
+        "hatchway",
+        "plywood cover",
+        "employer's liability",
+        "Westwood v Post Office",
+        "construction site safety"
+      ],
+      "index_terms": [
+        "Cooper",
+        "Carillion Plc",
+        "dry dock refurbishment",
+        "Plymouth County Court",
+        "Lord Justice Keene"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Jones v Livox Quarries Ltd",
+          "citation": "[1952] 2 QB 608"
+        },
+        {
+          "name": "Westwood v Post Office",
+          "citation": "[1974] AC 1"
+        },
+        {
+          "name": "Staveley Iron & Chemical Co Ltd v Jones",
+          "citation": "[1956] AC 627"
+        },
+        {
+          "name": "Mullard v Ben Line Steamers Ltd",
+          "citation": "[1971] 2 All ER 424"
+        },
+        {
+          "name": "Brown v Thompson",
+          "citation": "[1968] 1 WLR 1003"
+        },
+        {
+          "name": "Assicurazioni Generali Spa v Arab Insurance Group",
+          "citation": "[2003] 1 WLR 577"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete short Court of Appeal judgment on a discrete issue."
+      }
+    }
+  }
+]

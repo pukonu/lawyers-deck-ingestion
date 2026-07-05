@@ -1,0 +1,629 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/1577.json",
+    "status": "done",
+    "notes": "Post-jury qualified privilege ruling in Orthodox Jewish community slander trial; individual conversation analysis is detailed and clear.",
+    "enrichment": {
+      "short_title": "Qualified privilege in rabbinical mediation slander case",
+      "area_of_law": [
+        "Defamation",
+        "Qualified privilege",
+        "Religious and community law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Claimant Brian Maccaba sued Dayan Lichtenstein for slander arising from conversations within the orthodox Jewish community about alleged sexual misconduct.",
+        "The dispute followed a failed private rabbinical mediation between Maccaba and Nathalie Attar over harassment and employment issues.",
+        "The jury found the words were substantially justified; the judge then ruled on whether each conversation was protected by qualified privilege.",
+        "Conflicting expert evidence was given on whether Jewish law prohibited the defendant from speaking as alleged."
+      ],
+      "procedural_posture": "Trial ruling on qualified privilege after jury verdict on justification, following a slander action in the Queen's Bench Division.",
+      "outcome": "Qualified privilege upheld for conversations with Alfred Magnus, the Drays, and Rabbi David Daniel Cohen; privilege rejected for conversations with David Kohali, Dayan Toledano, Abraham Suissa, and Charles Gabbay.",
+      "ratio": "Qualified privilege depends on whether the publisher had a duty or legitimate interest and the recipient a corresponding interest, assessed under English law; Jewish law is a relevant factor but not determinative in an English civil court; the occasion rather than every word governs, though words may be relevant if not germane to the occasion.",
+      "legal_issues": [
+        "Whether slanders were spoken on occasions of qualified privilege",
+        "Whether the actual words used are material to the privilege analysis",
+        "What bearing Jewish law has on qualified privilege in an English court",
+        "Whether each publishee had a corresponding duty or interest to receive the information"
+      ],
+      "catchwords": [
+        "qualified privilege",
+        "slander",
+        "rabbinical mediation",
+        "Jewish law",
+        "defamation",
+        "community warning"
+      ],
+      "index_terms": [
+        "Maccaba v Lichtenstein",
+        "Beth Din",
+        "Toogood v Spyring",
+        "Kearns v General Council of the Bar",
+        "Adam v Ward",
+        "orthodox Jewish community"
+      ],
+      "linked_authorities": [
+        "Toogood v Spyring [1834] 1 CM & R 181",
+        "Kearns v General Council of the Bar [2003] 1 WLR 1457",
+        "Adam v Ward [1917] AC 309",
+        "Horrocks v Lowe [1975] AC 135",
+        "Komarek v Ramco Energy Co [2002] EWHC 2510 (QB)"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Privilege outcomes for each conversation are explicit. Jury findings on the words used are background only."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1700.json",
+    "status": "done",
+    "notes": "Case stated appeal on whether a caravan site grass area was a road; conviction quashed on narrow charge formulation.",
+    "enrichment": {
+      "short_title": "Excess alcohol conviction quashed: caravan site not a road",
+      "area_of_law": [
+        "Road traffic law",
+        "Administrative law",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 5(1)(a)"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 123"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Andrew Dunmill was convicted of driving with excess alcohol after colliding with a caravan on a grass area within Oven Camp Site, Hayling Island.",
+        "A breath test recorded 63 micrograms of alcohol per 100 millilitres of breath.",
+        "The charge alleged driving on a road only, not on a road or other public place.",
+        "The magistrates focused on public access but did not adequately decide whether the area was a road within the statutory meaning."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Portsmouth Magistrates' Court to the Divisional Court.",
+      "outcome": "Appeal allowed; conviction and any resulting penalty quashed; costs awarded to the appellant.",
+      "ratio": "Whether a place is a road under the Road Traffic Act 1988 requires more than public access; the Vivier public-place test does not substitute for the anterior question of road character; on the evidence a grass area within a caravan site was not established as a road, and section 123 of the Magistrates' Courts Act 1980 did not save the defective charge.",
+      "legal_issues": [
+        "Whether the grass area on the caravan site was a road for section 5 purposes",
+        "Whether the magistrates properly applied the road definition",
+        "Whether the charge defect could be cured under section 123 of the Magistrates' Courts Act 1980"
+      ],
+      "catchwords": [
+        "excess alcohol",
+        "road traffic",
+        "caravan site",
+        "case stated",
+        "public place",
+        "conviction quashed"
+      ],
+      "index_terms": [
+        "Dunmill v DPP",
+        "Hayling Island",
+        "Vivier",
+        "Brewer v DPP",
+        "Cutter v Eagle Star",
+        "driving ban"
+      ],
+      "linked_authorities": [
+        "Director of Public Prosecutions v Vivier [1991] 4 All ER 18",
+        "Brewer v Director of Public Prosecutions [2004] EWHC 355 (Admin)",
+        "Cutter v Eagle Star [1998] 1 WLR 1647"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Outcome and reasoning on the definition of road are clear and closely tied to the charge as laid."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1529.json",
+    "status": "done",
+    "notes": "Landmark CHAPS and money-laundering banking judgment; debt outcome and reasoning are explicit.",
+    "enrichment": {
+      "short_title": "CHAPS credit created bank debt despite laundering suspicion",
+      "area_of_law": [
+        "Banking law",
+        "Commercial law",
+        "Money laundering",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 93A"
+          ]
+        },
+        {
+          "title": "Money Laundering Regulations 1993",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Tayeb sold a .ly domain database to GPTC and opened an HSBC instant saver account to receive about £944,114 by CHAPS.",
+        "HSBC authenticated the transfer and credited the account, then froze it and re-transferred the funds to Barclays without the customer's consent.",
+        "The bank suspected fraud or money laundering but did not follow NCIS reporting procedures; the underlying transaction was innocent.",
+        "The claimant sought recovery in debt after the money was ultimately returned to GPTC via Eshhati."
+      ],
+      "procedural_posture": "Commercial Court claim for debt and breach of contract against HSBC following an unauthorised reversal of a CHAPS credit.",
+      "outcome": "Claimant entitled to judgment in debt for £944,114.23 with interest from 21 September 2000.",
+      "ratio": "Once a CHAPS transfer is authenticated and credited, the transferee bank owes a subsisting debt to its customer; mere suspicion of money laundering does not permit unilateral reversal after finality, and banks should use statutory reporting, account freezing, and if necessary court directions rather than returning credited funds without authority.",
+      "legal_issues": [
+        "Whether CHAPS authentication and crediting created a debt due from HSBC to the customer",
+        "How banks should respond to suspected money laundering in CHAPS transfers",
+        "Whether banking practice or constructive-trust risk justified reversal of the credit",
+        "Whether failure to mitigate barred recovery"
+      ],
+      "catchwords": [
+        "CHAPS",
+        "money laundering",
+        "banker and customer",
+        "constructive trust",
+        "debt claim",
+        "electronic transfer"
+      ],
+      "index_terms": [
+        "Tayeb v HSBC",
+        "Clearing House Automated Payment System",
+        "Bank of Scotland v A Ltd",
+        "Royal Brunei Airlines v Tan",
+        "Momm v Barclays Bank",
+        "GPTC"
+      ],
+      "linked_authorities": [
+        "Bank of Scotland v A Ltd [2001] 1 WLR 751",
+        "Royal Brunei Airlines v Philip Tan Kok Ming [1995] 2 AC 378",
+        "Momm v Barclays Bank International [1975] 1 QB 510",
+        "United Trading Corporation v Allied Arab Bank Ltd [1985] 2 Lloyd's Rep 554",
+        "Crantrave Ltd v Lloyd's Bank [2000] QB 917"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "First-instance judgment comprehensively addresses CHAPS finality, money laundering compliance, and the debt outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2187.json",
+    "status": "done",
+    "notes": "Conviction appeal dismissed; sentence appeal allowed in part with revised terms clearly stated.",
+    "enrichment": {
+      "short_title": "Incitement conviction upheld; excessive sentences reduced",
+      "area_of_law": [
+        "Criminal law",
+        "Sexual offences",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 80(2)(b)"
+          ]
+        },
+        {
+          "title": "Sex Offenders Act 1997",
+          "provisions": [
+            "section 2"
+          ]
+        },
+        {
+          "title": "Sexual Offences Act 1997",
+          "provisions": [
+            "section 5A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Michael Smith and Stephen Turner were convicted of incitement to rape and incitement to indecently assault following depraved correspondence after meeting in prison.",
+        "The Crown case rested on letters inciting each other to abuse young girls, while the defence said the correspondence was pure fantasy.",
+        "Both men had extensive prior sexual offence convictions and were assessed as high risk.",
+        "No substantive rape or indecent assault was committed, though real children came into Smith's orbit."
+      ],
+      "procedural_posture": "Appeal against conviction and sentence to the Court of Appeal (Criminal Division) following Crown Court trial.",
+      "outcome": "Smith's appeal against conviction dismissed; both appellants' sentence appeals allowed in part, reducing the commensurate and extended sentences on the rape and indecent assault counts.",
+      "ratio": "A jury properly directed could convict where correspondence, viewed in context, incited and intended real sexual offending notwithstanding fantasy elements; use of 'stimulate' in the incitement direction was not a misdirection; sentence starting points based on aggravated rape were excessive where only incitement, not completed offences, was proved.",
+      "legal_issues": [
+        "Meaning of incite and incitement in sexual offence correspondence",
+        "How juries should treat fantasy content in incitement cases",
+        "Whether the judge misdirected on burden of proof",
+        "Appropriate starting points for incitement sentences where no substantive offence occurred"
+      ],
+      "catchwords": [
+        "incitement",
+        "rape",
+        "indecent assault",
+        "fantasy correspondence",
+        "extended sentence",
+        "sex offenders"
+      ],
+      "index_terms": [
+        "R v Smith",
+        "R v Turner",
+        "Frankland prison",
+        "Millberry",
+        "Nelson sentencing",
+        "restraining order"
+      ],
+      "linked_authorities": [
+        "Race Relations Board v Applin [1973] QB 815",
+        "R v Nelson [2002] 1 Cr App R (S) 134",
+        "R v Millberry",
+        "DPP v Armstrong [2000] Crim LR 379"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Conviction and sentence outcomes are explicit. Detailed letter content is summarised rather than reproduced."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1185.json",
+    "status": "done",
+    "notes": "Contempt appeal allowed in part after judge's factual error on one incident; remaining findings upheld.",
+    "enrichment": {
+      "short_title": "Contempt appeal partly allowed after witness evidence error",
+      "area_of_law": [
+        "Family law",
+        "Contempt of court",
+        "Injunctions"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Donald Clarke appealed findings that he breached a non-molestation order forbidding intimidation, harassment, or pestering of his estranged wife and children.",
+        "Three incidents in May 2004 were alleged: driving slowly past Sandra Clarke on 23 May, passing her sister's flat on 24 May, and photographing outside the flat on 28 May.",
+        "The judge found all three breaches proved to the criminal standard but adjourned sentencing for a psychiatric report.",
+        "On appeal, the judge was held to have mischaracterised Pauline Evans' evidence about the 24 May incident."
+      ],
+      "procedural_posture": "Expedited appeal from committal findings in Leeds County Court for breach of a without-notice non-molestation order.",
+      "outcome": "Appeal allowed to the limited extent of setting aside the finding on the 24 May incident; findings on 23 and 28 May upheld.",
+      "ratio": "An inadvertent factual error about corroboration on one contempt allegation makes that finding unsafe where proof is to the criminal standard, but it does not necessarily vitiate separate findings supported by independent credibility assessment and other corroboration.",
+      "legal_issues": [
+        "Whether the judge erred in finding the three breaches proved beyond reasonable doubt",
+        "Effect of the judge's mistake about Pauline Evans' evidence on the 24 May incident",
+        "Whether lack of corroboration on one incident undermined findings on the others"
+      ],
+      "catchwords": [
+        "contempt of court",
+        "non-molestation order",
+        "harassment",
+        "family injunction",
+        "credibility",
+        "criminal standard of proof"
+      ],
+      "index_terms": [
+        "Clarke v Clarke",
+        "Leeds County Court",
+        "Grove Lea Walk",
+        "committal proceedings",
+        "domestic violence injunction"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Limited allowance of appeal and reasoning on the Evans evidence error are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1551.json",
+    "status": "needs_review",
+    "notes": "Interlocutory permission-to-amend ruling only; final injunction merits undecided and relief conditional on cross-undertaking.",
+    "enrichment": {
+      "short_title": "SEAT dealer amendment allowed only with cross-undertaking",
+      "area_of_law": [
+        "Commercial contract",
+        "Competition law",
+        "Injunctions",
+        "Motor trade"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Commission Regulation (EC) No 1400/2002",
+          "provisions": [
+            "Article 4(1)(d)",
+            "Article 5(2)(b)",
+            "Article 11",
+            "Article 12"
+          ]
+        }
+      ],
+      "key_facts": [
+        "SERE Holdings held SEAT dealer agreements for West Belfast and sought to restrain Volkswagen/SEAT UK from permitting the Agnew Group to open a nearby additional outlet.",
+        "Termination of the agreements was suspended pending arbitration, but job adverts showed Agnew planning a Boucher Road SEAT dealership.",
+        "The claimant sought to amend its injunction application after accepting clause 2.1 open-point arguments would fail.",
+        "The proposed case relied on collateral agreements, implied terms, estoppel, and restraint of additional outlets until 1 October 2005."
+      ],
+      "procedural_posture": "Interlocutory application for permission to amend particulars of claim and injunction application in Chancery proceedings.",
+      "outcome": "Permission to amend the injunction application granted only if the claimant offers a suitable cross-undertaking in damages for delay; otherwise permission refused; particulars of claim amendment not opposed.",
+      "ratio": "Collateral contract and estoppel claims were bound to fail against an entire agreement clause in the dealer contract; implied cooperation terms were arguable but weak; late amendment causing a de facto injunction without compensation could be permitted only if prejudice to the defendant was covered by a cross-undertaking.",
+      "legal_issues": [
+        "Whether permission should be granted to amend the injunction application at a late stage",
+        "Whether collateral contracts or estoppel could support an interim injunction",
+        "Whether implied terms preventing additional outlets were arguable under the block exemption regulation",
+        "Whether a cross-undertaking should be required to compensate de facto injunction prejudice"
+      ],
+      "catchwords": [
+        "SEAT dealer agreement",
+        "block exemption",
+        "interim injunction",
+        "entire agreement clause",
+        "implied term",
+        "motor distribution"
+      ],
+      "index_terms": [
+        "SERE Holdings v Volkswagen",
+        "Agnew Group",
+        "Boucher Road Belfast",
+        "Inntrepreneur Pub Co v East Crown Ltd",
+        "Coflexip SA v Stolt Offshore MS Ltd",
+        "selective distribution"
+      ],
+      "linked_authorities": [
+        "Inntrepreneur Pub Co (GL) v East Crown Ltd [2000] 2 Ll Rep 610",
+        "Deepak Fertilisers and Petrochemicals Corporation v ICI Chemicals & Polymers Ltd [1999] 1 Ll Rep 386",
+        "Amalgamated Investment & Property Co Ltd v Texas Commerce International Bank Ltd [1982] QB 84",
+        "The Helen Knutsen [2003] 2 Ll Rep 686"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Procedural outcome is clear but this is not a final merits decision on the injunction or contractual claims."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/915.json",
+    "status": "done",
+    "notes": "Second appeal on settled limitation law; permission refused with clear legislative-history reasoning.",
+    "enrichment": {
+      "short_title": "Promissory note limitation: time runs from execution",
+      "area_of_law": [
+        "Contract law",
+        "Limitation of actions",
+        "Banking and finance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 5",
+            "section 6",
+            "section 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Allendale Ltd sought to enforce a promissory note executed as a deed on 30 June 1988 and payable on demand.",
+        "No demand for payment was made within the 12-year specialty limitation period.",
+        "County court and circuit judge held the claim time-barred under the rule in Re Brown's Estate.",
+        "The applicant sought permission for a second appeal to reconsider that longstanding rule."
+      ],
+      "procedural_posture": "Renewed application for permission to appeal to the Court of Appeal from a second appeal decision on limitation.",
+      "outcome": "Application for permission to appeal refused.",
+      "ratio": "A promissory note payable on demand is a present debt and limitation begins at execution, not demand; the rule in Re Brown's Estate remains good law and was recognised by Parliament in section 6(2)(b) of the Limitation Act 1980, so the Court of Appeal should not revisit it.",
+      "legal_issues": [
+        "When limitation begins to run on a promissory note payable on demand",
+        "Whether Re Brown's Estate should be reconsidered",
+        "Effect of the Law Commission report and Limitation Act 1980 on demand debts"
+      ],
+      "catchwords": [
+        "promissory note",
+        "payable on demand",
+        "limitation period",
+        "specialty debt",
+        "Re Brown's Estate",
+        "second appeal"
+      ],
+      "index_terms": [
+        "Allendale Ltd v Moualem",
+        "Norton v Ellam",
+        "Boot v Boot",
+        "Law Commission report 1977",
+        "deed"
+      ],
+      "linked_authorities": [
+        "Norton v Ellam (1837) 2 M & W 461",
+        "Re Brown's Estate [1893] 2 Ch 300",
+        "Boot v Boot 73 P & CR 139"
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Short procedural judgment on settled limitation principles with explicit refusal of permission."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1585.json",
+    "status": "done",
+    "notes": "Preliminary duty-of-care ruling on assumed facts in Home Office welfare-benefits maladministration claims.",
+    "enrichment": {
+      "short_title": "Home Office owed duty over asylum benefit maladministration",
+      "area_of_law": [
+        "Administrative law",
+        "Negligence",
+        "Immigration law",
+        "Social security"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Two claims concerned Home Office maladministration causing asylum-seekers and family members granted leave to remain to miss statutory welfare benefits.",
+        "Mrs A's entry clearance was wrongly endorsed with a no-recourse-to-public-funds condition.",
+        "Mr Kanidagli did not receive a usable status letter enabling him to claim benefits.",
+        "The court heard a preliminary issue on assumed facts to decide whether the Secretary of State owed a duty of care."
+      ],
+      "procedural_posture": "Preliminary hearing in consolidated damages claims, originally begun as judicial review, to determine legal liability on assumed facts.",
+      "outcome": "On the assumed facts, the Secretary of State owed a duty of care to Mrs A and Mr Kanidagli in implementing immigration decisions; abuse-of-power claim left undecided but treated sceptically.",
+      "ratio": "It is fair, just and reasonable to impose a duty of care on the Home Office to take care in administratively implementing immigration decisions so that beneficiaries receive appropriate documentation and are not wrongly prevented from accessing welfare benefits; Human Rights Act damages were not an alternative route here.",
+      "legal_issues": [
+        "Whether the Secretary of State owed a common law duty of care for maladministration affecting benefit entitlement",
+        "Whether public authority negligence principles permit liability in these immigration-benefit cases",
+        "Whether a free-standing abuse-of-power claim arises absent negligence"
+      ],
+      "catchwords": [
+        "duty of care",
+        "maladministration",
+        "asylum seeker",
+        "welfare benefits",
+        "Home Office",
+        "immigration documentation"
+      ],
+      "index_terms": [
+        "R (A) v SSHD",
+        "Kanidagli",
+        "public authority negligence",
+        "leave to remain",
+        "public funds condition",
+        "status letter"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Preliminary ruling on assumed facts only; breach, causation and quantum were not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1937.json",
+    "status": "done",
+    "notes": "Careless driving case stated appeal dismissed; distraction defence treated as fact-sensitive.",
+    "enrichment": {
+      "short_title": "Careless driving conviction upheld after child distraction",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Plunkett rear-ended stationary traffic on a dual carriageway at about 22 mph, causing a multi-vehicle collision.",
+        "He said he was distracted by children who had left a vehicle on the opposite carriageway and stepped onto the central island.",
+        "Traffic ahead had been stationary for 30 to 60 seconds due to a crane causing congestion at a roundabout.",
+        "The Crown Court found he allowed distraction for too long at his speed and drove below the standard of a reasonable competent driver."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Truro Crown Court dismissing an appeal against a magistrates' careless driving conviction.",
+      "outcome": "Appeal dismissed; Crown Court findings supported conviction; appellant ordered to pay £650 towards costs subject to means enquiry and stay on enforcement.",
+      "ratio": "Whether distraction excuses careless driving is a question of fact in each case; paying attention to an important event does not relieve a driver of the duty to avoid colliding with stationary traffic ahead, and allowing distraction for too long at the speed driven can properly support a conviction.",
+      "legal_issues": [
+        "Whether distraction by an emergency or important event can absolve a driver from careless driving liability",
+        "Whether the Crown Court was entitled to find the distraction lasted too long",
+        "Whether the facts as found supported conviction as a matter of law"
+      ],
+      "catchwords": [
+        "careless driving",
+        "distraction",
+        "dual carriageway",
+        "rear-end collision",
+        "case stated",
+        "standard of driving"
+      ],
+      "index_terms": [
+        "Plunkett v DPP",
+        "West Cornwall Magistrates' Court",
+        "Truro Crown Court",
+        "due care and attention",
+        "traffic queue"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Legal conclusion upholding conviction is clear; costs discussion is peripheral."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/871.json",
+    "status": "done",
+    "notes": "EAT time-limit construction issue resolved clearly against Interpretation Act deemed-delivery argument.",
+    "enrichment": {
+      "short_title": "EAT appeal time runs from date documents sent",
+      "area_of_law": [
+        "Employment law",
+        "Civil procedure",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Interpretation Act 1978",
+          "provisions": [
+            "section 7",
+            "section 23"
+          ]
+        },
+        {
+          "title": "Employment Tribunals Act 1996",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Gdynia American Shipping Lines' notice of appearance to Mrs Chelminski's equal pay claim was struck out and arrears of £45,425 plus interest were ordered.",
+        "Extended written reasons were posted on 19 June 2003; a valid EAT notice of appeal was filed on 1 August 2003.",
+        "The appellant argued the 42-day period ran from deemed delivery under section 7 of the Interpretation Act 1978.",
+        "The EAT registrar and judge held the appeal out of time and refused an extension."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from the Employment Appeal Tribunal on construction of the EAT appeal time limit.",
+      "outcome": "Appeal dismissed; appeal lodged on 1 August 2003 was out of time where reasons were sent on 19 June 2003.",
+      "ratio": "In EAT rule 3(3)(a), 'date sent' means the ordinary date of posting, not deemed delivery under section 7 of the Interpretation Act 1978; section 7 governs when service is deemed effected, which is a different question from when documents were sent for time-limit purposes.",
+      "legal_issues": [
+        "Whether EAT appeal time runs from sending or deemed receipt of extended written reasons",
+        "Application of section 7 of the Interpretation Act 1978 to EAT Rules 1993",
+        "Whether conflicting EAT authorities should be followed"
+      ],
+      "catchwords": [
+        "Employment Appeal Tribunal",
+        "time limit",
+        "extended reasons",
+        "Interpretation Act 1978",
+        "date sent",
+        "strike out"
+      ],
+      "index_terms": [
+        "Gdynia American Shipping Lines v Chelminski",
+        "equal pay",
+        "Hammersmith & Fulham LBC v Ladejobi",
+        "Sian v Abbey National plc",
+        "Immigration Advisory Service v Oommen"
+      ],
+      "linked_authorities": [
+        "Hammersmith & Fulham LBC v Ladejobi [1999] ICR 673",
+        "Sian v Abbey National plc [2004] ICR 55",
+        "Immigration Advisory Service v Oommen [1997] ICR 683",
+        "Scotford v Smith Kline Beecham [2002] ICR 264",
+        "T&D Transport (Portsmouth) Limited v Limburn [1987] ICR 696"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Single issue of statutory construction decided clearly with explicit rejection of prior EAT authority."
+      }
+    }
+  }
+]

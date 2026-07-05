@@ -1,0 +1,633 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/3188.json",
+    "status": "done",
+    "notes": "VAT face-value voucher judicial review; Sixth Directive place-of-supply analysis and outcome are clear.",
+    "enrichment": {
+      "short_title": "IDT Card Services: VAT on Irish multifunctional phonecards under Schedule 10A",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "European Union law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": [
+            "Schedule 10A",
+            "section 7"
+          ]
+        },
+        {
+          "title": "Finance Act 2003",
+          "provisions": [
+            "section 19"
+          ]
+        },
+        {
+          "title": "Sixth VAT Directive",
+          "provisions": [
+            "Article 9"
+          ]
+        }
+      ],
+      "key_facts": [
+        "IDT Card Services Ireland supplied multifunctional phonecards from Ireland to UK distributors; redemption gave access to Irish telecommunications services via Interdirect.",
+        "Irish VAT law treats card sales as prepayment for telecoms, while UK law taxes the telecom service on redemption; the structure risked double non-taxation.",
+        "HMRC argued Schedule 10A paragraph 3 required VAT on card supplies to UK traders via reverse charge, or that ICSIL and Interdirect were the same person so paragraph 4 applied.",
+        "The business plan predated Schedule 10A and Moses J found no abusive tax avoidance."
+      ],
+      "procedural_posture": "Judicial review claim challenging HMRC assessments on supplies of prepaid phonecards and related telecommunications services.",
+      "outcome": "Claim succeeded; the United Kingdom had no Sixth Directive basis to charge VAT on Interdirect's Irish telecom supplies to UK end-users outside Article 9(2)(e), and paragraph 3(3) could not be construed to treat Interdirect as having failed to account for EU VAT.",
+      "ratio": "Article 9 allocates VAT jurisdiction between Member States and does not empower one state to tax a supply whose place of supply under Article 9(1) lies in another Member State merely to avoid non-taxation; domestic Schedule 10A must be read consistently with that territorial scheme.",
+      "legal_issues": [
+        "Whether paragraph 3(3) 'VAT due' includes VAT due anywhere in the European Union",
+        "Whether ICSIL and Interdirect were the same person for paragraph 3(1) purposes",
+        "Whether Marleasing construction could require UK taxation to prevent non-taxation",
+        "Whether the structures amounted to abusive tax avoidance"
+      ],
+      "catchwords": [
+        "face-value voucher",
+        "Schedule 10A",
+        "place of supply",
+        "telecommunications",
+        "reverse charge",
+        "Sixth Directive"
+      ],
+      "index_terms": [
+        "Interdirect",
+        "multifunctional phonecard",
+        "Article 9(2)(e)",
+        "Marleasing",
+        "Dudda",
+        "prepaid card"
+      ],
+      "linked_authorities": [
+        "Argos Distribution Ltd v Customs and Excise [1997] QB 499",
+        "Gemeente Leusden v Staatsecretaris van Financien (C-487/01)",
+        "Jurgen Dudda v Finanzamt Bergisch Gladbach (C-327/94)"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Statutory construction and final disposition are clearly reasoned; leave to appeal was granted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/3112.json",
+    "status": "done",
+    "notes": "Section 28(1)(a) 'immediately' construction; appeal allowed and aggravated conviction quashed.",
+    "enrichment": {
+      "short_title": "Parry v DPP: 'immediately' in racially aggravated criminal damage",
+      "area_of_law": [
+        "Criminal law",
+        "Public law",
+        "Case stated"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": [
+            "section 28(1)",
+            "section 30(1)",
+            "section 30(3)"
+          ]
+        },
+        {
+          "title": "Criminal Damage Act 1971",
+          "provisions": [
+            "section 1(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Peter Parry threw nail varnish over his neighbour Mrs McCleery's front door shortly before midnight on 24 January 2004.",
+        "About twenty minutes later, when police questioned him at home, he used abusive language referring to 'Irish cunts' and 'IRA bastards'.",
+        "He admitted criminal damage but denied the offence was racially aggravated under section 28(1)(a).",
+        "The Crown Court upheld conviction; Field LJ held the hostile words were not made immediately after the substantive offence."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Chester Crown Court dismissing an appeal against conviction for racially aggravated criminal damage.",
+      "outcome": "Appeal allowed; the Crown Court decision and the magistrates' conviction on the aggravated charge were quashed; questions 1 answered yes and question 6 answered no.",
+      "ratio": "Under section 28(1)(a) 'immediately' qualifies both 'before' and 'after' the substantive offence and requires demonstration of hostility in the immediate context of that offence; hostility may be shown towards an absent victim but not after the offender has quit the scene.",
+      "legal_issues": [
+        "Whether 'immediately' in section 28(1)(a) applies to hostility demonstrated after the offence",
+        "Whether a twenty-minute gap after the damage precluded an 'immediately after' finding",
+        "Whether hostility to a police officer in the defendant's home could be hostility towards the victim",
+        "Whether the victim must be present when hostility is demonstrated"
+      ],
+      "catchwords": [
+        "racially aggravated",
+        "criminal damage",
+        "section 28",
+        "immediately after",
+        "hostility",
+        "case stated"
+      ],
+      "index_terms": [
+        "Mold Magistrates' Court",
+        "Chester Crown Court",
+        "racial group",
+        "police interview",
+        "figure of speech"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Agreed facts and narrow statutory construction point are clearly resolved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/3251.json",
+    "status": "done",
+    "notes": "Securicor conspiracy appeal; PTSD fresh evidence admitted and both convictions unsafe.",
+    "enrichment": {
+      "short_title": "R v Huckerby and Power: PTSD evidence and £6.5m Securicor robbery conspiracy",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Psychiatry",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 23"
+          ]
+        }
+      ],
+      "key_facts": [
+        "On 3 July 1995 over £6.5 million was stolen from a Securicor van at a Midland Bank sorting office in Salford; Huckerby was the inside driver and Power was alleged to be his handler.",
+        "The Crown case rested on circumstantial inference from Huckerby's failure to activate tracking devices, telephone contact, cash deposits and a disputed confession to Clare Healey.",
+        "Fresh psychiatric evidence suggested Huckerby suffered PTSD from an earlier 1994 robbery affecting his conduct during the 1995 attack.",
+        "Both appellants were convicted on retrial after other co-accused were acquitted or had indictments stayed."
+      ],
+      "procedural_posture": "Applications for leave to adduce fresh psychiatric evidence and appeals against conviction and confiscation orders following a second trial.",
+      "outcome": "Fresh evidence of Dr Green and Mr Regel admitted; both convictions held unsafe and appeals allowed; confiscation orders set aside; retrial to be considered.",
+      "ratio": "Expert evidence on recognised PTSD may be admissible where the prosecution case depends on inferring willing participation from the defendant's conduct, even absent a formal duress plea; on appeal such evidence may be admitted under section 23 where trial counsel could not have deployed it and overall safety is in doubt.",
+      "legal_issues": [
+        "Whether psychiatric evidence supporting the defendant's account was inadmissible oath-helping",
+        "Whether fresh PTSD evidence should be admitted years after trial under section 23",
+        "Whether telephone call evidence to third-party addresses remained probative after co-accused were acquitted",
+        "Whether the judge's summing-up on telephone evidence was adequate"
+      ],
+      "catchwords": [
+        "post-traumatic stress disorder",
+        "circumstantial evidence",
+        "conspiracy to rob",
+        "fresh evidence",
+        "inside job",
+        "oath helping"
+      ],
+      "index_terms": [
+        "Securicor",
+        "data track",
+        "Barry Unknown",
+        "Clare Healey",
+        "Bowen",
+        "Robinson"
+      ],
+      "linked_authorities": [
+        "R v Robinson [1994] 98 Crim App R (S) 370",
+        "R v Bowen [1996] 2 Cr App R (S) 157",
+        "R v Andrews [2003] EWCA Crim 2750"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed reserved judgment on fresh evidence and telephone evidence; retrial not finally determined."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1733.json",
+    "status": "done",
+    "notes": "PFI M&E subcontract preliminary issues; Court of Appeal upheld £14m cap not £34.25m obligation.",
+    "enrichment": {
+      "short_title": "Emcor v McAlpine: scope of Dudley Hospitals PFI mechanical and electrical subcontract",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Private finance initiative",
+        "Commercial law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Sir Robert McAlpine was main contractor on the Dudley Hospitals PFI project with about £34.25 million of M&E works.",
+        "Emcor began work under a 3 July 2001 short-form purchase order capped at £1 million pending a formal DOM subcontract that was never executed.",
+        "A series of capped orders followed (£3m, £8m, £14m aggregate); McAlpine rejected a final £34.285m order in October 2002 and purported to accept repudiatory breach.",
+        "McAlpine relied on an 20 August 2001 side letter as binding Emcor to the full M&E package for £34.25 million."
+      ],
+      "procedural_posture": "Appeal from preliminary issues trial determining whether Emcor was contractually bound to complete all M&E works for £34.25 million.",
+      "outcome": "Appeal dismissed; Emcor was obliged only to perform work up to the cumulative order caps (ultimately £14 million), not the entire M&E scope; costs appeal permission refused.",
+      "ratio": "Read together, the capped short-form orders and the 20 August letter contemplated future formal subcontract terms rather than a present agreement for the whole works; successive limited orders showed the parties never agreed Emcor would carry out all M&E work before execution of a conforming subcontract.",
+      "legal_issues": [
+        "Whether the 20 August 2001 letter bound Emcor to complete all M&E works for £34.25 million",
+        "Whether work performed under capped purchase orders evidenced a whole-works contract",
+        "Whether unresolved liability mismatches between draft and main contract terms prevented binding agreement",
+        "Whether the judge erred in ordering McAlpine to pay preliminary issue costs"
+      ],
+      "catchwords": [
+        "sub-contract",
+        "PFI",
+        "purchase order",
+        "preliminary issues",
+        "letter of intent",
+        "cap on value"
+      ],
+      "index_terms": [
+        "Dudley Hospitals",
+        "DOM 1",
+        "Paper Apart 1",
+        "Hoare Lea",
+        "liquidated damages",
+        "repudiatory breach"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Document-based contract analysis and preliminary issue answers are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/2963.json",
+    "status": "done",
+    "notes": "Lloyd's Energy '77 Cover trial; Morison J rejected all reinsurer defences in general conclusion.",
+    "enrichment": {
+      "short_title": "Bonner v Cox: Lloyd's Energy '77 Cover reinsurance debt and avoidance defences",
+      "area_of_law": [
+        "Insurance law",
+        "Reinsurance",
+        "Commercial law",
+        "Professional negligence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Lloyd's energy syndicates 535, 62, 187 and 228 sued reinsurers Cox, Euclidian (1243), 1688 and broker AON for debts under the AON-operated Energy '77 Open Cover.",
+        "Reinsurers pleaded avoidance for non-disclosure of the Elk Point loss and misrepresentations about business type, writing against and long-term declarations.",
+        "The 1999 year cover reinsurance involved complex fronting and retrocession arrangements with Tryg Baltica and syndicate 1688.",
+        "Part of the multi-party litigation settled during trial; Morison J held none of the remaining defences had substance."
+      ],
+      "procedural_posture": "Commercial Court trial of debt claims by Lloyd's syndicates with extensive reinsurer defences and cross-claims against brokers.",
+      "outcome": "All reinsurer defences rejected; coverage issues decided in claimants' favour on long-term declarations and non-standard security; parties directed to draw up the order giving effect to judgment.",
+      "ratio": "The 1999 reinsurance slip, read with the MOU and risks-attaching wording, covered long-term declarations re-signed into the 1999 year without temporal limit; annual re-signing does not cancel underlying cover, and alleged Elk Point non-disclosure did not justify avoidance on the facts found.",
+      "legal_issues": [
+        "Whether undisclosed Elk Point loss information induced syndicates 1688 and 1243 to write cover reinsurance",
+        "Whether cover underwriters engaged in impermissible 'writing against' the reinsurance",
+        "Whether long-term declarations and non-standard security fell within reinsurance coverage",
+        "Whether AON breached duties or warranties to syndicates if avoidance defences succeeded"
+      ],
+      "catchwords": [
+        "Lloyd's syndicate",
+        "open cover",
+        "non-disclosure",
+        "writing against",
+        "long-term declaration",
+        "reinsurance slip"
+      ],
+      "index_terms": [
+        "Energy 77 Cover",
+        "Roger Backhouse",
+        "Elk Point",
+        "Tryg Baltica",
+        "follow the settlements",
+        "Baker v Black Sea"
+      ],
+      "linked_authorities": [
+        "Baker v Black Sea and Baltic General Insurance Co [1996] 1 Lloyd's Rep 353"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "General conclusion and coverage decision are clear though the judgment is very long and partially transcript-heavy."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1770.json",
+    "status": "done",
+    "notes": "Secure tenancy anti-social behaviour appeal; judge erred on suspended possession reasoning.",
+    "enrichment": {
+      "short_title": "Norwich CC v Famuyiwa: reasonableness of possession for tenant nuisance",
+      "area_of_law": [
+        "Housing law",
+        "Landlord and tenant",
+        "Injunctions",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1985",
+          "provisions": [
+            "section 84(2)",
+            "section 85(2)",
+            "section 85(3)",
+            "section 85(4)",
+            "Schedule 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Miss Famuyiwa was a secure tenant at 26 Clifton Close, Norwich, with over ten years' previously unproblematic occupation.",
+        "From late 2001 neighbours complained of door slamming, abusive language and confrontational behaviour over about 78 alleged incidents.",
+        "The deputy judge found grounds 1 and 2 made out but refused possession as unreasonable, instead granting a two-year injunction.",
+        "Neighbours including Mr Bowhill gave credible evidence that the tenant's conduct made life miserable, especially affecting a young child."
+      ],
+      "procedural_posture": "Appeal from Norwich County Court refusal to make a possession order in secure tenancy proceedings for nuisance and harassment.",
+      "outcome": "Appeal allowed; possession order made with date postponed pending county court determination of section 85(3) terms; injunction left undisturbed; costs ordered against tenant.",
+      "ratio": "In deciding reasonableness under section 84(2)(a) the court must consider whether a postponed or suspended possession order under section 85 could control behaviour; it was wrong in principle to dismiss possession because a suspended order seemed pointless without examining appropriate conditions.",
+      "legal_issues": [
+        "Whether it was reasonable to refuse possession despite established nuisance under ground 2",
+        "Whether the judge erred by conflating section 84(2)(a) and section 85(2)-(3) stages",
+        "Whether an injunction rather than a suspended possession order was appropriate",
+        "Whether long prior good tenancy history outweighed persistent breach"
+      ],
+      "catchwords": [
+        "secure tenancy",
+        "anti-social behaviour",
+        "possession order",
+        "suspended order",
+        "nuisance",
+        "housing association"
+      ],
+      "index_terms": [
+        "Clifton Close",
+        "West Kent Housing Association",
+        "Raeuchle v Laimond",
+        "Canterbury City Council v Lowe",
+        "right to buy"
+      ],
+      "linked_authorities": [
+        "West Kent Housing Association Ltd v Davies (1998) 31 HLR 415",
+        "Raeuchle v Laimond Properties Ltd (2001) 33 HLR 10",
+        "Canterbury City Council v Lowe (2001) 33 HLR 53"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Statutory three-stage analysis and appellate disposition are clearly reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1687.json",
+    "status": "done",
+    "notes": "Stolen Mercedes insurance fraud trial; appeal dismissed on fraud findings and CWS distinguished.",
+    "enrichment": {
+      "short_title": "Interface v Eagle Star: good faith and alleged theft of financed Mercedes",
+      "area_of_law": [
+        "Insurance law",
+        "Contract law",
+        "Fraud",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Interface Properties claimed indemnity for the alleged theft of a Mercedes bought from Jalal Din, who was fraudulently selling a vehicle still subject to Benton Finance hire purchase.",
+        "Asad Chaudhary said he inspected the car on 6 May 2000 and completed purchase on 8 May, but Bensons' records showed the car remained in Leeds until 7 May.",
+        "Eagle Star denied any genuine transfer and put the claimant to proof of purchase and theft; the recorder found Chaudhary an unsatisfactory witness.",
+        "The recorder held the AA check on 6 May was made to support a false story and ordered indemnity costs."
+      ],
+      "procedural_posture": "Appeal from Central London County Court dismissal of claim for indemnity and ownership declaration after trial.",
+      "outcome": "Appeal dismissed; recorder entitled to find no good-faith acquisition or genuine theft; unfair motivation finding on AA call insufficient to vitiate overall decision.",
+      "ratio": "Where the insurer's case throughout amounted to allegations of fraud, a trial judge may find dishonesty on issues directly raised even if one specific motivation finding was not put; that isolated unfairness does not require retrial when other fraud findings amply support dismissal.",
+      "legal_issues": [
+        "Whether the judge made unpleaded fraud findings in breach of audi alteram partem",
+        "Whether finding that the AA call supported a false story was unfairly made without cross-examination on that point",
+        "Whether Bensons' evidence proved the Mercedes could not have been seen in London on 6 May",
+        "Whether indemnity costs were appropriate"
+      ],
+      "catchwords": [
+        "motor insurance",
+        "theft claim",
+        "good faith purchaser",
+        "conditional sale",
+        "fraud",
+        "indemnity costs"
+      ],
+      "index_terms": [
+        "Jalal Din",
+        "Benton Finance",
+        "Bensons Rodley Car Centre",
+        "AA data check",
+        "CWS v ICL",
+        "Vogon v SFO"
+      ],
+      "linked_authorities": [
+        "Co-operative (CWS) Ltd v International Computers Ltd [2003] EWCA Civ 1955",
+        "Vogon International Ltd v SFO [2004] EWCA Civ 104"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Fact-heavy trial findings upheld; appeal focused on procedural fairness of one finding."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2984.json",
+    "status": "done",
+    "notes": "Orchard Hill closure directions; Coughlan and Wilkinson require merits review of best interests.",
+    "enrichment": {
+      "short_title": "CH v Sutton and Merton PCT: Orchard Hill Hospital closure and home-for-life promises",
+      "area_of_law": [
+        "Healthcare law",
+        "Administrative law",
+        "Human rights",
+        "Mental capacity"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6",
+            "section 7"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Orchard Hill Hospital in Carshalton housed 102 adults with severe learning disabilities; the PCT decided on 20 May 2004 to close it.",
+        "Many residents had been given 'home for life' promises; a 2000 closure decision had been quashed by Jackson J for failing to assess individual needs.",
+        "Clinical assessment suggested most residents would suffer heightened or disabling emotional harm from relocation.",
+        "The PCT contended closure was in residents' best interests and justified overriding the promises under Coughlan."
+      ],
+      "procedural_posture": "Case management directions in linked judicial review and Part 8 family proceedings challenging hospital closure.",
+      "outcome": "Court held disputed best-interests issues require full merits determination on oral evidence, not conventional judicial review alone; proceedings to be heard together and remitted for that enquiry.",
+      "ratio": "Where a public body relies on residents' best interests to override legitimate expectations from home-for-life promises, Coughlan and Wilkinson require the court itself to resolve disputed factual issues about those best interests rather than deferring to the decision-maker under Wednesbury review.",
+      "legal_issues": [
+        "Whether closure decision lawfully overrode home-for-life promises",
+        "Whether adequate individual needs assessments were conducted",
+        "Whether the court must conduct a merits review of best interests under Article 8",
+        "How linked judicial review and family proceedings should be case-managed"
+      ],
+      "catchwords": [
+        "learning disability",
+        "hospital closure",
+        "legitimate expectation",
+        "best interests",
+        "home for life",
+        "Article 8"
+      ],
+      "index_terms": [
+        "Orchard Hill",
+        "Coughlan",
+        "Wilkinson v Broadmoor",
+        "Primary Care Trust",
+        "community care",
+        "Official Solicitor"
+      ],
+      "linked_authorities": [
+        "R v North and East Devon Health Authority ex p Coughlan [2001] QB 213",
+        "R (Wilkinson) v Broadmoor Special Hospital Authority [2002] 1 WLR 419",
+        "R (N) v M [2003] 1 WLR 562"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Directions judgment only; substantive closure lawfulness not finally determined."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/3175.json",
+    "status": "done",
+    "notes": "Section 44 mandatory injunction for Russian bank authorisation documents; Hiscox followed.",
+    "enrichment": {
+      "short_title": "Cetelem v Roust Holdings: urgent section 44 order for CBR share-transfer documents",
+      "area_of_law": [
+        "Arbitration",
+        "Commercial law",
+        "Injunctions",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 44(3)"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 37"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Cetelem agreed to buy a 50% stake in Roust Cetelem Ltd from Roust Holdings for about US$320 million under an English-law ICC arbitration agreement.",
+        "Central Bank of Russia authorisation was a condition precedent expiring on 31 January 2005; extensive documentation had to be submitted by late December 2004.",
+        "After a 22 December letter alleging destroyed trust, Cetelem obtained without-notice freezing relief and sought a mandatory order compelling document production.",
+        "Beatson J granted mandatory relief under section 44 requiring RHL to take reasonable lawful measures to deliver listed documents by noon on 30 December."
+      ],
+      "procedural_posture": "Urgent return date on without-notice freezing and mandatory injunction applications in support of imminent London arbitration.",
+      "outcome": "Mandatory injunction granted in narrowed terms mirroring clause 6.8 obligations; freezing order continued; permission to appeal refused; privacy application refused.",
+      "ratio": "Section 44(3) permits urgent pre-arbitration orders for a proposed party where necessary to preserve assets or support the arbitral process; a mandatory order requiring contractual cooperation to submit regulatory documents does not finally determine merits and may be enforced where the respondent can control group companies.",
+      "legal_issues": [
+        "Whether section 44(3) applies before arbitral proceedings are commenced",
+        "Whether mandatory injunction relief was too uncertain under Redland Bricks v Morris",
+        "Whether the court lacked jurisdiction over BVI defendant with assets abroad",
+        "Whether freezing order should continue pending arbitration"
+      ],
+      "catchwords": [
+        "section 44",
+        "mandatory injunction",
+        "ICC arbitration",
+        "condition precedent",
+        "freezing order",
+        "share purchase"
+      ],
+      "index_terms": [
+        "Central Bank of Russia",
+        "Russian Standard Bank",
+        "Roust Tariko",
+        "Hiscox v Dickson",
+        "Motorola v Uzan",
+        "Redland Bricks v Morris"
+      ],
+      "linked_authorities": [
+        "Hiscox Underwriting Ltd v Dickson [2004] EWHC 479",
+        "Motorola Credit Corporation v Uzan (No 2) [2003] EWCA Civ 752",
+        "Redland Bricks Ltd v Morris [1970] AC 652"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Interlocutory reasoning and final order terms are recorded, including on-form negotiation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/44.json",
+    "status": "done",
+    "notes": "Coroner post-mortem permission appeal refused; limited examination may suffice.",
+    "enrichment": {
+      "short_title": "Kasperowicz v Plymouth coroner: post-mortem after uncertified death of elderly grandmother",
+      "area_of_law": [
+        "Coroner law",
+        "Administrative law",
+        "Human rights",
+        "Medical law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Births and Deaths Registration Act 1953",
+          "provisions": [
+            "section 22(1)"
+          ]
+        },
+        {
+          "title": "Coroners Act 1988",
+          "provisions": [
+            "section 8(1)(b)",
+            "section 19",
+            "section 19(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Adela Kasperowicz, 88, died on 30 December 2004 after respiratory difficulties at home following recent hospital treatment for pneumonia and sepsis.",
+        "No attending doctor would certify the medical cause of death; the coroner treated it as a sudden death of unknown cause requiring investigation.",
+        "The family, citing Catholic beliefs that the body should remain intact, sought to restrain post-mortem examination and preferred MRI scanning.",
+        "Gray J refused injunctive relief; the Court of Appeal renewed application was dismissed."
+      ],
+      "procedural_posture": "Renewed application for permission to appeal against refusal of injunction restraining coroner-directed post-mortem examination.",
+      "outcome": "Permission to appeal refused; coroner lawfully entitled to order section 19 post-mortem where no practitioner certificate exists; family concerns are humanitarian not legal grounds to halt the process.",
+      "ratio": "Where no attending medical practitioner certifies cause of death, independent ascertainment through coroner investigation is required by law; the coroner may limit examination appropriately but need not abandon post-mortem merely because the family knows a probable cause.",
+      "legal_issues": [
+        "Whether death was 'sudden' within section 8(1)(b) when respiratory failure followed prior illness",
+        "Whether family knowledge of pneumonia/sepsis obviated need for post-mortem",
+        "Whether MRI scanning could replace invasive autopsy as a matter of law",
+        "Whether coroner decision was irrational or unlawful"
+      ],
+      "catchwords": [
+        "post-mortem",
+        "coroner",
+        "cause of death",
+        "medical certificate",
+        "sudden death",
+        "religious objection"
+      ],
+      "index_terms": [
+        "section 19",
+        "Form 22 inquisition",
+        "MRI scan",
+        "Plymouth",
+        "Article 8",
+        "limited examination"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Short procedural judgment with clear statutory analysis and unanimous refusal."
+      }
+    }
+  }
+]

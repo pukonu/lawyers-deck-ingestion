@@ -1,0 +1,669 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/100.json",
+    "status": "done",
+    "notes": "Second appeal on Landlord and Tenant Act 1954 counter-notices; Arden LJ judgment with Thorpe and Nourse LJJ agreeing.",
+    "enrichment": {
+      "short_title": "Irrevocability of positive section 25 counter-notice",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Business tenancies",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Landlord and Tenant Act 1954",
+          "provisions": ["Part II", "section 24", "section 25", "section 26", "section 29", "section 64"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["section 3"]
+        },
+        {
+          "title": "Regulatory Reform (Business Tenancies) (England and Wales) Order 2003",
+          "provisions": ["SI 2003/3096"]
+        }
+      ],
+      "key_facts": [
+        "The tenant held a Part II business tenancy at 130 Railton Road, Herne Hill, and served an invalid section 26 notice before the landlord served a section 25 notice.",
+        "The tenant first served a positive counter-notice stating willingness to give up possession, then corrected the error with a negative counter-notice within the two-month period.",
+        "HHJ Cox struck out the tenant's new-tenancy application; Pumfrey J allowed the tenant's appeal on the basis a substituted counter-notice could be effective.",
+        "The landlord appealed, arguing Re 14 Grafton Street and Bridgers bound the court to treat the first positive counter-notice as irrevocable.",
+        "The tenant contended that construction violated Articles 1 and 6 of the ECHR and required a section 3 Human Rights Act reading."
+      ],
+      "procedural_posture": "Second appeal with application for permission and extension of time against Pumfrey J's decision allowing the tenant's appeal from the county court.",
+      "outcome": "Landlord's appeal allowed; Pumfrey J's decision set aside; extension of time granted on terms including indemnity costs for the delay application.",
+      "ratio": "Following Re 14 Grafton Street and Bridgers, a tenant who serves a positive counter-notice under section 25 of the Landlord and Tenant Act 1954 cannot substitute a negative counter-notice within the statutory period, and that bar does not require a different construction under section 3 of the Human Rights Act 1998.",
+      "legal_issues": [
+        "Whether a tenant may serve a second counter-notice correcting a positive section 25 counter-notice",
+        "Application of the doctrine of election to Part II business tenancies",
+        "Whether Re 14 Grafton Street engages Article 1 Protocol 1 and Article 6 ECHR",
+        "Whether section 3 Human Rights Act 1998 requires a more flexible construction"
+      ],
+      "catchwords": [
+        "business tenancy",
+        "section 25 counter-notice",
+        "section 29",
+        "Re 14 Grafton Street",
+        "election",
+        "Human Rights Act 1998"
+      ],
+      "index_terms": [
+        "Landlord and Tenant Act 1954 Part II",
+        "positive counter-notice",
+        "negative counter-notice",
+        "new tenancy application",
+        "Article 1 Protocol 1",
+        "Article 6 ECHR"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Re 14 Grafton Street [1971] 1 Ch 935",
+          "relationship": "followed"
+        },
+        {
+          "citation": "Bridgers v Marlowe",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Wilson v First County Trust Ltd (No 2) [2004] UKHL 40",
+          "relationship": "considered"
+        },
+        {
+          "citation": "Oliver Ashworth Ltd v Ballard Ltd [2000] Ch 12",
+          "relationship": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Outcome and core ratio are explicit; one linked authority citation abbreviated in source text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/49.json",
+    "status": "done",
+    "notes": "Consolidated immigration appeals (E and R); Carnwath LJ giving judgment of the court.",
+    "enrichment": {
+      "short_title": "IAT discretion to rehear on mistaken facts",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Appellate procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": ["Schedule 4", "rule 30"]
+        }
+      ],
+      "key_facts": [
+        "Two consolidated appeals concerned Egyptian and Afghan asylum cases where the IAT had rejected appeals based on factual findings later challenged by new country evidence.",
+        "Conflicting Court of Appeal lines had emerged between a strict approach in Kibiti and AE and FE and a more flexible approach in Turgut, Haile and A v Secretary of State.",
+        "E claimed Muslim Brotherhood persecution; R claimed risk as an apostate from Islam.",
+        "New evidence included Human Rights Watch and CIPU reports not before the IAT at first instance.",
+        "The Secretary of State argued the strict line should prevail and that A v Secretary of State was per incuriam."
+      ],
+      "procedural_posture": "Appeals from the Immigration Appeal Tribunal on applications for leave to appeal to the Court of Appeal.",
+      "outcome": "Appeals allowed; cases remitted to the IAT to reconsider whether to direct a rehearing in light of new evidence; permission to appeal to the House of Lords refused.",
+      "ratio": "Where leave to appeal to the Court of Appeal is before the IAT, rule 30(2)(c) permits it to set aside its determination and direct a rehearing; the IAT must consider new credible and material evidence in that context rather than treating earlier flexible authority as settled without argument.",
+      "legal_issues": [
+        "Whether the IAT may review its determination where reasoning rested on ignorance or mistake of fact",
+        "Whether new evidence may be admitted on leave applications",
+        "Reconciliation of Kibiti with Turgut, Haile and later authority",
+        "Application of Ladd v Marshall principles in asylum appeals"
+      ],
+      "catchwords": [
+        "Immigration Appeal Tribunal",
+        "rule 30 rehearing",
+        "new evidence",
+        "asylum appeal",
+        "Ladd v Marshall",
+        "finality"
+      ],
+      "index_terms": [
+        "IAT leave to appeal",
+        "Muslim Brotherhood",
+        "apostasy",
+        "country evidence",
+        "mistake of fact",
+        "anxious scrutiny"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Kibiti v Secretary of State for the Home Department [2000] Imm AR 594",
+          "relationship": "considered"
+        },
+        {
+          "citation": "R v Secretary of State for the Home Department, ex p Turgut [2001] 1 All ER 719",
+          "relationship": "considered"
+        },
+        {
+          "citation": "R v Immigration Appeal Tribunal, ex p Haile [2002] INLR 283",
+          "relationship": "considered"
+        },
+        {
+          "citation": "A v Secretary of State for the Home Department [2003] INLR 249",
+          "relationship": "considered"
+        },
+        {
+          "citation": "Ladd v Marshall [1954] 1 WLR 1489",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Bugdaycay v Secretary of State for the Home Department [1987] AC 514",
+          "relationship": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Long judgment reconciling two lines of authority; remittal outcome clear though fact-specific evidential assessment left to IAT."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/122.json",
+    "status": "done",
+    "notes": "Preliminary issue on freezing injunctions; Colman J in Commercial Court.",
+    "enrichment": {
+      "short_title": "Bank duty of care after freezing order notice",
+      "area_of_law": [
+        "Banking and finance",
+        "Freezing injunctions",
+        "Negligence",
+        "Tax and VAT enforcement"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Customs obtained freezing injunctions against Brightstar Systems Ltd and Doveblue Ltd for outstanding VAT debts.",
+        "Copies of the orders were faxed to Barclays Bank, which confirmed it would abide by the terms.",
+        "Despite notification, the Bank permitted substantial Faxpay transfers from the debtors' accounts due to operator error and system bypass.",
+        "Customs claimed damages for negligence, alleging inability fully to enforce subsequent judgments.",
+        "The preliminary issue assumed pleaded facts and asked whether the Bank owed Customs a duty of care."
+      ],
+      "procedural_posture": "Preliminary issue trial ordered by Tomlinson J on assumed facts in Commercial Court negligence claim.",
+      "outcome": "Bank held not to owe a relevant duty of care on the pleaded facts because confirmation letters were not shown to have been received before the challenged transfers; any assumption of responsibility operated only as to remaining account balances.",
+      "ratio": "A bank notified of a freezing injunction may assume responsibility to the claimant by voluntarily confirming compliance, but on the pleaded facts no such assumption arose before the impugned payments unless the confirmation was received in time; the Bank's primary obligation remains to the court.",
+      "legal_issues": [
+        "Whether a third-party beneficiary duty of care arises on service of a freezing order on a bank",
+        "Assumption of responsibility and proximity in freezing injunction cases",
+        "Effect of standard freezing order guidance notes on bank obligations",
+        "Whether breach of an injunction by a bank creates tortious liability to the claimant"
+      ],
+      "catchwords": [
+        "freezing injunction",
+        "Mareva",
+        "bank negligence",
+        "assumption of responsibility",
+        "VAT debt",
+        "Faxpay"
+      ],
+      "index_terms": [
+        "Barclays Bank",
+        "Customs and Excise",
+        "third party notification",
+        "duty to the court",
+        "asset preservation",
+        "Commercial Court"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Preliminary issue only; duty analysis clear on assumed facts though full trial not reached."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/33.json",
+    "status": "done",
+    "notes": "Iranian embassy siege discretionary life tariff; Simon Brown LJ with Keene and Scott Baker LJJ.",
+    "enrichment": {
+      "short_title": "Secretary of State must follow LCJ tariff advice",
+      "area_of_law": [
+        "Sentencing",
+        "Prison and parole",
+        "Public law and judicial review",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": ["section 34", "Schedule 12 paragraph 9"]
+        }
+      ],
+      "key_facts": [
+        "Fowzi Bedavi Nejad was the surviving Iranian embassy siege terrorist, sentenced in 1981 to five concurrent discretionary life terms.",
+        "The trial judge recommended a 20-year minimum; the Lord Chief Justice advised 25 years; the Home Secretary certified a 25-year tariff in 1992.",
+        "Fresh mitigation was later put before the Home Secretary, who referred the matter to Lord Woolf LCJ, who advised reducing the tariff to 22 years.",
+        "Despite that advice, the Home Secretary maintained the 25-year tariff in April 2003.",
+        "Nejad sought judicial review of the Secretary of State's refusal to reduce the certified tariff."
+      ],
+      "procedural_posture": "Appeal by way of case stated/judicial review against the Home Secretary's tariff certification decision under transitional Schedule 12 powers.",
+      "outcome": "Application for judicial review allowed; Secretary of State's decision of 7 April 2003 quashed; respondent ordered to pay costs.",
+      "ratio": "Under paragraph 9 of Schedule 12 to the Criminal Justice Act 1991, certification of the punitive part of a discretionary life sentence requires the Secretary of State to follow the Lord Chief Justice's advice unless there is good reason to depart; disagreement with the judicial view on retribution and deterrence is not sufficient.",
+      "legal_issues": [
+        "Scope of transitional Home Secretary tariff-setting powers",
+        "Whether the Secretary of State may reject Lord Chief Justice advice on tariff",
+        "Relationship between executive certification and judicial sentencing recommendations",
+        "Effect of fresh mitigation on tariff review"
+      ],
+      "catchwords": [
+        "discretionary life sentence",
+        "tariff",
+        "Iranian embassy siege",
+        "Schedule 12",
+        "Lord Chief Justice advice",
+        "judicial review"
+      ],
+      "index_terms": [
+        "mandatory life sentence transitional provisions",
+        "Home Secretary certification",
+        "retribution and deterrence",
+        "parole",
+        "Fowzi Nejad",
+        "1980 siege"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear unanimous outcome; factual background well known and fully stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/287.json",
+    "status": "done",
+    "notes": "Youth sentencing and ASBO appeal; Henriques J giving judgment with Woolf LCJ and Richards J.",
+    "enrichment": {
+      "short_title": "ASBO defects and youth sentence totality",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Anti-social behaviour orders",
+        "Youth justice"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": ["section 91", "section 152"]
+        },
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": ["Part 1 ASBO"]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": ["section 9(1)", "section 50(1)"]
+        }
+      ],
+      "key_facts": [
+        "Shane P, aged 15-16, pleaded guilty to twelve offences including assault with intent to rob, robbery, false imprisonment and theft in Manchester.",
+        "The Crown Court imposed four years' detention under section 91 and made ASBOs, some expressed as suspended until release.",
+        "Section 91 detention was wrongly imposed for theft counts; the judge failed expressly to credit guilty pleas under section 152.",
+        "The ASBO failed to record findings of anti-social behaviour, was not explained to the appellant, and the written order differed from what was pronounced.",
+        "Leave to appeal against totality and ASBO issues was granted."
+      ],
+      "procedural_posture": "Appeal against sentence and ASBO made in the Crown Court on conviction.",
+      "outcome": "Four-year sentence quashed and replaced with three years' detention; unlawful section 91 sentences on theft counts quashed with no separate penalty; ASBO quashed.",
+      "ratio": "Section 91 detention cannot be imposed for theft; ASBOs require necessity, precise terms, recorded findings, explanation to the offender and consistency between oral and written orders; where substantial custody and licence conditions already apply, ASBOs will rarely be necessary.",
+      "legal_issues": [
+        "Availability of section 91 for theft offences",
+        "Requirement to state guilty plea discount under section 152",
+        "Propriety of ASBOs alongside long custodial sentences for young offenders",
+        "Whether ASBOs may be suspended pending release from custody"
+      ],
+      "catchwords": [
+        "section 91 detention",
+        "anti-social behaviour order",
+        "guilty plea discount",
+        "totality",
+        "youth robbery",
+        "ASBO procedure"
+      ],
+      "index_terms": [
+        "teenage offender",
+        "Crown Court sentencing",
+        "street robbery",
+        "licence conditions",
+        "ASBO findings",
+        "Criminal Appeal Act 1968"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed procedural principles on ASBOs and clear sentence adjustments."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/389.json",
+    "status": "done",
+    "notes": "Terrorism Act 2000 membership appeal; Lord Chief Justice giving judgment with Richards and Henriques JJ.",
+    "enrichment": {
+      "short_title": "Membership of proscribed organisation abroad",
+      "area_of_law": [
+        "Terrorism",
+        "Criminal law",
+        "Sentencing",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Terrorism Act 2000",
+          "provisions": ["section 11", "Schedule 7"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 6", "Article 7"]
+        }
+      ],
+      "key_facts": [
+        "Hundal and Dhaliwal were stopped at Dover in January 2002 and found with ISYF membership material; both admitted past membership of the International Sikh Youth Federation.",
+        "ISYF was proscribed in the UK from 29 March 2001 but not in Germany where much of their activity occurred.",
+        "They were convicted under section 11(1) of belonging to a proscribed organisation and sentenced to 30 months.",
+        "Evidence included documents found on Schedule 7 examination and search at port.",
+        "The judge accepted they did not know the organisation was proscribed in the UK when entering the country."
+      ],
+      "procedural_posture": "Appeal against conviction and sentence from Maidstone Crown Court.",
+      "outcome": "Appeals against conviction dismissed; sentences reduced from 30 months to 12 months.",
+      "ratio": "Section 11 of the Terrorism Act 2000 criminalises membership while present in the United Kingdom of an organisation proscribed here, and foreign membership and activity may be relied on to prove membership on arrival; Schedule 7 searches may produce pre-existing documents without violating Article 6.",
+      "legal_issues": [
+        "Extra-territorial reach of section 11 Terrorism Act 2000",
+        "Application of section 11(2) defence where organisation was not proscribed at joining",
+        "Admissibility of evidence obtained under Schedule 7 examination powers",
+        "Article 6 and Article 7 ECHR challenges",
+        "Appropriate sentence where defendants lacked knowledge of proscription"
+      ],
+      "catchwords": [
+        "proscribed organisation",
+        "section 11 Terrorism Act 2000",
+        "ISYF",
+        "Schedule 7 search",
+        "Article 6",
+        "membership offence"
+      ],
+      "index_terms": [
+        "International Sikh Youth Federation",
+        "port examination",
+        "foreign membership",
+        "Dover search",
+        "sentence reduction",
+        "terrorism conviction"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Principal issues and outcomes clearly stated; some trial detail abbreviated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/36.json",
+    "status": "done",
+    "notes": "Local government pension added-years dispute; Keene LJ with Scott Baker and Brown LJJ.",
+    "enrichment": {
+      "short_title": "Ultra vires compromise bars pension added years",
+      "area_of_law": [
+        "Local government",
+        "Pensions",
+        "Public law and judicial review",
+        "Employment"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government (Early Termination of Employment) (Discretionary Compensation) (England and Wales) Regulations 2000",
+          "provisions": ["Regulation 8"]
+        }
+      ],
+      "key_facts": [
+        "James Foster was Director of Environmental Services at Eastbourne Borough Council until redundancy on 31 August 1999 under a compromise agreement.",
+        "The agreement artificially prolonged employment to secure maximum added-years pension credit once he turned 50.",
+        "The District Auditor and Council later treated the compromise as ultra vires; litigation established Foster worked only part-time then garden leave.",
+        "The Council cabinet refused any Regulation 8 added-years award in April 2002.",
+        "Foster challenged the refusal by judicial review, arguing quantum meruit employment entitled him to discretionary compensation."
+      ],
+      "procedural_posture": "Appeal from Moses J's refusal to quash the Council's decision refusing added-years compensation.",
+      "outcome": "Appeal dismissed; Council not required to award added years; costs and consequential matters adjourned.",
+      "ratio": "A local authority cannot lawfully award Regulation 8 added years where employment was artificially extended under an ultra vires compromise to manufacture eligibility; a substitute quantum meruit contract does not bring the employee within the purpose of the discretionary compensation scheme.",
+      "legal_issues": [
+        "Eligibility for added-years compensation under the 2000 Regulations",
+        "Effect of ultra vires compromise agreement on pension discretion",
+        "Whether quantum meruit employment creates entitlement to added years",
+        "Rationality and vires of discretionary pension awards"
+      ],
+      "catchwords": [
+        "added years",
+        "local government pension",
+        "Regulation 8",
+        "ultra vires",
+        "compromise agreement",
+        "quantum meruit"
+      ],
+      "index_terms": [
+        "Eastbourne Borough Council",
+        "early retirement",
+        "District Auditor",
+        "discretionary compensation",
+        "redundancy",
+        "public sector pension"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Craven-Ellis v Canons Ltd [1936] 2 KB 403",
+          "relationship": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Complex procedural history but principal vires issue and outcome are clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/192.json",
+    "status": "done",
+    "notes": "Insurance policy construction appeal; Clarke LJ with Butler-Sloss P and Sedley LJ.",
+    "enrichment": {
+      "short_title": "Waiver of contributions and post-policy disablement",
+      "area_of_law": [
+        "Insurance",
+        "Pensions and life assurance",
+        "Contract construction"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Dr Malekout held an Allied Dunbar personal retirement plan from July 1987 with waiver of contribution benefit in clause 13.",
+        "He had a pre-policy cervical disc problem in January 1987 but later developed thoracic outlet syndrome after a ladder fall in January 1989.",
+        "TOS left him unable to practise dentistry; the insurer denied waiver on the basis disablement arose from a pre-policy condition.",
+        "The judge held the waiver benefit applied from inception by estoppel but that TOS arose indirectly from the pre-policy cervical condition.",
+        "The sole appeal issue was construction of 'disablement' in clause 13(1)."
+      ],
+      "procedural_posture": "Appeal with permission from HHJ Spencer QC's dismissal of the pension policy claim.",
+      "outcome": "Appeal allowed; contributions treated as paid during qualifying disablement; declarations for special damages and interest; permission to appeal further refused.",
+      "ratio": "Under a waiver clause requiring disablement from a condition first arising after the policy date, a post-policy illness such as TOS qualifies even if congenital cervical ribs contributed, because the operative condition need not be wholly independent of earlier anatomy and the clause is construed contra proferentem.",
+      "legal_issues": [
+        "Construction of 'disablement' and 'condition' in waiver of contribution clauses",
+        "Distinction between pre-policy congenital abnormality and post-policy illness",
+        "Contra proferentem construction of insurance definitions",
+        "Whether indirect causation from pre-policy conditions excludes cover"
+      ],
+      "catchwords": [
+        "waiver of contributions",
+        "disablement",
+        "pension policy",
+        "insurance construction",
+        "thoracic outlet syndrome",
+        "contra proferentem"
+      ],
+      "index_terms": [
+        "Allied Dunbar",
+        "personal retirement plan",
+        "dentist incapacity",
+        "pre-existing condition",
+        "total incapacity",
+        "life assurance"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Single issue appeal with clear reasoning; insurer did not rely on exclusion clauses."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/131.json",
+    "status": "needs_review",
+    "notes": "Follow-up to [2003] EWHC 2527 (Admin); short judgment granting permission only, not finally disposing of costs challenge.",
+    "enrichment": {
+      "short_title": "Permission to review Crown Court costs order",
+      "area_of_law": [
+        "Criminal procedure",
+        "Costs",
+        "Public law and judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Prosecution of Offences Act 1985",
+          "provisions": ["section 18"]
+        }
+      ],
+      "key_facts": [
+        "Miss Jones had unsuccessfully appealed to Guildford Crown Court and was ordered to pay £500 appeal costs plus magistrates' court fine and costs.",
+        "An earlier Divisional Court judgment ([2003] EWHC 2527 (Admin)) addressed the principal appeal; this judgment addressed costs only.",
+        "The claimant is destitute, suffers psychiatric problems and receives no state benefits.",
+        "Judge Addison's reasons for the costs order did not evidently apply principles from Whalley, Hayden and the crime costs Practice Direction.",
+        "The court considered the costs issues fit for argument and more conveniently dealt with by judicial review than case stated."
+      ],
+      "procedural_posture": "Further written representations following earlier Divisional Court judgment; application for case stated converted to permission for judicial review of the Crown Court costs order.",
+      "outcome": "Permission granted to apply for judicial review of the Crown Court costs order with remittal envisaged if appropriate; no final quashing order in this judgment.",
+      "ratio": "Where a Crown Court costs order against an impecunious appellant may have ignored established means-based principles under section 18 of the Prosecution of Offences Act 1985, permission to challenge it by judicial review is appropriate once reasons are available.",
+      "legal_issues": [
+        "Principles governing costs orders against unsuccessful criminal appellants",
+        "Whether the Crown Court considered the claimant's inability to pay",
+        "Appropriate procedure: case stated versus judicial review"
+      ],
+      "catchwords": [
+        "criminal costs",
+        "section 18 Prosecution of Offences Act 1985",
+        "means to pay",
+        "Crown Court appeal",
+        "judicial review",
+        "impecunious defendant"
+      ],
+      "index_terms": [
+        "Guildford Crown Court",
+        "costs order",
+        "Practice Direction Crime Costs",
+        "Whalley",
+        "permission to apply",
+        "Divisional Court"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Whalley (1972) 56 Cr App R 304",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Hayden [1975] 1 WLR 852",
+          "relationship": "applied"
+        },
+        {
+          "citation": "R v Nottingham Justices, ex p Fohmann [1987] 84 Cr App R 316",
+          "relationship": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.78,
+        "level": "medium",
+        "notes": "Interlocutory permission judgment only; ultimate outcome of costs challenge not recorded here."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/322.json",
+    "status": "done",
+    "notes": "Security for costs application in hotel sale dispute; Proudman QC sitting as Deputy Chancery Judge.",
+    "enrichment": {
+      "short_title": "Security for costs of hotel sale counterclaims",
+      "area_of_law": [
+        "Civil procedure",
+        "Security for costs",
+        "Company and commercial litigation",
+        "Property and hospitality"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["rule 25.12", "rule 25.13"]
+        },
+        {
+          "title": "Misrepresentation Act 1967",
+          "provisions": ["section 3"]
+        },
+        {
+          "title": "Unfair Contract Terms Act 1977",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Thistle Hotels sold a portfolio of hotels to Gamma Four Ltd under a March 2002 share sale agreement guaranteed by Euro and UK Property Ltd.",
+        "Gamma and Euro, Jersey and BVI holding companies, brought counterclaims including misrepresentation and rectification relating to completion accounts and tax indemnities.",
+        "Thistle applied for security for costs under CPR 25.12/25.13, relying on overseas residence and inability to pay.",
+        "Thistle challenged pro forma balance sheets showing assets in subsidiaries HPUK and Sceptre as illiquid or double-counted.",
+        "Gamma and Euro argued delay and that counterclaims were inseparable from Thistle's claims."
+      ],
+      "procedural_posture": "Interlocutory application for security for costs in Chancery proceedings.",
+      "outcome": "Security for costs ordered as just in all the circumstances; jurisdiction under CPR 25.13(2)(a) and (c) established.",
+      "ratio": "Where overseas non-trading holding company defendants may be unable to meet adverse costs of substantial counterclaims with independent vitality, and delay or stifling is not shown, the court may order security for costs under CPR 25.12 even though the counterclaims relate to the same transaction as the claim.",
+      "legal_issues": [
+        "Whether CPR 25.13(2)(a) and (c) conditions are satisfied for overseas companies",
+        "Ability of defendants to pay from subsidiary assets",
+        "Whether counterclaims arising from the same transaction defeat security",
+        "Effect of delay and SSA clause 8.5 non-reliance acknowledgement on discretion"
+      ],
+      "catchwords": [
+        "security for costs",
+        "CPR 25.13",
+        "overseas company",
+        "counterclaim",
+        "hotel sale",
+        "inability to pay"
+      ],
+      "index_terms": [
+        "Thistle Hotels",
+        "Gamma Four",
+        "share sale agreement",
+        "Jersey holding company",
+        "misrepresentation counterclaim",
+        "Parkinson v Triplan"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Parkinson & Co Ltd v Triplan Ltd [1973] 1 QB 609",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Keary Developments Ltd v Tarmac Construction Ltd [1995] 3 All ER 534",
+          "relationship": "considered"
+        },
+        {
+          "citation": "E Grimstead & Son Ltd v McGarrigan [1999] (CA, unreported)",
+          "relationship": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.86,
+        "level": "high",
+        "notes": "Dispositive on entitlement to security but specific quantum not stated in judgment excerpt reviewed."
+      }
+    }
+  }
+]

@@ -1,0 +1,785 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2339.json",
+    "status": "done",
+    "notes": "Full Chancery trial judgment on resulting trust and loan repayment; source judge metadata appears erroneous.",
+    "enrichment": {
+      "short_title": "Whether £10,000 property contribution created resulting trust or repayable loan",
+      "area_of_law": [
+        "Equity",
+        "Trust law",
+        "Property law",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "general limitation periods (discussed as inapplicable to resulting trusts)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Ravi Vajpeyi claimed a 33.89% resulting trust in 108 Brigstock Road after providing £10,000 of the 1980 purchase price, registered solely in Mr Shuaib Yusaf's name.",
+        "She also claimed repayment of a £100,000 loan secured by charge on Brigstock Road arising from the 1994 sale of 2 Warminster Road.",
+        "The parties had a long unconventional personal relationship; the defendant proved repayments of £10,000 and £95,929.89, leaving £4,070.11 admitted outstanding.",
+        "The defendant contended both sums were loans repaid; the claimant said payments were gifts or unrelated business dealings."
+      ],
+      "procedural_posture": "Trial in the Chancery Division following unsuccessful settlement adjournment.",
+      "outcome": "Claim dismissed except for £4,070.11 balance admitted due; counterclaim for redemption succeeded in principle subject to that sum.",
+      "ratio": "The presumption of a resulting trust from provision of purchase money may be weak and rebutted where, on the common-sense view of the circumstances, the contribution was a loan rather than a shared investment; long delay in asserting a beneficial interest and conduct treating the property as the defendant's alone may help rebut the presumption.",
+      "legal_issues": [
+        "Strength of presumption of resulting trust and evidence required to rebut it",
+        "Whether £10,000 was loan or capital contribution",
+        "Whether loans of £10,000 and £100,000 were repaid",
+        "Estoppel by convention",
+        "Whether interest was payable on interest-free loan agreement"
+      ],
+      "catchwords": [
+        "resulting trust",
+        "presumption of advancement",
+        "loan or contribution",
+        "beneficial interest",
+        "mortgage charge",
+        "estoppel by convention",
+        "limitation"
+      ],
+      "index_terms": [
+        "Vajpeyi",
+        "Yusaf",
+        "Brigstock Road",
+        "Warminster Road",
+        "Croydon property",
+        "Pettit v Pettit",
+        "McGrath v Wallis"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Pettit v Pettit",
+          "citation": "[1970] AC 777",
+          "relation": "applied"
+        },
+        {
+          "name": "Dyer v Dyer",
+          "citation": "(1788) 2 Cox Eq Cas 92",
+          "relation": "cited"
+        },
+        {
+          "name": "Fowkes v Pascoe",
+          "citation": "(1875) LR 10 Ch 343",
+          "relation": "applied"
+        },
+        {
+          "name": "McGrath v Wallis",
+          "citation": "[1995] 2 FLR 112",
+          "relation": "cited"
+        },
+        {
+          "name": "Dewar v Dewar",
+          "citation": "[1975] 1 WLR 1533",
+          "relation": "compared"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete substantive judgment; erroneous judge field in source metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2788.json",
+    "status": "done",
+    "notes": "Substantively identical duplicate capture of Vajpeyi v Yusaf with different neutral citation; full text complete.",
+    "enrichment": {
+      "short_title": "Whether £10,000 property contribution created resulting trust or repayable loan",
+      "area_of_law": [
+        "Equity",
+        "Trust law",
+        "Property law",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "general limitation periods (discussed as inapplicable to resulting trusts)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Ravi Vajpeyi claimed a 33.89% resulting trust in 108 Brigstock Road after providing £10,000 of the 1980 purchase price, registered solely in Mr Shuaib Yusaf's name.",
+        "She also claimed repayment of a £100,000 loan secured by charge on Brigstock Road arising from the 1994 sale of 2 Warminster Road.",
+        "The defendant proved repayments of £10,000 and £95,929.89, leaving £4,070.11 admitted outstanding.",
+        "The court preferred the defendant's evidence that the sums were loans repaid rather than gifts or business payments."
+      ],
+      "procedural_posture": "Trial in the Chancery Division; duplicate publication of the Vajpeyi v Yusaf judgment.",
+      "outcome": "Claim dismissed except for £4,070.11 balance admitted due; counterclaim for redemption succeeded in principle.",
+      "ratio": "A weak resulting trust presumption may be rebutted where the contribution is more credibly a loan, supported by the payee treating the property as his own for decades and failing to claim rent or beneficial interest until 2001.",
+      "legal_issues": [
+        "Rebutting presumption of resulting trust",
+        "Loan versus capital contribution",
+        "Repayment of secured and unsecured loans",
+        "Estoppel by convention",
+        "Interest on expressly interest-free loan"
+      ],
+      "catchwords": [
+        "resulting trust",
+        "beneficial ownership",
+        "loan repayment",
+        "property dispute",
+        "estoppel"
+      ],
+      "index_terms": [
+        "Vajpeyi",
+        "Yusaf",
+        "Brigstock Road",
+        "Warminster Road",
+        "resulting trust"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Pettit v Pettit",
+          "citation": "[1970] AC 777",
+          "relation": "applied"
+        },
+        {
+          "name": "Fowkes v Pascoe",
+          "citation": "(1875) LR 10 Ch 343",
+          "relation": "applied"
+        },
+        {
+          "name": "McGrath v Wallis",
+          "citation": "[1995] 2 FLR 112",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Duplicate of EWHC 2339 content; enrichment mirrors substantive decision."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1285.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on section 55 asylum support and Article 3 threshold.",
+    "enrichment": {
+      "short_title": "Article 3 threshold for asylum support after late asylum claim under section 55",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Human rights law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 55"
+          ]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 95",
+            "section 115",
+            "section 116"
+          ]
+        },
+        {
+          "title": "National Assistance Act 1948",
+          "provisions": [
+            "section 21"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6"
+          ]
+        },
+        {
+          "title": "Housing Act 1985",
+          "provisions": [
+            "Part III (historical context)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Three asylum seekers were refused support under section 55 because claims were not made as soon as reasonably practicable after arrival.",
+        "Maurice Kay J held section 55(5) required support to avoid Article 3 breaches for all three; the Secretary of State appealed as to applicant T only.",
+        "Applicant S's destitution with medical evidence of malnutrition and psychological disturbance clearly engaged Article 3; that finding was not challenged.",
+        "Applicant T slept at Heathrow from 18 April 2003 with noise, limited washing facilities and minor health complaints but had shelter and some food money."
+      ],
+      "procedural_posture": "Secretary of State's appeal to the Court of Appeal from Administrative Court judgment on section 55(5) and Article 3 ECHR.",
+      "outcome": "Appeal allowed in relation to T; his condition had not reached or verged on inhuman or degrading treatment under Article 3.",
+      "ratio": "There is no simple test for when denial of asylum support becomes inhuman or degrading under Article 3; each case depends on all circumstances, and the claimant must establish necessity to a high standard—homelessness alone does not suffice where basic shelter and means remain.",
+      "legal_issues": [
+        "Interpretation of section 55(5) and interaction with Article 3",
+        "Threshold for inhuman or degrading treatment in destitution cases",
+        "Burden and standard of proof on asylum seekers",
+        "Comparison of severity between different applicants"
+      ],
+      "catchwords": [
+        "section 55",
+        "asylum support",
+        "Article 3",
+        "destitution",
+        "NASS",
+        "judicial review",
+        "Pretty v UK"
+      ],
+      "index_terms": [
+        "late asylum claim",
+        "Heathrow",
+        "Migrant Help Line",
+        "R (Q) v SSHD",
+        "O'Rourke v UK"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (Q) v Secretary of State for the Home Department",
+          "citation": "[2003] 2 All ER 905",
+          "relation": "applied"
+        },
+        {
+          "name": "Pretty v United Kingdom",
+          "citation": "[2002] 2 FCR 97",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Westminster City Council ex p M, P, A and X",
+          "citation": "[1997] 1 CCLR 85",
+          "relation": "cited"
+        },
+        {
+          "name": "O'Rourke v United Kingdom",
+          "citation": "26 June 2001, unreported",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full appellate reasoning on Article 3 threshold."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2305.json",
+    "status": "done",
+    "notes": "Substantive judicial review hearing following permission; complete order for fresh CCRC review.",
+    "enrichment": {
+      "short_title": "Whether court should direct CCRC to refer conviction without fresh investigation",
+      "area_of_law": [
+        "Administrative law",
+        "Criminal law",
+        "Judicial review"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Boyle sought judicial review of the Criminal Cases Review Commission's refusal to refer his 1997 conviction to the Court of Appeal.",
+        "Henriques J had granted permission on strongly arguable grounds; the CCRC agreed to a fresh review with new personnel.",
+        "Boyle asked the court to order an immediate reference rather than await further CCRC investigation.",
+        "Five disputed issues included bullet-evidence expert reports, alleged perjury by a senior police officer, prosecution conduct, and witness reliability."
+      ],
+      "procedural_posture": "Substantive judicial review hearing before Moses J after permission granted by Henriques J.",
+      "outcome": "Mandatory reference refused; CCRC decisions of November 2001 quashed and fresh review ordered with specific investigative directions; no order as to costs; damages claim refused.",
+      "ratio": "Even where grounds for referral appear strong, it is for the CCRC—not the Administrative Court—to investigate facts and decide whether to refer; the court should not substitute its own fact-finding for the statutory review body.",
+      "legal_issues": [
+        "Whether court may direct CCRC to refer a case without fresh investigation",
+        "Scope of judicial review of CCRC decisions",
+        "Appropriate remedy where CCRC agrees to reconsider"
+      ],
+      "catchwords": [
+        "CCRC",
+        "judicial review",
+        "criminal reference",
+        "fresh review",
+        "quashing order",
+        "mandatory order"
+      ],
+      "index_terms": [
+        "Boyle",
+        "Criminal Cases Review Commission",
+        "Court of Appeal Criminal Division",
+        "wrongful conviction"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Complete hearing judgment with clear outcome and directions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/2182.json",
+    "status": "done",
+    "notes": "Full Commercial Court summary judgment on telecoms lease termination and misrepresentation defences.",
+    "enrichment": {
+      "short_title": "Summary judgment on telecom circuit lease debts after WorldCom bankruptcy",
+      "area_of_law": [
+        "Contract law",
+        "Commercial law",
+        "Misrepresentation",
+        "Insolvency law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Misrepresentation Act 1967",
+          "provisions": [
+            "section 2(1)",
+            "section 2(2)",
+            "section 2(3)"
+          ]
+        },
+        {
+          "title": "Unfair Contract Terms Act 1977",
+          "provisions": [
+            "discussed but not decided"
+          ]
+        }
+      ],
+      "key_facts": [
+        "WorldCom claimed £1,592,614.62 plus interest for unpaid annual and upgrade charges under capitalised telecom circuit lease agreements with Primus.",
+        "Primus terminated all agreements after WorldCom's Chapter 11 bankruptcy in July 2002.",
+        "Primus sought to amend its defence to rescind for alleged misrepresentations as to WorldCom's financial viability and other technical and contractual defects.",
+        "Ms McKibbin of WorldCom UK had told Primus during negotiations that WorldCom was financially sound and would be 'there for the full 10 years'."
+      ],
+      "procedural_posture": "Concurrent CPR Part 24 summary judgment application and application for permission to amend defence and counterclaim.",
+      "outcome": "Summary judgment for WorldCom; amended defence and counterclaim held to have no real prospect of success.",
+      "ratio": "An in-house lawyer negotiating contract wording had no actual or apparent authority to make representations about the parent company's future financial viability; section 2(1) Misrepresentation Act 1967 liability looks to the belief of the contracting party, not its agent, and entire agreement clauses limited to 'Capacity' did not exclude such representations.",
+      "legal_issues": [
+        "Authority to make pre-contract representations",
+        "Innocent and negligent misrepresentation and rescission after part performance",
+        "Construction of entire agreement and warranty exclusion clauses",
+        "Void or voidable duplicate agreements and upgrade misrepresentation",
+        "Measure of damages under section 2(1)"
+      ],
+      "catchwords": [
+        "summary judgment",
+        "telecommunications lease",
+        "Chapter 11",
+        "misrepresentation",
+        "rescission",
+        "entire agreement clause",
+        "Misrepresentation Act 1967"
+      ],
+      "index_terms": [
+        "WorldCom",
+        "Primus",
+        "circuit capacity",
+        "STM-1",
+        "Thornburgh report",
+        "Anna McKibbin"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Armstrong v Strain",
+          "citation": "[1952] 1 KB 236",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Resolute Maritime Inc v Nippon Kaiji Kyokai",
+          "citation": "[1983] 1 WLR 857",
+          "relation": "applied"
+        },
+        {
+          "name": "Howard Marine & Dredge Co Ltd v Ogden",
+          "citation": "[1978] 1 QB 574",
+          "relation": "distinguished"
+        },
+        {
+          "name": "William Sindall Ltd v Cambridgeshire County Council",
+          "citation": "[1994] 1 WLR 1016",
+          "relation": "applied"
+        },
+        {
+          "name": "Smith New Court Securities Ltd v Citibank",
+          "citation": "[1993] AC 254",
+          "relation": "applied"
+        },
+        {
+          "name": "Doyle v Olby (Ironmongers) Ltd",
+          "citation": "[1969] 2 QB 158",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Long reserved judgment with detailed analysis of each defence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1686.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on winding-up petition advertisement.",
+    "enrichment": {
+      "short_title": "Appeal against restraining advertisement of rent-based winding-up petition",
+      "area_of_law": [
+        "Insolvency law",
+        "Landlord and tenant law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 127 (discussed in context of advertisement)"
+          ]
+        },
+        {
+          "title": "Insolvency Rules 1986",
+          "provisions": [
+            "rule 4.11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Landlord James Dolman & Company Ltd presented a winding-up petition based on £25,000 unpaid rent for August 2002 to July 2003.",
+        "The petition was intended to pre-empt county court rent recovery proceedings claiming over £130,000 for earlier periods.",
+        "The company asserted set-offs including asbestos contamination and occupation by the landlord, but these were largely unquantified or related to earlier periods.",
+        "Norris J found no substantial bona fide dispute yet restrained advertisement pending trial of the separate rent claim."
+      ],
+      "procedural_posture": "Appeal with leave from Chancery judge's order restraining advertisement of winding-up petition.",
+      "outcome": "Appeal allowed; injunction discharged; petitioner awarded costs below and on appeal.",
+      "ratio": "Where a judge finds no bona fide substantial dispute on the petition debt, restraining advertisement pending unrelated litigation is inconsistent with the practice that winding-up petitions must not be used to decide disputed debts; jurisdiction to restrain exists only to prevent abuse of process.",
+      "legal_issues": [
+        "When advertisement of a winding-up petition may be restrained",
+        "Bona fide substantial dispute on petition debt",
+        "Set-off and cross-claim against statutory demand debt",
+        "Whether petition motivated by parallel proceedings is improper"
+      ],
+      "catchwords": [
+        "winding-up petition",
+        "statutory demand",
+        "advertisement restrained",
+        "bona fide dispute",
+        "set-off",
+        "landlord and tenant"
+      ],
+      "index_terms": [
+        "James Dolman",
+        "Pedley",
+        "rent arrears",
+        "asbestos cross-claim",
+        "Dudley County Court"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re A Company (No 006685 of 1996)",
+          "citation": "[1997] ECC 830",
+          "relation": "applied"
+        },
+        {
+          "name": "Mann v Goldstein",
+          "citation": "[1968] 1 WLR 1091",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear appellate decision with defined order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1349.json",
+    "status": "needs_review",
+    "notes": "Permission-to-appeal decision only; full merits and compensation quantification not decided.",
+    "enrichment": {
+      "short_title": "Permission to appeal on commercial agents compensation after non-renewal",
+      "area_of_law": [
+        "Commercial agency law",
+        "Contract law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Commercial Agents (Council Directive) Regulations 1993",
+          "provisions": [
+            "regulation 16",
+            "regulation 17(6)",
+            "regulation 18(a)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Pure Fishing (UK) Ltd manufactured fishing tackle and used fixed six-month agency contracts with commercial agents.",
+        "In March 1999 agents refused to sell a new Abu Garcia product range; the principal treated this as breach of good faith and did not renew contracts expiring 30 June 1999.",
+        "Agents claimed compensation under regulation 17(6); the principal relied on regulation 18(a) excluding compensation for default justifying immediate termination.",
+        "The judge held regulation 17 covered expiry by effluxion of time but regulation 18(a) applied only to express termination by the principal."
+      ],
+      "procedural_posture": "Application for permission to appeal from HHJ Kershaw's High Court judgment on commercial agents compensation.",
+      "outcome": "Permission to appeal granted on arguable construction of regulation 18(a) and whether non-renewal after agent default can amount to principal termination.",
+      "ratio": "It is arguable that, where regulation 17 treats expiry by effluxion as termination, regulation 18(a) may likewise treat a principal's failure to renew as termination for default purposes; merits not finally decided at this stage.",
+      "legal_issues": [
+        "Construction of 'termination' in regulations 17 and 18",
+        "Whether non-renewal after agent default excludes compensation",
+        "Whether agent refusal to market new range justified immediate termination",
+        "Relevance of principal's motive in non-renewal"
+      ],
+      "catchwords": [
+        "commercial agents",
+        "compensation on termination",
+        "regulation 17",
+        "regulation 18",
+        "non-renewal",
+        "permission to appeal",
+        "fishing tackle"
+      ],
+      "index_terms": [
+        "Pure Fishing",
+        "Abu Garcia",
+        "exclusive agency",
+        "fixed term contract"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.78,
+        "level": "medium",
+        "notes": "Interim permission decision; ratio provisional pending full appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/pat/2003/2361.json",
+    "status": "needs_review",
+    "notes": "Full text truncated mid-hearing before registered design appeal merits decided.",
+    "enrichment": {
+      "short_title": "Registered design appeal: specimen returned despite statement of novelty reference",
+      "area_of_law": [
+        "Intellectual property law",
+        "Registered designs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Registered Designs Act 1949",
+          "provisions": [
+            "section 11",
+            "section 28"
+          ]
+        },
+        {
+          "title": "Registered Designs Rules",
+          "provisions": [
+            "rules 17",
+            "50"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Sloggett, acting in person, obtained registered design protection with a statement of novelty referring to representations and a specimen.",
+        "The Registrar had returned the physical specimen after accepting the registration, leaving the register difficult to interpret.",
+        "Photographs alone were of poor quality and hard to understand without the specimen.",
+        "All parties agreed the tribunal could direct reinstatement of the sample on the register for public inspection."
+      ],
+      "procedural_posture": "Appeal to the Registered Designs Appeal Tribunal; preliminary procedural ruling at start of hearing.",
+      "outcome": "Tribunal directed the sample be placed back on the register for public inspection; substantive validity/infringement appeal not reached in captured text.",
+      "ratio": "Where a statement of novelty refers to a specimen, the specimen must remain available on the register; returning it while retaining that statement undermines public inspection and registration validity.",
+      "legal_issues": [
+        "Registrar practice of reviewing specimens then returning them",
+        "Adequacy of design representations",
+        "Tribunal power to restore specimen to register",
+        "Substantive appeal merits (not in truncated text)"
+      ],
+      "catchwords": [
+        "registered design",
+        "statement of novelty",
+        "specimen",
+        "register inspection",
+        "Registered Designs Appeal Tribunal"
+      ],
+      "index_terms": [
+        "Sloggett",
+        "Hadley Industries",
+        "design registration",
+        "representations"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.55,
+        "level": "low",
+        "notes": "Only procedural portion captured; final appeal outcome missing from full_text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/2195.json",
+    "status": "done",
+    "notes": "Complete Commercial Court stay judgment on ICC arbitration scope.",
+    "enrichment": {
+      "short_title": "Stay of share-sale proceedings where dispute relates to 1999 agreements",
+      "area_of_law": [
+        "Arbitration law",
+        "Commercial law",
+        "Company law",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 9"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 49(3) (inherent jurisdiction discussed)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Sainsbury bought Edge shares from the Nasharty family under March and October 1999 share sale and shareholders agreements containing ICC Paris arbitration clauses.",
+        "In 2001 Amr El Nasharty purportedly signed re-sale and warranty-extension agreements on behalf of all claimants; they denied authority and sued for declarations the 2001 agreements were invalid.",
+        "Sainsbury gave warranty notice in March 2003 claiming at least £130 million and commenced ICC arbitration for shareholders agreement breaches.",
+        "Claimants brought declaratory proceedings to establish the warranty deadline remained 9 March 2001 if the 2001 extensions were void."
+      ],
+      "procedural_posture": "Application to stay Commercial Court proceedings under section 9 Arbitration Act 1996.",
+      "outcome": "Stay granted under section 9; proceedings held 'in relation to' the 1999 share sale agreements including disputes over alleged 2001 variations.",
+      "ratio": "Proceedings seeking declarations that warranty deadlines and deferred consideration rights were not varied are 'in relation to' the underlying 1999 agreements and must be arbitrated under their broad ICC clauses; issue estoppel from court findings would preclude defences otherwise available in arbitration.",
+      "legal_issues": [
+        "Construction of 'in relation to' in arbitration clause",
+        "Whether authority dispute is severable from variation dispute",
+        "Section 9 stay versus inherent jurisdiction stay",
+        "Interaction with existing ICC arbitration"
+      ],
+      "catchwords": [
+        "arbitration stay",
+        "section 9",
+        "ICC arbitration",
+        "share purchase agreement",
+        "warranty deadline",
+        "issue estoppel",
+        "authority"
+      ],
+      "index_terms": [
+        "Sainsbury",
+        "Nasharty",
+        "Edge",
+        "Egyptian Distribution Group",
+        "deferred consideration",
+        "escrow"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Faghirzadeh v Rudolf Wolff & Co Ltd",
+          "citation": "[1977] 1 Lloyd's Rep 630",
+          "relation": "applied"
+        },
+        {
+          "name": "Ashville Investments Ltd v Elmer Contractors Ltd",
+          "citation": "[1989] QB 488",
+          "relation": "applied"
+        },
+        {
+          "name": "Al-Naimi v Islamic Press Agency Inc",
+          "citation": "[2000] 1 Lloyd's Rep 522",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full reasoned judgment on section 9 stay."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2003/2161.json",
+    "status": "done",
+    "notes": "Landmark full Family Division judgment with appended summary; source judge metadata unreliable.",
+    "enrichment": {
+      "short_title": "Whether ex-partner may use stored IVF embryos after withdrawal of consent",
+      "area_of_law": [
+        "Family law",
+        "Medical law",
+        "Human rights law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Fertilisation and Embryology Act 1990",
+          "provisions": [
+            "section 12",
+            "section 13(5)",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 4(4)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 2",
+            "Article 8",
+            "Article 12",
+            "Article 14"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ms Evans and Mrs Hadley each had frozen embryos created with former partners from whom they had separated and who withdrew consent to storage and use.",
+        "Ms Evans had undergone ovarian surgery immediately after egg harvesting; the embryos represented her only chance of a genetically related child.",
+        "Clinics could not treat the women without continuing dual consent under Schedule 3 until embryos were transferred.",
+        "Claimants sought declarations, injunctions, and optional HRA incompatibility declarations; estoppel and 'use' of embryos arguments were also raised."
+      ],
+      "procedural_posture": "Combined trials in the Family Division, first major HFEA consent challenge under the Human Rights Act 1998.",
+      "outcome": "Claims of both Evans and Hadley dismissed; clinics permitted to allow stored embryos to perish.",
+      "ratio": "Schedule 3 requires continuing mutual consent until embryos are 'used' by transfer into the woman; either gamete provider may lawfully withdraw consent beforehand, and this consensual regime is a proportionate Article 8 interference that does not breach Articles 2, 12 or 14; promissory estoppel cannot override the statutory withdrawal right.",
+      "legal_issues": [
+        "Whether clinics may treat one partner alone after relationship breakdown",
+        "Meaning of 'used' in Schedule 3 paragraph 4",
+        "HRA challenge to consent withdrawal provisions",
+        "Promissory estoppel against statutory consent regime"
+      ],
+      "catchwords": [
+        "IVF",
+        "embryo storage",
+        "withdrawal of consent",
+        "HFE Act 1990",
+        "Article 8",
+        "promissory estoppel",
+        "Re R",
+        "Evans v Amicus"
+      ],
+      "index_terms": [
+        "Natallie Evans",
+        "Howard Johnston",
+        "Lorraine Hadley",
+        "Wayne Hadley",
+        "Bath Assisted Conception Clinic",
+        "Midland Fertility Services",
+        "Warnock Report"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re R (A Child)",
+          "citation": "[2003] 2 All ER 131",
+          "relation": "applied"
+        },
+        {
+          "name": "Quintavalle (tissue typing)",
+          "citation": "[2003] 2 FLR 335",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Very full reserved judgment plus summary; authoritative on HFEA consent."
+      }
+    }
+  }
+]

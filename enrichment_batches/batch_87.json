@@ -1,0 +1,876 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1452.json",
+    "status": "done",
+    "notes": "Batch 87 enrichment",
+    "enrichment": {
+      "short_title": "Assault on police officer during lawful search and handcuffing",
+      "area_of_law": [
+        "Criminal law",
+        "Administrative law",
+        "Police powers"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Act 1996",
+          "provisions": [
+            "section 89(1)"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 32(1)",
+            "section 32(8)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Collman was convicted by magistrates of assaulting PC Logan in the execution of his duty after resisting a lawful empty-pockets and pat-down search following arrest.",
+        "The justices found the officers had reasonable grounds under PACE section 32(1) and that force used in searching and handcuffing was reasonable.",
+        "On appeal by case stated, Collman challenged the finding of Cunningham recklessness and the lawfulness of retaining his possessions for the duration of the search.",
+        "Kay J held the retention method was a reasonable way to conduct the search where officers intended to return all items at its conclusion.",
+        "The case stated disclosed ample evidence from which magistrates could infer recklessness; the appeal was dismissed."
+      ],
+      "procedural_posture": "Appeal by way of case stated from magistrates' conviction to the Administrative Court.",
+      "outcome": "Appeal dismissed; both questions answered in the negative.",
+      "ratio": "Where a lawful search under PACE section 32(1) is in progress, officers may lawfully retain items taken from pockets until the search concludes if that is a reasonable methodology and they intend to return lawful possessions; sufficiency of evidence for Cunningham recklessness is a matter for the magistrates where bodily movements and circumstances support an inference of foresight.",
+      "legal_issues": [
+        "Whether magistrates erred in finding recklessness on the evidence",
+        "Whether police acted lawfully in retaining the appellant's possessions during the search rather than returning items one by one",
+        "Whether officers were acting in the lawful execution of their duty",
+        "Application of Cunningham recklessness to common assault and battery"
+      ],
+      "catchwords": [
+        "assault on constable",
+        "case stated",
+        "recklessness",
+        "PACE search",
+        "lawful execution of duty",
+        "retention of possessions"
+      ],
+      "index_terms": [
+        "Collman",
+        "PC Logan",
+        "empty pockets search",
+        "handcuffing",
+        "Cunningham recklessness",
+        "Cooper v DPP"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Cunningham",
+          "citation": "[1957] 2 QB 396",
+          "relation": "applied"
+        },
+        {
+          "name": "Cooper v Director of Public Prosecutions",
+          "citation": "[2002] EWCA Crim",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment with detailed findings of fact and clear answers to both stated questions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/718.json",
+    "status": "done",
+    "notes": "Batch 87 enrichment",
+    "enrichment": {
+      "short_title": "CFA disclosure and enforceability on costs assessment",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Legal profession"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": [
+            "section 58"
+          ]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": [
+            "section 27"
+          ]
+        },
+        {
+          "title": "Conditional Fee Agreements Regulations 2000",
+          "provisions": [
+            "regulation 2",
+            "regulation 3",
+            "regulation 4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Court of Appeal heard six consolidated appeals on conditional fee agreements, disclosure on costs assessment, and compliance with the CFA Regulations 2000.",
+        "The court held that Bailey v IBC Vehicles should not be extended to exempt CFAs from normal disclosure where a success fee materially increases the paying party's liability.",
+        "A CFA is unenforceable only if departures from section 58 conditions had a materially adverse effect on client protection or the administration of justice.",
+        "Claimants' appeals succeeded in Hollins v Russell and Tichband v Hurdman; defendants' disclosure appeals succeeded in Worth v McKenna and Pratt v Bull."
+      ],
+      "procedural_posture": "Consolidated appeals to the Court of Appeal on detailed assessment of costs and CFA enforceability.",
+      "outcome": "Mixed result across six appeals; court set out procedural and substantive principles for CFA disclosure and assessment.",
+      "ratio": "CFAs should normally be disclosed for costs proceedings where a success fee is claimed; enforceability depends on whether any non-compliance with section 58 or the Regulations materially adversely affected client protection or the administration of justice, not on technical breaches alone.",
+      "legal_issues": [
+        "Whether receiving parties must disclose CFAs on detailed assessment",
+        "Whether non-compliance with CFA Regulations renders agreements unenforceable",
+        "Application of the indemnity principle to success fees",
+        "Whether Bailey v IBC Vehicles applies to CFAs",
+        "Materiality of regulatory breaches on costs recovery"
+      ],
+      "catchwords": [
+        "conditional fee agreement",
+        "success fee",
+        "costs assessment",
+        "CFA Regulations 2000",
+        "indemnity principle",
+        "disclosure"
+      ],
+      "index_terms": [
+        "Hollins v Russell",
+        "Tichband v Hurdman",
+        "Pratt v Bull",
+        "Dunn v Ward",
+        "Worth v McKenna",
+        "The Accident Group",
+        "section 58"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bailey v IBC Vehicles Ltd",
+          "citation": "[1999] 1 WLR 57",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Thai Trading Co v Taylor",
+          "citation": "[1998] QB 781",
+          "relation": "cited"
+        },
+        {
+          "name": "Hughes v Kingston upon Hull City Council",
+          "citation": "[1999] QB 1193",
+          "relation": "cited"
+        },
+        {
+          "name": "Pamplin v Express Newspapers plc",
+          "citation": "[1985] 1 WLR 689",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Landmark consolidated Court of Appeal judgment with explicit conclusions at paragraphs 219-228."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/720.json",
+    "status": "done",
+    "notes": "Batch 87 enrichment",
+    "enrichment": {
+      "short_title": "HSE liability for Ladbroke Grove rail crash",
+      "area_of_law": [
+        "Tort law",
+        "Public law",
+        "Railway safety"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Railway and Other Transport Systems (Approval of Works, Plant and Equipment) Regulations 1994",
+          "provisions": [
+            "regulation 4"
+          ]
+        },
+        {
+          "title": "Health and Safety at Work Act 1974",
+          "provisions": [
+            "section 1",
+            "section 10(7)",
+            "section 18",
+            "section 20",
+            "section 21",
+            "section 22",
+            "section 47"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Thirty-one people died when a Thames Trains service passed signal SN109 at danger and collided head-on at Ladbroke Grove in October 1999.",
+        "Thames Trains sought contribution from the HSE, alleging breach of statutory duty and common law negligence in failing to ensure safe signalling infrastructure.",
+        "Morland J refused to strike out the claim; the HSE appealed under CPR rule 3.4(2).",
+        "The Court of Appeal held Regulation 4 did not give passengers a private law cause of action for breach of statutory duty.",
+        "The court declined to strike out the common law negligence claim, finding arguable duties by assumption of responsibility and distinguishing Stovin v Wise on the pleaded facts."
+      ],
+      "procedural_posture": "Appeal from refusal to strike out contribution claim as disclosing no reasonable grounds.",
+      "outcome": "Appeal dismissed; common law negligence claim to proceed to trial; no private right under Regulation 4.",
+      "ratio": "Regulatory approval provisions protecting the public at large do not ordinarily confer a private damages action; where a statutory regulator's alleged failures are pleaded with sufficient particularity and may involve assumed responsibility or active conduct rather than mere omission, strike-out is inappropriate in developing areas of public authority liability.",
+      "legal_issues": [
+        "Whether Regulation 4 creates a private law cause of action",
+        "Whether the HSE owed a common law duty of care to rail passengers",
+        "Application of Stovin v Wise to non-exercise of statutory powers",
+        "Whether assumption of responsibility can found liability for the HSE",
+        "Appropriateness of strike-out in uncertain developing law"
+      ],
+      "catchwords": [
+        "Ladbroke Grove",
+        "Health and Safety Executive",
+        "breach of statutory duty",
+        "public authority negligence",
+        "Stovin v Wise",
+        "strike out"
+      ],
+      "index_terms": [
+        "Thames Trains",
+        "Railtrack",
+        "SN109",
+        "SPAD",
+        "HM Railway Inspectorate",
+        "Caparo",
+        "Perrett v Collins"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Stovin v Wise",
+          "citation": "[1996] AC 923",
+          "relation": "considered"
+        },
+        {
+          "name": "Barrett v Enfield London Borough Council",
+          "citation": "[1999] 3 WLR 79",
+          "relation": "applied"
+        },
+        {
+          "name": "X v Bedfordshire County Council",
+          "citation": "[1995] 2 AC 633",
+          "relation": "applied"
+        },
+        {
+          "name": "Kane v New Forest District Council",
+          "citation": "[2002] 1 WLR 312",
+          "relation": "cited"
+        },
+        {
+          "name": "Perrett v Collins",
+          "citation": "[1998] 2 Lloyd's Rep 255",
+          "relation": "cited"
+        },
+        {
+          "name": "Larner v Solihull Metropolitan Borough Council",
+          "citation": "[2001] RTR 469",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed strike-out judgment with clear holdings on statutory duty and common law duty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1173.json",
+    "status": "done",
+    "notes": "Batch 87 enrichment",
+    "enrichment": {
+      "short_title": "Bank fraud freezing order and forum challenge",
+      "area_of_law": [
+        "Equity",
+        "Civil procedure",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Council Regulation (EC) No 44/2001",
+          "provisions": []
+        },
+        {
+          "title": "Foreign Exchange (Monitoring and Miscellaneous Provisions) Act 1995",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Claimants traced $190m misapplied from Banco Noroeste through international transfers and sought recovery from substantive and conspiracy defendants.",
+        "Mr Vaswani was joined as the forty-second defendant and a worldwide freezing order for US$6.5m was granted ex parte by Lightman J.",
+        "Vaswani applied to set aside the freezing order for material non-disclosure and to stay proceedings on forum non conveniens grounds.",
+        "The Vice-Chancellor found minor non-disclosures but no injustice warranting discharge; the Sarina account had been frozen in Switzerland.",
+        "England was held the appropriate forum given multi-party claims, central role of Naresh Asnani, and unsuitability of Lagos court procedure."
+      ],
+      "procedural_posture": "Inter partes application to set aside worldwide freezing order and stay English proceedings.",
+      "outcome": "Application dismissed; freezing undertakings and security upheld; no stay to Nigeria.",
+      "ratio": "Minor non-disclosures on ex parte freezing applications do not require discharge where the claim has merit and the defendant voluntarily continued undertakings; in multi-jurisdictional fraud litigation the court may retain all related claims in England where splitting proceedings would risk inconsistent findings and the defendant has not shown Nigeria is clearly and distinctly more appropriate.",
+      "legal_issues": [
+        "Material non-disclosure on ex parte freezing order application",
+        "Whether England is the appropriate forum for Vaswani's good-faith purchaser defence",
+        "Whether forum analysis is limited to bilateral issues or considers the action as a whole",
+        "Risk of dissipation and proportionality of freezing relief"
+      ],
+      "catchwords": [
+        "freezing order",
+        "material non-disclosure",
+        "forum non conveniens",
+        "knowing receipt",
+        "money laundering",
+        "Banco Noroeste"
+      ],
+      "index_terms": [
+        "Vaswani",
+        "Naresh Asnani",
+        "Sakaguchi",
+        "Sarina account",
+        "Spiliada",
+        "Memory Corporation v Sidhu"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Memory Corporation plc v Sidhu (No 2)",
+          "citation": "[2000] 1 WLR 1443",
+          "relation": "applied"
+        },
+        {
+          "name": "Spiliada Maritime Corporation v Cansulex Ltd",
+          "citation": "[1987] AC 460",
+          "relation": "applied"
+        },
+        {
+          "name": "Brink's Mat Ltd v Elcombe",
+          "citation": "[1988] 1 WLR 1350",
+          "relation": "cited"
+        },
+        {
+          "name": "Citi-March Ltd v Neptune Orient Lines Ltd",
+          "citation": "[1996] 1 WLR 1367",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Long Chancery judgment with detailed factual background and clear dual holdings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1162.json",
+    "status": "done",
+    "notes": "Batch 87 enrichment",
+    "enrichment": {
+      "short_title": "Harrods libel service and forum over WSJ article",
+      "area_of_law": [
+        "Defamation",
+        "Civil procedure",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 691",
+            "section 695"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Harrods issued an April Fool's Day press release about floating the store; The Wall Street Journal published an article comparing Harrods to Enron.",
+        "Harrods sued Dow Jones in England for limited UK publication; Dow Jones challenged service and sought a stay for forum non conveniens.",
+        "Service at 10 Fleet Place through Dow Jones International Ltd was held ineffective because Dow Jones & Company Inc had not established a place of business in Great Britain.",
+        "Eady J granted permission to serve out of the jurisdiction and refused a stay, finding England the appropriate forum for an English company's reputation.",
+        "The primary US circulation and First Amendment considerations did not outweigh the separate English cause of action."
+      ],
+      "procedural_posture": "Interlocutory applications on validity of service, permission to serve out, and forum non conveniens in defamation proceedings.",
+      "outcome": "Service at Fleet Place invalid; permission to serve out granted; stay refused.",
+      "ratio": "Default service under section 695 requires an overseas company to have established a place of business in Great Britain, distinct from merely carrying on business through a separate English subsidiary; an English company may pursue a separate English publication defamation claim here despite wider foreign circulation, and damage is presumed without de minimis exclusion.",
+      "legal_issues": [
+        "Whether Dow Jones established a place of business at Fleet Place for section 695 service",
+        "Distinction between carrying on business and establishing a place of business",
+        "Whether England is forum non conveniens where primary publication was in the United States",
+        "Application of Adams v Cape Industries criteria",
+        "Separate publication doctrine in English defamation law"
+      ],
+      "catchwords": [
+        "defamation",
+        "service out of jurisdiction",
+        "forum non conveniens",
+        "overseas company",
+        "place of business",
+        "Wall Street Journal"
+      ],
+      "index_terms": [
+        "Harrods",
+        "Dow Jones",
+        "Mohamed Al Fayed",
+        "Enron comparison",
+        "Berezovsky v Michaels",
+        "Kroch v Rossell"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Adams v Cape Industries plc",
+          "citation": "[1990] 1 Ch 433",
+          "relation": "applied"
+        },
+        {
+          "name": "Berezovsky v Michaels",
+          "citation": "[2000] 1 WLR 1004",
+          "relation": "applied"
+        },
+        {
+          "name": "Kroch v Rossell",
+          "citation": "[1937] 1 All ER 725",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Shevill v Presse Alliance SA",
+          "citation": "[1996] AC 959",
+          "relation": "cited"
+        },
+        {
+          "name": "Lord Advocate v Huron & Erie Loan & Savings Co",
+          "citation": "[1911] SC 612",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full interlocutory judgment with detailed Companies Act and forum analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1332.json",
+    "status": "done",
+    "notes": "Batch 87 enrichment",
+    "enrichment": {
+      "short_title": "Youth court wrongly declined robbery jurisdiction",
+      "area_of_law": [
+        "Criminal law",
+        "Youth justice",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 91",
+            "section 100"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 24"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A 14-year-old, C, was charged with attempted robbery of a mobile phone with a co-defendant; no weapon was used though one was threatened.",
+        "The Balham Youth Court declined jurisdiction, apparently because no custodial sentence was available there and Crown Court powers were needed.",
+        "C had one caution and was not a persistent offender, so a detention and training order under section 100 was unavailable.",
+        "Scott Baker LJ held the youth court applied the wrong test and should have retained jurisdiction.",
+        "The committal was quashed and the case remitted to the youth court."
+      ],
+      "procedural_posture": "Judicial review of youth court decision declining jurisdiction and committing for Crown Court trial.",
+      "outcome": "Judicial review granted; committal quashed; case remitted to youth court.",
+      "ratio": "A youth court should not decline jurisdiction merely because a detention and training order is unavailable for an under-15 non-persistent offender; section 91 long custodial powers are for exceptional cases and declining jurisdiction to preserve theoretical Crown Court sentencing options is ordinarily wrong where no realistic section 91 sentence of two years or more is in prospect.",
+      "legal_issues": [
+        "When a youth court may decline jurisdiction under section 24(1)(a)",
+        "Relationship between section 91 and section 100 for offenders under 15",
+        "Whether unavailability of a detention and training order justifies committal to Crown Court",
+        "Appropriate sentencing for attempted mobile phone robbery by young offenders"
+      ],
+      "catchwords": [
+        "youth court",
+        "decline jurisdiction",
+        "section 91",
+        "detention and training order",
+        "attempted robbery",
+        "persistent offender"
+      ],
+      "index_terms": [
+        "Balham Youth Court",
+        "mobile phone robbery",
+        "R v Southampton Youth Court",
+        "R v Manchester City Youth Court",
+        "Attorney General's Reference Nos 4 and 7"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Southampton Youth Court, ex parte W",
+          "citation": "[2002] EWHC 1640 Admin",
+          "relation": "applied"
+        },
+        {
+          "name": "R (on the application of D) v Manchester City Youth Court",
+          "citation": "[2002] 1 Cr App R(S) 573",
+          "relation": "applied"
+        },
+        {
+          "name": "R (on the application of W) v Thetford Justices",
+          "citation": "[2002] EWHC 1252 Admin",
+          "relation": "applied"
+        },
+        {
+          "name": "Attorney General's Reference Nos 4 and 7; R v Lobban",
+          "citation": "[2002] 2 Cr App R(S) 345",
+          "relation": "considered"
+        },
+        {
+          "name": "R v Bol Joseph",
+          "citation": "[2001] 2 Cr App R(S) 398",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear Divisional Court judgment with detailed sentencing jurisdiction analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/1187.json",
+    "status": "done",
+    "notes": "Batch 87 enrichment",
+    "enrichment": {
+      "short_title": "Construction adjudication dispute crystallisation",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Grants Construction and Regeneration Act 1996",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Orange subcontracted mechanical services to ABB on a hospital project; ABB terminated the subcontract in July 2002 and denied Orange site access.",
+        "Orange submitted a final account in December 2002 claiming about £204,000 net and referred the dispute to adjudication in January 2003.",
+        "ABB argued no dispute had crystallised because it had not finished evaluating the final account and contractual payment machinery had not run its course.",
+        "The adjudicator found repudiatory breach and awarded Orange about £90,000 including interest.",
+        "Judge Thornton granted summary judgment enforcing both adjudication decisions, holding a dispute existed by 6 January 2003 under the Halki test."
+      ],
+      "procedural_posture": "CPR Part 24 summary judgment application to enforce adjudicator's decisions.",
+      "outcome": "Summary judgment granted; adjudicator had jurisdiction; ABB ordered to pay adjudicator's award.",
+      "ratio": "A dispute for adjudication purposes arises when a claimed sum is not admitted or paid; after repudiatory termination the contractual final-account timetable does not prevent crystallisation, and a reasonable period after submission of a comprehensive final account suffices even over the Christmas period.",
+      "legal_issues": [
+        "When a dispute crystallises for statutory adjudication",
+        "Whether DOM/1 final account machinery prevents adjudication after repudiatory breach",
+        "Distinction between sums due under the subcontract and damages for breach",
+        "Application of Halki Shipping and Beck Peppiatt principles"
+      ],
+      "catchwords": [
+        "adjudication",
+        "construction contract",
+        "dispute crystallisation",
+        "repudiatory breach",
+        "final account",
+        "summary judgment"
+      ],
+      "index_terms": [
+        "Orange EBS",
+        "ABB",
+        "DOM/1",
+        "Halki Shipping",
+        "Beck Peppiatt",
+        "Housing Grants Act 1996"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Halki Shipping Corporation v Sopex Oils Ltd",
+          "citation": "[1998] 1 WLR 726",
+          "relation": "applied"
+        },
+        {
+          "name": "Beck Peppiatt Ltd v Norwest Holst Construction Ltd",
+          "citation": "[2003] EWHC 822 (TCC)",
+          "relation": "applied"
+        },
+        {
+          "name": "Fastrack v Morrison Construction",
+          "citation": "[2000] BLR 168",
+          "relation": "cited"
+        },
+        {
+          "name": "Edmund Nuttall Ltd v R G Carter Ltd",
+          "citation": "[2002] BLR 312",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed TCC judgment on jurisdiction with clear findings on dispute crystallisation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/719.json",
+    "status": "done",
+    "notes": "Batch 87 enrichment",
+    "enrichment": {
+      "short_title": "Planning enforcement of quarry workshop removal",
+      "area_of_law": [
+        "Planning law",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 171B",
+            "section 172",
+            "section 174",
+            "section 178",
+            "section 187B",
+            "section 285"
+          ]
+        },
+        {
+          "title": "Environment Act 1995",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Westhorpe Farm had 1952 planning permission for gravel extraction subject to removal of buildings on completion.",
+        "Matthews & Brown Engineering used a workshop for non-ancillary engineering; time limits barred enforcement of the change of use but Enforcement Notice No. 4 required removal of structures after quarrying ended.",
+        "North West Estates acquired the land knowing of the unappealed notice and sought to resist a section 187B mandatory injunction.",
+        "The Court of Appeal held section 285 prevented challenging the validity of the unappealed notice at the injunction stage.",
+        "The established engineering use could not override the condition requiring removal once mineral working had ceased."
+      ],
+      "procedural_posture": "Appeal from mandatory planning injunction under section 187B to enforce unappealed enforcement notice.",
+      "outcome": "Appeal dismissed; mandatory removal injunction affirmed.",
+      "ratio": "An unappealed enforcement notice protected by section 285 must be obeyed and its validity cannot be re-argued on a section 187B injunction application; a condition requiring removal of buildings after quarrying ends may lawfully affect even established uses carved out as separate planning units, and fraud in obtaining tolerance does not assist the landowner in resisting enforcement.",
+      "legal_issues": [
+        "Effect of section 285 privative provision on unappealed enforcement notices",
+        "Whether established use protects a workshop from Condition 4 removal requirement",
+        "Mansi-type amendment defence at injunction stage",
+        "Exercise of discretion under section 187B",
+        "Whether a planning condition can restrict an established use"
+      ],
+      "catchwords": [
+        "planning enforcement",
+        "section 187B",
+        "section 285",
+        "enforcement notice",
+        "established use",
+        "planning condition"
+      ],
+      "index_terms": [
+        "Westhorpe Farm",
+        "Buckinghamshire County Council",
+        "Matthews & Brown Engineering",
+        "Enforcement Notice No 4",
+        "Mansi v Elstree RDC",
+        "R v Wicks"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Wicks",
+          "citation": "[1998] AC 92",
+          "relation": "applied"
+        },
+        {
+          "name": "Mansi v Elstree Rural District Council",
+          "citation": "(1964) 16 P & CR 158",
+          "relation": "considered"
+        },
+        {
+          "name": "Kingston upon Thames London Borough Council v Secretary of State for the Environment",
+          "citation": "[1973] 1 WLR 1549",
+          "relation": "applied"
+        },
+        {
+          "name": "South Buckinghamshire District Council v Porter",
+          "citation": "[2002] 1 WLR 1359",
+          "relation": "applied"
+        },
+        {
+          "name": "Buckinghamshire County Council v Secretary of State for the Environment, Transport and the Regions",
+          "citation": "[2001] 1 PLR 38",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full Court of Appeal planning judgment with extensive procedural history."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1163.json",
+    "status": "done",
+    "notes": "Batch 87 enrichment",
+    "enrichment": {
+      "short_title": "Greek distributorship terminated under English law",
+      "area_of_law": [
+        "Contract law",
+        "Commercial law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Commercial Agents (Council Directive) Regulations 1993",
+          "provisions": [
+            "regulation 12",
+            "regulation 15",
+            "regulation 17"
+          ]
+        },
+        {
+          "title": "Council Directive 86/653/EEC",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "ACI terminated a 1993 English-law distributorship agreement with NOS for Greece after serving notice under clause 10.3.1 for failure to remedy breaches within 30 days.",
+        "NOS argued a new Greek-law contract arose from conduct in 2000 and that commercial agent regulations required reasonable notice.",
+        "Eady J granted summary judgment declarations that the agreement was validly terminated and NOS must perform clause 11 post-termination obligations.",
+        "NOS was a distributor purchasing for resale, not a commercial agent under the Regulations.",
+        "The implied Greek-law contract argument was held fanciful for Part 24 purposes."
+      ],
+      "procedural_posture": "Part 24 summary judgment application for declarations on termination of distributorship agreement.",
+      "outcome": "Summary judgment granted; declarations made as to valid termination and post-termination obligations.",
+      "ratio": "A contractual termination under an express remediable-breach clause takes effect if breaches are not remedied within 30 days and need not await negotiation; a distributor taking financial risk is not a commercial agent entitled to reasonable notice, and an unpleaded implied superseding contract governed by foreign law has no real prospect of success.",
+      "legal_issues": [
+        "Whether ACI validly terminated under clause 10.3.1",
+        "Whether exclusive English jurisdiction clause governs",
+        "Whether NOS was a commercial agent entitled to reasonable notice",
+        "Whether conduct superseded the 1993 agreement with a Greek-law contract",
+        "Enforcement of clause 11 post-termination obligations"
+      ],
+      "catchwords": [
+        "distributorship agreement",
+        "termination",
+        "commercial agent",
+        "exclusive jurisdiction",
+        "summary judgment",
+        "Greece"
+      ],
+      "index_terms": [
+        "ACI Worldwide",
+        "NOS",
+        "clause 10.3.1",
+        "clause 16.1",
+        "Swain v Hillman",
+        "Bowstead & Reynolds on Agency"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Swain v Hillman",
+          "citation": "[2001] 1 All ER 90",
+          "relation": "applied"
+        },
+        {
+          "name": "X Ltd v Morgan-Grampian (Publishers) Ltd",
+          "citation": "[1991] 1 AC 1",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Focused summary judgment on termination with clear contractual analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/715.json",
+    "status": "done",
+    "notes": "Batch 87 enrichment",
+    "enrichment": {
+      "short_title": "Without prejudice privilege and perjury exception",
+      "area_of_law": [
+        "Evidence",
+        "Civil procedure",
+        "Commercial fraud"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Berry Trade and Vitol sued Mr Ghadimi for conspiracy and deceit over misappropriated oil cargoes; he counterclaimed for management fees.",
+        "During without prejudice settlement meetings Ghadimi allegedly said his fee agreement was US$2 per metric tonne, inconsistent with his pleaded US$9 rate.",
+        "David Steel J allowed the claimants to adduce the statements on the basis of a serious risk of perjury.",
+        "The Court of Appeal held the judge applied too low a test and that disputed admissions from lengthy unrecorded negotiations did not show unambiguous impropriety.",
+        "Permission to appeal was granted; the order allowing admission of without prejudice statements was set aside."
+      ],
+      "procedural_posture": "Application for permission to appeal and appeal against interlocutory order admitting without prejudice statements in evidence.",
+      "outcome": "Appeal allowed; order admitting without prejudice statements set aside.",
+      "ratio": "The without prejudice rule is breached only in the clearest cases of unambiguous impropriety such as threats or fraud, not where pleaded and oral positions are merely inconsistent; disputed oral admissions from hours of unscripted settlement discussions cannot establish a cloak for perjury, and the correct test is not a serious and substantial risk of perjury.",
+      "legal_issues": [
+        "Without prejudice rule and unambiguous impropriety exception",
+        "Whether inconsistent settlement statements may be adduced to prove perjury",
+        "Correct standard of proof for lifting privilege at interlocutory stage",
+        "Admissibility of disputed without prejudice admissions on summary judgment",
+        "Application of Unilever plc v Procter & Gamble Co"
+      ],
+      "catchwords": [
+        "without prejudice",
+        "privilege",
+        "unambiguous impropriety",
+        "perjury",
+        "settlement negotiations",
+        "admissions"
+      ],
+      "index_terms": [
+        "Ghadimi",
+        "Moussavi",
+        "Berry Trade",
+        "Vitol",
+        "Cutts v Head",
+        "Unilever v Procter & Gamble"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Unilever plc v Procter & Gamble Co",
+          "citation": "[2000] 1 WLR 2436",
+          "relation": "applied"
+        },
+        {
+          "name": "Cutts v Head",
+          "citation": "[1984] Ch 290",
+          "relation": "applied"
+        },
+        {
+          "name": "Forster v Friedland",
+          "citation": "10 November 1992, unreported",
+          "relation": "applied"
+        },
+        {
+          "name": "Fazil-Alizadeh v Nikbin",
+          "citation": "25 February 1993, unreported",
+          "relation": "applied"
+        },
+        {
+          "name": "Rush & Tomkins Ltd v Greater London Council",
+          "citation": "[1989] AC 1280",
+          "relation": "cited"
+        },
+        {
+          "name": "Muller v Linsley & Mortimer",
+          "citation": "[1996] PNLR 74",
+          "relation": "cited"
+        },
+        {
+          "name": "Dora v Semper",
+          "citation": "15 March 1999, unreported",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Authoritative Court of Appeal judgment restating the narrow without prejudice exception."
+      }
+    }
+  }
+]

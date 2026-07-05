@@ -1,0 +1,657 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/411.json",
+    "status": "done",
+    "notes": "Batch 43 enrichment",
+    "enrichment": {
+      "short_title": "EIA screening direction bars late EIA challenge",
+      "area_of_law": [
+        "Planning law",
+        "Environmental law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 78",
+            "section 288"
+          ]
+        },
+        {
+          "title": "Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999",
+          "provisions": [
+            "Regulation 2",
+            "Regulation 3(2)",
+            "Regulation 4(3)",
+            "Regulation 6(4)",
+            "Regulation 9(1)",
+            "Regulation 9(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A local resident challenged an inspector's grant of planning permission for student accommodation at London Metropolitan University's Tufnell Park halls after a six-day inquiry.",
+        "The Secretary of State had earlier made a screening direction that the development was not EIA development under the 1999 Regulations.",
+        "The claimant argued the inspector unlawfully failed to require an environmental impact assessment before granting permission.",
+        "The university applied for summary judgment under CPR Part 24 on the section 288 application."
+      ],
+      "procedural_posture": "Summary judgment application on a section 288 Town and Country Planning Act challenge to an inspector's planning appeal decision.",
+      "outcome": "Summary judgment entered for the university; the section 288 application dismissed as having no real prospect of success.",
+      "ratio": "A Secretary of State screening direction under Regulation 4(3) of the 1999 Regulations is determinative that development is not EIA development, so an inspector deciding a related appeal is not required to reconsider EIA or refer the matter under Regulation 9(2) unless conditions for that duty arise; an inspector's findings on character and appearance do not cancel the direction.",
+      "legal_issues": [
+        "Whether a screening direction remained determinative on the planning appeal",
+        "Whether the inspector breached Regulation 9(2) by failing to refer an EIA question to the Secretary of State",
+        "Whether summary judgment was appropriate on the section 288 challenge"
+      ],
+      "catchwords": [
+        "environmental impact assessment",
+        "screening direction",
+        "planning permission",
+        "section 288",
+        "summary judgment",
+        "student accommodation"
+      ],
+      "index_terms": [
+        "EIA development",
+        "Schedule 2 development",
+        "Berkeley",
+        "Smith v SSETR",
+        "CPR Part 24",
+        "London Metropolitan University"
+      ],
+      "linked_authorities": [
+        "Smith v Secretary of State for the Environment Transport and Regions",
+        "Berkeley v Secretary of State for the Environment"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Clear summary judgment ruling on EIA screening and Regulation 9(2) with detailed regulatory analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/283.json",
+    "status": "done",
+    "notes": "Batch 43 enrichment",
+    "enrichment": {
+      "short_title": "Unsigned reinsurance treaty did not bind parties",
+      "area_of_law": [
+        "Insurance law",
+        "Contract law",
+        "Arbitration"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 9",
+            "section 9(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Sun Life and CNA agreed a 10% personal accident quota share reinsurance treaty effective from 1 January 1999 without a signed slip or treaty wording.",
+        "CNA later sent signed treaty wording including a Chicago arbitration clause, but Sun Life never executed it after negotiating two outstanding points through an underwriter.",
+        "Sun Life commenced Commercial Court proceedings alleging misrepresentation and seeking to avoid the treaty.",
+        "CNA applied under section 9 of the Arbitration Act 1996 for a stay of those proceedings."
+      ],
+      "procedural_posture": "Appeal from refusal of a stay of court proceedings in favour of arbitration under section 9 of the Arbitration Act 1996.",
+      "outcome": "Appeal dismissed; no arbitration agreement held to exist and the stay application rightly refused.",
+      "ratio": "Where parties negotiating formal reinsurance treaty wording contemplate execution by authorised signatories as a precondition to binding assent, agreement on wording alone does not create a binding arbitration agreement even if substantive treaty terms were agreed in draft form.",
+      "legal_issues": [
+        "Whether an arbitration agreement existed despite unsigned treaty wording",
+        "Whether signature was a precondition to binding agreement",
+        "Whether an underwriter had ostensible authority to bind Sun Life to the arbitration clause"
+      ],
+      "catchwords": [
+        "reinsurance",
+        "arbitration agreement",
+        "stay of proceedings",
+        "subject to contract",
+        "quota share treaty",
+        "ostensible authority"
+      ],
+      "index_terms": [
+        "Arbitration Act 1996 section 9",
+        "First Energy v Hungarian International Bank",
+        "New England Reinsurance v Messoghios",
+        "The Zephyr",
+        "unsigned treaty wording"
+      ],
+      "linked_authorities": [
+        "First Energy (UK) Ltd v Hungarian International Bank Ltd",
+        "New England Reinsurance Corporation v Messoghios Insurance Co",
+        "The Zephyr"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with detailed findings on commercial intention and authority."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/509.json",
+    "status": "done",
+    "notes": "Batch 43 enrichment",
+    "enrichment": {
+      "short_title": "Extradition identity proved despite birth date variance",
+      "area_of_law": [
+        "Extradition law",
+        "Criminal procedure",
+        "Administrative law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The applicant challenged habeas corpus following committal on an Italian extradition request for cannabis trafficking offences.",
+        "He had been arrested earlier under an Albanian extradition request and discharged, then immediately rearrested under the Italian warrant.",
+        "The Italian request named Altan Brahja born 12 August 1970 in Kosovo; Albanian records gave Artan Brahja born 22 August 1974 in Tirana.",
+        "On arrest the applicant gave names and dates consistent with the Italian request and possessed a provisional driving licence matching the Italian particulars."
+      ],
+      "procedural_posture": "Habeas corpus application challenging committal on an extradition request.",
+      "outcome": "Application refused; the district judge was entitled to find the applicant was the person sought by Italy.",
+      "ratio": "On extradition identity, where name, address, and documentary evidence strongly match the requested person, discrepancies in date or place of birth on another state's records do not necessarily defeat proof to the criminal standard that the applicant is the person accused in the requesting state's warrant.",
+      "legal_issues": [
+        "Whether Italy proved the applicant was the person named in the extradition request",
+        "Whether discrepancies between Albanian and Italian identifying particulars were decisive",
+        "Standard and burden of proof on identity at committal"
+      ],
+      "catchwords": [
+        "habeas corpus",
+        "extradition",
+        "identity",
+        "committal order",
+        "cannabis trafficking",
+        "criminal standard of proof"
+      ],
+      "index_terms": [
+        "Bow Street Magistrates' Court",
+        "Italian extradition request",
+        "Albanian extradition",
+        "birth certificate discrepancy",
+        "driving licence evidence"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Short oral judgment on a single identity issue with clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/579.json",
+    "status": "done",
+    "notes": "Batch 43 enrichment",
+    "enrichment": {
+      "short_title": "Planning noise refusal not a preferable-scheme error",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Environmental law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 78",
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Bryant Homes appealed refusal of planning permission for 42 dwellings on land at Ponteland adjacent to an industrial estate.",
+        "The council refused permission citing noise from neighbouring businesses and a problematic access pinch point.",
+        "An inspector dismissed the appeal, finding unacceptable noise climate even where BS8233 standards could be met with windows closed.",
+        "The claimant challenged the inspector's decision under section 288, arguing he determined the appeal by reference to a preferable undeveloped scheme."
+      ],
+      "procedural_posture": "Section 288 challenge to an inspector's dismissal of a planning appeal.",
+      "outcome": "Section 288 application refused; permission to appeal to the Court of Appeal also refused as hopeless.",
+      "ratio": "An inspector may refuse a residential scheme on its merits where noise from adjacent industry makes internal standards achievable only with closed windows unacceptable in a quiet rural village setting; describing a scheme as over-dependent on closed windows does not mean the inspector considered an alternative scheme not before him.",
+      "legal_issues": [
+        "Whether the inspector erred by considering a preferable alternative development",
+        "Whether meeting BS8233 with windows closed was sufficient",
+        "Whether the inspector failed to give adequate reasons or a fair hearing",
+        "Whether the inspector ignored a material benefit to existing neighbouring properties"
+      ],
+      "catchwords": [
+        "planning appeal",
+        "industrial noise",
+        "BS8233",
+        "PPG 24",
+        "section 288",
+        "residential development"
+      ],
+      "index_terms": [
+        "Ponteland",
+        "acoustic barrier",
+        "pinch point access",
+        "World Health Organisation noise standards",
+        "Save Britain's Heritage v No.1 Poultry"
+      ],
+      "linked_authorities": [
+        "Save Britain's Heritage v No.1 Poultry"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed Sullivan J judgment addressing multiple grounds of challenge to inspector reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2003/365.json",
+    "status": "done",
+    "notes": "Batch 43 enrichment",
+    "enrichment": {
+      "short_title": "Best interests of incapacitated patient on renal treatment",
+      "area_of_law": [
+        "Medical law",
+        "Mental capacity",
+        "Family law",
+        "Human rights"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "S, an 18-year-old with severe global developmental delay, autism, and end-stage renal failure, lacked capacity to decide his medical treatment.",
+        "He had been maintained on haemodialysis since emergency admission in May 2000 and the hospital sought declarations on future dialysis and transplantation.",
+        "The parties agreed haemodialysis should continue and peritoneal dialysis should follow if haemodialysis failed, but disputed AV fistula use and future kidney transplantation.",
+        "The mother offered to donate a kidney; experts disagreed on whether S could tolerate transplantation and post-operative care."
+      ],
+      "procedural_posture": "High Court inherent jurisdiction application for declaratory relief on best interests of an incapacitated adult patient.",
+      "outcome": "Declarations aligned with agreed continued dialysis; AV fistula not excluded after transition to adult care; kidney transplantation not excluded on non-medical grounds alone.",
+      "ratio": "Where an incapacitated patient cannot consent, the court assesses best interests across medical, emotional, and welfare factors; inability to understand treatment does not automatically bar life-sustaining intervention, but major surgery may be refused where medical risks outweigh benefits and less burdensome dialysis options remain viable.",
+      "legal_issues": [
+        "Whether kidney transplantation was in S's best interests",
+        "Whether an AV fistula should be attempted as alternative haemodialysis access",
+        "Whether inability to understand treatment precluded transplantation",
+        "Appropriate declaratory relief under the inherent jurisdiction"
+      ],
+      "catchwords": [
+        "best interests",
+        "mental incapacity",
+        "haemodialysis",
+        "kidney transplantation",
+        "autism",
+        "medical treatment declaration"
+      ],
+      "index_terms": [
+        "velo-cardiac facial syndrome",
+        "renal failure",
+        "AV fistula",
+        "peritoneal dialysis",
+        "Bolam test",
+        "Airedale NHS Trust v Bland",
+        "re F mental patient sterilisation"
+      ],
+      "linked_authorities": [
+        "Airedale NHS Trust v Bland",
+        "re F (mental patient: sterilisation)",
+        "re B (A Minor)(Wardship: Medical Treatment)",
+        "Bolam v Friern Hospital Management Committee",
+        "Simms v Simms; PA v JA",
+        "re A (Male Sterilisation)"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Long presidential judgment with detailed medical evidence and clear declaratory conclusions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/188.json",
+    "status": "done",
+    "notes": "Batch 43 enrichment",
+    "enrichment": {
+      "short_title": "Council liable for defective restaurant damp repairs",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Construction and engineering",
+        "Damages",
+        "Limitation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 11"
+          ]
+        },
+        {
+          "title": "Shops Act 1950",
+          "provisions": []
+        },
+        {
+          "title": "Factories Act 1961",
+          "provisions": []
+        },
+        {
+          "title": "Offices Shops and Railway Premises Act 1963",
+          "provisions": []
+        },
+        {
+          "title": "Health and Safety at Work Act 1974",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mrs Vukelic held a lease of ground-floor restaurant premises in Shepherd's Bush from Hammersmith and Fulham Council from 1981 to 2001.",
+        "Long-standing damp and water penetration from the roof and rear areas damaged the restaurant, equipment, and business.",
+        "The council undertook repair works through contractor Contrad from 1999 but the tenant alleged defective and incomplete workmanship.",
+        "The tenant claimed damages for business loss and equipment damage; the council counterclaimed for rent arrears and raised limitation defences."
+      ],
+      "procedural_posture": "Technology and Construction Court trial of tenant's claim and landlord's counterclaim on lease repairing obligations and damages.",
+      "outcome": "Tenant awarded damages and interest totalling £215,216.95, offset against rent and interest due, leaving a net sum of £88,622.75 payable by the council.",
+      "ratio": "A landlord remains liable for breach of repairing obligations and consequential losses where authorised remedial works are carried out defectively; limitation may restrict older claims, but damages for continuing damp damage, business disruption, and equipment loss may be recovered where breach is established.",
+      "legal_issues": [
+        "Breach of lease repairing obligations and adequacy of remedial works",
+        "Assessment of business and equipment damages",
+        "Application of limitation defences",
+        "Whether personal injury or exemplary damages were available"
+      ],
+      "catchwords": [
+        "lease repairs",
+        "damp penetration",
+        "restaurant premises",
+        "local authority landlord",
+        "business interruption",
+        "limitation"
+      ],
+      "index_terms": [
+        "Bush Green House",
+        "Contrad Construction",
+        "Shepherd's Bush",
+        "rent arrears set-off",
+        "exemplary damages",
+        "tenant repairing covenant"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Lengthy TCC judgment with explicit net damages figure and repair findings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/394.json",
+    "status": "done",
+    "notes": "Batch 43 enrichment",
+    "enrichment": {
+      "short_title": "Wasted costs refused on arguable family business claim",
+      "area_of_law": [
+        "Civil procedure",
+        "Professional conduct",
+        "Contract law",
+        "Equity"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 51(6)",
+            "section 51(7)",
+            "section 51(13)"
+          ]
+        },
+        {
+          "title": "Law of Property (Miscellaneous Provisions) Act 1989",
+          "provisions": [
+            "section 2(1)",
+            "section 2(5)"
+          ]
+        },
+        {
+          "title": "Legal Aid Act 1988",
+          "provisions": [
+            "section 31(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Two sons sued their father and his company alleging promises of houses, shares, and unpaid work in a machinery export business.",
+        "The county court judge dismissed the action, finding the sons' account untrue and the claims legally problematic.",
+        "The father and company applied for a wasted costs order against the sons' counsel under section 51 of the Supreme Court Act 1981.",
+        "The judge refused to require counsel to show cause, holding no breach of duty to the court was established."
+      ],
+      "procedural_posture": "Full Court of Appeal on renewed application for permission to appeal against refusal of a wasted costs order against counsel.",
+      "outcome": "Permission to appeal granted but appeal dismissed; wasted costs order refused.",
+      "ratio": "A wasted costs order requires breach of an advocate's duty to the court, not merely negligent assessment of prospects; presenting an arguable claim that fails at trial, including on legally debatable equitable and contractual grounds, does not amount to an abuse of process warranting wasted costs unless the conduct is improper or akin to abuse.",
+      "legal_issues": [
+        "Whether counsel breached duty to the court warranting wasted costs",
+        "Whether the sons' claims were hopeless or an abuse of process",
+        "Effect of legally aided litigation on wasted costs applications",
+        "Whether the judge erred in refusing to order counsel to show cause"
+      ],
+      "catchwords": [
+        "wasted costs",
+        "legal representatives",
+        "abuse of process",
+        "proprietary estoppel",
+        "section 51",
+        "legal aid"
+      ],
+      "index_terms": [
+        "Ridehalgh v Horsefield",
+        "Medcalf v Mardell",
+        "CPR 48.7",
+        "constructive trust",
+        "section 2 LP(MP)A 1989",
+        "Salomon v Salomon"
+      ],
+      "linked_authorities": [
+        "Ridehalgh v Horsefield",
+        "Medcalf v Mardell",
+        "Myers v Elman",
+        "Harley v McDonald",
+        "Davy-Chiesman v Davy-Chiesman",
+        "Edwards v Edwards",
+        "D Walter & Company Ltd v Neville Eckley & Company",
+        "Wall v Lefevre",
+        "Royal Institute of Chartered Surveyors v Wiseman Marshall"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment on wasted costs jurisdiction with detailed procedural analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/403.json",
+    "status": "done",
+    "notes": "Batch 43 enrichment",
+    "enrichment": {
+      "short_title": "Rotary member bound by elected club arbitration",
+      "area_of_law": [
+        "Arbitration",
+        "Contract law",
+        "Club law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 5",
+            "section 9",
+            "section 9(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Albert Whiting's membership of Wallsend Rotary Club was terminated by the council for alleged good cause under the RIBI club constitution.",
+        "He gave notice electing arbitration under Article XI rather than an internal club appeal, then sought to withdraw and commence county court proceedings challenging the council's composition.",
+        "The club applied to stay the proceedings under section 9 of the Arbitration Act 1996.",
+        "Both the district and circuit judges held the dispute was subject to the constitution's arbitration mechanism."
+      ],
+      "procedural_posture": "Second appeal against stay of court proceedings in favour of arbitration under section 9 of the Arbitration Act 1996.",
+      "outcome": "Appeal dismissed; proceedings stayed and the member required to pursue club arbitration.",
+      "ratio": "Where a club constitution gives a member the option to challenge termination by arbitration or appeal and the member elects arbitration, he cannot unilaterally withdraw from that agreement to litigate; a challenge to the validity of a council decision still falls within the constitution's dispute resolution scheme once arbitration is chosen.",
+      "legal_issues": [
+        "Whether Article XI or Article XV of the club constitution governed the dispute",
+        "Whether the member could unilaterally rescind the arbitration reference",
+        "Whether section 9(1) of the Arbitration Act 1996 mandated a stay",
+        "Whether notice of arbitration was procedurally defective"
+      ],
+      "catchwords": [
+        "arbitration agreement",
+        "stay of proceedings",
+        "Rotary club constitution",
+        "membership termination",
+        "election of arbitration",
+        "section 9"
+      ],
+      "index_terms": [
+        "RIBI club constitution",
+        "Article XI section 6",
+        "Article XV",
+        "Wallsend Rotary Club",
+        "good cause termination",
+        "arbitration waiver"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Clear Court of Appeal judgment on contractual interpretation of club constitution and mandatory stay."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/284.json",
+    "status": "done",
+    "notes": "Batch 43 enrichment",
+    "enrichment": {
+      "short_title": "Corrupt informant claim struck out on illegality",
+      "area_of_law": [
+        "Tort",
+        "Police law",
+        "Civil procedure",
+        "Criminal law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 38(1)"
+          ]
+        },
+        {
+          "title": "Bail Act 1976",
+          "provisions": [
+            "Schedule 1 Part 1 paragraph 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Marsh, a motor dealer, paid DC Hoban £10,000 to join a fictitious police informant 'Club' and dealt in stolen vehicles under Hoban's corrupt instructions.",
+        "After arrest for handling stolen cars he reported Hoban's corruption; Hoban's prosecution was stayed.",
+        "Marsh sued the Chief Constable for wrongful arrest, negligence, and misfeasance in public office, claiming £10,000, £50,000 for seized vehicles, and £156,000 relating to John Fury.",
+        "The defendant applied to strike out the claim under CPR 3.4 and 24.2 as having no real prospect of success."
+      ],
+      "procedural_posture": "Second appeal against strike-out/summary judgment dismissing claims against the Chief Constable.",
+      "outcome": "Appeal dismissed; the claimant's entire claim struck out.",
+      "ratio": "Claims founded on the claimant's knowing participation in a corrupt scheme with a police officer are barred by ex turpi causa; absent a special relationship creating a private law duty, police owe no general duty to investigate crime properly, and misfeasance in public office requires deliberate wrongdoing or subjective bad faith not pleaded against other officers.",
+      "legal_issues": [
+        "Application of ex turpi causa to corrupt payments and stolen vehicle claims",
+        "Whether Hoban's conduct attracted vicarious liability under Lister v Hesley Hall",
+        "Whether police owed a duty of care in investigating Fury",
+        "Whether wrongful arrest and false imprisonment claims were sustainable"
+      ],
+      "catchwords": [
+        "ex turpi causa",
+        "misfeasance in public office",
+        "police informant",
+        "vicarious liability",
+        "strike out",
+        "handling stolen goods"
+      ],
+      "index_terms": [
+        "CPR 3.4",
+        "CPR 24.2",
+        "Three Rivers v Bank of England",
+        "Lister v Hesley Hall",
+        "Hill v Chief Constable of West Yorkshire",
+        "Swinney v Chief Constable of Northumbria Police",
+        "Akenzua v Secretary of State for the Home Department"
+      ],
+      "linked_authorities": [
+        "Three Rivers District Council v Bank of England (No.3)",
+        "Lister v Hesley Hall",
+        "Hill v Chief Constable of West Yorkshire",
+        "Swinney v Chief Constable of Northumbria Police",
+        "Costello v Chief Constable of Northumbria Police",
+        "Akenzua v Secretary of State for the Home Department",
+        "Standard Chartered Bank v Pakistan National Shipping Corporation (No.2)",
+        "Saunders v Edwards",
+        "Wilding v Chief Constable of Lancashire",
+        "Caparo Industries v Dickman",
+        "Kent v Griffiths"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed Court of Appeal strike-out judgment with comprehensive illegality and misfeasance analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/379.json",
+    "status": "done",
+    "notes": "Batch 43 enrichment",
+    "enrichment": {
+      "short_title": "Virgin JV termination not triggered by low CC proposal",
+      "area_of_law": [
+        "Commercial law",
+        "Contract law",
+        "Telecommunications",
+        "Company law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "T-Mobile and Virgin owned a 50/50 joint venture, Virgin Mobile, supplying retail mobile services using T-Mobile's network under a JVA and Telecommunications Supply Agreement.",
+        "A September 2000 side letter varied customer contribution terms; T-Mobile later proposed a lower customer contribution in September 2002.",
+        "T-Mobile contended this triggered an Event of No Fault Termination under the JVA enabling a share buy-out auction.",
+        "Virgin Mobile disputed construction, alleged estoppel by convention, and claimed marketing support contributions for dormant customers."
+      ],
+      "procedural_posture": "Commercial Court trial of contractual construction and termination issues under a telecommunications joint venture agreement.",
+      "outcome": "T-Mobile's declarations refused; Virgin Mobile entitled to contrary declarations and payment of marketing support contribution sums to be ascertained; no valid Event of No Fault Termination notification.",
+      "ratio": "The September 2000 side letter did not permit T-Mobile to propose a customer contribution below the minimum level for the purposes of triggering an Event of No Fault Termination; the September 2002 proposal was non-contractual and VM's subsequent fax did not constitute valid notification under clause 16.1(b) of the JVA.",
+      "legal_issues": [
+        "Construction of the 12 September 2000 side letter on customer contribution",
+        "Whether estoppel prevented T-Mobile from relying on a below-minimum proposal",
+        "Whether the 30 September 2002 letter triggered Event of No Fault Termination",
+        "Treatment of dormant customers for marketing support contribution calculations",
+        "Whether VM validly notified termination under clause 16.1(b)"
+      ],
+      "catchwords": [
+        "joint venture agreement",
+        "customer contribution",
+        "telecommunications supply agreement",
+        "event of no fault termination",
+        "contract construction",
+        "estoppel by convention"
+      ],
+      "index_terms": [
+        "Virgin Mobile",
+        "One 2 One",
+        "Minimum Customer Contribution",
+        "Marketing Support Contribution",
+        "airtime services",
+        "auction buy-out mechanism",
+        "Vistafjord estoppel"
+      ],
+      "linked_authorities": [
+        "Vistafjord"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Long Commercial Court judgment resolving six contractual issues with explicit conclusion on T-Mobile's claims."
+      }
+    }
+  }
+]

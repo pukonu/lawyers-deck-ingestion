@@ -1,0 +1,688 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1077.json",
+    "status": "needs_review",
+    "notes": "Asylum Article 3 appeal is substantively complete, but judges metadata lists Lord Lloyd whereas the judgment is delivered by Keene, Gibson and Maurice Kay LJJ.",
+    "enrichment": {
+      "short_title": "Algerian asylum appeal: past detention and future Article 3 risk",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant, a Berber Algerian citizen, arrived in the UK in February 1998 after military service and civilian work in Algiers.",
+        "He was detained and roughly treated on two occasions in 1995 and 1996 during generalised terrorist investigations, then released without charge and required to report fortnightly.",
+        "The adjudicator and IAT accepted past ill-treatment crossed the Article 3 threshold but found no real risk of repetition on return.",
+        "The appellant argued Demirkaya required inference of future risk from past persecution absent significant change of circumstances."
+      ],
+      "procedural_posture": "Statutory appeal to the Court of Appeal on a point of law from the Immigration Appeal Tribunal dismissal of asylum and human rights appeals.",
+      "outcome": "Appeal dismissed; the IAT lawfully concluded that despite past Article 3 ill-treatment there was no real risk of persecution or Article 3 harm if the appellant were returned to Algeria.",
+      "ratio": "Past persecution or Article 3 ill-treatment is probative of future risk but does not automatically establish a well-founded fear; the decision-maker must consider all relevant circumstances, including release without charge, lack of current interest by the authorities, and the appellant's ability to live openly in Algiers for months after ceasing to report; Demirkaya does not create an irrebuttable presumption from historic ill-treatment.",
+      "legal_issues": [
+        "Whether the IAT erred in law by failing to treat past Article 3 ill-treatment as determinative of future risk",
+        "Proper application of Demirkaya v SSHD to Algerian detention history",
+        "Whether breach of reporting requirements created a real risk on return",
+        "Scope of appellate intervention in asylum cases where Article 3 is engaged"
+      ],
+      "catchwords": [
+        "asylum",
+        "Article 3",
+        "Algeria",
+        "past ill-treatment",
+        "Demirkaya",
+        "future risk",
+        "IAT"
+      ],
+      "index_terms": [
+        "Immigration Appeal Tribunal",
+        "Berber ethnicity",
+        "GIA",
+        "generalised round-up",
+        "reporting requirements",
+        "CIPU country report",
+        "Wednesbury"
+      ],
+      "linked_authorities": [
+        "Demirkaya v Secretary of State for the Home Department [1999] INLR 441",
+        "R v Secretary of State for the Home Department ex parte Turgut [2001] 1 All ER 719",
+        "Adan v Secretary of State for the Home Department [1999] 1 AC 293"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome, Demirkaya analysis, and key factual findings are explicit. Judges metadata in the source file does not match the judgment text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2098.json",
+    "status": "needs_review",
+    "notes": "Unduly lenient sentence reference is fully reported, but the source judges array is empty.",
+    "enrichment": {
+      "short_title": "Unduly lenient sentences for father and son aggravated burglary",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Burglary and violent crime"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Thomas Eamon Barrow and his 17-year-old son Daniel attacked a man at his home at about 5.30 a.m. with a baseball bat, kicks and punches after a domestic grievance.",
+        "The victim suffered a smashed and dislocated nose requiring surgery and was forced to move home after 40 years in the property.",
+        "At Derby Crown Court the father received four years' imprisonment and the son two years' YOI detention, plus five-year ASBOs.",
+        "The Attorney General referred the sentences as unduly lenient for an unprovoked home invasion with weapon use and serious injury."
+      ],
+      "procedural_posture": "Attorney General's reference under section 36 of the Criminal Justice Act 1988 following conviction after retrial at Derby Crown Court.",
+      "outcome": "Leave granted; father's sentence increased from four to seven years and son's from two to three and a half years' YOI detention, with ASBO periods reduced from five to three years to reflect double jeopardy.",
+      "ratio": "Aggravated burglary of this gravity, involving a premeditated early-morning attack on a victim in his own home with a weapon, repeated blows to vulnerable areas and serious lasting injury, required at least eight years for the father and four years for the son at first instance; the sentences passed were unduly lenient though reduced on reference to account for double jeopardy.",
+      "legal_issues": [
+        "Whether sentences of four and two years were unduly lenient for aggravated burglary with serious injury",
+        "Appropriate uplift for aggravating features including weapon use and home invasion",
+        "Effect of youth and parental influence on the son's sentence",
+        "Application of double jeopardy principle on an Attorney General's reference"
+      ],
+      "catchwords": [
+        "unduly lenient sentence",
+        "aggravated burglary",
+        "baseball bat",
+        "home invasion",
+        "Attorney General's reference",
+        "ASBO"
+      ],
+      "index_terms": [
+        "Derby Crown Court",
+        "double jeopardy",
+        "young offender institution",
+        "Broughton and Gadd",
+        "premeditation",
+        "actual bodily harm"
+      ],
+      "linked_authorities": [
+        "Attorney General's Reference Nos 43 and 44 of 2002 (Broughton and Gadd) [2003] 1 Cr App R (S) 364",
+        "Attorney General's Reference No 104 of 2002 (B) (24 March 2003, unreported)"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Facts, aggravating features, and substituted sentences are clearly stated. Empty judges metadata in source file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/984.json",
+    "status": "needs_review",
+    "notes": "Insurance coverage appeal is complete, but judges metadata incorrectly includes Lord Wilberforce and misstates the constitution; judgment delivered by Mance, Munby and Thorpe LJJ.",
+    "enrichment": {
+      "short_title": "Kidnap-driven emerald theft and Holdup or Robbery Limit exclusion",
+      "area_of_law": [
+        "Insurance law",
+        "Commercial contract",
+        "Jewellers block policy"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Theft Act 1968",
+          "provisions": [
+            "section 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Sao Paulo jeweller insured under a Lloyd's Jewellers Block Policy lost emeralds after its managing director was kidnapped and forced to remove stock from the premises.",
+        "Kidnappers threatened the MD's family elsewhere and used a two-way radio; staff assisted under duress but no violence was threatened to persons at the premises.",
+        "Moore-Bick J granted summary judgment on coverage, holding the Holdup or Robbery Limit did not apply; the underwriter appealed on that clause alone.",
+        "Special Condition (A) III capped liability for loss by robbery when premises were open or staff present; the Outside Limit clause was accepted inapplicable."
+      ],
+      "procedural_posture": "Appeal with permission from Moore-Bick J's summary judgment on construction of a Lloyd's jewellers block policy Holdup or Robbery Limit clause.",
+      "outcome": "Appeal dismissed; the Holdup or Robbery Limit did not apply because the clause addresses violence or threats directed at the assured or employees at the premises, not duress arising from threats to family members elsewhere.",
+      "ratio": "In an ordinary commercial man's reading of the Holdup or Robbery Limit, robbery requires violence or threats against the assured or its employees at the premises when open or attended; loss caused by a director acting under duress from threats to family members off-site, even if stock is removed from the premises, is not loss by robbery within the special condition.",
+      "legal_issues": [
+        "Construction of Holdup or Robbery Limit in Lloyd's NMA 2480 jewellers block policy",
+        "Whether kidnapping and off-premises threats constituted robbery at the premises",
+        "Distinction between extortion and robbery under English and Brazilian law for insurance purposes",
+        "Application of contra proferentem to special conditions restricting all-risks cover"
+      ],
+      "catchwords": [
+        "jewellers block policy",
+        "holdup limit",
+        "robbery",
+        "kidnap",
+        "duress",
+        "insurance construction",
+        "all risks"
+      ],
+      "index_terms": [
+        "Lloyd's syndicate 9091",
+        "emeralds",
+        "Sao Paulo",
+        "NMA 2480",
+        "Algemeene Bankvereeniging v Langton",
+        "Investors Compensation Scheme",
+        "employee dishonesty exclusion"
+      ],
+      "linked_authorities": [
+        "Algemeene Bankvereeniging v Langton (1935) 51 Ll.L.R. 275",
+        "Investors Compensation Scheme Ltd v West Bromwich B.S. [1998] 1 WLR 896",
+        "Prenn v Simmonds [1971] 1 WLR 1381",
+        "Reardon Smith Line Ltd v Hansen-Tangen [1976] 1 WLR 989",
+        "Dodson v Dodson [2001] 1 Ll.R 520"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Clause construction and factual account are detailed and coherent. Source judges field is corrupted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1008.json",
+    "status": "needs_review",
+    "notes": "Trade mark amendment appeal is substantively complete, but the source judges array is empty.",
+    "enrichment": {
+      "short_title": "POLO shape mark: limits on amending unregistrable applications",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": [
+            "section 1",
+            "section 3",
+            "section 9",
+            "section 10",
+            "section 13",
+            "section 39"
+          ]
+        },
+        {
+          "title": "EC Directive 89/104/EEC",
+          "provisions": []
+        },
+        {
+          "title": "Council Regulation 40/94",
+          "provisions": [
+            "Article 44"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Nestle applied to register the three-dimensional shape of a POLO mint without colour or size limitations in Class 30 for sugar confectionery.",
+        "Mars opposed; the Hearing Officer held acquired distinctiveness existed only for white mints of standard POLO size and invited amendment via Form TM21.",
+        "Nestle sought to limit the specification and add colour and size restrictions under sections 13 and 39(1); Lloyd J held this substantially affected mark identity and refused registration.",
+        "The Court of Appeal upheld Lloyd J, requiring a fresh application for the amended mark."
+      ],
+      "procedural_posture": "Second appeal from Lloyd J's decision setting aside the Registrar and refusing Nestle's application to register a shape mark subject to post-filing colour and size limitations.",
+      "outcome": "Appeal dismissed; permission to appeal to the House of Lords refused; Nestle could not use section 13 limitations or section 39(1) goods restrictions to amend an application whose graphic representation lacked essential distinctive elements.",
+      "ratio": "Where acquired distinctiveness exists only for a mark with specified colour and size features absent from the original application, requiring those features is an amendment that substantially affects the identity of the mark and is prohibited by section 39(2); section 13 limits rights conferred by registration and cannot be used to circumvent section 39's restrictive amendment regime.",
+      "legal_issues": [
+        "Whether colour and size requirements are section 13 limitations on rights or amendments to mark identity",
+        "Construction of section 39(1) restriction of goods versus restriction of the mark itself",
+        "Relationship between sections 13 and 39 of the Trade Marks Act 1994",
+        "Whether a fresh application is required when an initially over-broad shape mark is unregistrable without added features"
+      ],
+      "catchwords": [
+        "trade mark registration",
+        "shape mark",
+        "section 39",
+        "section 13",
+        "acquired distinctiveness",
+        "POLO mint",
+        "amendment"
+      ],
+      "index_terms": [
+        "three-dimensional mark",
+        "Mars opposition",
+        "Swizzels Matlow",
+        "Robert Mc Bride",
+        "Form TM21",
+        "priority date",
+        "sugar confectionery"
+      ],
+      "linked_authorities": [
+        "Swizzels Matlow Ltd's Application [1999] R.P.C. 879",
+        "Robert Mc Bride Ltd's Trade Mark Application [2003] RPC 19",
+        "Societe Des Produits Nestle SA v Mars UK Ltd [2004] R.P.C. 548"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory analysis and outcome are explicit throughout. Empty judges metadata in source."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2320.json",
+    "status": "needs_review",
+    "notes": "Confiscation appeal is fully reasoned, but judges metadata lists HHJ Stanley and House of Lords judges rather than Richards LJ delivering the Court of Appeal judgment.",
+    "enrichment": {
+      "short_title": "VAT fraud confiscation: lifting corporate veil over company assets",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation",
+        "Revenue fraud",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 71"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Omar, a college lecturer, allowed his company Cambridge Computer Supplies Ltd to be used in a carousel VAT fraud after Skidmore and Withers fell out over Computerwise.",
+        "CCSL had traded legitimately before August 1997; properties bought from company profits were registered in Omar's or joint names.",
+        "Omar was convicted of cheating the Public Revenue and received an 18-month sentence plus a £790,649 confiscation order with three years' default imprisonment.",
+        "The judge lifted the corporate veil, treating benefit and available assets as Omar's; co-defendants' orders raised double-recovery concerns."
+      ],
+      "procedural_posture": "Appeal by leave of the single judge against a Crown Court confiscation order under section 71 following conviction for cheating the Public Revenue.",
+      "outcome": "Appeal dismissed; the judge was entitled to lift the corporate veil, attribute benefit to Omar as alter ego of CCSL, include property values as his available assets, and reject Benjafield unfairness and equal-division arguments.",
+      "ratio": "Where an existing legitimate company is deployed as a vehicle for revenue fraud and the defendant runs it as his alter ego, the corporate veil may be lifted for confiscation purposes; benefit may be attributed personally and pre-fraud company-funded property treated as available assets; Benjafield fairness does not require equal division of benefit among co-defendants or reduction because a co-defendant has fewer assets.",
+      "legal_issues": [
+        "Whether benefit from CCSL's VAT fraud could be attributed to Omar personally",
+        "Appropriateness of lifting the corporate veil on confiscation facts",
+        "Whether properties purchased before the fraud should be excluded as company assets",
+        "Application of Benjafield principles to double recovery and proportional sharing of benefit"
+      ],
+      "catchwords": [
+        "confiscation order",
+        "corporate veil",
+        "cheating the revenue",
+        "VAT carousel",
+        "available amount",
+        "Benjafield",
+        "alter ego"
+      ],
+      "index_terms": [
+        "Cambridge Computer Supplies",
+        "Computerwise",
+        "Skidmore",
+        "restraint order",
+        "double recovery",
+        "McKechnie and Gibbons",
+        "R v Dimsey and Allen"
+      ],
+      "linked_authorities": [
+        "R v Benjafield [2003] 1 AC 1099",
+        "R v Dimsey and Allen [2001] Cr App R (S) 497",
+        "Re H [1996] 2 All ER 391",
+        "R v McKechnie and Gibbons [2002] EWCA Crim 3161"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Confiscation reasoning and outcome are clear. Source judges metadata does not match the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/987.json",
+    "status": "needs_review",
+    "notes": "Proprietary estoppel appeal is complete, but judges metadata lists HHJ Weeks QC twice and includes him among Court of Appeal judges.",
+    "enrichment": {
+      "short_title": "Cornish farm inheritance dispute and conditional proprietary estoppel",
+      "area_of_law": [
+        "Equity",
+        "Proprietary estoppel",
+        "Agricultural land",
+        "Wills and succession"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Agricultural Holdings Act 1986",
+          "provisions": [
+            "section 26"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Uncle Percy Uglow assured nephew Richard in 1976 he would inherit Treludick farm if Richard left the family partnership to farm with him.",
+        "The partnership failed and in 1984 Richard received a tenancy of most of Treludick plus Red Down land; Percy's 1999 will left the freehold to great-nephew Peter instead.",
+        "HHJ Weeks QC dismissed Richard's proprietary estoppel claim for the freehold but upheld his protected agricultural tenancy; Peter abandoned the tenancy appeal.",
+        "Richard argued the 1976 assurance was unconditional and his 1976 career change constituted irreversible detrimental reliance."
+      ],
+      "procedural_posture": "Appeal with permission from HHJ Weeks QC's order in possession proceedings dismissing a proprietary estoppel counterclaim over Treludick farm.",
+      "outcome": "Appeal dismissed on proprietary estoppel; Richard's protected tenancy of 175 acres at Treludick and 25 acres at Red Down stands, with tenancy-related appeals abandoned by consent.",
+      "ratio": "A testamentary assurance linked to entering a farming partnership may be implicitly conditional on the business relationship succeeding; when the partnership collapses and the testator provides a protected tenancy satisfying the equity arising from reliance, it is not unconscionable for him later to leave the freehold to another beneficiary.",
+      "legal_issues": [
+        "Whether Percy Uglow's 1976 assurance of Treludick was unconditional or conditional on the partnership succeeding",
+        "Whether Richard suffered sufficient detriment by leaving TR Uglow & Sons in 1976",
+        "Whether the 1984 tenancy arrangements satisfied the equity raised by proprietary estoppel",
+        "Application of Gillett v Holt and Jennings v Rice to family farming assurances"
+      ],
+      "catchwords": [
+        "proprietary estoppel",
+        "oral assurance",
+        "farming partnership",
+        "testamentary promise",
+        "agricultural tenancy",
+        "Treludick",
+        "detriment"
+      ],
+      "index_terms": [
+        "Cornish farming family",
+        "Launceston",
+        "1984 tenancy agreement",
+        "notice to quit",
+        "Gillett v Holt",
+        "Jennings v Rice",
+        "Elizabethan farmhouse"
+      ],
+      "linked_authorities": [
+        "Gillett v Holt [2001] Ch 210",
+        "Jennings v Rice [2003] 1 P & CR 100"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Estoppel principles and factual findings are well developed. Corrupted judges metadata in source file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1943.json",
+    "status": "needs_review",
+    "notes": "Civil proceedings order judgment is complete, but judges metadata lists HHJ Brandt and Lord Bingham CJ instead of Dyson and Henriques LJJ.",
+    "enrichment": {
+      "short_title": "Civil proceedings order against vexatious litigant Chitolie",
+      "area_of_law": [
+        "Civil procedure",
+        "Vexatious litigants",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Misrepresentation Act 1967",
+          "provisions": []
+        },
+        {
+          "title": "Patents Act 1977",
+          "provisions": []
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Chitolie had been involved in 18 civil actions as claimant, defendant or litigation friend, appealing repeatedly and often abusively without success.",
+        "Litigation clusters concerned a NatWest mortgage possession, disputes with landlord Rona, his late sister's estate, and assisting Ms Hanson in related claims.",
+        "Existing Grepe v Loam and civil restraint orders had failed to stop repeated collateral challenges and reinstatement applications.",
+        "Recent patent office appeals exhibited similar abusive conduct and corruption allegations against officials and judges."
+      ],
+      "procedural_posture": "Attorney General's application for a civil proceedings order against a habitual litigant, authorised by the Solicitor General.",
+      "outcome": "Civil proceedings order granted in the terms sought, including prohibition on acting as litigation friend or McKenzie friend without High Court leave.",
+      "ratio": "Where a litigant persistently initiates hopeless proceedings, appeals adverse decisions repeatedly, abuses other parties and the judiciary, and commences collateral actions after exhausting remedies, the criteria for a civil proceedings order are amply satisfied; the court may also restrict assistance to third parties in civil proceedings given conduct as a litigation friend.",
+      "legal_issues": [
+        "Whether Mr Chitolie met the criteria for a civil proceedings order as a vexatious litigant",
+        "Appropriateness of extending restraint to litigation friend and McKenzie friend roles",
+        "Whether repeated patent appeals evidenced continuing vexatious behaviour"
+      ],
+      "catchwords": [
+        "civil proceedings order",
+        "vexatious litigant",
+        "Grepe v Loam",
+        "litigation friend",
+        "McKenzie friend",
+        "collateral challenge"
+      ],
+      "index_terms": [
+        "Attorney General v Barker",
+        "NatWest mortgage",
+        "Maylandsea",
+        "Burnham on Crouch",
+        "Treasury Solicitor",
+        "civil restraint order",
+        "patent appeal"
+      ],
+      "linked_authorities": [
+        "Attorney General v Barker [2000] 1 FLR 759",
+        "Grepe v Loam"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Order and vexatious conduct findings are clear though the chronology of many actions is summarised. Judges metadata corrupted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1831.json",
+    "status": "needs_review",
+    "notes": "School exclusion judicial review reasoning appears complete but the source text is truncated: no judge attribution, no formal order, and the summary field cuts off mid-sentence.",
+    "enrichment": {
+      "short_title": "Permanent school exclusion for cannabis use on school field",
+      "area_of_law": [
+        "Education law",
+        "Administrative law",
+        "Judicial review",
+        "School discipline"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 76"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Pupil M was permanently excluded from CH School for smoking drugs believed to be cannabis on the school field on 3 and 4 July 2003.",
+        "Witness statements and a cigarette box containing a spliff supported the school's case; M's second confession admitting use was disputed as coerced by Mr Zweistra.",
+        "The Governing Body and Independent Appeal Panel upheld exclusion after rejecting duress and preferring witness evidence implicating M.",
+        "M sought judicial review on duress, absence of Mr Zweistra, non-disclosure of prior witness statements, and standard of proof."
+      ],
+      "procedural_posture": "Judicial review of an Independent Appeal Panel decision upholding permanent exclusion from school for drugs offences.",
+      "outcome": "Relief refused on all grounds; the Panel lawfully rejected the duress allegation, need not apply the criminal standard from PACE section 76, and ample evidence supported being sure M possessed and smoked cannabis.",
+      "ratio": "School exclusion panels are not bound by PACE section 76; where a pupil's coercion claim is disbelieved, absence of the alleged coercer does not render the process unfair; prior inconsistent pupil statements need not be disclosed where the panel knew witnesses had initially lied and preferred their later admissions against interest; the heightened Dunraven standard is close to being sure and any error would not affect the outcome on the evidence.",
+      "legal_issues": [
+        "Whether the IAP unreasonably rejected M's duress account regarding his confession",
+        "Whether Mr Zweistra's non-attendance caused procedural unfairness",
+        "Duty to disclose pupils' earlier inconsistent statements to an IAP",
+        "Correct standard of proof for exclusion where conduct amounts to a criminal offence"
+      ],
+      "catchwords": [
+        "school exclusion",
+        "Independent Appeal Panel",
+        "cannabis",
+        "duress",
+        "confession",
+        "standard of proof",
+        "judicial review"
+      ],
+      "index_terms": [
+        "CH School",
+        "DfES guidance",
+        "Dunraven",
+        "R (S) v YP School",
+        "Wednesbury",
+        "permanent exclusion",
+        "witness statements"
+      ],
+      "linked_authorities": [
+        "R v The Headteacher and Independent Appeal Panel of Dunraven School ex parte B [2000] ELR 156",
+        "R (S) v The Governing Body of YP School [2003] EWCA Civ 1306"
+      ],
+      "confidence": {
+        "score": 0.78,
+        "level": "medium",
+        "notes": "Substantive reasoning on four grounds is present but source text lacks judge name and order; summary field is truncated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1019.json",
+    "status": "needs_review",
+    "notes": "Interim ancillary judgment correcting Brooke LJ's earlier judgment and drawing up orders after Perotti's late submissions; not a merits decision on the underlying dispute.",
+    "enrichment": {
+      "short_title": "Perotti v Collyer-Bristow: ancillary corrections and order sealing",
+      "area_of_law": [
+        "Civil procedure",
+        "Human rights",
+        "Costs and case management"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "On 21 May 2004 the Court of Appeal handed down judgment in Perotti v Collyer-Bristow but delayed drawing up the order to allow Mr Perotti submissions on proposed directions.",
+        "Mr Perotti received the draft judgment late and filed extensive written submissions; he did not use allotted oral time on this appeal.",
+        "The court approved minor textual corrections to Brooke LJ's judgment in [2004] EWCA Civ 639 and rejected renewed merits arguments.",
+        "After determining Perotti's related permission application against Iliffe Booth Bennett, the stay on sale of his property was lifted and the May order sealed."
+      ],
+      "procedural_posture": "Ancillary judgment following hand-down of the principal Court of Appeal judgment, dealing with typographical corrections and implementation of case-management orders.",
+      "outcome": "Specified corrections made to the approved judgment; May 2004 order drawn up and sealed including directions from paragraphs 60-63 of the earlier judgment; stay on property sale discontinued.",
+      "ratio": "Courts may make minor corrections to approved judgments but not reconsider merits on renewed submissions; a litigant has no absolute right to an oral hearing in the Court of Appeal where process can be protected from abuse provided the essence of Article 6 access is preserved.",
+      "legal_issues": [
+        "Whether Perotti's submissions warranted further merits reconsideration",
+        "Scope of permissible post-hand-down corrections under the Practice Statement",
+        "Whether Article 6 required an oral hearing before sealing case-management orders",
+        "Lifting of stay on sale of Perotti's property"
+      ],
+      "catchwords": [
+        "ancillary judgment",
+        "litigation abuse",
+        "Article 6",
+        "oral hearing",
+        "correction of judgment",
+        "stay lifted",
+        "McKenzie litigant"
+      ],
+      "index_terms": [
+        "Brooke LJ",
+        "Collyer-Bristow",
+        "Iliffe Booth Bennett",
+        "Practice Statement (Supreme Court) 1998",
+        "Bhamjee v Forsdick",
+        "Attorney-General v Ebert",
+        "property sale"
+      ],
+      "linked_authorities": [
+        "Perotti v Collyer-Bristow [2004] EWCA Civ 639",
+        "Bhamjee v Forsdick (No 2) [2003] EWCA Civ 1113",
+        "Attorney-General v Ebert [2001] EWHC Admin 695",
+        "Practice Statement (Supreme Court) [1998] 1 WLR 825"
+      ],
+      "confidence": {
+        "score": 0.82,
+        "level": "high",
+        "notes": "Procedural disposition is clear but this is an interim ancillary ruling dependent on the main judgment for full context."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/969.json",
+    "status": "needs_review",
+    "notes": "Leasehold enfranchisement appeal is complete, but judges metadata lists Lord Falconer and Lord Nicholls instead of Laddie and Parker LJJ.",
+    "enrichment": {
+      "short_title": "Company headlessee enfranchisement and section 1(1ZB) construction",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Leasehold enfranchisement",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Leasehold Reform Act 1967",
+          "provisions": [
+            "section 1",
+            "section 1(1ZB)",
+            "section 1(1B)",
+            "section 37(5)",
+            "Schedule 3 paragraph 7"
+          ]
+        },
+        {
+          "title": "Leasehold Reform, Housing and Urban Development Act 1993",
+          "provisions": [
+            "section 39(4)",
+            "section 101(3)"
+          ]
+        },
+        {
+          "title": "Commonhold and Leasehold Reform Act 2002",
+          "provisions": [
+            "section 138(2)"
+          ]
+        },
+        {
+          "title": "Landlord and Tenant Act 1954",
+          "provisions": [
+            "Part 2",
+            "section 23(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Search Guarantees Plc, headlessee of 51-52 Hans Place with sub-let flats, sought to enfranchise the freehold from Earl Cadogan and Cadogan Estates.",
+        "The landlord argued section 1(1ZB) barred enfranchisement because the headlessee was also qualifying tenant of each flat and, as a company, could not satisfy the residency requirement.",
+        "The judge declared the appellant not entitled to enfranchise; the appellant contended section 1(1ZB) applies only where the flat tenant and house tenant are different persons.",
+        "On appeal the landlord sought to raise a new section 1(1B) 1954 Act business tenancy objection for the first time."
+      ],
+      "procedural_posture": "Appeal with permission from HHJ Levy QC's declaration that a company headlessee could not enfranchise under the Leasehold Reform Act 1967.",
+      "outcome": "Appeal allowed; section 1(1ZB) does not apply where the tenant of the house and qualifying tenant of the flats are the same person; new section 1(1B) objection refused on appeal.",
+      "ratio": "Section 1(1ZB) of the 1967 Act resolves conflicts between different tenants in a chain by requiring residency only when a flat forming part of the house is let to a qualifying tenant who is not the tenant of the house; where the headlessee is both house tenant and qualifying tenant of all flats, the residency bar does not apply and a company may enfranchise; a landlord may not raise a new section 1(1B) ground for the first time on appeal without prejudice to the tenant.",
+      "legal_issues": [
+        "Construction of section 1(1ZB) where headlessee is qualifying tenant of sub-let flats",
+        "Whether 2002 Act amendments allowing company enfranchisement exclude the appellant",
+        "Use of ministerial statements and 2002 Regulations as aids to construction",
+        "Whether section 1(1B) and the 1954 Act could be raised for the first time on appeal"
+      ],
+      "catchwords": [
+        "leasehold enfranchisement",
+        "section 1(1ZB)",
+        "headlessee",
+        "qualifying tenant",
+        "company tenant",
+        "residence requirement",
+        "Notice in Reply"
+      ],
+      "index_terms": [
+        "Hans Place",
+        "Cadogan Estates",
+        "Crean Davidson Investments",
+        "Commonhold and Leasehold Reform Act 2002",
+        "Pittalis v Grant",
+        "Bagettes Ltd v GP Estates",
+        "Hanlon v The Law Society"
+      ],
+      "linked_authorities": [
+        "Crean Davidson Investments Ltd v Earl Cadogan [1998] 2 EGLR 96",
+        "Hanlon v The Law Society [1981] AC 124",
+        "Pittalis v Grant [1989] 1 QB 605",
+        "Bagettes Ltd v GP Estates [1956] Ch 290",
+        "Graysim Holdings Ltd v P & O Property Holdings Ltd [1996] AC 329"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Statutory construction and outcome are clearly reasoned. Source judges metadata is corrupted."
+      }
+    }
+  }
+]

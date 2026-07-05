@@ -1,0 +1,815 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/51.json",
+    "status": "needs_review",
+    "notes": "Source judges field lists Lord Phillips MR but judgment is by Mr Justice Newman; enrichment drawn from full_text.",
+    "enrichment": {
+      "short_title": "MHRT refusal of conditional discharge for restricted patient with schizophrenia",
+      "area_of_law": [
+        "Administrative law",
+        "Mental health law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "act": "Mental Health Act 1983",
+          "provisions": [
+            "s 37",
+            "s 41",
+            "s 72",
+            "s 73"
+          ]
+        },
+        {
+          "act": "Mental Health Review Tribunal Rules 1983",
+          "provisions": [
+            "r 23(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Restricted patient with paranoid schizophrenia sought conditional discharge from hospital detention under ss 37 and 41 MHA 1983.",
+        "Mental Health Review Tribunal refused conditional discharge, preferring RMO evidence on re-offending risk over independent consultant Dr Lomax.",
+        "Tribunal reasons referred to the patient's attitude to women 'divorced from any illness' alongside mental health considerations.",
+        "Claimant argued the Tribunal relied on an irrelevant non-mental-health factor and gave inadequate reasons under ss 72–73.",
+        "Tribunal president later gave witness evidence attempting to clarify the reasoning, which differed from the written decision."
+      ],
+      "procedural_posture": "Judicial review of a Mental Health Review Tribunal decision refusing conditional discharge; relief on the application was left over and resolved at a subsequent hearing.",
+      "outcome": "Judicial review granted; May 2003 tribunal decision quashed and the November 2002 application remitted to a differently constituted tribunal; permission to appeal refused; claimant awarded costs.",
+      "ratio": "Where a tribunal refuses conditional discharge of a restricted patient, its written reasons must clearly explain how risk criteria under ss 72–73 are satisfied; vague reference to attitudes unrelated to mental disorder without explaining relevance to relapse or re-offending risk renders the decision unlawful for inadequate reasons.",
+      "legal_issues": [
+        "Whether MHRT reasons adequately addressed the statutory discharge criteria in ss 72 and 73 MHA 1983",
+        "Whether reliance on the patient's attitude to women was an irrelevant consideration for continued detention",
+        "Whether post-decision evidence from the tribunal president could cure inadequate reasons",
+        "What relief should follow unlawful refusal of conditional discharge"
+      ],
+      "catchwords": [
+        "Mental Health Review Tribunal",
+        "conditional discharge",
+        "restricted patient",
+        "inadequate reasons",
+        "judicial review",
+        "schizophrenia",
+        "risk of re-offending"
+      ],
+      "index_terms": [
+        "MHA 1983",
+        "MHRT",
+        "section 72",
+        "section 73",
+        "restricted patient",
+        "conditional discharge",
+        "judicial review",
+        "reasons challenge",
+        "mental disorder",
+        "Ashworth"
+      ],
+      "linked_authorities": [
+        {
+          "cite": "R (H) v MHRT North & East London Region [2001] 3 WLR 512",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Full judgment on BAILII; source judges metadata appears incorrect."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/37.json",
+    "status": "needs_review",
+    "notes": "Transcript covers costs only after the main appeal judgment; substantive navigation issues not reproduced. 1885 Act title not stated in costs-only transcript.",
+    "enrichment": {
+      "short_title": "Costs of appeal in Rowland v Environment Agency navigation dispute",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Environmental law"
+      ],
+      "statutes_considered": [
+        {
+          "act": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 44.3"
+          ]
+        },
+        {
+          "act": "1885 Act",
+          "provisions": [
+            "s 2",
+            "s 5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Following a civil appeal concerning public navigation rights over Headsor Water, the Court of Appeal heard argument on costs only.",
+        "Appellant sought a reduced costs order, arguing the Environment Agency unreasonably contested factual issues and forced the appeal.",
+        "Respondent had succeeded on the substantive appeal and at trial before Lightman J.",
+        "Court considered whether conduct or issue-based success justified departing from the general costs rule."
+      ],
+      "procedural_posture": "Court of Appeal costs argument after determination of the principal appeal (substantive judgment not included in this transcript).",
+      "outcome": "Costs of the appeal awarded to the respondent; trial judge's costs order in favour of the respondent left undisturbed.",
+      "ratio": "Under CPR 44.3 the general rule that the unsuccessful party pays costs applies unless conduct or discrete issue success justifies departure; in a fiercely contested multi-issue case where the respondent succeeded substantively, no deduction for partial factual losses or alleged unreasonable conduct was warranted.",
+      "legal_issues": [
+        "Whether the court should depart from the general rule on costs under CPR 44.3",
+        "Whether the respondent's conduct or partial issue losses justified reducing the appellant's costs liability",
+        "Whether the respondent's position on a February 2001 letter made the appeal necessary"
+      ],
+      "catchwords": [
+        "costs",
+        "CPR 44.3",
+        "appeal costs",
+        "navigation rights",
+        "Environment Agency",
+        "conduct of litigation"
+      ],
+      "index_terms": [
+        "Rowland v Environment Agency",
+        "costs order",
+        "CPR 44.3",
+        "Headsor Water",
+        "navigation",
+        "Lightman J",
+        "issue-based costs"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.72,
+        "level": "medium",
+        "notes": "Costs fragment only; 1885 Act identity inferred from judgment references."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/12.json",
+    "status": "needs_review",
+    "notes": "Long advisory judgment on multiple Commons Registration Act issues; source judges field mixes deciding and cited judges.",
+    "enrichment": {
+      "short_title": "Guidance on registering Trap Grounds as a town or village green",
+      "area_of_law": [
+        "Property law",
+        "Commons and village greens",
+        "Local government law"
+      ],
+      "statutes_considered": [
+        {
+          "act": "Commons Registration Act 1965",
+          "provisions": [
+            "s 1",
+            "s 2",
+            "s 3",
+            "s 4",
+            "s 8",
+            "s 10",
+            "s 12",
+            "s 13",
+            "s 15",
+            "s 22",
+            "s 31"
+          ]
+        },
+        {
+          "act": "Commons Registration (New Land) Regulations 1969",
+          "provisions": [
+            "reg 3",
+            "reg 4",
+            "reg 5"
+          ]
+        },
+        {
+          "act": "Inclosure Act 1857",
+          "provisions": [
+            "s 12"
+          ]
+        },
+        {
+          "act": "Commons Act 1876",
+          "provisions": [
+            "s 29"
+          ]
+        },
+        {
+          "act": "Law of Property Act 1925",
+          "provisions": [
+            "s 193"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Oxfordshire County Council, as commons registration authority, sought High Court guidance on registering the Trap Grounds in North Oxford.",
+        "Miss Robinson applied to register the land as a town green; Oxford City Council, the owner since 1975, objected because it wished to develop housing.",
+        "A non-statutory public inquiry by Vivian Chapman recommended partial registration, but the authority received conflicting legal advice.",
+        "The case raised multiple construction questions under the Commons Registration Act 1965 and 1969 Regulations of general importance to registration authorities."
+      ],
+      "procedural_posture": "Part 8 claim for declaratory guidance on statutory questions arising from a pending town/village green registration application.",
+      "outcome": "Court provided detailed guidance answering the legal questions on registration of class c greens, the effect of registration, qualifying user periods, amended definitions, Form 30 amendments, and interaction with public rights of way.",
+      "ratio": "Registration of a class c town or village green under the Commons Registration Act 1965 conclusively establishes the land as a green with the same recreational incidents as class a and b greens unless statute clearly provides otherwise; qualifying 20-year user must continue until the registration application and must be assessed by how a reasonable landowner would view the use, including where public footpaths coexist.",
+      "legal_issues": [
+        "Legal effect of registration and non-registration of town and village greens",
+        "Application of Victorian inclosure legislation to registered greens",
+        "Which 20-year period qualifies under the unamended and amended section 22",
+        "Whether amended statutory definitions affect pending applications",
+        "Amendment of Form 30 applications and conclusiveness of dates stated in Part 4",
+        "Registrability where only part of the claimed land is accessible",
+        "How existing or potential public rights of way affect green claims"
+      ],
+      "catchwords": [
+        "town green",
+        "village green",
+        "Commons Registration Act 1965",
+        "Trap Grounds",
+        "prescription",
+        "20-year user",
+        "registration authority",
+        "public right of way"
+      ],
+      "index_terms": [
+        "class c green",
+        "Commons Registration Act",
+        "Form 30",
+        "Oxfordshire",
+        "Oxford City Council",
+        "qualifying user",
+        "Sunningwell",
+        "registration conclusiveness",
+        "Inclosure Act 1857"
+      ],
+      "linked_authorities": [
+        {
+          "cite": "Sunningwell PC v Hampshire County Council [2000] 1 AC 335",
+          "role": "applied"
+        },
+        {
+          "cite": "R v Oxfordshire County Council, ex parte Catherine Mary Catherine Steed (1996) 75 P & CR 102",
+          "role": "considered"
+        },
+        {
+          "cite": "In re West Anstey Common [1985] 1 Ch 329",
+          "role": "cited"
+        },
+        {
+          "cite": "R (Laing Homes Ltd) v Buckinghamshire County Council [2003] EWHC 1578 (Admin)",
+          "role": "considered"
+        },
+        {
+          "cite": "Fitch v Rawling (1795) 2 Hy Bl 393",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.78,
+        "level": "medium",
+        "notes": "Very long advisory judgment; individual answers on each numbered issue should be spot-checked against the full text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/101.json",
+    "status": "needs_review",
+    "notes": "Source judges field incorrectly lists historic Divisional Court judges; judgment is by Lord Justice May and Mr Justice Nelson.",
+    "enrichment": {
+      "short_title": "Drunk supervisor of learner driver held in charge under RTA 1988",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "act": "Road Traffic Act 1988",
+          "provisions": [
+            "s 5(1)(b)",
+            "s 5(2)"
+          ]
+        },
+        {
+          "act": "Motor Vehicles (Driving Licences) Regulations 1999",
+          "provisions": [
+            "reg 17"
+          ]
+        },
+        {
+          "act": "Criminal Justice Act 1967",
+          "provisions": [
+            "s 9"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Darren Janman supervised his partner, a provisional licence holder, while over the breath alcohol limit.",
+        "Police stopped the car, obtained a positive roadside breath test (78 micrograms) and prosecuted him for being in charge contrary to s 5(1)(b) RTA 1988.",
+        "Magistrates acquitted on the basis the prosecution had not proved he was a qualified supervisor and accepted his s 5(2) defence that his partner was a competent driver.",
+        "DPP appealed by case stated; Janman did not attend the magistrates' trial."
+      ],
+      "procedural_posture": "Appeal by way of case stated from magistrates to the Divisional Court (Administrative Court) at the instance of the Director of Public Prosecutions.",
+      "outcome": "Appeal allowed; magistrates directed to convict and the matter remitted with a direction to convict.",
+      "ratio": "A person factually supervising a provisional driver is in charge of the vehicle for s 5(1)(b) regardless of whether they meet regulatory qualification requirements; the s 5(2) defence that there was no likelihood of driving will rarely succeed for a statutory supervisor because the very purpose of supervision is potential immediate control of the vehicle.",
+      "legal_issues": [
+        "Must the prosecution prove the supervisor holds a full licence satisfying Regulation 17 before s 5(1)(b) applies",
+        "Is a person supervising a learner driver necessarily in charge of the motor vehicle",
+        "Can a supervisor rely on s 5(2) by showing the learner was so competent that takeover was unlikely",
+        "Whether the defendant had raised the evidential burden for the s 5(2) defence"
+      ],
+      "catchwords": [
+        "drink driving",
+        "in charge",
+        "learner driver",
+        "supervisor",
+        "section 5 RTA 1988",
+        "case stated",
+        "Sheldon v Jones"
+      ],
+      "index_terms": [
+        "Road Traffic Act 1988",
+        "section 5",
+        "learner driver supervisor",
+        "breath test",
+        "Sheldrake v DPP",
+        "Langman v Valentine",
+        "Williamson v Crow",
+        "provisional licence"
+      ],
+      "linked_authorities": [
+        {
+          "cite": "Sheldon v Jones (1969) 113 SJ 942",
+          "role": "considered"
+        },
+        {
+          "cite": "Langman v Valentine [1952] 2 All ER 803",
+          "role": "applied"
+        },
+        {
+          "cite": "Williamson v Crow 1995 SLT 959",
+          "role": "cited"
+        },
+        {
+          "cite": "Sheldrake v DPP [2004] UKHL 43",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Clear case stated decision; source judges metadata is unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/13.json",
+    "status": "done",
+    "notes": "Short Brooke LJ judgment striking out meritless Nepalese asylum permission applications.",
+    "enrichment": {
+      "short_title": "Nepalese asylum seekers' permission applications struck out as abusive",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Civil procedure",
+        "Appellate practice"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Five Nepalese asylum seekers sought permission to appeal against refusal of judicial review of Immigration Appeal Tribunal decisions.",
+        "Their applications mirrored nine earlier cases dismissed by Brooke LJ on 19 December 2003 as an abuse of process.",
+        "None attended the hearing; correspondence sought adjournment or document-only determination without adequate grounds.",
+        "Grounds of appeal were unspecific and failed to comply with the relevant Practice Direction."
+      ],
+      "procedural_posture": "Applications for permission to appeal to the Court of Appeal following refusal of judicial review in the Administrative Court.",
+      "outcome": "Permission to appeal refused in four cases as totally devoid of merit; one case (2612) adjourned to the first open day on or after 19 February 2004; no order for costs.",
+      "ratio": "Where asylum appellants did not attend Administrative Court hearings, then pursued permission appeals with wholly inadequate grounds identical to previously dismissed abusive applications, the Court of Appeal may refuse permission as a further abuse of process.",
+      "legal_issues": [
+        "Whether the applications were an abuse of the Court of Appeal process",
+        "Whether permission to appeal should be granted despite non-attendance and inadequate grounds",
+        "Whether adjournment was warranted for medical/family reasons"
+      ],
+      "catchwords": [
+        "asylum",
+        "permission to appeal",
+        "abuse of process",
+        "Immigration Appeal Tribunal",
+        "Nepalese",
+        "Practice Direction"
+      ],
+      "index_terms": [
+        "immigration judicial review",
+        "IAT",
+        "permission appeal",
+        "Brooke LJ",
+        "strike out",
+        "asylum seeker"
+      ],
+      "linked_authorities": [
+        {
+          "cite": "R (Five Nepalese Asylum Seekers) v IAT [2003] EWCA Civ 1892",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Short, self-contained procedural judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/56.json",
+    "status": "needs_review",
+    "notes": "Complex HRA/MHA compatibility challenge; deciding judge not identified in text and source judges metadata lists House of Lords judges from cited cases.",
+    "enrichment": {
+      "short_title": "Down's syndrome patient challenges MHA 1983 compatibility with Article 5 ECHR",
+      "area_of_law": [
+        "Mental health law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "act": "Mental Health Act 1983",
+          "provisions": [
+            "s 2",
+            "s 3",
+            "s 7",
+            "s 8",
+            "s 19",
+            "s 23",
+            "s 25",
+            "s 29",
+            "s 66",
+            "s 67",
+            "s 68",
+            "s 72"
+          ]
+        },
+        {
+          "act": "Human Rights Act 1998",
+          "provisions": [
+            "s 3",
+            "s 4",
+            "s 6"
+          ]
+        },
+        {
+          "act": "European Convention on Human Rights",
+          "provisions": [
+            "Art 5(1)",
+            "Art 5(3)",
+            "Art 5(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "MH, a 32-year-old woman with Down's syndrome, was admitted under s 2 MHA 1983 after a s 135 warrant; her mother sought discharge but an RMO issued a s 25 barring order.",
+        "Local authority applied under s 29 to displace the mother as nearest relative to pursue guardianship, automatically extending detention pending county court determination.",
+        "Claimant lacked capacity to apply to the Mental Health Review Tribunal within the 14-day period in s 66; Secretary of State referred the case under s 67 and the tribunal refused discharge.",
+        "By hearing, claimant was in guardianship and pursued largely academic declarations of incompatibility and challenge to the tribunal decision."
+      ],
+      "procedural_posture": "Judicial review and Human Rights Act declaration proceedings concerning detention, tribunal access, and s 29(4) extension of s 2 detention.",
+      "outcome": "All claims for declarations of incompatibility and the challenge to the March 2003 tribunal decision were dismissed.",
+      "ratio": "Article 5(4) requires a right to take proceedings to challenge detention, not automatic periodic review; for short s 2 detention automatic release at 28 days provides adequate safeguard, and pending s 29 proceedings must be determined expeditiously by the county court under HRA duties rather than rendering primary legislation incompatible.",
+      "legal_issues": [
+        "Whether s 66(1) MHA 1983 is incompatible with Article 5(4) by placing the onus on the patient to apply to the tribunal",
+        "Whether incapacitated patients require automatic tribunal reference",
+        "Whether s 29(4) creates indefinite detention incompatible with Articles 5(1) and 5(4) during nearest-relative displacement proceedings",
+        "Whether the tribunal erred by not applying s 25 dangerousness criteria when refusing discharge"
+      ],
+      "catchwords": [
+        "Article 5 ECHR",
+        "Mental Health Act 1983",
+        "section 66",
+        "section 29",
+        "guardianship",
+        "MHRT",
+        "declaration of incompatibility",
+        "Down's syndrome"
+      ],
+      "index_terms": [
+        "MHA 1983",
+        "Human Rights Act 1998",
+        "Article 5",
+        "section 2 detention",
+        "nearest relative",
+        "barring order",
+        "Winterwerp",
+        "Megyeri v Germany",
+        "Huzzey"
+      ],
+      "linked_authorities": [
+        {
+          "cite": "X v United Kingdom (1981) 4 EHRR 188",
+          "role": "applied"
+        },
+        {
+          "cite": "Megyeri v Germany (1992) 15 EHRR 584",
+          "role": "applied"
+        },
+        {
+          "cite": "Winterwerp v Netherlands (1979) 2 EHRR 387",
+          "role": "applied"
+        },
+        {
+          "cite": "Johnson v United Kingdom (1997) 27 EHRR 296",
+          "role": "applied"
+        },
+        {
+          "cite": "Reid v Secretary of State for Scotland [1999] 2 AC 512",
+          "role": "applied"
+        },
+        {
+          "cite": "R (H) v Secretary of State for the Home Department [2003] QB 320",
+          "role": "applied"
+        },
+        {
+          "cite": "R v Riverside Mental Health NHS Trust, ex parte Huzzey (1998) 43 BMLR 167",
+          "role": "distinguished"
+        },
+        {
+          "cite": "R (S) v Plymouth County Council [2002] 1 WLR 2582",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.82,
+        "level": "high",
+        "notes": "Long judgment with multiple issues; deciding judge not stated in captured text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/50.json",
+    "status": "done",
+    "notes": "CCRC second appeal; fresh medical evidence led to quashing of rape conviction.",
+    "enrichment": {
+      "short_title": "CCRC referral quashes unsafe rape conviction based on neighbour's overheard evidence",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "act": "Criminal Appeal Act 1968",
+          "provisions": [
+            "s 23(2)(d)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Appellant convicted in 1996 of raping a five-year-old boy while child-minding; neighbour Deborah McKechnie overheard distress from next door.",
+        "Medical evidence at trial was divided; Dr San Lazaro supported prosecution but was later discredited in Lillie v Newcastle City Council.",
+        "CCRC obtained reports from Dr Fenwick, Dr Clarke and Professor Keighley questioning McKechnie's reliability and the cause of anal injury.",
+        "Appellant had served his seven-year sentence before the 2004 appeal."
+      ],
+      "procedural_posture": "Second appeal to the Court of Appeal (Criminal Division) following CCRC reference under the Criminal Appeal Act 1968.",
+      "outcome": "Appeal allowed and conviction quashed as unsafe; re-trial not ordered because sentence had been served.",
+      "ratio": "Fresh expert medical evidence showing anal findings consistent with chronic/idopathic fissure rather than recent penetrative trauma, together with discrediting of a key prosecution expert, can render a conviction unsafe even where neighbour evidence and injury timing remain troubling.",
+      "legal_issues": [
+        "Admissibility of fresh expert evidence on sleep-related witness reliability",
+        "Admissibility of fresh medical evidence on causation of anal injury",
+        "Impact of Lillie v Newcastle City Council on Dr San Lazaro's credibility",
+        "Whether conviction for rape rather than indecent assault was supported",
+        "Whether overheard evidence and injury could stand without reliable medical corroboration"
+      ],
+      "catchwords": [
+        "unsafe conviction",
+        "CCRC",
+        "rape",
+        "child abuse",
+        "expert evidence",
+        "anal fissure",
+        "fresh evidence",
+        "second appeal"
+      ],
+      "index_terms": [
+        "Criminal Cases Review Commission",
+        "Criminal Appeal Act 1968",
+        "section 23",
+        "Dr San Lazaro",
+        "Lillie v Newcastle",
+        "expert medical evidence",
+        "Deborah McKechnie"
+      ],
+      "linked_authorities": [
+        {
+          "cite": "R v Steven Jones [1997] 1 Cr App R 86",
+          "role": "applied"
+        },
+        {
+          "cite": "Lillie v Newcastle City Council [2002] EWHC 1600 (QB)",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed judgment with clear outcome and reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/100.json",
+    "status": "done",
+    "notes": "Case stated appeal on random stop leading to drink-driving breath test.",
+    "enrichment": {
+      "short_title": "Random s 163 RTA stop leading to drink-driving conviction upheld",
+      "area_of_law": [
+        "Road traffic law",
+        "Police powers",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "act": "Road Traffic Act 1988",
+          "provisions": [
+            "s 5(1)(a)",
+            "s 6",
+            "s 163"
+          ]
+        },
+        {
+          "act": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Colin Beckett convicted by magistrates of driving with excess alcohol (58 micrograms) after a late-night stop in Milton Keynes.",
+        "Uniformed officers stopped his Ford Escort for a random documentation check under s 163 RTA 1988 and smelled alcohol before requiring a breath test.",
+        "Crown Court appeal failed; Beckett argued the stop was a pretext to circumvent random breath-test prohibitions.",
+        "High Court case stated appeal followed Brooke LJ ordering the Crown Court to state a case."
+      ],
+      "procedural_posture": "Appeal by way of case stated from the Crown Court to the Divisional Court after unsuccessful appeal against magistrates' conviction.",
+      "outcome": "Appeal dismissed; random lawful stop under s 163 followed by genuine suspicion of alcohol justified the breath test and conviction.",
+      "ratio": "Provided police act in good faith without caprice or improper motive, random stopping under s 163 RTA 1988 is lawful and evidence of a subsequent breath test is admissible where reasonable suspicion of alcohol arises at the stop; random breath testing remains prohibited but is distinct from random stops.",
+      "legal_issues": [
+        "Whether random stopping under s 163 RTA 1988 is lawful",
+        "Whether officers acted in bad faith or as a pretext for breath testing",
+        "Admissibility of breath test evidence following the stop",
+        "Whether Article 5 ECHR would assist the appellant"
+      ],
+      "catchwords": [
+        "drink driving",
+        "section 163",
+        "random stop",
+        "breath test",
+        "police powers",
+        "case stated",
+        "Dash"
+      ],
+      "index_terms": [
+        "Road Traffic Act 1988",
+        "Chief Constable of Gwent v Dash",
+        "Beard v Wood",
+        "Steel v Goacher",
+        "random stop",
+        "excess alcohol",
+        "Thames Valley Police"
+      ],
+      "linked_authorities": [
+        {
+          "cite": "Chief Constable of Gwent v Dash [1986] RTR 41",
+          "role": "applied"
+        },
+        {
+          "cite": "Beard v Wood [1980] RTR 454",
+          "role": "applied"
+        },
+        {
+          "cite": "Steel v Goacher [1985] RTR 98",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Straightforward case stated with clear authority chain."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/63.json",
+    "status": "needs_review",
+    "notes": "Source judges field lists cited Law Lords; Court of Appeal panel was Buxton, Wall LJJ and Harrison J.",
+    "enrichment": {
+      "short_title": "Kangol may terminate trademark licence forthwith for unpaid minimum royalty",
+      "area_of_law": [
+        "Intellectual property",
+        "Contract law",
+        "Commercial law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Kangol licensed its trademark to Hay & Robertson PLC from January 2001 with 7.5% running royalty and £130,000 minimum guaranteed royalty payable quarterly.",
+        "Licensee failed to pay the Q1 2003 minimum royalty by the due date; Kangol gave immediate termination notice on 1 May 2003 under clause 9.2.",
+        "Minimum royalty was paid 14 days late on 14 May 2003; licensee sought declaration that termination was invalid.",
+        "First instance judge treated termination as provisional and effective only if payment remained outstanding; Kangol appealed."
+      ],
+      "procedural_posture": "Appeal against refusal of Part 8 declaration on construction of trademark licence termination clauses.",
+      "outcome": "Appeal allowed; termination notice of 1 May 2003 held valid and effective; declaration granted as sought.",
+      "ratio": "Under clause 9.2 of a trademark licence, failure to pay minimum royalty on the due date entitles the licensor to terminate forthwith; the saving provision protects only a licensee who has already paid the minimum royalty (including via running royalty offset) by the due date, not late payment after notice.",
+      "legal_issues": [
+        "Construction of 'forthwith' termination in clause 9.2",
+        "Whether termination for non-payment of minimum royalty is provisional or final",
+        "Relationship between clauses 9.1 and 9.2",
+        "Whether relief against forfeiture applies to trademark licences"
+      ],
+      "catchwords": [
+        "trademark licence",
+        "minimum royalty",
+        "termination",
+        "commercial contract",
+        "forfeiture",
+        "Kangol",
+        "contract construction"
+      ],
+      "index_terms": [
+        "trade mark",
+        "licence agreement",
+        "minimum guaranteed royalty",
+        "clause 9.2",
+        "Investors Compensation Scheme",
+        "Sport International v Inter-footwear",
+        "Part 8 declaration"
+      ],
+      "linked_authorities": [
+        {
+          "cite": "Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896",
+          "role": "applied"
+        },
+        {
+          "cite": "Sport International B.V. v Inter-footwear Ltd [1984] 1 WLR 776",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Clear construction appeal; source judges metadata incorrect."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/225.json",
+    "status": "done",
+    "notes": "Section 142 Magistrates' Courts Act re-hearing application; Sahota applied.",
+    "enrichment": {
+      "short_title": "Magistrates wrongly refused s 142 re-hearing after in-absence road traffic convictions",
+      "area_of_law": [
+        "Magistrates' courts",
+        "Road traffic law",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "act": "Magistrates' Court Act 1980",
+          "provisions": [
+            "s 142(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Appellant convicted in absence at Abertillery magistrates on 25 April 2001 of driving without insurance, licence and MOT; fined and disqualified on 16 May 2001.",
+        "He claimed never to have received summonses sent to a former partner's address in Risca.",
+        "He discovered the convictions only when arrested on a warrant in March 2002 and applied under s 142 MCA 1980 for re-hearing in July 2002.",
+        "Magistrates refused, citing delay and possible destruction of CPS papers; a differently constituted bench on the same day granted re-hearing for a related vehicle excise offence."
+      ],
+      "procedural_posture": "Appeal by way of case stated against refusal of application under s 142(2) Magistrates' Court Act 1980 to re-hear in-absence convictions.",
+      "outcome": "Appeal allowed; magistrates' refusal quashed; matter remitted for re-hearing before a differently constituted bench.",
+      "ratio": "Under s 142(2) magistrates must exercise their wide discretion judicially; refusing re-hearing solely by reference to delay from sentence rather than from the defendant's knowledge, without identifying concrete prejudice such as destroyed papers, is a fatally flawed exercise of discretion.",
+      "legal_issues": [
+        "Proper exercise of discretion under s 142(2) MCA 1980",
+        "Relevant period of delay where defendant unaware of in-absence conviction",
+        "Whether loss or risk of destruction of prosecution papers justified refusal",
+        "Whether inconsistent decisions on the same day affected lawfulness"
+      ],
+      "catchwords": [
+        "section 142",
+        "re-hearing",
+        "in absence conviction",
+        "magistrates",
+        "road traffic",
+        "delay",
+        "Sahota",
+        "fair trial"
+      ],
+      "index_terms": [
+        "Magistrates' Court Act 1980",
+        "section 142",
+        "R v Ealing Magistrates ex p Sahota",
+        "in absence",
+        "summons not served",
+        "CPS file destruction",
+        "disqualification"
+      ],
+      "linked_authorities": [
+        {
+          "cite": "R v Ealing Magistrates' Court, ex parte Sahota (1997) The Times, 9 December",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Clear Sahota-based discretion challenge with defined outcome."
+      }
+    }
+  }
+]

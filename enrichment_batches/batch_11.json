@@ -1,0 +1,761 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/177.json",
+    "status": "done",
+    "notes": "Batch 11 enrichment. Full judgment text; liability split and ratio clear.",
+    "enrichment": {
+      "short_title": "Speeding at green-lit junction and contributory negligence on moped turn",
+      "area_of_law": [
+        "Personal injury",
+        "Road traffic law",
+        "Negligence",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "An 18-year-old moped delivery rider attempted a right turn at a crossroads by passing outside the filter lane and collided with a Seat car travelling north at about 37–39 mph in a 30 mph limit.",
+        "The county court judge found the defendant had not been negligent despite exceeding the speed limit, relying on authorities that breach of the speed limit does not automatically establish civil liability.",
+        "The Court of Appeal held that driving above the speed limit when approaching a junction with vehicles waiting to turn, where compliance with the limit would probably have avoided the accident, was negligent.",
+        "The claimant was held 80% contributory negligent for cutting the corner and failing to keep a proper look-out."
+      ],
+      "procedural_posture": "Appeal from Central London County Court dismissing a traffic accident damages claim.",
+      "outcome": "Appeal allowed in part; defendant found 20% liable and claimant 80% contributorily negligent; case remitted on quantum.",
+      "ratio": "Exceeding a speed limit does not automatically establish negligence, but where a driver approaches a junction at unlawful speed when vehicles may turn across his path and the judge has found that compliance with the limit would probably have avoided the collision, failure to reduce speed is a breach of the duty of care; an appellate court may differ from a trial judge on inferences drawn from primary facts.",
+      "legal_issues": [
+        "Whether breach of a statutory speed limit establishes civil negligence",
+        "Application of Barna v Hudes and Monk v Warbey on road traffic Acts as imposing public duties only",
+        "Whether the defendant's speed was a cause of the accident at a green-lit junction",
+        "Apportionment of contributory negligence between moped rider and motorist"
+      ],
+      "catchwords": [
+        "road traffic accident",
+        "speed limit",
+        "negligence",
+        "contributory negligence",
+        "junction",
+        "moped",
+        "inference from primary facts"
+      ],
+      "index_terms": [
+        "personal injury",
+        "Highway Code",
+        "30 mph limit",
+        "filter lane",
+        "Barna v Hudes Merchandising",
+        "Monk v Warbey",
+        "liability apportionment"
+      ],
+      "linked_authorities": [
+        "Barna v Hudes Merchandising Corporation and Another",
+        "Monk v Warbey",
+        "Clarke and wife v Brims"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Outcome, liability split, and legal reasoning are explicit. No statutes central to the ratio."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/184.json",
+    "status": "done",
+    "notes": "Batch 11 enrichment. Full judgment text; costs reasoning and outcome clear.",
+    "enrichment": {
+      "short_title": "Defendant's costs order after successful Crown Court sentence appeal",
+      "area_of_law": [
+        "Criminal procedure",
+        "Costs",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government (Miscellaneous Provisions) Act 1982",
+          "provisions": [
+            "Schedule 1 paragraph 12(2)"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 79(3)"
+          ]
+        },
+        {
+          "title": "Prosecution of Offences Act 1985",
+          "provisions": [
+            "section 16"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 108"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Patrick Cunningham pleaded guilty to a public entertainments licence overcrowding offence and was fined £15,000 by magistrates.",
+        "On appeal to the Crown Court the fine was reduced to £12,000 but the court refused a defendant's costs order from central funds without giving reasons.",
+        "Richards J granted permission for judicial review on the basis that refusal without reasons was arguable and potentially Wednesbury unreasonable.",
+        "The Crown Court letter suggested the refusal was because the magistrates might have imposed a lower fine if R v Howe and Sons had been cited, but that point was never put to counsel and Howe may have been cited below."
+      ],
+      "procedural_posture": "Judicial review of a Crown Court refusal to make a defendant's costs order after a partially successful sentence appeal.",
+      "outcome": "Judicial review application allowed; Crown Court order quashed and the court directed to award the claimant his appeal costs from central funds; claimant awarded costs of the JR application.",
+      "ratio": "Following English v Emery Reimbold, courts must give reasons for costs decisions unless the reason is clearly implicit; on a successful Crown Court sentence appeal a defendant's costs order should normally be made unless there are positive reasons not to do so, and refusal without reasons or rational basis is wrong in principle.",
+      "legal_issues": [
+        "Exercise of discretion under section 16(3) Prosecution of Offences Act 1985",
+        "Whether reasons must be given for refusal of a defendant's costs order",
+        "Application of Practice Direction (Crime: Costs) and Practice Direction (Crime: Defence Costs)",
+        "Whether partial success on sentence appeal warrants central funds costs",
+        "Article 6 ECHR and adequacy of reasons on costs"
+      ],
+      "catchwords": [
+        "defendant's costs order",
+        "Crown Court appeal",
+        "sentence appeal",
+        "costs from central funds",
+        "reasons for decision",
+        "judicial review",
+        "Wednesbury unreasonableness"
+      ],
+      "index_terms": [
+        "Prosecution of Offences Act 1985",
+        "section 16",
+        "English v Emery Reimbold",
+        "Eagil Trust Co Ltd v Piggott-Brown",
+        "Fox v Central Criminal Court",
+        "R v Howe and Sons",
+        "public entertainments licence"
+      ],
+      "linked_authorities": [
+        "Eagil Trust Co Ltd v Piggott-Brown and Another",
+        "R v Birmingham Juvenile Court ex parte H",
+        "Fox v Central Criminal Court",
+        "English v Emery Reimbold & Strick Ltd",
+        "North Range Shipping Ltd v Seatrans Shipping Corporation",
+        "Antaios Cia Naveira SA v Salen Rederierna AB, The Antaios",
+        "R v Howe and Sons (Engineers) Ltd"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Outcome, statutory framework, and costs principles are clearly stated. Judge metadata in source file appears unreliable but was not corrected."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/176.json",
+    "status": "done",
+    "notes": "Batch 11 enrichment. Full judgment text; consideration and outcome clear.",
+    "enrichment": {
+      "short_title": "Enforceability of cohabitants' child maintenance agreement",
+      "area_of_law": [
+        "Family law",
+        "Contract law",
+        "Child support",
+        "Damages"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "Schedule 1 paragraph 1",
+            "Schedule 1 paragraph 10"
+          ]
+        },
+        {
+          "title": "Child Support Act 1991",
+          "provisions": [
+            "section 9"
+          ]
+        },
+        {
+          "title": "Child Support Act 1995",
+          "provisions": []
+        },
+        {
+          "title": "Matrimonial Causes Act 1973",
+          "provisions": [
+            "section 35"
+          ]
+        },
+        {
+          "title": "Law of Property (Miscellaneous Provisions) Act 1989",
+          "provisions": [
+            "section 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "After cohabitation and the birth of two children, the parents signed a May 1998 letter agreement under which the father would pay specified maintenance and the mother would transfer her interest in their jointly owned home to him.",
+        "The father reduced payments in January 2000 after remarriage and a third child; the Child Support Agency later assessed his liability at £706 per month.",
+        "The mother sued to enforce the agreement as a separation agreement; the county court held it lacked consideration because she had already moved out before signing.",
+        "The Court of Appeal treated the agreement as a child maintenance agreement compromising statutory rights and held there was ample consideration, including transfer of the mother's equitable interest despite negative equity."
+      ],
+      "procedural_posture": "Appeal from Preston County Court dismissing a claim to enforce a written cohabitation maintenance and property agreement.",
+      "outcome": "Appeal allowed; judgment entered for the claimant for damages to be assessed, with encouragement to mediate quantification.",
+      "ratio": "A written agreement between separated cohabiting parents settling maintenance and housing arrangements is a recognised child maintenance agreement supported by consideration comprising compromise of statutory rights under Schedule 1 of the Children Act 1989 and the Child Support Acts, and by the mother's agreement to transfer her equitable interest in property; negative equity does not mean the equitable interest is valueless or incapable of constituting consideration; parties in such circumstances intend to create legal relations.",
+      "legal_issues": [
+        "Whether the May 1998 letter agreement was supported by consideration",
+        "Whether the parties intended to create legal relations",
+        "Classification as separation agreement versus child maintenance agreement",
+        "Effect of negative equity on consideration for transfer of property",
+        "Interaction between contractual liability and Child Support Agency assessment"
+      ],
+      "catchwords": [
+        "child maintenance agreement",
+        "consideration",
+        "intention to create legal relations",
+        "cohabitation",
+        "Schedule 1 Children Act 1989",
+        "negative equity",
+        "separation agreement"
+      ],
+      "index_terms": [
+        "Children Act 1989",
+        "Child Support Act 1991",
+        "Merritt v Merritt",
+        "maintenance agreement",
+        "joint tenancy",
+        "equitable interest",
+        "damages assessment"
+      ],
+      "linked_authorities": [
+        "Merritt v Merritt"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Core ratio on consideration and intention is fully reasoned. Quantification issues deliberately remitted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/123.json",
+    "status": "done",
+    "notes": "Batch 11 enrichment. JR dismissed on mootness; jurisdiction ratio not decided.",
+    "enrichment": {
+      "short_title": "Immigration appeal jurisdiction challenge dismissed as moot",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 58(5)",
+            "Part 4"
+          ]
+        },
+        {
+          "title": "Immigration (European Economic Area) Regulations 2000",
+          "provisions": [
+            "SI 2000/2326"
+          ]
+        },
+        {
+          "title": "Immigration and Asylum Appeals (Procedure) Rules 2000",
+          "provisions": [
+            "SI 2000/2333 rules 5",
+            "SI 2000/2333 rules 8",
+            "SI 2000/2333 rule 10"
+          ]
+        },
+        {
+          "title": "Immigration Rules",
+          "provisions": [
+            "rule 257"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant sought judicial review of the Chief Adjudicator's refusal to accept jurisdiction over his immigration appeal where the appeal bundle had not been forwarded.",
+        "By the hearing the Secretary of State had granted the claimant indefinite leave to remain under rule 257, removing his personal interest in the outcome.",
+        "The claimant and interested party agreed the Immigration Appellate Authority had jurisdiction notwithstanding incomplete documentation under section 58(5) of the 1999 Act.",
+        "The Lord Chancellor's Department did not address the merits of that common position."
+      ],
+      "procedural_posture": "Judicial review challenging refusal of the Chief Adjudicator to accept jurisdiction over an immigration appeal.",
+      "outcome": "Application for judicial review dismissed as moot; no declaration on jurisdiction; no order as to costs (publicly funded detailed assessment permitted).",
+      "ratio": "Where a claimant has obtained indefinite leave to remain and no longer has a personal interest, it is inappropriate for the Administrative Court to make a declaration on immigration appellate jurisdiction, especially where others may disagree and practical consequences cannot be addressed; the Chief Adjudicator should consider jurisdiction afresh if the issue arises in another case.",
+      "legal_issues": [
+        "Whether the Chief Adjudicator had jurisdiction under section 58(5) before receipt of the full appeal bundle",
+        "Whether the court should make a declaratory ruling on a moot test case",
+        "Appropriate costs order where a properly brought public-interest challenge becomes academic"
+      ],
+      "catchwords": [
+        "immigration appeal",
+        "Chief Adjudicator",
+        "jurisdiction",
+        "appeal bundle",
+        "mootness",
+        "judicial review",
+        "indefinite leave to remain"
+      ],
+      "index_terms": [
+        "Immigration and Asylum Act 1999",
+        "section 58(5)",
+        "Immigration Appellate Authority",
+        "Special Adjudicator",
+        "rule 257 Immigration Rules",
+        "test case",
+        "legal aid costs"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.84,
+        "level": "high",
+        "notes": "Disposal and mootness reasoning are clear. The substantive jurisdiction question was not adjudicated because the claim became academic."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/310.json",
+    "status": "needs_review",
+    "notes": "Batch 11 enrichment. Substantive quantum reasoning but judgment ends before final award; summary truncated.",
+    "enrichment": {
+      "short_title": "Fatal accident damages for window cleaner's dependants",
+      "area_of_law": [
+        "Personal injury",
+        "Fatal accidents",
+        "Damages",
+        "Construction and engineering"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law Reform (Miscellaneous Provisions) Act 1934",
+          "provisions": []
+        },
+        {
+          "title": "Fatal Accidents Act 1976",
+          "provisions": [
+            "section 3(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Peter Docking, a window cleaner, died when a suspended access cradle fell from a nine-storey building on 22 April 1998; liability was agreed among six defendants subject to quantum.",
+        "Dependants were his partner Laura Jane Taylor and two young daughters; marriage had been planned for July 1998.",
+        "The court found the deceased would have qualified as a part-time black cab driver by April 2000 while continuing window cleaning, with earnings rising to colleague levels.",
+        "On widow's dependency the court held her earning capacity must be taken into account where the family pool would have included both incomes, deducting childcare costs until the younger child reached 14."
+      ],
+      "procedural_posture": "Technology and Construction Court assessment of damages under the Fatal Accidents Act 1976 where inter-partes liability was agreed.",
+      "outcome": "Judgment on quantum principles: claimant multipliers of 21.7 (partner) and 13.05 (younger child) accepted; widow's earning capacity partially deducted; services dependency assessed at £21,250; final award and orders deferred.",
+      "ratio": "Under section 3(1) Fatal Accidents Act 1976 dependency loss is assessed by reference to what would have happened had the deceased lived, not what the widow is constrained to do after death; where pre-death arrangements showed both parents would have worked and paid for childcare, the widow's earning capacity must be taken into account following Cookson v Knowles, subject to reasonable deductions for childcare costs.",
+      "legal_issues": [
+        "Appropriate multipliers for partner and child dependants",
+        "Whether the widow's earning capacity should reduce dependency damages",
+        "Assessment of future earnings including part-time taxi driving",
+        "Loss of dependency on the deceased's domestic and childcare services",
+        "Whether present means-tested benefits should be credited"
+      ],
+      "catchwords": [
+        "fatal accident",
+        "dependency claim",
+        "multiplier",
+        "widow's earning capacity",
+        "Cookson v Knowles",
+        "loss of services",
+        "window cleaner"
+      ],
+      "index_terms": [
+        "Fatal Accidents Act 1976",
+        "Law Reform Miscellaneous Provisions Act 1934",
+        "Cookson v Knowles",
+        "Howard v Hill",
+        "Coward v Comex Houlder Diving Limited",
+        "Dalton v South East Railway Company",
+        "quantum assessment"
+      ],
+      "linked_authorities": [
+        "Cookson v Knowles",
+        "Howard v Hill",
+        "Coward v Comex Houlder Diving Limited",
+        "Dalton v South East Railway Company",
+        "Malyon v Plummer",
+        "Hewitt v Heads"
+      ],
+      "confidence": {
+        "score": 0.78,
+        "level": "medium",
+        "notes": "Legal principles and multipliers are well reasoned but the judgment ends before final damages are stated and the source summary is truncated. Human review recommended for final outcome figure."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/24.json",
+    "status": "done",
+    "notes": "Batch 11 enrichment. Full judgment text; Walkley distinction and outcome clear.",
+    "enrichment": {
+      "short_title": "Section 33 discretion where first claim lacked estate representative",
+      "area_of_law": [
+        "Limitation of actions",
+        "Personal injury",
+        "Civil procedure",
+        "Wills and estates"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 33",
+            "section 11",
+            "section 12"
+          ]
+        },
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "sections 652",
+            "section 653"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Stephanie Piggott suffered serious injuries in a road accident on 14 June 1997; the driver died and no personal representatives were appointed.",
+        "Proceedings issued in June 2000 against the personal representatives could not be effectively served; after limitation expired new proceedings were issued in June 2001 once David Murray was appointed to represent the estate.",
+        "The defendant argued the second action was barred by the Walkley principle because a first action had been started within time.",
+        "The Court of Appeal held the first action was not properly constituted because an estate without an appointed representative is not a legal person capable of being sued in personam."
+      ],
+      "procedural_posture": "Appeal against a county court order exercising discretion under section 33 Limitation Act 1980 to allow a second personal injury claim; cross-appeal on costs.",
+      "outcome": "Appeal dismissed; cross-appeal on costs dismissed; section 33 discretion held available and judge's exercise of discretion not disturbed on the merits argued.",
+      "ratio": "The Walkley principle applies only where the first and second actions are against the same defendant and the same cause of action; proceedings against a deceased's estate before appointment of a representative under CPR 19.8 are not a fully fledged action against a legal person, so a claimant prejudiced by failure to appoint a representative may rely on section 33 in a later properly constituted claim.",
+      "legal_issues": [
+        "Application of Walkley v Precision Forgings to second actions within limitation",
+        "Whether CPR 19.8 proceedings against an estate constitute the same defendant",
+        "Distinction from failure to serve an otherwise valid claim",
+        "Whether article 6 ECHR requires departure from Walkley",
+        "Costs where section 33 success follows solicitor negligence"
+      ],
+      "catchwords": [
+        "section 33",
+        "Limitation Act 1980",
+        "Walkley principle",
+        "CPR 19.8",
+        "estate representative",
+        "personal injury",
+        "second action",
+        "abuse of process"
+      ],
+      "index_terms": [
+        "Walkley v Precision Forgings Ltd",
+        "Shapland v Palmer",
+        "White v Glass",
+        "McEvoy v AA Welding and Fabrications Ltd",
+        "Clay v Chamberlain",
+        "Re Amirteymour deceased",
+        "Law Commission Report No 270"
+      ],
+      "linked_authorities": [
+        "Walkley v Precision Forgings Ltd",
+        "Shapland v Palmer",
+        "White v Glass",
+        "McEvoy v AA Welding and Fabrications Ltd",
+        "Clay v Chamberlain",
+        "Re Amirteymour deceased",
+        "In re Workvale Ltd",
+        "Wilson v Banner Scaffolding",
+        "Foster v Turnbull",
+        "Hall v Rover Services Ltd",
+        "Budgen v Andrew Gardner Partnership"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Ratio, outcome, and CPR analysis are fully reasoned across three judgments. Cross-appeal costs reasoning noted as discretionary."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/28.json",
+    "status": "done",
+    "notes": "Batch 11 enrichment. Full judgment text; causation and no-case-to-answer reasoning clear.",
+    "enrichment": {
+      "short_title": "Murder causation where head injuries preceded diabetic ketoacidosis",
+      "area_of_law": [
+        "Criminal law",
+        "Murder",
+        "Expert evidence",
+        "Appeals against conviction"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Dawn Berntsen, a diabetic, died of ketoacidosis after being assaulted with a wine bottle by the appellant Cutts several days earlier.",
+        "Murphy's evidence, accepted by the jury, described sustained assault, dragging, and failure to obtain medical help.",
+        "Professor Forrest for the Crown said metabolic stress from head injuries likely precipitated death; Professor Tattersall for the defence said any effect would be minor and hours only.",
+        "The judge refused no-case-to-answer submissions at the close of the Crown case and after all evidence; the jury convicted after about two and a half hours."
+      ],
+      "procedural_posture": "Appeal against murder conviction by leave on grounds that the case should have been withdrawn from the jury.",
+      "outcome": "Appeal dismissed; conviction held safe.",
+      "ratio": "Causation in murder where death follows from diabetic ketoacidosis after assault is a question for the jury evaluating expert and factual evidence; a judge need not withdraw the case where Crown and defence experts disagree on whether injuries substantially contributed to death, provided the jury could properly prefer the Crown expert on the facts and medical mechanism.",
+      "legal_issues": [
+        "Whether there was sufficient evidence of causation between head injuries and fatal ketoacidosis",
+        "Appropriate test for stopping the case at end of Crown case and end of all evidence",
+        "Evaluation of conflicting expert evidence from pathologists and diabetologists",
+        "Significance of possible viral encephalitis as alternative cause",
+        "Whether short jury deliberation rendered the verdict unsafe"
+      ],
+      "catchwords": [
+        "murder",
+        "causation",
+        "diabetic ketoacidosis",
+        "expert evidence",
+        "no case to answer",
+        "substantial cause",
+        "assault"
+      ],
+      "index_terms": [
+        "criminal appeal",
+        "forensic pathology",
+        "Professor Forrest",
+        "Professor Tattersall",
+        "metabolic stress",
+        "viral encephalitis",
+        "unsafe conviction"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome and causation standard are explicit. No central statutory provisions; case turns on expert and factual evaluation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/49.json",
+    "status": "done",
+    "notes": "Batch 11 enrichment. Full judgment text; covenant interplay and outcome clear.",
+    "enrichment": {
+      "short_title": "Quiet enjoyment versus landlord's structural repair covenant",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Property law",
+        "Contract law",
+        "Nuisance"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Goldmile Properties carried out external wall and window seal repairs to a seven-storey building using scaffolding and sheeting, disrupting a ground-floor restaurant tenant's business.",
+        "The lease contained express covenants for quiet enjoyment and for the landlord to use reasonable endeavours to provide structural repair services funded by service charge.",
+        "The district judge found the landlord took all reasonable steps including postponing works and spreading service charge payments; the circuit judge reversed, holding all possible precautions were required.",
+        "The Court of Appeal restored the district judge's dismissal of the claim."
+      ],
+      "procedural_posture": "Second appeal from Stockport County Court claim for business losses during landlord structural repairs.",
+      "outcome": "Appeal allowed; district judge's judgment for the landlord restored; tenant to pay appellant's costs.",
+      "ratio": "A landlord's repairing covenant and a tenant's covenant for quiet enjoyment must be construed to coexist on a basis of parity; where structural repairs necessarily cause temporary disturbance, breach of quiet enjoyment is avoided if the landlord takes all reasonable steps to minimise inconvenience, not all possible precautions; an implied licence to enter for repairs is read into the repairing covenant.",
+      "legal_issues": [
+        "Interaction between covenant for quiet enjoyment and repairing covenant",
+        "Whether 'except as herein provided' limits quiet enjoyment to express rights only",
+        "Standard of reasonableness for carrying out structural repairs",
+        "Relevance of service charge adjustments and tenant consultation",
+        "Analogy with nuisance law on reasonable construction operations"
+      ],
+      "catchwords": [
+        "quiet enjoyment",
+        "repairing covenant",
+        "service charge",
+        "business tenancy",
+        "scaffolding",
+        "reasonable steps",
+        "landlord and tenant"
+      ],
+      "index_terms": [
+        "commercial lease",
+        "structural repairs",
+        "Saner v Bilton",
+        "Lyttelton Times Company Ltd v Warners Ltd",
+        "Southwark LBC v Tanner",
+        "Owen v Gadd",
+        "Clerk and Lindsell nuisance"
+      ],
+      "linked_authorities": [
+        "Lyttelton Times Company Ltd v Warners Ltd",
+        "Saner v Bilton",
+        "Southwark London Borough Council v Tanner",
+        "Owen v Gadd"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Ratio, lease construction, and outcome are clearly articulated in the court's judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/59.json",
+    "status": "done",
+    "notes": "Batch 11 enrichment. Full judgment text; classification reasoning and outcome clear.",
+    "enrichment": {
+      "short_title": "Customs classification of children's electronic learning computers",
+      "area_of_law": [
+        "Customs and excise",
+        "EU law",
+        "Commercial law",
+        "Tax"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Council Regulation 2658/1987",
+          "provisions": [
+            "Article 1",
+            "Article 9",
+            "Article 10"
+          ]
+        },
+        {
+          "title": "Council Regulation 2913/1992",
+          "provisions": [
+            "Article 12"
+          ]
+        },
+        {
+          "title": "Council Regulation 2204/1999",
+          "provisions": []
+        },
+        {
+          "title": "Commission Regulation 184/2000",
+          "provisions": []
+        },
+        {
+          "title": "Commission Regulation 981/1998",
+          "provisions": []
+        },
+        {
+          "title": "International Convention on the Harmonised Commodity Description and Coding System 1983",
+          "provisions": [
+            "Article 3(1)(a)(ii)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "VTech imported laptop-style electronic learning products for children and sought classification under CN 9504 (games) rather than CN 9503 (toys), affecting duty rates.",
+        "The VAT and Duties Tribunal upheld classification as educational toys under heading 9503, relying on objective characteristics and promotional materials.",
+        "Commission Regulation 184/2000 classified a similar product as a toy; VTech challenged its validity and the Tribunal's independent reasoning.",
+        "Lawrence Collins J dismissed the appeal, finding no manifest error and that GIR rule 3 was not engaged because the products were not prima facie classifiable as parlour games."
+      ],
+      "procedural_posture": "Appeal to the Chancery Division from a VAT and Duties Tribunal decision on Combined Nomenclature tariff classification.",
+      "outcome": "Appeal dismissed; products held properly classified as educational toys under CN 9503; no reference to the European Court.",
+      "ratio": "Tariff classification depends on the objective characteristics and intended use of goods, including presentation; educational toy computers programmed with learning activities fall under CN 9503 as other toys where their essential character is educational amusement rather than parlour or table games under CN 9504; GIR rule 3 applies only where headings are finely balanced, not merely because goods could technically fit more than one heading.",
+      "legal_issues": [
+        "Classification under CN 9503 versus CN 9504 of electronic children's learning products",
+        "Validity and analogical application of Commission Regulation 184/2000",
+        "Application of GIR rules 1, 3 and 6",
+        "Whether two-player scoring modes make products games",
+        "Whether promotional literature is relevant to objective characteristics",
+        "Discretion to refer questions to the European Court"
+      ],
+      "catchwords": [
+        "Combined Nomenclature",
+        "customs classification",
+        "toys",
+        "games",
+        "educational electronics",
+        "GIR rule 3",
+        "binding tariff information",
+        "manifest error"
+      ],
+      "index_terms": [
+        "CN 9503",
+        "CN 9504",
+        "VTech",
+        "Commission Regulation 184/2000",
+        "Wiener SI GmbH v Hauptzollamt Emmerich",
+        "Hewlett Packard BV v Directeur Generale des Douanes",
+        "Cabletron Systems Ltd",
+        "VAT and Duties Tribunal"
+      ],
+      "linked_authorities": [
+        "Bioforce GmbH v Oberfinanzdirektion Munchen",
+        "Holz Geenen GmbH v Oberfinanzdirektion Munchen",
+        "Wiener SI GmbH v Hauptzollamt Emmerich",
+        "Develop Dr Eisbein GmbH & Co v Hauptzollamt Stuttgart-West",
+        "Cabletron Systems Ltd v Revenue Commissioners",
+        "Hewlett Packard BV v Directeur Generale des Douanes",
+        "Firma Foto-Frost v Hauptzollamt Lubeck-Ost",
+        "VauDe Sport GmbH v Oberfinanzdirektion Koblenz",
+        "Turbon International",
+        "ELBA v Hauptzollamt Berlin-Packhof",
+        "Edwards v Bairstow",
+        "Commissioners of Customs and Excise v General Instrument (UK) Ltd"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Outcome and classification principles are comprehensively reasoned. Product-specific fact findings defer to Tribunal evaluation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/111.json",
+    "status": "done",
+    "notes": "Batch 11 enrichment. Full judgment text; vicarious liability ratio and outcome clear.",
+    "enrichment": {
+      "short_title": "Chief constable liable for off-duty constable's assault using police van",
+      "area_of_law": [
+        "Police law",
+        "Tort law",
+        "Vicarious liability",
+        "Civil liberties"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Act 1996",
+          "provisions": [
+            "section 88"
+          ]
+        },
+        {
+          "title": "Police Act 1964",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Off-duty PC Dudley unlawfully took a marked police van to help his girlfriend move house; the move was uninsured.",
+        "At the destination he confirmed to 16-year-old Andrew Weir that he was a police officer, then assaulted Weir on a landing and stairs, locked him in the van cage, and threatened arrest before releasing him.",
+        "Weir suffered confirmed facial and neck injuries and complained the same night; civil proceedings were brought against the Chief Constable under section 88 Police Act 1996.",
+        "The trial judge found an assault occurred but held Dudley was on a frolic of his own and the Chief Constable was not vicariously liable."
+      ],
+      "procedural_posture": "Appeal from a preliminary issue trial on documents determining vicarious liability of the Chief Constable for an off-duty constable's assault.",
+      "outcome": "Appeal allowed; previous order quashed; judgment for the claimant on the preliminary issue of vicarious liability.",
+      "ratio": "Under section 88 Police Act 1996 a chief constable is liable for torts committed by constables under his direction and control in the performance or purported performance of their functions; where an officer has identified himself as a constable and uses police authority and equipment including a police van and threats of arrest to assault and detain a member of the public, he is apparently acting as a constable even if abusing his powers, and vicarious liability attaches.",
+      "legal_issues": [
+        "Scope of section 88 Police Act 1996 vicarious liability",
+        "Whether an off-duty constable using a police van for private purposes acts in purported performance of functions",
+        "Distinction between personal frolic and apparent exercise of police authority",
+        "Liability for intentional torts and false imprisonment by police officers"
+      ],
+      "catchwords": [
+        "vicarious liability",
+        "chief constable",
+        "Police Act 1996",
+        "section 88",
+        "assault",
+        "off-duty constable",
+        "purported performance of functions",
+        "police van"
+      ],
+      "index_terms": [
+        "police tort liability",
+        "Andrew Weir",
+        "Merseyside Police",
+        "false imprisonment",
+        "intentional tort",
+        "preliminary issue",
+        "police fund"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Outcome, findings of assault, and vicarious liability reasoning are explicit. Criminal acquittal correctly treated as non-determinative."
+      }
+    }
+  }
+]

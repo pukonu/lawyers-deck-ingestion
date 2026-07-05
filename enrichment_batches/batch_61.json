@@ -1,0 +1,803 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/pat/2003/649.json",
+    "status": "done",
+    "notes": "Batch 61 enrichment",
+    "enrichment": {
+      "short_title": "SPC refused for lansoprazole-antibiotic combination",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Pharmaceutical regulation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Council Regulation (EEC) No 1768/92",
+          "provisions": [
+            "Article 1",
+            "Article 3"
+          ]
+        },
+        {
+          "title": "Patents Act 1977",
+          "provisions": [
+            "section 125"
+          ]
+        },
+        {
+          "title": "Council Directive 65/65/EEC",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Takeda sought supplementary protection certificates for lansoprazole combined with antibiotics for H. pylori treatment, based on patents EP 174,726 and EP 382,489.",
+        "The Comptroller refused six SPC applications arising from a variation to the existing Zoton product licence rather than a new combination marketing authorisation.",
+        "Takeda argued the combination was protected by a basic patent in force because sale of lansoprazole with an antibiotic would infringe the patent.",
+        "Jacob J held infringement of the combination would occur only because of the lansoprazole element, not because the combination itself was protected."
+      ],
+      "procedural_posture": "Appeal to the Patents Court from the Comptroller of Patents refusing six SPC applications.",
+      "outcome": "Appeal dismissed on both Article 3(a) and Article 3(b); the Comptroller's refusal upheld.",
+      "ratio": "For SPC purposes under Article 3(a), a patent protects only the invention as construed from the claims, not a wider combination in which an patented active ingredient is one component; and a varied single-substance product licence for lansoprazole does not constitute a valid authorisation to place a multi-ingredient combination product on the market under Article 3(b).",
+      "legal_issues": [
+        "Whether a combination medicinal product is protected by a basic patent in force under Article 3(a) of the SPC Regulation",
+        "Whether a varied product licence for a single active ingredient satisfies Article 3(b)",
+        "Construction of 'product' and 'basic patent' under the SPC regime"
+      ],
+      "catchwords": [
+        "supplementary protection certificate",
+        "SPC",
+        "combination product",
+        "Article 3",
+        "lansoprazole",
+        "marketing authorisation",
+        "basic patent"
+      ],
+      "index_terms": [
+        "Takeda Chemical Industries",
+        "Comptroller of Patents",
+        "pharmaceutical patent",
+        "H. pylori",
+        "Swiss-type claim",
+        "product licence variation"
+      ],
+      "linked_authorities": [
+        {
+          "name": "A/B Hassle v Swedish Patent Office",
+          "citation": "Case 3248-1996",
+          "relation": "followed"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Outcome and Article 3 analysis are explicit; ratio clearly stated by Jacob J."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/899.json",
+    "status": "done",
+    "notes": "Batch 61 enrichment",
+    "enrichment": {
+      "short_title": "Work permit refusal after overstayer marriage breakdown",
+      "area_of_law": [
+        "Immigration law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 10"
+          ]
+        }
+      ],
+      "key_facts": [
+        "An Indian national entered the UK in 1996 as the spouse of a British citizen but remained after his leave expired in 1997, believing his wife had regularised his status.",
+        "He became a highly skilled head chef; after marital breakdown his wife reported him as an overstayer and refused to sponsor further leave.",
+        "Work Permits UK approved employment, but the Secretary of State refused leave to remain citing adverse immigration history and prior removal notices.",
+        "The claimant said he was illiterate in English and had been misled by his wife; the Secretary of State preferred the wife's account without adequate reasoning."
+      ],
+      "procedural_posture": "Judicial review of the Secretary of State's decision of 14 October 2002 refusing leave to remain as a work permit holder.",
+      "outcome": "Judicial review granted; the refusal decision quashed and remitted for reconsideration.",
+      "ratio": "Where an overstayer's explanation for remaining unlawfully is plausible and supported by employment history, and the Secretary of State rejects that account in favour of a hostile spouse's statement without engaging with the unusual features of the case, the decision is Wednesbury unreasonable and must be quashed.",
+      "legal_issues": [
+        "Whether overstaying without more constitutes an adverse immigration history",
+        "Propriety of preferring a spouse's account over the claimant's on limited evidence",
+        "Application of work permit switching policy to overstayers",
+        "Adequacy of reasons in an immigration refusal letter"
+      ],
+      "catchwords": [
+        "work permit",
+        "overstayer",
+        "leave to remain",
+        "judicial review",
+        "adverse immigration history",
+        "credibility",
+        "marriage breakdown"
+      ],
+      "index_terms": [
+        "Ali v SSHD",
+        "immigration rules",
+        "Work Permits UK",
+        "Home Office policy",
+        "Bradford",
+        "Mumtaz Food Industries"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Outcome and reasoning are clear; immigration rules cited generically without full rule numbers in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/980.json",
+    "status": "done",
+    "notes": "Batch 61 enrichment",
+    "enrichment": {
+      "short_title": "Leicester gang violent disorder appeals largely dismissed",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "Code C"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Six defendants were convicted of conspiracy to commit violent disorder after a September 2000 shooting at Redwood Walk, Leicester, involving rival groups and mobile phone coordination.",
+        "Convictions rested largely on circumstantial telephone evidence; Mulji and Neal admitted involvement in interview.",
+        "May 2000 motive evidence about Sherriff's slashing by Francis was admitted for Sherriff's state of mind only; severance was refused.",
+        "Neal received five years because the judge found he used a firearm, although no firearms count was on the indictment."
+      ],
+      "procedural_posture": "Appeals to the Court of Appeal against conviction and sentence following trial at Leicester Crown Court.",
+      "outcome": "All four conviction appeals dismissed; Francis and Richards' sentences reduced to 27 months; Neal's sentence reduced from five years to three years; Mulji's sentence appeal dismissed.",
+      "ratio": "Prior incident evidence may be admitted to show a defendant's motive where probative value outweighs prejudice if the jury is clearly directed it is not evidence of the truth against co-accused; and where disputed firearm use was not charged, sentencing on the basis of gun use is wrong when the Crown chose not to add a firearms count.",
+      "legal_issues": [
+        "Admissibility of background motive evidence in multi-handed conspiracy trials",
+        "Whether severance was required because of prejudice to Francis",
+        "Editing co-defendant interview references and hearsay rulings on telephone evidence",
+        "No case to answer on circumstantial mobile phone evidence",
+        "Sentencing for violent disorder and firearm use without a firearms verdict"
+      ],
+      "catchwords": [
+        "violent disorder",
+        "conspiracy",
+        "motive evidence",
+        "mobile phone evidence",
+        "severance",
+        "unsafe conviction",
+        "firearms sentencing"
+      ],
+      "index_terms": [
+        "Leicester",
+        "Redwood Walk",
+        "R v Pettman",
+        "R v Galbraith",
+        "R v French",
+        "R v Efionayi",
+        "good character discount"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Pettman",
+          "citation": "2 May 1985, unreported",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Lake",
+          "citation": "(1977) 64 Cr App R 172",
+          "relation": "applied"
+        },
+        {
+          "name": "R v French",
+          "citation": "(1982) 75 Cr App R 1",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Guy",
+          "citation": "(1991) 93 Cr App R 108",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Galbraith",
+          "citation": "(1981) 73 Cr App R 124",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long composite judgment but outcomes on each appeal are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/469.json",
+    "status": "done",
+    "notes": "Batch 61 enrichment",
+    "enrichment": {
+      "short_title": "Wasted costs after Tomlin order in caravan park dispute",
+      "area_of_law": [
+        "Civil procedure",
+        "Professional conduct",
+        "Partnership law",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 51"
+          ]
+        },
+        {
+          "title": "Partnership Act 1890",
+          "provisions": [
+            "section 31"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 48",
+            "Practice Direction 48",
+            "rule 48.7"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Former spouses ran a caravan park as equal partners; the wife purportedly sold her half share to a resident, Mr Brewer, using four deeds of which only two were disclosed in later litigation.",
+        "Partnership proceedings were compromised and stayed by Tomlin order in November 1998; the husband later discovered undisclosed charge and declaration deeds suggesting sham transactions.",
+        "He applied for wasted costs against the wife's solicitors for withholding documents and conducting the action on a misleading basis.",
+        "The county court judge held no proceedings were extant and refused to lift the stay or permit the wasted costs application."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against county court rulings refusing jurisdiction and declining to lift a stay for a wasted costs application after a Tomlin order.",
+      "outcome": "Appeal allowed; orders set aside and the wasted costs application remitted for rehearing with case management directions.",
+      "ratio": "Proceedings remain extant after a Tomlin stay so a wasted costs application may be pursued without lifting the stay; the stage-one wasted costs threshold applies rather than an exceptional-case test, and internal documents prepared to obtain legal advice may still fall outside privilege where their dominant purpose is factual presentation rather than advice.",
+      "legal_issues": [
+        "Whether proceedings survive a Tomlin consent stay for wasted costs purposes",
+        "Need to lift the stay before making a wasted costs application",
+        "Appropriate test for lifting a consent stay",
+        "Whether the wasted costs summary procedure is suitable for complex sham-transaction allegations",
+        "Scope of legal professional privilege for solicitor conduct before proceedings"
+      ],
+      "catchwords": [
+        "wasted costs",
+        "Tomlin order",
+        "stay of proceedings",
+        "legal professional privilege",
+        "partnership dispute",
+        "sham transaction",
+        "Ridehalgh"
+      ],
+      "index_terms": [
+        "Wagstaff v Colls",
+        "Beachside Caravan Park",
+        "section 51 costs",
+        "Medcalf v Mardell",
+        "Rofa Sport Management",
+        "Cooper v Williams"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ridehalgh v Horsefield",
+          "citation": "[1994] Ch 205",
+          "relation": "applied"
+        },
+        {
+          "name": "Rofa Sport Management AG v DHL International (UK) Ltd",
+          "citation": "[1989] 1 WLR 902",
+          "relation": "applied"
+        },
+        {
+          "name": "Cooper v Williams",
+          "citation": "[1963] 2 QB 567",
+          "relation": "applied"
+        },
+        {
+          "name": "Medcalf v Mardell",
+          "citation": "[2002] 3 WLR 172",
+          "relation": "considered"
+        },
+        {
+          "name": "Snook v London and West Riding Investments Ltd",
+          "citation": "[1967] 2 QB 786",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Core procedural holdings are explicit; merits of the wasted costs claim were not finally decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/927.json",
+    "status": "done",
+    "notes": "Batch 61 enrichment",
+    "enrichment": {
+      "short_title": "Unsafe conviction quashed on confession reliability evidence",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Appeals"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The appellant was convicted in 1993 of attempted rape and burglary with intent to commit rape, based almost entirely on his confessions.",
+        "At trial the defence challenged confession reliability but had no supporting psychiatric evidence; the appellant had already served his eight-year sentence.",
+        "Following a Criminal Cases Review Commission referral, Professor Gudjonsson and Ms Craissati concluded the confessions were unreliable.",
+        "Both experts found abnormally high suggestibility and confabulation with a pre-dating history satisfying the O'Brien criteria."
+      ],
+      "procedural_posture": "Second appeal to the Court of Appeal (Criminal Division) following CCRC referral on fresh psychological evidence.",
+      "outcome": "Convictions quashed as unsafe; no retrial ordered.",
+      "ratio": "Fresh expert evidence showing significant deviation from normal suggestibility and confabulation, with a pre-existing history, can render a confession-based conviction unsafe even long after trial, and the court may receive that evidence in the interests of justice without ordering a retrial where the sentence has been served.",
+      "legal_issues": [
+        "Admissibility and weight of fresh expert evidence on confession reliability",
+        "Application of the O'Brien criteria for psychological expert evidence",
+        "Whether the conviction remains safe when confession is the sole incriminating evidence",
+        "Public interest in ordering a retrial after sentence served"
+      ],
+      "catchwords": [
+        "confession evidence",
+        "unsafe conviction",
+        "CCRC referral",
+        "expert psychological evidence",
+        "suggestibility",
+        "confabulation",
+        "fresh evidence"
+      ],
+      "index_terms": [
+        "R v O'Brien, Hall and Sherwood",
+        "Professor Gudjonsson",
+        "attempted rape",
+        "Central Criminal Court",
+        "second appeal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v O'Brien, Hall and Sherwood",
+          "citation": "unreported",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome and legal test are clear; underlying offence facts deliberately not rehearsed in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/530.json",
+    "status": "done",
+    "notes": "Batch 61 enrichment",
+    "enrichment": {
+      "short_title": "Asylum appeal remitted after in absentia conviction evidence",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Human rights",
+        "Appellate procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Convention Relating to the Status of Refugees 1951",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 3",
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A stateless Bihari claimant fled Bangladesh after a 14 August 2000 political demonstration and claimed asylum in the UK in June 2001.",
+        "The adjudicator found the core account credible but dismissed asylum and human rights appeals; the IAT held detention on return was unlikely after the 2001 change of government.",
+        "Fresh Bangladeshi court documents produced at the Court of Appeal showed the appellant had been sentenced in absentia to ten years' imprisonment with labour and a fine.",
+        "The new material undermined the factual basis on which the IAT had decided the appeal."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal with permission from Kay LJ against an Immigration Appeal Tribunal decision refusing asylum and human rights protection.",
+      "outcome": "Appeal allowed; matter remitted to the Immigration Appeal Tribunal for reconsideration on the fresh evidence.",
+      "ratio": "Where credible fresh evidence shows a tribunal proceeded on a materially incorrect factual basis through no fault of its own, the Court of Appeal should admit that evidence and remit the case so the tribunal can reconsider whether return would expose the appellant to prosecution, detention, or Article 3 ill-treatment.",
+      "legal_issues": [
+        "Admission of fresh evidence on asylum appeals to the Court of Appeal",
+        "Distinction between fear of prosecution and persecution under the Refugee Convention",
+        "Article 3 risk from pre-trial detention in Bangladeshi prisons",
+        "Effect of a change of government on prosecution likelihood"
+      ],
+      "catchwords": [
+        "asylum",
+        "Bihari",
+        "fresh evidence",
+        "in absentia conviction",
+        "Article 3",
+        "Immigration Appeal Tribunal",
+        "remittal"
+      ],
+      "index_terms": [
+        "Habibullah Khan",
+        "Bangladesh",
+        "Khulna demonstration",
+        "stateless person",
+        "pre-trial detention",
+        "special adjudicator"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Outcome driven by fresh evidence; underlying Article 3 analysis on remittal remains open."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/474.json",
+    "status": "done",
+    "notes": "Batch 61 enrichment",
+    "enrichment": {
+      "short_title": "Bank of England privilege over Bingham Inquiry documents",
+      "area_of_law": [
+        "Civil procedure",
+        "Evidence",
+        "Banking regulation",
+        "Tort law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "BCCI liquidators sued the Bank of England for misfeasance in public office and sought disclosure of documents created after BCCI's collapse for the Bingham Inquiry.",
+        "The Bank claimed legal advice privilege over internal employee documents and materials sent to Freshfields, not litigation privilege.",
+        "Tomlinson J held internal documents created with the dominant purpose of obtaining legal advice were privileged even if not communicated to solicitors.",
+        "The Court of Appeal held much of the material was prepared to present factual evidence to the inquiry, not to obtain legal advice."
+      ],
+      "procedural_posture": "Interlocutory appeal to the Court of Appeal against a High Court decision upholding the Bank's claim to legal advice privilege over inquiry-related documents.",
+      "outcome": "Appeal allowed; declaration that privilege does not extend to the disputed internal Bank documentation and order for a further list of documents, suspended pending any petition to the House of Lords.",
+      "ratio": "Legal advice privilege protects confidential communications between client and lawyer for the purpose of obtaining legal advice, but does not extend to internal documents prepared by a client's employees whose dominant purpose is gathering and presenting factual material to a public inquiry rather than seeking legal advice; dominant purpose is for the court, not the witness, to determine.",
+      "legal_issues": [
+        "Scope of legal advice privilege versus litigation privilege",
+        "Whether internal client documents prepared for solicitors are privileged",
+        "Dominant purpose test for privilege",
+        "Application of Balabel v Air India to institutional inquiry documents",
+        "Categories of Bank employee and ex-employee documents"
+      ],
+      "catchwords": [
+        "legal advice privilege",
+        "legal professional privilege",
+        "disclosure",
+        "dominant purpose",
+        "public inquiry",
+        "BCCI",
+        "misfeasance in public office"
+      ],
+      "index_terms": [
+        "Three Rivers District Council",
+        "Bank of England",
+        "Bingham Inquiry",
+        "Freshfields",
+        "Balabel v Air India",
+        "Greenough v Gaskell",
+        "Waugh v British Railways Board"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Balabel v Air India",
+          "citation": "[1988] Ch 317",
+          "relation": "considered"
+        },
+        {
+          "name": "Greenough v Gaskell",
+          "citation": "(1833) 1 My & K 98",
+          "relation": "applied"
+        },
+        {
+          "name": "Waugh v British Railways Board",
+          "citation": "[1980] AC 521",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Three Rivers District Council v Governor and Company of the Bank of England (No 6)",
+          "citation": "later HL litigation",
+          "relation": "related"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Landmark privilege judgment with explicit conclusion at paragraph 38; later superseded in part by HL in Three Rivers (No 6) but ratio here is clear from the text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/703.json",
+    "status": "done",
+    "notes": "Batch 61 enrichment",
+    "enrichment": {
+      "short_title": "Money laundering consent dispute remade as customer claim",
+      "area_of_law": [
+        "Banking and finance",
+        "Money laundering",
+        "Civil procedure",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "Part VI",
+            "section 93A"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1993",
+          "provisions": []
+        },
+        {
+          "title": "Proceeds of Crime Act 1995",
+          "provisions": []
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 25.1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "AMT, a London Metal Exchange member, held about US$453,000 for Dubai customer Wavesmetco after closing out trading positions.",
+        "AMT sought FIU consent under section 93A to pay the balance but consent was refused because of suspected links to the collapsed RBG/Allied Deals fraud involving the Rastogi family.",
+        "AMT issued proceedings for a declaration that the funds were not criminal proceeds, later joined Wavesmetco, and the SFO was substituted when the criminal investigation expanded.",
+        "Wavesmetco sought payment via counterclaim; the court held proceedings against the police/SFO for a substantive proceeds declaration were misconceived."
+      ],
+      "procedural_posture": "Commercial Court applications concerning money laundering consent, joinder, stay, and whether interim or final declaratory relief could be granted against police and SFO.",
+      "outcome": "Proceedings against the SFO stayed; AMT's declaratory claim treated as redundant; Wavesmetco permitted to pursue counterclaim for payment; no final declaration that funds were clean.",
+      "ratio": "Withholding section 93A consent on suspicion does not create a lis requiring the police to defend proceedings on whether funds are in fact criminal property; a financial institution must take a commercial decision whether to pay or defend customer proceedings, and interim declaratory relief on the ultimate proceeds question is inappropriate outside tipping-off cases.",
+      "legal_issues": [
+        "Effect of refusal of consent under section 93A CJA 1988",
+        "Whether police must justify non-consent by proving criminal origin of funds",
+        "Availability of interim declaratory relief in money laundering cases",
+        "Appropriate procedure when a bank withholds customer funds after suspicion",
+        "Stay of proceedings pending SFO criminal investigation"
+      ],
+      "catchwords": [
+        "money laundering",
+        "section 93A",
+        "consent",
+        "criminal proceeds",
+        "financial institution",
+        "declaratory relief",
+        "suspicion"
+      ],
+      "index_terms": [
+        "Amalgamated Metal Trading",
+        "Wavesmetco",
+        "RBG Resources",
+        "Rastogi",
+        "FIU",
+        "Serious Fraud Office",
+        "Bank of Scotland v A Ltd"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bank of Scotland v A Ltd",
+          "citation": "[2001] 1 WLR 751",
+          "relation": "applied"
+        },
+        {
+          "name": "Riverside Mental Health NHS Trust v Fox",
+          "citation": "[1994] 1 FLR 614",
+          "relation": "considered"
+        },
+        {
+          "name": "Byrne v Sefton Health Authority",
+          "citation": "[2002] 1 WLR 775",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Tomlinson J's procedural holdings are detailed and explicit; ultimate merits of Wavesmetco's counterclaim undecided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/837.json",
+    "status": "done",
+    "notes": "Batch 61 enrichment",
+    "enrichment": {
+      "short_title": "Builder wins quantum meruit after employer's non-payment",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Building disputes"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Grants, Construction and Regeneration Act 1996",
+          "provisions": [
+            "Part II"
+          ]
+        },
+        {
+          "title": "Gas Safety (Installation and Use) Regulations 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "CJ Elvin carried out extensive refurbishment at Stortford Lodge for Mr and Mrs Noble under successive oral agreements without fixed prices from late 2000.",
+        "By October 2001 about £40,016 was outstanding on work invoiced; the Nobles cited stock market losses and then refused interim payments, proposing retention until completion.",
+        "The builder suspended work; the joint expert valued completed work and allowed deductions for incomplete items and defects.",
+        "The judge found the employers were in repudiatory breach for non-payment and the builder was entitled to suspend rather than repudiate."
+      ],
+      "procedural_posture": "Technology and Construction Court trial on the builder's claim and homeowners' counterclaim for defects and alleged repudiation.",
+      "outcome": "Judgment for the claimant for £44,279.10 including interest; counterclaim on repudiation failed.",
+      "ratio": "Where a building contract impliedly requires reasonable interim payments, an employer's refusal to pay substantial invoiced sums and insistence on withholding all further payment until completion is repudiatory breach entitling the contractor to suspend work; suspension in those circumstances is not itself repudiatory, and defects are valued by remedial cost at suspension rather than the employer's increased cost of hiring replacement contractors.",
+      "legal_issues": [
+        "Quantum meruit and reasonable price where no fixed contract sum agreed",
+        "Entitlement to reasonable stage payments under an oral building contract",
+        "Whether non-payment justified suspension or repudiation by either party",
+        "Valuation of incomplete and defective works using joint expert Scott Schedules",
+        "Effect of uncertified CORGI registration on entitlement to payment"
+      ],
+      "catchwords": [
+        "building contract",
+        "quantum meruit",
+        "interim payment",
+        "repudiation",
+        "suspension of works",
+        "defective workmanship",
+        "Scott Schedule"
+      ],
+      "index_terms": [
+        "Stortford Lodge",
+        "St Albans",
+        "home renovation",
+        "Tomlin order not applicable",
+        "DR Bradley Cable Jointing",
+        "Coral Leisure Group v Barnett"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Coral Leisure Group Ltd v Barnett",
+          "citation": "[1981] ICR 503",
+          "relation": "applied"
+        },
+        {
+          "name": "Ashmore Benson Pease and Co Ltd v AV Dawson Ltd",
+          "citation": "[1973] 1 WLR 828",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed findings on account and repudiation with a precise judgment sum; some heating defects lacked expert evidence but allowances were made."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/996.json",
+    "status": "done",
+    "notes": "Batch 61 enrichment",
+    "enrichment": {
+      "short_title": "Sentencing guidelines for death by dangerous driving",
+      "area_of_law": [
+        "Criminal law",
+        "Road traffic law",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 1",
+            "section 2A",
+            "section 3",
+            "section 3A"
+          ]
+        },
+        {
+          "title": "Road Traffic Act 1991",
+          "provisions": [
+            "section 1",
+            "section 2A"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1993",
+          "provisions": []
+        },
+        {
+          "title": "Crime (Sentences) Act 1997",
+          "provisions": [
+            "section 2"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Court of Appeal listed three sentence appeals and an Attorney General's reference together to issue fresh guidelines on causing death by dangerous driving.",
+        "The Sentencing Advisory Panel advised that culpability should dominate but outcome including multiple deaths remains relevant; falling asleep is now treated as aggravating.",
+        "New starting points were set: 12–18 months (low), 2–3 years (intermediate), 4–5 years (higher), and 6 years plus (most serious).",
+        "Individual outcomes: Cooksley appeal dismissed; Stride reduced to 18 months; Cook reduced to 6 years; Crump reference found unduly lenient but immediate custody not now imposed."
+      ],
+      "procedural_posture": "Combined Court of Appeal judgment on three appeals against sentence, one Attorney General's reference, and issuance of new sentencing guidelines.",
+      "outcome": "Fresh sentencing guidelines issued; Cooksley appeal dismissed; Stride appeal allowed (18 months, 3-year disqualification); Cook appeal allowed (6 years); Crump sentence varied to 2 years suspended.",
+      "ratio": "In causing death by dangerous driving, offender culpability is the dominant sentencing factor but the fact death resulted and multiple deaths or serious injuries occurred remains relevant; custodial sentences will normally be required, with starting points of 12–18 months for minimal culpability rising to 6 years or more for the most serious cases, and a defendant should not be sentenced on disputed firearm use without a verdict on that issue.",
+      "legal_issues": [
+        "Appropriate starting points for causing death by dangerous driving",
+        "Weight of multiple deaths and serious injury as aggravating factors",
+        "Treatment of falling asleep and mobile phone use while driving",
+        "Sentencing for death by careless driving when under the influence of drink",
+        "Disqualification periods and victim personal statements",
+        "Individual appeals: Cooksley, Stride, Cook, and AG reference (Crump)"
+      ],
+      "catchwords": [
+        "death by dangerous driving",
+        "sentencing guidelines",
+        "culpability",
+        "starting points",
+        "Attorney General's reference",
+        "disqualification",
+        "careless driving drink"
+      ],
+      "index_terms": [
+        "Sentencing Advisory Panel",
+        "R v Boswell",
+        "R v Browning",
+        "R v Maloney",
+        "R v Noble",
+        "motor manslaughter",
+        "section 2A dangerous driving"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Boswell",
+          "citation": "[1984] 6 CAR 257",
+          "relation": "superseded"
+        },
+        {
+          "name": "Attorney General's References Nos 14 and 24 of 1993 (Shepherd and Wernet)",
+          "citation": "[1994] 15 CAR (S) 640",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Browning",
+          "citation": "[2002] 1 CAR (S) 377",
+          "relation": "applied"
+        },
+        {
+          "name": "Attorney General's Reference No 58 of 2000 (Wynne)",
+          "citation": "[2001] 2 CAR (S) 102",
+          "relation": "applied"
+        },
+        {
+          "name": "R v French",
+          "citation": "(1982) 75 Cr App R 1",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Authoritative guideline judgment with explicit starting points and individual appeal outcomes."
+      }
+    }
+  }
+]

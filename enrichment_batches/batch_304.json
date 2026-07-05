@@ -1,0 +1,662 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1798.json",
+    "status": "done",
+    "notes": "Watson direction timing and wording challenge on common assault conviction; unsafe conviction conclusion is clear.",
+    "enrichment": {
+      "short_title": "Premature Watson direction on common assault conviction",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal procedure",
+        "Jury directions",
+        "Appeals against conviction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 39"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant was convicted of common assault after acquittal on racially aggravated assault and criminal damage counts at Harrow Crown Court.",
+        "A parking warden alleged the appellant assaulted him during a dispute over a parking ticket in Wembley in June 2001.",
+        "While the jury were deadlocked on count 4, the Recorder told them to try harder and referred to give and take in deliberations before a majority direction was possible.",
+        "The appellant was subsequently convicted unanimously on the common assault count."
+      ],
+      "procedural_posture": "Appeal against conviction with leave granted by a single judge.",
+      "outcome": "Appeal allowed; conviction quashed as unsafe.",
+      "ratio": "A Watson-style direction should not be given after the jury has retired but before a majority verdict direction is possible; omitting the reminder that give and take must remain within the scope of the oath risks improper pressure and may render a conviction unsafe.",
+      "legal_issues": [
+        "Whether the Recorder's direction amounted to an improper Watson direction",
+        "Whether the timing of the direction after jury retirement was erroneous",
+        "Whether the omission of the oath-limiting wording made the conviction unsafe"
+      ],
+      "catchwords": [
+        "Watson direction",
+        "jury deliberations",
+        "common assault",
+        "unsafe conviction",
+        "majority verdict",
+        "give and take"
+      ],
+      "index_terms": [
+        "Crown Court Harrow",
+        "parking warden assault",
+        "jury note",
+        "Recorder Mensah",
+        "Buono",
+        "jury pressure"
+      ],
+      "linked_authorities": [
+        "R v Watson [1988] QB 690",
+        "R v Buono (1995) 95 Cr App R 338"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Outcome, direction wording, and timing analysis are explicit. Crown conceded the direction was a loose paraphrase of Watson."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1639.json",
+    "status": "done",
+    "notes": "Long manslaughter appeal on dock identification and CCTV expert evidence; dismissal and safety reasoning are clear.",
+    "enrichment": {
+      "short_title": "Manslaughter appeal on dock ID and CCTV evidence",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal evidence",
+        "Manslaughter",
+        "Appeals against conviction"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The appellant was convicted of manslaughter after a fatal fire at Brockfield House flats in Wolverhampton in August 1999.",
+        "Prosecution evidence included threats to burn the flats, witness recognition, and CCTV analysis by Mr Ashley Windsor.",
+        "The appellant challenged dock identification by Mr Pope and the fairness of expert CCTV comparison evidence.",
+        "A third trial followed aborted earlier proceedings and a stayed abuse of process application."
+      ],
+      "procedural_posture": "Appeal against conviction by leave of the single judge on dock identification and CCTV expert evidence grounds.",
+      "outcome": "Appeal dismissed; conviction held safe.",
+      "ratio": "A dock identification was permissible where the witness knew the defendant and the real issue was honesty; enhanced CCTV opinion evidence was admissible and the defence had notice and opportunity to inspect the expert's work, with adequate judicial warnings to the jury.",
+      "legal_issues": [
+        "Whether dock identification of the appellant by Mr Pope was a proper exercise of discretion",
+        "Whether inequality of arms arose from defence failure to inspect Mr Windsor's laboratory analysis",
+        "Whether CCTV expert opinion on image comparison rendered the conviction unsafe"
+      ],
+      "catchwords": [
+        "manslaughter",
+        "dock identification",
+        "CCTV evidence",
+        "facial mapping",
+        "recognition evidence",
+        "unsafe conviction"
+      ],
+      "index_terms": [
+        "Brockfield House",
+        "Wolverhampton fire",
+        "Ashley Windsor",
+        "Mr Pope",
+        "Attorney General's Reference No 2 of 2002",
+        "R v Grey"
+      ],
+      "linked_authorities": [
+        "R v Briddick [2001] EWCA Crim 984",
+        "R v Grey [2001] EWCA Crim 1097",
+        "Attorney General's Reference No 2 of 2002 [2002] EWCA Crim 2373",
+        "Clare v Peach [1995] 2 Cr App R 333",
+        "R v Reid [1994] Crim LR 442"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Final dismissal and reasoning on both pursued grounds are explicit. PII and sleeping juror grounds were not pursued."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/935.json",
+    "status": "done",
+    "notes": "Non-party costs order against director-litigant after hopeless bank claim; exceptional circumstances analysis is clear.",
+    "enrichment": {
+      "short_title": "Personal costs order against director pursuing hopeless bank claims",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Company law",
+        "Banking and finance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": [
+            "Rule 48.2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Bournemouth and Boscombe Athletic Football Club brought repeated hopeless actions against Lloyds TSB over a 1994 refinancing agreement.",
+        "Mr Roy Pack, a director who represented the insolvent club, pursued a second struck-out claim through appeal to the Court of Appeal.",
+        "The club had no assets to meet costs and Pack had used director status to conduct litigation the court would likely have refused him as a non-party.",
+        "Osborne Clarke had warned Pack early that personal costs would be sought."
+      ],
+      "procedural_posture": "Application for a non-party costs order against Mr Pack for the costs of the club's unsuccessful appeal.",
+      "outcome": "Application granted; Pack ordered to pay the bank's appeal costs subject to detailed assessment rather than summary assessment.",
+      "ratio": "Where a person becomes a director principally to conduct hopeless litigation on behalf of an insolvent company and pursues a bound-to-fail appeal despite clear warning, an exceptional non-party costs order under CPR 48.2 is justified notwithstanding the general rule protecting directors.",
+      "legal_issues": [
+        "Whether Mr Pack should be made personally liable for the bank's appeal costs as a non-party",
+        "Whether Paragon Finance v Noueiri permitted a costs order against a director-litigant",
+        "Whether the application should be adjourned pending evidence in the Hayward guarantee retrial"
+      ],
+      "catchwords": [
+        "non-party costs",
+        "CPR 48.2",
+        "director litigant",
+        "bound to fail",
+        "football club insolvency",
+        "rights of audience"
+      ],
+      "index_terms": [
+        "Bournemouth and Boscombe Athletic",
+        "Lloyds TSB",
+        "Roy Pack",
+        "1994 refinancing agreement",
+        "Peter Smith J",
+        "Paragon Finance v Noueiri"
+      ],
+      "linked_authorities": [
+        "Re North West Holdings Plc [2001] EWCA Civ 67",
+        "Paragon Finance Plc v Noueiri [2001] EWCA Civ 1402"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Order and exceptional circumstances reasoning are explicit. Adjournment application refused on clear grounds."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/989.json",
+    "status": "done",
+    "notes": "Matrimonial home and mortgage dilemma; appeal allowed and remitted with cooperation guidance clearly stated.",
+    "enrichment": {
+      "short_title": "Matrimonial home transfer order undermined by mortgage evidence",
+      "area_of_law": [
+        "Family law",
+        "Matrimonial finance",
+        "Mortgage finance",
+        "Appeals"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "A district judge ordered sale of the former matrimonial home with net proceeds to the wife, Mrs Thompson (formerly Mrs Prater).",
+        "Judge Yelton varied the order so the husband would transfer his interest if the wife indemnified him against the existing mortgage, enabling him to borrow for rehousing.",
+        "Mr Prater could not obtain the mortgage envisaged by Judge Yelton's order because lenders would not advance sufficient funds while the existing mortgage remained.",
+        "The parties had three children and the wife had remarried a disabled husband with limited borrowing capacity."
+      ],
+      "procedural_posture": "Appeal by the former husband against a county court order transferring the matrimonial home on indemnity undertakings.",
+      "outcome": "Appeal allowed; matter remitted to Judge Yelton for further consideration; transcript to be disclosed to building societies.",
+      "ratio": "Where the factual basis for a transfer order—that the husband could raise a new mortgage if released from the existing mortgage—is undermined by lender evidence, the appeal court must allow the appeal and remit; cooperation between the parties and lenders may still avoid sale and local authority rehousing.",
+      "legal_issues": [
+        "Whether Judge Yelton's order could be implemented given lender responses",
+        "How to balance housing needs of both parents and children",
+        "Whether the district judge's sale order should be reinstated on remittal"
+      ],
+      "catchwords": [
+        "matrimonial home",
+        "ancillary relief",
+        "mortgage indemnity",
+        "transfer of property",
+        "building society lending",
+        "cooperation"
+      ],
+      "index_terms": [
+        "Thompson v Prater",
+        "Woolwich Building Society",
+        "former matrimonial home",
+        "contact arrangements",
+        "equity £52000",
+        "county court remittal"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Appeal outcome and remittal are explicit. Postscript guidance to parties and lenders is unusual but clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1531.json",
+    "status": "done",
+    "notes": "Legal aid regulation 46(3) and two-action costs disallowance; review outcome and Bridgewater distinction are clear.",
+    "enrichment": {
+      "short_title": "Legal aid certificate spanning two actions on costs assessment",
+      "area_of_law": [
+        "Legal aid",
+        "Costs",
+        "Civil procedure",
+        "Professional negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Legal Aid (General) Regulations 1989",
+          "provisions": [
+            "regulation 46(3)"
+          ]
+        },
+        {
+          "title": "Legal Aid Act 1988",
+          "provisions": [
+            "section 16"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Gareth Pearce commenced two High Court actions against the same defendants under one legal aid certificate after the first writ was served out of time.",
+        "Master Simons disallowed all claimed costs of about £278,000 on detailed assessment for breach of regulation 46(3).",
+        "Multiple firms of solicitors and counsel faced catastrophic clawback if the disallowance stood.",
+        "Peter Smith J reviewed the decision following permission to appeal."
+      ],
+      "procedural_posture": "Review of a costs judge's decision disallowing all legally aided costs for claiming work under two actions on one certificate.",
+      "outcome": "Master Simons' disallowance set aside; matter remitted for detailed assessment on the basis that sequential actions do not breach regulation 46(3).",
+      "ratio": "Regulation 46(3) prohibits more than one originating process in existence at any given time under a single certificate, not a succession of actions arising from the same dispute; Bridgewater v Griffiths should be distinguished on that purposive construction.",
+      "legal_issues": [
+        "Whether regulation 46(3) barred recovery of costs incurred under two related actions on one certificate",
+        "Whether Bridgewater v Griffiths was wrongly decided or distinguishable",
+        "Whether the certificate was irrevocably adopted for the first action only"
+      ],
+      "catchwords": [
+        "legal aid certificate",
+        "regulation 46(3)",
+        "detailed assessment",
+        "two writs",
+        "Bridgewater",
+        "costs disallowance"
+      ],
+      "index_terms": [
+        "Gareth Pearce",
+        "Ove Arup Partnership",
+        "Master Simons",
+        "Landau and Cohen",
+        "Anthony Gold",
+        "originating process"
+      ],
+      "linked_authorities": [
+        "Bridgewater v Griffiths [2000] 1 WLR 524"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Review outcome and remittal are explicit. Detailed statutory construction is lengthy but the holding is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/834.json",
+    "status": "done",
+    "notes": "Leading DDA 1995 housing possession judgment; Romano and Samari outcomes and DDA analysis are explicit.",
+    "enrichment": {
+      "short_title": "Anti-social behaviour possession and Disability Discrimination Act 1995",
+      "area_of_law": [
+        "Housing law",
+        "Landlord and tenant",
+        "Disability discrimination",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1985",
+          "provisions": [
+            "Schedule 2 ground 2",
+            "section 84(2)(a)"
+          ]
+        },
+        {
+          "title": "Disability Discrimination Act 1995",
+          "provisions": [
+            "section 1",
+            "section 22(3)",
+            "section 24",
+            "section 25"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3"
+          ]
+        },
+        {
+          "title": "Anti-Social Behaviour Act 2003",
+          "provisions": [
+            "section 12"
+          ]
+        },
+        {
+          "title": "Housing Act 1996",
+          "provisions": [
+            "section 218A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Manchester City Council sought possession against secure tenants Sharon Romano and Yvonne Samari for anti-social behaviour under ground 2.",
+        "Romano faced enforcement of a suspended possession order for noise nuisance; Samari faced trial possession proceedings after an injunction.",
+        "Both tenants raised Disability Discrimination Act 1995 defences linked to mental impairment affecting their conduct.",
+        "The Disability Rights Commission intervened in the appeals."
+      ],
+      "procedural_posture": "Appeals by two secure tenants against possession orders or refusal to suspend a warrant of possession.",
+      "outcome": "Both appeals dismissed; council justified in Romano case on health-endangerment grounds; Samari not shown disabled under section 1 but council's section 24 justification upheld.",
+      "ratio": "Where possession relates to a disabled tenant's conduct, section 24 DDA 1995 requires the landlord to hold and reasonably maintain an opinion that eviction is necessary to avoid endangering health or safety; reasonableness under the Housing Act must be exercised compatibly with that scheme following North Devon Homes v Brazier.",
+      "legal_issues": [
+        "Whether the tenants were disabled persons within section 1 DDA 1995",
+        "Whether eviction was for a reason relating to disability under section 24",
+        "Whether the council's opinion that health or safety would be endangered was reasonably held",
+        "How DDA 1995 interacts with secure tenancy possession grounds"
+      ],
+      "catchwords": [
+        "secure tenancy",
+        "ground 2",
+        "anti-social behaviour",
+        "Disability Discrimination Act 1995",
+        "possession order",
+        "reasonableness"
+      ],
+      "index_terms": [
+        "Manchester City Council",
+        "Sharon Romano",
+        "Yvonne Samari",
+        "North Devon Homes v Brazier",
+        "Novacold",
+        "mental impairment"
+      ],
+      "linked_authorities": [
+        "North Devon Homes Ltd v Brazier [2003] EWHC 574 (QB)",
+        "Clark v Novacold [1999] IRLR 318",
+        "Croydon LBC v Moody (1998) 31 HLR 738",
+        "Goodwin v The Patent Office [1999] IRLR 4"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Leading judgment with explicit outcomes for both tenants and detailed DDA analysis. Parliament urged to review the legislation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1540.json",
+    "status": "done",
+    "notes": "VAT credit card handling PITA plan appeal; contractual analysis and allowance of appeal are clearly stated.",
+    "enrichment": {
+      "short_title": "VAT treatment of credit card handling fees under PITA plan",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "Commercial contract",
+        "Retail"
+      ],
+      "statutes_considered": [
+        {
+          "title": "EC Council Directive 77/388 (Sixth VAT Directive)",
+          "provisions": [
+            "Article 2",
+            "Article 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Debenhams Retail plc challenged a VAT assessment of £644,382 on card sales where card companies deducted handling fees from the ticket price.",
+        "The PITA plan split each card sale into a goods contract with Debenhams and a separate exempt card-handling contract with subsidiary DCHS.",
+        "Customs and Excise argued the plan did not alter the true single supply for VAT purposes.",
+        "The VAT tribunal dismissed Debenhams' appeal; many major UK retailers had adopted similar arrangements."
+      ],
+      "procedural_posture": "Appeal on a point of law from the VAT tribunal against an assessment for underpaid VAT on credit and debit card sales.",
+      "outcome": "Appeal allowed; tribunal held to have erred in law; assessment to be adjusted subject to argument on ancillary supply.",
+      "ratio": "On the true contractual analysis the PITA plan did not create a separate exempt card-handling supply distinct from the main retail supply; the Commissioners' principal argument that VAT remained payable on the full ticket price therefore fails.",
+      "legal_issues": [
+        "Whether card handling fees formed a separate supply for VAT purposes",
+        "Whether the PITA contractual structure reflected the true economic and legal position",
+        "Whether the VAT tribunal erred in treating DCHS as incapable of independent contracting",
+        "Whether card handling charges were ancillary to the main supply"
+      ],
+      "catchwords": [
+        "VAT",
+        "credit card handling",
+        "PITA plan",
+        "single supply",
+        "retail transactions",
+        "Debenhams"
+      ],
+      "index_terms": [
+        "Debenhams Card Handling Services",
+        "Customs and Excise",
+        "VAT tribunal",
+        "Tesco v Customs and Excise",
+        "card merchant agreement",
+        "ticket price"
+      ],
+      "linked_authorities": [
+        "Tesco plc v Commissioners of Customs and Excise [2003] STC 1561",
+        "Customs and Excise Commissioners v Reed Personnel Services Ltd [1995] STC 588",
+        "Customs and Excise Commissioners v Redrow Group Ltd [1999] 1 WLR 408"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Appeal outcome and fiscal consequence are explicit. Ancillary supply issue adjourned; ECJ reference left open."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1498.json",
+    "status": "done",
+    "notes": "Gaming machine trade mark validity and infringement over BAR-X and OXO; dismissal of all claims is explicit.",
+    "enrichment": {
+      "short_title": "Gaming machine trade marks BAR-X and OXO not infringed",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks",
+        "Gaming and amusement machines"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": [
+            "section 10",
+            "section 11"
+          ]
+        },
+        {
+          "title": "First Council Directive 89/104/EEC",
+          "provisions": [
+            "Article 5",
+            "Article 6"
+          ]
+        },
+        {
+          "title": "Community Trade Mark Regulation",
+          "provisions": [
+            "Article 9",
+            "Article 12"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Electrocoin Automatics Ltd owned UK and Community trade mark registrations for BAR-X and OXO covering gaming machines.",
+        "Coinworld Ltd and its directors were alleged to have infringed by using traditional fruit machine symbols on reels and win tables.",
+        "The defendants argued the marks were invalid as descriptive and that use was as game integers not as trade marks.",
+        "Directors Evans and Ingram admitted procuring the company's allegedly infringing acts."
+      ],
+      "procedural_posture": "Trial of claims for invalidity and infringement of UK and Community trade mark registrations.",
+      "outcome": "Claims for invalidity and infringement dismissed; defendants entitled to rely on Article 6(1)(b) honest practices defence.",
+      "ratio": "Traditional gaming symbols used as origin-neutral integers on reels and in win tables are not used to distinguish the defendant's machines; where marks derive distinctiveness from non-conventional use, Article 6(1)(b) permits honest commercial use as game elements without infringement.",
+      "legal_issues": [
+        "Whether BAR-X and OXO registrations were invalid as descriptive or non-distinctive",
+        "Whether use of symbols on gaming machine reels amounted to trade mark use",
+        "Whether identity or similarity could be established from intermittent reel alignments",
+        "Whether Article 6(1)(b) applied to use as game integers"
+      ],
+      "catchwords": [
+        "trade mark infringement",
+        "gaming machines",
+        "BAR-X",
+        "OXO",
+        "Article 6 honest practices",
+        "fruit machine symbols"
+      ],
+      "index_terms": [
+        "Electrocoin Automatics",
+        "Coinworld",
+        "reel symbols",
+        "Community trade mark",
+        "origin neutral integers",
+        "win tables"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Final conclusion dismissing all claims is explicit. Validity and multiple infringement forms analysed separately but outcomes uniform."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/835.json",
+    "status": "done",
+    "notes": "Practice guidance on revised CPR Part 52 Practice Direction; substantive jurisdictional appeal deferred but guidance content is clear.",
+    "enrichment": {
+      "short_title": "Revised CPR Part 52 Practice Direction guidance",
+      "area_of_law": [
+        "Civil procedure",
+        "Appeals",
+        "Court of Appeal practice"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": [
+            "Part 52",
+            "Rule 52.11(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Court of Appeal heard a jurisdictional issue in Scribes West Ltd v Anstalt but deferred judgment on that issue.",
+        "Lord Justice Brooke used the hearing to explain major changes to the Practice Direction to CPR Part 52 effective from 30 June 2004.",
+        "Revisions cover grounds of appeal, appeal bundles, skeleton arguments, authorities bundles, and Court of Appeal listing practice.",
+        "Non-compliance with bundle and filing requirements may lead to rejection, costs sanctions, or dismissal."
+      ],
+      "procedural_posture": "Incidental practice guidance given during a pending civil appeal on a jurisdictional issue.",
+      "outcome": "Substantive jurisdictional judgment reserved; revised Practice Direction explained and to take effect from 30 June 2004.",
+      "ratio": "The revised CPR Part 52 Practice Direction requires appeal bundles and skeleton arguments to contain only documents directly relevant to the appeal, with certification, strict filing timetables, and sanctions for non-compliance in the Court of Appeal.",
+      "legal_issues": [
+        "Whether grounds of appeal must specify law versus fact points",
+        "What documents must be included in the appeal bundle",
+        "Timelines for skeleton arguments and authorities bundles",
+        "Sanctions for non-compliance with Court of Appeal practice requirements"
+      ],
+      "catchwords": [
+        "CPR Part 52",
+        "Practice Direction",
+        "appeal bundle",
+        "skeleton argument",
+        "Court of Appeal",
+        "core bundle"
+      ],
+      "index_terms": [
+        "Scribes West Ltd v Anstalt",
+        "Civil Appeals Office",
+        "authorities bundle",
+        "permission to appeal",
+        "short warned list",
+        "Department of Constitutional Affairs"
+      ],
+      "linked_authorities": [
+        "Jolly v Jay [2002] EWCA Civ 277",
+        "Philosophy Inc v Ferretti Studios SRL [2002] EWCA Civ 921",
+        "Harvey Shopfitters Ltd v ADI Ltd [2003] EWCA Civ 1757"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Practice guidance is detailed and explicit. Substantive appeal on jurisdiction was not decided in this judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1784.json",
+    "status": "done",
+    "notes": "CCRC reference on confession evidence and denial of solicitor access; conviction quashed with Crown concession is clear.",
+    "enrichment": {
+      "short_title": "Unsafe conviction from denied solicitor access and unrecorded interviews",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal evidence",
+        "Police powers",
+        "Appeals against conviction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": [
+            "section 9(1)",
+            "section 9(2)"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 58",
+            "section 76"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Alan Richardson was convicted in 1986 of causing grievous bodily harm with intent to a British Transport policeman in Nottingham.",
+        "The case against him rested on confessions made after nine police interviews without access to a solicitor.",
+        "The first six interviews were not contemporaneously recorded despite a Nottinghamshire directive requiring notes of all interviews.",
+        "The Criminal Cases Review Commission referred the case; the Crown conceded the confessions should not have gone before the jury."
+      ],
+      "procedural_posture": "Reference by the Criminal Cases Review Commission treated as an appeal under section 9 Criminal Appeal Act 1995.",
+      "outcome": "Appeal allowed; conviction quashed as unsafe.",
+      "ratio": "Denial of access to a solicitor for over 20 hours during prolonged interviews, combined with failure to record early denials, renders confession evidence inadmissible by current standards; without it the prosecution case was non-existent.",
+      "legal_issues": [
+        "Whether denial of solicitor access breached the Judges Rules and section 58 PACE",
+        "Whether confession evidence should have been excluded as involuntary or unfair",
+        "Whether failure to record the first six interviews prejudiced the defence",
+        "Whether the conviction remained safe on the CCRC reference"
+      ],
+      "catchwords": [
+        "CCRC reference",
+        "confession evidence",
+        "solicitor access",
+        "Judges Rules",
+        "PACE section 58",
+        "unsafe conviction"
+      ],
+      "index_terms": [
+        "Nottingham Crown Court",
+        "British Transport Police",
+        "Neil Harvey",
+        "Superintendent Newton",
+        "Cleary",
+        "Samuel"
+      ],
+      "linked_authorities": [
+        "R v Samuel (1988) 87 Cr App R 232",
+        "R v Alladice (1988) 87 Cr App R 380",
+        "R v Ashley King [2000] Crim LR 835",
+        "R v O'Brien [2000] Crim LR 676"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Outcome and Crown concession are explicit. Additional alibi direction point noted but not decided."
+      }
+    }
+  }
+]

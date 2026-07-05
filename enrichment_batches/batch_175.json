@@ -1,0 +1,783 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3333.json",
+    "status": "done",
+    "notes": "Complete Chancery judgment on preliminary issue; full reasoning on s.23 LTA 1954.",
+    "enrichment": {
+      "short_title": "Company limited by guarantee running sports grounds held to carry on a business under Landlord and Tenant Act 1954 Part II",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Business tenancies",
+        "Professional negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Landlord and Tenant Act 1954",
+          "provisions": ["Part II", "s.23", "s.26", "s.29(3)"]
+        }
+      ],
+      "key_facts": [
+        "Hawkesbrook Leisure, a company limited by guarantee without share capital, operated Fairlop and Langley Park sports grounds under leases from London Regional Transport, taking deposits and selling food and drink to paying members of the public.",
+        "Defendant solicitors served s.26 renewal notices but failed to apply for new tenancies within the s.29(3) time limit; the claimant sued for negligence.",
+        "On a preliminary issue, the defendants contended Hawkesbrook was not in occupation for the purposes of a business because it could not distribute profits to members and aimed only to maintain facilities rather than trade for profit."
+      ],
+      "procedural_posture": "Preliminary issue trial in Chancery Division on business tenancy qualification before the main negligence claim.",
+      "outcome": "Preliminary issue answered in the affirmative: Hawkesbrook was carrying on a business within s.23 of the 1954 Act at Fairlop and Langley Park.",
+      "ratio": "A non-profit company that trades commercially with a view to generating a surplus, even where profits cannot be distributed to members, carries on a business within s.23(1) and (2) of the Landlord and Tenant Act 1954; profit motive is not essential and restriction on distribution does not exclude protection.",
+      "legal_issues": [
+        "Whether a company limited by guarantee operating sports grounds for commercial hire was carrying on a business within s.23 LTA 1954",
+        "Whether inability to distribute profits to members excluded Part II protection",
+        "Whether the tenant's predominant intention to maintain facilities rather than make distributable profit mattered"
+      ],
+      "catchwords": [
+        "business tenancy",
+        "s.23 LTA 1954",
+        "company limited by guarantee",
+        "non-profit trading",
+        "sports ground lease",
+        "preliminary issue",
+        "professional negligence"
+      ],
+      "index_terms": [
+        "Hawkesbrook Leisure",
+        "Reece-Jones Partnership",
+        "Fairlop",
+        "Langley Park",
+        "London Regional Transport",
+        "business tenant",
+        "surplus reinvestment"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Town Investments Ltd v Department of the Environment",
+          "citation": "[1978] AC 359"
+        },
+        {
+          "name": "Customs and Excise Commissioners v Lord Fisher",
+          "citation": "[1981] 2 All ER 147"
+        },
+        {
+          "name": "Re The Duty on the Estate of the Incorporated Council of Law Reporting for England and Wales",
+          "citation": "(1888) 22 QBD 279"
+        },
+        {
+          "name": "Secretary of State for Transport v Jenkins",
+          "citation": "[2000] 79 P&CR 118"
+        },
+        {
+          "name": "Rolls v Miller",
+          "citation": "(1884) 27 Ch D 71"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment with clear ratio on s.23 construction and unchallenged factual evidence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1612.json",
+    "status": "done",
+    "notes": "Full Court of Appeal judgment on strike-out of restitution and trust claims.",
+    "enrichment": {
+      "short_title": "Former armed forces personnel fail in restitution claim over alleged pension 'abatements' from gross pay",
+      "area_of_law": [
+        "Restitution and unjust enrichment",
+        "Pensions",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Official Secrets Act 1911",
+          "provisions": []
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 3.4"]
+        }
+      ],
+      "key_facts": [
+        "Eleven former service personnel who left before 1975 claimed the unfunded Armed Forces Pension Scheme was contributory in substance because pay scales were fixed after deducting notional pension costs ('abatements') from gross pay.",
+        "They sought restitution and/or fiduciary/trust remedies against HM Treasury and the Ministry of Defence for retention of those deemed contributions.",
+        "Stanley Burnton J struck out the action; the appellants appealed, arguing developing restitution law and that form should not prevail over substance."
+      ],
+      "procedural_posture": "Appeal against strike-out of restitutionary and trust/fiduciary claims under CPR 3.4, assuming pleaded facts true.",
+      "outcome": "Appeal dismissed; restitutionary and trust claims held plainly doomed to failure.",
+      "ratio": "Unjust enrichment requires the claimant to have given up a legal or equitable right and the defendant to have received something attributable to the claimant; where gross pay was lawfully fixed at levels that took pension costs into account before payment, service personnel had no entitlement to the notional abatement and no restitutionary or trust claim arises.",
+      "legal_issues": [
+        "Whether alleged abatements in fixing gross armed forces pay constituted contributions giving rise to unjust enrichment",
+        "Whether the Scheme was contributory in substance despite being non-contributory in form",
+        "Whether fiduciary/trust duties arose from the service relationship",
+        "Scope of strike-out in developing areas of law under CPR 3.4"
+      ],
+      "catchwords": [
+        "unjust enrichment",
+        "abatement",
+        "armed forces pension",
+        "non-contributory scheme",
+        "strike out",
+        "CPR 3.4",
+        "fiduciary duty",
+        "constructive trust"
+      ],
+      "index_terms": [
+        "Hudson",
+        "HM Treasury",
+        "Ministry of Defence",
+        "Armed Forces Pension Scheme",
+        "Armed Forces Pension Group",
+        "deemed contributions",
+        "gross pay"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Partco Group Ltd v Wragg and Scott",
+          "citation": "[2002] 2 Lloyd's Rep 343"
+        },
+        {
+          "name": "Farah v British Airways plc",
+          "citation": "The Times, 26 January 2000"
+        },
+        {
+          "name": "Barrett v Enfield London Borough Council",
+          "citation": "[1999] 3 WLR 79"
+        },
+        {
+          "name": "E (a minor) v Dorset County Council",
+          "citation": "[1995] 2 AC 633"
+        },
+        {
+          "name": "Attorney General v Blake",
+          "citation": "[2000] 4 All ER 385"
+        },
+        {
+          "name": "Reading v Attorney General",
+          "citation": "[1951] AC 507"
+        },
+        {
+          "name": "Street v Mountford",
+          "citation": "[1985] AC 809"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete appellate judgment with detailed analysis of pleaded facts and restitution elements."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1708.json",
+    "status": "done",
+    "notes": "Complete CA judgment on contributory negligence; fact-sensitive appeal.",
+    "enrichment": {
+      "short_title": "Drunk passenger not contributorily negligent for failing to ask heavy-drinking driver how much he had consumed before accepting lift",
+      "area_of_law": [
+        "Personal injury",
+        "Road traffic",
+        "Negligence",
+        "Contributory negligence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "After a day of heavy drinking at a pub, John Booth accepted a lift from Simon White, whom he knew to be a habitual heavy drinker; White's breath test after the single-vehicle accident showed nearly twice the legal limit.",
+        "Booth himself had consumed 10–15 pints and admitted he could not make reliable judgments about his own safety; primary liability was admitted.",
+        "The trial judge found no contributory negligence, relying partly on unchallenged evidence from Booth's wife that White appeared fit to drive at 6.15pm."
+      ],
+      "procedural_posture": "Appeal from Norwich County Court judgment entering 100% liability for personal injuries after admitted primary liability.",
+      "outcome": "Appeal dismissed; trial judge's finding on contributory negligence upheld.",
+      "ratio": "Whether a passenger is contributorily negligent for riding with a driver who may be impaired is a question of fact and degree; the court will not impose a duty to interrogate the driver as to exact alcohol consumption, and will not interfere with a trial judge's assessment unless wrong in law or unsupported by the evidence.",
+      "legal_issues": [
+        "Whether a passenger who knows a driver is a heavy drinker must ask how much alcohol has been consumed before accepting a lift",
+        "Application of Owens v Brimmell principles to a heavily intoxicated passenger",
+        "Standard of appellate review of contributory negligence findings"
+      ],
+      "catchwords": [
+        "contributory negligence",
+        "drink driving",
+        "passenger liability",
+        "Owens v Brimmell",
+        "road traffic accident",
+        "fact and degree"
+      ],
+      "index_terms": [
+        "Booth",
+        "White",
+        "Flixton",
+        "Norwich County Court",
+        "breathalyser",
+        "heavy drinker",
+        "passenger care"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Owens v Brimmell",
+          "citation": "[1977] 1 QB 859"
+        },
+        {
+          "name": "Froom v Butcher",
+          "citation": "[1976] QB 286"
+        },
+        {
+          "name": "Malone v Rowan",
+          "citation": "[1984] 3 All ER 402"
+        },
+        {
+          "name": "Brignall v Kelly",
+          "citation": "CA, 17 May 1994"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment with clear facts, legal principles and appellate reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2851.json",
+    "status": "done",
+    "notes": "Complete joint judgment on habeas corpus application resisting extradition to Germany.",
+    "enrichment": {
+      "short_title": "Turkish national fails in habeas application to resist extradition to Germany over feared deportation to Turkey",
+      "area_of_law": [
+        "Extradition",
+        "Human rights",
+        "Administrative law",
+        "Habeas corpus"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act 1989",
+          "provisions": ["s.6(1)(d)", "s.9(8)"]
+        },
+        {
+          "title": "Foreigners Act (Germany)",
+          "provisions": ["s.47(1)", "s.51(2)"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art. 3", "Art. 8"]
+        }
+      ],
+      "key_facts": [
+        "Turkish citizen Ozen, lawfully resident in Germany, was committed for extradition from England after escaping German custody and serving English sentences for fraud and wounding.",
+        "He feared that on return Germany would deport him to Turkey where, as a Kurd, he would face Article 3 mistreatment, relying on his brother Fatih's deportation experience.",
+        "Germany's extradition request related to serious prior convictions including robbery, assault and weapons offences."
+      ],
+      "procedural_posture": "Habeas corpus application following committal under the Extradition Act 1989 to prevent return to Germany.",
+      "outcome": "Application failed; no real risk that German authorities would fail properly to apply domestic and Convention safeguards before any deportation.",
+      "ratio": "On a habeas challenge to extradition, the applicant must show a real risk that the requesting state will fail to apply its own law; where German law and Strasbourg jurisprudence provide multi-tier administrative review of deportation including Article 3 and Article 8 considerations, speculative fears based on a sibling's experience do not establish such a risk.",
+      "legal_issues": [
+        "Construction of Extradition Act 1989 s.6(1)(d) regarding detention by reason of nationality",
+        "Whether extradition to Germany carried a real risk of onward deportation to Turkey in breach of Articles 3 and 8 ECHR",
+        "Whether German Foreigners Act s.47 expulsion powers would be lawfully and proportionately applied"
+      ],
+      "catchwords": [
+        "habeas corpus",
+        "extradition",
+        "Article 3 ECHR",
+        "Article 8 ECHR",
+        "deportation risk",
+        "Foreigners Act Germany",
+        "Kurdish extraditee"
+      ],
+      "index_terms": [
+        "Ozen",
+        "Republic of Germany",
+        "Fatih Ozen",
+        "Bow Street Magistrates",
+        "Hohensberg prison",
+        "PKK",
+        "Yilmaz v Germany"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Yilmaz v Germany",
+          "citation": "Application 52853/99"
+        },
+        {
+          "name": "Karadag v Germany",
+          "citation": "Application 21212/93"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete judgment; court expressly left s.6(1)(d) construction undecided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1629.json",
+    "status": "done",
+    "notes": "Complete CA judgment on Children Act local authority designation.",
+    "enrichment": {
+      "short_title": "Care order local authority designation upheld where s.105(6) disregard ceased after child placed with grandparents",
+      "area_of_law": [
+        "Family law",
+        "Child protection",
+        "Local authority law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": ["s.31(8)", "s.105(6)", "s.23(6)"]
+        },
+        {
+          "title": "Children and Young Persons Act 1969",
+          "provisions": ["s.7(7)(b)"]
+        }
+      ],
+      "key_facts": [
+        "Child S, injured in Oxfordshire, was returned to Norfolk to live with maternal grandparents pursuant to Wall J's order; Hogg J later made a care order designating Norfolk rather than Oxfordshire as the responsible authority.",
+        "Norfolk appealed, arguing the simple test from Northamptonshire v Islington required designation of Oxfordshire because ordinary residence immediately before accommodation by the authority should be deemed to continue.",
+        "All parties ultimately supported a care order; the dispute was which local authority should be designated."
+      ],
+      "procedural_posture": "Appeal against care order designation in long-running public law children proceedings.",
+      "outcome": "Appeal dismissed; Norfolk designation upheld on alternative ground that s.105(6)(c) did not apply after placement with relatives under s.23(6).",
+      "ratio": "Section 105(6)(c) disregards periods when a child is provided with accommodation by a local authority, but once a looked-after child is enabled to live with relatives under s.23(6) he ceases to be so accommodated and ordinary residence may be determined without applying the disregard; welfare considerations alone cannot justify departing from the simple residence test except in truly exceptional cases.",
+      "legal_issues": [
+        "Construction of Children Act 1989 s.105(6) 'disregard' provision for ordinary residence",
+        "Which local authority should be designated under s.31(8) when a child in care lives with grandparents in another county",
+        "Whether post-placement welfare factors could make an 'exceptional' case under Northamptonshire v Islington"
+      ],
+      "catchwords": [
+        "care order",
+        "local authority designation",
+        "ordinary residence",
+        "s.105(6) disregard",
+        "s.23(6) placement with relatives",
+        "foster placement",
+        "Norfolk",
+        "Oxfordshire"
+      ],
+      "index_terms": [
+        "Re H (Child)",
+        "Norfolk County Council",
+        "Oxfordshire County Council",
+        "Hogg J",
+        "Wall J",
+        "grandparent placement",
+        "non-accidental injury"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Northamptonshire County Council v Islington London Borough Council",
+          "citation": "[2001] Fam 364"
+        },
+        {
+          "name": "C (Child) v Plymouth County Council",
+          "citation": "[2000] 1 FLR 875"
+        },
+        {
+          "name": "Re C (Care Order: Appropriate Local Authority)",
+          "citation": "[1997] 1 FLR 544"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment with detailed statutory analysis and clear alternative ratio."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1662.json",
+    "status": "done",
+    "notes": "Complete VAT appeal with ECJ authority analysis.",
+    "enrichment": {
+      "short_title": "VAT input tax on land purchase not deductible against linked exempt land sale and taxable building contract",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "Property development"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": ["Schedule 10, para. 2"]
+        },
+        {
+          "title": "Sixth VAT Directive (77/388/EEC)",
+          "provisions": ["Art. 17"]
+        },
+        {
+          "title": "First VAT Directive (67/227/EEC)",
+          "provisions": ["Art. 2"]
+        }
+      ],
+      "key_facts": [
+        "Southern Primary Housing bought land (paying VAT), sold it exempt to a housing association, and entered a development contract to build housing on the land (taxable output).",
+        "The taxpayer sought to recover input VAT on the land purchase against output tax on the building contract, treating the transactions as one commercial package.",
+        "The VAT Tribunal and Sir Donald Rattee held the input tax recoverable; Customs and Excise appealed."
+      ],
+      "procedural_posture": "Appeal from High Court dismissing Customs and Excise appeal against VAT Tribunal decision.",
+      "outcome": "Appeal allowed; input VAT on land purchase not deductible against building contract output tax.",
+      "ratio": "Under Article 17(2) of the Sixth Directive, input VAT is deductible only where goods or services have a direct and immediate link with taxable output transactions and form part of their cost components; commercially linked but legally distinct land purchase and exempt sale transactions do not make land acquisition a cost component of a subsequent development contract merely because the contract could not have proceeded without the land.",
+      "legal_issues": [
+        "Whether VAT on land acquisition was 'used for the purposes of' a taxable development contract",
+        "Application of the ECJ 'direct and immediate link' and cost component tests",
+        "Whether commercially connected transactions could be treated as a single supply for deduction purposes"
+      ],
+      "catchwords": [
+        "input tax",
+        "VAT deduction",
+        "direct and immediate link",
+        "cost component",
+        "land purchase",
+        "development contract",
+        "mixed taxable and exempt supplies"
+      ],
+      "index_terms": [
+        "Southern Primary Housing",
+        "Customs and Excise",
+        "housing association",
+        "Wiggett Construction",
+        "BLP Group",
+        "Midland Bank",
+        "Abbey National"
+      ],
+      "linked_authorities": [
+        {
+          "name": "BLP Group plc v Customs and Excise Commissioners",
+          "citation": "Case C-4/94, [1995] STC 424"
+        },
+        {
+          "name": "Midland Bank plc v Customs and Excise Commissioners",
+          "citation": "Case C-98/98, [2000] STC"
+        },
+        {
+          "name": "Abbey National plc v Customs and Excise Commissioners",
+          "citation": "Case C-408/98, [2001] STC 297"
+        },
+        {
+          "name": "Customs and Excise Commissioners v Wiggett Construction Ltd",
+          "citation": "[2001] STC 1263"
+        },
+        {
+          "name": "Card Protection Plan Ltd v Customs and Excise Commissioners",
+          "citation": "Case C-349/96, [1999] STC 270"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment with detailed ECJ case law analysis and clear legal conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2910.json",
+    "status": "done",
+    "notes": "Complete judicial review on probation disclosure; partial claimant success.",
+    "enrichment": {
+      "short_title": "Life-licence murderer's challenge succeeds where probation service required accommodation manager disclosure on wrong presumption basis",
+      "area_of_law": [
+        "Administrative law",
+        "Human rights",
+        "Criminal justice",
+        "Probation and parole"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime (Sentences) Act 1997",
+          "provisions": ["s.29"]
+        },
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": ["s.32"]
+        },
+        {
+          "title": "Criminal Justice and Court Services Act 2000",
+          "provisions": ["s.1", "s.2", "s.67", "s.68"]
+        },
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": ["s.1(a)"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art. 8"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A, aged 70, convicted of murdering his wife, sought to buy sheltered accommodation but challenged the National Probation Service condition that the house manager be told of his conviction before approving the placement.",
+        "The Parole Board had recommended release on life licence without a disclosure condition; probation assessed medium risk of harm, particularly in future relationships with elderly vulnerable women.",
+        "The September 2003 risk assessment applied a presumption in favour of disclosure to accommodation providers."
+      ],
+      "procedural_posture": "Expedited judicial review of probation service risk assessment requiring disclosure of conviction to private sheltered housing manager before licence accommodation approval.",
+      "outcome": "Challenge succeeded in part; September 2003 disclosure decision and subsequent MAPPA meeting conclusion set aside, but no blanket declaration that disclosure would always be unlawful.",
+      "ratio": "Although the probation service must make its own independent risk assessment distinct from the Parole Board, requiring disclosure of previous convictions to third parties must be justified by a pressing need and proportionality under Article 8; a presumption in favour of disclosure to accommodation providers is the wrong starting point and renders the decision unlawful even where close monitoring on release may otherwise justify limited disclosure.",
+      "legal_issues": [
+        "Whether probation service was bound by the Parole Board's release decision not to impose disclosure",
+        "Proportionality of disclosing a murder conviction to a private sheltered accommodation manager under Article 8",
+        "Application of MAPPA guidance on exceptional disclosure to non-MAPPA agencies",
+        "Common law presumption against disclosure per ex parte Thorpe"
+      ],
+      "catchwords": [
+        "judicial review",
+        "probation service",
+        "life licence",
+        "disclosure of convictions",
+        "Article 8",
+        "MAPPA",
+        "sheltered accommodation",
+        "pressing need",
+        "public protection"
+      ],
+      "index_terms": [
+        "R (A) v National Probation Service",
+        "Oasys risk assessment",
+        "Lifer Manual",
+        "Parole Board",
+        "medium risk of harm",
+        "private housing provider"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Secretary of State for the Home Department, ex parte Harry",
+          "citation": "[1998] 1 WLR 1737"
+        },
+        {
+          "name": "R v Chief Constable of North Wales Police, ex parte Thorpe",
+          "citation": "[1999] QB 396"
+        },
+        {
+          "name": "R (Ellis) v Chief Constable of Essex",
+          "citation": "[2003] EWHC 1321 (Admin)"
+        },
+        {
+          "name": "R v A Local Authority in the Midlands, ex parte LM",
+          "citation": "[2000] UKHRR 143"
+        },
+        {
+          "name": "Colonel Munjaz v Mersey Care National Health Service Trust",
+          "citation": "[2003] EWCA Civ 1036"
+        },
+        {
+          "name": "Stafford v United Kingdom",
+          "citation": "[2002] 35 EHRR 32"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete judgment with detailed human rights and MAPPA analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2800.json",
+    "status": "done",
+    "notes": "Complete s.289 planning appeal; Sage holistic test applied.",
+    "enrichment": {
+      "short_title": "Enforcement notice upheld where joined mobile homes and later cladding meant building works not substantially complete within four years",
+      "area_of_law": [
+        "Planning law",
+        "Enforcement",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["s.171B(1)", "s.174(2)(d)", "s.289", "s.55(2)(a)", "s.92"]
+        }
+      ],
+      "key_facts": [
+        "Mr and Mrs Brown lived in an L-shaped structure formed by bolting two mobile homes together at 'Paradise Lost', Runwell, Essex, from summer 1998, later adding timber cladding after 1 October 2001.",
+        "Chelmsford Borough Council issued enforcement notices for change of use to a caravan site; the Browns argued s.171B barred enforcement because building operations were substantially complete more than four years before September 2002.",
+        "The inspector applied the House of Lords 'holistic' approach in Sage and found substantial completion only when cladding finished the intended works."
+      ],
+      "procedural_posture": "Section 289 appeal to High Court against planning inspector's decision upholding enforcement notices.",
+      "outcome": "Appeal dismissed; inspector's application of Sage and finding on substantial completion not vitiated by error of law.",
+      "ratio": "Under s.171B TCPA 1990, whether building operations were substantially complete is a question of fact applying the holistic approach in Sage v Secretary of State: regard must be had to the totality of operations the developer intended, including ongoing repair and cladding forming part of one continuous programme, rather than treating an earlier incomplete structure as a finished building.",
+      "legal_issues": [
+        "Application of Sage holistic test to determine date of substantial completion under s.171B",
+        "Whether cladding and repair works were separate building operations or part of one development",
+        "Whether the inspector substituted his own view of the intended building for the developer's intention"
+      ],
+      "catchwords": [
+        "planning enforcement",
+        "s.171B",
+        "substantial completion",
+        "four-year rule",
+        "mobile home",
+        "caravan site",
+        "Sage",
+        "holistic approach",
+        "s.289 appeal"
+      ],
+      "index_terms": [
+        "Brown v Brown",
+        "Paradise Lost",
+        "Runwell",
+        "Chelmsford Borough Council",
+        "joined mobile homes",
+        "timber cladding",
+        "planning inspector"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Sage v Secretary of State for the Environment, Transport and the Regions",
+          "citation": "[2003] UKHL 22"
+        },
+        {
+          "name": "Bradford Metropolitan District Council v Secretary of State for the Environment",
+          "citation": "(1978) JPL 177"
+        },
+        {
+          "name": "Worthy Fuel Injection Ltd v Secretary of State for the Environment",
+          "citation": "(1983) JPL 173"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete judgment; limited to grounds permitted on appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1611.json",
+    "status": "done",
+    "notes": "Complete CA judgment on PI quantum appeal; source case_name metadata mismatches content (Pinnington v Crossleigh).",
+    "enrichment": {
+      "short_title": "Court of Appeal refuses to interfere with substantial PI award for motorcyclist with dominant arm amputation and multiple injuries",
+      "area_of_law": [
+        "Personal injury",
+        "Damages",
+        "Negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law Reform (Personal Injuries) Act 1948",
+          "provisions": ["s.2(4)"]
+        },
+        {
+          "title": "National Health Service Act 1977",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "David Pinnington suffered catastrophic injuries in a July 1998 motorcycle accident for which Crossleigh Construction admitted liability, including amputation of the dominant right arm and extensive injuries to left wrist, hip, knee, spine, bowel, bladder and head.",
+        "Judge Bursell QC awarded £1,171,719.52 including £145,000 PSLA, nil residual earning capacity, £39,936 future accommodation costs and £215,900 for private prostheses.",
+        "The defendant appealed four heads of damages; the Court of Appeal applied restrictive review principles to jury-type assessments."
+      ],
+      "procedural_posture": "Appeal with permission on PSLA, residual earning capacity, accommodation and prostheses elements of High Court PI assessment after admitted liability.",
+      "outcome": "Appeal dismissed on all four challenged heads; prostheses award reduced by agreement to £181,400 for double-counting of initial costs.",
+      "ratio": "The Court of Appeal will not interfere with a trial judge's assessment of general damages, future accommodation or prosthetic needs unless manifestly excessive; where NHS provision may exist but local availability is uncertain and the claimant is highly motivated to use recommended devices, it is open to the judge to award private costs under s.2(4) of the 1948 Act, and residual earning capacity may properly be assessed as nil on the totality of medical and occupational evidence.",
+      "legal_issues": [
+        "Whether £145,000 PSLA was manifestly excessive for composite catastrophic injuries",
+        "Whether any award should be made for residual earning capacity",
+        "Reasonableness of future accommodation costs based on current rented bungalow value",
+        "Recoverability of private prostheses where NHS alternatives exist elsewhere but not locally"
+      ],
+      "catchwords": [
+        "personal injury damages",
+        "pain suffering loss of amenity",
+        "residual earning capacity",
+        "accommodation claim",
+        "prostheses",
+        "NHS disregard",
+        "appellate review",
+        "amputation"
+      ],
+      "index_terms": [
+        "Pinnington",
+        "Crossleigh Construction",
+        "Judge Bursell",
+        "dominant arm amputation",
+        "Roberts v Johnstone",
+        "Woodrup v Nichol",
+        "JSB guidelines"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Brown v Woodall",
+          "citation": "[1995] PIQR Q36"
+        },
+        {
+          "name": "Woodrup v Nichol",
+          "citation": "[1991] PIQR Q104"
+        },
+        {
+          "name": "Tait v Pearson",
+          "citation": "[1996] PIQR Q92"
+        },
+        {
+          "name": "Hickey v Miller",
+          "citation": "Kemp and Kemp, August 2002"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full judgment; source metadata case_name incorrectly lists Secretary of State for Defence v Hulme."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3480.json",
+    "status": "done",
+    "notes": "Complete criminal appeal; CCRC referral; conviction quashed.",
+    "enrichment": {
+      "short_title": "Conspiracy to rob conviction quashed where unsafe reliance on tainted Rigg Approach Flying Squad officers' oral admissions",
+      "area_of_law": [
+        "Criminal law",
+        "Appeal against conviction",
+        "Police conduct",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": ["s.78"]
+        }
+      ],
+      "key_facts": [
+        "Findlay was convicted in 1989 of conspiracy to rob a Hainault sub-post office, relying almost exclusively on alleged oral admissions to police during arrest and transit; written interview admissions were excluded.",
+        "The conviction depended on evidence from DS Miller and DC Saunders of the Rigg Approach Flying Squad, later investigated for corruption and dishonesty; Miller was required to resign and Saunders faced criminal charges.",
+        "The CPS and CCRC accepted the conviction was unsafe; the Crown offered no argument for its safety."
+      ],
+      "procedural_posture": "CCRC reference to Court of Appeal Criminal Division following 1991 dismissal of earlier appeals.",
+      "outcome": "Conviction quashed as unsafe.",
+      "ratio": "Where a conviction rests exclusively on uncorroborated oral admissions attributed to the defendant by police officers later shown to be untrustworthy, and all other incriminating evidence has been excluded, the conviction cannot stand even if supporting officers from outside the tainted squad remain credible; each Rigg Approach case must be assessed on its merits.",
+      "legal_issues": [
+        "Safety of conviction based solely on oral admissions by subsequently discredited police officers",
+        "Impact of Flying Squad corruption investigation on historic convictions",
+        "Reliability of non-contemporaneous police notebook records of arrest conversations"
+      ],
+      "catchwords": [
+        "unsafe conviction",
+        "CCRC reference",
+        "Flying Squad",
+        "Rigg Approach",
+        "oral admissions",
+        "police corruption",
+        "PACE Codes of Practice",
+        "conspiracy to rob"
+      ],
+      "index_terms": [
+        "Findlay",
+        "Winston Francis",
+        "DS Miller",
+        "DC Saunders",
+        "DI Cutts",
+        "Hainault sub-post office",
+        "Metropolitan Police Complaints Investigation Bureau"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete appellate judgment; court expressly declined to fix date corruption began."
+      }
+    }
+  }
+]

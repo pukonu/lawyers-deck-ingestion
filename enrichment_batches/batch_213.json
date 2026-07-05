@@ -1,0 +1,651 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/61.json",
+    "status": "needs_review",
+    "notes": "Substantive enrichment is clear from the judgment, but source metadata lists multiple historic judges unlikely to have sat on this case; verify judge field before manifest apply.",
+    "enrichment": {
+      "short_title": "Unlawful ECRC disclosure of discontinued indecent exposure allegations",
+      "area_of_law": [
+        "Administrative law",
+        "Human rights",
+        "Criminal records disclosure",
+        "Data protection"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Act 1997",
+          "provisions": [
+            "section 115",
+            "section 115(7)",
+            "section 119(2)"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "Article 8"
+          ]
+        },
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "An anonymised social worker with no criminal convictions sought judicial review of a decision to include non-conviction information on an Enhanced Criminal Record Certificate.",
+        "The Other Relevant Information related to two alleged indecent exposure incidents; charges were discontinued after the alleged victim failed to identify the claimant in a covert parade.",
+        "The Deputy Chief Constable decided to provide the information to a potential employer via the Criminal Records Bureau without giving the claimant an opportunity to make representations.",
+        "The claimant had been dismissed from agency social work employment after the allegations surfaced."
+      ],
+      "procedural_posture": "Judicial review of the Chief Constable's decision to provide non-conviction information for inclusion on an ECRC under section 115 of the Police Act 1997.",
+      "outcome": "Decision quashed; declaration that the ECRC information was unlawfully provided; permission to appeal refused (renewable to the Court of Appeal).",
+      "ratio": "Police disclosure of non-conviction information on an ECRC must satisfy Article 8 and common-law requirements of pressing social need and procedural fairness, including an opportunity for the subject to make representations; those standards apply with particular stringency where there has been no conviction and identity or guilt remains in issue.",
+      "legal_issues": [
+        "Whether disclosure met Article 8 and common-law substantive criteria",
+        "Whether the disclosure process was procedurally fair",
+        "Whether retention and disclosure breached the ACPO Data Protection Code of Practice"
+      ],
+      "catchwords": [
+        "enhanced criminal record certificate",
+        "ECRC",
+        "non-conviction information",
+        "Article 8",
+        "procedural fairness",
+        "ACPO code",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Police Act 1997",
+        "Criminal Records Bureau",
+        "Other Relevant Information",
+        "social worker",
+        "indecent exposure allegations",
+        "pressing social need",
+        "natural justice"
+      ],
+      "linked_authorities": [
+        "R v Chief Constable of North Wales Police ex parte Thorpe",
+        "Re LM",
+        "Glassbrook Brothers Ltd v Glamorgan County Council"
+      ],
+      "confidence": {
+        "score": 0.82,
+        "level": "high",
+        "notes": "Outcome, facts, statutes, and core ratio are explicit in the judgment. Source judges metadata appears unreliable and was not corrected in this batch."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/223.json",
+    "status": "done",
+    "notes": "Straightforward valuation tribunal appeal on council tax student discount definition.",
+    "enrichment": {
+      "short_title": "Council tax student discount and full-time course attendance weeks",
+      "area_of_law": [
+        "Local government finance",
+        "Council tax",
+        "Valuation tribunal appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government Finance Act 1992",
+          "provisions": [
+            "section 11",
+            "Schedule 1 paragraph 4"
+          ]
+        },
+        {
+          "title": "Council Tax (Discount Disregards) Order 1992",
+          "provisions": [
+            "regulation 4",
+            "Schedule 1 paragraph 4(1)(b)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Evans undertook an All Wales Part-Time Occupational Therapy degree while seeking a council tax student disregard discount.",
+        "Carmarthenshire County Council refused the discount; the West Wales Valuation Tribunal allowed her appeal.",
+        "The council appealed on the ground that the course did not require attendance for at least 24 weeks per academic year.",
+        "The course brochure showed 43 attendance days and weekly totals below 24 weeks in most years; a programme manager's letter was misread as requiring 33 weeks' attendance."
+      ],
+      "procedural_posture": "Appeal to the High Court from a valuation tribunal decision on a council tax student disregard discount.",
+      "outcome": "Appeal allowed; tribunal decision quashed and remitted to a differently constituted panel.",
+      "ratio": "A part-time course qualifies as a full-time course of education under the 1992 Order only if it meets all limbs of the definition, including attendance for at least 24 weeks per year; a tribunal errs in law if it treats a letter about equivalent study hours as proof of a 24-week attendance requirement and wrongly finds the billing authority did not dispute that point.",
+      "legal_issues": [
+        "Whether Mrs Evans's course was a full-time course of education",
+        "Whether paragraph 4(1)(b) of Schedule 1 to the 1992 Order was satisfied",
+        "Whether the tribunal misinterpreted the programme manager's letter"
+      ],
+      "catchwords": [
+        "council tax discount",
+        "student disregard",
+        "full-time course",
+        "valuation tribunal",
+        "attendance requirement",
+        "error of law"
+      ],
+      "index_terms": [
+        "Local Government Finance Act 1992",
+        "Council Tax (Discount Disregards) Order 1992",
+        "occupational therapy",
+        "part-time degree",
+        "24 weeks attendance"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Issue, statutory framework, error of law, and outcome are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/148.json",
+    "status": "done",
+    "notes": "Asylum state protection point following Gardi and Saber.",
+    "enrichment": {
+      "short_title": "Asylum appeal leave and PUK state protection in northern Iraq",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Refugee Convention 1951",
+          "provisions": [
+            "Article 1A(2)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Articles 2",
+            "Article 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "An Iraqi Kurd claimant alleged persecution by the Islamic Movement in PUK-controlled northern Iraq after supporting the PUK.",
+        "An adjudicator accepted much of his account but found the PUK could and would protect him; the IAT refused leave to appeal.",
+        "Subsequent Court of Appeal and Court of Session authority cast doubt on treating the Kurdish autonomous region as an entity capable of providing Convention protection.",
+        "Circumstances in Iraq had changed materially since the adjudicator's decision."
+      ],
+      "procedural_posture": "Judicial review of the Immigration Appeal Tribunal's refusal to grant leave to appeal against an adjudicator's asylum decision.",
+      "outcome": "Application allowed; IAT decision quashed and remitted; permission to appeal granted on the Gardi state protection point.",
+      "ratio": "Where persuasive appellate authority indicates a real prospect that protection from a non-state entity such as the PUK cannot satisfy the Refugee Convention protection test, an IAT decision refusing leave to appeal may be irrational; changed country conditions do not deprive a claimant of access to an independent tribunal if no fresh-claim assurance is given.",
+      "legal_issues": [
+        "Whether the IAT could reasonably conclude there was no real prospect of success",
+        "Whether PUK protection qualifies as state or Convention protection",
+        "Whether the claim had become academic because of changed circumstances in Iraq"
+      ],
+      "catchwords": [
+        "asylum",
+        "leave to appeal",
+        "state protection",
+        "PUK",
+        "Kurdish autonomous region",
+        "Gardi",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Immigration Appeal Tribunal",
+        "northern Iraq",
+        "Islamic Movement",
+        "well-founded fear",
+        "internal protection",
+        "fresh claim"
+      ],
+      "linked_authorities": [
+        "R v Vallaj",
+        "Gardi",
+        "Saber v Secretary of State for the Home Department",
+        "Tjhi Kwet Koe"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Facts, authorities, outcome, and permission to appeal are clearly recorded."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/185.json",
+    "status": "done",
+    "notes": "Section 288 planning challenge on Chiswick town houses.",
+    "enrichment": {
+      "short_title": "Planning appeal privacy standard and internal facing windows",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "An inspector allowed Wexford Resources' appeal and granted planning permission for four town houses in Chiswick.",
+        "A neighbouring resident challenged the decision under section 288 on privacy, design, and outlook grounds.",
+        "The scheme placed rear bedroom windows of the same dwelling about 3–4 metres apart across a recess.",
+        "Appendix 2 of the Hounslow UDP recommended at least 21 metres between directly facing habitable room windows."
+      ],
+      "procedural_posture": "Section 288 application to quash a planning inspector's decision granting permission on appeal.",
+      "outcome": "Application dismissed; all three grounds of challenge failed.",
+      "ratio": "A local plan privacy spacing standard directed at spacing between buildings applies to neighbouring properties, not to facing windows within the same dwelling; an inspector need address only principal important controversial issues and is entitled to proceed on site inspection and existing plans without further evidence unless Wednesbury unreasonableness is shown.",
+      "legal_issues": [
+        "Whether the 21 metre UDP standard applied to internal facing windows within one dwelling",
+        "Whether the inspector failed to consider SPG design guidance on habitable rooms overlooking the street",
+        "Whether the inspector lacked sufficient evidence on outlook and open aspect"
+      ],
+      "catchwords": [
+        "planning permission",
+        "loss of privacy",
+        "unitary development plan",
+        "section 288",
+        "planning inspector",
+        "Wednesbury unreasonableness"
+      ],
+      "index_terms": [
+        "Town and Country Planning Act 1990",
+        "Hounslow UDP",
+        "supplementary planning guidance",
+        "overlooking",
+        "residential amenity",
+        "Chiswick"
+      ],
+      "linked_authorities": [
+        "Bolton MDC v Secretary of State for the Environment",
+        "Newsmith Stainless Ltd v Secretary of State for Environment, Transport and the Regions"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Grounds, reasoning on each issue, and dismissal are fully explained."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/123.json",
+    "status": "done",
+    "notes": "Renewed permission application in cattle-on-road negligence claim.",
+    "enrichment": {
+      "short_title": "Farmer's gate duty after cattle strayed onto road",
+      "area_of_law": [
+        "Negligence",
+        "Occupiers' liability",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Cattle escaped through an upper-field gate left open by walkers, crossed unfenced land, and walked along a main road.",
+        "Mr Donaldson was seriously injured when his motorcycle collided with the cattle.",
+        "The county court recorder found Mr Wilson negligent for failing to take inexpensive steps such as a self-closing gate.",
+        "Insurers sought permission to appeal because of potential implications for farmers' standards of care."
+      ],
+      "procedural_posture": "Renewed application to the Court of Appeal for permission to appeal a county court liability judgment.",
+      "outcome": "Permission granted on condition the defendant indemnifies the claimant for Court of Appeal costs in any event; extended time to serve notice of appeal.",
+      "ratio": "On the particular facts a farmer may owe a duty of care to road users to secure a gate where cattle straying onto a road was foreseeable and inexpensive preventive steps were available; permission may nonetheless be granted where insurers show a compelling reason despite no real prospect of success, subject to appropriate costs conditions.",
+      "legal_issues": [
+        "Whether the recorder was entitled to find negligence on the facts",
+        "Whether permission to appeal should be granted for wider industry significance",
+        "Appropriate costs conditions for conditional permission"
+      ],
+      "catchwords": [
+        "cattle on highway",
+        "negligence",
+        "self-closing gate",
+        "permission to appeal",
+        "farmer liability",
+        "road traffic accident"
+      ],
+      "index_terms": [
+        "duty of care",
+        "foreseeability",
+        "livestock escape",
+        "county court",
+        "insurers",
+        "compelling reason"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Short judgment with clear facts, liability finding, and conditional permission outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/194.json",
+    "status": "done",
+    "notes": "Interim harassment injunction in HLS-related animal rights campaign.",
+    "enrichment": {
+      "short_title": "Harassment injunction against SHAC over Yamanouchi landlord",
+      "area_of_law": [
+        "Harassment",
+        "Injunctions",
+        "Human rights",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Protection from Harassment Act 1997",
+          "provisions": [
+            "section 1",
+            "section 3",
+            "section 7"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 12(3)",
+            "Article 10",
+            "Article 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Emerson Group companies leased offices to Yamanouchi, a customer of Huntingdon Life Sciences.",
+        "Directors and employees received threatening Animal Rights Militia letters demanding Yamanouchi's eviction.",
+        "Employee homes and vehicles were damaged and campaign claims appeared on activist websites.",
+        "SHAC organisers Greg Avery, Natasha Avery, and Heather James had prior convictions for related campaign conduct."
+      ],
+      "procedural_posture": "Interim application for injunctive relief under section 3 of the Protection from Harassment Act 1997, including representative proceedings for employees.",
+      "outcome": "Injunction granted in substantially the terms sought, including exclusion zones; representative capacity for employees upheld.",
+      "ratio": "A course of threatening letters and property attacks against employees of a landlord linked to HLS constitutes unlawful harassment; where ECHR rights are engaged the claim must show a real prospect of success under section 12(3) HRA, and on the evidence SHAC's inner core posed sufficient future risk to justify a proportionate prohibitory injunction.",
+      "legal_issues": [
+        "Whether representative proceedings under CPR 19.6 were permissible",
+        "Whether a real prospect of success existed against SHAC organisers",
+        "Whether injunctions may be granted against unincorporated associations",
+        "Balance between Article 10/11 rights and protection from harassment"
+      ],
+      "catchwords": [
+        "Protection from Harassment Act 1997",
+        "SHAC",
+        "Huntingdon Life Sciences",
+        "injunction",
+        "section 12(3) HRA",
+        "exclusion zone",
+        "representative claim"
+      ],
+      "index_terms": [
+        "animal rights campaign",
+        "Yamanouchi",
+        "Emerson Developments",
+        "Animal Rights Militia",
+        "interim injunction",
+        "real prospect of success"
+      ],
+      "linked_authorities": [
+        "American Cyanamid Co v Ethicon Ltd",
+        "Cream Holdings Ltd v Banerjee",
+        "Huntingdon Life Sciences v SHAC & Others",
+        "Burris v Azadani",
+        "National Bank of Greece SA v Outhwaite"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Statutory framework, evidence, test applied, and relief granted are clearly set out."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/279.json",
+    "status": "done",
+    "notes": "GMC erasure appeal substituted with suspension.",
+    "enrichment": {
+      "short_title": "GMC erasure reduced to suspension for prescription fraud",
+      "area_of_law": [
+        "Medical regulation",
+        "Professional discipline",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Medical Act 1983",
+          "provisions": [
+            "section 40"
+          ]
+        },
+        {
+          "title": "National Health Service Reform and Health Care Professions Act 2002",
+          "provisions": [
+            "section 30"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 1 Protocol 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Abrahaem admitted removing NHS prescription forms and using them to obtain routine medications in false patient names for his family in Egypt.",
+        "Police found unused prescription forms, morphine sulphate, and other drugs at his hospital accommodation.",
+        "The GMC Professional Conduct Committee ordered erasure from the medical register.",
+        "The doctor had otherwise good clinical testimonials but limited insight into the gravity of his misconduct."
+      ],
+      "procedural_posture": "Appeal by way of rehearing under section 40 of the Medical Act 1983 against GMC erasure.",
+      "outcome": "Appeal allowed; erasure substituted with immediate suspension for 12 months.",
+      "ratio": "Although persistent prescription fraud and possession of controlled drugs can warrant erasure, the High Court may substitute a lesser sanction where the accepted facts show no patient harm, the doctor remains otherwise fit to practise, and a proportionate suspension can protect public confidence while allowing scope to develop proper professional insight.",
+      "legal_issues": [
+        "Whether erasure was excessive and disproportionate",
+        "Whether the PCC took irrelevant considerations into account",
+        "Appropriate deference to a professional tribunal on sanction",
+        "Impact of Article 1 Protocol 1 on erasure"
+      ],
+      "catchwords": [
+        "General Medical Council",
+        "erasure",
+        "prescription fraud",
+        "professional misconduct",
+        "proportionality",
+        "suspension",
+        "Medical Act 1983"
+      ],
+      "index_terms": [
+        "Professional Conduct Committee",
+        "dishonesty",
+        "Class A drug possession",
+        "Good Medical Practice",
+        "public interest",
+        "insight"
+      ],
+      "linked_authorities": [
+        "Ghosh v General Medical Council",
+        "Preiss v General Dental Council",
+        "Bolton v Law Society"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Facts admitted, sanction guidance, proportionality analysis, and substituted outcome are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/338.json",
+    "status": "done",
+    "notes": "JR refused where contractual arbitration was available.",
+    "enrichment": {
+      "short_title": "Legal aid contract termination and arbitration bar to JR",
+      "area_of_law": [
+        "Administrative law",
+        "Public procurement and contracts",
+        "Arbitration",
+        "Legal services"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 61"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Legal Services Commission terminated a firm's General Civil Contract and Specialist Quality Mark after a failed pre-contract management audit.",
+        "The Contract Review Board upheld termination; the firm gave notice of intention to arbitrate under the contract.",
+        "The firm later sought judicial review, including arguments on proportionality and procedural fairness.",
+        "Pitchford J had refused permission on the papers on the basis that arbitration was the appropriate route."
+      ],
+      "procedural_posture": "Renewed application for permission to apply for judicial review of an LSC Contract Review Board decision.",
+      "outcome": "Permission refused; judicial review not an appropriate substitute for contractual arbitration.",
+      "ratio": "Even where a public-body contract decision may in principle be amenable to judicial review, JR is a remedy of last resort where the parties agreed to final arbitration under the contract; proportionality and fairness complaints tied to the merits are suitable for arbitration and do not justify bypassing that agreed process.",
+      "legal_issues": [
+        "Amenability of the CRB decision to judicial review",
+        "Effect of the contract arbitration clause",
+        "Whether proportionality and fairness points required court determination",
+        "Promptness of the claim"
+      ],
+      "catchwords": [
+        "Legal Services Commission",
+        "contract termination",
+        "judicial review",
+        "alternative remedy",
+        "arbitration",
+        "proportionality",
+        "Specialist Quality Mark"
+      ],
+      "index_terms": [
+        "General Civil Contract",
+        "Contract Review Board",
+        "pre-contract audit",
+        "last resort",
+        "Arbitration Act 1996",
+        "legal aid provider"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Assumptions made in claimant's favour and refusal reasoning are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/72.json",
+    "status": "done",
+    "notes": "Liability trial on Project Jockey cost-sharing agreement.",
+    "enrichment": {
+      "short_title": "Failed MBO cost contribution and technical failure clause",
+      "area_of_law": [
+        "Contract law",
+        "Construction of contracts",
+        "Corporate finance",
+        "Takeovers"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "sections 428-430"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Granville Baird fund managers and a management team agreed a 65/35 cost-sharing arrangement for Project Jockey, a management buy-out of Professional Staff Plc.",
+        "First Saddle's offer lapsed after about 83% acceptances because Lord Ashcroft held a blocking stake and banks required 90%.",
+        "The board voted not to extend the offer after Lord Hodgson's enquiry to Lord Ashcroft.",
+        "The claimants sought 35% of residual costs as a technical failure; defendants argued GBCP withdrew without cause."
+      ],
+      "procedural_posture": "Trial of liability on whether defendants must contribute 35% of failed takeover costs under a July 2000 cost-sharing agreement.",
+      "outcome": "Judgment for the claimants on liability; failure classified as technical failure triggering the 35% contribution.",
+      "ratio": "Under the agreed cost-sharing scenarios, inability to reach 90% acceptances after the offer was made is a technical failure by First Saddle rather than a GBCP withdrawal without cause; a board decision not to extend the offer, made by independent directors exercising fiduciary judgment, does not convert that failure into a funder withdrawal.",
+      "legal_issues": [
+        "Construction of 'technical failure' versus 'GBCP withdraw - without cause'",
+        "Whether the claimants effectively decided not to proceed",
+        "Whether independent directors merely followed the claimants' lead",
+        "Whether a higher revised offer fell outside the agreement"
+      ],
+      "catchwords": [
+        "management buy-out",
+        "cost contribution agreement",
+        "technical failure",
+        "90 percent acceptances",
+        "takeover code",
+        "contract construction"
+      ],
+      "index_terms": [
+        "Project Jockey",
+        "First Saddle",
+        "Professional Staff Plc",
+        "blocking shareholder",
+        "Rule 16 Takeover Code",
+        "ICS Ltd v West Bromwich Building Society"
+      ],
+      "linked_authorities": [
+        "ICS Ltd v West Bromwich Building Society"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Agreement terms, factual findings, and construction conclusion are detailed and explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/268.json",
+    "status": "done",
+    "notes": "Ancient JR refused as academic under section 70A.",
+    "enrichment": {
+      "short_title": "Academic challenge to declining repetitive planning application",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 70A",
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Meritgold sought permission to retain a fourth-storey flat built in breach of earlier permission for a three-storey block of six flats.",
+        "In April 1999 Barnet declined to determine a January 1999 application under section 70A as substantially the same as an appeal dismissed in June 1998.",
+        "Later 2001 and 2003 applications were determined and refused on appeal, addressing revised proposals.",
+        "The 1999 judicial review was repeatedly adjourned and heard years later without substantive claimant instructions."
+      ],
+      "procedural_posture": "Judicial review of a local planning authority's decision to decline to determine a planning application under section 70A.",
+      "outcome": "Application refused as academic; claimant ordered to pay costs summarily assessed at £4,000.",
+      "ratio": "A section 70A decision not to determine a repetitive application will not be reopened where later determined applications have superseded the dispute and the original challenge has become pointless; even absent academicity, similarity of proposals is a matter of planning judgment for the authority.",
+      "legal_issues": [
+        "Whether the 1999 application was the same or substantially the same as the refused 1998 application",
+        "Whether declining to determine was Wednesbury unreasonable",
+        "Whether the claim had become academic"
+      ],
+      "catchwords": [
+        "section 70A",
+        "decline to determine",
+        "repetitive planning application",
+        "academic",
+        "fourth storey flat",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Town and Country Planning Act 1990",
+        "planning permission retention",
+        "enforcement history",
+        "Barnet",
+        "similar application",
+        "costs summary assessment"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Statutory test, chronology, academicity reasoning, and refusal are clearly explained."
+      }
+    }
+  }
+]

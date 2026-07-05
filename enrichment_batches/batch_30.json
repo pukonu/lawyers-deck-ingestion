@@ -1,0 +1,744 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/146.json",
+    "status": "done",
+    "notes": "Batch 30 enrichment",
+    "enrichment": {
+      "short_title": "Deportation after CACD quashed trial judge's recommendation",
+      "area_of_law": [
+        "Immigration law",
+        "Criminal law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Act 1971",
+          "provisions": [
+            "section 3(5)(a)",
+            "section 3(6)",
+            "section 6(1)"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": [
+            "section 44"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Bangladeshi imam with indefinite leave to remain was convicted of indecent assault against children he was teaching.",
+        "The Court of Appeal (Criminal Division) quashed the trial judge's recommendation for deportation but left the prison sentence intact.",
+        "The Secretary of State later decided to deport him under section 3(5)(a) as conducive to the public good.",
+        "The Immigration Appeal Tribunal upheld deportation without adequately engaging with the criminal court's reasoned decision not to recommend removal."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Civil Division) against an Immigration Appeal Tribunal decision upholding deportation, with a renewed application for permission on a separate EU-law ground.",
+      "outcome": "Appeal allowed; the IAT decision could not stand; permission to appeal on the EU-law ground refused.",
+      "ratio": "Where a criminal court has on the merits refused or quashed a deportation recommendation with reasons, the Secretary of State must consider that decision when exercising the separate power under section 3(5)(a) and, if he still deports, explain briefly why he disagrees; there is no presumption that he must follow the criminal court, but silence or failure to engage is unlawful.",
+      "legal_issues": [
+        "Whether a reasoned CACD decision not to recommend deportation creates a presumption binding the Secretary of State under section 3(5)(a)",
+        "Whether the Secretary of State and IAT properly considered the CACD judgment",
+        "Whether EU free-movement proportionality standards apply where the deportee has no EU rights"
+      ],
+      "catchwords": [
+        "deportation",
+        "section 3(5)(a)",
+        "deportation recommendation",
+        "CACD",
+        "Article 8",
+        "public good"
+      ],
+      "index_terms": [
+        "Immigration Act 1971",
+        "conducive to the public good",
+        "Nazari guidelines",
+        "Ali Dinc",
+        "Immigration Rules paragraph 364",
+        "proportionality"
+      ],
+      "linked_authorities": [
+        "R v Nazari",
+        "Ali Dinc",
+        "Samaroo",
+        "Al-Sabah",
+        "Muchai"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory framework, central issue, and outcome are clearly stated in the judgment. Judge metadata in the source file lists multiple names and may be unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/315.json",
+    "status": "done",
+    "notes": "Batch 30 enrichment",
+    "enrichment": {
+      "short_title": "Mandatory lifer detention after Parole Board release recommendation",
+      "area_of_law": [
+        "Prison law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime (Sentences) Act 1997",
+          "provisions": [
+            "section 29"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 5(1)(a)",
+            "Article 5(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Peter Barrie Middleton was serving a mandatory life sentence for murder with a ten-year tariff that had expired.",
+        "In March 2002 the Parole Board recommended his release, but he was not released until 28 August 2002.",
+        "After Stafford v United Kingdom was handed down on 28 May 2002, the Secretary of State took time to consider policy before deciding on 17 June 2002 to release.",
+        "Fresh concerns about licence breaches and a failed drug test led the Secretary of State to refer the case back to the Parole Board before release was implemented."
+      ],
+      "procedural_posture": "Judicial review claim for declaration of unlawful detention and damages for the period between expiry of tariff-related release entitlement and actual release.",
+      "outcome": "Claim dismissed; leave to appeal refused.",
+      "ratio": "Once a mandatory lifer's tariff has expired and the Parole Board has recommended release on risk grounds, continued detention must remain connected to the original sentence; a reasonable period after Stafford to formulate policy was lawful, and gathering evidence of changed circumstances before release did not render detention arbitrary under Article 5(1)(a).",
+      "legal_issues": [
+        "Whether detention after tariff expiry and a Parole Board release recommendation breached Article 5(1)(a)",
+        "Whether Stafford required immediate release",
+        "Whether changed circumstances justified further delay before release",
+        "Whether Article 5(4) provided an adequate remedy"
+      ],
+      "catchwords": [
+        "mandatory life sentence",
+        "tariff",
+        "Parole Board",
+        "Stafford",
+        "Article 5",
+        "false imprisonment"
+      ],
+      "index_terms": [
+        "Crime (Sentences) Act 1997",
+        "section 29 release",
+        "risk and dangerousness",
+        "temporary release licence breach",
+        "Walden v Liechtenstein",
+        "legal certainty"
+      ],
+      "linked_authorities": [
+        "Stafford v the United Kingdom",
+        "R v Secretary of State for the Home Department, ex parte Anderson",
+        "R v Parole Board, ex parte Robinson",
+        "R (IH) v Secretary of State for the Home Department and Secretary of State for Health",
+        "Walden v Liechtenstein"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Facts, timing, and Article 5 analysis are explicit. The source judge field lists senior judges but the judgment is delivered by Pitchford J."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/183.json",
+    "status": "done",
+    "notes": "Batch 30 enrichment",
+    "enrichment": {
+      "short_title": "Neighbour dispute: small claims, EPA and reopening",
+      "area_of_law": [
+        "Civil procedure",
+        "Tort law",
+        "Legal services regulation",
+        "Planning law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": [
+            "section 11",
+            "section 17",
+            "section 27",
+            "section 28"
+          ]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": [
+            "section 54(4)"
+          ]
+        },
+        {
+          "title": "Enduring Powers of Attorney Act 1985",
+          "provisions": [
+            "section 3"
+          ]
+        },
+        {
+          "title": "Powers of Attorney Act 1971",
+          "provisions": [
+            "section 1",
+            "section 10"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 21",
+            "Part 27",
+            "Part 39",
+            "Part 52",
+            "Part 54"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Gregory and her daughter sued neighbours over trespass, boundary encroachment and related claims in a bitter Clevedon neighbour dispute.",
+        "The district judge allocated the case to the small claims track, heard almost no oral evidence, and awarded only £100 nominal damages.",
+        "A circuit judge refused permission to appeal and summarily assessed costs at £2,000; Sedley LJ later refused permission to appeal against the costs order.",
+        "Mr Morris, acting under an enduring power of attorney, pursued further challenges including judicial review of a planning enforcement refusal."
+      ],
+      "procedural_posture": "Three-judge Court of Appeal hearing on permission applications to reopen earlier costs and merits decisions, challenge a permission refusal, and appeal a planning judicial review refusal.",
+      "outcome": "All applications dismissed; Mr Morris had no statutory right to conduct litigation or a right of audience except by court discretion.",
+      "ratio": "An enduring power of attorney does not enable an unqualified agent to exercise a party's personal right of audience or right to conduct litigation under sections 27(2)(d) and 28(2)(d) of the Courts and Legal Services Act 1990; section 54(4) of the Access to Justice Act 1999 bars appeal against a circuit judge's refusal of permission to appeal; Taylor v Lawrence reopening jurisdiction was unavailable on these facts.",
+      "legal_issues": [
+        "Whether Sedley LJ's costs decision could be reopened under Taylor v Lawrence",
+        "Whether any remedy existed against Judge O'Malley's refusal of permission to appeal on the merits",
+        "Whether an enduring power of attorney conferred rights of audience and rights to conduct litigation",
+        "Whether permission to appeal Burton J's refusal of planning enforcement judicial review should be granted"
+      ],
+      "catchwords": [
+        "small claims track",
+        "permission to appeal",
+        "costs on permission application",
+        "enduring power of attorney",
+        "rights of audience",
+        "Taylor v Lawrence"
+      ],
+      "index_terms": [
+        "Gregory v Turner",
+        "Sivasubramaniam",
+        "Jolly v Jay",
+        "aggravated damages",
+        "trespass to land",
+        "litigation friend",
+        "Lay Representatives Order 1999"
+      ],
+      "linked_authorities": [
+        "Taylor v Lawrence",
+        "Jolly v Jay",
+        "R (Sivasubramaniam) v Wandsworth County Court",
+        "Clark v Perks",
+        "Riniker v University College London",
+        "Paragon Finance v Noueiri",
+        "Clauss v Pir"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long judgment but legal conclusions on the four issues are clearly articulated. Judge metadata includes many extraneous names."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/283.json",
+    "status": "done",
+    "notes": "Batch 30 enrichment",
+    "enrichment": {
+      "short_title": "All-white jury trying black defendant at nightclub assault trial",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal procedure",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Juries Act 1974",
+          "provisions": [
+            "section 1",
+            "section 2"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 74"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Lance Percival Smith, a black defendant, was convicted after a seven-day trial at Preston Crown Court of GBH with intent and firearm offences arising from violence outside a Morecambe nightclub.",
+        "The jury was all-white in an area where witnesses and the local population were predominantly white; racial tension featured in the background evidence.",
+        "Co-accused Rennie and Patel pleaded guilty before trial; the judge gave the conventional direction that their pleas were irrelevant to Smith's guilt.",
+        "Social science research on jury racial composition was relied on to argue that section 1 of the Juries Act 1974 was incompatible with Article 6."
+      ],
+      "procedural_posture": "Appeal against conviction and sentence to the full Court of Appeal (Criminal Division), including a referred ground on jury composition and a granted ground on the summing-up about co-accused guilty pleas.",
+      "outcome": "Appeal dismissed; leave refused on the jury-composition ground as not arguable.",
+      "ratio": "Trial by a randomly selected all-white jury did not render Smith's trial unfair or unsafe on these facts; section 1 of the Juries Act 1974 was not shown incompatible with Article 6, and the conventional direction on co-accused guilty pleas did not make the convictions unsafe.",
+      "legal_issues": [
+        "Whether an all-white jury trying a black defendant in a racially charged case was unfair under Article 6",
+        "Whether section 1 of the Juries Act 1974 should be read compatibly with the Convention or declared incompatible",
+        "Whether the judge misdirected the jury by telling them co-accused guilty pleas were irrelevant where the defence relied on those pleas"
+      ],
+      "catchwords": [
+        "jury composition",
+        "racial bias",
+        "Article 6",
+        "random selection",
+        "guilty plea of co-accused",
+        "unsafe conviction"
+      ],
+      "index_terms": [
+        "Juries Act 1974",
+        "R v Ford",
+        "Porter v Magill",
+        "Gregory v UK",
+        "Sander v UK",
+        "Auld Review jury research"
+      ],
+      "linked_authorities": [
+        "R v Ford",
+        "Porter v Magill",
+        "Gregory v UK",
+        "Sander v UK",
+        "Williams v The Queen",
+        "R v Watson and ors"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Grounds, facts, and conclusions are clearly set out. Some judge names in metadata appear inaccurate."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/142.json",
+    "status": "done",
+    "notes": "Batch 30 enrichment",
+    "enrichment": {
+      "short_title": "Tesco Balham Hill store: PPG6 need and Caborn statement",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 77",
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Tesco sought planning permission for mixed development including a food store on the former South London Hospital for Women site at Balham Hill.",
+        "The Secretary of State granted permission despite an inspector recommending refusal, disagreeing with the inspector on whether retail need had to be demonstrated.",
+        "Wandsworth argued Balham Hill was not an 'existing centre' for PPG6 and Caborn statement purposes and that the decision letter failed adequately to address the centre's function.",
+        "Both inspector and Secretary of State treated Balham Hill as a neighbourhood or local centre under RPG3."
+      ],
+      "procedural_posture": "Appeal under section 288 of the Town and Country Planning Act 1990 against dismissal of Wandsworth's challenge to the Secretary of State's called-in planning decision.",
+      "outcome": "Appeal dismissed; Wandsworth ordered to pay costs.",
+      "ratio": "Where Balham Hill was properly regarded as a neighbourhood or local centre and the application site was within that centre, the Secretary of State was entitled to treat it as an 'existing centre' under the Caborn statement so that demonstrating retail need and applying the sequential test were not required, even though he agreed with the inspector's centre classification but not his further functional analysis.",
+      "legal_issues": [
+        "Whether the application site was within an 'existing centre' under PPG6 and the Caborn statement",
+        "Whether retail need had to be demonstrated despite Lambeth UDP designation",
+        "Whether the Secretary of State gave adequate reasons for departing from the inspector on need",
+        "Whether Balham Hill's function and role in the retail hierarchy had to be reconsidered separately from its label"
+      ],
+      "catchwords": [
+        "retail planning",
+        "PPG6",
+        "RPG3",
+        "Caborn statement",
+        "sequential test",
+        "need test",
+        "neighbourhood centre"
+      ],
+      "index_terms": [
+        "Balham Hill",
+        "South London Hospital for Women",
+        "Tesco Stores Ltd v Secretary of State for the Environment",
+        "Kettering",
+        "called-in application",
+        "Clapham Conservation Area"
+      ],
+      "linked_authorities": [
+        "Tesco Stores Ltd v Secretary of State for the Environment",
+        "R v Derbyshire CC, ex p Woods",
+        "Grandsden & Co Ltd v Secretary of State for the Environment",
+        "R v Secretary of State for the Environment etc and Kettering BC, ex p Tesco Stores Ltd"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Planning policy interpretation and reasons challenge are the focus of a detailed judgment with clear outcomes."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/191.json",
+    "status": "done",
+    "notes": "Batch 30 enrichment",
+    "enrichment": {
+      "short_title": "Solicitor's failure to check Russian privatisation investment programme",
+      "area_of_law": [
+        "Professional negligence",
+        "Commercial law",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Illingworth Morris Limited won a Russian privatisation tender to acquire 49% of clothing manufacturer Bolshevichka for US$5.5 million over five years.",
+        "Coudert Brothers' Moscow office was instructed but failed to review GKI-approved privatisation documents before completion.",
+        "The approved investment programme required investment over three years, conflicting with IML's five-year bid; Russian courts later invalidated the tender and agreements.",
+        "IML claimed it would have adopted a three-year period and cured the defect if properly advised."
+      ],
+      "procedural_posture": "High Court trial of professional negligence claim against solicitors, with liability tried first and quantification of a loss-of-chance to follow.",
+      "outcome": "Coudert found in breach of duty; but for proper advice IML would have completed on a three-year basis; there was a real chance the transaction would not have been invalidated; damages to be assessed on loss-of-chance basis.",
+      "ratio": "A solicitor advising on a Russian privatisation share purchase and investment agreement owed a duty to review the privatisation plan and investment programme; failure to do so was negligent; competent advice would have been to stipulate three years in the SPA and Investment Agreement, and IML would probably have followed that advice with a real chance of avoiding invalidation.",
+      "legal_issues": [
+        "Scope of Coudert's instructions and whether due diligence was excluded by agreement",
+        "Whether Coudert could have obtained the privatisation documents",
+        "Whether the GKI-approved investment programme was for three or five years",
+        "What advice should have been given and whether IML would have acted on it",
+        "Whether the transaction would inevitably have failed for other reasons including anti-monopoly approval"
+      ],
+      "catchwords": [
+        "solicitor negligence",
+        "due diligence",
+        "Russian privatisation",
+        "investment tender",
+        "loss of chance",
+        "investment programme"
+      ],
+      "index_terms": [
+        "Bolshevichka",
+        "Illingworth Morris",
+        "Coudert Brothers",
+        "GKI decree 797-r",
+        "Moscow Property Fund",
+        "Allied Maples v Simmons and Simmons"
+      ],
+      "linked_authorities": [
+        "Allied Maples v Simmons and Simmons",
+        "Hotson v East Berkshire HA",
+        "Gregg v Scott"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Detailed findings on duty, breach, causation and loss of chance. Russian law conclusions are reasoned but inherently complex."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/758.json",
+    "status": "done",
+    "notes": "Batch 30 enrichment",
+    "enrichment": {
+      "short_title": "Undisclosed intelligence and reckless driving count severance",
+      "area_of_law": [
+        "Criminal procedure",
+        "Criminal law",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 23A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Scott Tomlinson was convicted in 1991 of drug and firearms offences and reckless driving after drugs and weapons were found under floorboards at 24 Claude Street and he fled a police arrest attempt.",
+        "An earlier appeal was dismissed in 1995 despite concerns about police handling of exhibits, especially an 'Ash' carrier bag bearing Tomlinson's fingerprints.",
+        "The Criminal Cases Review Commission referred the case because police had undisclosed intelligence that Tomlinson was armed and might use a gun, which was not disclosed to defence or prosecution counsel.",
+        "CCRC investigation also linked the 'Ash' bag to Jackie Ferguson's address rather than the search scene, but that was not made a referral ground."
+      ],
+      "procedural_posture": "Second appeal to the Court of Appeal (Criminal Division) following CCRC referral on the undisclosed intelligence ground only.",
+      "outcome": "Appeal dismissed after the appellant declined to pursue further grounds.",
+      "ratio": "Undisclosed intelligence that the appellant was believed armed would not have made severance of the reckless driving count inevitable, nor could it have been used to his advantage on the firearms counts; even if count 5 had been tried separately, arrest and reckless-driving evidence would still have been admissible in the remaining trial.",
+      "legal_issues": [
+        "Whether non-disclosure of intelligence about the appellant being armed affected fairness of the joint trial",
+        "Whether severance of the reckless driving count would have excluded arrest-related evidence from the main trial",
+        "Whether fresh evidence about the provenance of the 'Ash' bag could support a further ground of appeal"
+      ],
+      "catchwords": [
+        "CCRC referral",
+        "non-disclosure",
+        "severance",
+        "joint indictment",
+        "exhibit handling",
+        "unsafe conviction"
+      ],
+      "index_terms": [
+        "Tomlinson",
+        "Claude Street search",
+        "Ash carrier bag",
+        "reckless driving",
+        "Police Complaints Authority",
+        "section 23A Criminal Appeal Act 1968"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Only one argued ground decided; court indicated willingness to hear a further application on 'Ash' bag evidence but none was pursued."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/costs/2003/9011.json",
+    "status": "done",
+    "notes": "Batch 30 enrichment",
+    "enrichment": {
+      "short_title": "Costs negotiator's audience and insurer contingency fee",
+      "area_of_law": [
+        "Costs law",
+        "Legal services regulation",
+        "Insurance law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": [
+            "section 27",
+            "section 28",
+            "section 58",
+            "section 119"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 43",
+            "Part 47",
+            "Part 48"
+          ]
+        },
+        {
+          "title": "Criminal Law Act 1967",
+          "provisions": [
+            "section 14"
+          ]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "After a road traffic claim settled, detailed assessment of the claimant's costs could not be agreed.",
+        "Insurer Allianz Cornhill instructed costs negotiators Grants directly under a percentage-of-savings commission arrangement, while panel solicitors Beachcroft Wansbrough remained on the record.",
+        "Grants staff and counsel they instructed were refused rights of audience at successive detailed assessment hearings.",
+        "The costs judge ordered preliminary issues on whether Dominic Swallow of Grants had a right of audience and whether Grants' payment terms were champertous."
+      ],
+      "procedural_posture": "Supreme Court Costs Office determination of preliminary issues adjourned from county court detailed assessment proceedings.",
+      "outcome": "Mr Swallow had no right of audience; Grants' contingency remuneration agreement with Cornhill was champertous as between those parties.",
+      "ratio": "A costs negotiator instructed directly by an insurer and not genuinely employed or engaged by the paying party's solicitors under section 27(2)(e) of the Courts and Legal Services Act 1990 has no right of audience; a percentage-of-savings fee sharing the proceeds of litigation savings is champertous outside the section 58 conditional fee regime, especially where solicitor supervision is illusory.",
+      "legal_issues": [
+        "Whether Grants fell within section 27(2)(e) as assisting in litigation under a qualified litigator's instructions",
+        "Whether Grants provided advocacy or litigation services",
+        "Whether the Cornhill-Grants contingency fee agreement was champertous at common law",
+        "Whether section 58 applied to costs negotiators' agreements"
+      ],
+      "catchwords": [
+        "costs negotiator",
+        "rights of audience",
+        "detailed assessment",
+        "champerty",
+        "contingency fee",
+        "insurance subrogation"
+      ],
+      "index_terms": [
+        "N L Grant Legal Costs Management",
+        "Allianz Cornhill",
+        "section 27 CLSA 1990",
+        "Factortame No 8",
+        "Costs Practice Direction 47.14.7",
+        "Salmons v Perch"
+      ],
+      "linked_authorities": [
+        "R (Factortame Ltd) v Transport Secretary (No.8)",
+        "Clarkson v Gilbert",
+        "Wallersteiner v Moir (No 2)",
+        "Waterson Hicks v Eliopoulous",
+        "Salmons v Perch"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Preliminary issue judgment with explicit conclusions on both questions. Judge metadata lists multiple senior judges but the decision appears to be a costs judge's ruling."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/398.json",
+    "status": "done",
+    "notes": "Batch 30 enrichment",
+    "enrichment": {
+      "short_title": "Police retention of Mercedes after theft investigation ended",
+      "area_of_law": [
+        "Police law",
+        "Tort law",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 19",
+            "section 22",
+            "section 22(1)",
+            "section 22(2)(b)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "John Martin claimed ownership of a Mercedes he repossessed after a buyer's cheque bounced; he took the car from Wheelhouse Garage after seeing it advertised.",
+        "Police seized the car, briefly released it to Wheelhouse for safe custody in June 1990, and retained it amid competing ownership claims from several parties.",
+        "Prosecution for theft was discontinued on 7 September 1990; Martin's solicitors demanded return on 12 September 1990.",
+        "Police commenced interpleader proceedings in November 1990; Martin later obtained judgment against Norbury and Jones establishing his title."
+      ],
+      "procedural_posture": "Appeal from Birmingham County Court after remittal of wrongful retention issue following earlier jury trial and partial successful appeal.",
+      "outcome": "Appeal dismissed; no conversion by releasing car to Wheelhouse for safe custody; statutory retention power persisted until 12 September demand, after which conversion was conceded not to arise.",
+      "ratio": "Transferring seized goods to a third party for safe custody does not necessarily amount to conversion; under section 22 of PACE the police may retain property while establishing lawful ownership where reasonable grounds exist, and referral to the CPS and competing claims justified retention until the 12 September 1990 demand, after which the conceded position was that interpleader was appropriate.",
+      "legal_issues": [
+        "Whether delivery of the Mercedes to Wheelhouse constituted conversion",
+        "Whether section 22(2)(b) power to retain ended once the officer concluded Martin probably did not steal the car",
+        "Whether a demand was necessary before conversion accrued",
+        "Effect of the trial concession that post-12 September retention was not wrongful"
+      ],
+      "catchwords": [
+        "PACE retention",
+        "conversion",
+        "police seizure",
+        "interpleader",
+        "safe custody",
+        "competing ownership"
+      ],
+      "index_terms": [
+        "Martin v Chief Constable Nottinghamshire",
+        "Webb v Chief Constable of Merseyside Police",
+        "Kuwait Airways v Iraqi Airways",
+        "Wheelhouse Garage",
+        "Form of Indemnity"
+      ],
+      "linked_authorities": [
+        "Webb v Chief Constable of Merseyside Police",
+        "Kuwait Airways Corporation v Iraqi Airways Co"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Appellant could not withdraw the 12 September concession; analysis proceeds on that basis. Complex chain-of-title facts simplified in enrichment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/182.json",
+    "status": "done",
+    "notes": "Batch 30 enrichment",
+    "enrichment": {
+      "short_title": "IVF legal fatherhood after couple separated before embryo transfer",
+      "area_of_law": [
+        "Family law",
+        "Medical law",
+        "Reproductive law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Fertilisation and Embryology Act 1990",
+          "provisions": [
+            "section 2(1)",
+            "section 25",
+            "section 27",
+            "section 28(2)",
+            "section 28(3)",
+            "section 28(6)",
+            "section 28(8)",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 4",
+            "section 10"
+          ]
+        },
+        {
+          "title": "Family Law Act 1986",
+          "provisions": [
+            "section 55A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A couple underwent licensed donor IVF together; embryos were created in October 1998 while they were partners but the first transfer failed.",
+        "They separated before a second embryo transfer in May 1999; the mother did not tell the clinic and left the partner's name blank on one form.",
+        "A child was born in February 2000; the former partner sought parental responsibility and contact, and later a declaration of paternity under section 28(3).",
+        "Hedley J granted the declaration, treating the original consent form as continuing the joint course of treatment."
+      ],
+      "procedural_posture": "Mother's appeal to the Court of Appeal against a High Court declaration that the former partner was the child's legal father under section 28(3) HFEA 1990.",
+      "outcome": "Appeal allowed; declaration set aside; the former partner was not to be treated as the legal father.",
+      "ratio": "Section 28(3) of the Human Fertilisation and Embryology Act 1990 applies only where embryos are placed in the woman at a time when treatment services are being provided for her and a man together; after the couple separated and were no longer being treated together, a later embryo replacement could not make the former partner the legal father even though earlier joint treatment and consent forms existed.",
+      "legal_issues": [
+        "Whether 'treatment services provided for her and a man together' covers embryo transfer after separation",
+        "Whether the course of treatment is defined by the original consent form or the position at placement",
+        "Whether the clinic's failure to be informed of separation affects legal paternity",
+        "Appropriate procedure for determining parentage under section 55A Family Law Act 1986"
+      ],
+      "catchwords": [
+        "IVF",
+        "legal parenthood",
+        "section 28(3)",
+        "donor insemination",
+        "embryo replacement",
+        "separation"
+      ],
+      "index_terms": [
+        "Human Fertilisation and Embryology Act 1990",
+        "HFEA Code of Practice",
+        "U v W",
+        "parental responsibility",
+        "donor sperm",
+        "Re D (Parental Responsibility: IVF baby)"
+      ],
+      "linked_authorities": [
+        "U v W (Attorney General Intervening)",
+        "Re D (Parental Responsibility: IVF baby)",
+        "Re B (Parentage)",
+        "R v Human Fertilisation and Embryology Authority ex parte Blood",
+        "JRM v Netherlands"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Statutory construction issue clearly resolved with detailed legislative history. Procedural observations on contact order left to parties."
+      }
+    }
+  }
+]

@@ -1,0 +1,616 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/97.json",
+    "status": "done",
+    "notes": "CPP indefinite suspension appeal; Bennett J applies Stefan/Sadler and dismisses on law-only appeal.",
+    "enrichment": {
+      "short_title": "Shanker v GMC: appeal against indefinite performance suspension",
+      "area_of_law": [
+        "Medical law",
+        "Professional discipline",
+        "Administrative law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Medical Act 1983",
+          "provisions": [
+            "section 36A",
+            "section 40"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Shanker, an Indian-qualified GP, faced repeated GMC performance assessments from 2001 showing seriously deficient knowledge and clinical skills.",
+        "He practised while suspended at Plumstead, lied to the CPP in 2001, and was convicted of obtaining pecuniary advantage by deception in 2004.",
+        "May 2004 reassessment scores remained far below minimum standards and assessors found no insight and that retraining was unlikely to succeed.",
+        "The CPP imposed indefinite suspension under section 36A(4); the doctor appealed on questions of law only."
+      ],
+      "procedural_posture": "High Court appeal under section 40(5) Medical Act 1983 on questions of law from a Committee on Professional Performance decision.",
+      "outcome": "Appeal dismissed; indefinite suspension upheld and GMC awarded costs summarily assessed at \u00a35,321.25.",
+      "ratio": "On a section 40(5) appeal the court applies a generous 'question of law' jurisdiction per Stefan v GMC but will defer to the CPP unless findings are unsupported; matters going to character and credibility may be considered for fitness to practise and credibility of evidence without being conflated with performance assessment.",
+      "legal_issues": [
+        "Whether reassessment results justified indefinite suspension",
+        "Whether the CPP wrongly took account of character, credibility and honesty",
+        "Whether the CPP erred in finding lack of insight",
+        "Scope of appellate jurisdiction under section 40(5)"
+      ],
+      "catchwords": [
+        "General Medical Council",
+        "performance assessment",
+        "indefinite suspension",
+        "section 36A",
+        "lack of insight",
+        "question of law appeal"
+      ],
+      "index_terms": [
+        "Committee on Professional Performance",
+        "simulated surgery",
+        "OSCE",
+        "mentorship",
+        "fitness to practise",
+        "Bennett J"
+      ],
+      "linked_authorities": [
+        "Stefan v General Medical Council [2002] UKPC 10",
+        "Sadler v General Medical Council [2003] UKPC 59",
+        "Dr Nandi v General Medical Council [2004] EWHC 2317 (Admin)"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Facts, CPP reasoning and dismissal are clearly recorded."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/2.json",
+    "status": "done",
+    "notes": "Restricted patient recall after insanity acquittal; Keene LJ rejects classification-based limit on section 42(3).",
+    "enrichment": {
+      "short_title": "R (AL) v SSHD: lawfulness of recall of conditionally discharged restricted patient",
+      "area_of_law": [
+        "Mental health law",
+        "Criminal law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 37",
+            "section 42",
+            "section 72",
+            "section 75"
+          ]
+        },
+        {
+          "title": "Criminal Procedure (Insanity) Act 1964",
+          "provisions": [
+            "section 5",
+            "Schedule 1 paragraph 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "AL was acquitted of murder by reason of insanity in 1991 and detained under section 5(1)(a) 1964 Act, treated as restricted under the MHA.",
+        "After a conditional discharge in 2001 he formed a relationship with a vulnerable teenager, abused drugs and was recalled in February 2004 on emergency grounds.",
+        "Dr Croy's March 2004 report found no mental illness but ongoing psychopathic disorder warranting detention for protection of others.",
+        "He challenged continued detention after receipt of that report, arguing recall required the same classified disorder as originally justified detention."
+      ],
+      "procedural_posture": "Appeal from refusal of judicial review of Secretary of State recall and interim detention pending MHRT review.",
+      "outcome": "Appeal dismissed; recall and detention lawful and MHRT referral within one month provided adequate safeguard.",
+      "ratio": "Section 5(1964) detainees are not 'classified' with a particular mental disorder like section 37 patients, so B v Ashworth's treatment-limitation principle does not restrict section 42(3) recall; even for classified patients recall is not limited to the originally specified disorder where public protection requires it.",
+      "legal_issues": [
+        "Whether section 42(3) recall requires the same form of mental disorder as originally classified",
+        "Application of R (B) v Ashworth to restricted patients",
+        "Whether section 5(1964) orders involve mental disorder classification",
+        "Lawfulness of detention between recall and MHRT determination"
+      ],
+      "catchwords": [
+        "section 42 recall",
+        "restricted patient",
+        "conditional discharge",
+        "psychopathic disorder",
+        "not guilty by reason of insanity",
+        "classification"
+      ],
+      "index_terms": [
+        "Ashworth Hospital",
+        "Mental Health Review Tribunal",
+        "Winterwerp",
+        "section 37(7)",
+        "emergency recall"
+      ],
+      "linked_authorities": [
+        "R (B) v Ashworth Hospital Authority [2003] EWCA Civ 547",
+        "Winterwerp v Netherlands (1979) 2 EHRR 387"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory analysis and dismissal are detailed and coherent."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2005/35.json",
+    "status": "done",
+    "notes": "Gloster J trial of 20 preliminary issues on Stockholm arbitration jurisdiction after Interlife share sale.",
+    "enrichment": {
+      "short_title": "SEB Trygg v Manches: Interlife arbitration misnomer and authority issues",
+      "area_of_law": [
+        "Arbitration",
+        "Commercial law",
+        "Insurance law",
+        "Company law",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Arbitration under Stockholm Chamber rules arose from SEB's 1993 purchase of Interlife shares and counterclaim for pension mis-selling indemnities.",
+        "Proceedings named Old Aachener Re, which had merged into AMB Generali by universal succession before arbitration began.",
+        "Three solicitor firms acted sequentially; AMB contended it was never a party and had not submitted to jurisdiction.",
+        "Twenty preliminary liability issues addressed misnomer, actual and ostensible authority, ratification and estoppel."
+      ],
+      "procedural_posture": "Commercial Court trial of 20 preliminary issues arising from long-running English-seated Stockholm Chamber arbitration.",
+      "outcome": "AMB held bound to arbitration through misnomer correction, Professor Hauptmann's authority, ratification/acquiescence and estoppel; AMB lost jurisdiction objection; split costs orders made; permission to appeal refused.",
+      "ratio": "Where arbitration is begun against a dissolved vendor company but objectively intended to bind its universal successor, the defect is misnomer not nullity; senior in-house management had authority to commence proceedings and later conduct ratified or estopped denial of party status.",
+      "legal_issues": [
+        "Misnomer versus nullity in arbitration party identification",
+        "Actual and ostensible authority under English and German law",
+        "Ratification and estoppel by acquiescence",
+        "Whether counterclaim service joined AMB to arbitration"
+      ],
+      "catchwords": [
+        "Stockholm Chamber arbitration",
+        "misnomer",
+        "universal succession",
+        "ostensible authority",
+        "ratification",
+        "Interlife"
+      ],
+      "index_terms": [
+        "Aachener Re",
+        "AMB Generali",
+        "Professor Hauptmann",
+        "pension mis-selling",
+        "deed of indemnity",
+        "Gloster J"
+      ],
+      "linked_authorities": [
+        "The Sardinia Sulcis [1991] 1 Lloyd's Rep 201",
+        "Lazard Brothers v Midland Bank Ltd [1933] AC 289",
+        "Nelson v Nelson [1997] 1 WLR 233"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Complex multi-issue judgment; core holdings on misnomer and authority are explicit though some issues were academic."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/132.json",
+    "status": "done",
+    "notes": "Moat House hotel fire certificate sentencing appeal; fines reduced for culpability and profits oversight.",
+    "enrichment": {
+      "short_title": "R v ESB Hotels: appeal against fire certificate breach fines after fatal hotel fire",
+      "area_of_law": [
+        "Criminal law",
+        "Health and safety",
+        "Fire safety",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Fire Precautions Act 1971",
+          "provisions": [
+            "section 4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Bolton Moat House Hotel, occupied by ESB Hotels Ltd, suffered a corridor fire in April 2001 started by a night porter, killing two elderly guests.",
+        "Combustible beds had been stored in a designated means of escape for 12-15 hours despite a fire certificate prohibiting combustibles in corridors.",
+        "A February 2001 risk assessment had warned about storing mattresses and beds in inappropriate areas; staff training on removal was inadequate.",
+        "Crown Court fines totalled \u00a3400,000 plus \u00a311,000 costs for two section 4 offences."
+      ],
+      "procedural_posture": "Appeal by leave against Crown Court sentence following guilty pleas committed from magistrates' court.",
+      "outcome": "Appeal allowed in part; fines reduced to \u00a3175,000 and \u00a375,000 respectively; defendant's costs order granted.",
+      "ratio": "Foreseeable breach of fire certificate requirements in a sleeping-risk hotel warrants substantial fines even where ignition was criminal employee act, but culpability is reduced where steps were taken to remove obstructions and the judge must have regard to pre-tax profits not merely gross turnover.",
+      "legal_issues": [
+        "Appropriate culpability where employee deliberately started fire",
+        "Disparity between fines for related offences",
+        "Application of F Howe and Sons and comparable health and safety sentencing cases",
+        "Relevance of company financial resources and profit margins"
+      ],
+      "catchwords": [
+        "fire certificate",
+        "means of escape",
+        "corporate fine",
+        "hotel fire",
+        "Howe sentencing",
+        "combustible storage"
+      ],
+      "index_terms": [
+        "Bolton Moat House",
+        "Queen's Moat Houses",
+        "risk assessment",
+        "Cardiff City Transport",
+        "Friskies Pet Care"
+      ],
+      "linked_authorities": [
+        "F Howe and Sons Engineers [1999] 2 Cr App R(S) 37",
+        "Colthorp Board Mills Ltd [2002] 2 Cr App R(S) 80",
+        "Cardiff City Transport Services [2003] 1 Cr App R(S) 141"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Agreed facts, sentencing reasoning and substituted fines are clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/36.json",
+    "status": "done",
+    "notes": "Chancery rectification trial; highway adoption hammerhead boundary mistakenly drawn at DD not CC.",
+    "enrichment": {
+      "short_title": "James Hay v Cooper Estates: rectification of transfer boundary for adopted highway",
+      "area_of_law": [
+        "Property law",
+        "Land registration",
+        "Contract law",
+        "Equity"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Land Registration Act 2002",
+          "provisions": [
+            "Schedule 4 paragraph 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "James Hay pension trustee sold part of Somerset land to Cooper for a retail development with a new adoptable access road.",
+        "Parties intended transfer of a hammerhead parcel up to line CC for highway adoption, but contract and transfer plans wrongly showed boundary DD.",
+        "Road was built and adopted to CC; Cooper later could block James Hay offering the remainder for adoption.",
+        "Cooper denied common intention, contending it acquired only what the transfer described."
+      ],
+      "procedural_posture": "Chancery claim for rectification of 1999 transfer and consequential land register correction after trial.",
+      "outcome": "Claim succeeded; common continuing intention and outward accord established; transfer and register ordered rectified to line CC; unjust not to rectify register against adventitious ransom position.",
+      "ratio": "Rectification requires common continuing intention, outward expression of accord and mistake at transfer; Cooper intended to acquire only the turning area required by the highway authority, not the excess shown on the final plan.",
+      "legal_issues": [
+        "Whether James Hay and Cooper shared a common intention as to the transferred parcel",
+        "Effect of Bond Pearce letter and B1/138 plan as outward accord",
+        "Whether register rectification would be unjust under Schedule 4 LRA 2002",
+        "How copying error moved boundary from CC to DD"
+      ],
+      "catchwords": [
+        "rectification",
+        "transfer plan",
+        "highway adoption",
+        "hammerhead",
+        "common intention",
+        "land register"
+      ],
+      "index_terms": [
+        "Chard Somerset",
+        "Cooper Estates",
+        "Leehampton Developments",
+        "section 106 agreement",
+        "Plan B",
+        "Swainland Builders"
+      ],
+      "linked_authorities": [
+        "Swainland Builders Ltd v Freehold Properties Ltd [2002] EWCA Civ 560"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Fact-intensive trial but rectification order and reasoning are comprehensive."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/9.json",
+    "status": "done",
+    "notes": "Adverse possession appeal; Rix LJ finds implied licence during 1987-91 sale negotiations.",
+    "enrichment": {
+      "short_title": "Dawson v Howard: adverse possession defeated by implied licence pending sale talks",
+      "area_of_law": [
+        "Property law",
+        "Land law",
+        "Limitation",
+        "Equity"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "Schedule 1 paragraph 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Colin Dawson Windows used cleared North End Yard land as a car park from about August 1987.",
+        "Mrs Howard claimed paper title to former No 4A, demolished in 1958, identified on a 1958 clearance plan.",
+        "From 1987 to August 1991 the parties negotiated purchase; Howard's solicitors permitted occupation unless talks failed.",
+        "County court held Dawsons had adversely possessed for twelve years by June 2003 counterclaim."
+      ],
+      "procedural_posture": "Appeal from Norwich County Court adverse possession claim and counterclaim for paper title.",
+      "outcome": "Appeal allowed; implied licence inferred during negotiations until August 1991 prevented twelve years adverse possession; matter remitted on counterclaim damages.",
+      "ratio": "Possession pending negotiations for purchase of land may be by implied permission; contingent requests to vacate if talks fail do not negate licence, and limitation time does not run while occupation is referable to the owner's permission.",
+      "legal_issues": [
+        "Whether Mrs Howard proved paper title to No 4A",
+        "Whether Dawsons' possession was pursuant to an implied licence",
+        "Effect of BP Properties v Buckler and Bath DC v Nicholson",
+        "Whether Howard had an interest to grant a licence before assent in 2003"
+      ],
+      "catchwords": [
+        "adverse possession",
+        "implied licence",
+        "negotiations for sale",
+        "clearance order",
+        "intention to possess",
+        "Limitation Act"
+      ],
+      "index_terms": [
+        "North End Yard King's Lynn",
+        "No 4A",
+        "car park",
+        "1958 clearance order",
+        "assent to inheritance"
+      ],
+      "linked_authorities": [
+        "BP Properties Ltd v Buckler (1988) 55 P&CR 337",
+        "Bath & North Somerset DC v Nicholson (22 February 2002, unreported)",
+        "JA Pye (Oxford) Ltd v Graham [2003] 1 AC 419"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Correspondence analysis and appeal outcome are clearly reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/88.json",
+    "status": "done",
+    "notes": "Second appeal on shared reservoir grant; downhill owner has priority over Beauchamp.",
+    "enrichment": {
+      "short_title": "Mitchell v Potter: construction of shared water rights from hillside reservoir",
+      "area_of_law": [
+        "Property law",
+        "Land law",
+        "Easements",
+        "Natural resources"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "1986 conveyances split Addiscott Farm, granting the downhill farmland owner rights to draw water from a Stonecross reservoir 'in common' with vendors.",
+        "Grant expressly allowed drawing such water as reasonably required for domestic and farm purposes through an existing pipeline.",
+        "Defendants contended the uphill owners had first call; claimant sought priority for reasonable requirements.",
+        "Deputy District Judge held supply shared with no first call; HHJ Overend reversed, giving claimant priority."
+      ],
+      "procedural_posture": "Second appeal on preliminary issue of construction of September 1986 conveyance water rights.",
+      "outcome": "Appeal dismissed; claimant entitled to draw reasonably required water first, defendants limited to residue; costs reduced slightly.",
+      "ratio": "The phrase 'in common' denotes non-exclusivity but sub-paragraph (ii) grants the downhill owner a positive right to abstract reasonably required water for domestic and farm use, not merely a cap; Beauchamp v Frome is distinguishable on wording and artificial pipe/reservoir context.",
+      "legal_issues": [
+        "Whether water rights are easement or profit \u00e0 prendre",
+        "Priority between uphill and downhill grantees",
+        "Construction of 'in common' and 'reasonably required'",
+        "Application of Beauchamp v Frome Rural District Council"
+      ],
+      "catchwords": [
+        "water rights",
+        "profit \u00e0 prendre",
+        "reservoir",
+        "in common",
+        "downhill landowner",
+        "conveyancing grant"
+      ],
+      "index_terms": [
+        "Stonecross South Tawton",
+        "Addiscott Farm",
+        "pipeline",
+        "Beauchamp v Frome",
+        "preliminary issue"
+      ],
+      "linked_authorities": [
+        "Beauchamp v Frome Rural District Council [1938] 1 All ER 595"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Preliminary issue and construction conclusion are explicit though reasonableness of use remains for later trial."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/90.json",
+    "status": "done",
+    "notes": "Interlocutory permission only; Jacob LJ grants appeal on Consumer Credit Act points and invites OFT input.",
+    "enrichment": {
+      "short_title": "Coutts & Co v Sebestyen: permission to appeal on Consumer Credit Act issues",
+      "area_of_law": [
+        "Consumer credit",
+        "Banking law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Consumer Credit Act 1974",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Dispute between Coutts & Co and Mr Sebestyen raised Consumer Credit Act points at first instance.",
+        "Applicant sought permission to appeal limited to those statutory points.",
+        "Court indicated Office of Fair Trading comments or intervention would be welcomed on the appeal."
+      ],
+      "procedural_posture": "Interlocutory Court of Appeal application for permission to appeal and stay on Consumer Credit Act points only.",
+      "outcome": "Permission to appeal granted on Consumer Credit Act points; cross-appeal permission if necessary; judgment to be sent to OFT; stay allowed.",
+      "ratio": "This judgment records procedural case management only; no substantive ratio on Consumer Credit Act construction was decided at this stage.",
+      "legal_issues": [
+        "Whether permission to appeal should be granted on Consumer Credit Act points",
+        "Whether Office of Fair Trading should be invited to assist the court"
+      ],
+      "catchwords": [
+        "Consumer Credit Act",
+        "permission to appeal",
+        "Coutts",
+        "stay",
+        "Office of Fair Trading"
+      ],
+      "index_terms": [
+        "interlocutory order",
+        "Jacob LJ",
+        "cross-appeal",
+        "bank lending"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Very short procedural order; no merits decision on the CCA issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/10.json",
+    "status": "done",
+    "notes": "Abuse of process appeal; Wall LJ strikes out parallel High Court contract claim after ET history.",
+    "enrichment": {
+      "short_title": "Enfield v Sivanandan: abuse of process of parallel contract claim after employment tribunal",
+      "area_of_law": [
+        "Employment law",
+        "Contract law",
+        "Civil procedure",
+        "Discrimination law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Race Relations Act 1976",
+          "provisions": []
+        },
+        {
+          "title": "Sex Discrimination Act 1975",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Ms Sivanandan, Enfield's racial equality officer, brought extensive employment tribunal claims including breach of contract from 1997.",
+        "Tribunal proceedings were eventually struck out in September 2000 after prolonged adjournments and non-cooperation.",
+        "She later issued High Court contract proceedings, obtained default judgment, and asserted she had never accepted dismissal.",
+        "Enfield applied to set aside judgment and strike out the claim as abuse of process."
+      ],
+      "procedural_posture": "Appeal from High Court refusal to strike out Queen's Bench contract claim following employment tribunal litigation.",
+      "outcome": "Appeal allowed; Queen's Bench proceedings struck out under CPR 3.4 as abuse of process; earlier orders set aside.",
+      "ratio": "Where contract and discrimination claims were litigated or available in the employment tribunal and the claimant objectively accepted repudiation by pursuing dismissal remedies, later High Court proceedings repeating the same grievances are an abuse; Henderson v Henderson and Birkett v James principles apply.",
+      "legal_issues": [
+        "Whether breach of contract claim remained before the employment tribunal",
+        "Whether High Court claim duplicated tribunal issues",
+        "Whether Sivanandan accepted Enfield's repudiation of contract",
+        "Application of abuse of process and election principles"
+      ],
+      "catchwords": [
+        "abuse of process",
+        "employment tribunal",
+        "breach of contract",
+        "strike out",
+        "Henderson v Henderson",
+        "default judgment"
+      ],
+      "index_terms": [
+        "London Borough of Enfield",
+        "racial equality officer",
+        "Stratford tribunal",
+        "repudiatory breach",
+        "Wall LJ"
+      ],
+      "linked_authorities": [
+        "Henderson v Henderson (1843) 3 Hare 100",
+        "Johnson v Gore Wood & Co [2002] 2 AC 1",
+        "Peyman v Lanjani [2006] EWCA Civ 1212"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Long procedural history but strike-out conclusion and reasoning are clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/110.json",
+    "status": "done",
+    "notes": "Asylum certification appeal; Buxton LJ distinguishes refugee and Article 3 grounds under section 96(2)(a).",
+    "enrichment": {
+      "short_title": "Borak v SSHD: section 96 certification of fresh asylum claim",
+      "area_of_law": [
+        "Immigration law",
+        "Asylum law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nationality Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 96",
+            "section 120"
+          ]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 75"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Croatian Serb Mr Borak claimed asylum from 1999; human rights appeal dismissed June 2002.",
+        "Fresh 2003 claim relied on indictment of General Gotovina for murders of claimant's relatives.",
+        "Secretary of State certified under section 96(2) preventing appeal as repeating earlier grounds or omitting one-stop evidence.",
+        "Administrative Court upheld certification on purposive interpretation of 'ground'."
+      ],
+      "procedural_posture": "Appeal from judicial review upholding section 96(2) certification of fresh asylum claim.",
+      "outcome": "Appeal dismissed overall; court reversed judge on section 96(2)(a) but upheld certification under section 96(2)(b) for failure to include asylum ground in one-stop statement.",
+      "ratio": "A 'ground' under section 96 comprises both factual and legal elements, so Refugee Convention and Article 3 claims are distinct grounds despite overlapping facts; certification under (b) may apply where new asylum ground should have been included in an earlier one-stop statement even if facts existed but were unknown.",
+      "legal_issues": [
+        "Meaning of 'ground' in section 96(2)(a)",
+        "Whether refugee and Article 3 claims are the same ground",
+        "Certification where evidence existed but claimant was unaware",
+        "Whether Gotovina material should have been in section 75 one-stop statement"
+      ],
+      "catchwords": [
+        "section 96 certification",
+        "fresh asylum claim",
+        "one-stop statement",
+        "Article 3",
+        "Refugee Convention",
+        "finality"
+      ],
+      "index_terms": [
+        "General Gotovina",
+        "Croatian Serb",
+        "Balamurali",
+        "Ullah",
+        "Harrison J",
+        "judicial review"
+      ],
+      "linked_authorities": [
+        "R (Balamurali) v SSHD [2003] EWHC 1183 (Admin)",
+        "R (Ullah) v Special Adjudicator [2004] UKHL 26",
+        "Secretary of State v Saleem [2000] Imm AR 529"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory construction and split outcome on (2)(a) versus (2)(b) are clearly explained."
+      }
+    }
+  }
+]

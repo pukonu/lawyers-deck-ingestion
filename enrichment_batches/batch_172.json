@@ -1,0 +1,821 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3309.json",
+    "status": "done",
+    "notes": "Complete CCRC reference judgment; conviction quashed on fresh CIS printout evidence affecting PACE s.76 admissibility.",
+    "enrichment": {
+      "short_title": "Manslaughter conviction quashed where undisclosed police CIS printout showed officers knew appellant was mentally handicapped before confessions",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal evidence",
+        "Confession evidence",
+        "Police procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": ["s.37", "s.41"]
+        },
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": ["s.9", "s.9(2)"]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": ["s.76", "Code C para 1.4"]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": ["s.23"]
+        }
+      ],
+      "key_facts": [
+        "The appellant, a mentally subnormal 49-year-old with very high suggestibility, was convicted of manslaughter in 1989 after confessing to killing a woman in Newcastle; the prosecution case rested almost entirely on detailed police interviews.",
+        "Witness evidence suggested the victim was alive after the time the appellant realistically could have killed her, but the confessions contained accurate unpublished details of the sequence of attacks.",
+        "Police breached PACE Code C by interviewing without an appropriate adult or solicitor and failing to advise on legal advice; the trial judge nonetheless ruled the confessions admissible.",
+        "Fresh evidence on CCRC reference was a CIS computer printout dated 29 August 1988 marked 'MENTAL' and requested for DC Dunn shortly before the first formal interview, contradicting officers' evidence that they did not suspect mental handicap."
+      ],
+      "procedural_posture": "CCRC reference under Criminal Appeal Act 1995 s.9 treated as appeal against conviction; court admitted fresh documentary evidence and heard DS Dunn in the witness box.",
+      "outcome": "Conviction held unsafe and quashed; court found that with the CIS printout the trial judge would have excluded the confession evidence under PACE s.76, leaving no case against the appellant.",
+      "ratio": "Where fresh evidence shows interviewing officers probably knew or suspected a mentally handicapped detainee was 'MENTAL' before obtaining detailed confessions, the credibility of those officers is undermined and the confessions should be excluded under PACE s.76 as likely unreliable; admissibility turns on how the confession was obtained, not its apparent truth.",
+      "legal_issues": [
+        "Whether the undisclosed CIS printout satisfied Criminal Appeal Act 1968 s.23 and cast doubt on the safety of the conviction",
+        "Whether fresh evidence would have led to exclusion of confessions under PACE s.76",
+        "Whether breaches of Code C in interviewing a mentally subnormal, highly suggestible suspect rendered confessions inadmissible"
+      ],
+      "catchwords": [
+        "CCRC reference",
+        "unsafe conviction",
+        "confession admissibility",
+        "PACE Code C",
+        "appropriate adult",
+        "mental handicap",
+        "suggestibility",
+        "non-disclosure",
+        "CIS printout"
+      ],
+      "index_terms": [
+        "R v J",
+        "Newcastle manslaughter",
+        "Northumbria Police",
+        "Acting DS Thornton",
+        "DS Dunn",
+        "Paris",
+        "Kenny",
+        "Cox",
+        "Pendleton"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Pendleton [2001] UKHL 66",
+          "relation": "distinguished on admissibility issue preceding jury impact test"
+        },
+        {
+          "citation": "Kenny [1994] CLR 284",
+          "relation": "cited on PACE s.76 focusing on reliability not veracity"
+        },
+        {
+          "citation": "Paris [1993] 97 CAR 99",
+          "relation": "cited on how confession obtained, not whether true"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full judgment with detailed interview chronology and clear disposal on PACE s.76 admissibility."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1757.json",
+    "status": "done",
+    "notes": "Complete judgment on JCT lump-sum contract construction plus Brooke LJ practice direction guidance on Court of Appeal bundles.",
+    "enrichment": {
+      "short_title": "Building contractor's quantum meruit claim fails where letter of intent created binding JCT lump-sum contract despite absent formal deed",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Part 52 Practice Direction paras 5.6-5.8", "para 15.11", "para 15.11A", "paras 5.9", "7.6-7.7"]
+        },
+        {
+          "title": "Practice Direction (Citation of Authorities)",
+          "provisions": ["paras 8.1", "8.2", "8.4"]
+        }
+      ],
+      "key_facts": [
+        "Harvey Shopfitters tendered £339,895.34 for refurbishment at 22 Cornwall Gardens under JCT IFC84 conditions and commenced work after architects' informal acceptance.",
+        "On 7 July 1998 architects wrote confirming intention to contract on the tender sum and authorising proceed, with a proviso that if the contract failed to proceed and be formalised, reasonable expenditure would be reimbursed on a quantum meruit basis.",
+        "Interim payments, architects' instructions and final account negotiations were all conducted on a lump-sum IFC84 basis until May 2001 when the contractor amended its claim to quantum meruit.",
+        "The recorder held a binding lump-sum contract existed and the quantum meruit proviso applied only if the contract both did not proceed and was not formalised; he also held estoppel by convention."
+      ],
+      "procedural_posture": "Appeal to Court of Appeal from Technology and Construction Court preliminary ruling on contractual basis of claim.",
+      "outcome": "Appeal dismissed with costs; lump-sum contract construction upheld and estoppel issue not reached.",
+      "ratio": "A letter of intent to proceed on agreed JCT terms can create a binding lump-sum contract where all material terms are agreed, even though formal documents are contemplated; the quantum meruit fallback in such a letter applies only conjunctively where the contract both fails to proceed and is not formalised, not where work continued on the agreed lump-sum basis.",
+      "legal_issues": [
+        "Whether the 7 July 1998 letter created a lump-sum contract or left the contractor entitled to quantum meruit",
+        "Construction of 'fail to proceed and be formalised' in a letter of intent",
+        "Whether estoppel by convention barred the quantum meruit claim"
+      ],
+      "catchwords": [
+        "letter of intent",
+        "JCT IFC84",
+        "lump sum contract",
+        "quantum meruit",
+        "construction contract",
+        "Stent Foundations",
+        "Court of Appeal bundles",
+        "core bundle"
+      ],
+      "index_terms": [
+        "Harvey Shopfitters",
+        "ADI Ltd",
+        "Cornwall Gardens",
+        "Salt Evans",
+        "Recorder John Uff",
+        "Stent Foundations v Carillion"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Stent Foundations Ltd v Carillion Construction (Contracts) Ltd [2000] 78 CLR 188",
+          "relation": "applied on binding contract despite contemplated formal documents"
+        },
+        {
+          "citation": "Haggis v DPP [2003] EWHC 2481 Admin",
+          "relation": "cited on seven-day authorities bundle deadline"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete substantive and procedural judgment; contract issue clearly decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3230.json",
+    "status": "done",
+    "notes": "Complete sentencing appeal; extension of time refused because Nelson guidance held not retrospective law.",
+    "enrichment": {
+      "short_title": "Extension of time to appeal extended licence refused where Nelson sentencing guidance held practice not retrospective law",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Sexual offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": ["s.58"]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": ["s.85", "s.109"]
+        },
+        {
+          "title": "Sex Offenders Act 1997",
+          "provisions": ["s.2"]
+        },
+        {
+          "title": "Crime (Sentences) Act 1997",
+          "provisions": ["s.2", "s.2(2)"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["s.3"]
+        }
+      ],
+      "key_facts": [
+        "William Sim was convicted of indecent assault and gross indecency against a seven-year-old child and received 30 months concurrent plus a five-year extended licence under Crime and Disorder Act 1998 s.58.",
+        "The probation officer recommended adjournment for sex offender risk assessment but the judge declined, finding denial precluded useful assessment and imposing five years' extended licence.",
+        "Sim applied out of time (over three years late) to challenge the five-year extension period by reference to Nelson [2002] 1 Cr App R (S) 565 guidance unavailable at sentencing.",
+        "The court distinguished Offen/Kelly (statutory construction affecting vires) from Graham/Royal (sentencing practice without retrospective effect)."
+      ],
+      "procedural_posture": "Application for extension of time to apply for leave to appeal against sentence, referred by Registrar to full Court of Appeal Criminal Division.",
+      "outcome": "Extension of time refused; Nelson guidance held to be current sentencing practice not retrospective law, so merits of the five-year extension were not reached.",
+      "ratio": "Guidance in Nelson on fixing extended licence periods is sentencing practice within the Graham principle and does not retrospectively alter the law or restrict the court's powers as Offen did; late challenges to lawfully imposed extended sentences based on subsequently issued guidelines will generally fail.",
+      "legal_issues": [
+        "Whether Nelson guidance should be applied retrospectively to sentences imposed before it was given",
+        "Whether Offen/Kelly or Graham/Royal principles govern late sentencing appeals",
+        "Whether the five-year extended licence was manifestly excessive"
+      ],
+      "catchwords": [
+        "extended sentence",
+        "extension period",
+        "Nelson",
+        "Offen",
+        "Graham",
+        "Royal",
+        "retrospective sentencing",
+        "extension of time",
+        "sex offences",
+        "denial at sentencing"
+      ],
+      "index_terms": [
+        "William Charles Sim",
+        "Snaresbrook Crown Court",
+        "Judge Pitman",
+        "Kelly (No.2)",
+        "Cornelius",
+        "sex offenders project"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Nelson [2002] 1 Cr App R (S) 565",
+          "relation": "guidance relied on but held not retrospective law"
+        },
+        {
+          "citation": "Offen [2001] 2 Cr App R (S) 44",
+          "relation": "distinguished as statutory construction affecting vires"
+        },
+        {
+          "citation": "Graham [1999] 2 Cr App R (S) 312",
+          "relation": "applied on non-retrospective effect of sentencing decisions"
+        },
+        {
+          "citation": "Royal [2003] EWCA Crim 1152",
+          "relation": "applied on refinement of practice not alteration of law"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment with detailed analysis of retrospective sentencing principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2908.json",
+    "status": "done",
+    "notes": "Complete prosecutor's appeal on assault by omission; Crown Court no-case ruling reversed.",
+    "enrichment": {
+      "short_title": "Prosecutor's appeal allowed where concealed hypodermic needle and false assurance to searching officer could ground s.47 ABH actus reus",
+      "area_of_law": [
+        "Criminal law",
+        "Assault",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": ["s.47"]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": ["s.1"]
+        }
+      ],
+      "key_facts": [
+        "PC Hill searched the respondent at Stockwell Underground Station after he falsely assured her he had no needles or sharps.",
+        "During the search she was pierced by a concealed hypodermic needle in a jacket pocket; the respondent smirked and produced another needle.",
+        "The Crown Court held there was no positive act and that omission to warn could not amount to assault, entering no case to answer on assault occasioning ABH.",
+        "The Divisional Court held creating a danger by placing an exposed needle in a pocket and lying about sharps, combined with reasonably foreseeable injury on search, provided an evidential actus reus."
+      ],
+      "procedural_posture": "Prosecutor's appeal by case stated from Crown Court no-case-to-answer ruling; appeal allowed out of time with permission; CPS did not seek remittal.",
+      "outcome": "Question answered in the negative; Crown Court was wrong and appeal allowed without further order.",
+      "ratio": "Where a defendant by act or word creates a danger and exposes another to a reasonably foreseeable risk of injury which materialises, there is an evidential basis for the actus reus of assault occasioning ABH; a mere omission to warn does not suffice alone, but concealing a needle and falsely assuring the officer can constitute relevant positive conduct.",
+      "legal_issues": [
+        "Whether omission to warn can amount to assault occasioning ABH",
+        "Whether concealing a needle and giving false assurances before a search constitutes a positive act",
+        "Application of Roberts foreseeability test to indirect harm"
+      ],
+      "catchwords": [
+        "assault occasioning ABH",
+        "actus reus",
+        "omission",
+        "danger created",
+        "Roberts test",
+        "hypodermic needle",
+        "body search",
+        "case stated",
+        "DPP v K"
+      ],
+      "index_terms": [
+        "Santa-Bermudez",
+        "PC Hill",
+        "Stockwell Underground",
+        "Fagan v MPC",
+        "Regina v Miller",
+        "Clarence"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Fagan v Metropolitan Police Commissioner [1969] 1 QB 439",
+          "relation": "considered below on continuing act"
+        },
+        {
+          "citation": "Regina v Roberts (1971) 56 Cr App R 95",
+          "relation": "applied on natural and foreseeable consequence test"
+        },
+        {
+          "citation": "Director of Public Prosecutions v K (1990) 91 Cr App R 23",
+          "relation": "relied on for dangerous situation created by defendant"
+        },
+        {
+          "citation": "Regina v Miller [1983] 2 AC 161",
+          "relation": "cited on liability for failing to counteract self-created danger"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete Divisional Court judgment with clear legal ruling."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2802.json",
+    "status": "done",
+    "notes": "Complete s.288 planning challenge dismissed; inspector not required to investigate unpleaded alternative sites.",
+    "enrichment": {
+      "short_title": "Green Belt showpeople's caravan appeal dismissed where appellant failed to prove very special circumstances or challenge council evidence",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["s.288"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 8.2"]
+        }
+      ],
+      "key_facts": [
+        "Mrs Bowers appealed refusal of planning permission for permanent showpeople's living quarters and equipment storage at 1 Manor Way, South Ockendon in the Metropolitan Green Belt.",
+        "Her written appeal grounds cited stroke-related health needs and her granddaughter's local schooling; she placed no further evidence before the inspector and did not dispute the council's written statement.",
+        "The inspector found inappropriate Green Belt development and no very special circumstances outweighing harm; the council doubted the family were showpeople and said healthcare could continue elsewhere.",
+        "On s.288 challenge the claimant sought to rely on material not placed before the inspector, including council officer reports and Circular 22/91, to argue alternative accommodation was unavailable."
+      ],
+      "procedural_posture": "Application under Town and Country Planning Act 1990 s.288 to quash inspector's refusal of planning permission; permission to appeal to Court of Appeal refused.",
+      "outcome": "Application dismissed with costs; inspector entitled to decide on cases advanced and claimant failed to establish very special circumstances.",
+      "ratio": "An inspector deciding a planning appeal must consider cases advanced by the parties but is not obliged to investigate points or evidence not put before him; personal health and schooling circumstances pleaded in minimal terms did not establish very special circumstances for Green Belt inappropriate development, and Article 8 balancing required no further inquiry on the material presented.",
+      "legal_issues": [
+        "Whether the inspector erred in assuming alternative accommodation and healthcare were available without evidence",
+        "Whether Article 8 required a fuller balancing exercise",
+        "Whether the claimant could rely at s.288 on material not before the inspector"
+      ],
+      "catchwords": [
+        "Green Belt",
+        "very special circumstances",
+        "showpeople",
+        "planning appeal",
+        "s.288",
+        "Article 8",
+        "inspector's duty",
+        "PPG2",
+        "Circular 22/91"
+      ],
+      "index_terms": [
+        "Bowers",
+        "South Ockendon",
+        "Thurrock",
+        "Manor Way",
+        "Landscape Improvement Area",
+        "policy H14",
+        "R v Islington LBC ex p Thomas"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v Islington London Borough Council ex p Thomas [1997] 30 HLR 111",
+          "relation": "distinguished on housing authority enquiry duty"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full judgment; judges metadata in source file appears erroneous but text is complete."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2712.json",
+    "status": "done",
+    "notes": "Complete VAT appeal; single exempt supply of education upheld over zero-rated printed materials.",
+    "enrichment": {
+      "short_title": "Distance-learning college's printed course materials held ancillary component of single exempt VAT supply of education",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "Education law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": ["s.4", "s.30", "s.31", "Schedule 8 Group 3 Item 1", "Schedule 9 Group 6 Items 1", "3", "4", "s.83(b)"]
+        },
+        {
+          "title": "Tribunals and Inquiries Act 1992",
+          "provisions": ["s.11"]
+        },
+        {
+          "title": "Council Directive 77/388/EEC (Sixth VAT Directive)",
+          "provisions": ["Article 13"]
+        }
+      ],
+      "key_facts": [
+        "The College of Estate Management provides distance-taught property and construction courses; students pay a single fee and receive extensive printed binders, assignments, limited face-to-face sessions and online resources.",
+        "Printed materials are produced in-house, not sold separately, and account for the largest direct cost; students spend about 94% of study time on printed matter.",
+        "HMRC ruled printed matter was ancillary to exempt education under Schedule 9 Group 6; the VAT Tribunal dismissed the College's appeal seeking zero-rating under Schedule 8 Group 3.",
+        "The College historically recovered input tax on a deemed self-supply of zero-rated books, but NatWest Bank tribunal decision showed that mechanism did not apply where materials were supplied onwards to students."
+      ],
+      "procedural_posture": "High Court appeal on point of law under Tribunals and Inquiries Act 1992 s.11 from VAT and Duties Tribunal decision.",
+      "outcome": "Appeal dismissed; single principal supply characterised as exempt education and examination services, with printed matter an integral component part.",
+      "ratio": "Applying Card Protection Plan principles, where a distance-learning institution supplies education for a single fee and printed course materials are the essential means of delivery rather than an end in themselves for students, there is one economic supply of which the principal element is exempt education; ancillary printed matter takes the character of that principal supply and cannot be separately zero-rated.",
+      "legal_issues": [
+        "Whether printed course materials constitute a separate zero-rated supply of books or part of exempt education services",
+        "Application of Card Protection Plan single versus multiple supply test",
+        "Whether Schedule 9 Group 6 Item 4 closely related goods provision applied"
+      ],
+      "catchwords": [
+        "VAT exemption",
+        "education services",
+        "zero-rated books",
+        "single supply",
+        "Card Protection Plan",
+        "distance learning",
+        "ancillary supply",
+        "input tax recovery"
+      ],
+      "index_terms": [
+        "College of Estate Management",
+        "Reading University",
+        "VAT Tribunal Huggins",
+        "Faaborg-Gelting",
+        "Madgett",
+        "British Telecommunications",
+        "International Correspondence Schools"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Card Protection Plan Ltd v CCE [1999] 2 AC 601",
+          "relation": "applied on single supply characterisation"
+        },
+        {
+          "citation": "Faaborg-Gelting Linien A/S v Finanzamt Flensburg [1996] STC 774",
+          "relation": "cited on service predominance"
+        },
+        {
+          "citation": "CCE v Madgett and Baldwin [1998] STC 118",
+          "relation": "cited on ancillary add-on supplies"
+        },
+        {
+          "citation": "CCE v British Telecommunications Plc [1999] AC 1376",
+          "relation": "cited on delivery as ancillary to goods supply"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment with detailed facts and Card Protection Plan analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2709.json",
+    "status": "done",
+    "notes": "Complete habeas corpus judgment; two extradition charges discharged for insufficient prima facie case on execution.",
+    "enrichment": {
+      "short_title": "Extradition habeas corpus granted on two charges where wire transfer records were not 'executed' valuable securities under Theft Act s.20",
+      "area_of_law": [
+        "Extradition law",
+        "Criminal law",
+        "Habeas corpus"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act",
+          "provisions": ["Schedule 1 para 7(1)"]
+        },
+        {
+          "title": "Theft Act 1968",
+          "provisions": ["s.15", "s.20(2)", "s.20(3)"]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["ss.23-26"]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": ["s.2(1)"]
+        }
+      ],
+      "key_facts": [
+        "Patricia Nolan was committed at Bow Street on nine US extradition charges alleging fraud through false investment representations totalling about US$70,500.",
+        "Charges 6 and 8 alleged procuring execution of valuable securities by deception in respect of US$1,000 and US$100 wire transfers to Nolan's bank accounts in July and September 1996.",
+        "Evidence comprised computer printouts and an incomplete domestic wire request form; investors' affidavits described the transfers but the documents lacked proof of execution.",
+        "The court accepted the documents might be valuable securities authorising payment but held no act was done to or in connection with them constituting execution under s.20."
+      ],
+      "procedural_posture": "Habeas corpus application following magistrates' court committal for extradition to the United States; challenge limited to charges 6 and 8.",
+      "outcome": "Application granted in respect of charges 6 and 8; prima facie case on execution of valuable securities held fatally flawed; costs from central funds.",
+      "ratio": "Under Theft Act 1968 s.20, 'execution' of a valuable security requires acts done to or in connection with the document in the sense contemplated for negotiable instruments; mere creation or making of a document, or giving effect to its instructions by completing a transfer, does not suffice, following Kassim and Johl.",
+      "legal_issues": [
+        "Whether wire transfer verification printouts and domestic wire request forms were valuable securities under s.20(3)",
+        "Whether those documents had been 'executed' within s.20(2)",
+        "Whether computer records were admissible under Criminal Justice Act 1988 ss.23-26"
+      ],
+      "catchwords": [
+        "habeas corpus",
+        "extradition",
+        "prima facie case",
+        "valuable security",
+        "procuring execution",
+        "wire transfer",
+        "Theft Act s.20",
+        "Kassim"
+      ],
+      "index_terms": [
+        "Patricia Nolan",
+        "Bow Street",
+        "US extradition",
+        "Nations Program",
+        "Malibu Trust",
+        "Kenneth Schuster",
+        "Nanci Pascoe"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v Kassim [1992] 1 AC 9",
+          "relation": "applied; execute does not mean give effect to instructions"
+        },
+        {
+          "citation": "R v Johl [1994] Crim LR 522",
+          "relation": "applied on link between valuable security and execution"
+        },
+        {
+          "citation": "R v King (1991) 93 Cr App R 259",
+          "relation": "contrasted; signed CHAPS order held executed"
+        },
+        {
+          "citation": "R v Manjdadria (1983) Crim LR 73",
+          "relation": "clarified in Peter Weiss on documents authorising transfer"
+        },
+        {
+          "citation": "Peter Weiss v Government of Germany (2000) Crim LR 484",
+          "relation": "applied on documents authorising money transfer"
+        },
+        {
+          "citation": "R v Bolton (1992) 94 Cr App R 74",
+          "relation": "considered on breadth of s.20(3)"
+        },
+        {
+          "citation": "R v Foxley (1995) 2 Cr App R 523",
+          "relation": "accepted on admissibility of computer records"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete habeas corpus judgment with detailed s.20 analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3013.json",
+    "status": "done",
+    "notes": "Complete s.288 planning challenge dismissed; Secretary of State's PPG3 sequential approach upheld.",
+    "enrichment": {
+      "short_title": "Greenfield housing appeal dismissed where Secretary of State preferred unallocated Urban Capacity Study brownfield sites over plan allocation",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Housing policy"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["s.288", "s.54A"]
+        }
+      ],
+      "key_facts": [
+        "Wilson Connolly appealed refusal of outline planning permission for housing on a 2.23 hectare greenfield urban extension site at Highworth, Swindon, allocated in the 1999 Local Plan.",
+        "PPG3 required sequential preference for previously developed land before urban extensions; Swindon had a robust Urban Capacity Study identifying 318 potential brownfield sites.",
+        "The inspector recommended allowing the appeal, finding limited brownfield opportunities and that PPG3 did not override the plan allocation; the Secretary of State disagreed on availability of other UCS sites.",
+        "Housing supply figures showed at least a 2,000-dwelling shortfall once Southern Development Area output was discounted, but the Secretary of State took a broad view that unallocated UCS sites could contribute without releasing this site now."
+      ],
+      "procedural_posture": "Application under Town and Country Planning Act 1990 s.288 to quash Secretary of State decision dismissing outline planning permission appeal.",
+      "outcome": "Application dismissed with costs; Secretary of State entitled to differ from inspector and refuse premature release of sequentially less preferred greenfield site.",
+      "ratio": "Where PPG3 paragraph 38 applies to a greenfield site allocated before PPG3, the decision maker may lawfully take a broad view of housing shortfall against unallocated Urban Capacity Study brownfield potential and refuse release of the allocated site 'at this time' without quantifying every figure or explaining every disagreement with the inspector, provided the reasoning shows sequentially preferable sites remain available.",
+      "legal_issues": [
+        "Whether the Secretary of State adequately reasoned his departure from the inspector on UCS site availability",
+        "Whether he needed to quantify the housing shortfall before refusing the greenfield allocation",
+        "Whether PPG3 sequential policy overrode the local plan allocation"
+      ],
+      "catchwords": [
+        "PPG3",
+        "Urban Capacity Study",
+        "sequential test",
+        "greenfield housing",
+        "local plan allocation",
+        "s.288",
+        "inspector disagreement",
+        "five-year supply",
+        "brownfield first"
+      ],
+      "index_terms": [
+        "Wilson Connolly",
+        "Highworth",
+        "Swindon Borough",
+        "Southern Development Area",
+        "Northern Development Area",
+        "policy H2",
+        "Alderney Estates"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Alderney Estates Ltd v Secretary of State for Transport Local Government and the Regions [2003] EWCA Civ 346",
+          "relation": "mentioned; PPG3 interpretative issues noted but not resolved"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Complete judgment on planning merits and reasoning adequacy; complex housing arithmetic but disposition clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3185.json",
+    "status": "done",
+    "notes": "Complete Attorney General reference; unduly lenient drug importation sentences increased.",
+    "enrichment": {
+      "short_title": "Attorney General increases unduly lenient sentences for £5 million cocaine, MDMA and amphetamine importation conspiracy",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Drugs offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["s.36"]
+        }
+      ],
+      "key_facts": [
+        "Four defendants were convicted of conspiring to supply cocaine, MDMA and amphetamine imported in a Dutch lorry concealed in loading ramps at Bootle in November 2001, with street value about £5 million.",
+        "Hassan was central alongside absconded organiser Jackson; Rowan was important; Abbey and Davies provided the yard and van through Quayside Cleaning Services.",
+        "Sentences on counts 1-2 were Hassan 14 years, Rowan 12 years, Davies and Abbey 11 years concurrent, plus 8 years on count 3; Hassan received consecutive 2-year firearms sentences.",
+        "The experienced sentencing judge gave no stated reasons for departing below Aramah/Aranguren major importation starting points."
+      ],
+      "procedural_posture": "Attorney General reference under Criminal Justice Act 1988 s.36 for unduly lenient sentences following trial conviction.",
+      "outcome": "Sentences increased taking double jeopardy into account: Hassan to 17 years (19 with firearms), Rowan to 15 years, Davies and Abbey to 13 years on counts 1-2.",
+      "ratio": "In major Class A drug importation cases exceeding 5 kilos at 100% purity, guideline starting points of 14 years and upwards apply with a rising scale; substantial unexplained departure by an experienced judge from Aramah, Aranguren and subsequent authorities amounts to undue leniency warranting increase on Attorney General reference.",
+      "legal_issues": [
+        "Whether sentences for large-scale importation conspiracies were unduly lenient against guideline tariffs",
+        "Appropriate adjustment for absence of central organiser Jackson",
+        "Application of double jeopardy principle on s.36 references"
+      ],
+      "catchwords": [
+        "Attorney General reference",
+        "unduly lenient",
+        "drug importation",
+        "conspiracy to supply",
+        "Class A drugs",
+        "Aramah",
+        "Aranguren",
+        "double jeopardy",
+        "firearms offences"
+      ],
+      "index_terms": [
+        "Davies",
+        "Rowan",
+        "Abbey",
+        "Hassan",
+        "Martin Jackson",
+        "Operation Dolphin",
+        "Bootle",
+        "Quayside Cleaning Services",
+        "Recorder of Liverpool"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Aramah (1982) 4 Cr App R (S) 407",
+          "relation": "guideline starting point for major importation"
+        },
+        {
+          "citation": "Aranguren [1994] 16 Cr App R (S) 211",
+          "relation": "elaborated Aramah scale"
+        },
+        {
+          "citation": "Kayar [1998] 2 Cr App R (S) 355",
+          "relation": "cited on 10.3 kilo heroin sentence level"
+        },
+        {
+          "citation": "DeFour [1996] 2 Cr App R (S) 106",
+          "relation": "cited on prominent figure importation sentences"
+        },
+        {
+          "citation": "Kaynak [1998] 2 Cr App R (S) 283",
+          "relation": "cited on very large consignment sentences"
+        },
+        {
+          "citation": "Billson [2002] 2 Cr App R (S) 521",
+          "relation": "cited on 49 kilo consignment tariff"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete Attorney General reference with detailed facts and sentencing analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1630.json",
+    "status": "done",
+    "notes": "Complete appeal; without prejudice impropriety exception rejected and late amendment refused.",
+    "enrichment": {
+      "short_title": "Without prejudice admission of share ownership held inadmissible and late WPH disclosure amendment refused in liquidator fraud claim",
+      "area_of_law": [
+        "Civil procedure",
+        "Evidence",
+        "Without prejudice privilege",
+        "Insolvency",
+        "Fraud"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["r.1.1 (overriding objective)"]
+        }
+      ],
+      "key_facts": [
+        "SIB liquidators sued Kenneth Fincken for rescission of a 1992 deed settling debt claims based on alleged non-disclosure in a 1991 affidavit of means; trial was limited to Field House barn and one shotgun after earlier strike-outs.",
+        "At a without prejudice settlement meeting on 13 December 2002 Fincken admitted WPH shares held by Hallam were his; SIB applied to amend to plead non-disclosure of those shares and a director's loan.",
+        "Patten J held the admission fell within the unambiguous impropriety exception and allowed amendment, but ordered removal of direct reference to the admission; trial date was lost.",
+        "The Court of Appeal held mere inconsistency with a prior affidavit is not unambiguous impropriety, and refused amendment on public documents alone given long delay and prejudice."
+      ],
+      "procedural_posture": "Appeal from Patten J's interlocutory order granting leave to re-amend statement of claim shortly before trial in longstanding fraud/rescission proceedings.",
+      "outcome": "Appeal allowed; amendment refused; without prejudice privilege protected the admission unless the privileged occasion itself was abused.",
+      "ratio": "The unambiguous impropriety exception to without prejudice privilege requires abuse of the privileged occasion itself, such as blackmail or threats of perjury, not a mere admission inconsistent with a prior sworn statement; absent that, a party may speak freely in settlement negotiations and a late amendment based on publicly available documents long in the liquidators' possession should be refused where it would derail an imminent trial and extend litigation into new issues.",
+      "legal_issues": [
+        "Whether an admission at a without prejudice meeting inconsistent with a prior affidavit falls within the unambiguous impropriety exception",
+        "Whether Patten J's discretion to allow amendment should stand",
+        "Whether amendment could be permitted on public WPH documents irrespective of the without prejudice admission"
+      ],
+      "catchwords": [
+        "without prejudice",
+        "unambiguous impropriety",
+        "Forster v Friedland",
+        "Unilever v Procter & Gamble",
+        "Berry Trade v Moussavi",
+        "late amendment",
+        "affidavit of means",
+        "liquidators",
+        "rescission",
+        "non-disclosure"
+      ],
+      "index_terms": [
+        "Savings & Investment Bank",
+        "Fincken",
+        "Westminster Property Holdings",
+        "Hallam Financial Services",
+        "Patten J",
+        "third deed of settlement",
+        "Merrill Lynch v Raffa"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Forster v Friedland (CA, 10 November 1992, unreported)",
+          "relation": "origin of unambiguous impropriety phrase"
+        },
+        {
+          "citation": "Unilever plc v Procter & Gamble Co [2000] 1 WLR 2436",
+          "relation": "applied on narrow exception and abuse of privileged occasion"
+        },
+        {
+          "citation": "Berry Trade Ltd v Moussavi [2003] EWCA Civ 715",
+          "relation": "applied; exception not for inconsistent admissions"
+        },
+        {
+          "citation": "Fazil-Alizadeh v Nikbin (CA, 19 March 1993, unreported)",
+          "relation": "cited on continued denial on pleadings not destroying privilege"
+        },
+        {
+          "citation": "Cutts v Head [1984] Ch 290",
+          "relation": "cited on public policy of without prejudice rule"
+        },
+        {
+          "citation": "Rush & Tompkins Ltd v Greater London Council [1989] AC 1280",
+          "relation": "cited on breadth of privilege"
+        },
+        {
+          "citation": "Cobbold v London Borough of Greenwich (CA, 9 August 1999, unreported)",
+          "relation": "cited on amendment discretion under CPR"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete Court of Appeal judgment with comprehensive without prejudice authority review."
+      }
+    }
+  }
+]

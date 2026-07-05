@@ -1,0 +1,655 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/950.json",
+    "status": "done",
+    "notes": "Batch 94 enrichment",
+    "enrichment": {
+      "short_title": "CPR transitional stay of surviving counterclaim after possession judgment",
+      "area_of_law": [
+        "Civil procedure",
+        "Mortgage and possession"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": [
+            "Practice Direction 51"
+          ]
+        },
+        {
+          "title": "Administration of Justice Act 1970",
+          "provisions": [
+            "Section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The bank obtained a possession order in March 1999 after striking out the defence; a misrepresentation counterclaim survived.",
+        "Between April 1999 and April 2000 the court heard applications to suspend the possession warrant but not the counterclaim.",
+        "In August 2002 the defendants sought directions for the counterclaim; the bank argued it was automatically stayed under PD 51 paragraph 19.",
+        "The recorder allowed the defendants' appeal, but the Court of Appeal restored the automatic stay."
+      ],
+      "procedural_posture": "Second appeal concerning whether possession-related hearings kept existing proceedings alive for CPR transitional purposes.",
+      "outcome": "Appeal allowed; district judge's automatic stay of the counterclaim restored.",
+      "ratio": "For PD 51 paragraph 19, once final judgment has been given on a claim the proceedings cease to be 'existing proceedings' even if a counterclaim remains; enforcement hearings on the possession claim do not keep a freestanding counterclaim alive, though a party may apply to lift the stay.",
+      "legal_issues": [
+        "Whether paragraph 19(4) treats a final judgment on the claim as ending existing proceedings despite a surviving counterclaim",
+        "Whether suspension-of-warrant hearings counted as proceedings coming before a judge in the critical year",
+        "Construction of 'existing proceedings' as encompassing claim and counterclaim together"
+      ],
+      "catchwords": [
+        "CPR transition",
+        "Practice Direction 51",
+        "automatic stay",
+        "counterclaim",
+        "possession order",
+        "final judgment"
+      ],
+      "index_terms": [
+        "National Westminster Bank",
+        "Feeney",
+        "mortgage possession",
+        "misrepresentation counterclaim",
+        "C v L"
+      ],
+      "linked_authorities": [
+        {
+          "name": "C v L",
+          "citation": "[2001] 2 Lloyd's Rep 459",
+          "relation": "considered"
+        },
+        {
+          "name": "Neo Investments Inc v Cargill International SA",
+          "citation": "[2001] 2 Lloyd's Rep 33",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete Court of Appeal judgment with clear ratio on PD 51 paragraph 19(4)."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1319.json",
+    "status": "needs_review",
+    "notes": "Batch 94 enrichment; source full_text appears truncated before final causation paragraphs, but the judgment SUMMARY is present in the body.",
+    "enrichment": {
+      "short_title": "Barings auditors' liability cut off by management fault from April 1994",
+      "area_of_law": [
+        "Professional negligence",
+        "Audit and accounting",
+        "Company insolvency"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "Section 727"
+          ]
+        }
+      ],
+      "key_facts": [
+        "BFS sued Deloitte & Touche (Singapore) over negligent 1992 and 1993 audits of Nick Leeson's Singapore futures trading.",
+        "D&T failed to detect September 1992 window-dressing and a December 1993 margin imbalance indicating unauthorised trading.",
+        "From March 1994 Barings London provided unreconciled dollar funding that in fact marginned Leeson's hidden losses.",
+        "Evans-Lombe J held D&T liable from November 1992 but reduced damages by 50%-80% to April 1994 and found no further auditor liability thereafter."
+      ],
+      "procedural_posture": "High Court trial of BFS's professional negligence claim against its auditors after settlement with Coopers & Lybrand.",
+      "outcome": "D&T held liable for losses from November 1992 with substantial contributory-negligence reductions; no liability from end April 1994 onwards.",
+      "ratio": "Auditors may be liable for failing to detect fraud in audit work, but where group management thereafter provides large unreconciled funding without investigation, management fault breaks the chain of causation and extinguishes further auditor liability for continuing trading losses.",
+      "legal_issues": [
+        "Whether D&T's audit negligence caused BFS's losses from Leeson's unauthorised SIMEX trading",
+        "When management fault broke the chain of causation",
+        "Contributory negligence and apportionment of fault between BFS, group management and auditors",
+        "Scope of auditors' duty regarding losses facilitated by dollar funding"
+      ],
+      "catchwords": [
+        "audit negligence",
+        "Nick Leeson",
+        "Barings collapse",
+        "contributory negligence",
+        "chain of causation",
+        "futures trading"
+      ],
+      "index_terms": [
+        "Barings Futures Singapore",
+        "Deloitte & Touche Singapore",
+        "SIMEX",
+        "88888 account",
+        "dollar funding"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Caparo Industries plc v Dickman",
+          "citation": "[1990] 2 AC 605",
+          "relation": "considered"
+        },
+        {
+          "name": "Reeves v Commissioner of Police of the Metropolis",
+          "citation": "[2000] 1 AC 360",
+          "relation": "applied"
+        },
+        {
+          "name": "Brown v KMR Services Ltd",
+          "citation": "[1995] 2 Lloyd's Rep 513",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.82,
+        "level": "high",
+        "notes": "Very long judgment; core liability and April 1994 cut-off are clearly stated in the embedded SUMMARY, though the captured full_text ends mid-discussion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1043.json",
+    "status": "done",
+    "notes": "Batch 94 enrichment",
+    "enrichment": {
+      "short_title": "Disclosure of discarded expert report when substituting psychiatrist",
+      "area_of_law": [
+        "Civil procedure",
+        "Personal injury",
+        "Medical negligence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "An RAF officer brought a high-value psychiatric negligence claim against the Ministry of Defence.",
+        "The MoD sought to replace its expert Dr Goodhead without disclosing his report, arguing loss of confidence in his work.",
+        "District and circuit judges permitted substitution; the claimant appealed on Lane v Willis principles.",
+        "The Court of Appeal upheld substitution but required disclosure of Dr Goodhead's report as a condition of instructing a new expert."
+      ],
+      "procedural_posture": "Second appeal from interlocutory case-management decisions on expert substitution in a psychiatric negligence claim.",
+      "outcome": "Appeal allowed to the limited extent that Dr Goodhead's report must be disclosed if a new expert is instructed.",
+      "ratio": "A party may resist disclosing an unsatisfactory expert report while an application to replace the expert is contested, but once permission to instruct a fresh expert is granted, disclosure of the abandoned report should ordinarily be required to guard against expert shopping.",
+      "legal_issues": [
+        "Application of Lane v Willis to expert substitution",
+        "Whether a defendant must disclose an existing expert report before or as a condition of changing experts",
+        "Balancing invasion of personal liberty in further medical examination against expert shopping"
+      ],
+      "catchwords": [
+        "expert evidence",
+        "expert shopping",
+        "Lane v Willis",
+        "medical examination",
+        "case management",
+        "psychiatric negligence"
+      ],
+      "index_terms": [
+        "Ministry of Defence",
+        "RAF",
+        "Dr Goodhead",
+        "Dr Adrienne Reveley",
+        "personal injury"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Lane v Willis",
+          "citation": "[1972] 1 WLR 326",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Clear unanimous Court of Appeal guidance on conditional disclosure when substituting experts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/901.json",
+    "status": "done",
+    "notes": "Batch 94 enrichment",
+    "enrichment": {
+      "short_title": "Partial privilege waiver requires full expert communications",
+      "area_of_law": [
+        "Civil procedure",
+        "Legal professional privilege",
+        "Contract"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Dunlop disputed whether Joe Bloggs Sports had exercised an option; computer forensic evidence was central.",
+        "JBSL deployed privileged expert communications in witness statements to explain late new evidence.",
+        "Buckley J ordered disclosure of February 2003 expert communications; JBSL appealed urgently before trial.",
+        "The Court of Appeal held this was a deployment case and ordered disclosure of the relevant expert material, excluding solicitor advice."
+      ],
+      "procedural_posture": "Urgent interlocutory appeal on the eve of trial against an order for disclosure following partial waiver of privilege.",
+      "outcome": "Permission granted; appeal dismissed; disclosure order upheld in narrower form.",
+      "ratio": "Where a party deploys the contents of privileged expert communications in interlocutory or trial evidence, waiver extends to the whole of the relevant privileged material so the opponent can verify there has been no cherry picking.",
+      "legal_issues": [
+        "Whether reference to an expert report's contents amounted to deployment or mere reference",
+        "Whether partial waiver at interlocutory stage waives privilege for trial purposes",
+        "Application of the Nea Karteria cherry-picking principle"
+      ],
+      "catchwords": [
+        "legal professional privilege",
+        "waiver",
+        "cherry picking",
+        "expert evidence",
+        "witness statement",
+        "computer forensics"
+      ],
+      "index_terms": [
+        "Dunlop Slazenger",
+        "Joe Bloggs Sports",
+        "Delta Clinics",
+        "Usmat Ahmed",
+        "Derby v Weldon"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Nea Karteria Maritime Co Ltd v Atlantic & Great Lakes Steamship Corporation",
+          "citation": "[1981] 1 WLR 1385",
+          "relation": "applied"
+        },
+        {
+          "name": "Derby v Weldon (No 3)",
+          "citation": "[1991] 1 WLR 660",
+          "relation": "applied"
+        },
+        {
+          "name": "Great Atlantic Insurance Co v Home Insurance Co",
+          "citation": "[1981] 1 WLR 529",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Focused privilege appeal with detailed reasoning on deployment and scope of waiver."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/1304.json",
+    "status": "done",
+    "notes": "Batch 94 enrichment",
+    "enrichment": {
+      "short_title": "Sual power station contract parties and FIDIC cap issues",
+      "area_of_law": [
+        "Construction law",
+        "Contract law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mirant and Sual claimed over $60 million after failure of two boiler-house foundations at a Philippine power station.",
+        "Preliminary issues concerned whether FIDIC terms capped liability at £4m and limited claims to five years.",
+        "The court found the contract was formed by a 29 May 1995 letter of intent without incorporating Revision B FIDIC particular conditions.",
+        "CEPAS was the claimant contracting party; OAPIL and OAPHK were defendants; a separate site investigation agreement imposed foundation-approval duties on OAPIL."
+      ],
+      "procedural_posture": "Technology and Construction Court trial of preliminary contractual issues in foundation failure litigation.",
+      "outcome": "FIDIC five-year and £4m caps not incorporated; design contract between CEPAS and OAPIL/OAPHK; site investigation obligations on OAPIL.",
+      "ratio": "Where a letter of intent and associated documents formed the design contract, FIDIC limitation and cap clauses in an unsigned Revision B draft were not incorporated; parties and obligations must be determined objectively from the documents actually agreed.",
+      "legal_issues": [
+        "Whether FIDIC clause 17 and 18.1 limitation and cap terms were incorporated",
+        "Identity of contracting parties to the design and site investigation agreements",
+        "Nature of Ove Arup's obligations to approve ground conditions and foundation excavations"
+      ],
+      "catchwords": [
+        "construction contract",
+        "FIDIC",
+        "letter of intent",
+        "preliminary issues",
+        "foundation failure",
+        "limitation of liability"
+      ],
+      "index_terms": [
+        "Mirant",
+        "Ove Arup",
+        "Sual power station",
+        "CEPAS",
+        "Revision B"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Preliminary issues judgment with explicit answers on contract formation, parties and FIDIC incorporation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/859.json",
+    "status": "done",
+    "notes": "Batch 94 enrichment",
+    "enrichment": {
+      "short_title": "Boundary dispute appeal dismissed for lack of prospect",
+      "area_of_law": [
+        "Land law",
+        "Boundary disputes",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mrs Halliwell and Mrs Noble disputed the boundary between Woodfield House and Woodfield Lodge in Stalybridge.",
+        "A 1983 statutory declaration and conveyance history was central; plans on the deeds were unclear.",
+        "The recorder declared the boundary in Mrs Noble's favour and dismissed Mrs Halliwell's Part 20 claim.",
+        "Mrs Halliwell, acting in person, sought permission to appeal on alleged unfairness and erroneous fact-finding."
+      ],
+      "procedural_posture": "Application for permission to appeal against a county court boundary declaration and costs order.",
+      "outcome": "Application dismissed; no real prospect of success on appeal.",
+      "ratio": "Findings of fact in a boundary dispute based on site inspection, deed plans and witness evidence are not susceptible to successful challenge on permission to appeal unless procedural unfairness is shown.",
+      "legal_issues": [
+        "Whether the trial judge wrongly preferred the claimant's boundary evidence",
+        "Whether the defendant's witness statement was improperly ignored",
+        "Whether dismissal of the Part 20 counterclaim was unfair"
+      ],
+      "catchwords": [
+        "boundary dispute",
+        "permission to appeal",
+        "findings of fact",
+        "statutory declaration",
+        "Part 20 claim"
+      ],
+      "index_terms": [
+        "Woodfield House",
+        "Woodfield Lodge",
+        "Stalybridge",
+        "Tameside County Court"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Short permission judgment with straightforward fact-finding and fairness conclusions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/878.json",
+    "status": "done",
+    "notes": "Batch 94 enrichment",
+    "enrichment": {
+      "short_title": "Mental health observation regime and absconded patient overdose",
+      "area_of_law": [
+        "Clinical negligence",
+        "Mental health law",
+        "Personal injury"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "Section 2",
+            "Section 3",
+            "Section 17",
+            "Section 18"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Miss D was detained under section 3 after a history of mental illness, violence and repeated absconsions.",
+        "On 2 September 1996 she left hospital without leave, returned home and swallowed her mother's medication causing severe brain damage.",
+        "She was on hourly observations; the trust's experts said 15-minute checks were not clinically required.",
+        "The Court of Appeal upheld the judge's finding that hourly observations were supported by a responsible body of opinion and that police notification would not have prevented the overdose."
+      ],
+      "procedural_posture": "Appeal against dismissal of a clinical negligence claim following a five-day trial.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Where a detained patient absconded and later took an impulsive overdose at home, liability depends on whether the observation regime fell outside a defensible professional body of opinion under Bolitho and whether earlier discovery and police involvement would probably have prevented harm; neither was established.",
+      "legal_issues": [
+        "Appropriateness of hourly versus 15-minute observation for a bipolar patient",
+        "Application of the Bolitho test to conflicting psychiatric and nursing expert evidence",
+        "Whether the hospital's absconsion policy required immediate police notification",
+        "Causation if absence had been discovered earlier"
+      ],
+      "catchwords": [
+        "clinical negligence",
+        "Mental Health Act",
+        "observation levels",
+        "absconding",
+        "Bolitho",
+        "suicide risk"
+      ],
+      "index_terms": [
+        "South Tyneside District Hospital",
+        "Care Level III",
+        "absconsion policy",
+        "bipolar affective disorder"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bolitho v City and Hackney Health Authority",
+          "citation": "[1997] AC 232",
+          "relation": "applied"
+        },
+        {
+          "name": "Cassidy v Ministry of Health",
+          "citation": "[1951] QB 434",
+          "relation": "cited"
+        },
+        {
+          "name": "English v Emery Reinhold & Struktur AG",
+          "citation": "[2002] 1 WLR 2409",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed Court of Appeal analysis of observation levels, policy and causation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1318.json",
+    "status": "done",
+    "notes": "Batch 94 enrichment",
+    "enrichment": {
+      "short_title": "Aircraft ETOPS warranty damages recoverable by assignee maintainer",
+      "area_of_law": [
+        "Commercial law",
+        "Aviation",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Misrepresentation Act 1967",
+          "provisions": [
+            "Section 2(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Singapore Airlines sub-leased Airbus A310 aircraft to Middle East Airlines under heads of terms including an ETOPS compliance warranty.",
+        "Engines on delivered aircraft were not fully ETOPS compliant with required service bulletin modifications.",
+        "MEA assigned its warranty claim to Sabena Technics, which had taken over the power-by-the-hour maintenance contract.",
+        "Colman J held the 12 June letter was a binding warranty, SIA was in breach, and Sabena could recover modification costs as substantial damages."
+      ],
+      "procedural_posture": "Commercial Court trial of breach of warranty and damages following assignment of MEA's claim.",
+      "outcome": "Claimants succeeded; entitled to recover cost of incorporating SB72-382 on the four engines.",
+      "ratio": "An assignee of a lessee's warranty claim may recover substantial damages for ETOPS non-compliance where the loss genuinely fell on the maintenance provider and the breach was within the parties' contemplation when the warranty was given.",
+      "legal_issues": [
+        "Whether the 12 June letter was a contractual warranty of ETOPS compliance",
+        "Meaning and accuracy of the ETOPS warranty",
+        "Whether an assignee maintainer could recover substantial rather than nominal damages",
+        "Application of Alfred McAlpine and Panatown principles to assigned claims"
+      ],
+      "catchwords": [
+        "aircraft lease",
+        "ETOPS",
+        "breach of warranty",
+        "assignment",
+        "substantial damages",
+        "service bulletin"
+      ],
+      "index_terms": [
+        "Singapore Airlines",
+        "Middle East Airlines",
+        "Sabena Technics",
+        "Airbus A310",
+        "CMP Revision 13"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Alfred McAlpine Construction Ltd v Panatown Ltd",
+          "citation": "[2001] 1 AC 788",
+          "relation": "applied"
+        },
+        {
+          "name": "The Albazero",
+          "citation": "[1976] AC 774",
+          "relation": "applied"
+        },
+        {
+          "name": "Ewing v Buttercup Margarine Co Ltd",
+          "citation": "[1917] 34 RPC 232",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Long commercial judgment but clear warranty breach and damages conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1594.json",
+    "status": "done",
+    "notes": "Batch 94 enrichment",
+    "enrichment": {
+      "short_title": "PPG3 brownfield priority upheld for Sheppey housing refusal",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "Section 54A",
+            "Section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Redrow appealed refusal of outline planning permission for 160 homes on allocated greenfield land at Danley Farm, Isle of Sheppey.",
+        "The council and inspector relied on PPG3 to prioritise urban capacity and brownfield sites over the allocated greenfield site.",
+        "The inspector also found the proposal would erode openness between Halfway and Minster.",
+        "Sullivan J dismissed the section 288 challenge, holding the inspector lawfully balanced PPG3 paragraphs 32 and 34 and section 54A."
+      ],
+      "procedural_posture": "Section 288 statutory challenge to a planning inspector's dismissal of a housing appeal.",
+      "outcome": "Application dismissed; inspector's refusal upheld.",
+      "ratio": "Paragraph 32 of PPG3 does not prohibit all greenfield release while brownfield capacity exists, but an inspector may refuse an allocated greenfield site where paragraph 34 housing need, infrastructure timing and sustainable development considerations justify prioritising brownfield release through local plan review.",
+      "legal_issues": [
+        "Correct application of PPG3 paragraphs 32, 34 and 38",
+        "Whether the inspector misapplied section 54A",
+        "Effect of proposed development on countryside gap and local landscape area",
+        "Alderney Estates approach to brownfield presumption versus development plan need"
+      ],
+      "catchwords": [
+        "planning permission",
+        "PPG3",
+        "brownfield land",
+        "greenfield allocation",
+        "section 288",
+        "section 54A"
+      ],
+      "index_terms": [
+        "Redrow Homes",
+        "Danley Farm",
+        "Isle of Sheppey",
+        "Swale Borough Local Plan",
+        "Urban Capacity Study"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Alderney Estates Ltd v Secretary of State for Transport, Local Government and the Regions",
+          "citation": "[2003] EWCA Civ 346",
+          "relation": "applied"
+        },
+        {
+          "name": "Alderney Estates Ltd v Secretary of State for Transport, Local Government and the Regions",
+          "citation": "[2003] JPL 744",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed admin judgment with explicit rejection of all grounds of challenge."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1322.json",
+    "status": "done",
+    "notes": "Batch 94 enrichment",
+    "enrichment": {
+      "short_title": "Evening Mail newspaper title passes off and trade mark infringement",
+      "area_of_law": [
+        "Intellectual property",
+        "Passing off",
+        "Trade marks"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": [
+            "Section 3",
+            "Section 10",
+            "Section 13",
+            "Section 46",
+            "Section 47"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Express Newspapers planned a free London evening paper titled Evening Mail or London Evening Mail to compete with Associated Newspapers' Evening Standard and Mail titles.",
+        "Associated Newspapers claimed passing off and infringement of THE MAIL, DAILY MAIL and THE MAIL ON SUNDAY registrations.",
+        "Market research and evidence showed likely confusion that the new paper came from the Mail stable.",
+        "Laddie J held passing off was made out, THE MAIL mark was valid and infringed, and Evening Mail also infringed the Daily Mail and Mail on Sunday marks."
+      ],
+      "procedural_posture": "Expedited trial of quia timet passing off and trade mark infringement claims with interim undertakings.",
+      "outcome": "Claimants succeeded in passing off and most trade mark claims; invalidity attack on THE MAIL registration failed.",
+      "ratio": "Use of Evening Mail or London Evening Mail for a free London evening newspaper is likely to misrepresent association with Associated Newspapers' Mail titles and infringes registered marks where THE MAIL has strong reputation in London and natural abbreviation to 'The Mail' is expected.",
+      "legal_issues": [
+        "Whether Associated Newspapers had protectable goodwill in The Mail, Daily Mail and Mail on Sunday",
+        "Likelihood of misrepresentation from Evening Mail and oral use of The Mail",
+        "Validity of THE MAIL registration despite other mail-titled newspapers",
+        "Trade mark infringement under sections 10(1) and 10(2) for free versus sold newspapers"
+      ],
+      "catchwords": [
+        "passing off",
+        "trade mark infringement",
+        "newspaper titles",
+        "The Mail",
+        "Evening Mail",
+        "likelihood of confusion"
+      ],
+      "index_terms": [
+        "Associated Newspapers",
+        "Express Newspapers",
+        "Daily Mail",
+        "Evening Standard",
+        "Northern & Shell"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Reckitt & Colman Ltd v Borden Inc",
+          "citation": "[1990] RPC 341",
+          "relation": "applied"
+        },
+        {
+          "name": "Ewing v Buttercup Margarine Co Ltd",
+          "citation": "[1917] 34 RPC 232",
+          "relation": "cited"
+        },
+        {
+          "name": "Thomson Holidays Ltd v Norwegian Cruise Line Ltd",
+          "citation": "[2002] IP&T 299",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full trial judgment with detailed findings on goodwill, confusion and infringement."
+      }
+    }
+  }
+]

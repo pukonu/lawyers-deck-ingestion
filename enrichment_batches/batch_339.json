@@ -1,0 +1,648 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1094.json",
+    "status": "done",
+    "notes": "Split Court of Appeal on deportation of convicted refugee; majority restored IAT and dismissed appeal.",
+    "enrichment": {
+      "short_title": "N (Kenya) v SSHD: deportation, serious crime and Article 8 family life",
+      "area_of_law": [
+        "Immigration law",
+        "Human rights",
+        "Criminal law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Act 1971",
+          "provisions": [
+            "section 3(5)",
+            "section 3(6)",
+            "section 5(1)"
+          ]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 63(1)",
+            "section 65(1)"
+          ]
+        },
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 101(1)"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6"
+          ]
+        },
+        {
+          "title": "Sex Offenders Act 1997",
+          "provisions": [
+            "sections 1",
+            "2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Kenyan national N was convicted after trial of abduction, threats to kill, three rapes and false imprisonment and sentenced to 11 years' imprisonment.",
+        "He had married B in prison and maintained contact with her and two children, but the family had never lived together before his imprisonment.",
+        "The Secretary of State decided deportation was conducive to the public good; an adjudicator allowed his appeal on low reoffending risk and family vulnerability, but the IAT reversed.",
+        "N had previously been recognised as a refugee but was found to have ceased to be one because of changed circumstances in Kenya."
+      ],
+      "procedural_posture": "Appeal on a point of law from the Immigration Appeal Tribunal's reversal of an adjudicator's decision allowing a conducive-to-public-good deportation appeal.",
+      "outcome": "Appeal dismissed by majority (May and Judge LJJ; Sedley LJ dissenting); the adjudicator erred in treating low reoffending risk as decisive and failing properly to weigh society's revulsion at the seriousness of the offences.",
+      "ratio": "On a deportation appeal under paragraph 364 HC 395 the adjudicator must balance compassionate circumstances including Article 8 against the public interest; for very serious crimes the public interest includes deterrence and expressing society's revulsion, and a low risk of reoffending is not the predominant factor.",
+      "legal_issues": [
+        "Whether the adjudicator gave proper weight to the seriousness of the offences and Home Office policy",
+        "Whether low reoffending risk after Grendon treatment outweighed deportation",
+        "Whether Article 8 family life with a wife and children prevented removal",
+        "Whether the IAT were entitled to find legal error rather than mere disagreement"
+      ],
+      "catchwords": [
+        "deportation",
+        "conducive to the public good",
+        "Article 8",
+        "family life",
+        "serious criminality",
+        "risk of reoffending"
+      ],
+      "index_terms": [
+        "HC 395 paragraph 364",
+        "Grendon Underwood",
+        "Boultif v Switzerland",
+        "Samaroo v SSHD",
+        "Razgar",
+        "refugee cessation"
+      ],
+      "linked_authorities": [
+        "Samaroo v Secretary of State for the Home Department [2001] EWCA Civ 1139",
+        "Boultif v Switzerland (2001) 33 EHRR 50",
+        "R (Razgar) v Secretary of State for the Home Department [2004] 3 WLR 58"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full three-judge decision with clear majority/disapproval reasoning on the deportation balance."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2334.json",
+    "status": "done",
+    "notes": "Renewed sentence application refused; targeting elderly victims for garden fraud over three years.",
+    "enrichment": {
+      "short_title": "Gallagher: four-and-a-half-year sentence for elderly garden frauds",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Fraud"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The applicant pleaded guilty to five thefts and three counts of obtaining property by deception against elderly householders aged 61 to 89.",
+        "Over nearly three years he posed as a gardening contractor, stealing from homes or taking advance payment for work he never intended to do.",
+        "On arrest he demanded identification parades, knowing elderly victims might fail to pick him out.",
+        "Judge Stokes QC passed a total sentence of four and a half years' imprisonment at Leicester Crown Court."
+      ],
+      "procedural_posture": "Renewed application for leave to appeal against sentence after refusal by the single judge.",
+      "outcome": "Application refused; the sentence was amply justified as punishment and deterrent for deliberate targeting of vulnerable elderly victims.",
+      "ratio": "Offences involving systematic deception and theft from elderly and vulnerable householders, causing fear and distress beyond monetary loss, warrant substantial custodial sentences even where violence is not used.",
+      "legal_issues": [
+        "Whether insufficient credit was given for guilty pleas",
+        "Whether a four-and-a-half-year total sentence was manifestly excessive",
+        "Appropriate sentencing level for frauds targeting the elderly"
+      ],
+      "catchwords": [
+        "sentence appeal",
+        "elderly victims",
+        "garden fraud",
+        "theft",
+        "obtaining by deception",
+        "vulnerable victims"
+      ],
+      "index_terms": [
+        "Leicester Crown Court",
+        "Judge Stokes QC",
+        "identification parade",
+        "deterrence",
+        "guilty plea discount"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Short renewed application judgment with clear refusal and sentencing rationale."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2118.json",
+    "status": "needs_review",
+    "notes": "Judges metadata empty though Henriques and Burnton JJ heard the claim; DTTO legitimate-expectation challenge succeeded.",
+    "enrichment": {
+      "short_title": "Flaherty: legitimate expectation of drug treatment and testing order",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Administrative law",
+        "Magistrates' courts"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Flaherty pleaded guilty before lay magistrates to handling stolen goods and affray and was adjourned for a pre-sentence report.",
+        "District Judge Richards adjourned for DTTO assessment and reserved sentence to himself without using the standard 'all sentencing options remain open' formula.",
+        "District Judge Harte later committed him to the Crown Court for sentence despite a positive DTTO assessment.",
+        "The claimant argued a legitimate expectation arose from the earlier adjournment and reservation."
+      ],
+      "procedural_posture": "Judicial review of a magistrates' court committal for sentence to the Crown Court.",
+      "outcome": "Committal order quashed and case remitted to the justices to impose a DTTO if still available; costs from central funds ordered.",
+      "ratio": "Where a court adjourns for assessment of a specific non-custodial sentence and reserves the case to itself, a legitimate expectation may arise that the recommended alternative will be imposed if suitable, following Gillam and Chamberlain unless clear words preserve other options.",
+      "legal_issues": [
+        "Whether District Judge Richards created a legitimate expectation of a DTTO",
+        "Whether the standard 'all sentencing options remain open' warning was required",
+        "Effect of reserving a case to a particular district judge",
+        "Whether committal for sentence breached legitimate expectation"
+      ],
+      "catchwords": [
+        "legitimate expectation",
+        "drug treatment and testing order",
+        "committal for sentence",
+        "magistrates' court",
+        "pre-sentence report",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Gillam",
+        "Chamberlain",
+        "Rennes",
+        "White v Barking Magistrates' Court",
+        "Stoke-on-Trent",
+        "District Judge Richards"
+      ],
+      "linked_authorities": [
+        "Gillam [1982] Cr App R (S) 267",
+        "Chamberlain [1995] 16 Cr App R (S) 473",
+        "White v Barking Magistrates' Court [2004] EWHC 417 (Admin)"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome and legal principles are clear; judges field in source JSON is empty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/1927.json",
+    "status": "done",
+    "notes": "CEO penalty clause held unenforceable; notice not extended; holiday pay counterclaim succeeded; late damages amendment refused.",
+    "enrichment": {
+      "short_title": "Murray v Leisureplay: penalty clause and notice extension on acquisition",
+      "area_of_law": [
+        "Employment law",
+        "Contract law",
+        "Company law",
+        "Restraint of trade and penalties"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 320",
+            "section 322(3)(b)",
+            "section 727(1)"
+          ]
+        },
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 203"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Murray claimed £758,691 liquidated damages under clause 17.1 of his MFC service agreement after wrongful termination as chief executive.",
+        "He argued heads of agreement to acquire Insurance Village and Blue Planet Investment Management extended notice from one to three years.",
+        "MFC contended clause 17.1 was an unenforceable penalty and that neither target company was a 'financial institution'.",
+        "MFC counterclaimed for section 322 liability and overpaid holiday pay of £7,911."
+      ],
+      "procedural_posture": "Trial of wrongful termination and company-law counterclaims, with a late application to amend to claim common law damages.",
+      "outcome": "Clause 17.1 held a penalty and unenforceable; notice period not extended beyond one year; section 322 counterclaim on professional fees failed; MFC recovered £7,911 holiday overpayment; leave to amend for common law damages refused.",
+      "ratio": "A liquidated damages clause paying up to three years' gross salary without allowance for likely mitigation is an obvious penalty; 'financial institution' in the MFC prospectus context did not include Insurance Village or BPIM; post-arrangement professional fees are not 'loss or damage resulting from' a section 320 arrangement.",
+      "legal_issues": [
+        "Whether clause 17.1 was a penalty or genuine pre-estimate of loss",
+        "Whether IV or BPIM acquisitions triggered three-year notice",
+        "Liability under section 322 for BPIM heads of agreement without shareholder approval",
+        "Construction of holiday pay under clause 9.2",
+        "Whether late amendment to claim common law damages should be allowed"
+      ],
+      "catchwords": [
+        "penalty clause",
+        "liquidated damages",
+        "service agreement",
+        "financial institution",
+        "section 320",
+        "wrongful dismissal"
+      ],
+      "index_terms": [
+        "Murray Financial Corporation",
+        "Blue Planet Investment Management",
+        "Insurance Village",
+        "Cine Bes Filmcilik",
+        "Duckwari",
+        "Peel Hunt"
+      ],
+      "linked_authorities": [
+        "Cine Bes Filmcilik Ve YapimClick v United International Pictures [2003] EWCA Civ 1669",
+        "In re Duckwari Plc (No 2) [1999] Ch 268",
+        "Philips Hong Kong Ltd v Attorney General of Hong Kong (1993) 61 BLR 41"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long trial judgment with explicit holdings on penalty, notice extension, section 322 and amendment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/1854.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists Sir Michael Jenkins who appears as board member not tribunal; CEO expenses trial judgment otherwise complete.",
+    "enrichment": {
+      "short_title": "Wecomm v Rosenhoiz: CEO expense account and constructive dismissal",
+      "area_of_law": [
+        "Employment law",
+        "Company law",
+        "Contract law",
+        "Fiduciary duties"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Former CEO Guy Rosenhoiz claimed wrongful dismissal; Wecomm sought repayment of £68,640 expenses and £10,000 cash.",
+        "The company alleged lavish travel to Israel, restaurant and limousine spending, a birthday party at Funky Buddha and a dubious £10,000 'agent' payment.",
+        "Rosenhoiz signed a resignation letter after a board meeting on 9 May 2003 but contended he was intimidated into resigning.",
+        "He counterclaimed notice pay, salary, share warrants and disputed milestone-based warrant entitlement."
+      ],
+      "procedural_posture": "Trial of claim for account of expenses, cash repayment and counterclaim for wrongful dismissal and warrant rights.",
+      "outcome": "Claim largely succeeded on expenses and the £10,000; defendant held to have resigned not been dismissed; counterclaim failed including warrant claim based on misrepresentation.",
+      "ratio": "A director/CEO must account for company money and bears the burden of proving proper expenditure; where most travel, entertainment and limousine costs were personal or unjustified, percentage recovery is appropriate; resignation after a tough board meeting was not constructive dismissal.",
+      "legal_issues": [
+        "Whether Rosenhoiz resigned or was constructively dismissed",
+        "Recoverability of travel, entertainment, limousine and other expenses",
+        "Whether £10,000 cash was properly applied for company business",
+        "Entitlement to share warrants after deemed milestone achievement",
+        "Construction of expense reimbursement clause 3.4"
+      ],
+      "catchwords": [
+        "director's expenses",
+        "account",
+        "constructive dismissal",
+        "gross misconduct",
+        "share warrants",
+        "fiduciary duty"
+      ],
+      "index_terms": [
+        "Wecomm",
+        "Elderstreet",
+        "Funky Buddha",
+        "Israel travel",
+        "Armory v Delamirie",
+        "Gray v Haig"
+      ],
+      "linked_authorities": [
+        "Gray v Haig (1855) 20 Beav 219",
+        "Armory v Delamirie (1722) 1 Strange 505"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed trial findings; judges array appears corrupted by inclusion of a non-judicial board member."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1182.json",
+    "status": "needs_review",
+    "notes": "Judges metadata empty; Jacob LJ alone refused Dr Sidhu experimental evidence on appeal in paroxetine patent case.",
+    "enrichment": {
+      "short_title": "Apotex v Beecham: refusal to admit Sidhu experiments on appeal",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Civil procedure",
+        "Evidence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Appeal from Pumfrey J in paroxetine anhydrate/hemihydrate patent litigation between Apotex and Beecham/SKB.",
+        "Apotex sought to adduce further experimental work by Dr Sidhu on whether British application 407 example 1 produced anhydrate or hemihydrate.",
+        "The experiments had been done for Canadian proceedings and were not before the trial judge.",
+        "SKB argued admission would reopen the case, require new witnesses and likely necessitate a new trial."
+      ],
+      "procedural_posture": "Application to adduce further evidence on appeal from obviousness/anticipation findings.",
+      "outcome": "Application dismissed; Sidhu experiments not admitted because they would materially expand the appeal without likely changing the result.",
+      "ratio": "Fresh experimental evidence may be excluded on appeal where it would reopen the whole case and require a new trial yet is unlikely materially to affect the outcome, especially if similar experiments could readily have been done before trial.",
+      "legal_issues": [
+        "Whether Dr Sidhu's experiments should be admitted as fresh evidence on appeal",
+        "Whether the experiments undermined Dr Cunningham's obviousness evidence",
+        "Privilege and disclosure of SKB laboratory work",
+        "Whether late speedy trial justified non-performance of further experiments"
+      ],
+      "catchwords": [
+        "fresh evidence",
+        "patent appeal",
+        "obviousness",
+        "anticipation",
+        "paroxetine",
+        "experiments"
+      ],
+      "index_terms": [
+        "Dr Sidhu",
+        "Dr Cunningham",
+        "example 1",
+        "407 application",
+        "Bayer",
+        "Ladd v Marshall"
+      ],
+      "linked_authorities": [
+        "Bayer AG v European Commission Case T-41/96",
+        "Richard Cound Ltd v BMW (GB) Ltd [1997] EuLR 277"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Clear procedural disposition; source judges field is empty though Jacob LJ is named in text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1930.json",
+    "status": "needs_review",
+    "notes": "Corrupted judges metadata lists Phillips MR and Bingham among tribunal; Forbes J alone dismissed HDC recall challenge.",
+    "enrichment": {
+      "short_title": "Buxton v Parole Board: Home Detention Curfew recall after domestic assault",
+      "area_of_law": [
+        "Criminal law",
+        "Public law",
+        "Human rights",
+        "Prison law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": [
+            "section 32(6)",
+            "section 34A",
+            "section 37A",
+            "section 39"
+          ]
+        },
+        {
+          "title": "Prosecution of Offences Act 1985",
+          "provisions": [
+            "section 23"
+          ]
+        },
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": [
+            "section 47"
+          ]
+        },
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 47"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Persistent offender Buxton was released on Home Detention Curfew while serving 33 months for drug supply offences.",
+        "He was recalled after an incident in which his partner was injured; he admitted throwing a table during an argument.",
+        "The CPS later discontinued the assault charge, but psychiatric evidence showed recall worsened his depression and suicide risk.",
+        "The Parole Board rejected his representations, citing persistent offending, substance abuse and risk of harm to his partner."
+      ],
+      "procedural_posture": "Judicial review of the Parole Board's decision rejecting representations against recall under section 39 of the 1991 Act.",
+      "outcome": "Claim dismissed; the Board lawfully assessed unacceptable risk to the public and was not required to balance the prisoner's personal circumstances against public protection.",
+      "ratio": "On HDC recall the Parole Board's task is to decide whether continued liberty presents an unacceptable risk of further offences; personal circumstances, mental health and family ties are relevant only insofar as they bear on that risk, not as freestanding countervailing interests.",
+      "legal_issues": [
+        "Whether Secretary of State directions require balancing personal circumstances against public risk",
+        "Whether Articles 3 and 8 ECHR required explicit consideration of mental health and partner's pregnancy",
+        "Adequacy of Parole Board reasons under ex parte Oyston",
+        "Effect of discontinued criminal charge on recall"
+      ],
+      "catchwords": [
+        "Home Detention Curfew",
+        "Parole Board",
+        "recall",
+        "Article 8",
+        "Article 3",
+        "risk assessment"
+      ],
+      "index_terms": [
+        "Keenan v United Kingdom",
+        "Bensaid v United Kingdom",
+        "ex parte Oyston",
+        "Phoenix House",
+        "Dr Sandra Pearson"
+      ],
+      "linked_authorities": [
+        "R v The Parole Board ex parte Oyston [2000]",
+        "Keenan v United Kingdom (2001) 33 EHRR 38",
+        "Bensaid v United Kingdom (2001) 33 EHRR 10"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Substantive judgment clear; judges metadata corrupted with appellate names from cited authorities."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2034.json",
+    "status": "needs_review",
+    "notes": "Corrupted judges metadata lists multiple Law Lords; Crane J quashed extradition certificate for missing unlawfully-at-large statement.",
+    "enrichment": {
+      "short_title": "Bleta: Albania extradition certificate and unlawfully-at-large statement",
+      "area_of_law": [
+        "Extradition",
+        "Public law",
+        "International law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act 2003",
+          "provisions": [
+            "section 70"
+          ]
+        },
+        {
+          "title": "Administration of Justice Act 1960",
+          "provisions": [
+            "section 5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Albania sought extradition of Fatmir Bleta following an in absentia murder conviction and 13-year sentence.",
+        "The Secretary of State issued a section 70 certificate treating the request as valid though it lacked an explicit statement that Bleta was unlawfully at large.",
+        "Expert debate concerned whether Albanian documents implied immediate enforceability without further steps.",
+        "Bleta had exceptional leave to remain in the UK and family in Derby."
+      ],
+      "procedural_posture": "Substantive judicial review hearing after permission granted to challenge validity of the section 70 certificate.",
+      "outcome": "Certificate quashed; claimant remanded in custody pending possible appeal to the House of Lords; bail refused; point of general public importance certified.",
+      "ratio": "Under section 70(4)(b) a valid post-conviction extradition request must contain a statement, or equivalent wording, that the person is unlawfully at large; the Secretary of State may not safely infer unlawfully-at-large status from conviction documents alone except in a clear case.",
+      "legal_issues": [
+        "Whether section 70 requires the exact statutory words or an equivalent statement",
+        "Whether the Secretary of State may infer unlawfully-at-large status from supporting documents",
+        "Construction of the European Convention on Extradition in domestic law",
+        "Bail and section 5 Administration of Justice Act remand after successful habeas corpus"
+      ],
+      "catchwords": [
+        "extradition",
+        "section 70",
+        "unlawfully at large",
+        "category 2 territory",
+        "Albania",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Fatmir Bleta",
+        "R v Governor of Ashford Remand Centre ex parte Postlethwaite",
+        "In re Ismail",
+        "Guisto",
+        "Urru",
+        "McCaffery"
+      ],
+      "linked_authorities": [
+        "R v Governor of Ashford Remand Centre, ex parte Postlethwaite [1988] AC 924",
+        "In Re Ismail [1999] AC 320",
+        "R (Guisto) v Governor of Brixton Prison [2003] 2 WLR 157"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Detailed statutory construction judgment; judges metadata clearly corrupted; post-judgment bail debate included."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2278.json",
+    "status": "done",
+    "notes": "Trade mark bootleg conviction appeal; full_text includes post-dismissal costs discussion.",
+    "enrichment": {
+      "short_title": "Wakefield: trade mark bootleg convictions and partnership indictment form",
+      "area_of_law": [
+        "Criminal law",
+        "Intellectual property",
+        "Trade marks"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": [
+            "section 92",
+            "section 101",
+            "section 104"
+          ]
+        },
+        {
+          "title": "Copyright, Designs and Patents Act 1988",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mark Wakefield and Mark Purseglove traded as Bionic Records and sold bootleg concert CDs at Reading Festival.",
+        "They were convicted after trial of unauthorised use of registered trade marks under sections 92 and 104.",
+        "The partnership had been wound up before trial; the indictment charged the individuals via section 101(4) liability.",
+        "Prosecution expert Vernells gave evidence on bootleg status and lack of proprietor consent."
+      ],
+      "procedural_posture": "Appeal against conviction with leave of the single judge.",
+      "outcome": "Appeals dismissed; prosecution awarded £1,250 appeal costs split equally.",
+      "ratio": "Section 101(4) does not require a prior partnership conviction but that the court be satisfied the partnership would have been guilty under section 92; duplicity arguments fail where one section 92 offence is pursued against partners; expert evidence on bootlegs and lack of trade mark consent was admissible on section 92(5).",
+      "legal_issues": [
+        "Form of indictment where partnership dissolved before trial",
+        "Relationship of sections 92 and 101 Trade Marks Act 1994",
+        "Admissibility of expert evidence on bootleg recordings and consent",
+        "Section 92(5) honest belief defence"
+      ],
+      "catchwords": [
+        "trade mark",
+        "bootleg",
+        "partnership",
+        "section 101(4)",
+        "section 92(5)",
+        "unauthorised use"
+      ],
+      "index_terms": [
+        "Bionic Records",
+        "Reading Festival",
+        "compact discs",
+        "expert evidence",
+        "indictment duplicity"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Merits reasoning is complete though judgment text continues with costs submissions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/2288.json",
+    "status": "needs_review",
+    "notes": "Interim signage injunction application at County Hall/Saatchi Gallery; partial interim order only, merits reserved.",
+    "enrichment": {
+      "short_title": "Saatchi Gallery v Shirayama: interim Belvedere Road signage dispute",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Property law",
+        "Injunctions",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Danovo operated the Saatchi Gallery from part of the former County Hall/Riverside building under a sub-underlease.",
+        "Two large 'Saatchi Gallery' bronze signs were erected at the Belvedere Road main entrance under a February 2003 letter of licence.",
+        "Shirayama sought to replace them with 'Main Entrance' signage and later multi-tenant signs as other occupiers were introduced.",
+        "Danovo applied for an interim injunction to prevent removal pending trial of wider landlord-tenant disputes."
+      ],
+      "procedural_posture": "Interim application for injunctive relief restraining removal of exterior signage pending trial of claim and counterclaim.",
+      "outcome": "Interim order made: Shirayama may remove one Saatchi sign and optionally install a 'Main Entrance' sign; the remaining Saatchi sign to stay until trial or further order; full merits adjourned.",
+      "ratio": "Where a letter of licence consent must be read with clause 9.2 of the deed requiring landlord consent not to be unreasonably withheld, termination of the licence may require good reason; on interim balance one remaining gallery sign may preserve tenant signage rights while reducing exclusivity appearance.",
+      "legal_issues": [
+        "Whether the letter of licence termination was constrained by reasonableness under clause 9.2",
+        "Whether November 2003 correspondence revived consent until new planning permission",
+        "Whether refusal of consent on 17 May 2004 was unreasonable",
+        "Interim balance between landlord main-entrance policy and tenant signage rights"
+      ],
+      "catchwords": [
+        "signage",
+        "injunction",
+        "underlease",
+        "County Hall",
+        "Saatchi Gallery",
+        "landlord and tenant"
+      ],
+      "index_terms": [
+        "Belvedere Road entrance",
+        "Riverside building",
+        "clause 9.2 deed of licence",
+        "English Heritage",
+        "Cadogan",
+        "Main Entrance signage"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Interlocutory disposition only; underlying trial issues expressly reserved."
+      }
+    }
+  }
+]

@@ -1,0 +1,679 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1769.json",
+    "status": "done",
+    "notes": "Service-out and forum conveniens challenge on joinder of TRNC company; United Film v Chabria governs CPR 6.20(3).",
+    "enrichment": {
+      "short_title": "Trumann v Societe Generale: service on CCL in TRNC",
+      "area_of_law": [
+        "Civil procedure",
+        "Conflict of laws",
+        "Company law",
+        "Equity and trusts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Rule 6.20",
+            "Rule 6.21",
+            "Rule 19.2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Trumann, through Dr Sel, sued Mr and Mrs Kansu and related companies for breach of fiduciary duty in transferring assets from CCI to CCL.",
+        "CCL, a company in the Turkish Republic of Northern Cyprus, applied to set aside service out and challenge jurisdiction.",
+        "Master Moncaster had permitted joinder of CCL for tracing and accounting claims arising from alleged breaches by the Kansus.",
+        "CCL had commenced and discontinued English proceedings against Trumann, then issued parallel proceedings in TRNC shortly before the joinder hearing."
+      ],
+      "procedural_posture": "Application to set aside service out of the jurisdiction on CCL and to challenge the English court's jurisdiction.",
+      "outcome": "Application dismissed; England was the proper forum and joinder of CCL was permitted under CPR 6.20(3) and (5) as construed in United Film v Chabria.",
+      "ratio": "Under United Film v Chabria, CPR 6.20(3) is equivalent in effect to CPR 19.2(2); a foreign defendant may be served out where there is a real issue with an existing party and the new party is a necessary or proper party; forum shopping by parallel TRNC proceedings did not make England an inappropriate forum.",
+      "legal_issues": [
+        "Whether CCL's application to set aside was an abuse of process under Johnson v Gore Wood",
+        "Construction of CPR 6.20(3) for joinder and service out",
+        "Whether claims against CCL fell within CPR 6.20(5) on contract grounds",
+        "Whether England or TRNC was the forum conveniens"
+      ],
+      "catchwords": [
+        "service out of jurisdiction",
+        "forum conveniens",
+        "joinder",
+        "breach of fiduciary duty",
+        "tracing",
+        "TRNC"
+      ],
+      "index_terms": [
+        "Cyport Communications",
+        "United Film v Chabria",
+        "Johnson v Gore Wood",
+        "Wallersteiner v Moir",
+        "necessary or proper party",
+        "telecommunications dispute"
+      ],
+      "linked_authorities": [
+        "Johnson v Gore Wood [2002] 2 AC 1",
+        "United Film Distribution v Chabria [2001] 2 All ER (Comm) 865",
+        "Youell v Kara Mara Shipping [2000] 2 Lloyd's Rep 102",
+        "Massey v Heynes & Co (1888) 21 QBD 330"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Outcome and CPR analysis are explicit. Some factual background on corporate structure is complex but clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1836.json",
+    "status": "done",
+    "notes": "Oil-for-Food steel shipment dispute; repudiatory breach turns on provenance of defective d-bars on the Tiger V.",
+    "enrichment": {
+      "short_title": "Log-O-Mar v Craft: rogue d-bars and settlement agreement breach",
+      "area_of_law": [
+        "Shipping and carriage of goods",
+        "Commercial contract",
+        "Maritime law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Evidence Act 1995",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Log-O-Mar chartered vessels to Craft and Croyndon to carry steel d-bars from Jebel Ali to Umm Qasr under a November 2001 settlement agreement.",
+        "Brittle rogue 12 mm d-bars caused repeated discharge delays at Umm Qasr and the Tiger V eventually sailed back to Jebel Ali with cargo still on board.",
+        "Log-O-Mar treated the settlement as repudiated on 26 April 2002; Craft denied obligation to take delivery of remaining cargo.",
+        "Expert evidence showed samples C and D had abnormal manganese content making bundles liable to break during normal handling."
+      ],
+      "procedural_posture": "Trial of claim for balance of voyage costs under settlement agreement and counterclaim for damages.",
+      "outcome": "Claim dismissed; rogue d-bars more likely came from the Nordsund cargo; Log-O-Mar was in repudiatory breach and not entitled to recover outstanding voyage costs.",
+      "ratio": "Where legally dangerous cargo on the Tiger V originated from the Nordsund rather than the Mega S, Log-O-Mar was not entitled to treat Craft as in repudiatory breach; payment of the balance of voyage costs was conditional on completion of discharging at Umm Qasr, unlike The Karin Vatis and The Lefthero.",
+      "legal_issues": [
+        "Which party was in repudiatory breach of the settlement agreement",
+        "Whether rogue d-bars came from Mega S or Nordsund cargo",
+        "Whether Log-O-Mar could recover voyage costs after its own repudiatory breach",
+        "Construction of cost-payment clause as condition precedent"
+      ],
+      "catchwords": [
+        "repudiatory breach",
+        "settlement agreement",
+        "dangerous cargo",
+        "d-bars",
+        "charterparty",
+        "Oil-for-Food"
+      ],
+      "index_terms": [
+        "Tiger V",
+        "Mega S",
+        "Nordsund",
+        "Umm Qasr",
+        "metallurgical expert",
+        "The Karin Vatis"
+      ],
+      "linked_authorities": [
+        "The Karin Vatis [1988] 2 Lloyd's Rep 330",
+        "The Lefthero [1991] 2 Lloyd's Rep 599"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Factual findings on cargo provenance and contractual construction are detailed. Some loading/discharge records were inconclusive but the judge's balance of probabilities conclusion is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1016.json",
+    "status": "done",
+    "notes": "Highway maintenance appeal; section 41 duty is repair not layout; Gorringe and Goodes applied.",
+    "enrichment": {
+      "short_title": "Thompson v Hampshire: ditch beside campsite path and section 41",
+      "area_of_law": [
+        "Highway law",
+        "Public law",
+        "Personal injury",
+        "Negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Highways Act 1980",
+          "provisions": [
+            "section 41",
+            "section 58",
+            "section 66",
+            "section 329"
+          ]
+        },
+        {
+          "title": "Railways and Transport Safety Act 2003",
+          "provisions": [
+            "section 111"
+          ]
+        },
+        {
+          "title": "Occupiers Liability Act 1957",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Ms Thompson fell into a ditch beside an unofficial footpath on the A337 verge near a New Forest campsite at night and broke her ankle.",
+        "The path and ditch were part of the highway but the council did not know of the beaten path before the accident.",
+        "The claim was solely for breach of statutory duty under section 41, not common law negligence.",
+        "The ditch and culvert were not in disrepair; the complaint was essentially about dangerous juxtaposition of path and ditch."
+      ],
+      "procedural_posture": "Appeal from trial judge's dismissal of claim for breach of highway authority's statutory duty to maintain.",
+      "outcome": "Appeal dismissed with costs; no breach of section 41 because the duty is to repair the fabric of the highway, not to address layout or transient vegetation.",
+      "ratio": "Following Goodes and Gorringe, section 41 imposes a duty to repair the physical surface of the highway, not a general duty to make the highway safe or to address layout; complaints about path-ditch juxtaposition and overgrown grass are matters of layout or obstruction, not disrepair, and trap arguments belong in negligence not statutory duty.",
+      "legal_issues": [
+        "Scope of the section 41 duty to maintain highways",
+        "Whether path-ditch juxtaposition rendered the highway out of repair",
+        "Whether overgrown vegetation made the path out of repair",
+        "Applicability of section 66 powers versus section 41 duty"
+      ],
+      "catchwords": [
+        "highway maintenance",
+        "section 41",
+        "out of repair",
+        "verge ditch",
+        "Gorringe",
+        "contributory negligence"
+      ],
+      "index_terms": [
+        "Goodes v East Sussex",
+        "Burnside v Emerson",
+        "New Forest campsite",
+        "beaten earth path",
+        "section 58 defence"
+      ],
+      "linked_authorities": [
+        "Goodes v East Sussex County Council [2000] 1 WLR 1356",
+        "Gorringe v Calderdale MBC [2004] UKHL 15",
+        "Burnside v Emerson [1968] 1 WLR 1490",
+        "Haydon v Kent County Council [1978] 1 QB 343",
+        "Stovin v Wise [1996] AC 923"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Extensive review of highway maintenance authorities with clear unanimous outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/pat/2004/1563.json",
+    "status": "done",
+    "notes": "Post-trial costs judgment in radio attendance patent action; issue-based percentage apportionment under CPR 44.3.",
+    "enrichment": {
+      "short_title": "DfES v Frontline: patent trial costs apportionment",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Rule 44.3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Following a June 2004 judgment, claims 1 and 2 of the Bromcom patent were invalid for lack of inventive step over Kingshurst but claim 7 was valid.",
+        "Neither party sought leave to appeal; dispute centred on costs apportionment across multiple validity issues at a two-week trial.",
+        "The claimant succeeded on Kingshurst but failed on SIMS, EARS intervening use, and documentary prior art.",
+        "The defendant performed a SIMS network traffic experiment found irrelevant and pursued subsidiary claims 3 to 6 until late concession."
+      ],
+      "procedural_posture": "Argument on terms of order and issue-based costs following validity judgment in patent revocation action.",
+      "outcome": "Claimant ordered to pay defendant 8% of defendant's reasonable costs, subject to adjustments for interlocutory applications and late concession on claims 3 to 6; no order as to costs of the costs hearing.",
+      "ratio": "In partially successful patent proceedings, costs should be apportioned issue by issue by reference to trial time; a successful party on invalidity does not generally recover costs of failed validity attacks unless tied to successful ones; in exceptional cases an unsuccessful party may recover costs on particular issues without proof of unreasonable conduct.",
+      "legal_issues": [
+        "Principles for issue-based costs apportionment under CPR 44.3",
+        "Apportionment between Kingshurst, SIMS, SYMBOL, EARS and common general knowledge issues",
+        "Reserved costs of evidential and experimental applications",
+        "Whether second expert Mr Wright's costs should be disallowed"
+      ],
+      "catchwords": [
+        "patent costs",
+        "issue-based assessment",
+        "inventive step",
+        "Kingshurst",
+        "SIMS",
+        "percentage recovery"
+      ],
+      "index_terms": [
+        "Apotex v SmithKline Beecham",
+        "Summit Property v Pitmans",
+        "radio attendance registration",
+        "Bromcom EARS",
+        "Part 63 Practice Direction"
+      ],
+      "linked_authorities": [
+        "Apotex Europe Ltd v Smith Kline Beecham [2004] EWHC 964 (Ch)",
+        "Summit Property Ltd v Pitmans [2001] EWCA Civ 2020",
+        "Phonographic Performance Ltd v AIE Rediffusion Ltd [1991] 1 WLR 1507",
+        "Johnson Estates v Secretary of State for the Environment [2001] EWCA Civ 6535"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Costs-only judgment with detailed percentage table; underlying validity findings taken from prior judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/pat/2004/2107.json",
+    "status": "done",
+    "notes": "Appeal on inventorship of magnetic insect-trap patents; claimants failed to displace named inventors under section 7(4).",
+    "enrichment": {
+      "short_title": "IDA v Southampton: joint inventorship of magnetic insect traps",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Inventorship and entitlement"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Patents Act 1977",
+          "provisions": [
+            "section 7",
+            "section 8",
+            "section 12",
+            "section 14"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dispute over ownership of patent applications for insect traps using fine magnetic powder instead of electrostatic powder.",
+        "Mr Metcalfe suggested magnetic powder after reading a Times article about Professor Howse's electrostatic trap; confidential samples were supplied.",
+        "The Divisional Director held Metcalfe and Lax were sole inventors and removed Howse and Ashby, but the claimants had earlier acknowledged shared inventorship.",
+        "On appeal, defendants restricted their case to seeking reinstatement as joint inventors only."
+      ],
+      "procedural_posture": "Appeal from Comptroller's entitlement decision transferring patent applications entirely to claimants.",
+      "outcome": "Appeal allowed in part; Professor Howse and Dr Ashby reinstated as joint inventors with Metcalfe and Lax because claimants failed to prove they contributed nothing to the inventive concepts.",
+      "ratio": "An inventor under section 7(3) is the person responsible for the inventive concept, not merely one who contributes enabling data; removing named inventors requires overcoming the section 7(4) presumption by proving they made no substantive contribution; Metcalfe's initial idea concerned the banana-skin trap effect, while Howse understood magnetic adhesion to insect cuticles enabling broader applications.",
+      "legal_issues": [
+        "Who devised the pest/particle and particle-anchoring inventive concepts",
+        "Distinction between devising an invention and providing enabling disclosure",
+        "Onus on claimants to remove named inventors under section 7(4)",
+        "Whether defendants' all-or-nothing defence precluded joint inventorship finding"
+      ],
+      "catchwords": [
+        "inventorship",
+        "joint inventors",
+        "entitlement",
+        "magnetic powder",
+        "insect trap",
+        "Henry Brothers"
+      ],
+      "index_terms": [
+        "Henry Brothers v MOD",
+        "Markham v Zipher",
+        "Comptroller reference",
+        "electrostatic pest control",
+        "University of Southampton"
+      ],
+      "linked_authorities": [
+        "Henry Brothers (Magherafelt) Ltd v Ministry of Defence [1997] RPC 693",
+        "Markham Corporation v Zipher Ltd (No 1) [2004] RPC 10",
+        "Collag Corp v Merck & Co Inc [2003] FSR 216",
+        "Biogen v Medeva plc [1997] RPC 1"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed inventorship analysis with clear limited relief on appeal. Factual findings of Divisional Director largely accepted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1031.json",
+    "status": "done",
+    "notes": "Mandatory lifer parole appeal; Parole Board held to have inherent power to appoint special advocate for sensitive material.",
+    "enrichment": {
+      "short_title": "Roberts v Parole Board: special advocate procedure",
+      "area_of_law": [
+        "Criminal law",
+        "Administrative law",
+        "Human rights",
+        "Parole"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": [
+            "section 32"
+          ]
+        },
+        {
+          "title": "Crime (Sentences) Act 1997",
+          "provisions": [
+            "section 28"
+          ]
+        },
+        {
+          "title": "Parole Board Rules 1997",
+          "provisions": [
+            "Rule 5",
+            "Rule 13"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 5",
+            "Article 6",
+            "Article 14"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Harry Roberts, convicted of murdering three police officers in 1966, faced recall review after alleged drug dealing and contraband in open prison.",
+        "Sensitive material was withheld from Roberts and his solicitors; Nicholas Blake QC was appointed as special advocate.",
+        "Sir Richard Tucker found genuine risk to source safety if full disclosure were made to Roberts or his representatives.",
+        "Roberts challenged whether the Parole Board had power to adopt the SIAC-style special advocate procedure."
+      ],
+      "procedural_posture": "Appeal from administrative court upholding Parole Board use of special advocate in mandatory life prisoner release review.",
+      "outcome": "Appeal dismissed; Parole Board has inherent power under section 32 to adopt special advocate procedure in exceptional cases to balance public protection, prisoner fairness, and source safety.",
+      "ratio": "As a statutory court performing its protective role, the Parole Board may withhold sensitive evidence where disclosure poses real risk to sources and mitigate unfairness by appointing a special advocate; the procedure is not confined to national security and must remain exceptional; Article 5(4) permits proportionate qualification if substantial fairness is preserved.",
+      "legal_issues": [
+        "Whether Parole Board has vires to appoint a special advocate for mandatory lifers",
+        "Compatibility with Article 5(4) and Article 6",
+        "Whether special advocate use is limited to national security cases",
+        "Whether 1997 Rules exhaust permissible departures from equality of arms"
+      ],
+      "catchwords": [
+        "special advocate",
+        "Parole Board",
+        "mandatory life sentence",
+        "Article 5(4)",
+        "closed material",
+        "sensitive evidence"
+      ],
+      "index_terms": [
+        "Harry Roberts",
+        "Stafford v UK",
+        "Chahal v UK",
+        "R v H",
+        "non-disclosure",
+        "life licence"
+      ],
+      "linked_authorities": [
+        "Hussain v UK [1996] 22 EHRR 1",
+        "Chahal v UK [1996] 23 EHRR 413",
+        "R v H [2004] UKHL 3",
+        "Secretary of State v Rehman [2003] 1 AC 153",
+        "R v Shayler [2003] 1 AC 247",
+        "Taylor v Lawrence [2002] EWCA Civ 90"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Important procedural principle clearly decided. Merits of non-disclosure in Roberts' case not pursued on appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1313.json",
+    "status": "done",
+    "notes": "EPO multi-dose preservative patent revoked; combination of benzalkonium chloride with proteins not obvious to try.",
+    "enrichment": {
+      "short_title": "Sandoz v Roche: EPO preservative combination patent",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Pharmaceutical law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Patents Act 1977",
+          "provisions": [
+            "section 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Revocation action against European Patent (UK) 0,607,156 on preserved multi-dose injectable erythropoietin formulations.",
+        "Roche sought to maintain amended claims limited to combinations of chlorobutanol, benzyl alcohol and benzalkonium chloride with EPO.",
+        "Claimant argued obviousness over common general knowledge, Konings, and Denyer/Boehm/Stock prior art.",
+        "No recombinant protein multi-dose formulation in 1991 used preservative combinations; benzalkonium chloride was recorded as incompatible with proteins."
+      ],
+      "procedural_posture": "Trial on validity of amended patent claims after agreed postponement of amendment discretion issues.",
+      "outcome": "Patent revoked; amended combination claims lacked inventive step over common general knowledge and prior art did not make testing the combinations obvious.",
+      "ratio": "A skilled protein formulation team would conservatively select preservatives previously used with recombinant proteins; known synergies in general parenteral microbiology would not override established reservations about benzalkonium chloride and chlorobutanol with proteins; obvious-to-try requires a real prospect of valuable results, not mere experimentation.",
+      "legal_issues": [
+        "Obviousness of combining specified preservatives in EPO multi-dose parenterals",
+        "Identity and common general knowledge of the skilled person/team",
+        "Effect of Konings shopping-list disclosure",
+        "Whether Denyer/Boehm synergy data made protein combinations obvious"
+      ],
+      "catchwords": [
+        "obviousness",
+        "preservative combination",
+        "erythropoietin",
+        "multi-dose parenteral",
+        "pharmaceutical patent",
+        "synergy"
+      ],
+      "index_terms": [
+        "Windsurfing International v Tabur Marine",
+        "Rockwater v Technip",
+        "Handbook of Pharmaceutical Excipients",
+        "Konings WO 91/11200",
+        "Denyer synergy article"
+      ],
+      "linked_authorities": [
+        "Windsurfing International Inc v Tabur Marine [1985] RPC 59",
+        "Rockwater Ltd v Technip France SA [2004] EWCA Civ 381",
+        "Hallen Co v Brabantia [1991] RPC 195",
+        "Johns-Manville Corporation's Patent [1985] RPC 479"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Long technical validity judgment with clear revocation outcome on all pleaded obviousness routes."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1235.json",
+    "status": "needs_review",
+    "notes": "Permission to appeal refused; E and R mistake-of-fact ground not open where IAT did not entertain credibility issue.",
+    "enrichment": {
+      "short_title": "Mazrae v SSHD: asylum credibility and E v SSHD",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Iranian Arab asylum seeker claimed persecution linked to university arson allegation and National Movement Alliance activity.",
+        "Adjudicator found applicant not credible and rejected expert report conclusions in that light.",
+        "Immigration Appeal Tribunal granted permission only on illegal departure ground, not credibility, and refused to revive the first ground.",
+        "Dr Browell's later report noted missing testicle and leg scarring possibly consistent with alleged beatings."
+      ],
+      "procedural_posture": "Renewed application for permission to appeal from IAT dismissal of asylum appeal.",
+      "outcome": "Application refused; tribunal was entitled not to consider adjudicator's credibility approach where that ground was not before it; E v SSHD mistake-of-fact principle could not reopen the case.",
+      "ratio": "Where permission to appeal to the IAT was granted only on the illegal departure ground, the court will not entertain a challenge to the adjudicator's credibility findings on renewed permission; new post-adjudication medical evidence does not justify restarting the asylum process in the Court of Appeal.",
+      "legal_issues": [
+        "Whether IAT should have entertained credibility ground on E v SSHD principles",
+        "Adequacy of adjudicator's treatment of expert and medical evidence",
+        "Admissibility of new evidence on renewed permission application",
+        "Procedural fairness in asylum appeals"
+      ],
+      "catchwords": [
+        "asylum appeal",
+        "credibility",
+        "Immigration Appeal Tribunal",
+        "mistake of fact",
+        "permission to appeal",
+        "Iran"
+      ],
+      "index_terms": [
+        "E v SSHD",
+        "R v SSHD",
+        "Ladd v Marshall",
+        "Arabestan",
+        "medico-legal report",
+        "illegal departure"
+      ],
+      "linked_authorities": [
+        "E v Secretary of State for the Home Department [2004] EWCA Civ 49",
+        "R v Secretary of State for the Home Department [2004] EWCA Civ 49",
+        "Ladd v Marshall [1954] 1 WLR 1489"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Procedural outcome clear though Sedley LJ expressed substantial doubts about adjudicator's credibility reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2341.json",
+    "status": "done",
+    "notes": "Advance fee fraud convictions upheld; jury foreman's post-verdict note to prosecutor did not show bias.",
+    "enrichment": {
+      "short_title": "R v Alexander: advance fee fraud and jury bias",
+      "area_of_law": [
+        "Criminal law",
+        "Fraud",
+        "Criminal procedure",
+        "Sentencing"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Alexander, Andrews and Steen convicted after a five-and-a-half-month trial of conspiracy to defraud through an advance fee loan scheme.",
+        "Applicants paid reading, administration and due diligence fees but loans required unobtainable collateral bonds.",
+        "Eleven days after verdict the jury forewoman emailed and wrote to leading prosecution counsel inviting social contact and sending champagne.",
+        "Alexander and Steen appealed on alleged jury bias; Steen also sought leave to appeal his six-year sentence."
+      ],
+      "procedural_posture": "Appeal against conviction on jury bias ground and application for leave to appeal against sentence.",
+      "outcome": "Conviction appeals dismissed; Medicaments test not satisfied; no real possibility of jury bias; leave to appeal sentence refused.",
+      "ratio": "Applying Porter v Magill/Medicaments, post-verdict social communications from a juror to prosecuting counsel do not, without more, show real possibility of bias where the jury took their oath seriously, verdicts were unanimous and supported by strong evidence; advance fee fraud did not require proof that lies were told provided defendants knew applicants could not meet bond conditions.",
+      "legal_issues": [
+        "Whether jury foreman's communications showed real possibility of bias",
+        "Admissibility of juror communications after verdict under Mirza principles",
+        "Whether Alexander's case should have been stopped for no case to answer",
+        "Whether six-year sentence on Steen was manifestly excessive"
+      ],
+      "catchwords": [
+        "conspiracy to defraud",
+        "advance fee fraud",
+        "jury bias",
+        "special advocate",
+        "collateral bond",
+        "Corporate Advances"
+      ],
+      "index_terms": [
+        "In re Medicaments",
+        "Nickerson",
+        "Godfrey and Hardiman",
+        "Cunningham",
+        "Mirza",
+        "Peninsular Holdings"
+      ],
+      "linked_authorities": [
+        "In re Medicaments [2001] 1 WLR 700",
+        "R v Gough [1993] AC 646",
+        "Nickerson (1993) unreported CA",
+        "Godfrey and Hardiman (1994) CA transcript",
+        "R v Cunningham [2003] EWCA Crim 1769",
+        "R v Mirza [2004] 1 AC 1118"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Bias ground carefully analysed against established CA authorities. Underlying fraud scheme and verdict safety clearly explained."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1162.json",
+    "status": "done",
+    "notes": "Tobacco smuggling appeal dismissed; 17 April letter was restoration request not Schedule 3 condemnation claim.",
+    "enrichment": {
+      "short_title": "Gascoyne v Customs: Schedule 3 notice construction",
+      "area_of_law": [
+        "Tax and excise",
+        "Customs law",
+        "Administrative law",
+        "Human rights",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Customs and Excise Management Act 1979",
+          "provisions": [
+            "section 49",
+            "section 141",
+            "section 152",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Finance Act 1994",
+          "provisions": [
+            "section 16"
+          ]
+        },
+        {
+          "title": "Excise Duties (Personal Reliefs) Order 1992",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 1 Protocol 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Gascoyne was stopped at Dover with 10,000 cigarettes and 32 kg of rolling tobacco in a Land Rover, far above guideline limits.",
+        "Goods and vehicle were seized; he claimed all tobacco was for personal use.",
+        "On 17 April 2001 he wrote requesting return of vehicle and goods and stating goods were for personal use not resale.",
+        "Customs treated the letter as a section 152 restoration request, not a Schedule 3 condemnation claim."
+      ],
+      "procedural_posture": "Appeal from High Court on whether April letter was a paragraph 3 Schedule 3 notice requiring condemnation proceedings and related Gora jurisdiction issues.",
+      "outcome": "Appeal dismissed; letter construed in context of seizure notices as restoration request not condemnation claim; tribunal findings that Gascoyne was a commercial smuggler upheld on merits.",
+      "ratio": "A letter must be read as a whole in the context of Customs seizure notices distinguishing restoration from condemnation; a layman's sentence asserting own use does not necessarily constitute a Schedule 3 paragraph 3 claim where the overall tone seeks discretionary restoration; Gora obiter on deemed condemnation does not require a different construction outcome here.",
+      "legal_issues": [
+        "Whether 17 April letter was a notice of claim under Schedule 3 paragraph 3 CEMA",
+        "Effect of Gora on tribunal jurisdiction to revisit lawfulness of seizure",
+        "Whether condemnation proceedings remained available in the High Court after delay",
+        "Whether goods imported for own use or commercial purpose"
+      ],
+      "catchwords": [
+        "customs seizure",
+        "condemnation proceedings",
+        "restoration",
+        "own use",
+        "tobacco smuggling",
+        "Schedule 3"
+      ],
+      "index_terms": [
+        "Lindsay v Customs",
+        "Gora v Customs",
+        "Newbury",
+        "Dover seizure",
+        "guideline amounts",
+        "Mannai construction"
+      ],
+      "linked_authorities": [
+        "Lindsay v Customs and Excise Commissioners [2002] 1 WLR 1766",
+        "Gora v Customs and Excise Commissioners [2004] QB 93",
+        "Mannai Investment Co v Eagle Star [1997] AC 767",
+        "Customs and Excise Commissioners v Newbury [2003] 1 WLR"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Construction point clearly decided though court also discussed Gora obiter and Convention implications at length."
+      }
+    }
+  }
+]

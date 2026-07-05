@@ -1,0 +1,781 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/128.json",
+    "status": "done",
+    "notes": "Commercial loan transfer and jurisdiction challenge; full judgment text supports enrichment.",
+    "enrichment": {
+      "short_title": "Syndicated loan transfer validity and jurisdiction challenge",
+      "area_of_law": [
+        "Commercial law",
+        "Banking and finance",
+        "Contract interpretation",
+        "Civil procedure and jurisdiction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 6.15",
+            "Part 11 rule 11(5)",
+            "Part 24",
+            "Part 3 rule 3.1(2)(a)",
+            "Part 3 rule 3.9"
+          ]
+        },
+        {
+          "title": "Financial Services and Markets Act 2000",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Essar Steel defaulted on a US$40m syndicated loan and disputed transfers of participations totalling $29.5m to Argo Fund Ltd under clause 27 of the loan agreement.",
+        "Clause 27 permitted transfers only to a bank or other financial institution; Essar argued Argo, an offshore investment fund, was not a qualifying transferee.",
+        "Argo applied for summary judgment and relied on contractual service and English jurisdiction clauses; Essar sought to set aside service and a stay.",
+        "Essar acknowledged service but did not challenge jurisdiction within 28 days and later issued proceedings in Singapore."
+      ],
+      "procedural_posture": "Application for summary judgment and challenge to jurisdiction and stay of English proceedings in a debt claim on a syndicated loan agreement.",
+      "outcome": "Summary judgment refused; service set aside and proceedings stayed refused; extension of time to challenge jurisdiction refused; preliminary trial on transfer validity to proceed.",
+      "ratio": "Under clause 27 of a syndicated loan agreement, a transferee must be a bank or institution of like kind, not a general investment fund; where the claimant cannot establish a good arguable case that it is a legitimate transferee, contractual deemed-service provisions cannot establish jurisdiction, and a late jurisdiction challenge will not be extended where the explanation is unsatisfactory.",
+      "legal_issues": [
+        "Meaning of 'bank or other financial institution' in a loan transfer clause",
+        "Whether Argo Fund Ltd was a qualifying transferee under clause 27",
+        "Whether English jurisdiction was established by contractual service",
+        "Whether time to challenge jurisdiction should be extended under CPR Part 3",
+        "Whether proceedings should be stayed pending Singapore litigation"
+      ],
+      "catchwords": [
+        "syndicated loan",
+        "transfer certificate",
+        "contract interpretation",
+        "jurisdiction challenge",
+        "summary judgment",
+        "financial institution"
+      ],
+      "index_terms": [
+        "loan participation transfer",
+        "syndicated lending",
+        "ejusdem generis",
+        "non-exclusive jurisdiction clause",
+        "CPR Part 11",
+        "offshore fund",
+        "debt restructuring"
+      ],
+      "linked_authorities": [
+        "R v Special Commissioners ex parte Shaftesbury Homes [1923] 1 KB 393"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Core issues, outcome, and contractual analysis are explicit in the judgment. Banking Co-ordination Regulations 1992 are mentioned but not central to the ratio."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/435.json",
+    "status": "done",
+    "notes": "Judicial review of local authority caution over care home fees; equitable interest analysis clear.",
+    "enrichment": {
+      "short_title": "Care home fees caution and beneficial ownership dispute",
+      "area_of_law": [
+        "Administrative law",
+        "Property law",
+        "Social care charging",
+        "Equity and trusts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "National Assistance Act 1948",
+          "provisions": [
+            "section 22(1)",
+            "section 22(2)"
+          ]
+        },
+        {
+          "title": "Land Registration Act 1925",
+          "provisions": [
+            "section 54",
+            "section 56"
+          ]
+        },
+        {
+          "title": "Land Registration Act 2002",
+          "provisions": []
+        },
+        {
+          "title": "Housing Act 1985",
+          "provisions": [
+            "section 123",
+            "section 129"
+          ]
+        },
+        {
+          "title": "Local Authority Social Services Act 1970",
+          "provisions": [
+            "section 7(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Kelly's mother Mrs Herbert entered local authority residential care and was charged nominal fees because her assets were not disclosed.",
+        "After Mrs Herbert's death the authority discovered she was joint legal owner of a Right to Buy property and registered a land caution to secure £46,182 in care charges.",
+        "Mrs Kelly claimed Mrs Herbert held the property on trust for her and had no beneficial interest, so the caution was unlawful.",
+        "The authority refused to apply to vacate the caution, relying on resulting trust principles and the value of Mrs Herbert's Right to Buy discount."
+      ],
+      "procedural_posture": "Application for judicial review of a local authority's refusal to apply to vacate a registered caution over jointly owned property.",
+      "outcome": "Judicial review dismissed; local authority ordered to recover costs from the claimant.",
+      "ratio": "A local authority lawfully may maintain a caution where a deceased resident was a joint legal owner and, on resulting trust principles including the value of a Right to Buy discount, may prima facie have held a substantial beneficial interest; CRAG guidance supplements but does not replace general equitable ownership law, and section 56 Land Registration Act 1925 is the more appropriate route to challenge a caution.",
+      "legal_issues": [
+        "Whether the local authority's refusal to vacate its caution was unlawful",
+        "Whether Mrs Herbert had any beneficial interest in the property",
+        "Effect of Right to Buy discount on resulting trust shares",
+        "Whether CRAG guidance required the authority to treat the interest as nil",
+        "Appropriate procedure for challenging a registered caution"
+      ],
+      "catchwords": [
+        "judicial review",
+        "land caution",
+        "care home charges",
+        "beneficial interest",
+        "Right to Buy",
+        "resulting trust"
+      ],
+      "index_terms": [
+        "National Assistance Act 1948",
+        "residential accommodation charges",
+        "joint tenancy",
+        "Springette v Defoe",
+        "CRAG guidance",
+        "equitable ownership",
+        "local authority debt recovery"
+      ],
+      "linked_authorities": [
+        "Springette v Defoe [1992] 2 FLR 388",
+        "Evans v Hayward [1995] 2 FLR 511",
+        "Marsh v Von Sternberg [1986] 1 FLR 526"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Facts, equitable analysis, outcome, and costs reasoning are fully developed in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/233.json",
+    "status": "done",
+    "notes": "Sentencing appeal on restraining order under Sexual Offences Act 1997 s5A; clear statutory analysis.",
+    "enrichment": {
+      "short_title": "Indefinite restraining order quashed for lack of necessity",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Sexual offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Sexual Offences Act 1997",
+          "provisions": [
+            "section 5A",
+            "Part I"
+          ]
+        },
+        {
+          "title": "Sex Offenders Act 1997",
+          "provisions": []
+        },
+        {
+          "title": "Obscene Publications Act 1964",
+          "provisions": [
+            "section 1"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 161(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant pleaded guilty to making indecent images of children downloaded from the internet and was sentenced to eight months' imprisonment concurrent on thirteen counts.",
+        "The Crown Court imposed an indefinite restraining order prohibiting computer and internet access, linked to continued sex offender notification requirements.",
+        "The order was sought largely on the basis of a police pro forma without evidence that it was necessary to protect the public from serious harm.",
+        "Leave to appeal sentence was refused but leave was granted on the restraining order."
+      ],
+      "procedural_posture": "Appeal against an indefinite restraining order imposed on sentence in the Crown Court.",
+      "outcome": "Appeal allowed; restraining order quashed.",
+      "ratio": "A restraining order under section 5A Sexual Offences Act 1997 requires the sentencing judge to be satisfied it is necessary to protect the public from serious harm, with reasons stated on the record; where no such material is before the court, and 'serious harm' bears the meaning used in section 161(4) Powers of Criminal Courts (Sentencing) Act 2000, the order must be quashed.",
+      "legal_issues": [
+        "Statutory preconditions for making a section 5A restraining order",
+        "Meaning of 'necessary' and 'serious harm'",
+        "Whether the judge was satisfied of the statutory criteria",
+        "Effect of an indefinite order on notification requirements"
+      ],
+      "catchwords": [
+        "restraining order",
+        "indecent images",
+        "sentencing appeal",
+        "serious harm",
+        "sex offender notification",
+        "section 5A"
+      ],
+      "index_terms": [
+        "Sexual Offences Act 1997",
+        "internet offending",
+        "Oliver guidelines",
+        "Crown Court sentencing",
+        "public protection orders"
+      ],
+      "linked_authorities": [
+        "Oliver [2003] 1 Cr App R 28"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Appeal ground, statutory test, and outcome are clearly stated. Source summary references Sex Offenders Act 1997 rather than Sexual Offences Act 1997 for registration."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/222.json",
+    "status": "done",
+    "notes": "Interim civil proceedings order application under section 42 Supreme Court Act 1981; procedural adjournment only.",
+    "enrichment": {
+      "short_title": "Interim civil proceedings order against vexatious litigant",
+      "area_of_law": [
+        "Administrative law",
+        "Civil procedure",
+        "Vexatious litigation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 37(1)",
+            "section 42",
+            "section 42(1)(a)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Attorney General applied for a civil proceedings order against Mr Durlacher under section 42 Supreme Court Act 1981.",
+        "Evidence showed 19 unsuccessful proceedings brought by Mr Durlacher between November 1994 and December 2002, many struck out.",
+        "Mr Durlacher did not attend because of serious illness; his daughter provided medical evidence of terminal prostate cancer.",
+        "The court considered an interim order necessary pending any resumed hearing."
+      ],
+      "procedural_posture": "Attorney General's application for a civil proceedings order, adjourned on the respondent's illness with interim relief granted.",
+      "outcome": "Application adjourned; interim injunction granted in terms equivalent to a section 42 civil proceedings order until further order, with Treasury Solicitor to update the court at six-monthly intervals.",
+      "ratio": "Where a respondent facing a section 42 application is too ill to attend and the evidence shows a long history of unsuccessful litigation, the court may adjourn and grant an interim injunction under section 37(1) Supreme Court Act 1981 in the same terms as the proposed civil proceedings order.",
+      "legal_issues": [
+        "Whether a civil proceedings order should be made against a habitual vexatious litigant",
+        "Appropriate procedure where the respondent cannot attend due to terminal illness",
+        "Whether interim injunctive relief is available pending adjournment"
+      ],
+      "catchwords": [
+        "vexatious litigant",
+        "civil proceedings order",
+        "section 42",
+        "interim injunction",
+        "Attorney General"
+      ],
+      "index_terms": [
+        "Supreme Court Act 1981",
+        "habitual litigation",
+        "RSC Order 94",
+        "interlocutory relief",
+        "Treasury Solicitor"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Procedural outcome is clear though final section 42 order was not determined. Source summary is truncated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/184.json",
+    "status": "done",
+    "notes": "Asylum judicial review on adjournment and representation; claim form cites Human Rights Act 1999 in error.",
+    "enrichment": {
+      "short_title": "Asylum appeal adjournment and representation challenge",
+      "area_of_law": [
+        "Administrative law",
+        "Immigration and asylum",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum (Procedure) Rules 2000",
+          "provisions": [
+            "rule 31(1)"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Syed, a Polish-born Pakistani citizen, challenged an Immigration Appeal Tribunal refusal of leave to appeal against an adjudicator's asylum dismissal.",
+        "Counsel applied at the hearing for an adjournment because Polish-language documents were not properly translated; the adjournment was refused.",
+        "Counsel then withdrew; the claimant and his wife proceeded unrepresented and declined any further adjournment.",
+        "The claimant later argued he was denied legal representation contrary to Article 6."
+      ],
+      "procedural_posture": "Application for judicial review of the Immigration Appeal Tribunal's refusal of leave to appeal.",
+      "outcome": "Judicial review dismissed.",
+      "ratio": "Refusal of an adjournment under rule 31 Immigration and Asylum (Procedure) Rules 2000 was lawful where the issues had long been outstanding and were already canvassed in evidence; counsel's withdrawal after refusal did not deprive the claimant of representation, especially where the adjudicator recorded that the claimant and his wife expressly wished the appeal determined that day.",
+      "legal_issues": [
+        "Lawfulness of refusing an adjournment under rule 31",
+        "Whether the claimant was denied legal representation",
+        "Application of Article 6 ECHR to asylum appeal procedure",
+        "Whether the Immigration Appeal Tribunal erred in refusing leave to appeal"
+      ],
+      "catchwords": [
+        "judicial review",
+        "asylum appeal",
+        "adjournment",
+        "legal representation",
+        "Article 6",
+        "immigration adjudicator"
+      ],
+      "index_terms": [
+        "Immigration Appeal Tribunal",
+        "rule 31 IA Procedure Rules",
+        "counsel withdrawal",
+        "Polish nationality documents",
+        "fair hearing"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Claim form references Human Rights Act 1999, evidently meaning the 1998 Act; enrichment follows the judgment's Article 6 analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/5.json",
+    "status": "needs_review",
+    "notes": "Complex NHS fees recovery appeal; source judges array lists deceased Law Lords unlikely to have sat on this 2004 appeal.",
+    "enrichment": {
+      "short_title": "Recovery of NHS sight test fees from wrongly registered practitioner",
+      "area_of_law": [
+        "Restitution and unjust enrichment",
+        "Healthcare regulation",
+        "Contract law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "National Health Service (General Ophthalmic Services) Regulations 1986",
+          "provisions": [
+            "regulation 2(1)",
+            "regulation 3",
+            "regulation 4",
+            "regulation 6",
+            "regulation 7"
+          ]
+        },
+        {
+          "title": "Opticians Act 1989",
+          "provisions": [
+            "section 24"
+          ]
+        },
+        {
+          "title": "Opticians Act 1958",
+          "provisions": [
+            "section 20"
+          ]
+        },
+        {
+          "title": "Medical Act 1983",
+          "provisions": []
+        },
+        {
+          "title": "Interpretation Act 1978",
+          "provisions": []
+        },
+        {
+          "title": "Proceeds of Crime Act 2002",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Dr Anandh was registered as an ophthalmic practitioner from 1988 despite lacking full GMC registration, due to an OQC error.",
+        "Primary health care trusts sought repayment of all fees paid over twelve years and damages for alleged overpayments after criminal investigation into his practice.",
+        "Lloyd J entered summary judgment for repayment; the estate appealed on whether contracts and payments were unlawful or recoverable in restitution.",
+        "The Court of Appeal held there was a real prospect of success that section 24 Opticians Act 1989 did not render the contracts void and that avoidance might be required for restitution."
+      ],
+      "procedural_posture": "Appeal with permission from summary judgment on a claim by NHS trusts against an ophthalmic practitioner's estate for repayment of fees and overpayments.",
+      "outcome": "Appeal allowed on the repayments claim; cross-appeal allowed on overpayments liability; estate given leave to serve a defence on repayments.",
+      "ratio": "Where an ophthalmic practitioner was wrongly approved under the 1986 Regulations, there is a real prospect that contractual fee payments were not unlawful merely because sight testing contravened section 24 Opticians Act 1989; recovery in restitution or constructive trust likely requires avoidance of the contract, and change of position may provide a substantial defence.",
+      "legal_issues": [
+        "Whether Dr Anandh was lawfully an ophthalmic medical practitioner under the 1986 Regulations",
+        "Effect of section 24 Opticians Act 1989 on contractual validity",
+        "Availability of restitution for payments made under mistake or ultra vires",
+        "Constructive trust and change of position defences",
+        "Summary judgment on overpayments claim"
+      ],
+      "catchwords": [
+        "NHS fees",
+        "ophthalmic practitioner",
+        "restitution",
+        "ultra vires",
+        "summary judgment",
+        "GMC registration"
+      ],
+      "index_terms": [
+        "general ophthalmic services",
+        "mistake of fact",
+        "Tinsley v Milligan",
+        "Phoenix General Insurance",
+        "Hughes v Asset Managers",
+        "quantum meruit",
+        "primary care trust"
+      ],
+      "linked_authorities": [
+        "Tinsley v Milligan [1994] 1 AC 340",
+        "Taylor v Bhail (1995) 50 Con LR 70",
+        "Dimskal Shipping Co Ltd v International Transport Workers Federation [1992] 2 AC 152",
+        "Hughes v Asset Managers plc [1995] 3 All ER 669",
+        "Phoenix General Insurance Co of Greece SA v Halvanon Insurance Co Ltd [1988] 1 QB 216",
+        "Paragon Finance v Thackerar & Co [1999] 1 All ER 400",
+        "National Westminster Bank v Somer International Ltd [2002] 1 All ER 198",
+        "Chief Constable of Leicester v M [1989] 1 WLR 20"
+      ],
+      "confidence": {
+        "score": 0.84,
+        "level": "high",
+        "notes": "Substantive ratio and outcome are clear from the full judgment, but source judge metadata appears unreliable and the case raises multiple overlapping restitution issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/697.json",
+    "status": "needs_review",
+    "notes": "CPR 39.3 set-aside appeal; decided by Etherton J but source judges array lists other judges who gave permission only.",
+    "enrichment": {
+      "short_title": "Setting aside default possession order for ill tenant",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Housing law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Rent Act 1977",
+          "provisions": [
+            "Schedule 15 Case 1"
+          ]
+        },
+        {
+          "title": "Defective Premises Act 1972",
+          "provisions": [
+            "section 4"
+          ]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": []
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 39.3(3)",
+            "rule 39.3(4)",
+            "rule 39.3(5)",
+            "rule 52.11",
+            "rule 44.3(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Draper, a long-standing protected tenant, defended possession proceedings for rent arrears and pursued a counterclaim for disrepair and nuisance caused by neighbouring flats.",
+        "After repeated adjournments and solicitor changes, she failed to attend the trial before Judge Green due to severe hip pain; possession and costs orders were made in her absence.",
+        "Judge Zucker refused to set aside the possession order, finding no good reason for non-attendance and no reasonable prospect of success.",
+        "On appeal, St Ermin's conceded reasonable prospect of success; the dispute centred on whether non-attendance was a good reason without medical certificate evidence."
+      ],
+      "procedural_posture": "Appeal against refusal to set aside a possession order made in the tenant's absence under CPR 39.3, and against a costs order on a stay application.",
+      "outcome": "First appeal allowed; possession order set aside; second appeal allowed and stay-application costs order set aside.",
+      "ratio": "Under CPR 39.3(5), where an elderly disabled tenant promptly applies to set aside a possession judgment, gives a credible explanation for non-attendance supported by verified statements, and has a reasonable prospect of success, a judge should not reject the application solely for lack of a medical certificate without cross-examination, following the approach in Brazil v Brazil.",
+      "legal_issues": [
+        "Whether Mrs Draper had a good reason for not attending trial under CPR 39.3(5)(b)",
+        "Whether she had a reasonable prospect of success at trial",
+        "Proper exercise of discretion to set aside judgment given in absence",
+        "Costs of stay application where landlord unreasonably contested stay"
+      ],
+      "catchwords": [
+        "possession order",
+        "set aside judgment",
+        "non-attendance",
+        "CPR 39.3",
+        "protected tenant",
+        "rent arrears"
+      ],
+      "index_terms": [
+        "Rent Act 1977",
+        "disrepair counterclaim",
+        "Brazil v Brazil",
+        "medical certificate",
+        "County Court appeal",
+        "stay of execution"
+      ],
+      "linked_authorities": [
+        "Brazil v Brazil [2002] EWCA Civ 1135",
+        "Thomson Directories Limited v Planet Telecom Plc [2003] EWHC 1882",
+        "London Borough of Lewisham v Gurbuz [2003] EWHC 2078 (Ch)"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Procedural reasoning and outcome are detailed, but source judge metadata does not match the deciding judge named in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/14.json",
+    "status": "done",
+    "notes": "Supplemental judgment on CPR 36 interest cut-off and costs after main Johnson v Gore Wood appeal.",
+    "enrichment": {
+      "short_title": "CPR 36 payment-in and costs after professional negligence appeal",
+      "area_of_law": [
+        "Civil procedure",
+        "Professional negligence",
+        "Damages and interest",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 36.19",
+            "rule 36.20",
+            "rule 44.3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Johnson sued solicitors Gore Wood for negligence relating to investment advice; a large part of his claim was for borrowing costs since 1988.",
+        "Gore Wood made Part 36 payments into court in 1994 and 2001; Hart J ordered Johnson to pay costs from 1994 after he failed to beat the earlier payment in.",
+        "On appeal the Court held contractual interest could not be cut off by reference to the 2001 payment in because CPR 36.19(2) prevents the trial judge considering payments in when assessing causation.",
+        "The court also varied post-2001 costs so Johnson pays only 50% of Gore Wood's costs, finding it unjust to require full costs given issue-based losses and conduct."
+      ],
+      "procedural_posture": "Supplemental Court of Appeal judgment giving reasons for rulings on contractual interest and trial costs following the main negligence appeal.",
+      "outcome": "Contractual interest awarded to 17 March 2004; claimant's costs to 24 August 2001; defendant receives 50% of costs thereafter; AdFocus and related quantum issues remitted to a Master.",
+      "ratio": "CPR 36.19(2) prevents a court assessing damages from taking account of a Part 36 payment when determining causation or the cut-off date for contractual interest; where a claimant would have beaten a later payment in on corrected findings, CPR 36.20 costs consequences may be varied as unjust if the defendant contested many issues improperly.",
+      "legal_issues": [
+        "Whether contractual interest should be cut off by reference to a Part 36 payment",
+        "Construction of CPR 36.19(2) and interaction with the overriding objective",
+        "Appropriate costs order where claimant beats an earlier but not later payment in",
+        "Treatment of AdFocus and Jellicoe borrowing commitments",
+        "Double-counting of statutory interest on CPV and AdFocus investments"
+      ],
+      "catchwords": [
+        "Part 36",
+        "payment into court",
+        "contractual interest",
+        "professional negligence",
+        "costs consequences",
+        "exaggerated claim"
+      ],
+      "index_terms": [
+        "Johnson v Gore Wood",
+        "CPR 36.20",
+        "Vinos v Marks & Spencer",
+        "issues-based costs",
+        "borrowing costs",
+        "AdFocus",
+        "CPV investment"
+      ],
+      "linked_authorities": [
+        "Vinos v Marks & Spencer [2001] 3 All ER 784"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "This is a supplemental costs and interest judgment relying on the main appeal decision of Arden LJ dated 3 December 2003."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/183.json",
+    "status": "done",
+    "notes": "Youth court case stated on racial aggravation and identification; LT sentence appeal allowed in part.",
+    "enrichment": {
+      "short_title": "Youth court racial aggravation and identification appeal",
+      "area_of_law": [
+        "Criminal law",
+        "Public order and harassment",
+        "Sentencing",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": [
+            "section 28(1)(a)",
+            "section 28(1)(b)",
+            "section 29",
+            "section 32"
+          ]
+        },
+        {
+          "title": "Protection from Harassment Act 1997",
+          "provisions": [
+            "section 1",
+            "section 2"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 39"
+          ]
+        },
+        {
+          "title": "Public Order Act 1986",
+          "provisions": [
+            "section 3(1)"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 153"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Two youths were convicted after an 11-day Youth Court trial of harassing a Somali family and participating in a library affray.",
+        "RG faced racially aggravated harassment and assault charges; LT's charges were amended to remove racial aggravation by agreement at trial start.",
+        "The district judge found the group conduct was racially motivated under section 28(1)(b) and used section 153 to aggravate LT's affray sentence.",
+        "Identification evidence against LT conflicted between two library staff witnesses; no identification parade was held."
+      ],
+      "procedural_posture": "Appeal by case stated from Youth Court convictions and sentences on points of racial aggravation, group liability, identification, and sentencing.",
+      "outcome": "RG's appeal dismissed; LT's conviction appeal dismissed; LT's sentence appeal allowed in part with supervision reduced from 18 to 12 months.",
+      "ratio": "Racial aggravation may be established under section 28(1)(b) by proof of group motivation where the defendant's participation goes beyond mere presence; section 153 aggravation at sentence requires material properly before the court and cannot rely on racial elements withdrawn from the charged offences by prosecution agreement.",
+      "legal_issues": [
+        "Whether offences were racially aggravated under section 28(1)(a) or (b)",
+        "Admissibility of incidents outside the charged period to prove motivation",
+        "Group liability for racially aggravated harassment",
+        "Admissibility of identification evidence without a Code D parade",
+        "Use of section 153 where racial aggravation was withdrawn from charges"
+      ],
+      "catchwords": [
+        "racial aggravation",
+        "harassment",
+        "affray",
+        "identification evidence",
+        "youth court",
+        "case stated"
+      ],
+      "index_terms": [
+        "section 28 Crime and Disorder Act 1998",
+        "Protection from Harassment Act 1997",
+        "R v Forbes",
+        "R v Turnbull",
+        "section 153 sentencing",
+        "Code D identification"
+      ],
+      "linked_authorities": [
+        "R v Forbes [2001] 1 AC 473",
+        "R v Turnbull [1977] QB 224",
+        "Director of Public Prosecutions v Roshun Kumar Pal [2000]"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Statutory analysis and outcomes for both appellants are clearly reasoned. Source summary references Crime and Disorder Act 1988 in one charge description, likely a transcription error in the original."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/59.json",
+    "status": "needs_review",
+    "notes": "Stamp duty subsale appeal; source judges array includes deceased Lord Denning and other non-sitting names.",
+    "enrichment": {
+      "short_title": "Stamp duty on subsale with deferred instalment consideration",
+      "area_of_law": [
+        "Tax law",
+        "Property conveyancing",
+        "Stamp duty"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Stamp Act 1891",
+          "provisions": [
+            "section 4(a)",
+            "section 12",
+            "section 56(2)",
+            "section 58(4)",
+            "section 58(7)"
+          ]
+        },
+        {
+          "title": "Finance Act 1999",
+          "provisions": [
+            "Schedule 13 paragraph 1",
+            "Schedule 13 paragraph 2"
+          ]
+        },
+        {
+          "title": "Finance Act 1981",
+          "provisions": [
+            "section 107"
+          ]
+        },
+        {
+          "title": "Finance Act 2003",
+          "provisions": [
+            "section 125"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Kinrush Ltd contracted to buy Iverfarne House for £1.3m and simultaneously agreed a subsale to the Kestons on deferred instalment terms.",
+        "Completion was effected by a direct transfer from vendor to the Kestons for £1.3m, with the subsale price payable by £500 deposits and long-term instalments.",
+        "The Inland Revenue assessed stamp duty of £52,400 on both the full sale consideration and the 20-year instalment total.",
+        "The Kestons argued section 58(4) limited duty to the subpurchaser's chargeable consideration of £10,000."
+      ],
+      "procedural_posture": "Appeal by case stated against a section 12 Stamp Act 1891 adjudication on stamp duty chargeable on a direct vendor-to-subpurchaser transfer.",
+      "outcome": "Appeal dismissed; transfer held chargeable to £52,400 stamp duty as assessed.",
+      "ratio": "A conveyance implementing both a sale and subsale is prima facie chargeable on both considerations unless section 58(4) relief applies; under section 58(7) the chargeable consideration moving from the subpurchaser is the amount brought into account under section 56(2), here £10,000, which being less than the property value defeats section 58(4) relief so full sale consideration remains dutiable.",
+      "legal_issues": [
+        "Whether a direct vendor-to-subpurchaser conveyance attracts double stamp duty",
+        "Interaction between sections 56(2) and 58(4) Stamp Act 1891",
+        "Meaning of 'chargeable consideration moving from the subpurchaser'",
+        "Whether instalment subsale structuring avoids full ad valorem duty"
+      ],
+      "catchwords": [
+        "stamp duty",
+        "subsale",
+        "section 58(4)",
+        "instalment consideration",
+        "conveyance on sale",
+        "tax avoidance"
+      ],
+      "index_terms": [
+        "Stamp Act 1891",
+        "Escoigne Properties Ltd v IRC",
+        "Fitch Lovell Ltd v IRC",
+        "Oughtred v IRC",
+        "Kinrush",
+        "ad valorem duty"
+      ],
+      "linked_authorities": [
+        "Escoigne Properties Ltd v IRC [1958] AC 549",
+        "Fitch Lovell Ltd v IRC [1962] 1 WLR 1325",
+        "Oughtred v IRC [1960] AC 206"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Tax analysis and outcome are authoritative and fully reasoned, but source judge metadata appears incorrect."
+      }
+    }
+  }
+]

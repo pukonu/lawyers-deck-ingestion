@@ -1,0 +1,918 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/873.json",
+    "status": "done",
+    "notes": "Batch 73 enrichment. Large Lloyd's Names limitation judgment; conclusions at paragraphs 216-217.",
+    "enrichment": {
+      "short_title": "Lloyd's Names amendment and limitation ruling",
+      "area_of_law": [
+        "Commercial litigation",
+        "Limitation of actions",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 2",
+            "section 14",
+            "section 14A",
+            "section 14B",
+            "section 32",
+            "section 35"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 17.4"
+          ]
+        },
+        {
+          "title": "Lloyd's Act 1982",
+          "provisions": [
+            "section 14"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Following the Threshold Fraud trial before Cresswell J, various Lloyd's Names sought permission to amend pleadings to advance further misrepresentation and duty claims against Lloyd's.",
+        "Lloyd's argued that asbestos-related fraud claims were already determined, that it owed no advisory or regulatory duty to Names, and that negligent and statutory misrepresentation claims were time barred.",
+        "Cooke J analysed CPR 17.4, section 35 of the Limitation Act 1980, section 14A knowledge, section 14(3) of the Lloyd's Act 1982, and which Names had previously notified qualifying brochure misrepresentation claims."
+      ],
+      "procedural_posture": "Application for permission to amend pleadings in consolidated Lloyd's litigation after prior fraud and misrepresentation trials.",
+      "outcome": "Permission to amend granted in principle only for a limited class of Names with qualifying pre-23 July 1982 negligent misrepresentation claims that can relate back; most proposed amendments refused as time barred or already determined.",
+      "ratio": "After the Threshold Fraud trial, Names cannot maintain further asbestos fraud claims; Lloyd's owed no general duty to advise or regulate the market; negligent misrepresentation claims may relate back under section 35 and CPR 17.4 only where they arise from substantially the same facts as an earlier notified claim, but post-5 January 1983 representations and claims barred by section 14(3) of the Lloyd's Act 1982 cannot be revived by amendment.",
+      "legal_issues": [
+        "Whether further fraud and duty claims are barred by earlier Threshold Fraud determinations",
+        "Application of section 35(5) and CPR 17.4 to amendments after expiry of limitation",
+        "Whether section 14A postpones limitation for Names who lacked requisite knowledge",
+        "Effect of section 14(3) of the Lloyd's Act 1982 on post-23 July 1982 damage claims",
+        "Whether section 32 deliberate concealment postponed limitation"
+      ],
+      "catchwords": [
+        "Lloyd's Names",
+        "permission to amend",
+        "negligent misrepresentation",
+        "statutory misrepresentation",
+        "limitation",
+        "section 35",
+        "CPR 17.4",
+        "Lloyd's Act 1982"
+      ],
+      "index_terms": [
+        "Society of Lloyd's",
+        "Laws",
+        "Cresswell J",
+        "Jaffray",
+        "Threshold Fraud",
+        "Equitas",
+        "R and R settlement",
+        "brochure misrepresentation"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Society of Lloyd's v Jaffray",
+          "citation": null,
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Very long judgment but conclusions at paragraphs 216-217 are explicit and detailed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/936.json",
+    "status": "done",
+    "notes": "Batch 73 enrichment.",
+    "enrichment": {
+      "short_title": "Section 459 petition after ISS squeeze-out blocked",
+      "area_of_law": [
+        "Company law",
+        "Unfair prejudice",
+        "Takeovers and mergers"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 212",
+            "section 429",
+            "section 430A",
+            "section 430B",
+            "section 459"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Rock Nominees held 2.48% of RCO Holdings Plc after ISS acquired 96.4% in a recommended £2.80 takeover and then sold RCO's operating subsidiaries to ISS UK for about £30m.",
+        "Lord Ashcroft's Rapid Reef shareholding blocked ISS from reaching 90% for compulsory acquisition; RCO then went into members' voluntary liquidation.",
+        "Rock petitioned under section 459 alleging sale at undervalue and breach of fiduciary duty, seeking a share value reflecting ISS synergy benefits of up to £12 per share."
+      ],
+      "procedural_posture": "Trial of a section 459 Companies Act 1985 petition in relation to a company in voluntary liquidation.",
+      "outcome": "Petition dismissed; the court found £2.80 per share reflected fair value including synergies and that Rock's claim amounted to greenmail.",
+      "ratio": "Directors must obtain the best price reasonably obtainable when disposing of company assets, but where ISS paid £2.80 per share—a price accepted by the market and reflecting synergy value—minority shareholders could not use blocking power after Lord Ashcroft's conduct to extract a further premium; a section 459 petition used for that purpose may be an instrument of oppression.",
+      "legal_issues": [
+        "Whether the sale of RCO Group assets to ISS UK was at an undervalue",
+        "Whether directors in dual roles breached fiduciary duties to minority shareholders",
+        "Whether minority shareholders were entitled to share in purchaser-specific synergies",
+        "Adverse inferences from Lord Ashcroft's failure to give evidence"
+      ],
+      "catchwords": [
+        "section 459",
+        "unfair prejudice",
+        "minority shareholder",
+        "squeeze out",
+        "synergies",
+        "members voluntary liquidation",
+        "greenmail",
+        "fiduciary duty"
+      ],
+      "index_terms": [
+        "Rock Nominees",
+        "RCO Holdings",
+        "ISS Brentwood",
+        "Lord Ashcroft",
+        "Rapid Reef",
+        "Peter Smith J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Thompson v Bryant Homes Northern Ltd",
+          "citation": "[2002] EWCA Civ 1079",
+          "relation": "cited"
+        },
+        {
+          "name": "Wisniewski v Central Manchester Health Authority",
+          "citation": "(1998)",
+          "relation": "cited"
+        },
+        {
+          "name": "Re Ring Tower (No 2)",
+          "citation": "[1989] BCLC 427",
+          "relation": "cited"
+        },
+        {
+          "name": "Re Trans Tec Automotive (Campsie) Ltd",
+          "citation": "[2001] BCC 403",
+          "relation": "cited"
+        },
+        {
+          "name": "Regal (Hastings) Ltd v Gulliver",
+          "citation": "[1967] 2 AC 134",
+          "relation": "cited"
+        },
+        {
+          "name": "Foss v Harbottle",
+          "citation": null,
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full trial judgment with detailed findings on valuation, fiduciary duty, and expert evidence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1180.json",
+    "status": "done",
+    "notes": "Batch 73 enrichment.",
+    "enrichment": {
+      "short_title": "Judicial review of Stanley shooting inquest",
+      "area_of_law": [
+        "Administrative law",
+        "Coroner law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Coroners Act 1988",
+          "provisions": [
+            "section 8",
+            "section 11"
+          ]
+        },
+        {
+          "title": "Coroners Rules 1984",
+          "provisions": [
+            "rule 20",
+            "rule 36",
+            "rule 42"
+          ]
+        },
+        {
+          "title": "Births and Deaths Registration Act 1953",
+          "provisions": []
+        },
+        {
+          "title": "Rehabilitation of Offenders Act 1974",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 2"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Henry Stanley was shot by SO19 officers in Hackney in 1999 after a 999 call mistook his table leg for a shotgun.",
+        "An inquest before Dr Chan in June 2002 returned an open verdict after the jury heard evidence of Mr Stanley's previous convictions and that the CPS would not prosecute the officers.",
+        "Mrs Stanley sought judicial review, arguing the inquest failed Article 2 requirements; the officers conceded several grounds and agreed a fresh inquest was required."
+      ],
+      "procedural_posture": "Judicial review of an inquest verdict following fatal shooting by police officers.",
+      "outcome": "Open verdict quashed; new inquest ordered before a different coroner, with detailed guidance on Article 2-compliant inquest procedure.",
+      "ratio": "Where state agents use fatal force, an inquest engaging Article 2 requires rigorous independent scrutiny: irrelevant prejudicial evidence such as the deceased's unrelated convictions and provisional CPS non-prosecution decisions must not be put before the jury without prior argument and reasons, and independent expert evidence must be heard where police conduct is challenged.",
+      "legal_issues": [
+        "Admissibility of deceased's previous convictions at an Article 2 inquest",
+        "Whether CPS non-prosecution decisions may be put to the jury",
+        "Duty to give reasons for significant coroner rulings",
+        "Need for independent expert firearms evidence",
+        "Whether unlawful killing and neglect verdicts should have been left to the jury"
+      ],
+      "catchwords": [
+        "inquest",
+        "Article 2",
+        "police shooting",
+        "previous convictions",
+        "CPS decision",
+        "expert evidence",
+        "unlawful killing",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Henry Stanley",
+        "Irene Stanley",
+        "Dr Stephen Ming T Chan",
+        "SO19",
+        "Amin",
+        "Silber J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (Amin and Middleton) v Secretary of State for the Home Department",
+          "citation": "[2002] 3 WLR 505",
+          "relation": "applied"
+        },
+        {
+          "name": "R v DPP ex parte Manning and Melbourne",
+          "citation": "[2000] 3 WLR 463",
+          "relation": "cited"
+        },
+        {
+          "name": "R (Wright and Bennett) v Secretary of State",
+          "citation": "[2001] Lloyds Rep Med 478",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Galbraith",
+          "citation": "[1981] 1 WLR 1029",
+          "relation": "cited"
+        },
+        {
+          "name": "R v HM Coroner for Southwark ex parte Lisa Douglas Williams",
+          "citation": "[1999] 1 All ER 344",
+          "relation": "cited"
+        },
+        {
+          "name": "R (Nicholls) v HM Coroner for Liverpool",
+          "citation": "[2001] EWHC 922",
+          "relation": "cited"
+        },
+        {
+          "name": "Kilic v Turkey",
+          "citation": "[2000] EHRR",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full reasoned judgment with agreed concessions and detailed Article 2 guidance."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1157.json",
+    "status": "done",
+    "notes": "Batch 73 enrichment.",
+    "enrichment": {
+      "short_title": "Youth court committal jurisdiction challenge",
+      "area_of_law": [
+        "Criminal law",
+        "Youth justice",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 1A",
+            "section 24"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 91",
+            "section 100"
+          ]
+        },
+        {
+          "title": "Children and Young Persons Act 1933",
+          "provisions": [
+            "section 39"
+          ]
+        },
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": [
+            "section 20"
+          ]
+        }
+      ],
+      "key_facts": [
+        "C, aged 14 at the offence, was charged with burglary and criminal damage after despoiling a family home while the occupants were on holiday.",
+        "Brighton Youth Court declined jurisdiction and committed him to Lewes Crown Court under section 24(1)(a), treating the case as a grave crime warranting possible section 91 detention.",
+        "The CPS did not contest the judicial review; updated burglary sentencing guidelines suggested an adult starting point of 18 months with youth discount."
+      ],
+      "procedural_posture": "Judicial review to quash a youth court decision declining jurisdiction and committing a 14-year-old to the Crown Court.",
+      "outcome": "Application allowed; case remitted to the Youth Court to be dealt with expeditiously, with the section 39 anonymity order maintained.",
+      "ratio": "Youth court justices should start with a strong presumption against sending young offenders to the Crown Court unless satisfied there is more than a theoretical possibility of a section 91 sentence approaching two years' detention; a first-offence domestic burglary with vandalism by a 15-year-old of good character did not meet that threshold.",
+      "legal_issues": [
+        "Correct test under section 24(1)(a) of the Magistrates' Courts Act 1980",
+        "When a grave crime justifies Crown Court committal of a young person",
+        "Application of updated burglary sentencing guidelines and Ghafoor principles",
+        "Effect of T and V v United Kingdom on youth sentencing policy"
+      ],
+      "catchwords": [
+        "youth court",
+        "decline jurisdiction",
+        "section 24",
+        "section 91",
+        "grave crime",
+        "burglary",
+        "criminal damage",
+        "committal"
+      ],
+      "index_terms": [
+        "Brighton Youth Court",
+        "Lewes Crown Court",
+        "McInerney and Keating",
+        "Southampton Youth Court",
+        "Pitchford J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (D) v Manchester City Youth Court",
+          "citation": "[2002] 1 Cr App R (S) 573",
+          "relation": "applied"
+        },
+        {
+          "name": "R (W) v Southampton Youth Court",
+          "citation": "[2002] EWHC 1640 Admin",
+          "relation": "applied"
+        },
+        {
+          "name": "R (W) and Thetford Youth Justices v DPP",
+          "citation": "[2002] EWHC 152 Admin",
+          "relation": "cited"
+        },
+        {
+          "name": "McInerney and Keating",
+          "citation": "[2002] EWCA Crim 2003",
+          "relation": "cited"
+        },
+        {
+          "name": "Ghafoor",
+          "citation": "[2002] EWCA Crim 1857",
+          "relation": "cited"
+        },
+        {
+          "name": "R v LM",
+          "citation": "[2002] EWCA Crim 3047",
+          "relation": "cited"
+        },
+        {
+          "name": "T and V v United Kingdom",
+          "citation": "[2000] EHRR 121",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Short but complete administrative court judgment on settled youth court principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admlty/2003/838.json",
+    "status": "done",
+    "notes": "Batch 73 enrichment.",
+    "enrichment": {
+      "short_title": "Anchored tankers collision at Fujairah",
+      "area_of_law": [
+        "Admiralty law",
+        "Collision",
+        "Marine negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Collision Regulations 1972",
+          "provisions": [
+            "Rule 3(i)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Suezmax Pearl and ULCC Jahre Venture collided in Fujairah B anchorage in March 2000 during Force 8-9 westerly weather while both were at anchor in ballast.",
+        "Both vessels dragged anchor without appreciating it; Jahre Venture dragged down onto Pearl, and Pearl could not recover her anchor due to a steam-line defect.",
+        "Pearl claimed Jahre Venture was wholly at fault for failing to use engines in time; Jahre Venture blamed Pearl's dragging, maintenance failure, and last-minute ahead movement."
+      ],
+      "procedural_posture": "Admiralty collision action trial with amended Preliminary Act points and oral evidence from Pearl's master.",
+      "outcome": "Both vessels found equally at fault; liability apportioned 50/50.",
+      "ratio": "Where two anchored vessels drag in severe weather and collide, each may be causatively at fault for failing to appreciate dragging and act in time; a downwind vessel's maintenance defect and an upwind vessel's culpable delay in using engines after engines were ready can both contribute equally to an avoidable collision.",
+      "legal_issues": [
+        "Whether Pearl dragged her anchor",
+        "Whether Jahre Venture's engines were ready and used in time",
+        "Whether presence of bunker barge Markiza prevented Jahre Venture recovering anchor",
+        "Whether Pearl's steam-line defect was latent or due to lack of due diligence",
+        "Apportionment of blame under maritime collision principles"
+      ],
+      "catchwords": [
+        "collision",
+        "anchorage",
+        "dragging anchor",
+        "Fujairah",
+        "apportionment",
+        "marine negligence",
+        "steam line defect",
+        "Collision Regulations"
+      ],
+      "index_terms": [
+        "MV Pearl",
+        "MV Jahre Venture",
+        "Gulf of Oman",
+        "Captain Agarwal",
+        "Gross J",
+        "Marsden Collisions at Sea"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Viper",
+          "citation": "[1926] P 37",
+          "relation": "cited"
+        },
+        {
+          "name": "The IRAPUA",
+          "citation": "[2003] EWHC 320 (Admlty)",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full admiralty trial judgment with detailed fact findings and 50/50 apportionment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/957.json",
+    "status": "done",
+    "notes": "Batch 73 enrichment.",
+    "enrichment": {
+      "short_title": "Phoenix company name and section 217 liability",
+      "area_of_law": [
+        "Insolvency law",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 216",
+            "section 217"
+          ]
+        },
+        {
+          "title": "Insolvency Rules 1986",
+          "provisions": [
+            "rule 4.90"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Griffiths was a director of MPJ Construction Ltd, wound up in April 1999, and later of MPJ Contractors Ltd, incorporated in February 1999.",
+        "Archer obtained a default judgment for £80,315.67 against Contractors, which was wound up in June 2001 with nil assets.",
+        "Archer sued Mr Griffiths under sections 216 and 217, arguing Contractors' name was a prohibited phoenix name and he was personally liable for the judgment debt."
+      ],
+      "procedural_posture": "Trial of preliminary issues on sections 216 and 217 Insolvency Act 1986 personal liability.",
+      "outcome": "Sections 216 and 217 satisfied; Mr Griffiths personally liable for the full judgment debt plus interest and costs, and could not rely on rule 4.90 insolvency set-off to reduce that liability.",
+      "ratio": "MPJ Contractors Limited was so similar to MPJ Construction Limited as to suggest association and was a prohibited name; section 217 imposes joint and several personal liability on a director for relevant company debts, and rule 4.90 set-off on the company's insolvency adjusts only the insolvent company's obligation and does not extinguish or reduce the director's primary joint and several liability to the creditor.",
+      "legal_issues": [
+        "Whether MPJ Contractors Limited was a prohibited name under section 216",
+        "Whether get-up differences avoid section 216",
+        "Extent of personal liability under section 217 after company liquidation",
+        "Whether rule 4.90 mandatory set-off reduces a section 217 director's liability"
+      ],
+      "catchwords": [
+        "section 216",
+        "section 217",
+        "phoenix company",
+        "prohibited name",
+        "personal liability",
+        "rule 4.90",
+        "set-off",
+        "insolvent liquidation"
+      ],
+      "index_terms": [
+        "Archer Structures",
+        "Griffiths",
+        "MPJ Construction",
+        "MPJ Contractors",
+        "Thorne v Silverleaf",
+        "Stein v Blake"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Thorne v Silverleaf",
+          "citation": "[1994] BCLC 109",
+          "relation": "applied"
+        },
+        {
+          "name": "Stein v Blake",
+          "citation": "[1996] AC 243",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Preliminary issue trial with clear findings on sections 216 and 217 and rule 4.90."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/958.json",
+    "status": "done",
+    "notes": "Batch 73 enrichment.",
+    "enrichment": {
+      "short_title": "HGCRA status of dryer building services",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Grants, Construction and Regeneration Act 1996",
+          "provisions": [
+            "section 104",
+            "section 105",
+            "section 108"
+          ]
+        },
+        {
+          "title": "EC Council Regulation No 44/2001",
+          "provisions": [
+            "Article 23"
+          ]
+        },
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 9"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Comsite subcontracted with Austrian defendant Andritz AG to install building services in a sewage sludge dryer building at Southern Water's Sandown works.",
+        "A separate sub-contract covered electrical services directly connected to the dryer plant; Comsite sought Part 8 declarations that the building services package was a construction contract under the 1996 Act.",
+        "Andritz argued the English court lacked jurisdiction under an Austrian exclusive jurisdiction clause and that the works were excluded as plant installation at a water treatment site."
+      ],
+      "procedural_posture": "Part 8 claim for declarations on application of the Housing Grants, Construction and Regeneration Act 1996 and jurisdiction.",
+      "outcome": "Court had jurisdiction; declarations granted that Comsite's building services sub-contract was a construction contract and Part II of the 1996 Act applied, including adjudication rights.",
+      "ratio": "A dispute whether statutory adjudication applies is not a dispute about interpretation or execution of the sub-contract within an Article 23 exclusive jurisdiction clause; building services physically integral to the dryer building but not connected to the plant are construction operations, not excluded plant assembly at a water treatment site under section 105(2)(c)(i).",
+      "legal_issues": [
+        "Whether Article 23 and the sub-contract dispute clause oust English jurisdiction over the Part 8 claim",
+        "Whether Part 8 is an appropriate procedure",
+        "Whether building services works fall within section 105(2)(c)(i) plant exclusion",
+        "Distinction between plant-connected and building-only services"
+      ],
+      "catchwords": [
+        "construction contract",
+        "construction operations",
+        "HGCRA 1996",
+        "adjudication",
+        "Part 8",
+        "section 105",
+        "water treatment",
+        "jurisdiction clause"
+      ],
+      "index_terms": [
+        "Comsite Projects",
+        "Andritz AG",
+        "Southern Water",
+        "Sandown",
+        "dryer building",
+        "Homer Burgess",
+        "ABB Power Construction"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Homer Burgess Ltd v Chirex (Annan) Ltd",
+          "citation": "[2000] BLR 124",
+          "relation": "applied"
+        },
+        {
+          "name": "ABB Power Construction Ltd v Norwest Holst Engineering Ltd",
+          "citation": "(2001) 17 Const LJ 246",
+          "relation": "applied"
+        },
+        {
+          "name": "ABB Zantingh Ltd v Zedal Building Services Ltd",
+          "citation": "[2001] BLR 66",
+          "relation": "cited"
+        },
+        {
+          "name": "Macob Civil Engineering Ltd v Morrison Construction Ltd",
+          "citation": "[1999] BLR 93",
+          "relation": "cited"
+        },
+        {
+          "name": "Absolute Rentals Ltd v Gencor Enterprises Ltd",
+          "citation": "(2000) 17 Con LJ 322",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete TCC Part 8 judgment on jurisdiction and HGCRA scope."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1126.json",
+    "status": "done",
+    "notes": "Batch 73 enrichment.",
+    "enrichment": {
+      "short_title": "Homelessness review appeal advice challenge",
+      "area_of_law": [
+        "Administrative law",
+        "Housing law",
+        "Social housing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1996",
+          "provisions": [
+            "Part VII",
+            "section 184",
+            "section 188",
+            "section 202",
+            "section 203",
+            "section 204"
+          ]
+        },
+        {
+          "title": "Allocation of Housing and Homelessness (Review Procedures and Amendment) Regulations 1996",
+          "provisions": [
+            "regulation 7"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Bridgnorth District Council found Mr Taylor threatened with homelessness but not in priority need and intentionally homeless; he requested a review in February 1999 but the council treated correspondence as a complaint rather than completing a statutory review.",
+        "The Local Government Ombudsman found maladministration in failing to conduct the review but held the council never reached the point where advising Mr Taylor of his county court appeal rights was appropriate.",
+        "Mr Taylor challenged only paragraph 102 of the ombudsman's report on that limited ground."
+      ],
+      "procedural_posture": "Judicial review of a Local Government Ombudsman's report on homelessness decision-making and review procedure.",
+      "outcome": "Application dismissed; the ombudsman's conclusion that appeal advice was not required absent a completed review was not flawed.",
+      "ratio": "Where a housing authority does not treat or complete a section 202 review, there is no statutory obligation to advise the applicant of a section 204 county court appeal at the end of the 56-day review period; criticising the authority for not giving appeal advice in those circumstances is academic when the authority did not consider itself to be conducting a review.",
+      "legal_issues": [
+        "Whether a section 202 review was validly requested and should have been conducted",
+        "Whether the council had to advise of section 204 appeal rights after 56 days without a review decision",
+        "Whether paragraph 102 of the ombudsman's report was legally flawed",
+        "Whether intentional homelessness finding could be reopened through the ombudsman challenge"
+      ],
+      "catchwords": [
+        "homelessness",
+        "section 202 review",
+        "section 204 appeal",
+        "intentionally homeless",
+        "local government ombudsman",
+        "maladministration",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Taylor",
+        "Bridgnorth District Council",
+        "Commission for Local Administration",
+        "Hooper J"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Narrow judicial review on a single ombudsman paragraph; housing Act procedure clearly analysed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1159.json",
+    "status": "needs_review",
+    "notes": "Batch 73 enrichment. Source full_text contains only the hand-down order; ratio inferred from order terms and related public materials on the same challenge.",
+    "enrichment": {
+      "short_title": "Cold water test for vibration white finger",
+      "area_of_law": [
+        "Administrative law",
+        "Social security law",
+        "Occupational health"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Social Security Contributions and Benefits Act 1992",
+          "provisions": [
+            "section 108"
+          ]
+        },
+        {
+          "title": "Social Security (Industrial Injuries) Prescribed Diseases Regulations",
+          "provisions": [
+            "Prescribed Disease A11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "NACODS challenged DWP guidance allowing use of the cold water provocation test (CWPT) when assessing industrial injuries benefit for prescribed disease A11 (vibration white finger).",
+        "Members reported refusals of benefit where negative CWPT results were treated as decisive despite successful civil compensation claims.",
+        "The Secretary of State's decision of 7 February 2002 maintaining the diagnostic approach was challenged by judicial review."
+      ],
+      "procedural_posture": "Judicial review of Secretary of State guidance on diagnostic testing for industrial injuries benefit.",
+      "outcome": "Decision of 7 February 2002 quashed; Secretary of State ordered to modify or issue fresh guidance on use of the Cold Water Provocation Test for PD A11; defendant ordered to pay claimant's costs.",
+      "ratio": "Departmental guidance treating the cold water provocation test as a reliable diagnostic tool for prescribed disease A11 was unlawful where evidence showed a negative result has no diagnostic value and the test produces unacceptable false positives and false negatives for a national benefits scheme.",
+      "legal_issues": [
+        "Lawfulness of CWPT in diagnosing vibration white finger for industrial injuries benefit",
+        "Whether non-statutory departmental medical guidance can be corrected by declaration",
+        "Appropriate diagnostic criteria for prescribed disease A11",
+        "Discrepancy between civil compensation and benefits assessments"
+      ],
+      "catchwords": [
+        "vibration white finger",
+        "prescribed disease A11",
+        "cold water provocation test",
+        "industrial injuries benefit",
+        "diagnostic guidance",
+        "judicial review",
+        "NACODS"
+      ],
+      "index_terms": [
+        "National Association of Colliery Overmen Deputies and Shot Firers",
+        "Secretary of State for Work and Pensions",
+        "BAMS",
+        "hand-arm vibration syndrome",
+        "Pitchford J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (National Association of Colliery Overmen, Deputies and Shot Firers) v Secretary of State for Work and Pensions",
+          "citation": "[2003] EWHC 607 (Admin)",
+          "relation": "related"
+        }
+      ],
+      "confidence": {
+        "score": 0.72,
+        "level": "medium",
+        "notes": "Source judgment text is truncated to the oral hand-down; enrichment relies mainly on the quashing order and related case materials."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1124.json",
+    "status": "done",
+    "notes": "Batch 73 enrichment.",
+    "enrichment": {
+      "short_title": "GMC interim suspension and NHS dismissal",
+      "area_of_law": [
+        "Administrative law",
+        "Medical regulation",
+        "Employment law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Medical Act 1983",
+          "provisions": [
+            "section 41A",
+            "section 47"
+          ]
+        },
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 98"
+          ]
+        },
+        {
+          "title": "General Medical Council (Professional Performance) Rules Order of Council 1997",
+          "provisions": [
+            "rule 4",
+            "rule 5",
+            "rule 6"
+          ]
+        },
+        {
+          "title": "General Medical Council (Interim Orders Committee) (Procedure) Rules Order of Council 2000",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Dr George, a paediatric locum, was suspended by South Staffordshire NHS Trust in October 2002 and then made subject to an GMC interim suspension order on 6 March 2003 after extensive historical performance complaints.",
+        "He had only three working days to prepare for the Interim Orders Committee hearing and challenged both the suspension and the Trust's plan to dismiss him because he could not practise.",
+        "The GMC accepted a speedy review before a fresh panel by 30 July 2003; the Trust sought to proceed with dismissal on the sole ground of interim suspension."
+      ],
+      "procedural_posture": "Combined section 41A Medical Act 1983 application and judicial review of GMC interim suspension and NHS Trust dismissal proceedings.",
+      "outcome": "Judicial review against GMC refused; claim against Trust allowed with declaration that dismissal solely because of GMC interim suspension would be unlawful; GMC undertaking to hold review by 30 July 2003.",
+      "ratio": "Section 41A(10) provides an adequate challenge to interim suspension without parallel judicial review except in exceptional cases; section 47(3) of the Medical Act 1983 prevents an NHS appointment being terminated merely because a doctor is subject to an interim suspension order, since such orders are made on prima facie evidence without final findings.",
+      "legal_issues": [
+        "Whether judicial review lies alongside section 41A(10)",
+        "Adequacy of IOC reasons and fairness where voluminous historic allegations were heard with little preparation time",
+        "Whether earlier complaints outside five years could be considered as a pattern under rule 4",
+        "Whether NHS Trust may dismiss employment solely due to GMC interim suspension"
+      ],
+      "catchwords": [
+        "GMC",
+        "interim suspension",
+        "section 41A",
+        "Medical Act 1983",
+        "section 47",
+        "professional performance",
+        "NHS trust",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Dr George",
+        "South Staffordshire Healthcare NHS Trust",
+        "Interim Orders Committee",
+        "Madan v GMC",
+        "Donnelly v GMC",
+        "Collins J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Madan v GMC",
+          "citation": "[2001] EWHC Admin 577",
+          "relation": "cited"
+        },
+        {
+          "name": "Donnelly v GMC",
+          "citation": "[2001] CO/3047/01",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Birmingham City Council ex parte Ferrero Ltd",
+          "citation": "[1993] 1 All ER 530",
+          "relation": "applied"
+        },
+        {
+          "name": "Sivasubramaniam v Wandsworth County Court",
+          "citation": "[2002] EWCA Civ 1738",
+          "relation": "cited"
+        },
+        {
+          "name": "Tarnesby v Kensington Chelsea and Westminster Area Health Authority",
+          "citation": "[1981] ICR 615",
+          "relation": "cited"
+        },
+        {
+          "name": "Preston v Inland Revenue Commissioners",
+          "citation": "[1985] AC 835",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long ex tempore judgment with detailed analysis of Medical Act procedure and NHS employment protection."
+      }
+    }
+  }
+]

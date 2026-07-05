@@ -1,0 +1,801 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/247.json",
+    "status": "done",
+    "notes": "Batch 20 enrichment",
+    "enrichment": {
+      "short_title": "Careless driving appeal on heavy braking after unexplained HGV skid",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 3 (driving without due care and attention)"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "case stated procedure"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Gary Bingham was prosecuted for driving an HGV without due care on the A1034 after a fatal collision; the charge was careless driving, not causing death.",
+        "Magistrates found the rear of the lorry swung on a right-hand bend, that heavy braking probably locked the wheels immediately before impact, and that braking in those circumstances was not the conduct of a reasonable driver.",
+        "They did not expressly find that the initial loss of control was itself careless, though they made findings excluding mechanical defect, road contaminants, and an identified cause for the initial skid.",
+        "Expert tachograph evidence and the appellant's concession that braking would make matters worse supported the finding of heavy braking after the skid began."
+      ],
+      "procedural_posture": "Appeal by way of case stated from magistrates' conviction to the High Court (Administrative Division).",
+      "outcome": "Appeal dismissed; the magistrates were held correct in law to convict on the basis of careless heavy braking after the initial skid, and costs of £2,000 were ordered.",
+      "ratio": "Where magistrates lawfully find heavy braking after an initial skid, a prosecution may treat the whole incident as one episode of careless driving; the 'agony of the moment' principle does not assist a driver whose emergency reaction is not shown to have been to an emergency of his own innocent creation, and a finding of heavy braking supported by tachograph evidence and the driver's own concession was not perverse.",
+      "legal_issues": [
+        "Whether magistrates were entitled to find heavy braking as a fact",
+        "Whether heavy braking after an initial unexplained skid proved careless driving beyond reasonable doubt",
+        "Whether the agony of the moment principle applied where the initial loss of control was not attributed to driver fault",
+        "Whether the case was a Wright v Wenlock inference case or a narrower braking-response case"
+      ],
+      "catchwords": [
+        "careless driving",
+        "case stated",
+        "heavy goods vehicle",
+        "skidding",
+        "agony of the moment",
+        "tachograph evidence",
+        "Wright v Wenlock"
+      ],
+      "index_terms": [
+        "Gary Bingham",
+        "Humberside magistrates",
+        "A1034",
+        "NG Chun Pui v Lee Chuen Tat",
+        "Butty v Davey",
+        "driving without due care"
+      ],
+      "linked_authorities": [
+        "Wright v Wenlock",
+        "Butty v Davey",
+        "NG Chun Pui & Others v Lee Chuen Tat and Another"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Facts, outcome, and legal reasoning are clear from the full judgment. The source metadata lists Lord Griffiths as judge but the judgment is delivered by Mr Justice Mackay."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/416.json",
+    "status": "done",
+    "notes": "Batch 20 enrichment",
+    "enrichment": {
+      "short_title": "Domestic manslaughter sentence reduced after guilty-plea offer credit",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Homicide"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Parnham killed his wife with an iron bar during a domestic argument on 5 March 2001 after she had struck him first; medical evidence indicated about 73 blows, 44 to the head.",
+        "He initially claimed intruders had attacked them, was tried for murder, and was convicted of involuntary manslaughter because the jury found he lacked intent for murder.",
+        "He was sentenced to six years' imprisonment at Lewes Crown Court on 11 January 2002.",
+        "He had offered to plead guilty to manslaughter before trial, but the judge gave no credit for that offer and the sentence was held manifestly excessive compared with comparable involuntary manslaughter cases."
+      ],
+      "procedural_posture": "Renewed application for leave to appeal against sentence, followed by full appeal to the Court of Appeal (Criminal Division).",
+      "outcome": "Appeal allowed; sentence reduced from six years to four years' imprisonment, with liberty to apply reserved.",
+      "ratio": "Some credit should be given for an offer to plead guilty to the offence ultimately convicted even where the prosecution rejected the offer and the trial proceeded on a fully contested basis; in domestic involuntary manslaughter cases lacking substantial mitigating features comparable to Higgins, a six-year sentence may be manifestly excessive where the offender did not intend death or really serious bodily harm.",
+      "legal_issues": [
+        "Whether the judge erred in failing to give credit for an offer to plead guilty to manslaughter",
+        "Whether six years was manifestly excessive for involuntary manslaughter in a domestic context",
+        "How sentences for involuntary manslaughter compare with manslaughter by provocation"
+      ],
+      "catchwords": [
+        "involuntary manslaughter",
+        "sentence appeal",
+        "guilty plea credit",
+        "domestic violence",
+        "manifestly excessive",
+        "iron bar"
+      ],
+      "index_terms": [
+        "Parnham",
+        "Lewes Crown Court",
+        "Judge Brown",
+        "Palmer",
+        "Higgins",
+        "Suratan",
+        "provocation",
+        "frenzy"
+      ],
+      "linked_authorities": [
+        "R v Palmer",
+        "R v Higgins",
+        "R v Suratan"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Facts, sentencing reasoning, and outcome are fully stated. Source file lists no judges though the judgment identifies Mr Justice Jackson."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/190.json",
+    "status": "done",
+    "notes": "Batch 20 enrichment",
+    "enrichment": {
+      "short_title": "Admissibility of complainant background evidence in indecent assault trial",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Sexual offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Sex Offenders Act 1997",
+          "provisions": [
+            "section 2"
+          ]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 2(1)"
+          ]
+        },
+        {
+          "title": "Youth Justice and Criminal Evidence Act 1999",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Steven Tobin was convicted at Chester Crown Court of two counts of indecent assault on a 16-year-old complainant in his car after she had been drinking in public houses.",
+        "The central issue was whether the complainant initiated oral sex while he drove, as he claimed, or whether he forced her, as she alleged.",
+        "The prosecution called limited evidence from the complainant's mother about the complainant's background, politeness, and distress after the incident.",
+        "The defence objected that this amounted to impermissible oath-helping, but the Court of Appeal held the trial was fair and the conviction safe."
+      ],
+      "procedural_posture": "Appeal against conviction with leave on one ground and renewed applications for leave on two further grounds.",
+      "outcome": "Appeal dismissed on the granted ground; leave refused on grounds 2 and 3.",
+      "ratio": "In sexual offence trials where credibility is decisive and the dispute goes directly to whether the complainant would have acted as alleged, limited prosecution evidence of a complainant's background and characteristics may be admissible even if it also bolsters credibility, provided it does not amount to general oath-helping that the witness is truthful; fairness may permit such evidence where the defendant's character has been fully explored.",
+      "legal_issues": [
+        "Whether prosecution evidence of the complainant's good character and background was impermissible oath-helping",
+        "Whether the judge's summing-up invited the jury to treat the mother's evidence as proof of truthfulness",
+        "Whether the defence should have been granted an adjournment to investigate the complainant's character",
+        "Whether judicial questioning of the defendant improperly entered the arena"
+      ],
+      "catchwords": [
+        "indecent assault",
+        "oath-helping",
+        "credibility",
+        "sexual offences",
+        "collateral issue",
+        "complainant character",
+        "Funderburk"
+      ],
+      "index_terms": [
+        "Steven Tobin",
+        "Chester Crown Court",
+        "Robinson",
+        "R v Hamilton",
+        "R v Funderburk",
+        "R v Amado-Taylor",
+        "Toohey v Metropolitan Police Commissioner"
+      ],
+      "linked_authorities": [
+        "Robinson",
+        "R v Kyselka",
+        "R v Hamilton",
+        "R v Funderburk",
+        "R v Amado-Taylor",
+        "Toohey v Metropolitan Police Commissioner",
+        "Attorney-General v Hitchcock"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Grounds of appeal, authorities, and disposition are clearly articulated in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/65.json",
+    "status": "done",
+    "notes": "Batch 20 enrichment",
+    "enrichment": {
+      "short_title": "Sea Empress whelk processor denied IOPC Fund pure economic loss claim",
+      "area_of_law": [
+        "Maritime law",
+        "Oil pollution",
+        "Tort",
+        "Commercial litigation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Merchant Shipping Act 1995",
+          "provisions": [
+            "Schedule 4, section 153",
+            "Schedule 4, section 157",
+            "Schedule 4, section 170",
+            "Schedule 4, section 175",
+            "Schedule 4, section 176",
+            "Schedule 4, section 181"
+          ]
+        },
+        {
+          "title": "Law Reform (Contributory Negligence) Act 1945",
+          "provisions": []
+        },
+        {
+          "title": "Food Protection (Emergency Prohibitions)(Oil and Chemical Pollution of Fish and Plants) Order 1996 (SI 1996 No. 448)",
+          "provisions": []
+        },
+        {
+          "title": "Merchant Shipping (Oil Pollution) Act 1971",
+          "provisions": [
+            "section 1"
+          ]
+        },
+        {
+          "title": "Merchant Shipping Act 1974",
+          "provisions": [
+            "section 4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "After the Sea Empress grounded at Milford Haven in February 1996, a fishing ban prevented Welsh whelk catches that supplied R J Tilbury & Sons' processing business in Devon.",
+        "The claimants sought recovery from the International Oil Pollution Compensation Fund 1971 for loss of gross profits of about £746,632 on a preliminary issue.",
+        "They had contracts with Welsh fishing vessels and Korean buyers for Welsh whelks that could not be replaced from other fisheries.",
+        "David Steel J held, and the Court of Appeal affirmed, that this was secondary or relational pure economic loss outside the statutory conception of damage caused by contamination."
+      ],
+      "procedural_posture": "Appeal with permission from a preliminary issue trial determining whether assumed loss of profits was recoverable damage under Schedule 4 to the Merchant Shipping Act 1995.",
+      "outcome": "Appeal dismissed; the whelk processor's economic loss was held not to be damage caused by contamination within section 153.",
+      "ratio": "Under the oil pollution compensation scheme, liability for damage caused by contamination is closely focused on physical contamination and its proximate consequences; a processor in Devon who lost profits because local fishermen could not supply whelks from contaminated waters suffered indirect relational economic loss comparable to Landcatch and outside the intended scope of the statute, even though existing supply contracts distinguished the facts superficially.",
+      "legal_issues": [
+        "Whether loss of profits from inability to obtain Welsh whelks constitutes damage caused by contamination under section 153",
+        "How Landcatch Ltd v International Oil Pollution Compensation Fund applies to downstream processors",
+        "Whether common law rules on recovery of pure economic loss govern construction of the statutory scheme",
+        "Where to draw the line between recoverable fishermen's losses and non-recoverable relational losses"
+      ],
+      "catchwords": [
+        "oil pollution",
+        "Sea Empress",
+        "pure economic loss",
+        "IOPC Fund",
+        "contamination",
+        "fishing ban",
+        "Landcatch",
+        "preliminary issue"
+      ],
+      "index_terms": [
+        "R J Tilbury & Sons",
+        "Alegrete Shipping",
+        "Milford Haven",
+        "whelks",
+        "Welsh fisheries",
+        "Braer",
+        "Candlewood Navigation",
+        "The Aliakmon",
+        "Fairchild v Glenhaven"
+      ],
+      "linked_authorities": [
+        "Landcatch Ltd v International Oil Pollution Compensation Fund",
+        "Candlewood Navigation Corp Ltd v Mitsui OSK Lines",
+        "Cattle v Stockton Water Works",
+        "Lee & Sillivan Ltd v Aliakmon Shipping Co Ltd (The Aliakmon)",
+        "Samick Lines Co Ltd v The Owners of The Antonis P. Lemos",
+        "Kuwait Airways Corp v Iraq Airways Company",
+        "Fairchild v Glenhaven Funeral Services Ltd",
+        "Hedley Byrne & Co Ltd v Heller & Partners Ltd"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed judgment on a defined preliminary issue. Source judge metadata appears unreliable and was not reproduced."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/352.json",
+    "status": "done",
+    "notes": "Batch 20 enrichment",
+    "enrichment": {
+      "short_title": "Kosovo gay asylum claimant failed Article 3 and 8 removal challenge",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 3",
+            "Article 8",
+            "Article 8(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "S, a Kosovo Albanian who arrived aged 17 in January 2000, raised a late claim of persecution on grounds of homosexuality during his asylum appeal and later pursued human rights claims.",
+        "The Special Adjudicator doubted he was homosexual but in judicial review the court proceeded on the assumption that he was.",
+        "Expert and background material indicated conservative social attitudes, possible discrimination, and legal uncertainty over homosexual conduct in Kosovo, but not a substantial risk of Article 3 ill-treatment.",
+        "Fresh evidence from Mr Standish at the hearing did not establish removal would breach Articles 3 or 8."
+      ],
+      "procedural_posture": "Claim for judicial review of an Immigration Appeal Tribunal decision refusing leave to appeal against a Special Adjudicator's dismissal of human rights claims.",
+      "outcome": "Claim for judicial review dismissed; removal held lawful and not in breach of Articles 3 or 8, and permission to appeal refused.",
+      "ratio": "Following Ullah and Z, Convention rights other than Article 3 generally do not prevent removal unless conduct in the destination state reaches the Article 3 threshold; social ostracism, verbal harassment, and conservative attitudes toward homosexuality in Kosovo, even on assumed homosexual orientation, did not establish a real risk of torture or inhuman or degrading treatment, and Article 8 did not require the United Kingdom to guarantee protection from non-flagrant social prejudice.",
+      "legal_issues": [
+        "Whether removal of a gay Kosovo Albanian would breach Article 3",
+        "Whether Article 8 prevented removal where private life in the UK was engaged",
+        "Whether the Special Adjudicator adequately assessed objective country evidence",
+        "Whether Ullah and Z conflict on extraterritorial Article 8 protection"
+      ],
+      "catchwords": [
+        "judicial review",
+        "Article 3",
+        "Article 8",
+        "homosexuality",
+        "Kosovo",
+        "asylum",
+        "human rights",
+        "removal"
+      ],
+      "index_terms": [
+        "S v SSHD",
+        "Kosovo Albanian",
+        "UNMIK",
+        "Krasniqi",
+        "Ullah",
+        "SSHD v Z",
+        "Howard M",
+        "PACE counselling"
+      ],
+      "linked_authorities": [
+        "SSHD v Z; M & A v SSHD",
+        "Ullah & Do v SSHD",
+        "Krasniqi"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Anonymised case reported as S. Core ECHR analysis and outcome are explicit; some country evidence is evaluative."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/248.json",
+    "status": "done",
+    "notes": "Batch 20 enrichment",
+    "enrichment": {
+      "short_title": "Article 8 claim failed where spouse married during precarious immigration status",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8",
+            "Article 8(2)"
+          ]
+        },
+        {
+          "title": "Immigration Rules HC395",
+          "provisions": [
+            "rule 281",
+            "rule 281.4",
+            "rule 281.5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Surinder Singh, an Indian asylum seeker whose claim failed, married a Malaysian national in April 2001 while his immigration status remained precarious.",
+        "His wife and three stepchildren, all long resident in the United Kingdom, faced hardship if required to follow him to India but faced no legal bar to doing so.",
+        "The Adjudicator and Immigration Appeal Tribunal held that interference with family life was proportionate for immigration control.",
+        "The couple had known each other about a year and the marriage had lasted about one year at the time of the decision."
+      ],
+      "procedural_posture": "Application for judicial review, brought with permission, of an Immigration Appeal Tribunal decision refusing leave to appeal against an Adjudicator's Article 8 decision.",
+      "outcome": "Application dismissed; removal held proportionate and not a breach of Article 8.",
+      "ratio": "Under Mahmood and Strasbourg jurisprudence, Article 8 does not impose a general obligation to respect a couple's choice of residence; where a spouse married knowing of the other's precarious immigration status, that knowledge militates against a finding that exclusion violates Article 8, and obstacles to the family following the removed spouse to India were not insurmountable merely because relocation would be extremely difficult in practice.",
+      "legal_issues": [
+        "Whether obstacles to the family relocating to India were insurmountable",
+        "Whether the decision-maker placed undue weight on marriage during precarious status",
+        "Whether the Adjudicator had to consider prospects of future entry clearance from India",
+        "Application of Mahmood propositions to Article 8 proportionality"
+      ],
+      "catchwords": [
+        "Article 8",
+        "family life",
+        "immigration control",
+        "precarious status",
+        "proportionality",
+        "insurmountable obstacles",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Surinder Singh",
+        "Manjeet Kaur Purewal",
+        "Mahmood",
+        "Poku v United Kingdom",
+        "Indian citizen",
+        "Malaysian spouse",
+        "entry clearance"
+      ],
+      "linked_authorities": [
+        "R v Secretary of State for the Home Department ex parte Mahmood",
+        "Poku v United Kingdom",
+        "Abdulaziz, Cabales and Balkandali v United Kingdom"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Facts and Mahmood-based reasoning are clearly set out. Source metadata lists Lord Phillips MR though Moses J delivered the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/112.json",
+    "status": "done",
+    "notes": "Batch 20 enrichment",
+    "enrichment": {
+      "short_title": "Equitable Life audit negligence strike-out on GAR provision and sale claims",
+      "area_of_law": [
+        "Professional negligence",
+        "Audit liability",
+        "Insurance law",
+        "Commercial litigation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 263(1)",
+            "section 270(2)",
+            "section 425"
+          ]
+        },
+        {
+          "title": "Insurance Companies Act 1982",
+          "provisions": [
+            "section 19"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR rule 3.4(2)(a)",
+            "CPR rule 24.2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Equitable Life sued Ernst & Young for audit negligence relating to 1997-1999 audits and alleged failure to require adequate provisions for guaranteed annuity rate options and Hyman litigation disclosures.",
+        "Equitable claimed it would have sold the business earlier and/or declared lower bonuses if proper GAR provisions had appeared in the statutory accounts.",
+        "E&Y applied to strike out or obtain summary judgment on most claims, arguing the losses were outside an auditor's scope of duty and causation.",
+        "Langley J struck out the lost-sale and loss-of-chance claims but gave Equitable a limited opportunity to reformulate the bonus declaration claims."
+      ],
+      "procedural_posture": "Interlocutory application to strike out or for summary judgment on draft re-amended particulars in audit negligence proceedings.",
+      "outcome": "Lost-sale and loss-of-chance claims struck out; bonus declaration claims identified as seriously flawed but not finally struck out pending possible repleading within a defined timescale.",
+      "ratio": "An auditor's contractual duty to certify true and fair accounts does not extend to liability for a subsequent fall in business goodwill or failure to sell the company; under SAAMCO principles, negligent failure to require GAR provisions may arguably found claims for distributions such as bonuses paid in reliance on overstated surplus, but not for the wider economic losses Equitable claimed from missing hypothetical sales after the Hyman litigation.",
+      "legal_issues": [
+        "Scope of an auditor's duty of care regarding GAR provisions and FFA",
+        "Whether lost-sale and goodwill erosion claims fall within SAAMCO",
+        "Causation and whether directors would have sold or cut bonuses if larger provisions had been insisted upon",
+        "Whether bonus overpayment claims are analogous to unlawful dividend recovery cases",
+        "Admissibility and measure of loss after the House of Lords decision in Hyman"
+      ],
+      "catchwords": [
+        "audit negligence",
+        "guaranteed annuity rates",
+        "SAAMCO",
+        "strike out",
+        "summary judgment",
+        "scope of duty",
+        "terminal bonuses",
+        "Equitable Life"
+      ],
+      "index_terms": [
+        "Equitable Life Assurance Society",
+        "Ernst & Young",
+        "DTBP",
+        "Hyman",
+        "Galoo",
+        "Caparo Industries v Dickman",
+        "Three Rivers v Bank of England (No 3)",
+        "Aneco Re v Johnson & Higgins"
+      ],
+      "linked_authorities": [
+        "Equitable Life Assurance Society v Hyman",
+        "South Australia Asset Management Corporation v York Montague Ltd (SAAMCO)",
+        "Galoo Ltd v Bright Graham Murray",
+        "Caparo Industries Plc v Dickman",
+        "Three Rivers District Council v Bank of England (No 3)",
+        "Coulthard v Neville Russell",
+        "Aneco Re v Johnson & Higgins",
+        "Allied Maples Group v Simmons & Simmons",
+        "Leeds Estate Building and Investment Company v Shepherd",
+        "In re Thomas Gerrard & Son Ltd"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Complex interlocutory judgment with detailed pleaded claims; enrichment focuses on the court's stated conclusions rather than unresolved factual disputes at trial."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/269.json",
+    "status": "done",
+    "notes": "Batch 20 enrichment",
+    "enrichment": {
+      "short_title": "NASS could stop support paid in error to ineligible in-country asylum seeker",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Social security and support",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 95",
+            "section 103",
+            "section 114",
+            "Schedule 8, paragraph 8"
+          ]
+        },
+        {
+          "title": "Asylum Support Regulations 2000 (SI 2000/704)",
+          "provisions": [
+            "Regulation 4",
+            "Regulation 15",
+            "Regulation 18",
+            "Regulation 20",
+            "Regulation 21"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ms Manzana, a Congolese asylum seeker, applied for NASS support in July 2001 using a standard acknowledgment letter altered to show an earlier asylum application date.",
+        "NASS approved support in October 2001 but later discovered she was an in-country applicant excluded from section 95 support by the regulations.",
+        "The Chief Asylum Support Adjudicator allowed her appeal, holding that once support had been granted it could only be discontinued under regulation 20.",
+        "The Secretary of State brought judicial review, arguing a person never eligible for section 95 support was not entitled to continued payment after the error was discovered."
+      ],
+      "procedural_posture": "Judicial review of a Chief Asylum Support Adjudicator decision allowing an appeal against termination of asylum support.",
+      "outcome": "Judicial review granted; the adjudicator's decision quashed and the appeal directed to be dismissed.",
+      "ratio": "Regulation 20 provides exhaustive grounds for discontinuing support only for persons who meet the eligibility criteria of section 95; where a person was never eligible because she was an excluded in-country applicant, NASS was not obliged to continue support after discovering the error, and section 114 together with the statutory scheme assumes support ceases automatically when eligibility criteria are not fulfilled.",
+      "legal_issues": [
+        "Whether regulation 20 is the only route to discontinue asylum support once granted",
+        "Whether a person never eligible under section 95 retains a right to support after mistaken approval",
+        "How section 114 recovery provisions interact with termination of ineligible support",
+        "Whether Rootkin v Kent County Council prevents rescission of support decisions"
+      ],
+      "catchwords": [
+        "NASS",
+        "asylum support",
+        "section 95",
+        "regulation 20",
+        "in-country applicant",
+        "judicial review",
+        "payment by mistake"
+      ],
+      "index_terms": [
+        "Niclette Manzana",
+        "Chief Asylum Support Adjudicator",
+        "standard acknowledgment letter",
+        "Hussain",
+        "Rootkin v Kent County Council",
+        "interim support"
+      ],
+      "linked_authorities": [
+        "R v Asylum Support Adjudicator ex parte Hussain",
+        "Rootkin v Kent County Council"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Statutory scheme and central issue are clearly analysed. Toulson J delivered the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/419.json",
+    "status": "done",
+    "notes": "Batch 20 enrichment",
+    "enrichment": {
+      "short_title": "Crown Court may consecutive summary sentence to either-way committal sentence",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 3",
+            "section 5(1)",
+            "section 6",
+            "section 6(2)",
+            "section 7(1)"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 31",
+            "section 133",
+            "section 133(1)",
+            "section 133(2)"
+          ]
+        },
+        {
+          "title": "Interpretation Act 1978",
+          "provisions": [
+            "Schedule 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "McGuiness pleaded guilty in the magistrates' court to handling stolen goods, triable either way, and driving while disqualified, triable summarily.",
+        "He was committed for sentence to Reading Crown Court under sections 3 and 6 of the 2000 Act.",
+        "The Crown Court sentenced him to 15 months for handling and six months consecutive for disqualified driving, totalling 21 months.",
+        "It was argued that section 7(1) prevented consecutive summary sentences that together exceeded magistrates' aggregate limits under section 133."
+      ],
+      "procedural_posture": "Renewed application for leave to appeal against sentence in the Court of Appeal (Criminal Division).",
+      "outcome": "Renewed application dismissed; the consecutive sentences were held lawful.",
+      "ratio": "Section 7(1) of the Powers of Criminal Courts (Sentencing) Act 2000 limits the Crown Court when sentencing summary offences committed under section 6 to what magistrates could impose for those summary offences alone, but it does not restrict making a section 6 summary sentence consecutive to a section 3 either-way sentence even where the combined total exceeds section 133 magistrates' limits.",
+      "legal_issues": [
+        "Whether the Crown Court could make a summary offence sentence consecutive to an either-way committal sentence",
+        "Whether section 7(1) incorporates section 133 aggregate limits across mixed committals",
+        "How sections 3, 6, and 7 interact on committal for sentence"
+      ],
+      "catchwords": [
+        "committal for sentence",
+        "consecutive sentences",
+        "section 133",
+        "either-way offence",
+        "summary offence",
+        "Crown Court sentencing powers"
+      ],
+      "index_terms": [
+        "McGuiness",
+        "Reading Crown Court",
+        "Judge Playford",
+        "Cattell",
+        "Whitlock",
+        "handling stolen goods",
+        "driving while disqualified"
+      ],
+      "linked_authorities": [
+        "Cattell",
+        "Whitlock"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Short judgment on a discrete statutory construction point with clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/301.json",
+    "status": "done",
+    "notes": "Batch 20 enrichment",
+    "enrichment": {
+      "short_title": "Parenting order upheld in principle but quashed as irrational on facts",
+      "area_of_law": [
+        "Criminal law",
+        "Youth justice",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": [
+            "section 8",
+            "section 8(1)",
+            "section 8(2)",
+            "section 8(3)",
+            "section 8(4)",
+            "section 8(6)",
+            "section 8(7)",
+            "section 9",
+            "section 9(1)",
+            "section 10"
+          ]
+        },
+        {
+          "title": "Powers of the Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 69",
+            "section 137",
+            "section 137(1)"
+          ]
+        },
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": [
+            "section 20"
+          ]
+        },
+        {
+          "title": "Children and Young Persons Act 1933",
+          "provisions": [
+            "section 39"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6",
+            "Article 8",
+            "Article 8(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "M, aged 13, was convicted of wounding after a park attack linked to a long-running neighbour dispute; her mother AM was made subject to a 12-month parenting order and a £30 compensation order.",
+        "AM appealed unsuccessfully to the Inner London Crown Court and then sought judicial review, arguing parenting orders were incompatible with the Convention and irrational in her case.",
+        "The Secretary of State intervened; the court held parenting orders were compatible with Articles 6 and 8 as preventive measures addressing youth crime.",
+        "On the facts, the pre-sentence report opposed a parenting order and M was otherwise of exemplary character, so the parenting order was quashed as irrational though the compensation order stood."
+      ],
+      "procedural_posture": "Application for judicial review of an Inner London Crown Court decision dismissing appeal against a parenting order and section 137 compensation order.",
+      "outcome": "Parenting order quashed on irrationality grounds; section 137 compensation order upheld; sections 8-10 of the Crime and Disorder Act 1998 held compatible with the Convention.",
+      "ratio": "Parenting orders are preventive civil measures designed to reduce youth reoffending and are compatible with Articles 6 and 8 where the statutory conditions are met and the court evaluates desirability in the interests of preventing further offending; however, a parenting order may be quashed as perverse where the youth offending team considered the parent unsuitable, the offence arose from an isolated neighbour dispute, and the child was otherwise exemplary.",
+      "legal_issues": [
+        "Whether parenting orders engage Article 6 and what standard of proof applies",
+        "Whether parenting orders are a necessary and proportionate interference with Article 8",
+        "Whether a parenting order was desirable in the interests of preventing further offending on these facts",
+        "Whether a section 137 compensation order was unreasonable where the parent was not at fault"
+      ],
+      "catchwords": [
+        "parenting order",
+        "judicial review",
+        "Article 8",
+        "Article 6",
+        "youth crime",
+        "compensation order",
+        "irrationality",
+        "Crime and Disorder Act 1998"
+      ],
+      "index_terms": [
+        "AM",
+        "M",
+        "Camberwell Youth Court",
+        "Inner London Crown Court",
+        "Clingham and McCann",
+        "Engel v Netherlands",
+        "Defreitas v Minister of Agriculture",
+        "TA v DPP",
+        "Sheffield Crown Court ex parte Clarkson"
+      ],
+      "linked_authorities": [
+        "Clingham, McCann and others",
+        "Engel v Netherlands (No 1)",
+        "Defreitas v Minister of Agriculture and Fisheries",
+        "Mcintosh v Lord Advocate",
+        "Niemietz v Germany",
+        "Sunday Times v United Kingdom",
+        "Silver v United Kingdom",
+        "International Transport Roth v Secretary of State for the Home Department",
+        "TA v Director of Public Prosecutions",
+        "R v Sheffield Crown Court ex parte Clarkson"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Leading judgment on parenting order compatibility with detailed fact-specific quashing. Source judge metadata appears unreliable."
+      }
+    }
+  }
+]

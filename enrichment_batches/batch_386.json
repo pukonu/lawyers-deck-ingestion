@@ -1,0 +1,600 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2811.json",
+    "status": "needs_review",
+    "notes": "Judges array empty though Pitchford J and Rose LJ allowed the prosecutor's case stated appeal.",
+    "enrichment": {
+      "short_title": "CPS v Bate: in charge and section 5(2) Road Traffic Act 1988",
+      "area_of_law": [
+        "Criminal law",
+        "Road traffic",
+        "Magistrates' courts",
+        "Case stated appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 5(1)(b)",
+            "section 5(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The respondent was found not guilty by Birmingham magistrates of being in charge of a motor vehicle with excess alcohol after drinking at a pub and returning to his parked Ford Focus.",
+        "He sat in the driver's seat with keys but the engine off; his intention was to collect a disabled parking sticker and arrange a taxi home via his wife.",
+        "The justices held the prosecution had failed to prove he intended to take or assert control, and dismissed the information without reaching the statutory defence.",
+        "The prosecutor appealed by case stated under DPP v Watkins guidance on 'in charge'."
+      ],
+      "procedural_posture": "High Court appeal by way of case stated from magistrates' acquittal on a section 5(1)(b) drink-driving charge.",
+      "outcome": "Both questions answered in the negative; the justices' decision was quashed and the case remitted to a different bench for rehearing.",
+      "ratio": "Where the defendant is owner and sitting in the vehicle with keys, he is prima facie in charge; lack of intention to drive is relevant only to the section 5(2) defence on the balance of probabilities, not an ingredient the prosecution must prove to the criminal standard.",
+      "legal_issues": [
+        "Whether the justices correctly applied DPP v Watkins on being 'in charge'",
+        "Whether intention to drive was wrongly treated as part of the prosecution case",
+        "Whether the statutory defence under section 5(2) should have been considered"
+      ],
+      "catchwords": [
+        "in charge",
+        "excess alcohol",
+        "statutory defence",
+        "case stated",
+        "Watkins",
+        "intention to drive"
+      ],
+      "index_terms": [
+        "Road Traffic Act 1988",
+        "magistrates",
+        "Ford Focus",
+        "Birmingham",
+        "Stone's Justices' Manual",
+        "likelihood of driving"
+      ],
+      "linked_authorities": [
+        "DPP v Watkins [1989] QB 821"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment and remittal order are clear though judge metadata is missing."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1761.json",
+    "status": "needs_review",
+    "notes": "Judges array empty though Chadwick, Latham and Swinton Thomas LJJ dismissed the appeal.",
+    "enrichment": {
+      "short_title": "Timmins v Conn: IVA supervisor and onerous property exclusion",
+      "area_of_law": [
+        "Insolvency",
+        "Individual voluntary arrangements",
+        "Trusts",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 263(3)",
+            "Part 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Roger Fogg's creditors approved an IVA supervised by Stephen Conn; the matrimonial home at 24 Hunters Field was modified into the arrangement after initially being excluded.",
+        "A NatWest second charge later eliminated equity; the supervisor treated the property as excluded under clause 6.2.3 without formally exercising that power.",
+        "Mr Fogg remortgaged and used released funds to pay voluntary contributions while the supervisor completed the IVA as successful.",
+        "Creditor Mr Timmins applied under section 263(3) after Fogg was removed as a party to the proceedings."
+      ],
+      "procedural_posture": "Appeal from a Chancery judge's refusal to set aside completion of an individual voluntary arrangement and exclusion of the debtor's home share.",
+      "outcome": "Appeal dismissed; the section 263 application against the supervisor alone was misconceived once relief against the debtor was abandoned.",
+      "ratio": "Clause 6.2.3 of an IVA does not empower a supervisor unilaterally to release property originally brought into the arrangement; exclusion required variation under paragraph 17.1 with debtor and creditor consent, and no valid exclusion occurred here.",
+      "legal_issues": [
+        "Construction of 'onerous property' in IVA clause 6.2.3",
+        "Whether the supervisor validly excluded the debtor's half share in the home",
+        "Whether declarations or compensation could be granted without the debtor as party",
+        "Whether the IVA had completed successfully"
+      ],
+      "catchwords": [
+        "individual voluntary arrangement",
+        "supervisor",
+        "onerous property",
+        "section 263",
+        "matrimonial home",
+        "negative equity"
+      ],
+      "index_terms": [
+        "Roger Fogg",
+        "Stephen Conn",
+        "Hunters Field",
+        "NatWest second charge",
+        "declaration of trust",
+        "Johnson v Davies"
+      ],
+      "linked_authorities": [
+        "Johnson v Davies [1998] 3 WLR 1299",
+        "King v Anthony [1998] 2 BCLC 517"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed insolvency reasoning is complete though judges metadata is missing."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1645.json",
+    "status": "needs_review",
+    "notes": "Interlocutory permission ruling; judges array empty though Chadwick LJ presided.",
+    "enrichment": {
+      "short_title": "Jemma Trust v KBL: permission to cross-appeal on tax counsel advice",
+      "area_of_law": [
+        "Professional negligence",
+        "Tax law",
+        "Trusts and estates",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Etherton J held Kippax Beaumont Lewis negligent over a 1997 assent vesting the Hulton Land Fund and rejected claims that tax counsel had expressly advised executing the assent.",
+        "KBL sought permission to cross-appeal and to adduce fresh evidence from Robert Venables QC, deliberately not called at trial.",
+        "The attendance note of the November 1996 consultation did not expressly record assent advice, though attendees believed it had been given.",
+        "Chadwick LJ had granted permission on paper for the reasonableness ground but not the express-advice ground."
+      ],
+      "procedural_posture": "Renewed application for permission to cross-appeal and to adduce fresh evidence in a pending professional negligence appeal.",
+      "outcome": "Application to adduce Venables' evidence dismissed; permission to cross-appeal varied to include ground 3 on interpretation of the conference note; costs ordered accordingly.",
+      "ratio": "Parties who deliberately omit witness evidence at trial cannot routinely adduce it on appeal; but where permission exists to argue that reliance on counsel's advice was reasonable, the court may also permit challenge to the judge's reading of the contemporary attendance note.",
+      "legal_issues": [
+        "Whether Venables QC's evidence should be admitted on appeal",
+        "Whether the judge erred in finding no express assent advice was given",
+        "Whether it was reasonable for advisers to believe assent advice had been given"
+      ],
+      "catchwords": [
+        "professional negligence",
+        "tax counsel",
+        "assent",
+        "fresh evidence",
+        "permission to appeal",
+        "attendance note"
+      ],
+      "index_terms": [
+        "Jemma Trust",
+        "Hulton Land Fund",
+        "Robert Venables QC",
+        "Robert Grierson",
+        "executors",
+        "cross-appeal"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Interlocutory procedural ruling is clear though judge metadata is incomplete."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/2676.json",
+    "status": "needs_review",
+    "notes": "Summary truncated; judges list cited Law Lords not the sitting judge; preliminary liability issues only.",
+    "enrichment": {
+      "short_title": "SCT v Trafigura: fuel oil blending contracts and repudiatory breach",
+      "area_of_law": [
+        "Commercial law",
+        "Sale of goods",
+        "Contract law",
+        "Oil trading"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "South Caribbean Trading agreed to sell 484,000 barrels of fuel oil to Trafigura under contract 5536 linked to companion contracts for wet fuel oil blendstock and cutter.",
+        "SCT sought to deliver bought-in conforming fuel oil rather than product blended exclusively from Trafigura-supplied components.",
+        "Trafigura refused delivery in March 2001; SCT claimed to accept that refusal as repudiation after demanding confirmation by a deadline.",
+        "Moore-Bick J ordered trial of preliminary issues on delivery source, delivery dates, extension and acceptance of repudiation."
+      ],
+      "procedural_posture": "Commercial Court determination of preliminary issues on liability in a fuel oil sale dispute.",
+      "outcome": "On agreed assumptions, SCT could not deliver bought-in fuel oil under contract 5536; delivery time was varied to June 2001; Trafigura repudiated and SCT validly accepted that repudiation under Glencore principles.",
+      "ratio": "Clause 8 priced fuel oil by reference to cutter and blendstock actually used in the delivered blend, so contract 5536 required delivery of product blended from components supplied under contract 5508-2 unless Trafigura consented otherwise; contractual correspondence could vary delivery dates and a deadline-bearing notice could still accept repudiation.",
+      "legal_issues": [
+        "Whether SCT was obliged to deliver fuel oil derived only from contract 5508-2 components",
+        "Whether the delivery date was varied or extended to June 2001",
+        "Whether Trafigura repudiated by refusing bought-in delivery",
+        "Whether SCT effectively accepted repudiation by its 23 March 2001 communications"
+      ],
+      "catchwords": [
+        "fuel oil",
+        "blendstock",
+        "repudiatory breach",
+        "preliminary issues",
+        "contract variation",
+        "acceptance of repudiation"
+      ],
+      "index_terms": [
+        "Trafigura Beheer",
+        "BORCO",
+        "contract 5536",
+        "contract 5508-2",
+        "WFOBS",
+        "Glencore"
+      ],
+      "linked_authorities": [
+        "Glencore Grain Rotterdam BV v Tradigrain SA [2002] EWCA Civ 548",
+        "Taylor v Oakes Roncoroni & Co (1922) 127 LT 267"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Long preliminary judgment; source summary truncated and judge metadata lists cited authorities."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/2674.json",
+    "status": "needs_review",
+    "notes": "Judges metadata includes a party (Lady Houstoun-Boswall) and cited former Law Lords; reserved judgment on freezing-order security.",
+    "enrichment": {
+      "short_title": "Technocrats v Fredic: Mareva security and charge over solicitor-held funds",
+      "area_of_law": [
+        "Civil procedure",
+        "Commercial law",
+        "Insolvency",
+        "Injunctions"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "Schedule B1 paragraph 43(6)"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 61"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Technocrats claimed commission on Hampton Court House after Field J held Fredic must accept a qualifying \u00a37m offer; Fredic refused and was sued.",
+        "A freezing order required \u00a3700,000 security; by consent GSC Solicitors held that sum pending further order when the injunction was discharged.",
+        "Fredic entered administration in November 2004 while Technocrats pursued summary judgment and argued it had a preferential charge over the held money.",
+        "The dispute turned on whether standard freezing-order 'security' language created proprietary rights in an insolvency."
+      ],
+      "procedural_posture": "Queen's Bench hearing on permission for insolvency administration proceedings, summary judgment, and the status of funds held under a consent discharge of a freezing order.",
+      "outcome": "Summary judgment refused; Technocrats had no security interest in the \u00a3700,000; GSC to pay the money to the administrator subject to an undertaking on further dealings.",
+      "ratio": "Standard Mareva security provisions and consent undertakings protect against dissipation of assets in personam and do not make the claimant a secured creditor with priority in administration unless the order obliges satisfaction of any judgment from the fund, following Cretanor and Flightline.",
+      "legal_issues": [
+        "Whether paragraph 16 security in a freezing order creates a charge",
+        "Whether consent solicitor-held funds gave Technocrats priority over the administrator",
+        "Whether permission should be granted for summary judgment during administration",
+        "Whether further freezing relief against individual defendants remained appropriate"
+      ],
+      "catchwords": [
+        "freezing order",
+        "Mareva",
+        "security",
+        "administration",
+        "equitable charge",
+        "consent order"
+      ],
+      "index_terms": [
+        "Hampton Court House",
+        "GSC Solicitors",
+        "commission agreement",
+        "Flightline",
+        "Cretanor",
+        "Palmer v Carey"
+      ],
+      "linked_authorities": [
+        "Cretanor Maritime Co Ltd v Irish Marine Management Ltd [1978] 1 WLR 966",
+        "Flightline Ltd v Edwards [2003] EWCA Civ 63",
+        "Nippon Yusen Kaisha v Karageorgis [1975] 1 WLR 1093"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Core security analysis is detailed though judge metadata is corrupted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/3387.json",
+    "status": "needs_review",
+    "notes": "Summary truncated mid-sentence; judges list only Davis J though Laws LJ also sat.",
+    "enrichment": {
+      "short_title": "R v Marcus: unsafe convictions after unmasked video identification",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "PACE Code D",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78",
+            "Code D"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Marcus was convicted of seven knifepoint cash-machine robberies and one false imprisonment after a trial before Judge McCreath.",
+        "Police used masked then unmasked video identification compilations after failing to find eight sufficiently similar volunteers for the suspect's age and grey beard.",
+        "The unmasked procedure was adopted without proper notice, contrary to Code D, and Inspector Hunt accepted it was blatantly unfair.",
+        "The trial judge admitted the evidence as a case-specific transparency solution, but the Court of Appeal condemned the evasion of the Code."
+      ],
+      "procedural_posture": "Court of Appeal criminal appeal against convictions relying on video identification evidence.",
+      "outcome": "Appeal allowed in part; convictions quashed on counts 4, 12, 14, 15, 16 and 17; convictions on counts 8 and 10 upheld on independent DNA and identification evidence.",
+      "ratio": "A deliberate post-hoc unmasked video identification procedure that necessarily violates Code D must be excluded; unsafe convictions result where the flawed identification was essential, but unaffected counts supported by strong independent evidence need not be quashed.",
+      "legal_issues": [
+        "Admissibility of unmasked video identification after failed masked procedure",
+        "Whether Code D violations rendered convictions unsafe",
+        "Whether remaining convictions were contaminated by the flawed procedure"
+      ],
+      "catchwords": [
+        "video identification",
+        "Code D",
+        "section 78",
+        "unsafe conviction",
+        "masked images",
+        "robbery"
+      ],
+      "index_terms": [
+        "Birmingham Crown Court",
+        "Inspector Hunt",
+        "Birchfield Road",
+        "McCreath",
+        "knifepoint robbery",
+        "contamination"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Appellate reasoning is complete though source summary is truncated and judge metadata incomplete."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/3209.json",
+    "status": "needs_review",
+    "notes": "Judges array empty though Kennedy LJ delivered the Attorney General's reference.",
+    "enrichment": {
+      "short_title": "AG Ref No 113/2004: lenient sentence for hammer robbery of elderly couple",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Robbery",
+        "Attorney General references"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dean Follows pleaded guilty to robbery, two Valium supply offences and possessing a lock-knife in a public place.",
+        "He struck a 69-year-old man repeatedly with a claw hammer in the victims' home after a spontaneous confrontation over tobacco, causing skull fractures.",
+        "He grabbed the elderly partner's handbag and left substantial blood injuries and psychological harm; he confessed shortly after arrest.",
+        "The Crown Court sentenced him to five years for robbery concurrent with six months on the other counts."
+      ],
+      "procedural_posture": "Attorney General's reference under section 36 alleging an unduly lenient custodial sentence.",
+      "outcome": "Leave granted but the court declined to increase the sentence; five years was lenient but not unduly lenient given the guilty plea, remorse, drug rehabilitation and double jeopardy.",
+      "ratio": "Even where residential robbery of vulnerable elderly victims with a weapon warrants a much higher starting point after trial, a substantial discount for guilty plea, genuine remorse and double jeopardy may justify leaving a lenient but not unduly lenient sentence undisturbed.",
+      "legal_issues": [
+        "Appropriate custodial starting point for spontaneous home robbery with a hammer",
+        "Effect of guilty plea and remorse on sentence level",
+        "Whether double jeopardy should prevent increase on reference"
+      ],
+      "catchwords": [
+        "Attorney General's reference",
+        "unduly lenient",
+        "robbery",
+        "elderly victims",
+        "hammer",
+        "double jeopardy"
+      ],
+      "index_terms": [
+        "Dean Follows",
+        "Llanelli",
+        "Swansea Crown Court",
+        "Valium",
+        "skull fracture",
+        "Pegg and Martin"
+      ],
+      "linked_authorities": [
+        "Attorney General's Reference Nos 32 and 33 of 1995 (R v Pegg and Martin)",
+        "Attorney General's Reference No 89 of 1999 (R v Farrow)"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Reference disposition is fully reasoned though judge metadata is missing."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2730.json",
+    "status": "needs_review",
+    "notes": "Judges metadata includes cited Law Lords; complex interim judgment on wardship and removal directions with postscript only partly concluding relief.",
+    "enrichment": {
+      "short_title": "R (Anton) v SSHD: asylum removal, wardship and family jurisdiction limits",
+      "area_of_law": [
+        "Immigration law",
+        "Family law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 8",
+            "Part II"
+          ]
+        },
+        {
+          "title": "Immigration Act 1971",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The Anton family from Sri Lanka faced removal after the father's asylum appeal failed; wardship was commenced over Robinson Anton shortly before a scheduled flight.",
+        "Mrs Bollen, whose son was Robinson's close friend, sought residence orders and argued family proceedings were not a device to frustrate removal.",
+        "The Home Office pursued removal while family proceedings continued and did not disclose pending removal directions when a hearing was vacated in September 2004.",
+        "Munby J sat simultaneously in judicial review and family proceedings concerning overlapping relief."
+      ],
+      "procedural_posture": "Concurrent family wardship/residence proceedings and judicial review of removal directions with interim injunctive relief.",
+      "outcome": "Family proceedings were not to be summarily dismissed and should proceed urgently to trial; judicial review permission applications were adjourned; Bodey J's wardship-based restraint was discharged and interim relief extended pending permission decisions; IND non-disclosure was strongly criticised.",
+      "ratio": "Family courts cannot by wardship or section 8 orders restrain the Secretary of State's immigration removal powers, but genuine welfare disputes may proceed while immigration decisions remain subject to separate public-law review; fairness requires disclosure of removal directions when adjournment of related proceedings is under discussion.",
+      "legal_issues": [
+        "Whether family proceedings were an abuse of process to delay removal",
+        "Whether wardship could restrain removal of an immigration-controlled child",
+        "Lawfulness of removal directions while family and JR proceedings were pending",
+        "Whether the IND unfairly withheld notice of removal directions from parties"
+      ],
+      "catchwords": [
+        "wardship",
+        "removal directions",
+        "asylum",
+        "residence order",
+        "abuse of process",
+        "immigration"
+      ],
+      "index_terms": [
+        "Robinson Anton",
+        "Sebastian Anton",
+        "Dawn Bollen",
+        "Teesside",
+        "ex p T",
+        "Re A asylum seekers"
+      ],
+      "linked_authorities": [
+        "R v Secretary of State for the Home Department ex p T [1995] 1 FLR 293",
+        "Re A (Care Proceedings: Asylum Seekers) [2003] EWHC 1086 (Fam)",
+        "R (Anufrijeva) v Secretary of State for the Home Department [2003] UKHL 36"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Detailed interim reasoning though judge metadata is partly wrong and final relief is not fully set out at file end."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2861.json",
+    "status": "needs_review",
+    "notes": "Summary truncated; judges array empty though Collins J disposed of the case stated application.",
+    "enrichment": {
+      "short_title": "Kent CC v HSE: PUWER guard availability on post-hole borer appeal",
+      "area_of_law": [
+        "Health and safety",
+        "Employment law",
+        "Administrative law",
+        "Magistrates' courts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Provision and Use of Work Equipment Regulations 1998",
+          "provisions": [
+            "regulation 11(1)(a)",
+            "regulation 11(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Kent County Council was convicted of failing to prevent access to dangerous machinery after employee Jack Lane was injured by an unguarded PTO shaft on a post-hole borer.",
+        "The auger had been supplied with a guard but none was fitted or available at the depot when the equipment left for the site.",
+        "The council had issued training and a memorandum requiring guarded PTO use, but magistrates found no guard was available prior to the accident.",
+        "The council applied to remit the case stated to annex evidence challenging those factual findings."
+      ],
+      "procedural_posture": "High Court application to remit a case stated and, by consent, final disposal of a magistrates' appeal on PUWER regulation 11.",
+      "outcome": "Application refused; case stated withdrawn; council ordered to pay HSE costs subject to assessment.",
+      "ratio": "On regulation 11 the employer must provide effective measures to prevent access to dangerous parts; a finding that no PTO guard was available at the depot at the material time was open to magistrates and defeats the prosecution case even if employees also breached instructions.",
+      "legal_issues": [
+        "Whether magistrates were entitled to find no guard was available at the depot",
+        "Whether the correct test was guard availability rather than onsite fitting",
+        "Whether employee dereliction prevented the availability finding",
+        "Whether training confusion findings affected the outcome"
+      ],
+      "catchwords": [
+        "PUWER",
+        "work equipment",
+        "PTO guard",
+        "case stated",
+        "health and safety",
+        "absolute offence"
+      ],
+      "index_terms": [
+        "Jack Lane",
+        "post hole borer",
+        "Sevenoaks magistrates",
+        "Colin Slattery",
+        "grounds maintenance",
+        "regulation 11"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Disposal on agreed facts is clear though source summary is truncated and judge metadata missing."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1768.json",
+    "status": "needs_review",
+    "notes": "Interlocutory permission application; judges array empty though Swinton Thomas LJ refused permission.",
+    "enrichment": {
+      "short_title": "Render v Whitrod: permission appeal on historical Australian abuse claim",
+      "area_of_law": [
+        "Civil procedure",
+        "Conflict of laws",
+        "Tort law",
+        "Abuse of process"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mrs Render, originally from Germany, claimed she was abducted and raped by Australian Commonwealth Police Commissioner Raymond Whitrod in the 1960s.",
+        "She alleged forced abortion of twins, deportation from Australia and prior unsuccessful proceedings on the same allegations.",
+        "Judge Walton struck out the claim as having no reasonable grounds and as an abuse of process; permission to appeal was refused.",
+        "She renewed the application orally in the Court of Appeal, arguing Crown employment made the claim justiciable in England."
+      ],
+      "procedural_posture": "Renewed application for permission to appeal against strike-out of tort claims relating to events in Australia.",
+      "outcome": "Permission refused; even if any claim existed it could only be pursued in Australia and the English proceedings were an abuse of process.",
+      "ratio": "Alleged crimes and assaults committed in Australia by an Australian public official are not justiciable in English courts merely because the defendant is said to be a Crown employee; stale foreign tort claims with no supporting evidence and prior litigation are properly struck out as abusive.",
+      "legal_issues": [
+        "Whether English courts had jurisdiction over 1960s events in Australia",
+        "Whether the claim had any reasonable prospect of success",
+        "Whether the proceedings were an abuse of process"
+      ],
+      "catchwords": [
+        "permission to appeal",
+        "strike out",
+        "abuse of process",
+        "foreign tort",
+        "jurisdiction",
+        "historical abuse"
+      ],
+      "index_terms": [
+        "Karin Render",
+        "Raymond Whitrod",
+        "Commonwealth Police Commissioner",
+        "Newcastle District Registry",
+        "Judge Walton",
+        "Australia"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Short permission ruling is complete though judge metadata is missing."
+      }
+    }
+  }
+]

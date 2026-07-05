@@ -1,0 +1,690 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/927.json",
+    "status": "done",
+    "notes": "Full SEN tribunal appeal on waking-day provision and tribunal clarity; judges metadata empty but judgment text is complete.",
+    "enrichment": {
+      "short_title": "SEN tribunal appeal on waking-day residential provision",
+      "area_of_law": [
+        "Education law",
+        "Special educational needs",
+        "Administrative law",
+        "Tribunal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Education Act 1996",
+          "provisions": [
+            "section 324",
+            "section 326"
+          ]
+        },
+        {
+          "title": "Tribunals and Inquiries Act 1992",
+          "provisions": [
+            "section 11"
+          ]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": [
+            "section 55(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Parents of a boy with autistic spectrum disorder and moderate learning difficulties appealed a SEND Tribunal decision naming St Luke's day school rather than residential Purbeck View.",
+        "The Tribunal amended parts of the statement but rejected the parents' case that special educational programmes were required throughout the waking day.",
+        "Moses J dismissed the section 11 appeal; the Court of Appeal granted permission on narrow grounds concerning tribunal reasoning and alleged agreement.",
+        "The central dispute was whether consistency of approach across settings sufficed or residential waking-day curriculum was required."
+      ],
+      "procedural_posture": "Second appeal to the Court of Appeal from Moses J's refusal of permission to appeal against a SEND Tribunal decision under section 11 of the Tribunals and Inquiries Act 1992.",
+      "outcome": "Appeal dismissed; the Tribunal made no error of law, acted fairly, and was entitled to require consistency of approach rather than waking-day educational programmes at home.",
+      "ratio": "Where a tribunal's decision is read as a whole, it may lawfully distinguish consistency of approach across home and school from an obligation to provide special educational programmes throughout the waking day; a tribunal need not specify every detail of non-school provision once it finds needs can be met at the named day school.",
+      "legal_issues": [
+        "Whether the SEND Tribunal's decision was sufficiently clear under the London Borough of Bromley v SENT test",
+        "Whether the Tribunal errored by treating agreed amendments as wider than the parties had agreed",
+        "Whether failure to specify out-of-school waking-day provision was an error of law",
+        "Whether this was a second appeal requiring section 55(1) Access to Justice Act criteria"
+      ],
+      "catchwords": [
+        "special educational needs",
+        "statement of SEN",
+        "waking day curriculum",
+        "residential placement",
+        "SEND Tribunal",
+        "consistency of approach"
+      ],
+      "index_terms": [
+        "autistic spectrum disorder",
+        "St Luke's School",
+        "Purbeck View School",
+        "Hertfordshire County Council",
+        "section 324 Education Act 1996",
+        "tribunal clarity"
+      ],
+      "linked_authorities": [
+        "London Borough of Bromley v SENT [1999] ELR 260",
+        "L v Clarke and Somerset County Council [1998] ELR 129",
+        "R(FJ) v Cambridgeshire County Council [2002] EWHC 2391 Admin",
+        "E v London Borough of Newham and SENT [2003] EWCA Civ 09"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Outcome, statutory framework, and tribunal reasoning are explicit throughout Clarke LJ's judgment. Empty judges array in source metadata does not affect substantive enrichment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1502.json",
+    "status": "needs_review",
+    "notes": "Substantive warehouse theft judgment is complete, but judges metadata lists multiple House of Lords names incorrectly alongside Gross J.",
+    "enrichment": {
+      "short_title": "Warehouse theft: BIFA limitation clause and UCTA reasonableness",
+      "area_of_law": [
+        "Commercial law",
+        "Bailment",
+        "Contract law",
+        "Limitation of liability",
+        "Freight forwarding"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Unfair Contract Terms Act 1977",
+          "provisions": [
+            "section 3",
+            "section 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "About 25,738 Samsung mobile telephones were stolen from Frans Maas's Hayes warehouse on 10 February 2002.",
+        "Samsung submitted to summary judgment on unpaid invoices; the trial concerned Samsung's counterclaim exceeding £2 million.",
+        "The theft appeared to be an inside job exploiting lax security, including widely shared alarm codes and door keys.",
+        "Frans Maas accepted bailment on BIFA standard terms with a £100 per tonne limitation clause."
+      ],
+      "procedural_posture": "Trial of Samsung's counterclaim after Frans Maas obtained summary judgment on its unpaid service invoices.",
+      "outcome": "Frans Maas was liable for the theft but entitled to limit liability under clause 27(A) of the BIFA terms, which satisfied UCTA reasonableness; survey fees were also within the limitation.",
+      "ratio": "A broadly worded commercial limitation clause in BIFA terms, read in context, may cap liability for employee wilful default as well as negligence where parties of equal bargaining power allocate risk by weight; fraud in the making of a contract remains distinct from deliberate wrongdoing in performance.",
+      "legal_issues": [
+        "Whether BIFA or UKWA standard terms governed the bailment",
+        "Whether an oral collateral contract required on-site security guards",
+        "Whether the theft was an inside job and Frans Maas was vicariously liable",
+        "Whether clause 27(A) extended to employee wilful default",
+        "Whether the limitation clause satisfied UCTA reasonableness"
+      ],
+      "catchwords": [
+        "warehouse bailment",
+        "inside job",
+        "BIFA terms",
+        "limitation of liability",
+        "vicarious liability",
+        "UCTA reasonableness"
+      ],
+      "index_terms": [
+        "Samsung mobile telephones",
+        "Frans Maas",
+        "freight forwarder",
+        "clause 27(A)",
+        "£100 per tonne",
+        "Securicor",
+        "Ailsa Craig"
+      ],
+      "linked_authorities": [
+        "Securicor Express Ltd v Electronic Data Processing plc [1984] 1 WLR 446",
+        "Ailsa Craig Fishing Co Ltd v Malvern Fishing Co Ltd [1982] 1 WLR 964",
+        "HIH Casualty and General Insurance Ltd v Chase Manhattan Bank [2003] UKHL 6",
+        "Granville Oil and Chemicals Ltd v Davis Turner and Co Ltd [2003] EWCA Civ 508"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Core liability and limitation conclusions are clear in the judgment. Judges metadata corruption warrants needs_review despite complete full text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1797.json",
+    "status": "done",
+    "notes": "CCRC referral on fresh psychiatric evidence for diminished responsibility; full judgment with clear quashing and retrial order.",
+    "enrichment": {
+      "short_title": "CCRC murder referral: unsafe conviction and retrial ordered",
+      "area_of_law": [
+        "Criminal law",
+        "Appeal against conviction",
+        "Diminished responsibility",
+        "Mental health evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 23"
+          ]
+        },
+        {
+          "title": "Homicide Act 1957",
+          "provisions": []
+        },
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Samra was convicted in 1995 of murdering his wife Kulvinder Kaur Samra after a domestic confrontation involving a ceremonial weapon.",
+        "At trial the live issue was provocation; Dr Winton's personality disorder evidence was excluded and diminished responsibility was not pursued.",
+        "The CCRC referred the case after fresh reports from Dr Pratt and Dr Basson suggested abnormality of mind substantially impairing responsibility.",
+        "Further psychiatric evidence from Dr Holloway and Dr Bond was divided on whether diminished responsibility was made out."
+      ],
+      "procedural_posture": "Reference by the Criminal Cases Review Commission to consider safety of conviction in light of additional medical evidence not available at trial.",
+      "outcome": "Murder conviction quashed and retrial ordered; fresh evidence admitted under section 23; sentence appeal on a later false imprisonment conviction adjourned.",
+      "ratio": "Where fresh psychiatric evidence opens a diminished responsibility defence that was not before the jury, the court may admit the evidence without oral testimony and quash the conviction as unsafe when the jury's verdict cannot be assumed.",
+      "legal_issues": [
+        "Whether fresh psychiatric reports should be received under section 23 Criminal Appeal Act 1968",
+        "Whether the conviction remained safe despite divided expert evidence",
+        "Whether a retrial was in the interests of justice",
+        "Adjournment of a pending sentence appeal concerning a later false imprisonment conviction"
+      ],
+      "catchwords": [
+        "CCRC reference",
+        "unsafe conviction",
+        "diminished responsibility",
+        "fresh psychiatric evidence",
+        "retrial",
+        "provocation"
+      ],
+      "index_terms": [
+        "personality disorder",
+        "learning disability",
+        "Stafford Crown Court",
+        "section 23 Criminal Appeal Act 1968",
+        "Rampton Hospital",
+        "murder retrial"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Court's reasoning on admission of fresh evidence and quashing is direct. Empty judges metadata does not impede enrichment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1831.json",
+    "status": "done",
+    "notes": "Attorney General's unduly lenient sentence reference with detailed sentencing analysis and clear substituted terms.",
+    "enrichment": {
+      "short_title": "Unduly lenient sentence for historical child indecent assaults",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Sexual offences",
+        "Attorney General's reference"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        },
+        {
+          "title": "Sexual Offences Act 1956",
+          "provisions": [
+            "section 15(1)"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 86"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The offender pleaded guilty to 45 counts of indecent assault on three boys aged 8 to 13 between the mid-1970s and early 1980s.",
+        "Carlisle Crown Court imposed five years' imprisonment on each count concurrent, with indefinite disqualification from working with children.",
+        "Offences involved grooming, threats, presents, and frequent masturbation and oral sex over about five years per victim.",
+        "The offender was aged 65 at sentence with no previous convictions but showed limited remorse."
+      ],
+      "procedural_posture": "Attorney General's reference under section 36 Criminal Justice Act 1988 alleging unduly lenient sentences.",
+      "outcome": "Reference allowed; five-year concurrent sentences quashed and substituted with six years on each count concurrent after double jeopardy allowance.",
+      "ratio": "Where an offender deliberately groomed three very young victims over prolonged periods causing grave lifelong harm, a total sentence below seven years at first instance for such historical child sexual abuse may be unduly lenient even allowing for age and guilty pleas.",
+      "legal_issues": [
+        "Whether five years adequately reflected aggravating features of prolonged grooming of three young victims",
+        "Application of recent Attorney General's References and R v Sweeney/R v Burton-Barri guidance",
+        "Weight to be given to offender age, staleness, previous good character, and guilty plea",
+        "Appropriate increase on reference allowing for double jeopardy"
+      ],
+      "catchwords": [
+        "unduly lenient sentence",
+        "Attorney General's reference",
+        "indecent assault",
+        "historical child abuse",
+        "grooming",
+        "concurrent sentences"
+      ],
+      "index_terms": [
+        "Attorney General's Reference No 53 of 2004",
+        "Carlisle Crown Court",
+        "R v Millberry",
+        "R v Sweeney",
+        "R v Burton-Barri",
+        "double jeopardy"
+      ],
+      "linked_authorities": [
+        "R v Millberry [2003] Cr App R 25",
+        "R v Sweeney [1998] 2 Cr App R (S) 43",
+        "R v Victor Burton-Barri [1999] 2 Cr App R (S) 253",
+        "Attorney General's Reference Nos 91, 119 and 120 of 2002 [2003] 2 Cr App R (S) 338"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Aggravating features, authorities, and substituted sentence are all stated explicitly."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/975.json",
+    "status": "done",
+    "notes": "Lease forfeiture appeal on section 146 reasonable time; truncated summary in source metadata but full judgment present.",
+    "enrichment": {
+      "short_title": "Section 146 notice: premature forfeiture after nuisance breach",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Leasehold",
+        "Property law",
+        "Housing nuisance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": [
+            "section 146"
+          ]
+        },
+        {
+          "title": "Housing Act 1996",
+          "provisions": [
+            "section 207"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Blake's headlease of Flat 322 Courtney Lodge was forfeited for breach of a nuisance covenant after subletting to temporary housing occupants.",
+        "Occupants caused persistent nuisance from June 2003; Courtney Lodge served a section 146 notice on 2 September 2003.",
+        "Mr Blake wrote on 8 September instructing Atlantic Lodge to terminate the tenancy; possession was ordered on 13 January 2004.",
+        "Proceedings were issued on 2 October 2003 before the breach was remedied."
+      ],
+      "procedural_posture": "Appeal with permission from Bow County Court order granting relief from forfeiture conditional on payment of costs.",
+      "outcome": "Appeal allowed; Recorder's order set aside because Mr Blake was not afforded reasonable time under section 146(1) before forfeiture proceedings commenced.",
+      "ratio": "Where a remediable nuisance breach is brought to an end before possession proceedings are issued, forfeiture is premature if the tenant was not given reasonable time after service of a valid section 146 notice; four to six working days to obtain advice and act was not excessive.",
+      "legal_issues": [
+        "Whether the tenant 'suffered' nuisance within clause 4(ix) by failing to exert influence without legal power to prevent it",
+        "Whether the section 146 notice sufficiently particularised the breach",
+        "Whether the breach was remediable and remedied before proceedings",
+        "Whether reasonable time under section 146(1) had elapsed"
+      ],
+      "catchwords": [
+        "forfeiture",
+        "section 146 notice",
+        "nuisance covenant",
+        "relief from forfeiture",
+        "sub-underlease",
+        "reasonable time"
+      ],
+      "index_terms": [
+        "Courtney Lodge",
+        "temporary housing",
+        "Atlantic Lodge",
+        "Fox v Jolly",
+        "Barton v Reed",
+        "sufferance covenant"
+      ],
+      "linked_authorities": [
+        "Fox v Jolly [1916] 1 AC 1",
+        "Barton v Reed [1932] 1 Ch 362"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Appeal succeeded solely on section 146 timing; sufferance and notice validity reasoning is detailed. Summary field truncation is immaterial."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/857.json",
+    "status": "needs_review",
+    "notes": "Complex Shari'a succession and anti-suit appeal is fully reported, but judges metadata includes impossible names such as Lord Goff alongside sitting judges.",
+    "enrichment": {
+      "short_title": "Al-Bassam estate: anti-suit injunction and interim disclosure",
+      "area_of_law": [
+        "Conflict of laws",
+        "Private international law",
+        "Probate and succession",
+        "Injunctions",
+        "Islamic law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Lesley Al-Bassam claimed entitlement to wealthy Saudi national Abdulaziz Al-Bassam's estate under a 2001 will leaving her the whole estate.",
+        "Half-brother Abdullah contested marriage, domicile, due execution, and substantive validity under Shari'a law and commenced parallel proceedings in Riyadh.",
+        "The claimant sought interim disclosure and freezing orders; the defendant sought preliminary issues on Islamic law validity.",
+        "Lewison J granted an anti-suit injunction restraining Saudi proceedings; Hart J had refused interim asset relief."
+      ],
+      "procedural_posture": "Appeals concerning refusal of interim disclosure/restraint (Hart J) and grant of anti-suit injunction (Lewison J) in consolidated probate and succession claims.",
+      "outcome": "Anti-suit injunction set aside as indefinite but replaced with interim restraint pending trial of due execution and domicile; appeal allowed on amendment to plead constructive trusteeship but interim asset orders refused.",
+      "ratio": "Questions of Shari'a substantive validity need not be tried as preliminary issues before threshold due execution and domicile issues; an English court should not permanently restrain foreign proceedings solely because of concerns about future recognition, but limited interim restraint may protect English process.",
+      "legal_issues": [
+        "Whether Islamic law preliminary issues should be tried before domicile and execution",
+        "Whether interim disclosure and freezing orders should be granted pending trial",
+        "Whether anti-suit injunction against Saudi Shari'a proceedings was justified",
+        "Whether the claimant should be permitted to amend to allege constructive trusteeship",
+        "Application of Dicey Rule 131 on recognition of foreign succession judgments"
+      ],
+      "catchwords": [
+        "Shari'a succession",
+        "anti-suit injunction",
+        "domicile",
+        "will validity",
+        "constructive trust",
+        "forum dispute"
+      ],
+      "index_terms": [
+        "Saudi Arabia",
+        "Riyadh Shari'a court",
+        "Dicey Rule 131",
+        "Pelligrini v Italy",
+        "Airbus Industrie v Patel",
+        "ad colligenda bona"
+      ],
+      "linked_authorities": [
+        "Société Nationale Industrielle Aerospatiale v Lee Kwee Jak [1987] 1 AC 871",
+        "Airbus Industrie GIE v Patel [1999] 1 AC 119",
+        "Pelligrini v Italy (2002) 35 EHRR 2",
+        "Lubbe v Cape plc [2000] 1 WLR 1545"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Disposal and case management reasoning are clear. Corrupted judges metadata requires needs_review flag."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/845.json",
+    "status": "needs_review",
+    "notes": "Important Children Act open-justice appeal is complete, but judges metadata lists Lord Woolf, Lord Bingham and incomplete entries alongside Thorpe LJ.",
+    "enrichment": {
+      "short_title": "Children Act hearings in public and section 97 compatibility",
+      "area_of_law": [
+        "Family law",
+        "Human rights",
+        "Children law",
+        "Court procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 97"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Children and Young Persons Act 1933",
+          "provisions": [
+            "section 39"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Pelling sought public trial and judgment in his Children Act residence proceedings and challenged privacy rules as incompatible with Articles 6 and 10 ECHR.",
+        "Bennett J dismissed the joint residence application and refused declarations of incompatibility and certiorari over Family Proceedings Rules.",
+        "The European Court had previously held in B v UK; P v UK that private family hearings did not violate Article 6.",
+        "Pelling also challenged automatic Court of Appeal anonymity orders following Re R (Minor)."
+      ],
+      "procedural_posture": "Appeal with permission against Bennett J's refusal of open hearings, declaration of incompatibility, and certiorari in Children Act proceedings.",
+      "outcome": "Permission granted but appeal dismissed; Children Act privacy regime held Convention-compliant, though automatic anonymisation in Re R should be reviewed post-HRA.",
+      "ratio": "Private hearings in Children Act cases remain compatible with Articles 6 and 10 where necessary to protect child welfare; section 97(2) restrictions and chamber hearings are justified, and the court is not bound to follow the ECtHR minority on identical issues.",
+      "legal_issues": [
+        "Whether section 97(2) Children Act 1989 is incompatible with Articles 6 and 10 ECHR",
+        "Whether Family Proceedings Rules 4.16, 4.23 and 10.20 should be quashed",
+        "Whether Bennett J erred in exercising discretion for private hearings and judgments",
+        "Whether automatic Re R anonymity orders remain valid after the Human Rights Act 1998"
+      ],
+      "catchwords": [
+        "open justice",
+        "Children Act",
+        "Article 6",
+        "Article 10",
+        "hearings in chambers",
+        "anonymity orders"
+      ],
+      "index_terms": [
+        "Dr Pelling",
+        "Re P-B",
+        "B v UK; P v UK",
+        "Re R (Minor)",
+        "Family Proceedings Rules 1991",
+        "declaration of incompatibility"
+      ],
+      "linked_authorities": [
+        "Re P-B (a minor) [1997] 1 All ER 58",
+        "B v UK; P v UK (2001) 2 FLR 261",
+        "Clibbery v Allan [2002] 1 FLR 565",
+        "Re R (Minor) [1999] 2 FLR 145"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Convention analysis and outcome are comprehensively reasoned. Judges metadata corruption triggers needs_review."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/843.json",
+    "status": "done",
+    "notes": "Occupiers Liability Act 1984 trespasser appeal; concise unanimous dismissal with clear ratio.",
+    "enrichment": {
+      "short_title": "Police officer trespasser claim for fall into inspection pit",
+      "area_of_law": [
+        "Occupiers' liability",
+        "Personal injury",
+        "Tort law",
+        "Police duties"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Occupiers Liability Act 1957",
+          "provisions": []
+        },
+        {
+          "title": "Occupiers Liability Act 1984",
+          "provisions": [
+            "section 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "PC Higgs entered a coach yard at night without torch while investigating a suspected stolen trailer adjoining a supermarket service area.",
+        "He climbed over a wall, fell into an uncovered inspection pit, and suffered knee injuries ending his police career.",
+        "The recorder found he was a trespasser and that the occupier did not have reasonable grounds to believe anyone would come near the pit at 2 a.m.",
+        "The pit was usually covered by a parked coach; security lights were installed but the yard was accessible."
+      ],
+      "procedural_posture": "Appeal against recorder's dismissal of occupiers liability claim; appeal on visitor status refused.",
+      "outcome": "Appeal dismissed; occupier had no duty under section 1(3)(b) Occupiers Liability Act 1984 because no reasonable grounds to believe a trespasser would enter the vicinity of the pit.",
+      "ratio": "Under section 1(3)(b) of the Occupiers Liability Act 1984 the court must assess whether the occupier had reasonable grounds to believe the particular claimant might be in the vicinity of the danger at the relevant time and place, not merely that trespassers might enter the premises generally.",
+      "legal_issues": [
+        "Whether section 1(3)(b) was satisfied where premises were accessible but rear pit area was not a natural route",
+        "Whether security lighting evidenced belief that trespassers would reach the pit vicinity",
+        "Application of Donoghue v Folkestone Properties to time-and-place specificity",
+        "Whether easy entry alone establishes reasonable belief under section 1(3)(b)"
+      ],
+      "catchwords": [
+        "occupiers liability",
+        "trespasser",
+        "inspection pit",
+        "section 1(3)(b)",
+        "nocturnal trespass",
+        "reasonable grounds"
+      ],
+      "index_terms": [
+        "Avalon Coaches",
+        "Glastonbury",
+        "Donoghue v Folkestone Properties",
+        "security lights",
+        "police investigation",
+        "uncovered pit"
+      ],
+      "linked_authorities": [
+        "Donoghue v Folkestone Properties [2003] EWCA Civ 231",
+        "Donoghue v Folkestone Properties [2003] QB 1008"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Short unanimous judgment with explicit section 1(3) analysis and linked authority."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1726.json",
+    "status": "needs_review",
+    "notes": "Planning permission challenge quashed on quantitative need reasoning; judges metadata lists Lord Brown though judgment is Collins J.",
+    "enrichment": {
+      "short_title": "Sainsbury's Kidlington extension: quantitative need quashed",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Retail development",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288",
+            "section 77"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Sainsbury's sought a 40% extension to its out-of-town Kidlington store adding about 1,367 sq m sales floor space.",
+        "Cherwell District Council granted permission by chairman's casting vote after expert agreement on need and no town-centre harm.",
+        "The Secretary of State called in the application, the inspector recommended grant, but the Secretary refused solely for lack of quantitative need.",
+        "The refusal relied on McNulty and Caborn guidance requiring demonstrated quantitative need for out-of-centre retail extensions."
+      ],
+      "procedural_posture": "Section 288 Town and Country Planning Act 1990 challenge to Secretary of State refusal after call-in inquiry.",
+      "outcome": "Claim succeeded; decision quashed for errors of law in treating overtrading as irrelevant to quantitative need and giving inadequate reasons in paragraph 15; leave to appeal refused.",
+      "ratio": "When assessing quantitative retail need under PPG6 and ministerial guidance, the decision-maker must consider all evidence capable of bearing on need, including overtrading and lack of adverse town-centre impact, and must give intelligible reasons if rejecting the parties' agreed expert methodology.",
+      "legal_issues": [
+        "Whether overtrading could indicate quantitative as well as qualitative need",
+        "Whether the Secretary of State erred in saying growth figures were not compared with existing expenditure",
+        "Proper approach to McNulty and Caborn guidance on quantitative need",
+        "Whether paragraph 15 decision letter reasons were adequate",
+        "Whether treating quantitative need as a 'key objective' of PPG6 was a material misstatement"
+      ],
+      "catchwords": [
+        "planning permission",
+        "quantitative need",
+        "PPG6",
+        "out-of-town retail",
+        "section 288",
+        "overtrading"
+      ],
+      "index_terms": [
+        "Kidlington",
+        "Sainsbury's",
+        "McNulty Statement",
+        "Caborn guidance",
+        "Cherwell District Council",
+        "call-in inquiry"
+      ],
+      "linked_authorities": [
+        "R v Hambleton District Council ex parte Somerfield Stores Ltd [1999] ELCR 236"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Quashing grounds on paragraphs 11 and 15 are explicit. Incorrect judges metadata warrants needs_review."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1530.json",
+    "status": "needs_review",
+    "notes": "Copyright judgment for Lalande performing editions is complete, but judges metadata lists historical Law Lords cited in judgment rather than the trial judge.",
+    "enrichment": {
+      "short_title": "Editor's copyright in baroque performing editions of Lalande",
+      "area_of_law": [
+        "Intellectual property",
+        "Copyright law",
+        "Moral rights",
+        "Music law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Copyright, Designs and Patents Act 1988",
+          "provisions": [
+            "section 1",
+            "section 3",
+            "section 11",
+            "section 16",
+            "section 17",
+            "section 77"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Lionel Sawkins prepared modern performing editions of four Michel-Richard de Lalande works for an Ex Cathedra recording.",
+        "Hyperion recorded and released the CD without paying copyright royalties, asserting Lalande's works were out of copyright.",
+        "Sawkins' editing involved substantial scholarly work, figured-bass corrections, missing viola parts, and performance material.",
+        "Hyperion paid hire fees but refused the recording hire contract restricting further reproduction without licence."
+      ],
+      "procedural_posture": "Chancery trial of copyright and moral rights claim for infringement by commercial CD release.",
+      "outcome": "Judgment for Sawkins on copyright in La Grande Pièce Royale, Te Deum, and Venite Exultemus, and on moral right to identification; Panis Angelicus movement alone did not infringe.",
+      "ratio": "Original skill and labour in creating a scholarly performing edition of out-of-copyright music can produce a new copyright musical work, including figured-bass editorial input and recomposed missing parts, even where the aim is fidelity to the composer; hire fees did not impliedly licence reproduction.",
+      "legal_issues": [
+        "Whether performing editions of public-domain scores are original musical works under section 3 CDPA 1988",
+        "Whether figured bass corrections and missing viola parts attract copyright",
+        "Whether Hyperion infringed by recording Sawkins' editions without licence",
+        "Whether consent, acquiescence or estoppel arose from hire payments and allowing the session",
+        "Whether sleeve-note credit satisfied section 77 moral right to identification"
+      ],
+      "catchwords": [
+        "musical copyright",
+        "performing edition",
+        "figured bass",
+        "editor's skill",
+        "moral rights",
+        "Hyperion Records"
+      ],
+      "index_terms": [
+        "Michel-Richard de Lalande",
+        "Dr Lionel Sawkins",
+        "Ex Cathedra",
+        "MCPS",
+        "Interlego v Tyco",
+        "Austin v Columbia Gramophone"
+      ],
+      "linked_authorities": [
+        "Interlego AG v Tyco Industries Inc [1988] RPC 343",
+        "Austin v Columbia Gramophone Company [1910-23] MCC 398",
+        "University of London Press Ltd v University Tutorial Press Ltd [1916] 2 Ch 601",
+        "MacMillan & Co Ltd v Cooper (1924) 40 TLR 186"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Copyright and moral rights conclusions are detailed. Judges metadata lists cited historical judges, not the trial judge, so needs_review applies."
+      }
+    }
+  }
+]

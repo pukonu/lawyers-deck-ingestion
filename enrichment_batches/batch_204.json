@@ -1,0 +1,667 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1920.json",
+    "status": "needs_review",
+    "notes": "Very short post-hand-down order only; liability and contributory negligence outcomes stated but underlying draft judgment not in source file.",
+    "enrichment": {
+      "short_title": "Fire damage appeal: liability upheld, contributory negligence two-thirds reduction",
+      "area_of_law": [
+        "Tort law",
+        "Negligence",
+        "Contributory negligence",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Appeal in Sahib Foods v Sands concerning liability for spread of fire and contributory negligence.",
+        "The court dismissed the defendant PKS's appeal on liability.",
+        "The court allowed the defendant's appeal on contributory negligence and reduced damages by two-thirds, leaving one-third recoverable.",
+        "Quantum was remitted to the Technology and Construction Court with a case management conference after any application for leave to appeal to the House of Lords.",
+        "Costs were reserved with liberty to apply; permission to appeal to the House of Lords was refused."
+      ],
+      "procedural_posture": "Court of Appeal judgment on two remaining disputed points (costs and leave to appeal) following hand-down of the court's draft judgment.",
+      "outcome": "Liability appeal dismissed; contributory negligence appeal allowed with damages reduced to one-third; permission to appeal to the House of Lords refused; case remitted on quantum.",
+      "ratio": "Where contributory negligence is established on appeal, damages attributable to the spread of fire may be reduced by the proportion found (here two-thirds), with quantum remitted for further determination.",
+      "legal_issues": [
+        "Whether costs should be fixed now or reserved pending quantum",
+        "Whether permission to appeal to the House of Lords should be granted"
+      ],
+      "catchwords": [
+        "contributory negligence",
+        "fire damage",
+        "quantum remitted",
+        "costs reserved",
+        "permission to appeal refused"
+      ],
+      "index_terms": [
+        "Sahib Foods v Sands",
+        "Technology and Construction Court",
+        "contributory negligence",
+        "damages reduction"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.72,
+        "level": "medium",
+        "notes": "Orders and two procedural points are clear, but the source contains only a brief post-hand-down judgment without the underlying liability reasoning or full factual background."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3365.json",
+    "status": "done",
+    "notes": "Full Divisional Court habeas corpus judgment with detailed ECHR analysis.",
+    "enrichment": {
+      "short_title": "Habeas corpus refused for Jersey arrest warrant backed under 1848 Act",
+      "area_of_law": [
+        "Public law",
+        "Criminal law",
+        "Human rights",
+        "Extradition and cross-border arrest"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Indictable Offences Act 1848",
+          "provisions": [
+            "section 13"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Backing of Warrants (Republic of Ireland) Act 1965",
+          "provisions": [
+            "section 2(2)"
+          ]
+        },
+        {
+          "title": "Extradition Act 1989",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Christine Bryce-Richards faced 14 Jersey fraud charges relating to trust assets of Joan Edmonds.",
+        "Jersey arrest warrants were backed by a Cardiff magistrate under section 13 of the Indictable Offences Act 1848.",
+        "The applicant was arrested in Cardiff and sought habeas corpus challenging detention and removal to Jersey.",
+        "She argued breaches of Articles 5, 6 and 8 ECHR, fair trial concerns, and that trial should be in England and Wales.",
+        "The Divisional Court held detention lawful and that Jersey trial would comply with Articles 5 and 6; habeas corpus was refused."
+      ],
+      "procedural_posture": "Substantive habeas corpus application before the Divisional Court following arrest and interim bail orders.",
+      "outcome": "Habeas corpus application refused; applicant ordered to be returned to Jersey pursuant to the backed warrant; leave to appeal refused; bail continued pending House of Lords application period.",
+      "ratio": "Backing of a Jersey arrest warrant under section 13 of the Indictable Offences Act 1848 is a lawful, non-arbitrary procedure compatible with Article 5; anticipated trial in Jersey would satisfy Article 6, and Article 8 does not prevent removal for prosecution where Article 8(2) applies.",
+      "legal_issues": [
+        "Whether detention under section 13 of the 1848 Act is lawful under domestic law and Article 5 ECHR",
+        "Whether return to Jersey would breach Article 6 (fair trial, legal aid, tribunal independence)",
+        "Whether removal would breach Article 8 (family life with husband in Spain)",
+        "Whether England and Wales rather than Jersey was the proper forum"
+      ],
+      "catchwords": [
+        "habeas corpus",
+        "section 13 Indictable Offences Act 1848",
+        "Jersey arrest warrant",
+        "Article 5 ECHR",
+        "Article 6 ECHR",
+        "Channel Islands"
+      ],
+      "index_terms": [
+        "Bryce-Richards",
+        "Jersey",
+        "warrant backing",
+        "Re Hayes",
+        "R v Governor of Brockhill Prison ex parte Evans (No 2)",
+        "McGonnell v United Kingdom"
+      ],
+      "linked_authorities": [
+        "R v Governor of Brockhill Prison ex parte Evans (No 2)",
+        "R v Metropolitan Police Commissioner ex parte Hammond",
+        "Re Hayes",
+        "McGonnell v United Kingdom",
+        "R v Governor of Belmarsh Prison ex parte Gilligan and Ellis",
+        "Sunday Times v UK",
+        "Engel v Netherlands (No 1)"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Long, structured judgment with clear outcome and extensive reasoning on Articles 5 and 6."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1845.json",
+    "status": "done",
+    "notes": "Full Court of Appeal judgment on Article 5(4) and section 44A CJA 1991.",
+    "enrichment": {
+      "short_title": "Article 5(4) applies to recall during extended sentence extension period",
+      "area_of_law": [
+        "Human rights",
+        "Sentencing law",
+        "Public law",
+        "Parole and recall"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 85"
+          ]
+        },
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": [
+            "section 58"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": [
+            "section 33",
+            "section 39",
+            "section 44",
+            "section 44A"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Sim was sentenced to an extended sentence (2½ years custody plus 5 years extension) for indecent assault offences.",
+        "He was released on licence but recalled in July 2001 for alleged licence breaches including indecent exposure and hostel conduct.",
+        "The Parole Board refused release; Elias J made declarations that Article 5(4) applied and that section 44A(4) must be read compatibly with Convention rights.",
+        "The Secretary of State appealed; Sim cross-appealed on hearsay evidence before the Parole Board.",
+        "The Court of Appeal upheld the declarations and dismissed both appeal and cross-appeal."
+      ],
+      "procedural_posture": "Appeal and cross-appeal from administrative court declarations following judicial review of Parole Board recall decision.",
+      "outcome": "Secretary of State's appeal dismissed; Sim's cross-appeal dismissed; declarations on Article 5(4) and section 44A(4) upheld.",
+      "ratio": "Detention after recall during the extension period of a section 85 extended sentence requires Article 5(4) judicial review because no court has ordered imprisonment for that period; section 44A(4) of the Criminal Justice Act 1991 must be read under section 3 of the Human Rights Act 1998 so the Parole Board must be positively satisfied continued detention is necessary before refusing release.",
+      "legal_issues": [
+        "Whether Article 5(4) ECHR applies to continued detention after recall during an extended licence period",
+        "Whether section 44A(4) creates a presumption of continued detention incompatible with Article 5",
+        "Whether hearsay evidence was properly admitted at the Parole Board hearing"
+      ],
+      "catchwords": [
+        "Article 5(4)",
+        "extended sentence",
+        "recall to prison",
+        "Parole Board",
+        "section 44A",
+        "section 3 Human Rights Act 1998"
+      ],
+      "index_terms": [
+        "R (Giles) v Parole Board",
+        "R (Smith) v Parole Board",
+        "Van Droogenbroeck v Belgium",
+        "Weeks v United Kingdom",
+        "Reid v United Kingdom"
+      ],
+      "linked_authorities": [
+        "R (Giles) v Parole Board",
+        "R (Smith) v Parole Board",
+        "Van Droogenbroeck v Belgium",
+        "Weeks v United Kingdom",
+        "Stafford v United Kingdom",
+        "De Wilde, Ooms and Versyp v Belgium",
+        "R v Nelson",
+        "Reid v United Kingdom",
+        "R v Lichniak",
+        "Comerford v United Kingdom",
+        "Hussain v United Kingdom",
+        "R (McKeown) v Wirral Borough Magistrates Court"
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Detailed judgment with clear holdings on all three issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1876.json",
+    "status": "done",
+    "notes": "Employment status preliminary issue; appeal dismissed and remitted.",
+    "enrichment": {
+      "short_title": "Employee status preliminary issue remitted after dual-contract error",
+      "area_of_law": [
+        "Employment law",
+        "Unfair dismissal",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Bachnak, a Slovak MBA graduate, was employed by EMPEL until termination in September 2000.",
+        "On 23 October 2000 he entered both an Advisory Agreement via his company MB and a fixed-term employment contract with EMPEL.",
+        "The employment tribunal held he was not an employee, finding no enforceable employment contract and no mutuality of obligation.",
+        "The EAT held the tribunal erred by failing to consider both agreements together and remitted the issue.",
+        "The Court of Appeal dismissed EMPEL's appeal, agreeing remission was required."
+      ],
+      "procedural_posture": "Court of Appeal appeal from Employment Appeal Tribunal decision on preliminary issue of employee status for unfair dismissal claim.",
+      "outcome": "Appeal dismissed; claim remitted to a fresh employment tribunal; appellant ordered to pay respondent's costs.",
+      "ratio": "Where contemporaneous advisory and employment contracts form a composite package, a tribunal must construe their combined effect to determine whether an employment relationship exists; absence of express remuneration in employment terms is not necessarily fatal if consideration can be identified from surrounding circumstances.",
+      "legal_issues": [
+        "Whether Mr Bachnak was an employee within the meaning of the Employment Rights Act 1996",
+        "Whether the employment tribunal erred in treating the fixed-term contract as unenforceable for lack of consideration",
+        "Whether both agreements must be read together rather than in isolation"
+      ],
+      "catchwords": [
+        "employee status",
+        "contract of service",
+        "mutuality of obligation",
+        "fixed-term employment",
+        "independent contractor",
+        "remission"
+      ],
+      "index_terms": [
+        "Ready Mixed Concrete v Minister of Pensions",
+        "Express & Echo Publications v Tanton",
+        "Employment Rights Act 1996",
+        "unfair dismissal"
+      ],
+      "linked_authorities": [
+        "Ready Mixed Concrete (South East) Ltd v Minister of Pensions and National Insurance",
+        "Express & Echo Publications Ltd v Tanton",
+        "Professional Contractors Group v IRC"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Clear procedural history and unanimous reasoning on the legal error."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/3161.json",
+    "status": "done",
+    "notes": "Commercial bailment/negligent release liability judgment.",
+    "enrichment": {
+      "short_title": "Freight forwarder fully liable for negligent release of goods on hold",
+      "area_of_law": [
+        "Commercial law",
+        "Bailment",
+        "Contract law",
+        "Carriage and warehousing"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Euro Cellular stored Nokia mobile phones 'on hold' in Danzas's Barcelona warehouse under bespoke freight forwarding terms.",
+        "About 7000 phones (claimants said) or 2000 (defendants accepted) disappeared over the 2001 Christmas period.",
+        "The parties agreed BIFA standard terms limited liability to 2 SDRs per kilo except for negligent release of goods on hold.",
+        "The judge found on the balance of probabilities the phones were negligently released rather than stolen.",
+        "The burden of proving a non-negligent loss lay on the defendants, who failed to discharge it."
+      ],
+      "procedural_posture": "Commercial Court trial on liability only (title to sue on part of consignment unresolved).",
+      "outcome": "Claimants succeeded on liability; defendants liable for full value of lost goods to the extent claimants had title, not limited to 2 SDRs per kilo.",
+      "ratio": "Where a freight contract super-adds unlimited liability for negligent release of goods on hold to otherwise limited BIFA liability, the bailee bears the burden of proving the loss was not caused by negligent release; inventory evidence showing goods recorded as released without authorised instruction supports a finding of negligent release.",
+      "legal_issues": [
+        "Whether the goods were lost by negligent release or theft",
+        "Construction of the parties' amended acceptance-of-liability clause",
+        "Incidence of the burden of proof where liability is limited except for negligent release",
+        "Application of bailment principles from Levison v Patent Steam Carpet Cleaning"
+      ],
+      "catchwords": [
+        "negligent release",
+        "goods on hold",
+        "BIFA terms",
+        "bailment",
+        "burden of proof",
+        "freight forwarding",
+        "warehouse loss"
+      ],
+      "index_terms": [
+        "Euro Cellular",
+        "Danzas",
+        "Special Drawing Rights",
+        "Levison v Patent Steam Carpet Cleaning",
+        "Firestone Tyre v Vokins"
+      ],
+      "linked_authorities": [
+        "Levison v Patent Steam Carpet Cleaning",
+        "Firestone Tyre & Rubber Co Ltd v Vokins",
+        "Munro, Brice and Co v War Risks Association",
+        "James Archdale v Comservices",
+        "Scottish Special Housing Association v Wimpey"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed factual findings and clear liability conclusion; quantum and title issues reserved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3159.json",
+    "status": "done",
+    "notes": "Long Chancery trial judgment; claims dismissed on merits.",
+    "enrichment": {
+      "short_title": "Insolvency advisers not liable for collapse of Wade companies",
+      "area_of_law": [
+        "Professional negligence",
+        "Insolvency law",
+        "Fiduciary duties",
+        "Company law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Leslie and Jean Wade were shareholders of Wade & Hotson group companies facing insolvency in February 1997.",
+        "Poppleton & Appleby were instructed on 18 February 1997 to advise on avoiding receivership of the holding company.",
+        "Trading Co was already in a hopeless position; Yorkshire Bank appointed the firm's partners as administrative receivers on 21 February 1997.",
+        "The Wades claimed negligent advice and breach of fiduciary duty, including conflict from the advisers' subsequent receiver appointment.",
+        "The judge found advisers owed duties to the Wades personally but their conduct did not cause the companies' collapse; fiduciary claim failed."
+      ],
+      "procedural_posture": "High Court trial of negligence, contract, and fiduciary duty claims brought on the last day of limitation.",
+      "outcome": "Claim dismissed; claimants failed to establish negligence or breach of fiduciary duty.",
+      "ratio": "Insolvency advisers who properly perform their duties over a brief engagement before inevitable bank-enforced receivership are not liable for the collapse of insolvent companies where their advice or omissions did not cause the loss; acceptance of receiver appointment with client consent does not give rise to recoverable fiduciary breach in a commercial advisory context.",
+      "legal_issues": [
+        "Whether Poppleton & Appleby owed duties to Mr and Mrs Wade personally as well as to the companies",
+        "Whether deficient insolvency advice caused loss to the holding company",
+        "Whether partners' appointment as administrative receivers breached fiduciary duties",
+        "Scope of assigned company claims and validity of fiduciary fee claim"
+      ],
+      "catchwords": [
+        "professional negligence",
+        "insolvency advice",
+        "administrative receivership",
+        "fiduciary duty",
+        "conflict of interest",
+        "causation"
+      ],
+      "index_terms": [
+        "Wade & Hotson",
+        "Poppleton & Appleby",
+        "insolvency practitioners",
+        "Yorkshire Bank",
+        "administrative receiver"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Very long judgment but outcome and core holdings on duty, causation and fiduciary claim are explicit in the conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3409.json",
+    "status": "done",
+    "notes": "Patent PCT judicial review; clear dismissal.",
+    "enrichment": {
+      "short_title": "Consistory clause in description not a PCT claim for filing date",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Patent Co-operation Treaty",
+          "provisions": [
+            "Article 3",
+            "Article 5",
+            "Article 6",
+            "Article 11",
+            "Article 58",
+            "PCT Rule 3",
+            "PCT Rule 5",
+            "PCT Rule 11"
+          ]
+        },
+        {
+          "title": "Patents Act 1949",
+          "provisions": [
+            "section 32(1)(i)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Penife filed a PCT application claiming priority from an earlier GB application but omitted separate claims sheets.",
+        "The Patent Office invited correction under Article 11(2) PCT; corrected claims were filed on 2 July 2003.",
+        "Penife argued a consistory clause embedded in the description satisfied Article 11(1)(iii)(e) at original filing.",
+        "The Comptroller held there was no part appearing on its face to be a claim; filing date was the correction date.",
+        "Mr Justice Laddie dismissed the judicial review, holding the receiving office's formal check was correctly applied."
+      ],
+      "procedural_posture": "Judicial review of Comptroller decision on international filing date under the PCT.",
+      "outcome": "Application dismissed; decision that no claim was filed at receipt upheld; international filing date remained date of correction.",
+      "ratio": "Under Article 11(1) PCT the receiving office performs a formal check for a part which on its face appears to be a claim; a consistory clause forming part of the description is not a claim, and the request checklist may be considered when assessing compliance.",
+      "legal_issues": [
+        "Whether a consistory clause in the description satisfies Article 11(1)(iii)(e) PCT",
+        "Whether the receiving office must undertake a substantive search for claim material",
+        "Effect of omitted claim sheets and the request form checklist on filing-date determination"
+      ],
+      "catchwords": [
+        "PCT filing date",
+        "Article 11 PCT",
+        "consistory clause",
+        "international application",
+        "patent claims",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Penife International",
+        "Patent Co-operation Treaty",
+        "receiving office",
+        "priority date",
+        "Comptroller General of Patents"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Focused administrative review with clear treaty and rules analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/6.json",
+    "status": "done",
+    "notes": "Detailed judicial review on ALMO tenant consultation and ballot.",
+    "enrichment": {
+      "short_title": "Camden ALMO tenant consultation and ballot held lawful",
+      "area_of_law": [
+        "Administrative law",
+        "Housing law",
+        "Public law",
+        "Local government"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1985",
+          "provisions": [
+            "section 27",
+            "section 105",
+            "section 27BA"
+          ]
+        },
+        {
+          "title": "Local Government Act 1986",
+          "provisions": [
+            "section 4"
+          ]
+        },
+        {
+          "title": "Audit Commission Act 1998",
+          "provisions": [
+            "sections 17",
+            "section 18"
+          ]
+        },
+        {
+          "title": "Political Parties, Elections and Referendums Act 2000",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Camden sought tenant support for an Arms Length Management Organisation to manage and improve council housing under section 27 Housing Act 1985.",
+        "Claimants supporting Camden Defend Council Housing challenged the consultation and ballot question as biased and inadequate.",
+        "They argued Camden had to present balanced information including arguments against the ALMO.",
+        "The court held section 105 required information about the authority's proposals, not opposing arguments; Camden's process was Wednesbury reasonable.",
+        "The ballot question referring to a 'Council owned' ALMO to 'manage and improve' housing was held accurate and lawful."
+      ],
+      "procedural_posture": "Judicial review of Camden's ALMO tenant consultation and ballot during an ongoing tenant vote.",
+      "outcome": "Judicial review application dismissed; consultation and ballot question held lawful.",
+      "ratio": "A local authority consulting secure tenants under section 105(1) of the Housing Act 1985 must enable them to be informed of the authority's proposals and reasons, but is not legally required to circulate opponents' arguments; consultation must be Wednesbury reasonable and local authority publicity must not have as its primary purpose persuasion rather than information.",
+      "legal_issues": [
+        "Whether Camden was required to provide balanced information including the case against an ALMO",
+        "Whether the consultation satisfied section 105 Housing Act 1985 and the ODPM ALMO guidance",
+        "Whether Camden's publicity breached the Code of Recommended Practice on Local Authority Publicity",
+        "Whether the ballot question was biased or tendentious"
+      ],
+      "catchwords": [
+        "ALMO",
+        "tenant consultation",
+        "section 105 Housing Act 1985",
+        "local authority publicity",
+        "tenant ballot",
+        "decent homes standard"
+      ],
+      "index_terms": [
+        "Camden",
+        "Arms Length Management Organisation",
+        "R v Brent LBC ex p Morris",
+        "R v North and East Devon HA ex p Coughlan",
+        "Wednesbury unreasonableness"
+      ],
+      "linked_authorities": [
+        "R v North and East Devon Health Authority ex p Coughlan",
+        "R v Brent London Borough Council ex p Morris",
+        "Libman v Attorney General of Quebec",
+        "R v Royal Borough of Kensington and Chelsea ex p Bayani",
+        "R v London Borough of Tower Hamlets ex p Ojo",
+        "R (Smeaton) v Secretary of State for Health (No 2)"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Comprehensive judgment with explicit conclusions on both consultation and ballot issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/3.json",
+    "status": "done",
+    "notes": "Specific disclosure application in patent damages inquiry.",
+    "enrichment": {
+      "short_title": "OFT market-share submissions irrelevant to patent damages inquiry",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Civil procedure",
+        "Disclosure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Coflexip succeeded in patent infringement proceedings against Stolt and pursued a damages inquiry.",
+        "Coflexip sought compensation using contract-by-contract proof and a Gerber v Lectra market-share approach from 1995/1997.",
+        "Stolt applied for specific disclosure of Coflexip's mid-1990s OFT submissions on market share from its Stena acquisition.",
+        "Coflexip confirmed it does not rely on pre-1995 market share and will not pursue market-share damages for earlier contracts.",
+        "Mr Justice Laddie refused disclosure as the OFT material related to a different competition-law market assessment."
+      ],
+      "procedural_posture": "Application for specific disclosure under CPR 31.12 during patent infringement damages inquiry.",
+      "outcome": "Application refused; order for disclosure of OFT submissions not made.",
+      "ratio": "Documents relating to a patentee's competition-law market-share assessment for an OFT merger clearance are not relevant disclosure for a patent damages inquiry based on market share in pipe-laying contracts the patentee says it could have performed, where the patentee has limited its case to post-1995 data.",
+      "legal_issues": [
+        "Relevance of OFT merger submissions to market-share-based patent damages",
+        "Whether pre-1995 market share evidence is in issue given Coflexip's stated case limits",
+        "Distinction between competition-law and infringement-inquiry market definitions"
+      ],
+      "catchwords": [
+        "specific disclosure",
+        "patent damages",
+        "market share",
+        "Gerber v Lectra",
+        "OFT submissions",
+        "loss of opportunity"
+      ],
+      "index_terms": [
+        "Coflexip",
+        "Stolt Comex",
+        "pipe-laying",
+        "patent infringement inquiry",
+        "CPR 31.12"
+      ],
+      "linked_authorities": [
+        "Gerber Garment Technology Inc v Lectra Systems Ltd"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Short, focused procedural judgment with clear reasoning on relevance."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/7.json",
+    "status": "done",
+    "notes": "Community care assessment challenge; partial success on fourth ground.",
+    "enrichment": {
+      "short_title": "Generic community care assessment quashed after CPA-only reasoning",
+      "area_of_law": [
+        "Administrative law",
+        "Community care",
+        "Mental health",
+        "Social services"
+      ],
+      "statutes_considered": [
+        {
+          "title": "National Health Service and Community Care Act 1990",
+          "provisions": [
+            "section 47"
+          ]
+        },
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr P, a Kosovan asylum seeker, showed long-standing depression and psychotic symptoms with severe self-neglect.",
+        "Islington's March 2003 CPA assessment found reactive depression but no severe and enduring mental illness and declined care management.",
+        "Independent psychiatrist Dr H diagnosed severe depressive episode with psychotic symptoms; Islington maintained its stance after consulting Dr McK.",
+        "Islington treated absence of severe and enduring mental illness as determinative of entitlement to generic community care services.",
+        "The court held that conflation was a fundamental error requiring a fresh community care assessment, while rejecting three other grounds."
+      ],
+      "procedural_posture": "Judicial review of community care and CPA assessments under section 47 NHS and Community Care Act 1990.",
+      "outcome": "Claim partly succeeded on fourth ground; community care assessment process invalidated and must be redone; first three grounds rejected.",
+      "ratio": "Failure to meet Care Programme Approach eligibility criteria because a service user lacks a severe and enduring mental illness does not automatically exclude entitlement to generic community care services; treating CPA ineligibility as determinative of community care need is an error of law infecting the assessment process.",
+      "legal_issues": [
+        "Whether absence of a firm psychiatric diagnosis prevents lawful community care assessment",
+        "Whether Islington irrationally preferred Dr McK's opinion to Dr H's",
+        "Whether Mr P met CPA eligibility criterion 2 (hospital admission considered within two years)",
+        "Whether CPA ineligibility precludes generic community care assessment and provision"
+      ],
+      "catchwords": [
+        "community care assessment",
+        "CPA eligibility",
+        "section 47",
+        "severe and enduring mental illness",
+        "care management",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Islington",
+        "Care Programme Approach",
+        "National Health Service and Community Care Act 1990",
+        "reactive depression",
+        "Wednesbury unreasonableness"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed fact background and explicit split outcome on four pleaded grounds."
+      }
+    }
+  }
+]

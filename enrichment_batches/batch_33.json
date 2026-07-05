@@ -1,0 +1,643 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/346.json",
+    "status": "done",
+    "notes": "Batch 33 enrichment",
+    "enrichment": {
+      "short_title": "PPG3 brownfield presumption on greenfield housing appeal",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A developer appealed against refusal of planning permission for a large greenfield residential scheme at Lower Warton in Lancashire.",
+        "The inspector recommended permission, but the Secretary of State dismissed the appeal because the site conflicted with PPG3's presumption in favour of previously developed land.",
+        "Richards J quashed the decision for inadequate reasons on housing land supply and windfall sites.",
+        "On appeal, the Secretary of State accepted redetermination was required but sought to clarify how PPG3 paragraphs 32 and 34 interact."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against part of a High Court order remitting a planning appeal for redetermination.",
+      "outcome": "Appeal disposed with no further order; matter remitted for redetermination in light of the judgment below as clarified; Secretary of State to pay costs.",
+      "ratio": "Paragraph 34 of PPG3 is a relevant factor in development control when applying the paragraph 32 presumption that previously developed sites should be developed before greenfield sites, but it is not a trumping factor that automatically permits greenfield release wherever brownfield capacity remains.",
+      "legal_issues": [
+        "Whether PPG3 paragraph 32 requires refusal of greenfield housing unless no brownfield site remains",
+        "How paragraph 34's five-year housing supply guidance relates to paragraph 32 at appeal stage",
+        "Whether the Secretary of State's decision was flawed for lack of reasons"
+      ],
+      "catchwords": [
+        "planning permission",
+        "PPG3",
+        "brownfield",
+        "greenfield",
+        "housing land supply",
+        "planning appeal"
+      ],
+      "index_terms": [
+        "Planning Policy Guidance Note 3",
+        "previously developed land",
+        "windfall sites",
+        "Lower Warton",
+        "Fylde Borough Council",
+        "secretary of state call-in"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Outcome, PPG3 analysis, and remittal order are explicit. PPG3 is government guidance rather than statute; no linked cases are cited by name in the available text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/409.json",
+    "status": "done",
+    "notes": "Batch 33 enrichment",
+    "enrichment": {
+      "short_title": "DPP challenge to magistrates' s20 sentencing jurisdiction",
+      "area_of_law": [
+        "Criminal procedure",
+        "Administrative law",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": [
+            "section 20"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "An 18-year-old schoolboy pleaded guilty under Plea Before Venue to inflicting grievous bodily harm after a drunken assault at a school party.",
+        "The victim's spleen was removed and he required lifelong medication, but the justices accepted jurisdiction rather than committing the case to the Crown Court.",
+        "The DPP sought judicial review, arguing the facts were so grave that retention of jurisdiction was irrational or truly astonishing.",
+        "The application was brought about ten weeks after the jurisdiction decision and while the defendant remained unsentenced."
+      ],
+      "procedural_posture": "Application for judicial review, heard in the Administrative Court with permission granted on paper.",
+      "outcome": "Application refused on merits and for lack of promptness.",
+      "ratio": "A challenge to magistrates' decision to retain jurisdiction for sentencing after a guilty plea under Plea Before Venue succeeds only if the decision was truly astonishing or perverse; delay in bringing judicial review, especially where a young defendant remains unsentenced, may itself justify refusal of relief.",
+      "legal_issues": [
+        "Whether the justices' acceptance of jurisdiction for a section 20 offence was truly astonishing",
+        "Whether the DPP acted promptly enough in seeking judicial review",
+        "Application of national mode of trial guidelines for section 20 offences"
+      ],
+      "catchwords": [
+        "judicial review",
+        "magistrates' jurisdiction",
+        "section 20",
+        "Plea Before Venue",
+        "truly astonishing",
+        "youth sentencing"
+      ],
+      "index_terms": [
+        "Director of Public Prosecutions",
+        "North Durham Justices",
+        "grievous bodily harm",
+        "mode of trial guidelines",
+        "delay",
+        "Salisbury Justices"
+      ],
+      "linked_authorities": [
+        "R v Acton Crown Court, ex parte Bewley",
+        "Director of Public Prosecutions v Salisbury Justices",
+        "Kelly",
+        "Moore"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Facts, statutory framework, test, and dismissal are clearly stated. Judge metadata in the source file is empty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/599.json",
+    "status": "done",
+    "notes": "Batch 33 enrichment",
+    "enrichment": {
+      "short_title": "Statutory demand and arbitration stay in building dispute",
+      "area_of_law": [
+        "Insolvency law",
+        "Arbitration",
+        "Construction law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 9",
+            "section 82(1)"
+          ]
+        },
+        {
+          "title": "Housing Grants, Construction and Regeneration Act 1996",
+          "provisions": []
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A homeowner disputed interim payment certificates under a JCT intermediate building contract for works at 98 Hamilton Terrace.",
+        "The contractor served two statutory demands totalling over £133,000 based on architect's certificates.",
+        "The debtor applied to set aside the demands, arguing an arbitration clause meant the demands should be set aside and that cross-claims exceeded the debts.",
+        "The Chief Registrar found cross-claims fell short by £62,348.16 and rejected the arbitration-based challenge."
+      ],
+      "procedural_posture": "Appeal to the High Court (Chancery Division) against orders dismissing applications to set aside statutory demands.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Service of a statutory demand is not a legal proceeding for the purposes of section 9 of the Arbitration Act 1996; a creditor may pursue bankruptcy proceedings despite an arbitration agreement unless rule 6.5(4)(d) grounds show it would be unjust for the demand to stand, and a mere possibility of a later stay is insufficient where no arbitration had been commenced.",
+      "legal_issues": [
+        "Whether service of a statutory demand constitutes legal proceedings under section 9 Arbitration Act 1996",
+        "Whether a future bankruptcy petition bound to be stayed justifies setting aside a demand under rule 6.5(4)(d)",
+        "Whether cross-claims equalled or exceeded the debts claimed"
+      ],
+      "catchwords": [
+        "statutory demand",
+        "bankruptcy",
+        "arbitration stay",
+        "section 9",
+        "cross-claim",
+        "JCT contract"
+      ],
+      "index_terms": [
+        "Insolvency Rule 6.5",
+        "building contract",
+        "interim certificates",
+        "Halki Shipping Corporation v Sopex Oils Ltd",
+        "In re A Debtor (No 88 of 1991)",
+        "Royal Bank of Scotland v Binnell"
+      ],
+      "linked_authorities": [
+        "Halki Shipping Corporation v Sopex Oils Ltd",
+        "In re A Debtor (No 88 of 1991)",
+        "In re A Debtor (No 1 of 1987)",
+        "In re A Debtor (Nos 49 and 50 of 1992)",
+        "Royal Bank of Scotland v Binnell"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Core insolvency and arbitration points are fully reasoned. Source judge metadata lists Sir Donald Nicholls but the judgment is given by Blackburne J."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/436.json",
+    "status": "done",
+    "notes": "Batch 33 enrichment",
+    "enrichment": {
+      "short_title": "Co-accused bad character in cutthroat manslaughter trial",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Appeals against conviction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Randall was convicted of manslaughter after trial for murder following fatal head injuries to Michael Barber near Rickmansworth.",
+        "In a cutthroat defence, Randall said Glean inflicted the fatal blows; Glean denied involvement outside the house.",
+        "The trial judge directed that Glean's violent record was relevant only to his credibility, not to who was more likely to have killed Barber.",
+        "Randall had admitted kicking Barber once but denied causing the multiple fatal injuries."
+      ],
+      "procedural_posture": "Appeal against conviction by leave of the single judge.",
+      "outcome": "Appeal allowed on the bad-character direction ground and a retrial ordered; second ground dismissed.",
+      "ratio": "In an unusual cutthroat case, a co-accused's antecedent history of serious violence may be relevant not only to credibility but also to whether one defendant's account is more probable than the other's, following Lowery and Thompson; limiting the jury to credibility-only use was a significant misdirection.",
+      "legal_issues": [
+        "Admissibility and use of a co-accused's bad character in a cutthroat defence",
+        "Whether the manslaughter direction was adequate despite a late comprehensive direction"
+      ],
+      "catchwords": [
+        "bad character",
+        "cutthroat defence",
+        "co-accused",
+        "manslaughter",
+        "misdirection",
+        "propensity evidence"
+      ],
+      "index_terms": [
+        "Lowery v R",
+        "Thompson",
+        "Miller",
+        "Neale",
+        "Bracewell",
+        "Murray"
+      ],
+      "linked_authorities": [
+        "Lowery v R",
+        "Miller",
+        "Neale",
+        "Bracewell",
+        "Murray",
+        "Thompson and others",
+        "Lee"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Grounds, authorities, and retrial order are clearly set out in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/760.json",
+    "status": "done",
+    "notes": "Batch 33 enrichment",
+    "enrichment": {
+      "short_title": "University copyright in Simcyp drug simulation software",
+      "area_of_law": [
+        "Intellectual property",
+        "Copyright",
+        "Contract law",
+        "Technology"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Copyright, Designs and Patents Act 1988",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Sheffield University developed pharmacokinetic research software (Simcyp) to predict drug-body interactions.",
+        "Under a research agreement, Cyprotex programmer Dr Edwards converted the project into a marketable Java-based program.",
+        "The parties disputed whether copyright in the Java program belonged to Sheffield as resulting IP or to Cyprotex as sponsor IP under clause 9.",
+        "Sheffield had licensed Cyprotex for internal research use but sought ownership to commercialise the program."
+      ],
+      "procedural_posture": "Trial in the Technology and Construction Court on copyright ownership and related relief.",
+      "outcome": "Claim succeeded; declaration that copyright in Simcyp, MathCAD, related algorithms, databases, and specifications is owned by the University of Sheffield, with assignment and delivery-up orders to follow.",
+      "ratio": "On the facts, Java programming work was either resulting intellectual property jointly created by Sheffield and sponsor employees under the research agreement, or alternatively a term should be implied that copyright vested in Sheffield where the purpose was to transform the university's research into a commercially marketable program while the sponsor retained only an internal-use licence.",
+      "legal_issues": [
+        "Construction of intellectual property clauses in a university research sponsorship agreement",
+        "Ownership of copyright in software developed from academic research by a sponsor's employee",
+        "Whether an implied term assigns copyright to the commissioning university"
+      ],
+      "catchwords": [
+        "copyright",
+        "software",
+        "research agreement",
+        "joint authorship",
+        "implied term",
+        "Simcyp"
+      ],
+      "index_terms": [
+        "University of Sheffield",
+        "Cyprotex Discovery",
+        "Java program",
+        "MathCAD",
+        "Ray v Classic FM",
+        "resulting intellectual property"
+      ],
+      "linked_authorities": [
+        "Ray v Classic FM",
+        "Nichols Advanced Vehicle Systems Inc v Rees"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed contract and copyright analysis with clear declaratory relief. Judgment is lengthy but the dispositive reasoning is explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/636.json",
+    "status": "done",
+    "notes": "Batch 33 enrichment",
+    "enrichment": {
+      "short_title": "Unduly lenient sentences for Pit Bull Crew gang",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Drugs and firearms offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Firearms Act 1968",
+          "provisions": []
+        },
+        {
+          "title": "Misuse of Drugs Act 1971",
+          "provisions": []
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Nine members of the Manchester Pit Bull Crew gang were convicted of conspiracies to possess firearms with intent to endanger life and to supply Class A and B drugs.",
+        "The gang operated a large-scale drug business protected by loaded firearms, balaclavas, body armour, and territorial violence from 1999 to 2000.",
+        "Original sentences ranged from four-and-a-half to nine years depending on seniority and role.",
+        "The Attorney General referred the sentences as unduly lenient for senior members; junior members' sentences were left intact."
+      ],
+      "procedural_posture": "Attorney General's reference for unduly lenient sentences.",
+      "outcome": "Reference granted; senior members Gordon, Thorne, Boakye, and Simons received increased total sentences of ten to twelve years on resentencing; junior members' sentences stood.",
+      "ratio": "In a large-scale armed drug-gang conspiracy where firearms were integral to the business, starting points for senior participants should have been substantially higher, with consecutive or adjusted concurrent terms reflecting both firearms and drugs conspiracies; youth and lesser involvement may justify leaving junior members' lenient sentences undisturbed.",
+      "legal_issues": [
+        "Appropriate sentencing levels for conspiracy to possess firearms with intent to endanger life",
+        "Sentencing for large-scale Class A drug conspiracy combined with gang firearms use",
+        "Distinction between senior and junior gang members on an Attorney General's reference"
+      ],
+      "catchwords": [
+        "Attorney General's reference",
+        "unduly lenient",
+        "firearms conspiracy",
+        "drug supply",
+        "gang sentencing",
+        "Pit Bull Crew"
+      ],
+      "index_terms": [
+        "R v Avis",
+        "R v Farrer and Pendrigh",
+        "Attorney General's Reference No 49 of 1998",
+        "Attorney General's Reference No 2 of 2000",
+        "Manchester gangs",
+        "young offender institution"
+      ],
+      "linked_authorities": [
+        "R v Avis",
+        "R v Farrer and Pendrigh",
+        "Attorney General's Reference No 49 of 1998",
+        "Attorney General's Reference No 2 of 2000"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Sentencing outcomes for each offender category are clearly recorded. Specific statutory provisions for the conspiracy counts are not quoted verbatim."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/445.json",
+    "status": "done",
+    "notes": "Batch 33 enrichment",
+    "enrichment": {
+      "short_title": "Gurkha veterans' pension and family service challenge",
+      "area_of_law": [
+        "Administrative law",
+        "Human rights",
+        "Military law",
+        "Employment and pensions"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8",
+            "Article 14",
+            "Protocol 1 Article 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Seven retired Gurkha soldiers resident in Nepal challenged MoD terms as discriminatory compared with British Army soldiers.",
+        "Gurkhas are Nepalese citizens who serve under special tripartite arrangements dating from 1947, with Indian Army-linked pay and pensions.",
+        "The claimants pursued pensions and accompanied-service complaints; other alleged discrimination points were abandoned or narrowed.",
+        "Gurkha pensions are tailored to Nepalese cost of living and are substantially higher than local professional salaries."
+      ],
+      "procedural_posture": "Judicial review claim in the Administrative Court.",
+      "outcome": "Claims dismissed; pension arrangements upheld as lawful and proportionate; no declaratory relief granted on accompanied service for these retired claimants.",
+      "ratio": "Different pension arrangements for Gurkhas lawfully reflect nationality and retirement in Nepal rather than race, and are not disproportionate where tailored to Nepalese conditions; a 25% cap on accompanied service cannot be justified by the 1947 tripartite agreement alone, but retired claimants were not entitled to the broad declaratory relief sought.",
+      "legal_issues": [
+        "Whether Gurkha pension differences breach Article 14 read with Protocol 1 Article 1",
+        "Whether discrimination is on grounds of race or nationality",
+        "Whether the 25% accompanied-service limit breaches Article 8 read with Article 14"
+      ],
+      "catchwords": [
+        "Gurkhas",
+        "pensions",
+        "accompanied service",
+        "Article 14",
+        "Article 8",
+        "nationality discrimination"
+      ],
+      "index_terms": [
+        "Brigade of Gurkhas",
+        "tripartite agreement 1947",
+        "TACOS",
+        "Michalak",
+        "Carson",
+        "Ministry of Defence"
+      ],
+      "linked_authorities": [
+        "Wandsworth London Borough Council v Michalak",
+        "R (Carson) v Secretary of State for Work and Pensions"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed Michalak analysis on both pensions and accompanied service. Many cited authorities were not individually analysed in the judgment text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/353.json",
+    "status": "done",
+    "notes": "Batch 33 enrichment",
+    "enrichment": {
+      "short_title": "Enforcing Building Act demolition notice after delay",
+      "area_of_law": [
+        "Building regulation",
+        "Administrative law",
+        "Local government"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Building Act 1984",
+          "provisions": [
+            "section 36"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "An unauthorised rear extension at 46 New Cross Road was built in 1988 without planning or building approvals.",
+        "A section 36 demolition notice was served in 1988; appeal and earlier judicial review failed, but demolition was not carried out until 2000.",
+        "The extension was later used as a church, generating neighbour noise complaints and an ombudsman complaint about council inaction.",
+        "In April 2000 Lewisham resolved to enforce the notice twelve years after it was served."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against dismissal of judicial review of the council's decision to enforce a section 36 notice.",
+      "outcome": "Appeal dismissed; enforcement decision upheld.",
+      "ratio": "Long delay in enforcing a valid section 36 demolition notice does not automatically bar enforcement where the purpose remains the same and the owner has suffered no specific prejudice from the delay; a council may legitimately consider neighbour hardship and public reaction when deciding when to activate enforcement.",
+      "legal_issues": [
+        "Whether a section 36 notice becomes unenforceable after prolonged delay",
+        "Whether enforcement was motivated by improper purpose rather than Building Act duties",
+        "Applicability of Grice v Dudley Corporation to demolition notices"
+      ],
+      "catchwords": [
+        "section 36",
+        "demolition notice",
+        "Building Act",
+        "delay",
+        "judicial review",
+        "unauthorised extension"
+      ],
+      "index_terms": [
+        "Lewisham Council",
+        "Grice v Dudley Corporation",
+        "illegal building works",
+        "church use",
+        "enforcement notice",
+        "Otton LJ permission"
+      ],
+      "linked_authorities": [
+        "Grice v Dudley Corporation"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Limited grounds on appeal and outcome are clearly explained. Planning Act history is background only."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/750.json",
+    "status": "done",
+    "notes": "Batch 33 enrichment",
+    "enrichment": {
+      "short_title": "Time-limited farm repurchase option and perpetuities",
+      "area_of_law": [
+        "Property law",
+        "Equity",
+        "Wills and succession"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Perpetuities and Accumulations Act 1964",
+          "provisions": [
+            "section 9(2)"
+          ]
+        },
+        {
+          "title": "Land Charges Act 1972",
+          "provisions": [
+            "section 1(6)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Cross Roads Farm was sold by the Trueloves' company to the Wilson family in 1974 for £20,000 under a written agreement.",
+        "The agreement gave the Trueloves an unlimited right to repurchase the farm for £20,000 on specified death events.",
+        "Mr Wilson died in 1981; Mrs Wilson and David Wilson remained owners and resisted repurchase.",
+        "Both sides had solicitors in 1974 but neither appreciated the option would void under the rule against perpetuities."
+      ],
+      "procedural_posture": "Trial in the Chancery Division on validity of a contractual repurchase option.",
+      "outcome": "Claimants succeeded; repurchase option void under section 9(2); no rectification or estoppel; land charge registration vacated.",
+      "ratio": "A contractual right to repurchase land granted in 1974 without a time limit was an option to acquire an interest in land that vested immediately and became void under section 9(2) of the Perpetuities and Accumulations Act 1964; mutual mistake as to perpetuity rules does not justify rectification or estoppel where neither party represented that statutory rights would not be relied upon.",
+      "legal_issues": [
+        "When an option to repurchase land vests for perpetuity purposes",
+        "Whether rectification can rewrite an unlimited option into a valid term",
+        "Whether estoppel or equity prevents reliance on section 9(2)"
+      ],
+      "catchwords": [
+        "option to repurchase",
+        "rule against perpetuities",
+        "section 9(2)",
+        "rectification",
+        "estoppel by convention",
+        "land charge"
+      ],
+      "index_terms": [
+        "Cross Roads Farm",
+        "Priors Marston",
+        "1974 Agreement",
+        "London & South Western Railway Co v Gomm",
+        "Crabb v Arun DC",
+        "Keen v Holland"
+      ],
+      "linked_authorities": [
+        "London & South Western Railway Co v Gomm",
+        "Crabb v Arun DC",
+        "Amalgamated Investment v Texas Bank",
+        "Keen v Holland",
+        "Shah v Shah",
+        "Actionstrength v International Glass"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Three issues and orders are clearly resolved. Source judge metadata incorrectly lists Lord Denning MR."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/258.json",
+    "status": "done",
+    "notes": "Batch 33 enrichment",
+    "enrichment": {
+      "short_title": "Garden dwelling refused as countryside development",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Hayter applied for permission to build a four-bedroom house in the garden of Beeches Hill, Bishop's Waltham.",
+        "Winchester Council refused permission because the site lay outside the local plan inset and was countryside development contrary to structure and local plan policies.",
+        "The claimant argued the site fell within an H2 development frontage and that PPG3 favoured previously developed land.",
+        "An inspector dismissed the appeal, finding a distinct change in development pattern at the junction and harm to countryside character."
+      ],
+      "procedural_posture": "Section 288 challenge to a planning inspector's appeal decision, heard by Collins J.",
+      "outcome": "Challenge dismissed; inspector's decision upheld; costs assessed at £3,679.25.",
+      "ratio": "Where a proposal site lies outside the local plan inset boundary, policy H2 development frontages do not apply and countryside policies govern; PPG3 does not override those restrictions to permit backland garden development, and the inspector's planning judgment on character and appearance is not reviewable as an error of law.",
+      "legal_issues": [
+        "Whether the appeal site was within the Beeches Hill development frontage or countryside",
+        "Whether PPG3 previously developed land policy superseded local plan countryside restrictions",
+        "Whether the inspector misidentified the main issue or prejudged the appeal"
+      ],
+      "catchwords": [
+        "planning permission",
+        "section 288",
+        "countryside policy",
+        "development frontage",
+        "PPG3",
+        "garden plot"
+      ],
+      "index_terms": [
+        "Bishop's Waltham",
+        "Winchester District Local Plan",
+        "Hampshire County Structure Plan",
+        "inset 42",
+        "PPG12 proposals map",
+        "Gilberts Knapp"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Planning policy analysis and dismissal are clear. PPG3 and PPG12 are guidance rather than statute; no case authorities are cited."
+      }
+    }
+  }
+]

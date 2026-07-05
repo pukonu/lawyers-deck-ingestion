@@ -1,0 +1,660 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1734.json",
+    "status": "done",
+    "notes": "Interlocutory scheme appeal; section 427 jurisdiction and obiter bondholder class findings are clearly reasoned.",
+    "enrichment": {
+      "short_title": "MyTravel scheme: bondholder appeal on economic interest recital",
+      "area_of_law": [
+        "Company law",
+        "Insolvency law",
+        "Restructuring",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 425",
+            "section 427"
+          ]
+        }
+      ],
+      "key_facts": [
+        "MyTravel Group plc sought to restructure by transferring its undertaking to MyTravel Holdings plc, converting institutional debt to equity and leaving subordinated bondholders with claims against an assetless shell.",
+        "The company proposed section 425 meetings of shareholders and general creditors only, excluding subordinated bondholders who had not agreed to exchange their bonds.",
+        "The judge initially held the scheme was not a reconstruction for section 427 purposes and refused to convene meetings; the company then amended the scheme to proceed without a section 427 transfer order.",
+        "Subordinated bondholders appealed against recitals finding they had no economic interest in the company and were not a relevant creditor class."
+      ],
+      "procedural_posture": "Appeal with permission from interlocutory orders on an application under section 425(1) to convene scheme meetings for an amended restructuring of MyTravel.",
+      "outcome": "Permission to appeal granted and appeal allowed to set aside the recital that bondholders had no economic interest; permission refused on the earlier order and the court held the obiter economic interest finding was unnecessary because bondholders were plainly in a different class from general creditors.",
+      "ratio": "At the first stage of a section 425 scheme the court need not determine whether subordinated bondholders have an economic interest where they are not parties to the proposed compromise and are in a materially different class from general creditors; obiter findings on such issues should not be recorded in orders.",
+      "legal_issues": [
+        "Whether the original proposals constituted a reconstruction within section 427 of the Companies Act 1985",
+        "Whether subordinated bondholders were members of the same creditor class as general creditors",
+        "Whether the judge's finding that bondholders had no economic interest created issue estoppel or was necessary to convene meetings under the amended scheme",
+        "Whether bondholders were entitled to disclosure and a separate trial of the economic interest issue"
+      ],
+      "catchwords": [
+        "scheme of arrangement",
+        "section 425",
+        "section 427",
+        "subordinated bondholders",
+        "creditor classes",
+        "MyTravel"
+      ],
+      "index_terms": [
+        "Hawk Insurance",
+        "Practice Statement schemes",
+        "economic interest",
+        "ATOL refinancing",
+        "debt-for-equity",
+        "recital set aside"
+      ],
+      "linked_authorities": [
+        "In re Hawk Insurance Co Ltd [2001] EWCA Civ 241",
+        "In re BTR plc [2000] 1 BCLC 740",
+        "In the matter of Telewest Communications PLC [2004] EWHC 924 (Ch)"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Interlocutory appellate reasoning on class composition and unnecessary recitals is explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/2919.json",
+    "status": "done",
+    "notes": "Detailed jurisdiction judgment on P&I Club Rules and Brussels Regulation Article 23; Defence cover point succeeded for LDFS.",
+    "enrichment": {
+      "short_title": "P&I Club v LDFS: English jurisdiction for Joint Entrant premium claim",
+      "area_of_law": [
+        "Insurance law",
+        "Maritime law",
+        "Conflict of laws",
+        "Agency",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Council Regulation (EC) No 44/2001",
+          "provisions": [
+            "Article 12",
+            "Article 13",
+            "Article 14",
+            "Article 23"
+          ]
+        },
+        {
+          "title": "Marine Insurance Act 1906",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Louis Duty Free Shops Limited needed employers' liability cover for staff on Festival cruise ships and was added as a Joint Entrant on Festival's P&I cover with Standard Steamship Owners' Protection and Indemnity Association.",
+        "The Club sued the Cypriot company in England for unpaid premiums and calls after brokers agreed cover by email referencing Certificates of Entry governed by Club Rules containing an English jurisdiction clause.",
+        "LDFS applied to set aside service, arguing Rule 32 applied only to Members and that there was no Article 23 consensus conferring jurisdiction.",
+        "The Club established a good arguable case that Ferrari and Festival had actual authority to bind LDFS and that Article 23 was satisfied for P&I cover but not for separate Defence cover."
+      ],
+      "procedural_posture": "Commercial Court application to set aside service out of the jurisdiction in a claim for P&I and Defence premiums against a Joint Entrant.",
+      "outcome": "LDFS's jurisdiction challenge failed in respect of P&I cover where Article 23 and the Club Rules bound a Joint Entrant to English jurisdiction, but succeeded for Defence cover where no request or authority to add LDFS was shown.",
+      "ratio": "A Joint Entrant whose entry is accepted under P&I Club Rules is bound by Rule 32's English jurisdiction clause as a person whose entry has been accepted under the Rules; where an agent with actual or ostensible authority agrees jurisdiction on standard Club terms, Article 23 consensus may be established, but marine employers' liability cover on a joint entry falls within Article 14 risks permitting such agreements.",
+      "legal_issues": [
+        "Whether Rule 32.1 of the Club Rules applies to Joint Entrants as well as Members",
+        "Whether Article 23 jurisdiction was agreed in writing or by established trade usage between brokers and Club managers",
+        "Whether consensus must be that of the principal rather than its agent",
+        "Whether LDFS's cover was a large-risks insurance contract within Articles 12–14 and whether Defence cover was ever requested"
+      ],
+      "catchwords": [
+        "P&I Club",
+        "Joint Entrant",
+        "jurisdiction clause",
+        "Brussels Regulation",
+        "employers' liability",
+        "service out"
+      ],
+      "index_terms": [
+        "Charles Taylor",
+        "Ferrari brokers",
+        "Certificate of Entry",
+        "Salotti v RUWA",
+        "Prifti v Musini",
+        "Louis Cruise Lines"
+      ],
+      "linked_authorities": [
+        "Salotti v RUWA Polstereimaschinen GmbH [1976] ECR 1831",
+        "Ocarini Marine Ltd v Marcard Stein [1994] 2 Lloyd's Rep 524",
+        "Prifti v Musini [2004] Lloyd's Rep IR 528"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Construction of Club Rules and Article 23 analysis are detailed though some factual authority issues remain for trial."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2857.json",
+    "status": "done",
+    "notes": "Long Article 8/MHA section 47 judgment; claims dismissed after extensive chronology though systemic resource gaps noted.",
+    "enrichment": {
+      "short_title": "R (D): delay transferring self-harming YOI detainee to hospital",
+      "area_of_law": [
+        "Mental health law",
+        "Human rights",
+        "Public law",
+        "Prison law",
+        "Healthcare commissioning"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 47"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "National Health Service Act 1977",
+          "provisions": [
+            "section 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant, aged 17, was remanded to YOI Stoke Heath in January 2003 and repeatedly self-harmed with foreign objects, suicide attempts and infected wounds while exhibiting symptoms of mental disorder.",
+        "Despite numerous psychiatric assessments, conflicting diagnoses and scarce adolescent secure beds, he remained in the YOI until transferred to St Andrew's Hospital on 14 October 2003 after court orders.",
+        "He sought declarations and damages for unlawful delay by the Home Secretary in obtaining section 47 transfer reports and by the National Assembly for Wales in commissioning appropriate CAMHS provision.",
+        "Treatment at St Andrew's was beneficial and the court accepted severe distress during detention but found no breach of Convention rights."
+      ],
+      "procedural_posture": "Judicial review claim for declarations and damages relating to nine months' detention at a young offenders institution before hospital transfer under section 47 MHA.",
+      "outcome": "Claim dismissed; the court found prison staff and commissioners acted reasonably given inconsistent medical advice, lack of available placements and section 47 requirements, though the Mental Health Unit should have been involved earlier.",
+      "ratio": "The Home Secretary owes a duty expeditiously to take reasonable steps to obtain appropriate medical advice and effect a section 47 transfer where a prisoner needs hospital treatment, but failure to transfer is not unlawful where statutory preconditions including agreed diagnosis, treatability and an available bed within 14 days cannot reasonably be met; commissioning authorities must take reasonable steps to secure specialised adolescent mental health services but are not absolute insurers of bed availability.",
+      "legal_issues": [
+        "Whether the Home Secretary breached a duty to seek section 47 medical recommendations and make a transfer direction",
+        "Whether the National Assembly for Wales breached duties to commission child and adolescent mental health services",
+        "Whether delay infringed Article 8 or Article 3 ECHR",
+        "Construction and application of section 47 treatability and hospital consent requirements"
+      ],
+      "catchwords": [
+        "section 47 transfer",
+        "young offender",
+        "self-harm",
+        "Article 8",
+        "secure adolescent bed",
+        "CAMHS commissioning"
+      ],
+      "index_terms": [
+        "Stoke Heath",
+        "St Andrew's Hospital",
+        "OASys",
+        "Code of Practice MHA",
+        "Ty Llewellyn",
+        "psychopathic disorder"
+      ],
+      "linked_authorities": [
+        "R (B) v Ashworth Hospital Authority [2003] EWCA Civ 547",
+        "R v Secretary of State for the Home Department, ex parte Gilkes, 21 January 1999"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Legal framework and dismissal are clearly reasoned on voluminous facts; outcome turns heavily on chronology."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/3161.json",
+    "status": "done",
+    "notes": "Short statutory construction judgment; Collins J distinguished Erdogan for adjudicator-stage appeals.",
+    "enrichment": {
+      "short_title": "SSHD v IAT: Tribunal jurisdiction over late notice of appeal refusals",
+      "area_of_law": [
+        "Immigration law",
+        "Administrative law",
+        "Judicial review",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 82",
+            "section 101",
+            "section 102",
+            "section 104"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Secretary of State challenged Immigration Appeal Tribunal decisions allowing appeals against adjudicators' refusals to extend time for asylum appeals lodged out of time.",
+        "Rule 10 of the Immigration and Asylum Appeals (Procedure) Rules 2003 treats an out-of-time document as a notice of appeal to be decided by an adjudicator on documents without a hearing.",
+        "The Tribunal held it had jurisdiction under section 101 to hear a further appeal on a point of law against such determinations after the definition of 'determination' was removed in the 2002 Act.",
+        "Collins J rejected abuse-of-process arguments and held the statutory and procedural language treated late notices as appeals, unlike permission applications to the Tribunal."
+      ],
+      "procedural_posture": "Judicial review by the Secretary of State of Immigration Appeal Tribunal rulings on jurisdiction to hear appeals from adjudicators' time-extension decisions.",
+      "outcome": "Claim failed; the Tribunal had jurisdiction under section 101 to hear appeals on points of law from adjudicators' refusals to extend time for out-of-time notices of appeal.",
+      "ratio": "A notice of appeal given outside the Rule 7 time limit remains a notice of appeal for which the appellant is a party; an adjudicator's refusal to extend time is a 'determination' appealable to the Immigration Appeal Tribunal under section 101, and section 104(2)(b)'s reference to appeals out of time with permission does not exclude such appeals at the adjudicator stage.",
+      "legal_issues": [
+        "Whether an adjudicator's refusal to extend time is a determination under section 101",
+        "Whether Rule 10 procedure creates an appeal or merely an application for permission",
+        "Interaction between section 104 pending-appeal provisions and out-of-time notices",
+        "Whether Erdogan v SSHD governs adjudicator-stage as well as Tribunal-stage time extensions"
+      ],
+      "catchwords": [
+        "immigration appeal",
+        "out of time",
+        "Rule 10",
+        "section 101",
+        "Immigration Appeal Tribunal",
+        "late notice"
+      ],
+      "index_terms": [
+        "B (Zimbabwe) [2004] UKIAT 00076",
+        "Erdogan [2004] EWCA Civ 1087",
+        "Procedure Rules 2003",
+        "adjudicator determination",
+        "asylum seeker"
+      ],
+      "linked_authorities": [
+        "Erdogan v SSHD [2004] EWCA Civ 1087",
+        "B (Zimbabwe) [2004] UKIAT 00076"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Central statutory construction issue and dismissal are succinctly and clearly resolved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/3118.json",
+    "status": "done",
+    "notes": "Divisional Court case stated appeal; quashed acquittal but declined remittal given blameless driver.",
+    "enrichment": {
+      "short_title": "VOSA v Henderson: section 40A danger from loose lorry wheel nuts",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal law",
+        "Administrative law",
+        "Case stated"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 40A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Henderson drove a 32-tonne DAF lorry whose rear wheel nuts had been serviced three days earlier; he conducted daily visual checks before a 466km journey on the M5.",
+        "He stopped when he felt vibration, found nuts finger-loose, removed and loosely replaced them while awaiting ATS repair, and informed a VOSA inspector who issued a prohibition notice.",
+        "Magistrates acquitted him of using a vehicle in a dangerous condition, accepting his account that the loose state resulted from his own inspection rather than prolonged driving.",
+        "The prosecution appealed by case stated contending that nuts not even finger-tight while driving necessarily involved a danger of injury."
+      ],
+      "procedural_posture": "Appeal by way of case stated from magistrates' acquittal on a charge under section 40A Road Traffic Act 1988.",
+      "outcome": "Acquittal quashed as no reasonable bench could have found no danger on the facts accepted, but the Divisional Court declined to remit for conviction and imposed no further penalty because Henderson was blameless.",
+      "ratio": "Section 40A creates an absolute offence as to state of mind but whether the vehicle's condition involves a danger of injury is a question of fact; a wheel whose nuts were not finger-tight and caused significant vibration while driven on a motorway was in a condition involving danger to persons even if imminent detachment had not yet occurred.",
+      "legal_issues": [
+        "Whether section 40A requires proof of mens rea",
+        "Whether loose wheel nuts while driving involved a danger of injury on the magistrates' findings",
+        "Whether the prosecution case focused wrongly on the condition when inspected stationary rather than when driven",
+        "Exercise of discretion to remit after quashing an acquittal"
+      ],
+      "catchwords": [
+        "section 40A",
+        "dangerous condition",
+        "wheel nuts",
+        "HGV",
+        "case stated",
+        "absolute offence"
+      ],
+      "index_terms": [
+        "Cornish v Ferry Masters",
+        "DPP v Potts",
+        "VOSA prohibition",
+        "M5 motorway",
+        "finger-tight nuts"
+      ],
+      "linked_authorities": [
+        "Cornish v Ferry Masters Ltd [1975] RTR 292",
+        "DPP v Potts, Divisional Court, 4 December 1988"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Findings of fact and legal conclusion on 'danger' are clearly stated though remittal discretion is exceptional."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1668.json",
+    "status": "done",
+    "notes": "Fact-intensive rugby negligence appeal; Neuberger LJ's detailed witness credibility analysis upheld dismissal.",
+    "enrichment": {
+      "short_title": "Allport v Wilbraham: rugby referee liability for scrum injury",
+      "area_of_law": [
+        "Personal injury",
+        "Negligence",
+        "Sports law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Allport, a 21-year-old hooker, suffered catastrophic C3/C4 spinal injury causing tetraplegia during a third XV rugby scrum about 20 minutes into a match refereed by Mr Wilbraham.",
+        "The claim alleged the referee failed to control scrummaging under Law 20 by not calling 'engage' properly or allowing engagement when the tight-head prop was not crouched.",
+        "The trial judge preferred the referee's evidence over that of the Stourbridge captain and prop, noting no complaints during or after the match and a favourable referee assessment card.",
+        "The Court of Appeal rejected challenges to the judge's even-handedness, treatment of contemporaneous reports and adequacy of reasons."
+      ],
+      "procedural_posture": "Appeal from dismissal of a negligence claim against a rugby referee after a two-day liability trial.",
+      "outcome": "Appeal dismissed; the trial judge's preference for the referee's account and rejection of the claimants' witnesses was open to him and adequately reasoned.",
+      "ratio": "In a rugby negligence claim turning on disputed scrum management, an appellate court will not interfere with a trial judge's credibility findings where he saw and heard witnesses unless reasons are inadequate or he failed to take proper advantage of that advantage; contemporaneous absence of complaint and referee assessment marks may support rejection of later serious allegations.",
+      "legal_issues": [
+        "Whether the referee failed to enforce Law 20 scrum engagement sequence",
+        "Whether the tight-head prop was improperly positioned at engagement",
+        "Adequacy of trial judge's reasons under Flannery principles",
+        "Whether appellate court could overturn factual findings on printed evidence alone"
+      ],
+      "catchwords": [
+        "rugby scrum",
+        "referee negligence",
+        "Law 20",
+        "spinal injury",
+        "witness credibility",
+        "sports injury"
+      ],
+      "index_terms": [
+        "Stourbridge third XV",
+        "Cheltenham third XV",
+        "tetraplegia",
+        "engage call",
+        "referee assessment card",
+        "Flannery v Halifax"
+      ],
+      "linked_authorities": [
+        "Flannery v Halifax Estate Agencies Ltd [2000] 1 WLR 377",
+        "Watt or Thomas v Thomas [1947] AC 484"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Appellate endorsement of trial findings and procedural law is comprehensive."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/2924.json",
+    "status": "done",
+    "notes": "Preliminary issue on Glynn v Margetson construction of very wide bill of lading exemption clause.",
+    "enrichment": {
+      "short_title": "Mitsubishi v Eastwind: carrier exemption clause on frozen chicken cargo",
+      "area_of_law": [
+        "Carriage of goods",
+        "Commercial law",
+        "Contract law",
+        "Maritime law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mitsubishi claimed damage to 109,344 cartons of frozen chicken shipped from Brazil to Japan under bills of lading alleging missing refrigeration gratings and negligent failure to maintain cargo temperature.",
+        "The carrier relied on clause 4, a very widely drafted exemption excluding liability for loss or damage however caused including negligence and unseaworthiness.",
+        "The claimant argued the clause, read literally, nullified the contract and was repugnant to the purpose of a contract of carriage and should be rejected entirely.",
+        "Tomlinson J held the clause was effective for negligence and uncargoworthiness claims but did not exclude liability for dishonesty or arbitrary refusal to perform."
+      ],
+      "procedural_posture": "Preliminary issue trial in the Commercial Court on whether clause 4 exempts the carrier from liability for the pleaded cargo damage claims.",
+      "outcome": "Clause 4 held effective to exempt the defendants from potential liability for the claims alleging negligence and uncargoworthiness causing refrigeration failure.",
+      "ratio": "Under Glynn v Margetson principles, extremely wide 'however caused' language in a bill of lading exemption clause must be read in context and does not relieve a carrier of all obligations; it excludes liability for negligence and unseaworthiness causing cargo damage but not dishonest or total refusal to perform, and the contra proferentem rule cannot be used to widen a clause so as to render it repugnant to the contract.",
+      "legal_issues": [
+        "Whether clause 4 excludes all secondary obligations reducing the contract to a declaration of intent",
+        "Proper construction of 'however caused' and 'any other cause whatsoever' wording",
+        "Application of Glynn v Margetson and Suisse Atlantique principles to bills of lading",
+        "Whether UCTA 1977 applies to international carriage contracts"
+      ],
+      "catchwords": [
+        "exemption clause",
+        "bill of lading",
+        "carriage of goods",
+        "refrigerated cargo",
+        "Glynn v Margetson",
+        "negligence"
+      ],
+      "index_terms": [
+        "Irbenskiy Proliv",
+        "perishable chicken",
+        "clause 4",
+        "Photo Production v Securicor",
+        "Suisse Atlantique",
+        "secondary obligations"
+      ],
+      "linked_authorities": [
+        "Glynn v Margetson & Co [1893] AC 351",
+        "Photo Production Ltd v Securicor Transport Ltd [1980] AC 827",
+        "Suisse Atlantique Société d'Armement Maritime SA v NV Rotterdamsche Kolen Centrale [1967] AC 361"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Preliminary issue disposition and construction principles are clearly articulated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2933.json",
+    "status": "done",
+    "notes": "Planning appeal quashed; Inspector misapplied inapplicable gypsy policy HG29 and failed adequate reasons.",
+    "enrichment": {
+      "short_title": "South Cambridgeshire v Inspector: gypsy caravan site permission quashed",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Gypsy and traveller law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 54A",
+            "section 78",
+            "section 172",
+            "section 174",
+            "section 177",
+            "section 288",
+            "section 289"
+          ]
+        },
+        {
+          "title": "Caravan Sites Act 1968",
+          "provisions": [
+            "section 16"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr and Mrs McCarthy, Irish traveller gypsies who had ceased nomadic life through age and ill health, occupied an unauthorised residential caravan site at Cottenham with their grandson Daniel O'Rourke.",
+        "The Inspector allowed planning and enforcement appeals, granting permission for two caravans and a shower block despite finding Mr and Mrs McCarthy had lost gypsy status under draft policy HG29.",
+        "South Cambridgeshire challenged the decision under sections 288 and 289, arguing the Inspector wrongly applied HG29 criteria instead of countryside restraint policies and gave inadequate reasons.",
+        "The Secretary of State conceded quashing; the McCarthys and Mr O'Rourke continued to resist."
+      ],
+      "procedural_posture": "Combined section 288 application and section 289 appeal against an Inspector's decision granting planning permission and quashing an enforcement notice for a residential gypsy caravan site.",
+      "outcome": "Inspector's decision quashed under section 288 and matter remitted to the Secretary of State under section 289; leave to appeal refused.",
+      "ratio": "Where an Inspector finds occupiers have lost gypsy status and draft policy HG29 is inapplicable, he must assess rural character impact against the adopted development plan's countryside restraint policies under section 54A, not HG29 siting criteria alone; personal circumstances must be weighed against plan policies, not merely against loss of gypsy status, and inadequate reasons on alternative accommodation prejudice the planning authority.",
+      "legal_issues": [
+        "Whether the Inspector misdirected himself by treating draft policy HG29 as applicable after finding loss of gypsy status",
+        "Whether personal circumstances of non-gypsy occupiers could outweigh inapplicable gypsy policies",
+        "Relevance of Mr O'Rourke's gypsy status as an occupant rather than appellant",
+        "Adequacy of reasons for rejecting accommodation on adjoining authorised pitches"
+      ],
+      "catchwords": [
+        "gypsy status",
+        "planning permission",
+        "enforcement notice",
+        "caravan site",
+        "section 54A",
+        "Setchel Drove"
+      ],
+      "index_terms": [
+        "Cottenham",
+        "Policy HG29",
+        "Wrexham CB v Berry",
+        "Irish travellers",
+        "countryside restraint",
+        "South Bucks v Porter"
+      ],
+      "linked_authorities": [
+        "Wrexham County Borough Council v National Assembly for Wales and Mr and Mrs Berry",
+        "South Bucks District Council v Porter [2004] UKHL 33"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Grounds of challenge and quashing order are clearly explained though gypsy status law evolves."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/2947.json",
+    "status": "done",
+    "notes": "Administration of BAR Holdings; BAT creditor locus and abuse arguments rejected, joint administrators appointed.",
+    "enrichment": {
+      "short_title": "Re BAR Holdings: administration of Formula 1 joint venture company",
+      "area_of_law": [
+        "Insolvency law",
+        "Company law",
+        "Joint ventures",
+        "Sports law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "Schedule B1 paragraph 3",
+            "Schedule B1 paragraph 11",
+            "Schedule B1 paragraph 12"
+          ]
+        }
+      ],
+      "key_facts": [
+        "British American Racing (Holdings) Ltd owned the Formula 1 team subsidiary whose losses were funded by BAT convertible and on-demand loans under a 1997 joint venture agreement with minority shareholders including Mount Eagle.",
+        "BAT, holding 89% of shares and substantial loan claims, demanded repayment of US$27.6m on-demand loans and matured loan stock then applied to place the company in administration to facilitate sale to a new BAT/Honda joint venture.",
+        "Mount Eagle opposed, arguing BAT lacked creditor standing because loans should have been equity or long-term stock and that administration was an abuse to expropriate minority shareholders.",
+        "The court appointed joint administrators, finding the company insolvent and that administration was likely to achieve a better result for creditors than winding up."
+      ],
+      "procedural_posture": "Administration application under paragraph 12 Schedule B1 Insolvency Act 1986 by principal creditor BAT (Westminster House) Ltd.",
+      "outcome": "Administration order made and joint administrators appointed; BAT had locus as creditor and the application was not an abuse of process.",
+      "ratio": "On-demand loans and matured convertible loan stock are enforceable debts giving a shareholder-creditor standing to petition for administration where not estopped; appointing administrators as officers of the court to sell a joint venture subsidiary in the creditors' interests is not an abusive expropriation of minority shareholders comparable to Bugle Press even where the petitioning creditor has negotiated a prospective purchaser.",
+      "legal_issues": [
+        "Whether BAT's on-demand loans were enforceable debts or must be treated as equity under the fifth supplemental agreement",
+        "Whether BAT was estopped from treating loans as repayable debt",
+        "Whether administration was brought for improper purpose of excluding Mount Eagle",
+        "Whether administration was reasonably likely to achieve a better result than winding up"
+      ],
+      "catchwords": [
+        "administration order",
+        "Formula 1",
+        "joint venture",
+        "minority shareholder",
+        "on-demand loan",
+        "BAT Honda"
+      ],
+      "index_terms": [
+        "British American Racing GP",
+        "Mount Eagle",
+        "Bugle Press",
+        "Schedule B1",
+        "tobacco sponsorship",
+        "Prime Life"
+      ],
+      "linked_authorities": [
+        "Re Bugle Press Ltd [1961] Ch 270",
+        "Re a Company No 001573 of 1983 [1983] BCC 98937"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Administration grounds and locus analysis are detailed though sale outcome remained prospective."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1713.json",
+    "status": "done",
+    "notes": "Leading care home manager registration appeal; burden of proof on applicant under Care Standards Act 2000.",
+    "enrichment": {
+      "short_title": "Jones v CSCI: burden of proof for care home manager registration",
+      "area_of_law": [
+        "Healthcare regulation",
+        "Administrative law",
+        "Professional discipline",
+        "Social care"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Care Standards Act 2000",
+          "provisions": [
+            "section 11",
+            "section 12",
+            "section 13",
+            "section 17",
+            "section 18",
+            "section 19",
+            "section 21",
+            "section 22",
+            "section 27"
+          ]
+        },
+        {
+          "title": "Registered Homes Act 1984",
+          "provisions": [
+            "section 9"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Peter Jones, an experienced mental health nurse and manager of Prime Life care homes, applied to register as fit to manage Middlefield House under the Care Standards Act 2000.",
+        "The National Care Standards Commission refused registration because of pending disciplinary proceedings, his concealment of those proceedings on the application form, and poor performance at interview.",
+        "The Care Standards Tribunal allowed his appeal on the basis that the Commission bore the burden of proving unfitness; Sullivan J allowed the Commission's statutory appeal.",
+        "The Court of Appeal held the applicant must demonstrate fitness under section 13(2) and regulation 9 and remitted for rehearing by a differently constituted Tribunal."
+      ],
+      "procedural_posture": "Appeal from Administrative Court allowing the Commission's statutory appeal against a Care Standards Tribunal decision granting registration as care home manager.",
+      "outcome": "Appeal dismissed on burden of proof; matter remitted to a fresh Tribunal panel to apply regulation 9 criteria correctly; Commission's cross-appeal for final refusal not granted.",
+      "ratio": "Under the Care Standards Act 2000 and Care Homes Regulations 2001 regulation 9, an applicant for registration as a care home manager must prove on the balance of probabilities that he is a fit person of integrity and good character with requisite qualifications, skills and experience; the registration authority need only refuse if not satisfied, reversing the burden under the 1984 Act.",
+      "legal_issues": [
+        "Whether the burden of proof lies on the applicant or the Commission to establish fitness to manage a care home",
+        "Proper construction of regulation 9 mandatory requirements versus guidance",
+        "Whether the Tribunal adequately reasoned its fitness assessment",
+        "Whether the Court of Appeal should finally determine unfitness or remit to the Tribunal"
+      ],
+      "catchwords": [
+        "care home manager",
+        "fit person",
+        "Care Standards Act",
+        "registration",
+        "burden of proof",
+        "regulation 9"
+      ],
+      "index_terms": [
+        "Middlefield House",
+        "Prime Life",
+        "National Care Standards Commission",
+        "integrity and good character",
+        "disciplinary proceedings",
+        "Care Standards Tribunal"
+      ],
+      "linked_authorities": [
+        "Alternative Futures Ltd v National Care Standards Commission [2002] 101-111 NC",
+        "Jones v Commission for Social Care Inspection [2004] EWHC 918 (Admin)"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Central burden of proof holding and regulatory framework analysis are authoritative and clear."
+      }
+    }
+  }
+]

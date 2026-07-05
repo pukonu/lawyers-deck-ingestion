@@ -1,0 +1,710 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1838.json",
+    "status": "done",
+    "notes": "Batch 104 enrichment",
+    "enrichment": {
+      "short_title": "Extradition habeas corpus after nine-year German delay",
+      "area_of_law": [
+        "Extradition law",
+        "Administrative law",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act 1989",
+          "provisions": [
+            "section 11(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Daly, an Irish national, applied for habeas corpus challenging committal to await extradition to Germany for alleged attempted robbery in February 1994.",
+        "He was arrested in 1994 and released without passport retention; Germany did not place him on the wanted list until 1996 despite his open residence in Germany, Ireland and England.",
+        "Extradition was sought in 2003 after Staffordshire police arrested him on a German warrant following an unrelated caution.",
+        "Germany offered sparse evidence explaining the long delay and why passport checks in 1995 did not lead to prosecution.",
+        "The court held return would be unjust and oppressive because of prejudice to a fair trial and delay-induced false security."
+      ],
+      "procedural_posture": "Habeas corpus application in the Administrative Court challenging detention pending extradition to Germany.",
+      "outcome": "Writ of habeas corpus granted; applicant discharged from extradition detention.",
+      "ratio": "Under section 11(3) of the Extradition Act 1989, where delay since the alleged offence is largely attributable to the requesting state and the fugitive is not shown to have evaded justice, return may be both unjust because of impaired trial fairness and oppressive because the applicant was lulled into believing proceedings would not follow.",
+      "legal_issues": [
+        "Whether nine years' delay made return unjust or oppressive under section 11(3)",
+        "Whether delay should be measured from commission of the offence",
+        "Whether dilatory conduct of the requesting state weighs in the applicant's favour",
+        "The meaning of unjust and oppressive in extradition under Kakis"
+      ],
+      "catchwords": [
+        "habeas corpus",
+        "extradition",
+        "passage of time",
+        "unjust",
+        "oppressive",
+        "requesting state delay",
+        "fair trial prejudice"
+      ],
+      "index_terms": [
+        "Daly",
+        "Federal Republic of Germany",
+        "Bow Street Magistrates' Court",
+        "Kakis v Cyprus",
+        "Rose",
+        "Sagman",
+        "attempted robbery"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Kakis v Government of the Republic of Cyprus",
+          "citation": "[1978] 1 WLR 779",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Secretary of State for the Home Department ex parte Sinclair",
+          "citation": "[1992] Imm AR 293",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Secretary of State for the Home Department ex parte Patel",
+          "citation": "[1995] 7 Admin LR 56",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full reasoned judgment on extradition delay with clear outcome and cited authorities."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/974.json",
+    "status": "done",
+    "notes": "Batch 104 enrichment",
+    "enrichment": {
+      "short_title": "Court of Appeal costs after complex civil appeal",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "This is a short costs judgment following the substantive appeal in Hollins v Russell.",
+        "Brooke LJ treated the case as highly complex and warranting full investigation on appeal.",
+        "The court declined to disallow costs of arguments that failed unless points were unreasonably taken.",
+        "The claimant was awarded costs throughout with £7,500 on account and the remainder subject to detailed assessment.",
+        "The court rejected a suggestion that paragraphs 127-128 of the main judgment contained an error."
+      ],
+      "procedural_posture": "Court of Appeal costs ruling following determination of the substantive appeal.",
+      "outcome": "Claimant awarded costs throughout; £7,500 on account with balance to detailed assessment; no issue-based costs discount.",
+      "ratio": "In a weighty and highly complex appeal, the court should not ordinarily discount a successful party's costs for unsuccessful issues unless those issues were unreasonably pursued; costs are assessed as a whole rather than on an issue-by-issue basis.",
+      "legal_issues": [
+        "Whether costs should be discounted for unsuccessful arguments on appeal",
+        "The appropriate amount payable on account of costs",
+        "Whether the court should revise its substantive judgment at counsel's request"
+      ],
+      "catchwords": [
+        "costs",
+        "Court of Appeal",
+        "issue-based costs",
+        "on account",
+        "detailed assessment",
+        "complex litigation"
+      ],
+      "index_terms": [
+        "Hollins v Russell",
+        "Brooke LJ",
+        "Tichband v Hurdman",
+        "Dunn v Ward",
+        "Pratt v Bull",
+        "Worth v McKenna"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.78,
+        "level": "medium",
+        "notes": "Costs-only transcript with limited substantive legal analysis; underlying appeal issues are not fully described."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1488.json",
+    "status": "done",
+    "notes": "Batch 104 enrichment",
+    "enrichment": {
+      "short_title": "Stevedore's general lien on timber after carrier insolvency",
+      "area_of_law": [
+        "Commercial law",
+        "Bailment",
+        "Carriage of goods",
+        "Contract law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Swedish timber shippers challenged Convoys' detention of goods at Chatham after carrier Siöwalls went into liquidation owing stevedoring charges.",
+        "Timber had been carried under Siöwalls bills allowing subcontracting on any terms; Convoys handled goods on Crescent wharfingers and UKWA conditions including a general lien.",
+        "Convoys exercised a lien for debts owed by Siöwalls rather than by the shippers themselves.",
+        "During Siöwalls' administration Convoys assured shippers that prepaid cargoes would not be detained, but later imposed a lien after liquidation.",
+        "The judge held the general lien was within the shippers' consent under The Pioneer Container but was waived for prepaid shipments; wrongful detention damages followed."
+      ],
+      "procedural_posture": "Commercial court trial of claim for delivery up and damages for wrongful interference with goods.",
+      "outcome": "Claimants largely succeeded: lien upheld for older stock but not for prepaid or wrongfully detained parcels; damages and repayment orders made for unlawfully detained goods.",
+      "ratio": "A sub-bailee may rely on a general lien clause in sub-bailment terms consented to through a carrier's liberty to subcontract on any terms, provided the clause is not so unusual or unreasonable as to fall outside that consent; however, an assurance that prepaid goods will not be detained can waive lien rights even after the carrier's liquidation.",
+      "legal_issues": [
+        "Whether Convoys could enforce a general lien against owners for Siöwalls' debts",
+        "Whether shippers consented to sub-bailment on Crescent and UKWA terms",
+        "Whether clause 18(4) of Siöwalls' conditions gave Convoys an independent contractual lien",
+        "Whether Convoys waived lien rights by prepayment assurances during administration"
+      ],
+      "catchwords": [
+        "lien",
+        "sub-bailee",
+        "bailment",
+        "bill of lading",
+        "stevedore",
+        "timber",
+        "Pioneer Container",
+        "general lien"
+      ],
+      "index_terms": [
+        "Jarl Tra AB",
+        "Convoys Ltd",
+        "Siöwalls",
+        "Chatham",
+        "Chellaram v Butlers",
+        "UKWA 1994",
+        "Crescent Wharves"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Pioneer Container",
+          "citation": "[1994] 2 AC 324",
+          "relation": "applied"
+        },
+        {
+          "name": "Chellaram & Sons (London) Ltd v Butlers Warehousing & Distribution Ltd",
+          "citation": "[1978] 2 Lloyd's Rep 412",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Parker v South Eastern Railway Co",
+          "citation": "(1877) 2 CPD 416",
+          "relation": "cited"
+        },
+        {
+          "name": "Thornton v Shoe Lane Parking Ltd",
+          "citation": "[1971] 2 QB 163",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed commercial judgment with full reasoning on lien, consent and waiver."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/1650.json",
+    "status": "done",
+    "notes": "Batch 104 enrichment",
+    "enrichment": {
+      "short_title": "Construction final account compromise and loss-and-expense claims",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Equity"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Hurst carried out extensive toilet fit-out works at Merrill Lynch's London headquarters under a trade contract managed by Mace.",
+        "Hurst's project manager signed a 27 April 2001 document presented as a final stage-one account, believing it recorded agreed CMI valuations only.",
+        "The document also stated full and final settlement of all accrued claims, which Hurst disputed for additional preliminaries and disruption.",
+        "The court found Mr Rumsey knew Mr Mell misunderstood the document's settlement wording and ordered rectification to remove that clause.",
+        "Alternatively, Mr Mell lacked authority to bind Hurst to a compromise of all accrued claims; MLEP's estoppel defence failed."
+      ],
+      "procedural_posture": "Technology and Construction Court action for declarations and rectification concerning interim/final accounting documents.",
+      "outcome": "Hurst obtained key declarations and rectification; 27 April 2001 document not binding as a full and final compromise; Hurst awarded 80% of its costs.",
+      "ratio": "Where a construction subcontractor's site representative signs a final account document under a unilateral mistake as to its settlement effect known to the employer's agent, the document may be rectified; absent rectification, a project manager without authority cannot bind the contractor to compromise all accrued loss-and-expense claims, and an employer cannot rely on estoppel to defeat the contractor's true contractual rights.",
+      "legal_issues": [
+        "Whether the 27 April 2001 document was a binding full and final settlement",
+        "Whether rectification was available for unilateral mistake known to the other party",
+        "Whether Mr Mell had authority to compromise all accrued claims",
+        "Whether there was consideration for the alleged compromise",
+        "Whether MLEP was estopped from denying Hurst's further claims"
+      ],
+      "catchwords": [
+        "construction contract",
+        "final account",
+        "rectification",
+        "unilateral mistake",
+        "loss and expense",
+        "authority",
+        "estoppel",
+        "CMI valuation"
+      ],
+      "index_terms": [
+        "Hurst Stores and Interiors",
+        "M.L. Europe Property",
+        "Mace",
+        "Merrill Lynch",
+        "James Mell",
+        "David Rumsey",
+        "Commission for New Towns v Cooper"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Commission for the New Towns v Cooper (Great Britain) Ltd",
+          "citation": "[1995] Ch 259",
+          "relation": "applied"
+        },
+        {
+          "name": "Baden v Société Générale pour Favoriser le Développement du Commerce et de L'Industrie en France SA",
+          "citation": "[1993] 1 WLR 509",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long TCC judgment with detailed findings on mistake, authority and estoppel."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1510.json",
+    "status": "done",
+    "notes": "Batch 104 enrichment",
+    "enrichment": {
+      "short_title": "Beer-tie damages claim after Article 81 ECJ reference",
+      "area_of_law": [
+        "Competition law",
+        "European law",
+        "Landlord and tenant",
+        "Damages"
+      ],
+      "statutes_considered": [
+        {
+          "title": "EC Treaty",
+          "provisions": [
+            "Article 81"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Crehan leased two tied pubs from Inntrepreneur and was required to buy beer from Courage at full list prices while free houses bought at heavy discounts.",
+        "His business failed and he claimed damages for alleged infringement of Article 81 through the beer tie, following a preliminary ruling from the ECJ.",
+        "The case returned to the English court to decide whether the ties infringed Article 81 and caused the business failure.",
+        "Park J found the beer ties caused Crehan's failure rather than his own mismanagement.",
+        "However, the Delimitis conditions for applying Article 81 were not satisfied, so the damages claim was dismissed."
+      ],
+      "procedural_posture": "Chancery trial following a preliminary reference to the Court of Justice on follow-on damages for an alleged Article 81 infringement.",
+      "outcome": "Damages claim dismissed because Delimitis condition 1 was not satisfied and condition 2 might not be satisfied, despite factual findings favourable to Crehan on causation.",
+      "ratio": "Even where a tied tenant proves that beer ties caused business failure, a follow-on damages claim for breach of Article 81 fails unless both Delimitis conditions are met to show the ties had an appreciable effect on competition in the relevant market.",
+      "legal_issues": [
+        "Whether Inntrepreneur beer ties infringed Article 81 in 1991 and later years",
+        "Whether Crehan's business failure was caused by the beer ties",
+        "Whether the Delimitis conditions were satisfied",
+        "Assessment of loss of profits and lease value"
+      ],
+      "catchwords": [
+        "beer tie",
+        "Article 81",
+        "Delimitis",
+        "competition law",
+        "pub lease",
+        "follow-on damages",
+        "Courage"
+      ],
+      "index_terms": [
+        "Crehan",
+        "Inntrepreneur Pub Company",
+        "Cock Inn Staines",
+        "Phoenix Staines",
+        "Courage",
+        "CJEC",
+        "tied house"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Crehan v Inntrepreneur Pub Co (CPC)",
+          "citation": "[2002] QB 507",
+          "relation": "applied"
+        },
+        {
+          "name": "Delimitis v Henninger Bräu AG",
+          "citation": "Case C-234/89",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Very long judgment but conclusion and core competition-law issues are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1627.json",
+    "status": "done",
+    "notes": "Batch 104 enrichment",
+    "enrichment": {
+      "short_title": "Planning challenge to open-space policy 64 application",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 54A",
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A developer appealed refusal of permission for three dwellings in Richmond, Yorkshire, and an inspector allowed the appeal by written representations.",
+        "Richmondshire District Council challenged the decision under section 288, focusing on local plan policy 64 on recreational open space.",
+        "Policy 64 permits development only if it would not materially reduce supply or fail to meet extra demand for open space; Guidance Note 8 allows financial contributions in lieu.",
+        "No section 106 contribution had been secured before permission was granted.",
+        "The inspector treated non-compliance with policy 64 as harmless because she found no material harm, without conducting a lawful section 54A balancing exercise."
+      ],
+      "procedural_posture": "Statutory challenge under section 288 of the Town and Country Planning Act 1990 to a planning inspector's appeal decision.",
+      "outcome": "Claim upheld; inspector's decision quashed and remitted for reconsideration.",
+      "ratio": "Where an inspector finds that development does not comply with development plan policy but grants permission because it would not cause material harm to the policy's objectives, she must identify countervailing material considerations and weigh them under section 54A; conflating policy 64's 'material extent' test with a wider material-harm inquiry is a legal error requiring quashing.",
+      "legal_issues": [
+        "Construction of local plan policy 64 and Guidance Note 8",
+        "Whether the inspector lawfully applied section 54A",
+        "Whether 'material harm' can substitute for a finding of compliance with policy 64",
+        "Effect of absent section 106 open-space contributions"
+      ],
+      "catchwords": [
+        "section 288",
+        "development plan",
+        "open space",
+        "policy 64",
+        "section 54A",
+        "material extent",
+        "planning inspector"
+      ],
+      "index_terms": [
+        "Richmondshire District Council",
+        "Richmond Yorkshire",
+        "Guidance Note 8",
+        "PPG12",
+        "City of Edinburgh v Secretary of State for Scotland"
+      ],
+      "linked_authorities": [
+        {
+          "name": "City of Edinburgh Council v Secretary of State for Scotland",
+          "citation": "[1997] 1 WLR 1447",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Clear planning judgment on section 54A error with defined policy wording."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1106.json",
+    "status": "done",
+    "notes": "Batch 104 enrichment",
+    "enrichment": {
+      "short_title": "Insurance appeal costs and interim payment orders",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Insurance law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "This is a short post-judgment ruling in Feasey v Sun Life Assurance Company of Canada and related parties.",
+        "The Court of Appeal dismissed the appeal and made costs orders between the Syndicate, Steamship and Sun Life.",
+        "The court awarded an interim costs payment of £100,000, describing figures as plucked from the air due to inadequate disclosure.",
+        "Sun Life must pay costs of abandoned misrepresentation issues up to abandonment; the Syndicate's participation costs were limited to a noting brief.",
+        "Leave to appeal to the House of Lords was not granted by the Court of Appeal, though the court indicated the case was important and difficult."
+      ],
+      "procedural_posture": "Court of Appeal costs and case-management orders following determination of the substantive appeal.",
+      "outcome": "Appeal dismissed; detailed costs orders made between parties; £100,000 interim payment ordered; Syndicate costs limited to noting brief; leave to appeal refused.",
+      "ratio": "Where multiple insurers and reinsurers participate in complex appellate litigation, costs should reflect each party's success and the reasonableness of their involvement; unnecessary attendance by parties who neither advanced written nor oral argument may be limited to a noting brief, while abandoned issues attract costs to the abandoning party.",
+      "legal_issues": [
+        "Allocation of appeal costs between Syndicate, Steamship and Sun Life",
+        "Whether the Syndicate should recover more than noting-brief costs",
+        "Appropriate interim payment on account of costs",
+        "Whether leave to appeal should be granted"
+      ],
+      "catchwords": [
+        "costs",
+        "Court of Appeal",
+        "insurance",
+        "interim payment",
+        "noting brief",
+        "misrepresentation",
+        "leave to appeal"
+      ],
+      "index_terms": [
+        "Feasey",
+        "Sun Life Assurance Company of Canada",
+        "Syndicate",
+        "Steamship",
+        "Ward LJ",
+        "1774 Act appeal"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.72,
+        "level": "medium",
+        "notes": "Transcript addresses costs only; substantive insurance issues are not explained in this judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/896.json",
+    "status": "done",
+    "notes": "Batch 104 enrichment",
+    "enrichment": {
+      "short_title": "Warehouse keeper liability for diverted duty-suspended vodka",
+      "area_of_law": [
+        "Tax law",
+        "Excise duties",
+        "European law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Customs and Excise Management Act 1979",
+          "provisions": [
+            "section 53(5)",
+            "section 92",
+            "section 94",
+            "section 95"
+          ]
+        },
+        {
+          "title": "Alcoholic Liquor Duties Act 1979",
+          "provisions": [
+            "section 5"
+          ]
+        },
+        {
+          "title": "Finance (No. 2) Act 1992",
+          "provisions": [
+            "section 1(4)"
+          ]
+        },
+        {
+          "title": "Excise Goods (Holding, Movement, Warehousing and REDS) Regulations 1992",
+          "provisions": [
+            "regulation 4(2)(a)",
+            "regulation 4(2)(f)(ii)",
+            "regulation 5(4)",
+            "regulation 5(5)",
+            "regulation 5(6)"
+          ]
+        },
+        {
+          "title": "Council Directive 92/12/EEC",
+          "provisions": [
+            "Article 6",
+            "Article 13",
+            "Article 15(3)",
+            "Article 20"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Greenalls, an approved excise warehouse keeper, sold vodka to UCCS for export under duty suspension to Spain or Belgium on ex-works terms.",
+        "Greenalls delivered the goods to transporters and received AADs appearing to confirm arrival abroad, but the goods were diverted and sold in the UK without Greenalls' involvement.",
+        "The VAT and Duties Tribunal held Greenalls liable for excise duty when the goods left suspension; Jacobs J remitted the case for further findings.",
+        "The Court of Appeal held regulation 4(2)(a) concerns the warehouse keeper's intent at dispatch, not later third-party diversion.",
+        "No guarantee bond was relied on by the Commissioners, and CEMA sections 94-95 do not impose warehouse-keeper liability for lawful removal later diverted."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from a High Court remittal in excise duty proceedings before the VAT and Duties Tribunal.",
+      "outcome": "Greenalls' appeal allowed; Commissioners' appeal dismissed; assessments to be quashed on remittal.",
+      "ratio": "Regulation 5(4) making the authorised warehouse keeper liable when goods are made available for consumption should be read with regulation 4(2)(a) as covering only consumption connected with the keeper's delivery from the warehouse; a blameless warehouse keeper is not liable for excise duty when goods lawfully leave for export under suspension but are later diverted without his knowledge, especially where tax must be imposed in clear language and alternative remedies lie against owners or guarantors.",
+      "legal_issues": [
+        "When the excise duty point arises under regulation 4(2)",
+        "Whether regulation 5(4) imposes liability on the warehouse keeper after lawful export dispatch",
+        "Construction of the 1992 Regulations consistently with Directive 92/12/EEC",
+        "Whether joint liability under regulation 5(5) extends to the warehouse keeper in these facts"
+      ],
+      "catchwords": [
+        "excise duty",
+        "duty suspension",
+        "warehouse keeper",
+        "AAD",
+        "vodka",
+        "intra-Community movement",
+        "regulation 5(4)"
+      ],
+      "index_terms": [
+        "Greenalls Management",
+        "Customs and Excise",
+        "UCCS",
+        "VAT and Duties Tribunal",
+        "Jacobs J",
+        "Hayward"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hayward",
+          "citation": "[1998] EWHC Crim 1898",
+          "relation": "distinguished"
+        },
+        {
+          "name": "G van de Water v Staatssecretaris van Financien",
+          "citation": "Case C-325/99",
+          "relation": "cited"
+        },
+        {
+          "name": "Webb v EMO Air Cargo (UK) Ltd",
+          "citation": "[1993] 1 WLR 49",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with detailed statutory analysis and clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1725.json",
+    "status": "done",
+    "notes": "Batch 104 enrichment",
+    "enrichment": {
+      "short_title": "SEN tribunal appeal on waking-day provision for autistic pupil",
+      "area_of_law": [
+        "Education law",
+        "Special educational needs",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Education Act 1996",
+          "provisions": [
+            "section 324",
+            "section 326"
+          ]
+        },
+        {
+          "title": "Tribunals Act 1996",
+          "provisions": [
+            "section 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Oliver Tottman, a child with autistic spectrum difficulties, needed a statement of special educational needs.",
+        "His parents sought placement at residential Purbeck View; the local authority proposed non-residential St Luke's with liaison across home and school settings.",
+        "The SEND Tribunal found St Luke's could meet Oliver's special educational needs during the school day with consistency of approach across settings, but not full waking-day educational programmes.",
+        "The Tribunal rejected naming Purbeck View as involving unreasonable public expenditure compared with St Luke's plus social services support.",
+        "Moses J held the Tribunal was entitled to distinguish consistency of approach from a waking-day educational curriculum and had adequately reasoned its decision."
+      ],
+      "procedural_posture": "Statutory appeal under section 11 of the Tribunals Act 1996 against a Special Educational Needs and Disability Tribunal decision.",
+      "outcome": "Appeal dismissed; Tribunal decision upheld; permission to appeal refused.",
+      "ratio": "A SEND Tribunal may lawfully conclude that an autistic child's special educational needs are met at a day school with cross-setting consistency and liaison, without specifying a waking-day educational curriculum in the statement, where it distinguishes special educational provision from wider care needs and adequately reasons why residential schooling is unnecessary.",
+      "legal_issues": [
+        "Whether the Tribunal failed to specify out-of-school-hours special educational provision",
+        "Whether waking-day consistency required residential placement",
+        "Whether the Tribunal adequately reasoned rejection of Purbeck View",
+        "Whether unreasonable public expenditure was correctly assessed"
+      ],
+      "catchwords": [
+        "special educational needs",
+        "SEND Tribunal",
+        "autism",
+        "statement of SEN",
+        "residential school",
+        "section 324",
+        "waking day"
+      ],
+      "index_terms": [
+        "Tottman",
+        "Hertfordshire County Council",
+        "St Luke's",
+        "Purbeck View",
+        "Oliver",
+        "Code of Practice",
+        "Pitchford J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (FJ) v Cambridgeshire County Council",
+          "citation": "[2002] EWHC 2391 (Admin)",
+          "relation": "applied"
+        },
+        {
+          "name": "London Borough of Bromley v Special Educational Needs Tribunal",
+          "citation": "[1999] ELR 260",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Clear education appeal with full tribunal conclusions and statutory framework."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1423.json",
+    "status": "done",
+    "notes": "Batch 104 enrichment",
+    "enrichment": {
+      "short_title": "Chris Evans Virgin Radio dismissal and share-option dispute",
+      "area_of_law": [
+        "Contract law",
+        "Partnership law",
+        "Media and entertainment law",
+        "Company law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Christopher Evans claimed damages after expulsion from the Chris Evans Breakfast Show and the Kentfarm partnership following SMG's acquisition of Ginger Media.",
+        "The case concerned the Presenter's Agreement, Partnership Agreement, share sale agreement and an Option Deed over Tranche C shares.",
+        "Virgin Radio terminated the Presenter's Agreement for repeated breaches including unauthorised absences, removal of production staff, refusal to cooperate with format changes and adverse publicity.",
+        "Lightman J found the breaches were repudiatory, damaged Virgin Radio and SMG Jersey, and justified expulsion under the contractual regime.",
+        "Evans's damages claims were dismissed and he lost rights under the Option Deed to convert or retain the Tranche C shares."
+      ],
+      "procedural_posture": "Chancery trial of breach of contract, partnership expulsion and share-option claims arising from a media presenter dispute.",
+      "outcome": "Defendants succeeded: Presenter's Agreement validly terminated; partnership expulsion upheld; Evans's claims dismissed; no option rights under the Option Deed.",
+      "ratio": "Where a star presenter's misconduct materially breaches a Presenter's Agreement and adversely affects the employer's business and its parent investor, the employer may accept the breach as terminating the agreement; the presenter bears the burden of showing expulsion circumstances did not adversely affect the corporate investor, and repudiatory breaches preclude recovery of contractual share-option benefits.",
+      "legal_issues": [
+        "Whether Evans's conduct justified termination of the Presenter's Agreement",
+        "Whether expulsion from the Kentfarm partnership was lawful",
+        "Whether circumstances of expulsion adversely affected SMG Jersey's business or finances",
+        "Whether Evans retained rights under the Option Deed to Tranche C shares"
+      ],
+      "catchwords": [
+        "presenter agreement",
+        "Virgin Radio",
+        "breach of contract",
+        "expulsion",
+        "partnership",
+        "share options",
+        "repudiatory breach",
+        "media"
+      ],
+      "index_terms": [
+        "Christopher Evans",
+        "SMG Television",
+        "Ginger Media",
+        "Kentfarm Partnership",
+        "Virgin Radio",
+        "Option Deed",
+        "Chris Evans Breakfast Show"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Very long judgment but Part X conclusion clearly states holdings on all major claims."
+      }
+    }
+  }
+]

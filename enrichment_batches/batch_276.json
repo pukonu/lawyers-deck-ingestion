@@ -1,0 +1,690 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1100.json",
+    "status": "needs_review",
+    "notes": "Ex parte Anton Piller and freezing relief refusal is clear, but judges metadata lists Mr Justice Brightman who had retired from the High Court before 2004.",
+    "enrichment": {
+      "short_title": "Dyno-Rod franchisee search-and-seize and freezing order refused",
+      "area_of_law": [
+        "Commercial contract",
+        "Franchising",
+        "Civil procedure",
+        "Equitable remedies"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Dyno-Rod plc applied ex parte for search-and-seize and freezing orders against franchisees Debel Ltd and the Gaunts over alleged diversion of drainage work to connected companies Leat and Egress.",
+        "The application relied largely on an anonymous tip-off and circumstantial evidence of links between the franchisees and competing businesses.",
+        "Dyno-Rod had known of a possible Egress connection for about three years without acting, and there was no evidence that franchise work volumes had fallen.",
+        "Dyno-Rod indicated it would terminate the franchise and invoke wide post-termination restraints if ex parte relief were granted."
+      ],
+      "procedural_posture": "Ex parte without-notice application for search-and-seize and freezing orders before issue of proceedings.",
+      "outcome": "All ex parte relief refused; the court held there was no strong prima facie case, no clear evidence of incriminating documents or risk of destruction, and the orders would cause disproportionate harm to the defendants' business.",
+      "ratio": "Search-and-seize and freezing orders are exceptional remedies requiring a strong prima facie case, serious damage, clear evidence of relevant documents, a real risk of destruction, and proportionality; weak circumstantial franchise-breach allegations based on an anonymous informant do not justify the 'nuclear' coupling of such orders.",
+      "legal_issues": [
+        "Whether there was a strong prima facie case of breach of franchise agreement",
+        "Whether search-and-seize and freezing criteria under Anton Pillar were satisfied",
+        "Whether alleged links to Leat and Egress supported diversion of franchise work",
+        "Whether the relief sought was proportionate to the legitimate object"
+      ],
+      "catchwords": [
+        "Anton Pillar order",
+        "freezing order",
+        "search and seize",
+        "franchise agreement",
+        "ex parte relief",
+        "proportionality"
+      ],
+      "index_terms": [
+        "Dyno-Rod",
+        "drain clearance franchise",
+        "Leat Limited",
+        "Egress",
+        "commission diversion",
+        "restraint of trade",
+        "commercial morality"
+      ],
+      "linked_authorities": [
+        "Anton Piller KG v Manufacturing Processes Ltd [1976] Ch 55"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome and Anton Piller criteria are explicit in the judgment. Presiding judge metadata appears unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1075.json",
+    "status": "needs_review",
+    "notes": "Confidentiality and prior restraint analysis is complete, but judges metadata includes Lord Goff who died before the judgment date.",
+    "enrichment": {
+      "short_title": "Channel Four Despatches broadcast: confidentiality right of reply rejected",
+      "area_of_law": [
+        "Media law",
+        "Confidential information",
+        "Human rights",
+        "Defamation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 12"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Tillery Valley Foods, an NHS hospital food supplier, sought to restrain a Channel Four Despatches programme based on covert filming at its Gwent factory by an undercover journalist.",
+        "The programme was expected to allege poor hygiene practices including coughing over food, eating on the production line, and elevated e-coli swab results.",
+        "Tillery could not obtain a defamation injunction because Channel Four intended to plead justification under Bonnard v Perryman.",
+        "Tillery instead argued for an informed right of reply via breach of confidence before broadcast."
+      ],
+      "procedural_posture": "Without-notice application for interim injunction restraining broadcast until disclosure of footage and testing protocol.",
+      "outcome": "Application dismissed; the court held Tillery had no real prospect of success on confidentiality and declined prior restraint.",
+      "ratio": "Covert workplace filming and employee confidentiality clauses do not necessarily create protectable confidential information where public interest favours disclosure; the law of confidence does not import a pre-publication right of reply, and a claim framed as confidentiality but aimed at protecting reputation should be treated like defamation under Bonnard v Perryman.",
+      "legal_issues": [
+        "Whether covert factory footage had the quality of confidence",
+        "Whether contractual confidentiality created protectable information",
+        "Whether public interest in broadcast required an informed right of reply",
+        "Whether section 12(3) Human Rights Act 1998 permitted prior restraint"
+      ],
+      "catchwords": [
+        "breach of confidence",
+        "prior restraint",
+        "investigative journalism",
+        "freedom of expression",
+        "Bonnard v Perryman",
+        "food hygiene"
+      ],
+      "index_terms": [
+        "Channel Four",
+        "Despatches",
+        "covert filming",
+        "NHS food supplier",
+        "OFCOM code",
+        "section 12 HRA",
+        "public interest"
+      ],
+      "linked_authorities": [
+        "Bonnard v Perryman [1891] 2 Ch 269",
+        "Cream Holdings Ltd v Bannerjee [2003] Ch 650",
+        "Attorney-General v Guardian Newspapers Ltd (No 2) [1990] 1 AC 109",
+        "Malone v Metropolitan Police Commissioner [1979] Ch 344",
+        "Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd [2001] HCA 63",
+        "Service Corporation International plc v Channel Four Television [1999] EMLR 83",
+        "Reynolds v Times Newspapers Ltd [2003] 2 AC 127",
+        "Microdata v Rivendale [1991] FSR 681",
+        "Gulf Oil v Page [1987] 1 Ch 327"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Legal reasoning and outcome are detailed and clear. Judges metadata should be verified against the transcript."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/798.json",
+    "status": "needs_review",
+    "notes": "Article 31 and s.31 analysis is thorough, but judges metadata lists multiple deceased Law Lords alongside Thomas LJ.",
+    "enrichment": {
+      "short_title": "Refugee false passport prosecution: s.31 defence and JR forum",
+      "area_of_law": [
+        "Immigration law",
+        "Criminal law",
+        "Administrative law",
+        "International law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 31"
+          ]
+        },
+        {
+          "title": "Forgery and Counterfeiting Act 1981",
+          "provisions": [
+            "section 3",
+            "section 6"
+          ]
+        },
+        {
+          "title": "Criminal Attempts Act 1981",
+          "provisions": [
+            "section 1(1)"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 29(3)"
+          ]
+        },
+        {
+          "title": "Convention relating to the Status of Refugees 1951",
+          "provisions": [
+            "Article 31"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A former Yugoslav national entered the UK on a false Swedish passport after about 16 days in France and sought to travel onward to claim asylum in Canada.",
+        "The CPS prosecuted for using a false instrument under the Forgery and Counterfeiting Act 1981 after he claimed asylum in the UK when intercepted.",
+        "He could not bring himself within the narrower statutory defence in section 31(2) because he had stopped in France without showing he could not reasonably expect Convention protection there.",
+        "He sought judicial review to stay the prosecution relying on Article 31 of the Refugee Convention as interpreted in ex parte Adimi."
+      ],
+      "procedural_posture": "Judicial review application to challenge CPS decision to prosecute a refugee using false documents, heard after committal for Crown Court trial.",
+      "outcome": "Application dismissed; the court held the defence was confined to section 31 of the 1999 Act, legitimate expectation could not expand it, and judicial review was not the appropriate forum for a pending Crown Court prosecution.",
+      "ratio": "After Parliament enacted section 31 of the Immigration and Asylum Act 1999, refugees prosecuted for specified document offences in England and Wales must rely on that narrower statutory defence rather than the wider Article 31 protection declared in Adimi; treaties are not self-executing and a decision to prosecute pending Crown Court proceedings is generally not amenable to judicial review.",
+      "legal_issues": [
+        "Whether Article 31 Refugee Convention remained directly enforceable after section 31 was enacted",
+        "Whether Adimi legitimate expectation survived the statutory defence",
+        "Whether prosecution for false passport use was an abuse of process",
+        "Whether judicial review was the proper means to raise the defence"
+      ],
+      "catchwords": [
+        "Article 31",
+        "refugee",
+        "false passport",
+        "section 31 defence",
+        "judicial review",
+        "prosecution challenge"
+      ],
+      "index_terms": [
+        "ex parte Adimi",
+        "forum shopping",
+        "asylum seeker",
+        "CPS",
+        "Kebilene",
+        "legitimate expectation",
+        "satellite litigation"
+      ],
+      "linked_authorities": [
+        "R v Uxbridge Magistrates' Court, ex parte Adimi [2001] QB 667",
+        "R v Director of Public Prosecutions, ex parte Kebilene [2000] 2 AC 326",
+        "Hussain v Secretary of State for the Home Department [2001] EWHC Admin 555",
+        "Rayner (Mincing Lane) Ltd v Department of Trade and Industry [1990] 2 AC 418",
+        "R v Lyons [2002] UKHL 44",
+        "R (European Roma Rights Centre) v Prague Immigration Officer [2003] EWCA Civ 666"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Substantive and procedural holdings are explicit. Bench composition in source metadata is unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/2030.json",
+    "status": "needs_review",
+    "notes": "Adjudication enforcement reasoning is complete, but judges metadata includes deceased Lord Ackner alongside other non-sitting names.",
+    "enrichment": {
+      "short_title": "NEC contract adjudication enforcement refused for jurisdiction and unfairness",
+      "area_of_law": [
+        "Construction law",
+        "Adjudication",
+        "Contract law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Grants, Construction and Regeneration Act 1996",
+          "provisions": [
+            "section 108"
+          ]
+        },
+        {
+          "title": "Scheme for Construction Contracts (England and Wales) Regulations 1998",
+          "provisions": [
+            "paragraph 12",
+            "paragraph 13"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 24"
+          ]
+        }
+      ],
+      "key_facts": [
+        "McAlpine sought to enforce a £45,194.54 adjudicator's award against Transco for interest on late certification of NEC compensation events on a Kent gas pipeline contract.",
+        "The dispute concerned interest under clauses 51.3 and 51.4 where McAlpine claimed automatic entitlement once compensation event costs were incurred.",
+        "During adjudication McAlpine served very late detailed evidence on numerous compensation events, prompting Transco objections on jurisdiction and natural justice.",
+        "The adjudicator proceeded to decide liability by examining compensation event histories beyond the narrow automatic-interest case initially referred."
+      ],
+      "procedural_posture": "Part 24 application to enforce an adjudicator's decision, with Transco contending no real prospect of defeating enforcement.",
+      "outcome": "Enforcement refused; Transco had a real prospect of showing the adjudicator decided matters outside the referred dispute and that late evidence materially prejudiced a fair response.",
+      "ratio": "An adjudicator must decide only the dispute referred and cannot enlarge the reference without agreement; where a claimant shifts from an automatic-interest case to fact-specific compensation event histories served very late in the adjudication, enforcement may be refused because the decision is non-responsive or procedurally unfair.",
+      "legal_issues": [
+        "What dispute was referred to adjudication on interest under clauses 51.3 and 51.4",
+        "Whether the adjudicator acted within jurisdiction",
+        "Whether new evidence in reply changed the basis of the claim",
+        "Whether Transco was denied a fair opportunity to respond"
+      ],
+      "catchwords": [
+        "adjudication enforcement",
+        "NEC contract",
+        "compensation events",
+        "natural justice",
+        "jurisdiction",
+        "late evidence"
+      ],
+      "index_terms": [
+        "Transco",
+        "McAlpine",
+        "late payment interest",
+        "pay now argue later",
+        "Part 24 CPR",
+        "Scheme for Construction Contracts",
+        "foot and mouth CE22"
+      ],
+      "linked_authorities": [
+        "Macob Civil Engineering Ltd v Morrison Construction Ltd [1999] CLR 1",
+        "Pegram Shopfitters Ltd v Tally Weijl (UK) Ltd [2003] 91 Con LR 173",
+        "Ballast plc v Burrell Company (Construction Management) Ltd [2001] BLR 529",
+        "AWG Construction Services Ltd v Rockingham Speedway Ltd [2004] EWHC 888 (TCC)",
+        "Discain Project Services Ltd v Opecprime Development Ltd [2000] BLR 402",
+        "Thomas-Frederic's (Construction) Ltd v Wilson [2003] 91 Con LR 161"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed procedural and jurisdictional analysis with clear outcome. Presiding judge metadata appears corrupted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1088.json",
+    "status": "needs_review",
+    "notes": "Foreign copyright comity judgment is complete and detailed, but judges metadata lists numerous historical Law Lords not sitting in 2004.",
+    "enrichment": {
+      "short_title": "Dr Martens logo: foreign copyright assignment and comity",
+      "area_of_law": [
+        "Intellectual property",
+        "Copyright",
+        "Equity",
+        "Private international law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Copyright, Designs and Patents Act 1988",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Griggs Group claimed equitable ownership of the Dr Martens logo copyright after designer Evans assigned worldwide copyrights to Raben despite prior English-law contracts implying assignment to Griggs.",
+        "Peter Prescott QC had already held at trial that Raben, with notice of Griggs' prior interest, should assign copyright including foreign rights: see [2003] EWHC 2914 (Ch).",
+        "Before entry of the order Raben raised a new point that English courts could not order assignment of foreign copyrights absent a personal obligation to transfer.",
+        "The logo drawing had substantial commercial value across many jurisdictions where Griggs sold Dr Martens footwear."
+      ],
+      "procedural_posture": "Further judgment (No 2) on a late jurisdictional objection after trial judgment and before formal order on foreign copyright assignments.",
+      "outcome": "Jurisdictional objection rejected; Griggs entitled to an order requiring Raben to assign foreign copyrights in the logo as well as the UK copyright.",
+      "ratio": "It is not a breach of international comity for an English court to adjudicate in personam on foreign copyright rights arising from an English-governed contract against a purchaser with notice of a prior equitable interest, where no foreign law is shown to extinguish that equity; the court may order assignment of foreign copyrights rather than requiring parallel proceedings worldwide.",
+      "legal_issues": [
+        "Whether English courts may order assignment of foreign intellectual property",
+        "Whether comity prevents in personam relief over copyrights situate abroad",
+        "Whether a third party with notice holds property subject to a prior equitable interest",
+        "Whether foreign copyright systems extinguish English equitable rights"
+      ],
+      "catchwords": [
+        "foreign copyright",
+        "comity",
+        "equitable interest",
+        "notice",
+        "specific performance",
+        "in personam jurisdiction"
+      ],
+      "index_terms": [
+        "Griggs Group",
+        "Dr Martens",
+        "business logo",
+        "Raben",
+        "worldwide assignment",
+        "Tyburn Productions",
+        "Deschamps v Miller"
+      ],
+      "linked_authorities": [
+        "Griggs Group Ltd v Evans [2003] EWHC 2914 (Ch)",
+        "Deschamps v Miller [1908] 1 KB 354",
+        "Tyburn Productions Ltd v Conan Doyle [1990] Ch 705",
+        "British South Africa Co v Companhia de Moçambique [1893] AC 602",
+        "Rey v Lecouturier [1908] AC 508"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Long scholarly judgment with clear conclusion on comity and foreign copyright. Bench metadata is unreliable; judgment is by Peter Prescott QC sitting as a deputy judge."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1086.json",
+    "status": "done",
+    "notes": "MAR 91 reinsurance slip construction on annual aggregate deductible is clearly reasoned with a defined outcome.",
+    "enrichment": {
+      "short_title": "9/11 reinsurance slip: annual aggregate deductible construction",
+      "area_of_law": [
+        "Insurance law",
+        "Reinsurance",
+        "Contract construction",
+        "Commercial law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Goshawk reinsurers sought summary judgment that they owed no indemnity to XL for about US$10m of Limited Inc store losses from the 11 September 2001 World Trade Center collapse.",
+        "The MAR 91 slip reinsurance covered stock losses in excess of the original US$5m annual aggregate deductible and underlying deductibles.",
+        "The underlying policy allowed the insurer to pay losses above US$1m per occurrence even before the AAD was exhausted.",
+        "Reinsurers argued cover responded only after full exhaustion of the US$5m AAD; insurers contended the slip tracked the underlying back-to-back deductible regime."
+      ],
+      "procedural_posture": "Application for summary judgment on a discrete point of contractual construction in negative declaratory reinsurance proceedings.",
+      "outcome": "Summary judgment application dismissed; on true construction the reinsurance responded to large losses exceeding relevant original underlying deductibles, including the US$1m per-occurrence element, even before AAD exhaustion.",
+      "ratio": "Read as a whole against an 'all as per original' reinsurance slip, the Sum Insured clause incorporating the underlying AAD regime means reinsurers follow insurers' fortunes on stock losses once applicable original underlying deductibles—including the US$1m per-occurrence limit within clause 5A—are exceeded, not only after the entire US$5m annual aggregate is exhausted.",
+      "legal_issues": [
+        "Construction of the Sum Insured clause in the MAR 91 slip",
+        "Whether 'original underlying deductibles' included the US$1m per-occurrence limit",
+        "Whether reinsurance was back-to-back with the underlying policy",
+        "Whether summary judgment was appropriate on the construction issue"
+      ],
+      "catchwords": [
+        "reinsurance",
+        "annual aggregate deductible",
+        "slip policy",
+        "follow the fortunes",
+        "summary judgment",
+        "World Trade Center"
+      ],
+      "index_terms": [
+        "MAR 91 form",
+        "XL Speciality Insurance",
+        "The Limited Inc",
+        "stock losses",
+        "AAD exhaustion",
+        "maintenance deductibles",
+        "terrorism losses"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Focused construction dispute with pleaded positions, common ground, and explicit reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1457.json",
+    "status": "needs_review",
+    "notes": "Section 127 computer information-date ruling is clear, but judges metadata lists Lord Roskill and Lord Parker CJ rather than Auld LJ and Pitchers J.",
+    "enrichment": {
+      "short_title": "Magistrates six-month limit and computer information date",
+      "area_of_law": [
+        "Criminal procedure",
+        "Administrative law",
+        "Road traffic",
+        "Case stated appeal"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 127"
+          ]
+        },
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 42"
+          ]
+        },
+        {
+          "title": "Road Vehicles (Construction and Use) Regulations 1986",
+          "provisions": [
+            "Regulation 100(2)"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Rules 1981",
+          "provisions": [
+            "Rule 4",
+            "Rule 100"
+          ]
+        }
+      ],
+      "key_facts": [
+        "David Atkinson appealed by case stated after conviction for carrying an insecure load on 16 June 2002.",
+        "The summons showed an information date of 10 December 2002 but was printed on 20 December 2002, four days after the six-month limitation period.",
+        "Police now enter offence details on a linked computer system and 'validate' the information before a summons is printed.",
+        "There was no evidence whether post-entry amendments occurred after 10 December 2002, creating uncertainty over when the information was effectively laid."
+      ],
+      "procedural_posture": "Appeal by case stated from a magistrates' court ruling refusing to stay proceedings as an abuse of process.",
+      "outcome": "Appeal allowed; conviction quashed and matter remitted with direction to decline jurisdiction because the prosecution could not prove the information was laid within six months.",
+      "ratio": "Where evidence shows a computer-generated information may have remained incomplete or been amended after the date printed on the summons, magistrates must resolve doubt on the effective laying date against the prosecution; uncertainty whether section 127 was satisfied goes to jurisdiction, not merely abuse of process.",
+      "legal_issues": [
+        "When an information is 'laid' for section 127 purposes using the modern computer system",
+        "Whether uncertainty over the information date deprives magistrates of jurisdiction",
+        "Whether abuse of process could cure a limitation defect",
+        "Application of Lloyd v Young to electronic informations"
+      ],
+      "catchwords": [
+        "section 127",
+        "six months limitation",
+        "information date",
+        "magistrates jurisdiction",
+        "case stated",
+        "computer summons"
+      ],
+      "index_terms": [
+        "insecure load",
+        "validation",
+        "Ealing Magistrates",
+        "ex parte Hill",
+        "Lloyd v Young",
+        "prosecution time limit",
+        "CPS"
+      ],
+      "linked_authorities": [
+        "R v Manchester Stipendiary Magistrate, ex parte Hill [1983] AC 328",
+        "Lloyd v Young [1963] Crim LR 703",
+        "R (Ebrahim) v Feltham Magistrates' Court [2001] 1 All ER 831"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Core jurisdiction holding and procedural history are clear. Judges metadata should be corrected."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/678.json",
+    "status": "needs_review",
+    "notes": "Section 38 contracting-out appeal is fully reported, but judges metadata lists only HHJ Kennedy QC instead of the Court of Appeal bench.",
+    "enrichment": {
+      "short_title": "Lease contracting out valid despite tenant name change",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Commercial property",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Landlord and Tenant Act 1954",
+          "provisions": [
+            "section 24",
+            "section 25",
+            "section 26",
+            "section 27",
+            "section 28",
+            "section 38"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Brighton and Hove Council granted a lease of part of the King Alfred Leisure Centre intended to exclude Part II security of tenure under section 38.",
+        "A county court order of 11 June 1993 authorised contracting out for a lease to Galaxi 3 Ltd with the Collinson brothers as sureties.",
+        "Before completion the parties substituted the Collinson brothers personally as tenants for tax reasons while retaining the contracting-out recital.",
+        "The tenants later contended no valid section 38 order existed because the lease was not granted to Galaxi 3."
+      ],
+      "procedural_posture": "Appeal from a county court decision on validity of contracting out and security of tenure.",
+      "outcome": "Appeal allowed; possession order granted, counterclaim dismissed, and contracting out held effective for the lease to the Collinson brothers.",
+      "ratio": "A section 38(4) order authorising exclusion of sections 24–28 may validly cover a lease granted to joint applicants who were possible tenants on the application; substituting individual tenants for a company tenant with substantial similarity, where the prospective tenants understood they were forgoing protection, does not invalidate the exclusion.",
+      "legal_issues": [
+        "Whether the county court order authorised contracting out for the actual lease parties",
+        "Whether changing tenant from company to individuals invalidated section 38 authorisation",
+        "How 'persons who will be the landlord and the tenant' in section 38(4)(a) should be construed",
+        "Whether the granted lease bore substantial similarity to the draft before the court"
+      ],
+      "catchwords": [
+        "contracting out",
+        "section 38",
+        "security of tenure",
+        "business tenancy",
+        "lease substitution",
+        "King Alfred Leisure Centre"
+      ],
+      "index_terms": [
+        "Galaxi 3",
+        "Collinson brothers",
+        "Brighton and Hove Council",
+        "lease renewal",
+        "Palacegate Properties",
+        "commercial lease",
+        "county court order"
+      ],
+      "linked_authorities": [
+        "Receiver for the Metropolitan Police District v Palacegate Properties Ltd [2001] Ch 131"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Court of Appeal reasoning is complete. Source judges field does not reflect the appellate bench."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1165.json",
+    "status": "needs_review",
+    "notes": "Disciplinary costs appeal is fully reasoned, but judges metadata lists deceased or retired Law Lords instead of Auld LJ and Pitchers J.",
+    "enrichment": {
+      "short_title": "Solicitor disciplinary acquittal: costs order restored",
+      "area_of_law": [
+        "Professional discipline",
+        "Legal profession",
+        "Costs",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Solicitors Act 1974",
+          "provisions": [
+            "section 47",
+            "section 49"
+          ]
+        },
+        {
+          "title": "Solicitors (Disciplinary Proceedings) Rules 1994",
+          "provisions": [
+            "Rule 22"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Hayes faced Solicitors Disciplinary Tribunal allegations that he billed unjustified charges and misled a client, centred on a November 1998 lunch and a partner's train fare.",
+        "The tribunal dismissed all misconduct allegations, found the complainant incredible, and accepted Hayes' account that the lunch was a business meeting.",
+        "It criticised Hayes only for bill wording describing lunch costs as 'travel' and for lack of transparency, then made no order as to costs.",
+        "Hayes appealed under section 49 seeking his costs of about £100,000 from the Law Society."
+      ],
+      "procedural_posture": "Appeal under section 49 Solicitors Act 1974 against a Solicitors Disciplinary Tribunal costs refusal after full acquittal on conduct charges.",
+      "outcome": "Appeal allowed; tribunal order substituted with an order that Hayes receive his costs of and incidental to the hearing from the Law Society, plus appeal costs summarily assessed.",
+      "ratio": "Where a solicitor is resoundingly acquitted of serious dishonesty allegations brought by a dishonest client, minor billing transparency criticisms without causal link to the proceedings cannot justify depriving him of costs; Rule 22 does not support a no-costs order against a successful respondent whose conduct on the core issues was vindicated.",
+      "legal_issues": [
+        "Tribunal discretion on costs after dismissal of unbefitting conduct allegations",
+        "Application of Rule 22 Solicitors (Disciplinary Proceedings) Rules 1994",
+        "Whether billing description faults made the solicitor author of his own misfortune",
+        "Standard of appellate review of disciplinary tribunal costs decisions"
+      ],
+      "catchwords": [
+        "Solicitors Disciplinary Tribunal",
+        "costs order",
+        "conduct unbefitting",
+        "professional discipline",
+        "billing transparency",
+        "section 49 appeal"
+      ],
+      "index_terms": [
+        "Law Society",
+        "Warner Cranston",
+        "client complaint",
+        "disbursements",
+        "Langford v Law Society",
+        "Rowe v Lindsey",
+        "Bolton v Law Society"
+      ],
+      "linked_authorities": [
+        "Langford v Law Society [2002] EWCA Civ 2802",
+        "Rowe v Lindsey (28 June 2001, unreported)",
+        "Bolton v Law Society [1994] 1 WLR 512",
+        "Ghosh v General Medical Council [2001] 1 WLR 1915"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Facts, tribunal findings, and costs reasoning are detailed. Judges metadata is unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/616.json",
+    "status": "needs_review",
+    "notes": "Costs-only oral judgment; full ratio is in an unpublished draft and judges metadata is empty.",
+    "enrichment": {
+      "short_title": "Employment tribunal costs appeal: partial liability variation",
+      "area_of_law": [
+        "Employment law",
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr McPherson appealed against an Employment Tribunal costs order made against him in proceedings against BNP Paribas.",
+        "The appeal related to costs incurred after his application to adjourn a hearing fixed for 24 September 2001 on medical grounds.",
+        "The court varied the costs order so he was liable only for tribunal costs incurred after that adjournment application.",
+        "The parties then disputed costs of the appeal itself, with extensive skeleton arguments and settlement offers around March–April 2004."
+      ],
+      "procedural_posture": "Court of Appeal judgment on costs following a partially successful appeal from Employment Tribunal costs orders; related to [2004] EWCA Civ 569.",
+      "outcome": "Appeal allowed to vary the tribunal costs order as described; respondent ordered to pay one half of appellant's appeal costs, subject to detailed assessment if not agreed.",
+      "ratio": "Where an appellant succeeds in limiting Employment Tribunal costs liability to the period after a medical adjournment application, the court may apportion appeal costs rather than award full costs to either party, especially where both sides spent heavily disputing costs alone.",
+      "legal_issues": [
+        "Scope of Employment Tribunal costs liability after adjournment application",
+        "Costs of the appeal where the appellant achieved only partial success",
+        "Whether Calderbank or settlement offers should affect appeal costs",
+        "Summary versus detailed assessment of appeal costs"
+      ],
+      "catchwords": [
+        "employment tribunal costs",
+        "adjournment",
+        "partial success",
+        "appeal costs",
+        "detailed assessment",
+        "costs dispute"
+      ],
+      "index_terms": [
+        "BNP Paribas",
+        "McPherson",
+        "medical adjournment",
+        "costs-only appeal",
+        "EWCA Civ 569",
+        "settlement offers"
+      ],
+      "linked_authorities": [
+        "[2004] EWCA Civ 569"
+      ],
+      "confidence": {
+        "score": 0.72,
+        "level": "medium",
+        "notes": "Outcome on costs is stated but substantive reasoning is in a separate draft judgment not included in the source text."
+      }
+    }
+  }
+]

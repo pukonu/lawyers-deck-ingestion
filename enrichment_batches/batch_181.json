@@ -1,0 +1,804 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3076.json",
+    "status": "done",
+    "notes": "Complete Divisional Court judgment granting an unlimited civil proceedings order.",
+    "enrichment": {
+      "short_title": "Attorney General obtains unlimited civil proceedings order against habitual vexatious litigant Anthony Alexander",
+      "area_of_law": [
+        "Civil procedure",
+        "Vexatious litigants",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["s.42", "s.42(1)", "s.42(1A)"]
+        },
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": ["Part 52"]
+        }
+      ],
+      "key_facts": [
+        "The Attorney General applied under section 42 of the Supreme Court Act 1981 for a civil proceedings order against Anthony Alexander, an unqualified person who had acted in litigation for others and in his own name.",
+        "Between 1997 and 2002 Mr Alexander featured in ten cases involving banks, Halifax, Phillips Electronics, bankruptcy, possession and related appeals; 49 separate applications and appeals were identified, all ultimately unsuccessful.",
+        "Three civil restraint (formerly Grepe v Loam) orders had already been made against him, including after the Court of Appeal in Noueiri v Paragon Finance restrained him from acting for others in the Royal Courts of Justice."
+      ],
+      "procedural_posture": "Attorney General's application to the Administrative Court for a section 42 civil proceedings order; permission to appeal refused at the end of the hearing.",
+      "outcome": "Civil proceedings order granted without time limit; permission to appeal refused.",
+      "ratio": "A person who habitually and persistently makes vexatious applications in civil proceedings, including repeated permission-to-appeal applications to the Court of Appeal, may be made subject to a section 42 civil proceedings order; section 42(1)(b) extends to vexatious applications in civil proceedings whether instituted by the applicant or another, and the court may rely on findings in underlying proceedings when exercising its discretion.",
+      "legal_issues": [
+        "Whether section 42(1)(b) covers applications to the Court of Appeal for permission to appeal",
+        "Whether habitual and persistent vexatious conduct is established where most litigation activity was as defendant rather than claimant",
+        "What legal principles govern the exercise of discretion under section 42",
+        "Whether the defendant's litigation history satisfies the tests of habituality, persistence and absence of reasonable ground"
+      ],
+      "catchwords": [
+        "section 42",
+        "civil proceedings order",
+        "vexatious litigant",
+        "Grepe v Loam order",
+        "civil restraint order",
+        "habitual and persistent litigation",
+        "Attorney General v Barker"
+      ],
+      "index_terms": [
+        "Anthony Alexander",
+        "Attorney General",
+        "Noueiri v Paragon Finance",
+        "Bank of Cyprus v Alexander",
+        "Halifax v Alexander",
+        "Phillips Electronics",
+        "permission to appeal",
+        "civil restraint"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Attorney General v Barker",
+          "citation": "[2000] 1 FLR 759"
+        },
+        {
+          "name": "Attorney General v Jones",
+          "citation": "[1991] 1 WLR 859"
+        },
+        {
+          "name": "Noueiri v Paragon Finance plc",
+          "citation": "[2001] EWCA Civ 1402"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full detailed judgment with clear findings on ten cases and established legal principles; no truncation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/pat/2003/2842.json",
+    "status": "done",
+    "notes": "Very long patent construction judgment; full_text complete including costs commentary.",
+    "enrichment": {
+      "short_title": "CIPLA alendronate process held not to infringe Merck patent after strict claim construction",
+      "area_of_law": [
+        "Patents",
+        "Intellectual property",
+        "Pharmaceuticals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Patents Act 1977",
+          "provisions": ["s.14", "s.125", "s.130(7)"]
+        },
+        {
+          "title": "European Patent Convention",
+          "provisions": ["Art 69", "Art 78", "Art 83", "Art 84", "Protocol on Interpretation of Article 69"]
+        },
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": ["Part 1"]
+        }
+      ],
+      "key_facts": [
+        "Merck sued Generics (UK) Ltd for infringement of EP (UK) 0,402,152, a process patent for making monosodium alendronate using methanesulfonic acid (MSA) to keep the reaction fluid and homogeneous.",
+        "Generics intended to import alendronate made in India by CIPLA using a confidential process that did not use MSA and differed materially on pH adjustment, crystallisation and washing steps.",
+        "Validity was not tried; the parties agreed the only issue was construction of claim 1, yet the trial ran four days at combined costs exceeding £850,000."
+      ],
+      "procedural_posture": "Patents Court speedy trial on infringement only; validity counterclaim stayed.",
+      "outcome": "No infringement; CIPLA process held outside the scope of claim 1 whether by direct Protocol/Catnic construction or by application of the Improver questions.",
+      "ratio": "Patent monopoly must be discernible from the claims without experiments; the Protocol requires protection only for embodiments the skilled reader would conclude with reasonable confidence the patentee intended to cover, and fairness does not permit extending protection to variants the patentee expressly limited or did not intend to include, including other sulphonic acids for MSA and alternative work-up steps in stages (c) to (e) of claim 1.",
+      "legal_issues": [
+        "Whether the CIPLA process infringed claim 1 by equivalence despite omitting MSA and four of five specified process stages",
+        "How Article 69 EPC and the Protocol govern purposive construction of chemical process claims",
+        "Whether the Improver questions or experiments are appropriate where claim language is clear",
+        "Whether replacing MSA with another liquid sulphonic acid works in the same way to achieve the patented high purity and 85–90% yield"
+      ],
+      "catchwords": [
+        "patent infringement",
+        "claim construction",
+        "Protocol on Interpretation",
+        "Improver questions",
+        "Catnic",
+        "pharmaceutical process",
+        "alendronate",
+        "equivalence",
+        "proportionate litigation"
+      ],
+      "index_terms": [
+        "Merck & Co",
+        "Generics UK",
+        "CIPLA",
+        "EP 0,402,152",
+        "methanesulfonic acid",
+        "monosodium alendronate",
+        "osteoporosis",
+        "Patents Court streamlined procedure"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Improver Corporation v Remington Consumer Products Ltd",
+          "citation": "[1990] FSR 181"
+        },
+        {
+          "name": "Catnic Components Ltd v Hill & Smith Ltd",
+          "citation": "[1982] RPC 183"
+        },
+        {
+          "name": "Pharmacia Upjohn SA v Merck & Co Inc",
+          "citation": "[2002] RPC 775"
+        },
+        {
+          "name": "American Home Products Corporation v Novartis Pharmaceuticals UK Ltd",
+          "citation": "[2001] RPC 157"
+        },
+        {
+          "name": "Sara Lee Household & Body Care Ltd v Johnson Wax Ltd",
+          "citation": "[2001] EWCA Civ 1609"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Extremely detailed judgment on construction and costs; confidential process details redacted by code but legal conclusions fully stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1719.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal clinical negligence judgment.",
+    "enrichment": {
+      "short_title": "Widower's clinical negligence appeal dismissed where GP delay did not cause wife's fatal pulmonary embolism",
+      "area_of_law": [
+        "Clinical negligence",
+        "Personal injury",
+        "Medical evidence",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Fatal Accidents Act 1976",
+          "provisions": []
+        },
+        {
+          "title": "Law Reform (Miscellaneous Provisions) Act 1934",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Peter Wardlaw sued Dr Farrar after his wife died aged 69 from massive bilateral pulmonary emboli following delayed hospital admission.",
+        "On 14 September 1997 Dr Farrar was found negligent in failing to consider pulmonary embolism and arrange admission; she was not admitted until 21 September.",
+        "The trial judge found the week's delay caused pain and suffering but did not materially contribute to death; Mrs Wardlaw later deteriorated despite heparin and warfarin, fitting Dr Hill's category of patients who do not respond to anticoagulation."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against Manchester County Court award of £1,000 damages for clinical negligence.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Where a trial judge prefers one expert's clinical evidence over another on causation and finds that a delay in treatment did not increase the risk of death, the Court of Appeal will not interfere; later failure of anticoagulant therapy may properly be taken into account when assessing whether earlier admission would have changed the outcome, and statistical evidence such as the ICOPER registry cannot safely predict individual outcomes without agreed definitions of haemodynamic instability.",
+      "legal_issues": [
+        "Whether the seven-day delay in hospital admission caused Mrs Wardlaw's death",
+        "Whether the ICOPER pulmonary embolism registry statistics could establish causation",
+        "Whether a growing thrombus between 14 and 21 September made death more probable",
+        "Whether Hotson v Berkshire Area Health Authority required assessment of probabilities only as at 14 September",
+        "Whether fresh textbook evidence should be admitted on appeal"
+      ],
+      "catchwords": [
+        "clinical negligence",
+        "pulmonary embolism",
+        "causation",
+        "expert evidence",
+        "ICOPER registry",
+        "anticoagulation",
+        "GP negligence",
+        "Fatal Accidents Act"
+      ],
+      "index_terms": [
+        "Wardlaw",
+        "Dr Farrar",
+        "Manchester Royal Infirmary",
+        "deep vein thrombosis",
+        "heparin",
+        "warfarin",
+        "haemodynamic instability",
+        "expert disclosure"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hotson v East Berkshire Area Health Authority",
+          "citation": "[1987] AC 750"
+        },
+        {
+          "name": "Wilsher v Essex Area Health Authority",
+          "citation": "[1988] AC 1074"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full appellate reasoning on causation, expert evidence and case management; outcome and ratio clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2850.json",
+    "status": "needs_review",
+    "notes": "Source summary field truncated; full_text complete but includes extended post-judgment costs submissions.",
+    "enrichment": {
+      "short_title": "CIWF judicial review fails over broiler breeder restricted feeding and Directive 98/58 implementation",
+      "area_of_law": [
+        "Judicial review",
+        "Animal welfare",
+        "EU law",
+        "Agriculture"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Council Directive 98/58/EC",
+          "provisions": ["Art 1", "Art 3", "Art 4", "Art 10", "Annex paras 14–21"]
+        },
+        {
+          "title": "Welfare of Farmed Animals (England) Regulations 2000",
+          "provisions": ["reg 3(2)", "reg 10", "reg 13", "Sch 1 paras 22–24"]
+        },
+        {
+          "title": "Agriculture (Miscellaneous Provisions) Act 1968",
+          "provisions": ["s.2", "s.3", "s.7"]
+        },
+        {
+          "title": "European Convention for the Protection of Animals Kept for Farming Purposes",
+          "provisions": ["Arts 3–6"]
+        },
+        {
+          "title": "Directive 96/22/EEC",
+          "provisions": ["Art 1(2)(c)"]
+        }
+      ],
+      "key_facts": [
+        "Compassion in World Farming challenged DEFRA's implementation of EU farm animal welfare law, focusing on restricted feeding of fast-growing broiler breeders whose hunger is accepted but whose ad libitum feeding causes poor reproduction and high mortality.",
+        "Ground 1 alleged the UK wrongly transposed Article 4 by requiring owners to take all reasonable steps rather than ensuring strict compliance with Annex conditions.",
+        "Ground 3 sought prosecution of restricted feeding practices as unlawful chronic hunger contrary to Schedule 1 paragraph 22; other welfare grounds were abandoned."
+      ],
+      "procedural_posture": "High Court judicial review of Secretary of State for Environment, Food and Rural Affairs; permission granted by Wilson J.",
+      "outcome": "Application dismissed on both pursued grounds; post-judgment costs argument followed.",
+      "ratio": "Member States may implement Article 4 of Directive 98/58 by imposing a duty on keepers to take reasonable steps to secure Annex conditions where obligations are expressed in general and unquantifiable terms; restricted feeding of broiler breeders that maintains health and reproductive competence while causing hunger does not necessarily breach the requirement to promote a positive state of well-being, and welfare law contemplates balancing commercial intensive farming needs against minimum standards.",
+      "legal_issues": [
+        "Whether transposing Article 4 as a reasonable-steps duty on keepers fails properly to implement the Directive",
+        "Whether restricted feeding causing chronic hunger breaches Annex paragraph 14 and Regulation Schedule 1 paragraph 22",
+        "Whether DEFRA unlawfully refused to prosecute owners using restricted feeding regimes",
+        "How EU end-result and conduct-result transposition principles apply to animal welfare directives"
+      ],
+      "catchwords": [
+        "animal welfare",
+        "broiler breeders",
+        "restricted feeding",
+        "Directive 98/58",
+        "judicial review",
+        "intensive farming",
+        "EU transposition",
+        "Compassion in World Farming"
+      ],
+      "index_terms": [
+        "DEFRA",
+        "CIWF",
+        "Farm Animal Welfare Council",
+        "fast-growing broilers",
+        "ad libitum feeding",
+        "Roslin Institute",
+        "five freedoms",
+        "Commission v France"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Sweet v Parsley",
+          "citation": "[1970] AC 132"
+        },
+        {
+          "name": "R v K",
+          "citation": "[2002] 1 AC 462"
+        },
+        {
+          "name": "Commission v Germany",
+          "citation": "Case 412/85 [1987] ECR 3503"
+        },
+        {
+          "name": "Commission v France",
+          "citation": "Case C-60/01 [2002] ECR I-5679"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Very long judgment with substantial scientific evidence; source summary truncated but full_text and dispositive conclusions complete."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3054.json",
+    "status": "done",
+    "notes": "Complete prosecutor's appeal by case stated.",
+    "enrichment": {
+      "short_title": "Skipper acquitted where entering fisheries zone to break nets on rocks held not a fishing operation",
+      "area_of_law": [
+        "Fisheries law",
+        "Criminal law",
+        "Statutory interpretation",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Sea Fisheries Regulation Act 1966",
+          "provisions": ["s.1", "s.2", "s.5", "s.10", "s.11(2)", "s.11(3)"]
+        },
+        {
+          "title": "South Wales Sea Fisheries Committee Byelaws",
+          "provisions": ["byelaw 38", "byelaw 41"]
+        }
+      ],
+      "key_facts": [
+        "Beam trawler Admiral Blake, skippered by Malcolm Saunders and owned by IF Ltd, entered the South Wales Sea Fisheries Committee six-mile limit on 19 July 2002 with nets in the water.",
+        "The vessel exceeded the 150 vessel capacity unit limit and lacked a boat fishing permit; Saunders deliberately entered the limit to break open nets on rocks to release debris, rocks and fish, then streamed and hauled the nets.",
+        "Magistrates found no fishing was undertaken within the six-mile area and acquitted the defendants; the committee appealed by case stated against Saunders only."
+      ],
+      "procedural_posture": "Prosecutor's appeal by case stated to the Divisional Court from magistrates' acquittal.",
+      "outcome": "Appeal dismissed; case stated question answered in favour of the respondent.",
+      "ratio": "Entering a sea fisheries district to break nets on the seabed and release debris and fish, or to stream nets free of sand, is not using a method or instrument of fishing nor using a boat in a fishing operation within the meaning of byelaws 38 and 41; where statutory wording is ambiguous in a penal context it must be resolved in the defendant's favour.",
+      "legal_issues": [
+        "Whether breaking nets on rocks within a fisheries district constitutes using a method of fishing",
+        "Whether nets lowered in an open state to stream debris constitute using an instrument of fishing",
+        "Whether such activity forms part of a fishing operation under byelaw 41",
+        "How Alexander v Tonkin applies to the completion of a fishing operation"
+      ],
+      "catchwords": [
+        "sea fisheries",
+        "byelaw",
+        "fishing operation",
+        "method of fishing",
+        "case stated",
+        "six-mile limit",
+        "beam trawler",
+        "contra proferentem"
+      ],
+      "index_terms": [
+        "South Wales Sea Fisheries Committee",
+        "Admiral Blake",
+        "Malcolm Saunders",
+        "Old Castle Head",
+        "Manorbier",
+        "vessel capacity units",
+        "catch returns permit",
+        "net streaming"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Alexander v Tonkin",
+          "citation": "[1979] 1 WLR 629"
+        },
+        {
+          "name": "R v Frederick Gerring Jr",
+          "citation": "(1896) 5 Exch CR 164"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Clear factual findings and statutory construction; complete judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2846.json",
+    "status": "done",
+    "notes": "Complete judicial review on Article 10 monitoring conditions for ATCSA detainees.",
+    "enrichment": {
+      "short_title": "ATCSA detainees fail to overturn tape-recorded monitoring of media interviews",
+      "area_of_law": [
+        "Judicial review",
+        "Human rights",
+        "Immigration detention",
+        "Prison law",
+        "Media law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Anti-terrorism Crime and Security Act 2001",
+          "provisions": ["s.21", "s.28"]
+        },
+        {
+          "title": "Immigration Act 1971",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art 10"]
+        },
+        {
+          "title": "Prison Rules",
+          "provisions": ["r.34(6)"]
+        },
+        {
+          "title": "NHS Act 1977",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Six foreign nationals certified under section 21 ATCSA 2001 and detained in high-security prisons sought judicial review of the Home Secretary's refusal to allow unmonitored media interviews.",
+        "After initial refusal, the Secretary of State agreed interviews with the BBC and Guardian could proceed only within earshot of officials and subject to HM Prison Service tape recording.",
+        "Claimants feared misinterpretation of statements, repercussions from prison staff, and transmission of confidential information to allied repressive regimes."
+      ],
+      "procedural_posture": "Judicial review in the Administrative Court; leave to appeal to Court of Appeal refused.",
+      "outcome": "Application dismissed; no order as to costs save legal aid assessment.",
+      "ratio": "Monitoring conditions requiring interviews with suspected terrorist detainees to be conducted within earshot of officials and tape-recorded are a proportionate restriction on Article 10(1) freedom of expression where they serve legitimate aims of prison discipline and national security under Article 10(2), especially for category A prisoners certified under ATCSA; courts defer to executive judgment on national security while reviewing lawfulness.",
+      "legal_issues": [
+        "Whether earshot monitoring and tape recording of journalist interviews breach Article 10 ECHR",
+        "Whether ATCSA detainees should be treated differently from convicted prisoners for media access purposes",
+        "Whether monitoring is necessary and proportionate for national security and prison discipline",
+        "Whether Broadmoor Hospital may impose equivalent conditions on the detained patient claimant"
+      ],
+      "catchwords": [
+        "Article 10",
+        "media interviews",
+        "ATCSA detention",
+        "certified terrorist suspect",
+        "monitoring",
+        "national security",
+        "category A prisoner",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Belmarsh",
+        "Woodhill",
+        "Broadmoor",
+        "Guardian",
+        "BBC",
+        "SIAC",
+        "Lord Carlile",
+        "Gareth Pierce"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Secretary of State for the Home Department, ex parte Simms",
+          "citation": "[2000] 2 AC 115"
+        },
+        {
+          "name": "R (Daly) v Secretary of State for the Home Department",
+          "citation": "[2001] 2 AC 532"
+        },
+        {
+          "name": "R (Hirst) v Secretary of State for the Home Department",
+          "citation": "[2002] 1 WLR 2929"
+        },
+        {
+          "name": "Secretary of State for the Home Department v Rehman",
+          "citation": "[2003] 1 AC 153"
+        },
+        {
+          "name": "R (Pro-Life Alliance) v BBC",
+          "citation": "[2003] 2 WLR 1403"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment with detailed Article 10 analysis; leave refusal transcript included."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3358.json",
+    "status": "done",
+    "notes": "Complete CCRC referral reasons judgment quashing linked convictions.",
+    "enrichment": {
+      "short_title": "Hagans and Wilson convictions quashed after discredited West Midlands Serious Crime Squad evidence",
+      "area_of_law": [
+        "Criminal law",
+        "Appeal against conviction",
+        "Evidence",
+        "Police misconduct"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": ["s.9"]
+        }
+      ],
+      "key_facts": [
+        "Christopher Hagans and John Wilson were convicted at Leicester Crown Court in 1983 of conspiracy to rob and related offences arising from a series of linked trials.",
+        "Prosecution relied heavily on supergrass Richard Mackay and oral confessions attributed by West Midlands Police Serious Crime Squad officers, all of whom were later discredited and the squad disbanded in 1989.",
+        "McKinnon J found in civil proceedings that officers including those who interviewed Hagans assaulted Derek Treadaway and gave false evidence; the Crown did not seek to uphold either conviction."
+      ],
+      "procedural_posture": "Linked appeals referred by the Criminal Cases Review Commission under section 9 of the Criminal Appeal Act 1995; appeals unopposed.",
+      "outcome": "Appeals allowed; convictions quashed.",
+      "ratio": "Convictions cannot be regarded as safe where the most important prosecution evidence comes from a supergrass handled by discredited Serious Crime Squad officers whose evidence has led to multiple quashed convictions and whose dishonesty has been judicially established.",
+      "legal_issues": [
+        "Whether convictions based on Mackay and SCS officer evidence remain safe after discreditation of the squad",
+        "Whether separate supporting evidence saves a conviction where core prosecution evidence is tainted",
+        "Effect of McKinnon J's civil findings on the officers' credibility"
+      ],
+      "catchwords": [
+        "CCRC referral",
+        "unsafe conviction",
+        "supergrass",
+        "Serious Crime Squad",
+        "West Midlands Police",
+        "robbery conspiracy",
+        "police corruption",
+        "tainted evidence"
+      ],
+      "index_terms": [
+        "Christopher Hagans",
+        "John Wilson",
+        "Richard Mackay",
+        "Derek Treadaway",
+        "Leicester Crown Court",
+        "Droitwich robbery",
+        "McKinnon J",
+        "1983 trials"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Reasons judgment following unopposed quashing; historical detail clear though some trial specifics omitted as unimportant."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3075.json",
+    "status": "done",
+    "notes": "Complete section 288 planning appeal judgment with costs discussion.",
+    "enrichment": {
+      "short_title": "Green Lodge planning tie upheld to protect Newmarket racehorse training yard",
+      "area_of_law": [
+        "Planning law",
+        "Property law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["s.288"]
+        },
+        {
+          "title": "Planning (Listed Buildings and Conservation Areas) Act 1990",
+          "provisions": []
+        },
+        {
+          "title": "Town and Country Planning Use Classes Order 1987",
+          "provisions": ["Class C3"]
+        }
+      ],
+      "key_facts": [
+        "Claimant Ranson sought removal of condition 4 on 1999 planning permission requiring Green Lodge and adjoining stables in Newmarket conservation area to remain a single planning unit for racehorse training.",
+        "He intended to sell the refurbished Victorian house separately to fund restoration of derelict stables forming a small 23-box training yard.",
+        "Inspector dismissed the appeal, finding separation would harm the local racing industry, cause noise and parking disturbance to independent occupiers, and was supported by local plan policies 12.4 and 12.6."
+      ],
+      "procedural_posture": "Section 288 appeal to the High Court against Inspector's dismissal of appeal against refusal to remove planning condition.",
+      "outcome": "Appeal dismissed; Secretary of State awarded costs.",
+      "ratio": "A planning condition tying a dwelling to an adjoining training yard reasonably relates to permitted stable refurbishment where the site is a single planning unit; an inspector's conclusion that releasing the tie would diminish racing-industry accommodation and harm occupier amenity is a legitimate planning judgment not vitiated by inadequate reasons, and market viability evidence personal to the appellant does not establish no realistic combined-use purchaser exists.",
+      "legal_issues": [
+        "Whether condition 4 validly related to the 1999 permission under Newbury principles",
+        "Whether removal of the tie would harm the Newmarket horse racing industry",
+        "Whether the Inspector irrationally ignored market and viability evidence",
+        "Whether noise and parking impacts justified retaining the occupancy restriction",
+        "Whether comparable Inspector decisions were material considerations requiring explicit treatment"
+      ],
+      "catchwords": [
+        "planning condition",
+        "section 288 appeal",
+        "planning unit",
+        "racehorse training",
+        "conservation area",
+        "occupancy tie",
+        "Newmarket",
+        "viability"
+      ],
+      "index_terms": [
+        "Green Lodge",
+        "Forest Heath District Council",
+        "Newmarket conservation area",
+        "Sefton Lodge",
+        "Warren Hill Stud",
+        "local plan policy 12.6",
+        "stable yard",
+        "Inspector decision"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Newbury District Council v Secretary of State for the Environment",
+          "citation": "[1981] AC 578"
+        },
+        {
+          "name": "North Wiltshire District Council v Secretary of State for the Environment",
+          "citation": "[1993] 65 P&CR 137"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed section 288 reasoning on multiple grounds; complete full_text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2966.json",
+    "status": "done",
+    "notes": "Complete Chancery judgment on section 12 Arbitration Act extension.",
+    "enrichment": {
+      "short_title": "Landlord denied section 12 extension after missing one-month rent review arbitration deadline post-Starmark",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Rent review",
+        "Arbitration",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": ["s.12", "s.12(1)", "s.12(2)", "s.12(3)"]
+        }
+      ],
+      "key_facts": [
+        "Claimants acquired the freehold of premises let to Pizza Express under a 1997 lease with quinquennial upward-only rent reviews and clause 8.2(E) deeming tenant-proposed rent agreed unless landlord applies for RICS appointment within one month.",
+        "After Starmark Enterprises Ltd v CPL Distribution Ltd [2002] held time of the essence for such clauses, tenant served notice proposing £21,000 on review date 30 October 2002; claimants' RICS application was late.",
+        "Claimants sought extension under section 12(3)(a) arguing the Starmark change in law was outside parties' contemplation when the lease was made in October 1997."
+      ],
+      "procedural_posture": "High Court claim for order extending time to apply for arbitrator appointment under section 12 Arbitration Act 1996.",
+      "outcome": "Claim dismissed; court held no jurisdiction to extend time.",
+      "ratio": "A change in Court of Appeal authority on whether time is of the essence in rent review clauses does not satisfy section 12(3)(a) because legal change was foreseeable, did not cause the failure to comply with the contractual time bar, and parties must be assumed to have contemplated ordinary commercial omissions by advisers; Harbour v Environment Agency governs the restrictive approach to extending contractual time bars.",
+      "legal_issues": [
+        "Whether clause 8.2(E) is a time bar within section 12(1) Arbitration Act 1996",
+        "Whether the Starmark decision was a circumstance outside reasonable contemplation of the parties",
+        "Whether change in law caused or contributed to failure to apply for arbitrator within one month",
+        "Whether it would be just to extend time if the first condition were satisfied"
+      ],
+      "catchwords": [
+        "rent review",
+        "section 12 Arbitration Act",
+        "time of the essence",
+        "Starmark",
+        "Mecca Leisure",
+        "RICS appointment",
+        "deeming provision",
+        "Harbour v Environment Agency"
+      ],
+      "index_terms": [
+        "Pizza Express",
+        "Monella",
+        "clause 8.2(E)",
+        "United Scientific Holdings",
+        "Mecca Leisure v Renown",
+        "time bar extension",
+        "commercial lease",
+        "review date"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Starmark Enterprises Ltd v CPL Distribution Ltd",
+          "citation": "[2002] 2 WLR 1009"
+        },
+        {
+          "name": "Harbour Assurance Co Ltd v Kansa General International Insurance Co Ltd",
+          "citation": "[2000] 1 WLR 950"
+        },
+        {
+          "name": "United Scientific Holdings Ltd v Burnley Borough Council",
+          "citation": "[1978] AC 904"
+        },
+        {
+          "name": "Mecca Leisure Ltd v Renown Investments (Holdings) Ltd",
+          "citation": "[1984] 2 EGLR 137"
+        },
+        {
+          "name": "Trustees of Henry Smith's Charity v AWADA Trading and Promotion Services Ltd",
+          "citation": "[1984] 1 EGLR 116"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Clear chronology and authoritative analysis of section 12; complete judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3739.json",
+    "status": "done",
+    "notes": "Complete sentencing appeal judgment on Bail Act committal powers.",
+    "enrichment": {
+      "short_title": "Four-year total sentence upheld for serial burglar including maximum Bail Act term",
+      "area_of_law": [
+        "Sentencing",
+        "Criminal law",
+        "Bail"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": ["s.3", "s.6", "s.7"]
+        },
+        {
+          "title": "Bail Act 1976",
+          "provisions": ["s.6", "s.6(1)", "s.6(5)", "s.6(7)"]
+        },
+        {
+          "title": "Administration of Justice Act 1960",
+          "provisions": ["s.13"]
+        },
+        {
+          "title": "Contempt of Court Act 1981",
+          "provisions": ["s.14"]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": ["s.11(3)"]
+        }
+      ],
+      "key_facts": [
+        "Appellant pleaded guilty to two dwelling burglaries committed on bail, theft of books, and failing to surrender to bail after missing a magistrates' hearing.",
+        "He had 21 prior burglaries or attempted thefts from dwellings and a manslaughter conviction arising from an earlier burglary; eight further offences were taken into consideration.",
+        "Crown Court imposed 42 months concurrent on burglaries, three months consecutive for theft, and three months consecutive for bail breach, totalling four years."
+      ],
+      "procedural_posture": "Appeal to Court of Appeal against sentence; leave granted if required on Bail Act count.",
+      "outcome": "Appeal dismissed; four-year total sentence unchanged.",
+      "ratio": "Where a defendant is committed to the Crown Court under section 6 of the Powers of Criminal Courts (Sentencing) Act rather than section 6(6) Bail Act for inadequacy of magistrates' powers, the maximum sentence for a section 6(1) Bail Act offence remains three months unless treated as contempt; even at the maximum, a consecutive bail sentence may stand where totality requires a long-term prisoner sentence reflecting overall criminality.",
+      "legal_issues": [
+        "Whether the Bail Act sentence was a contempt sentence appealable as of right under section 13 Administration of Justice Act 1960",
+        "Whether Crown Court had power to impose more than three months for the bail offence on this committal route",
+        "Whether three months at maximum without discount was manifestly excessive",
+        "Whether totality permitted reduction to avoid long-term prisoner status"
+      ],
+      "catchwords": [
+        "sentencing appeal",
+        "Bail Act offence",
+        "failure to surrender",
+        "consecutive sentence",
+        "totality",
+        "committal for sentence",
+        "burglary",
+        "long-term prisoner"
+      ],
+      "index_terms": [
+        "Oxley",
+        "Burnley burglaries",
+        "Schiavo v Anderton",
+        "R v White and McKinnon",
+        "section 6 Bail Act",
+        "Powers of Criminal Courts (Sentencing) Act",
+        "conditional discharge breach"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Schiavo v Anderton",
+          "citation": "[1987] QB 20"
+        },
+        {
+          "name": "R v White and McKinnon",
+          "citation": "[2002] EWCA Crim 2952"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete sentencing judgment with detailed statutory analysis of Bail Act committal limits."
+      }
+    }
+  }
+]

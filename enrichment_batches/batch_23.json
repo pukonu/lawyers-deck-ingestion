@@ -1,0 +1,726 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/163.json",
+    "status": "done",
+    "notes": "Batch 23 enrichment",
+    "enrichment": {
+      "short_title": "Jurisdiction over Swiss employers in London commodity trading dispute",
+      "area_of_law": [
+        "Conflict of laws",
+        "Civil procedure",
+        "Employment law",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Council Regulation (EC) No 44/2001 (Brussels I)",
+          "provisions": [
+            "Article 60 (domicile of companies)"
+          ]
+        },
+        {
+          "title": "Lugano Convention",
+          "provisions": [
+            "Article 6(1) (joinder of defendants)",
+            "Article 17 (jurisdiction agreements)"
+          ]
+        },
+        {
+          "title": "Civil Jurisdiction and Judgments Act 1982",
+          "provisions": [
+            "section 42(6) (seat of corporation)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant sued Crown Energy and Crown Resources in England after termination of a Swiss-governed service agreement, seeking damages for breach of contract and wrongful inducement.",
+        "The defendants applied to set aside service in Zug, arguing they were domiciled in Switzerland and that an English jurisdiction clause was unenforceable under Article 17 Lugano.",
+        "Crown Resources operated internationally from Zug, London and Gibraltar; senior management, risk committees and key executives were based in London.",
+        "HH Judge Chambers QC held the claimant had a good arguable case that Crown Resources' central administration and principal place of business were in London when proceedings began."
+      ],
+      "procedural_posture": "Inter partes application to set aside service out of the jurisdiction in employment-related commercial proceedings.",
+      "outcome": "Applications to set aside service dismissed; jurisdiction established against Crown Resources under Article 60 and against Crown Energy under Article 6(1) Lugano.",
+      "ratio": "On a good arguable case test for jurisdiction, a company's central administration and principal place of business may be located where senior management, control and key commercial decision-making occur, not merely where income-producing traders sit; where one co-defendant is domiciled in England, Article 6(1) permits joinder of a related Swiss defendant to avoid irreconcilable judgments.",
+      "legal_issues": [
+        "Meaning of central administration and principal place of business under Article 60",
+        "Standard of proof for establishing domicile on inter partes jurisdiction applications",
+        "Application of Article 6(1) Lugano to related employment and guarantor claims",
+        "Enforceability of English jurisdiction clauses under Article 17 Lugano"
+      ],
+      "catchwords": [
+        "jurisdiction",
+        "service out",
+        "good arguable case",
+        "Article 60",
+        "principal place of business",
+        "Lugano Convention",
+        "employment breach"
+      ],
+      "index_terms": [
+        "King v Crown Energy",
+        "Crown Resources",
+        "commodity trading",
+        "The Rewia",
+        "Kalfelis v Schroeder",
+        "domicile of companies"
+      ],
+      "linked_authorities": [
+        "Canada Trust Co v Stolzenberg (No 2)",
+        "Seaconsar Far East Ltd v Bank Markazi Jomhouri Islami Iran",
+        "The Rewia",
+        "Kalfelis v Schroeder",
+        "Sarrio SA v Kuwait Investment Authority",
+        "Carnoustie Universal v International Transport Workers Federation"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Outcome, jurisdictional analysis and key facts are explicit in the judgment. Judge metadata is empty in the source file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/213.json",
+    "status": "done",
+    "notes": "Batch 23 enrichment",
+    "enrichment": {
+      "short_title": "Prisoner denied permission to appeal over legal research access",
+      "area_of_law": [
+        "Prison law",
+        "Human rights",
+        "Administrative law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "Article 6 ECHR (right of access to court)"
+          ]
+        },
+        {
+          "title": "Prison Standing Order 16",
+          "provisions": [
+            "facilities for unrepresented litigants"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Cooper sought permission to appeal against two refusals of judicial review: one concerning removal of his T-shirt in the exercise yard, the other concerning lack of electronic access to legal materials in prison.",
+        "He had been released on licence before the Court of Appeal hearing and argued that without CPR access and law reports he could not effectively litigate.",
+        "Prison Service evidence said controlled internet access to legal websites was not feasible for security and cost reasons.",
+        "Sedley LJ held the T-shirt complaint raised no legal rights, but the legal access issue raised a real concern about the serviceable minimum needed for Article 6 rights."
+      ],
+      "procedural_posture": "Application for permission to appeal against refusal of permission to seek judicial review.",
+      "outcome": "Permission to appeal refused on both issues; the court urged the Home Office to reconsider controlled prisoner access to legal materials.",
+      "ratio": "A prisoner's grievance about dress rules in the exercise yard does not engage justiciable legal rights, but access to courts requires a serviceable minimum of legal materials; where a released appellant lacks a continuing personal stake and the evidence does not yet establish a clearly remediable breach, permission to appeal may be refused even though the underlying issue may remain live for other prisoners.",
+      "legal_issues": [
+        "Whether refusal to allow removal of a T-shirt in the exercise yard is judicially reviewable",
+        "Article 6 right of access to court for prisoners conducting civil litigation",
+        "Adequacy of prison library and legal research facilities",
+        "Whether an appeal became academic after the appellant's release"
+      ],
+      "catchwords": [
+        "prisoners",
+        "judicial review",
+        "Article 6",
+        "access to court",
+        "legal materials",
+        "Standing Order 16",
+        "permission to appeal"
+      ],
+      "index_terms": [
+        "Cooper v Secretary of State for the Home Department",
+        "HMP Risley",
+        "Golder v United Kingdom",
+        "Leech v Deputy Governor of Parkhurst Prison",
+        "internet access in prison"
+      ],
+      "linked_authorities": [
+        "Golder v United Kingdom",
+        "Leech v Deputy Governor of Parkhurst Prison",
+        "R v Secretary of State for the Home Department ex parte Leech"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Judgment clearly distinguishes the two issues and explains the refusal of permission. Judge metadata is empty in the source file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/136.json",
+    "status": "done",
+    "notes": "Batch 23 enrichment",
+    "enrichment": {
+      "short_title": "Claims Direct ATE premium recoverable only in part under section 29",
+      "area_of_law": [
+        "Costs and funding",
+        "Insurance law",
+        "Personal injury",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": [
+            "section 29 (recoverable ATE insurance premium)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 43.2 (definitions of costs and insurance premium)",
+            "CPR 44.4 (basis of assessment)",
+            "CPR 44.5 (factors for assessment)",
+            "CPR 44.12A (costs-only proceedings)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Sixteen test-case claimants appealed against Master Hurst's award of only £621.13 inclusive of IPT as recoverable premium under the Claims Direct Protect Scheme.",
+        "Claimants paid £1,250 plus IPT per case, but only a small portion represented true underwriting risk; most funded claims handling, marketing and MLSS services.",
+        "Master Hurst deconstructed the premium and allowed recoverable insurance elements, commission and limited insurance services.",
+        "The Court of Appeal held that claims-handling services identical to the pre-insurance Portfolio Scheme were not recoverable as premium under section 29."
+      ],
+      "procedural_posture": "Appeal from the Senior Costs Judge in costs-only test cases concerning recoverable ATE premiums.",
+      "outcome": "Appeal dismissed; the Master's award of £621.13 per claimant was upheld as reasonable and proportionate.",
+      "ratio": "A payment labelled as an insurance premium is recoverable under section 29 of the Access to Justice Act 1999 only to the extent it is consideration for insurance against liability for costs; where an ATE package includes collateral claims-handling benefits, a costs judge may analyse the true premium and exclude non-insurance elements even if the arrangement is not a sham.",
+      "legal_issues": [
+        "Meaning of premium under section 29 Access to Justice Act 1999",
+        "Whether the whole Claims Direct charge was recoverable ATE premium",
+        "Distinction between insurance services and collateral claims-handling benefits",
+        "Reasonableness and proportionality of recoverable premium on standard basis assessment"
+      ],
+      "catchwords": [
+        "ATE insurance",
+        "recoverable premium",
+        "Claims Direct",
+        "costs-only proceedings",
+        "section 29",
+        "collateral benefits",
+        "proportionality"
+      ],
+      "index_terms": [
+        "Re Claims Direct Test Cases",
+        "Master Hurst",
+        "MLSS",
+        "Callery v Gray",
+        "Lownds v Home Office",
+        "after the event insurance"
+      ],
+      "linked_authorities": [
+        "Callery v Gray (No 1)",
+        "Callery v Gray (No 2)",
+        "Lownds v Home Office",
+        "Dimond v Lovell",
+        "Snook v London and West Riding Investments Ltd",
+        "Street v Mountford"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long judgment but outcome and core premium analysis are clear. Source judge metadata includes names not all appearing to have delivered this judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/371.json",
+    "status": "done",
+    "notes": "Batch 23 enrichment",
+    "enrichment": {
+      "short_title": "No WFTC offset against income support overpayment recovery",
+      "area_of_law": [
+        "Social security law",
+        "Administrative law",
+        "Tax credits",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Social Security Administration Act 1992",
+          "provisions": [
+            "section 71 (recovery of overpayments)"
+          ]
+        },
+        {
+          "title": "Social Security (Payment on Account, Overpayments and Recovery) Regulations 1988",
+          "provisions": [
+            "regulation 13 (deductions in calculating recoverable amounts)"
+          ]
+        },
+        {
+          "title": "Social Security Contributions and Benefits Act 1992",
+          "provisions": [
+            "section 124 (income support)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant received income support while working part-time without disclosure, leading to an overpayment of £3,234.96.",
+        "She had not claimed working families tax credit (WFTC), though she might have been entitled to about £2,000.",
+        "Regulation 13 did not permit offsetting a notional WFTC entitlement against the recoverable income support overpayment.",
+        "The Secretary of State refused to waive recovery; repayment at £2.70 per week would take about 23 years."
+      ],
+      "procedural_posture": "Application for judicial review of the Secretary of State's refusal to reduce or waive recovery of a benefit overpayment.",
+      "outcome": "Judicial review application dismissed; the Secretary of State lawfully refused to credit notional WFTC against the recoverable overpayment.",
+      "ratio": "Where regulation 13 excludes deduction of notional tax credit entitlements from recoverable benefit overpayments, the Secretary of State may lawfully maintain a policy separating tax credit administration from benefit recovery; waiver of recovery is a discretionary matter addressed to real hardship, not mere inconvenience or a windfall argument based on unclaimed WFTC.",
+      "legal_issues": [
+        "Construction of section 71 Social Security Administration Act 1992",
+        "Whether notional WFTC entitlement could reduce recoverable income support overpayment",
+        "Lawfulness of departmental policy distinguishing tax credits from benefits",
+        "Exercise of discretion to waive recovery on hardship grounds"
+      ],
+      "catchwords": [
+        "overpayment recovery",
+        "working families tax credit",
+        "income support",
+        "regulation 13",
+        "waiver",
+        "hardship",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Larusai v Secretary of State for Works and Pensions",
+        "benefit fraud",
+        "Government Accounting 2000",
+        "tax credit offset",
+        "Department for Work and Pensions"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Statutory scheme, policy challenge and outcome are clearly explained. Judge metadata is empty in the source file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/175.json",
+    "status": "done",
+    "notes": "Batch 23 enrichment",
+    "enrichment": {
+      "short_title": "Directors not unfit after pre-receivership asset sales",
+      "area_of_law": [
+        "Company law",
+        "Insolvency law",
+        "Director disqualification"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Company Directors Disqualification Act 1986",
+          "provisions": [
+            "section 6 (disqualification for unfitness)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Three directors of Pineland Facilities Management Ltd were disqualified by the Registrar for trading while insolvent between 15 and 29 December 1998 and selling equipment rapidly before administrative receivership.",
+        "The sales generated substantial VAT liabilities that could not be paid and proceeds went to the bank under fixed charge security.",
+        "The directors consulted prospective administrative receiver Mr Pickard about the sales and obtained best available prices in a deteriorating market.",
+        "Peter Smith J held the directors' conduct did not demonstrate the high degree of incompetence required for disqualification."
+      ],
+      "procedural_posture": "Appeal against disqualification orders made after contested trial; cross-appeal seeking finding on a separate transaction.",
+      "outcome": "Directors' appeal allowed on the insolvent trading ground; Secretary of State's cross-appeal on the inter-company transaction dismissed.",
+      "ratio": "Director disqualification for incompetence requires conduct of a high degree falling short of ordinary business misjudgment; where directors acted responsibly over a longer insolvency period, consulted insolvency professionals about pre-receivership sales, and were not shown to have preferred secured creditors deliberately, short-period asset disposals do not establish unfitness to manage a company.",
+      "legal_issues": [
+        "Whether directors caused Pineland to trade while insolvent to creditors' detriment",
+        "Effect of pre-receivership asset sales and unpaid VAT liabilities",
+        "Standard of unfitness for incompetence-based disqualification",
+        "Whether an inter-company asset transfer to Pineland MU Ltd was proven"
+      ],
+      "catchwords": [
+        "director disqualification",
+        "insolvent trading",
+        "administrative receivership",
+        "VAT on pre-receivership sales",
+        "unfitness",
+        "Company Directors Disqualification Act"
+      ],
+      "index_terms": [
+        "Walker v Secretary of State for Trade and Industry",
+        "Pineland Facilities Management",
+        "In Re John Willment (Ashford) Ltd",
+        "Hitco 2000 Ltd",
+        "re Cubelock Ltd"
+      ],
+      "linked_authorities": [
+        "Hitco 2000 Ltd",
+        "re Cubelock Ltd",
+        "Barings Plc (No 5)",
+        "re Bradcrown Ltd",
+        "In Re John Willment (Ashford) Ltd",
+        "Goldberg v Secretary of State",
+        "re Grayan Building Services Ltd",
+        "Rhesa Shipping Co v Edmonds"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Outcome on both appeal and cross-appeal is explicit. Factual background is detailed in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/128.json",
+    "status": "done",
+    "notes": "Batch 23 enrichment",
+    "enrichment": {
+      "short_title": "Hotel drainage nuisance findings upheld on appeal",
+      "area_of_law": [
+        "Tort law",
+        "Property law",
+        "Nuisance",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The Fawcett family claimed Phoenix Inns caused foul and surface water from the Talbot Hotel to enter the cellar of adjoining 34 Market Place over many years.",
+        "HHJ Moir found a continuing nuisance based on drainage defects, smell evidence, dye tests and water analysis showing sewage contamination since 1997.",
+        "The judge awarded damages for past and future repairs and loss of rent, reducing sums to reflect groundwater contribution.",
+        "Phoenix appealed on alleged failures of findings, knowledge, causation and the form of injunction."
+      ],
+      "procedural_posture": "Appeal from Newcastle County Court judgments on liability, injunction and damages in a private nuisance claim.",
+      "outcome": "Appeal dismissed; liability, injunction and damages awards upheld, with extended compliance time and further rent awarded.",
+      "ratio": "In nuisance claims arising from escaped drainage water, it is sufficient that the defendant knew or ought to have known of the escape and failed to take reasonable remedial steps; an appellate court should read county court reasons in context and will not upset findings where the basis for liability and causation is apparent, even if not expressed in a single formulaic sentence.",
+      "legal_issues": [
+        "Whether the judge made adequate findings on source and cause of water ingress",
+        "Knowledge and reasonable remedial action in private nuisance",
+        "Adequacy of reasons and causation for damages",
+        "Whether the mandatory injunction was too vague"
+      ],
+      "catchwords": [
+        "private nuisance",
+        "drainage",
+        "foul water",
+        "injunction",
+        "damages",
+        "appellate review",
+        "English v Emery Reimbold"
+      ],
+      "index_terms": [
+        "Fawcett v Phoenix Inns",
+        "Talbot Hotel Richmond",
+        "34 Market Place",
+        "HHJ Moir",
+        "dye test evidence"
+      ],
+      "linked_authorities": [
+        "English v Emery Reimbold & Strick Ltd",
+        "Re T (a child)"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed appellate reasoning confirms findings and outcome. No statutes were central to the decision."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/130.json",
+    "status": "done",
+    "notes": "Batch 23 enrichment",
+    "enrichment": {
+      "short_title": "Purchase Plus car vouchers nil value but MOT vouchers ancillary",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": [
+            "section 19(1) and (3) (taxable amount)",
+            "Schedule 6 paragraph 5 (tokens, stamps and vouchers)"
+          ]
+        },
+        {
+          "title": "Council Directive 77/388/EEC (Sixth VAT Directive)",
+          "provisions": [
+            "Article 11A(1) and (3) (taxable amount)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Hartwell Plc, a motor dealer, used Purchase Plus Discount Notes to structure part-exchange deals without inflating trade-in values after Lex Services.",
+        "The VAT tribunal treated Purchase Plus as increasing part-exchange value; Patten J reversed that on appeal.",
+        "The Court of Appeal held Purchase Plus vouchers issued for no consideration had nil monetary value for VAT despite their face value.",
+        "Hartwell also issued MOT vouchers included in car prices; the court held they formed a single supply and were not granted for separate consideration."
+      ],
+      "procedural_posture": "Appeal from High Court decision allowing Hartwell's appeal from the VAT and Duties Tribunal.",
+      "outcome": "Appeal dismissed on Purchase Plus vouchers; appeal allowed on MOT vouchers.",
+      "ratio": "Where a dealer issues a Purchase Plus voucher for no consideration as part of a car sale, its monetary equivalent for VAT is nil under Boots/Elida Gibbs principles even if finance companies treat it as part of the customer's deposit; MOT vouchers bundled into the car price are ancillary to a single supply and paragraph 5 of Schedule 6 does not apply because no separate consideration is given for them.",
+      "legal_issues": [
+        "VAT treatment of Purchase Plus discount notes in part-exchange transactions",
+        "Monetary value of vouchers issued without consideration",
+        "Whether MOT vouchers were a separate supply or ancillary to the car sale",
+        "Application of Schedule 6 paragraph 5 Value Added Tax Act 1994"
+      ],
+      "catchwords": [
+        "VAT",
+        "motor dealers",
+        "part exchange",
+        "Purchase Plus",
+        "vouchers",
+        "single supply",
+        "Lex Services"
+      ],
+      "index_terms": [
+        "Commissioners of Customs and Excise v Hartwell Plc",
+        "Purchase Plus Discount Note",
+        "MOT vouchers",
+        "Card Protection Plan",
+        "Boots Company plc v Customs and Excise Commissioners"
+      ],
+      "linked_authorities": [
+        "Lex Services Plc v Commissioners of Customs and Excise",
+        "Boots Company plc v Customs and Excise Commissioners",
+        "Elida Gibbs Ltd v Customs and Excise Commissioners",
+        "Argos Distributors Ltd v Customs and Excise Commissioners",
+        "Card Protection Plan Ltd v Customs and Excise Commissioners",
+        "Customs and Excise Commissioners v British Telecommunications plc",
+        "Kuwait Petroleum (GB) Ltd v Customs and Excise Commissioners",
+        "Yorkshire Co-operatives Ltd v Commissioners of Customs and Excise"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Split outcome on two distinct VAT issues is clearly stated. Tribunal and High Court findings are extensively reviewed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/353.json",
+    "status": "done",
+    "notes": "Batch 23 enrichment",
+    "enrichment": {
+      "short_title": "No stay for Gatso disclosure in long-delayed speeding case",
+      "area_of_law": [
+        "Criminal procedure",
+        "Administrative law",
+        "Road traffic law",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Procedure and Investigations Act 1996",
+          "provisions": [
+            "section 1 (application to charged persons)",
+            "section 3 (primary disclosure)"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 1 (issue of summons)"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "charging procedure and Code C"
+          ]
+        },
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "speeding offence"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Johnson faced a July 1999 speeding charge by summons; proceedings were repeatedly adjourned over several years.",
+        "He sought a stay for non-disclosure of unused material, a calibration certificate, Home Office approval and ACPO Gatso guidelines.",
+        "District Judge Sims held CPIA 1996 did not apply to summons cases but accepted a common law/Article 6 disclosure duty.",
+        "The Divisional Court held further disclosure was unnecessary and refusal to stay or vacate trial was not Wednesbury unreasonable."
+      ],
+      "procedural_posture": "Application for judicial review of a magistrates' court refusal to stay proceedings or vacate trial for alleged disclosure failures.",
+      "outcome": "Judicial review dismissed; stay and vacation refused; claimant ordered to pay respondent's costs.",
+      "ratio": "Even if statutory CPIA disclosure provisions do not apply to proceedings begun by summons, prosecutors remain subject to common law and Article 6 disclosure duties; where photographic and calibration evidence has long been served, requested third-party guidance is not in prosecution possession, and the defence repeatedly confirmed readiness for trial without expert evidence, further delay by stay is unjustified.",
+      "legal_issues": [
+        "Whether CPIA 1996 applies to summary proceedings commenced by summons",
+        "Extent of prosecution disclosure obligations in speeding cases",
+        "Whether Home Office approval and ACPO guidelines were disclosable prosecution material",
+        "Propriety of refusing stay after prolonged procedural history"
+      ],
+      "catchwords": [
+        "disclosure",
+        "CPIA 1996",
+        "speed camera",
+        "Gatso",
+        "judicial review",
+        "stay of proceedings",
+        "summons"
+      ],
+      "index_terms": [
+        "Johnson v Stratford Magistrates' Court",
+        "District Judge Sims",
+        "calibration certificate",
+        "R v Stratford Justices ex parte Imbert",
+        "Salubi",
+        "Cairns"
+      ],
+      "linked_authorities": [
+        "R v Bolton Justices ex parte Scally",
+        "R v Stratford Justices ex parte Imbert",
+        "Salubi",
+        "Cairns"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed procedural history and disclosure analysis support the enrichment. DPP conceded CPIA construction may have been wrong but common law duty applied."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/85.json",
+    "status": "done",
+    "notes": "Batch 23 enrichment",
+    "enrichment": {
+      "short_title": "Child abuse claims: limitation discretion upheld, damages varied",
+      "area_of_law": [
+        "Tort law",
+        "Limitation of actions",
+        "Personal injury",
+        "Negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 11 (special time limits for personal injuries)",
+            "section 14 (date of knowledge)",
+            "section 33 (discretion to disapply time limit)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Fourteen adults appealed after Connell J found Bryn Alyn Community liable for abuse in North Wales children's homes but held claims were out of time under section 14.",
+        "The judge exercised section 33 discretion to disapply limitation for successful claimants; the insurer cross-appealed on limitation and claimants appealed on quantum.",
+        "The Court of Appeal reconsidered date of knowledge for psychiatric injury and upheld disapplication of limitation in successful cases.",
+        "Outcomes varied by claimant: some quantum appeals allowed, MCK's intentional trespass claim held statute-barred under Stubbings."
+      ],
+      "procedural_posture": "Appeal and cross-appeal from High Court trial of consolidated negligence claims arising from historic child abuse.",
+      "outcome": "Insurer's cross-appeals on limitation dismissed; mixed outcomes on individual claimants' liability, limitation and damages appeals.",
+      "ratio": "In historic abuse claims, section 14 date of knowledge of significant injury may arise later than the abuse itself where psychiatric harm only becomes apparent in adulthood; where claims are otherwise viable, section 33 may properly disapply limitation despite long delay, but intentional trespass claims remain subject to the non-extendable six-year limit in Stubbings v Webb.",
+      "legal_issues": [
+        "Date of knowledge of significant psychiatric injury under section 14",
+        "Exercise of discretion under section 33 to disapply limitation",
+        "Whether intentional sexual abuse claims fall within section 11 or Stubbings",
+        "Assessment and apportionment of damages for historic abuse"
+      ],
+      "catchwords": [
+        "child abuse",
+        "limitation",
+        "section 14",
+        "section 33",
+        "date of knowledge",
+        "psychiatric injury",
+        "Stubbings v Webb"
+      ],
+      "index_terms": [
+        "KR v Bryn Alyn Community (Holdings) Ltd",
+        "North Wales children's homes",
+        "Connell J",
+        "John Allen",
+        "Waterhouse Inquiry",
+        "Lister v Hesley Hall"
+      ],
+      "linked_authorities": [
+        "Stubbings v Webb",
+        "Lister v Hesley Hall",
+        "McGee v National Coal Board",
+        "A v Hoare"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Very long multi-claim judgment; core limitation principles and final order are clear, but individual claimant outcomes differ. Source judge metadata lists many names not all delivering this judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/139.json",
+    "status": "done",
+    "notes": "Batch 23 enrichment",
+    "enrichment": {
+      "short_title": "Douglas wedding photographer may be served out as joint tortfeasor",
+      "area_of_law": [
+        "Media and privacy law",
+        "Conflict of laws",
+        "Civil procedure",
+        "Intellectual property"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": [
+            "section 5(1)(b) (application to overseas controllers using UK equipment)"
+          ]
+        },
+        {
+          "title": "Private International Law (Miscellaneous Provisions) Act 1995",
+          "provisions": [
+            "section 11 (choice of law in tort)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 6.20(8) (service out in tort)",
+            "CPR 6.20(15) (service out in restitution)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Michael Douglas and Catherine Zeta-Jones sued Hello! after unauthorised wedding photographs were published despite an exclusive OK! deal.",
+        "California photographer Philip Ramey was joined as sixth defendant on evidence he was commissioned in advance and paid via Neneta/Hello!.",
+        "Laddie J set aside service out, holding the pleaded claims against Mr Ramey were bound to fail.",
+        "The Court of Appeal held there was a good arguable case that Mr Ramey participated in a common design making him a joint tortfeasor for publication in England."
+      ],
+      "procedural_posture": "Second appeal on whether service out of the jurisdiction on a California photographer should be set aside before trial.",
+      "outcome": "Claimants' appeal allowed; service out on Mr Ramey restored, though he would not join the imminent trial.",
+      "ratio": "Where a foreign photographer is allegedly commissioned in advance to obtain confidential wedding photographs for publication in England and transmits them to the publisher, there is a good arguable case for service out as a joint tortfeasor in breach of confidence and privacy based on publication in England; a good arguable case threshold applies at this stage, not a bound-to-fail test.",
+      "legal_issues": [
+        "Whether claims against Mr Ramey had sufficient weight for service out",
+        "Joint tortfeasorship in breach of confidence and privacy",
+        "Jurisdiction over publication-based torts committed in England",
+        "Application of Data Protection Act 1998 to transmission via UK ISDN equipment"
+      ],
+      "catchwords": [
+        "breach of confidence",
+        "privacy",
+        "service out of jurisdiction",
+        "celebrity wedding",
+        "joint tortfeasor",
+        "Hello!",
+        "good arguable case"
+      ],
+      "index_terms": [
+        "Douglas v Hello! Ltd",
+        "Michael Douglas",
+        "Catherine Zeta-Jones",
+        "Philip Ramey",
+        "OK! magazine",
+        "Berezovsky v Michaels"
+      ],
+      "linked_authorities": [
+        "Douglas v Hello! Ltd [2001] QB 967",
+        "Venables v News Group Newspapers",
+        "A v B plc",
+        "Campbell v MGN Ltd",
+        "Credit Lyonnais v ECGD",
+        "CBS Songs Ltd v Amstrad Consumer Electronics Plc",
+        "Seaconsar Far East Ltd v Bank Markazi Jomhouri Islami Iran",
+        "Berezovsky v Michaels"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Interlocutory jurisdictional appeal with clear outcome. Full merits of privacy claims reserved for trial."
+      }
+    }
+  }
+]

@@ -1,0 +1,642 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2139.json",
+    "status": "done",
+    "notes": "Murder appeal; fresh evidence, Turnbull/Browning, disclosure and alibi grounds all resolved clearly.",
+    "enrichment": {
+      "short_title": "Hampton and Brown: murder appeal on alibi, vehicle ID and cell-site disclosure",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Criminal procedure",
+        "Disclosure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 23"
+          ]
+        },
+        {
+          "title": "Criminal Procedure and Investigations Act 1996",
+          "provisions": [
+            "section 5(7)",
+            "section 7(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Gary Phillip Hampton and Michael Anthony Brown were convicted of murdering Colin McGinty after an attack linked to events at Sullivans Wine Bar in Bootle on 23 March 2001.",
+        "Prosecution evidence centred on witness David Graham's recollection of registration letters CVM on a VW Golf owned by Brown and Mrs Corrin's timing evidence.",
+        "Leave was granted on fresh alibi evidence from Jill Woodcock, vehicle registration identification directions, and non-disclosure of cell-site evidence relating to a 03.29 call.",
+        "Both appellants had deliberately avoided putting key mobile phone calls into evidence at trial."
+      ],
+      "procedural_posture": "Court of Appeal criminal appeal against murder convictions after limited leave and renewed applications on multiple grounds.",
+      "outcome": "Appeal dismissed; convictions held safe. Fresh evidence from Miss Woodcock was refused under section 23; no Turnbull-type warning was required for licence plate evidence following Browning; cell-site non-disclosure did not render convictions unsafe.",
+      "ratio": "A deliberate informed decision not to call an alibi witness at trial is not a reasonable explanation under section 23(2)(d) and fresh evidence will rarely be received on appeal; licence plate identification is not a Turnbull category requiring a special warning; undisclosed cell-site evidence that defendants would not have relied on cannot make a conviction unsafe.",
+      "legal_issues": [
+        "Whether fresh alibi evidence from Jill Woodcock should be received under section 23",
+        "Whether the trial judge should have given a Turnbull-type warning on vehicle registration evidence",
+        "Whether non-disclosure of cell-site evidence relating to Brown's 03.29 call to Hampton rendered the convictions unsafe",
+        "Whether Hampton's case should have been withdrawn from the jury"
+      ],
+      "catchwords": [
+        "murder",
+        "fresh evidence",
+        "alibi witness",
+        "Turnbull direction",
+        "licence plate identification",
+        "cell-site disclosure",
+        "section 23"
+      ],
+      "index_terms": [
+        "Colin McGinty",
+        "VW Golf CVM",
+        "Jill Woodcock",
+        "Browning",
+        "Pendleton",
+        "R v H and R v C",
+        "non-disclosure"
+      ],
+      "linked_authorities": [
+        "R v Browning (1992) 94 Cr App R 109",
+        "R v Turnbull [1977] 1 QB 224",
+        "R v Pendleton [2002] 1 WLR 72",
+        "R. v. H and R v C [2004] UKHL 3"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed appellate reasoning on each ground and explicit safety conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1074.json",
+    "status": "done",
+    "notes": "Bhogal equitable set-off appeal; summary judgment for SAMA upheld on clear authority.",
+    "enrichment": {
+      "short_title": "SAMA v Dresdner Bank: Bhogal principle and blocked Saudi account funds",
+      "area_of_law": [
+        "Banking law",
+        "Commercial law",
+        "Equity",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Saudi Arabian Monetary Agency instructed Dresdner Bank London to transfer about €291 million from its euro account.",
+        "Dresdner transferred a lesser sum and blocked €49.1 million, claiming equitable set-off against Saudi government ministry debts owed to affiliate Dresdner Bank Luxembourg.",
+        "SAMA amended its claim to allege the blocked funds were attributable to GOSI rather than held beneficially for SAMA or the Saudi government.",
+        "Neuberger J granted SAMA summary judgment; the bank appealed."
+      ],
+      "procedural_posture": "Appeal from Commercial Court summary judgment under CPR Part 24 on whether Dresdner could retain funds by equitable set-off.",
+      "outcome": "Appeal dismissed; Dresdner was not entitled to block the account on an arguable nominee-beneficiary case and lacked clear indisputable evidence that the Saudi government was beneficial owner.",
+      "ratio": "The Bhogal principle applies even where the account holder accepts it is not the beneficial owner but contends another non-debtor is; a bank may refuse payment only where beneficial ownership by its debtor is clear and indisputable without enquiry, and the test is judged by the reason given at the time of refusal.",
+      "legal_issues": [
+        "Whether the Bhogal rule applies where the customer denies beneficial ownership and identifies a third-party beneficiary",
+        "Whether Dresdner had clear and indisputable evidence that SAMA held the funds on trust for the Saudi government",
+        "Whether blocked funds were attributable to GOSI",
+        "Whether summary judgment was correctly granted"
+      ],
+      "catchwords": [
+        "equitable set-off",
+        "banker and customer",
+        "Bhogal principle",
+        "nominee account",
+        "summary judgment",
+        "SAMA",
+        "beneficial ownership"
+      ],
+      "index_terms": [
+        "Dresdner Bank Luxembourg",
+        "GOSI",
+        "MODA",
+        "Uttamchandami",
+        "Al-Saud",
+        "SWIFT transfer",
+        "blocked account"
+      ],
+      "linked_authorities": [
+        "Bhogal v Punjab National Bank [1988] 2 All ER 296",
+        "Uttamchandami v Central Bank of India (1989) NLJ 222",
+        "Bank of Credit and Commerce International SA v Al-Saud [1997] 1 BCLC 457"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Appellate endorsement of first-instance summary judgment and settled banking-law principle."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2348.json",
+    "status": "done",
+    "notes": "Short renewed permission judgment; claim academic and alternative remedy route identified.",
+    "enrichment": {
+      "short_title": "R (B) v Camden: academic judicial review of mental health service assessment",
+      "area_of_law": [
+        "Public law",
+        "Judicial review",
+        "Mental health",
+        "Health and social care"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The applicant sought judicial review of whether proper assessment was made of services to be provided under the Mental Health Act before a Mental Health Review Tribunal decision on 26 April 2004.",
+        "All assessed services had already been provided before the tribunal decision, rendering the claim academic.",
+        "Funding for the renewed application was withdrawn and the applicant appeared unrepresented until counsel sought adjournment.",
+        "No complaint had been made to the Parliamentary Ombudsman or local government ombudsman as Anufrijeva required."
+      ],
+      "procedural_posture": "Renewed application for permission to apply for judicial review after refusal on the papers by Mitting J.",
+      "outcome": "Application dismissed; the claim was academic and any damages remedy lay elsewhere after appropriate complaints procedures.",
+      "ratio": "Where all services sought had already been provided before the tribunal decision, a judicial review challenge is academic; potential damages claims should not keep such proceedings alive and Anufrijeva requires prior use of ombudsman routes.",
+      "legal_issues": [
+        "Whether the claim remained live after services were provided",
+        "Whether a potential damages claim justified continuing proceedings",
+        "Whether Anufrijeva preconditions for permission were satisfied"
+      ],
+      "catchwords": [
+        "judicial review",
+        "permission refused",
+        "academic claim",
+        "Mental Health Review Tribunal",
+        "Anufrijeva",
+        "ombudsman"
+      ],
+      "index_terms": [
+        "Camden",
+        "service assessment",
+        "renewed application",
+        "damages",
+        "funding withdrawn"
+      ],
+      "linked_authorities": [
+        "Anufrijeva v Southwark London Borough Council [2004] 2 WLR 603"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Brief but complete disposal on academicity and alternative remedies."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2004/1944.json",
+    "status": "done",
+    "notes": "Long 1975 Act trial judgment with detailed award and postscript trust variation.",
+    "enrichment": {
+      "short_title": "Myers v Myers: daughter's claim under the Inheritance Act 1975",
+      "area_of_law": [
+        "Family law",
+        "Wills and succession",
+        "Trusts",
+        "Equity"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Inheritance (Provision for Family and Dependants) Act 1975",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 3"
+          ]
+        },
+        {
+          "title": "Trustee Act 1925",
+          "provisions": [
+            "section 31",
+            "section 32"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Geoffrey Holt Myers died leaving an estate of about £8.36 million entirely to his second wife and children of his second marriage.",
+        "Beryl Anne Myers, his adult daughter by his first marriage, brought a claim under the 1975 Act having received no testamentary provision.",
+        "At the time of the will she lived in straightened circumstances in Paris with limited capital, no pension and modest share income.",
+        "The deceased had previously given her shares worth about £310,000 if retained, but she had sold many of them."
+      ],
+      "procedural_posture": "Trial of a claim under the Inheritance (Provision for Family and Dependants) Act 1975 in the Family Division.",
+      "outcome": "Claim succeeded. The court ordered a £275,000 life-interest housing trust plus £241,500 comprising £20,000 furnishing, £21,500 debts and a £200,000 Duxbury income fund; trust terms were modified in a postscript to limit capital applications to maintenance.",
+      "ratio": "Reasonable financial provision under the 1975 Act is judged objectively by maintenance needs rather than the deceased's subjective reasons; capital awards should normally be settled for life rather than given outright, and Duxbury capitalisation is appropriate for income maintenance.",
+      "legal_issues": [
+        "Whether the will failed to make reasonable financial provision for an adult child",
+        "What maintenance award was reasonable including housing in Paris",
+        "Whether capital should be awarded outright or on life-interest trusts",
+        "How to capitalise annual maintenance using Duxbury calculations"
+      ],
+      "catchwords": [
+        "Inheritance Act 1975",
+        "reasonable financial provision",
+        "adult child",
+        "maintenance",
+        "Duxbury fund",
+        "life interest trust",
+        "Paris housing"
+      ],
+      "index_terms": [
+        "Geoffrey Holt Myers",
+        "Beryl Anne Myers",
+        "Re Coventry",
+        "A v A lump sum",
+        "section 3 factors",
+        "housing trust"
+      ],
+      "linked_authorities": [
+        "Re Hancock [1998] 2 FLR 615",
+        "A v A (Elderly Applicant: Lump Sum) [1999] 2 FLR 969",
+        "Re Scott-Kilvert, Robinson v Fernsby [2003] EWCA Civ 1820"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full fact findings, quantified award and clarified final trust terms in postscript."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2337.json",
+    "status": "done",
+    "notes": "Hostile witness discretion appeal; Recorder's approach upheld with overwhelming evidence finding.",
+    "enrichment": {
+      "short_title": "R v Olumegbon: hostile witness and drug supply conviction appeal",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Drugs offences",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Olumegbon was convicted after a Cambridge Crown Court trial of possession with intent to supply and supplying class A drugs following a police raid on 25 July 2002.",
+        "About £12,000 of heroin and crack cocaine, scales, cash and phones were found at a kitchen table when the appellant arrived from London.",
+        "Witness Alex Hughes gave inconsistent statements, withdrew an incriminating statement, and was treated as a hostile witness before the jury.",
+        "The sole pursued ground concerned whether Hughes should have been excluded or a voir dire held."
+      ],
+      "procedural_posture": "Court of Appeal criminal appeal against conviction by leave of the Full Court on hostile witness procedure.",
+      "outcome": "Appeal dismissed; the Recorder properly exercised discretion in allowing Hughes to be called and treated as hostile, and the conviction was safe given overwhelming evidence.",
+      "ratio": "Prosecution may call a potentially hostile witness and determine hostility before the jury; voir dires should rarely be used for that purpose; trial judges have a broad discretion to permit hostile witness cross-examination reviewable only in exceptional circumstances.",
+      "legal_issues": [
+        "Whether the judge should have excluded Hughes or held a voir dire",
+        "Whether prosecution cross-examination of a hostile witness caused irremediable prejudice",
+        "Whether summing-up directions effectively withdrew Hughes' evidence from the jury",
+        "Whether the conviction was unsafe"
+      ],
+      "catchwords": [
+        "hostile witness",
+        "voir dire",
+        "class A drugs",
+        "possession with intent to supply",
+        "discretion",
+        "previous inconsistent statement"
+      ],
+      "index_terms": [
+        "Alex Hughes",
+        "Jane Gallienne",
+        "Cambridge raid",
+        "Mann",
+        "Khan Dad and Afsar",
+        "Honeyghon and Sayles"
+      ],
+      "linked_authorities": [
+        "R v Mann (1972) 56 Cr App R 750",
+        "R v Khan, Dad and Afsar [2002] EWCA Crim 945",
+        "Honeyghon and Sayles (1998) unreported"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Single ground fully reasoned with explicit safety conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1938.json",
+    "status": "done",
+    "notes": "Major Enron letter-of-credit trial; lengthy judgment with explicit conclusions on all claims.",
+    "enrichment": {
+      "short_title": "Mahonia v WestLB: Enron $165m letter of credit fraud and illegality trial",
+      "area_of_law": [
+        "Banking law",
+        "Commercial law",
+        "Letters of credit",
+        "Fraud",
+        "Company law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mahonia claimed $165 million under a letter of credit issued by WestLB at Enron's request following presentation of an Event of Default Statement in December 2001.",
+        "WestLB defended on grounds of fraud, conspiracy, illegality and misrepresentation linked to Enron prepay transactions including Chase XII.",
+        "Mahonia was a Jersey SPV incorporated at JP Morgan Chase's instigation; Chase was joined and faced Part 20 claims.",
+        "Colman J had earlier refused strike-out and summary judgment applications in July 2003."
+      ],
+      "procedural_posture": "Full Commercial Court trial after interlocutory refusal of summary judgment on Mahonia's letter of credit claim and WestLB's fraud and conspiracy defences.",
+      "outcome": "Mahonia succeeded on the letter of credit claim; WestLB's illegality, fraud and conspiracy defences failed and all cross-claims against Mahonia and Chase were rejected; WestLB ordered to pay costs, partly on an indemnity basis.",
+      "ratio": "Where conforming documents are presented under a letter of credit the issuing bank must pay unless it establishes a defence; WestLB failed to prove Enron-related fraud, conspiracy or illegal purpose sufficient to avoid payment or support recovery against Mahonia and Chase.",
+      "legal_issues": [
+        "Whether WestLB was bound to honour the letter of credit on conforming demand",
+        "Whether the transaction was induced by fraud or conspiracy",
+        "Whether illegality or Enron off-balance-sheet accounting rendered the letter of credit unenforceable",
+        "Whether Chase or Mahonia misrepresented the nature of the underlying prepay transaction"
+      ],
+      "catchwords": [
+        "letter of credit",
+        "Enron",
+        "fraud",
+        "conspiracy",
+        "illegality",
+        "prepay transaction",
+        "special purpose vehicle"
+      ],
+      "index_terms": [
+        "WestLB",
+        "Mahonia",
+        "JP Morgan Chase",
+        "Chase XII",
+        "Event of Default Statement",
+        "Facility Agreement",
+        "Enron North America"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Very long judgment but explicit numbered conclusions on all principal claims; interlocutory history noted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1917.json",
+    "status": "done",
+    "notes": "Complex planning permission history; Blackburne J upheld inspector on 1997 permission implementation.",
+    "enrichment": {
+      "short_title": "Markets South West v SoS: Cornish indoor market weekday trading enforcement",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 73",
+            "section 73A",
+            "section 174",
+            "section 289"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Cornish Market World at Par operated an indoor market subject to a 1997 permission limiting weekday trading to ten days per year in addition to Saturdays and Sundays.",
+        "From May 2001 MSW began trading every Wednesday, breaching condition 6 and leading to an enforcement notice in January 2003.",
+        "The planning history involved a 1991 outline permission, reserved matters approval, a 1994 extension permission and the 1997 regularisation permission.",
+        "An inspector dismissed MSW's appeal and refused a deemed section 73 variation for year-round Wednesday trading."
+      ],
+      "procedural_posture": "Section 289 appeal to the High Court against an inspector's dismissal of an enforcement notice appeal and refusal of a deemed planning application.",
+      "outcome": "Appeal dismissed; the inspector lawfully found condition 6 of the 1997 permission valid and implemented, weekday Wednesday trading was a breach, and reasons were adequate despite some infelicitous wording.",
+      "ratio": "A later planning permission may curtail earlier user rights without creating a new planning unit where the developer accepts and implements the new regime; invalid reserved matters conditions may be severable without destroying separate extension-permission restrictions; a reasons challenge succeeds only if substantial prejudice is shown.",
+      "legal_issues": [
+        "Whether the 1994 extension permission created a new planning chapter extinguishing L-shaped building rights",
+        "Whether the 1997 permission was implemented by continued weekday trading",
+        "Whether condition 6 was a valid planning condition",
+        "Whether the inspector's reasons were adequate under South Bucks principles"
+      ],
+      "catchwords": [
+        "planning enforcement",
+        "planning condition",
+        "indoor market",
+        "implementation",
+        "section 289 appeal",
+        "Newbury",
+        "severance"
+      ],
+      "index_terms": [
+        "Cornish Market World",
+        "Restormel Borough Council",
+        "condition 6",
+        "Wednesday trading",
+        "South Bucks v Porter",
+        "L rights"
+      ],
+      "linked_authorities": [
+        "Newbury District Council v Secretary of State for the Environment [1981] AC 578",
+        "South Bucks District Council v Porter (No 2) [2004] UKHL 33",
+        "Pilkington v Secretary of State for the Environment [1973] 1 WLR 1527"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed planning-history analysis with clear final dismissal, though some inspector wording was awkward."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1926.json",
+    "status": "done",
+    "notes": "Service and assignment procedural dispute; Colman J refused strike-out and dispensation.",
+    "enrichment": {
+      "short_title": "Firstdale v Quinton: claim form service, assignment and stockbroker debt",
+      "area_of_law": [
+        "Civil procedure",
+        "Commercial law",
+        "Contract law",
+        "Debt assignment"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": [
+            "section 136"
+          ]
+        },
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 36A"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 35A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Firstdale claimed about £356,333 from former stockbroker Gerald Quinton under a 1997 Branston & Gothard contract for client defaults.",
+        "The debt was assigned by the liquidator of B&G to parent company Firstdale by deed in October 2003 after long pre-issue correspondence.",
+        "Quinton's solicitors had confirmed instructions to accept service of liquidator proceedings but the claim form was posted to Quinton's home after the limitation period ended.",
+        "The defendant challenged service, notice of assignment, deed execution and claim form particulars."
+      ],
+      "procedural_posture": "Interlocutory applications for invalid service/strike-out and for dispensation with service under CPR 6.9 in a debt claim following statutory assignment.",
+      "outcome": "Defendant's applications refused; service at Quinton's home was valid because solicitors' acceptance related only to liquidator claims, assignment notice by sending the deed was valid, and claim form defects were curable under CPR 3.10.",
+      "ratio": "Authority to accept service under CPR 6.4 is defined by claimant identity and claim capacity, so acceptance for a liquidator claim does not mandate service on those solicitors after assignment to a different claimant; a copy deed sent to the debtor can constitute valid section 136 notice despite dating anomalies.",
+      "legal_issues": [
+        "Whether service at the defendant's home was invalid after solicitors had accepted service for the liquidator",
+        "Whether notice of assignment was invalid because the deed bore two dates",
+        "Whether the assignment deed was invalidly executed under section 36A",
+        "Whether claim form defects warranted strike-out"
+      ],
+      "catchwords": [
+        "service of claim form",
+        "CPR 6.4",
+        "statutory assignment",
+        "notice of assignment",
+        "strike out",
+        "deed of assignment",
+        "limitation"
+      ],
+      "index_terms": [
+        "Branston & Gothard",
+        "Fox Williams",
+        "Sebastians",
+        "Van Lynn Developments",
+        "Nanglegan",
+        "Anderton v Clwyd"
+      ],
+      "linked_authorities": [
+        "Nanglegan v Royal Free Hampstead NHS Trust [2001] EWCA Civ 127",
+        "Van Lynn Developments Ltd v Pelvis Construction Co Ltd [1969] 1 QB 607",
+        "Anderton v Clwyd County Council [2002] 1 WLR 3174"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Procedural issues comprehensively resolved with clear refusals of defendant applications."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2119.json",
+    "status": "done",
+    "notes": "PII transcript release JR; judge's refusal quashed on security, relevance and jurisdiction grounds.",
+    "enrichment": {
+      "short_title": "Customs and Excise v Blackfriars CC: PII transcript disclosure judicial review",
+      "area_of_law": [
+        "Public law",
+        "Judicial review",
+        "Criminal procedure",
+        "Public interest immunity"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Rules 1968",
+          "provisions": [
+            "Rule 19"
+          ]
+        }
+      ],
+      "key_facts": [
+        "HM Customs and Excise sought release of a transcript of public interest immunity proceedings in Gardner and Others before HHJ Pillay in August 2000.",
+        "Customs believed parts of the transcript were relevant to the ongoing Chandler and Others trial and wished to disclose them to the defence.",
+        "The judge ordered transcription but refused release citing informant safety, relevance, jurisdiction and Customs' presence at the hearing.",
+        "Customs applied for judicial review to quash the refusal."
+      ],
+      "procedural_posture": "Judicial review of a Crown Court judge's refusal to release a PII hearing transcript for use in another trial.",
+      "outcome": "Claim succeeded; the judge's refusal was quashed as irrational and based on misdirections, and the Crown Court was directed to release the transcript to Customs.",
+      "ratio": "Release of a PII transcript to Customs for controlled disclosure in another case is not inherently unsafe for informants; investigating practices in one case may be relevant in another; Rule 19 gives continuing power to supply transcripts and presence at the hearing does not negate the need for an official transcript.",
+      "legal_issues": [
+        "Whether release of the PII transcript endangered informants",
+        "Whether the transcript could be relevant to Chandler and Others",
+        "Whether the judge was functus officio",
+        "Whether Customs' attendance made a transcript unnecessary"
+      ],
+      "catchwords": [
+        "public interest immunity",
+        "transcript",
+        "judicial review",
+        "informant safety",
+        "Crown Court",
+        "disclosure",
+        "functus officio"
+      ],
+      "index_terms": [
+        "Gardner and Others",
+        "Chandler and Others",
+        "Operation Xylograph",
+        "HHJ Pillay",
+        "Rule 19",
+        "CPR 54.19"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Short judgment with point-by-point rejection of each reason for refusal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2333.json",
+    "status": "done",
+    "notes": "Cannabis importation sentence and travel restriction appeal; modest reduction and TRO correction.",
+    "enrichment": {
+      "short_title": "R v Campbell: repeated cannabis importation sentence and travel restriction",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Drugs offences",
+        "Immigration restrictions"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice and Police Act 2001",
+          "provisions": [
+            "section 33"
+          ]
+        },
+        {
+          "title": "Customs and Excise Management Act 1979",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Campbell was convicted at Croydon Crown Court of fraudulent evasion of prohibition on importing about 17 kilogrammes of cannabis resin from Jamaica via Gatwick in April 2003.",
+        "He denied knowledge of a second suitcase containing thirteen packages hidden among women's clothing; airline records showed two checked bags.",
+        "He had multiple prior drug and customs convictions in Jamaica and England, including a 27-month sentence ending shortly before this offence.",
+        "The Recorder sentenced him to seven years' imprisonment and a ten-year travel restriction order from sentence."
+      ],
+      "procedural_posture": "Court of Appeal criminal appeal against sentence with leave of the single judge.",
+      "outcome": "Appeal allowed in part: imprisonment reduced from seven to six years; travel restriction order reduced to five years and corrected to run from release rather than sentence.",
+      "ratio": "Repeat drug importers who persist despite prior sentences may receive terms above guideline levels for quantity alone, but the uplift must remain proportionate; section 33 travel restriction orders are mandatory for qualifying sentences, must run from release, and should be tailored to risk factors including age, record and family ties.",
+      "legal_issues": [
+        "Whether seven years was manifestly excessive for about 17 kilogrammes given prior convictions",
+        "Whether a ten-year travel restriction order was too long",
+        "Whether the travel restriction order should run from sentence rather than release"
+      ],
+      "catchwords": [
+        "cannabis importation",
+        "manifestly excessive sentence",
+        "travel restriction order",
+        "repeat offender",
+        "section 33",
+        "Gatwick Airport"
+      ],
+      "index_terms": [
+        "Aramah",
+        "Ronchetti",
+        "R v Mee",
+        "class B drug",
+        "Kingston Jamaica",
+        "fraudulent evasion"
+      ],
+      "linked_authorities": [
+        "R v Aramah (1982) 76 Cr App R 190",
+        "R v Ronchetti [1998] 2 Cr App R(S) 100",
+        "R v Mee [2004] EWCA Crim 629"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Compact sentencing judgment with explicit substituted terms."
+      }
+    }
+  }
+]

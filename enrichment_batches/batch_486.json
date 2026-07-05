@@ -1,0 +1,726 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2005/507.json",
+    "status": "done",
+    "notes": "Full Court of Appeal judgment on actual undue influence; facts, Etridge analysis and dismissal are clear.",
+    "enrichment": {
+      "short_title": "Daniel v Drew: actual undue influence over elderly aunt's trust resignation",
+      "area_of_law": [
+        "Equity",
+        "Trust law",
+        "Undue influence",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trustee Act 1925",
+          "provisions": [
+            "section 25(7)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Irene Margaret Drew, an 85-year-old aunt, resigned as trustee of Hyde Farm after pressure from her nephew Nicholas Daniel over farm repairs and trustee meetings.",
+        "Judge Weeks Q.C. set aside a memorandum and deed of retirement dated February 2002, finding Nicholas exploited her vulnerability and misrepresented that Stephen could not be appointed as her successor.",
+        "Nicholas visited alone, used a neighbour as witness, and avoided involving Mrs Drew's solicitors or her son Stephen.",
+        "Mrs Drew wanted to retire only if Stephen or his representative replaced her; the nephews opposed that condition."
+      ],
+      "procedural_posture": "Appeal from a deputy Chancery judge's decision setting aside trust retirement documents procured by alleged actual undue influence.",
+      "outcome": "Appeal dismissed; the judge was entitled to find actual undue influence through improper pressure and misrepresentation, and the claim was not sterile.",
+      "ratio": "Actual undue influence is not confined to overt unlawful threats; vulnerability, forceful conduct and court references may be relevant, and Lord Eldon's inquiry into how intention was produced applies to both actual and presumed undue influence.",
+      "legal_issues": [
+        "Whether Mrs Drew had to prove overt acts of improper pressure or coercion",
+        "Whether the judge wrongly elided actual and presumed undue influence by reference to vulnerability",
+        "Whether threatening court proceedings could amount to improper pressure in the circumstances",
+        "Whether relief was sterile because Mrs Drew wished to retire with a successor appointed"
+      ],
+      "catchwords": [
+        "actual undue influence",
+        "trustee retirement",
+        "family trust",
+        "vulnerable elderly person",
+        "Etridge",
+        "Hyde Farm"
+      ],
+      "index_terms": [
+        "Royal Bank of Scotland v Etridge",
+        "Huguenin v Baseley",
+        "Allcard v Skinner",
+        "memorandum of resignation",
+        "deed of retirement",
+        "misrepresentation"
+      ],
+      "linked_authorities": [
+        "Royal Bank of Scotland v Etridge (No. 2) [2002] 2 AC 773",
+        "Allcard v Skinner (1887) 36 Ch D 145",
+        "Huguenin v Baseley (1807) 14 Ves 273"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed fact findings and comprehensive undue influence analysis with unanimous dismissal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/831.json",
+    "status": "done",
+    "notes": "Detailed VAT tribunal appeal on virtual assignment sale-and-leaseback; outcome and ECJ-derived principles are explicit.",
+    "enrichment": {
+      "short_title": "Abbey National v HMRC: VAT on virtual assignment sale-and-leaseback",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "Property law",
+        "European Union law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": [
+            "Schedule 9 Part II Group 1 Item 1",
+            "Schedule 10 paragraph 8(1)",
+            "section 51"
+          ]
+        },
+        {
+          "title": "Sixth Council Directive 77/388/EEC",
+          "provisions": [
+            "Article 13B(b)"
+          ]
+        },
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": [
+            "section 146"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Abbey National sold about 1,000 properties to Mapeley and leased back premises it wished to occupy, using virtual assignments where landlord consent for leasehold transfers was unavailable.",
+        "The VAT tribunal held Mapeley's supply to Abbey was standard-rated agency and property management, not exempt letting, but that sub-tenant rents accrued to Mapeley under Schedule 10.",
+        "Virtual assignments passed economic benefits and burdens of shorter leases to Mapeley while Abbey remained legal lessee pending formal assignment.",
+        "Abbey paid a Principal Fee for occupation under the virtual leaseback arrangements."
+      ],
+      "procedural_posture": "High Court appeal and cross-appeal from a VAT and Duties Tribunal decision on the VAT treatment of a sale-and-leaseback using virtual assignments.",
+      "outcome": "Appeal allowed and cross-appeal dismissed; the Principal Fee was consideration for an exempt letting by Mapeley, but paragraph 8(1) of Schedule 10 treated Mapeley as making the grant to undertenants.",
+      "ratio": "For Sixth Directive purposes a virtual assignment reproducing the essential features of a letting may be equated with a legal assignment; between Abbey and Mapeley the Principal Fee was paid for occupation pursuant to an agreement amounting to a letting despite Abbey's underlying leasehold title.",
+      "legal_issues": [
+        "Whether Mapeley's supply to Abbey was exempt leasing or standard-rated services",
+        "Whether a virtual leaseback could confer a letting by Mapeley when it never held occupation rights",
+        "Construction of paragraph 8(1) Schedule 10 where sub-lease benefits were held in trust for Mapeley",
+        "Whether a reference to the ECJ was required"
+      ],
+      "catchwords": [
+        "virtual assignment",
+        "sale and leaseback",
+        "exempt letting",
+        "Principal Fee",
+        "Schedule 10",
+        "immovable property"
+      ],
+      "index_terms": [
+        "Mapeley Columbus",
+        "Maierhofer",
+        "Goed Wonen",
+        "Commission v UK",
+        "Nell Gwynn House",
+        "prior approval"
+      ],
+      "linked_authorities": [
+        "Maierhofer v Finanzamt Augsburg-Land (Case C-315/00) [2003] STC 564",
+        "Stichting Goed Wonen v Staatsecretaris (Case C-326/99) [2003] STC 1137",
+        "Nell Gwynn House Maintenance Fund Trustees v Customs and Excise Commissioners [1999] STC 79"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complex property-tax interaction but final dispositions on appeal and cross-appeal are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/607.json",
+    "status": "done",
+    "notes": "Long forfeiture restoration appeal; burden of proof and inadequate reasons holdings are clearly reasoned.",
+    "enrichment": {
+      "short_title": "Golobiewska v HMRC: inadequate reasons on car forfeiture restoration",
+      "area_of_law": [
+        "Customs and excise",
+        "Administrative law",
+        "Civil procedure",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Customs and Excise Management Act 1979",
+          "provisions": [
+            "section 88",
+            "section 139",
+            "section 152"
+          ]
+        },
+        {
+          "title": "Finance Act 1994",
+          "provisions": [
+            "section 8",
+            "section 14",
+            "section 15",
+            "section 16"
+          ]
+        },
+        {
+          "title": "Tribunals and Inquiries Act 1992",
+          "provisions": [
+            "section 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Golobiewska's Mercedes was seized at Dover in January 2000 when her friend Terlecki used it to smuggle cigarettes; the car was forfeited under section 139.",
+        "HMRC refused restoration under section 152; after review the VAT and Duties Tribunal found she knew Terlecki borrowed the car for smuggling.",
+        "The Tribunal held a four-day hearing but gave fragmented reasons for rejecting her denial of knowledge.",
+        "Laddie J dismissed her section 11 appeal; permission to appeal was limited to burden, standard of proof and adequacy of reasons."
+      ],
+      "procedural_posture": "Court of Appeal appeal on whether the Tribunal erred on burden and standard of proof and failed to give adequate reasons for its knowledge finding.",
+      "outcome": "Appeal allowed on inadequate reasons alone; matter remitted to a differently constituted Tribunal; burden held to lie on the appellant under section 16(6).",
+      "ratio": "Section 16(6)(a) shifts burden to the Commissioners only where liability to a section 8 penalty is directly in issue; where a Tribunal effectively finds deliberate facilitation of smuggling it must explain why it rejected the owner's evidence.",
+      "legal_issues": [
+        "Whether section 16(6)(a) placed the burden on HMRC because knowledge of smuggling amounted to section 8 conduct",
+        "Whether the criminal standard of proof applied to restoration appeals",
+        "Whether the Tribunal gave adequate reasons under English v Emery Reimbold",
+        "The scope of the Tribunal's fact-finding role under Gora"
+      ],
+      "catchwords": [
+        "forfeiture",
+        "restoration",
+        "burden of proof",
+        "adequacy of reasons",
+        "smuggled cigarettes",
+        "VAT tribunal"
+      ],
+      "index_terms": [
+        "Gora v Customs and Excise",
+        "English v Emery Reimbold",
+        "Gascoyne v Customs and Excise",
+        "section 152 restoration",
+        "adapted vehicle",
+        "LPG conversion"
+      ],
+      "linked_authorities": [
+        "Gora and Others v Customs and Excise Commissioners [2003] EWCA Civ 525",
+        "English v Emery Reimbold & Strick Ltd [2002] EWCA Civ 605",
+        "R (McCann) v Manchester Crown Court [2002] UKHL 39"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Central procedural holdings and remittal order are explicit though restoration merits remain undecided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/979.json",
+    "status": "done",
+    "notes": "Case stated appeal on stop notice prosecution; perversity and reasons analysis is detailed and complete.",
+    "enrichment": {
+      "short_title": "Keenan: magistrates quashed over stop notice breach reasons",
+      "area_of_law": [
+        "Planning law",
+        "Criminal law",
+        "Administrative law",
+        "Magistrates' courts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 187"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Patrick Keenan built a hardcore track without planning permission at Well Close, Leigh; Woking Borough Council served enforcement and stop notices in September 2003.",
+        "Keenan said work finished on 20 September before the stop notice took effect; on 23 September he claimed to be servicing a motorcycle at Epsom College.",
+        "Neighbours Mr and Mrs Boroman said Keenan was on site with a JCB; planning officer Travis said he saw levelling work though he photographed only static vehicles.",
+        "Magistrates preferred Keenan's Epsom evidence corroborated by Mr Marsh and dismissed the prosecution."
+      ],
+      "procedural_posture": "Appeal by way of case stated from magistrates' acquittal on a section 187(1) failure to comply with a stop notice.",
+      "outcome": "Decision quashed for inadequate reasons; matter remitted to a differently constituted bench; conclusion that no work occurred on 23 September was perverse unless Travis's evidence was rejected.",
+      "ratio": "Where the only witness to post-departure site activity described levelling in progress, magistrates could not rationally conclude no construction work occurred without expressly rejecting or explaining away that evidence; section 187(1B) causing or permitting also required consideration.",
+      "legal_issues": [
+        "Whether magistrates were entitled to acquit on the criminal standard",
+        "Whether rejection of the Boromans' evidence left Travis as sole credible witness to work on site",
+        "Adequacy of reasons for preferring the defence account over Travis's levelling evidence",
+        "Whether section 187(1B) causing or permitting was adequately addressed"
+      ],
+      "catchwords": [
+        "stop notice",
+        "planning enforcement",
+        "case stated",
+        "inadequate reasons",
+        "hardcore track",
+        "perverse finding"
+      ],
+      "index_terms": [
+        "Northumberland CC v PR Manufacturing",
+        "levelling off",
+        "JCB",
+        "causing or permitting",
+        "Epsom College",
+        "planning officer"
+      ],
+      "linked_authorities": [
+        "Northumberland County Council v PR Manufacturing Ltd [2004] EWHC 112 (Admin)"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Procedural quashing for reasons defect; factual findings on remittal remain open."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/532.json",
+    "status": "done",
+    "notes": "Authoritative Court of Appeal guidance on section 203 ERA compromise agreements; unanimous restoration of tribunal jurisdiction.",
+    "enrichment": {
+      "short_title": "Hinton v UEL: section 203 and whistleblowing compromise agreements",
+      "area_of_law": [
+        "Employment law",
+        "Contract law",
+        "Public interest disclosure",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 203",
+            "section 47B"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Hinton retired early from the University of East London under a compromise agreement dated 21 July 2003 settling employment and termination claims.",
+        "The agreement listed many claim types but omitted section 47B public interest disclosure detriment claims despite prior correspondence raising such allegations.",
+        "The employment tribunal held the agreement invalid under section 203 for omitting the particular proceedings; the EAT reversed, treating clause 9.1 as sufficiently broad.",
+        "Hinton issued tribunal proceedings on 23 October 2003 alleging continuing detriment from protected disclosures about financial irregularities."
+      ],
+      "procedural_posture": "Appeal from the Employment Appeal Tribunal on whether a compromise agreement precluded section 47B whistleblowing proceedings.",
+      "outcome": "Appeal allowed; contractually the agreement covered section 47B claims but failed section 203(3)(b) because it did not relate to the particular proceedings with sufficient particularity.",
+      "ratio": "Section 203 protects employees by requiring compromise agreements to identify particular proceedings clearly, by generic description or statutory reference; broad catch-all wording covering all statutory claims is insufficient even where the claim was previously raised.",
+      "legal_issues": [
+        "Whether the agreement contractually compromised section 47B claims",
+        "Construction of 'relate to the particular proceedings' in section 203(3)(b)",
+        "Whether Lunt supports broad compromise wording without itemisation",
+        "Good practice for drafting valid compromise agreements"
+      ],
+      "catchwords": [
+        "compromise agreement",
+        "section 203",
+        "whistleblowing",
+        "public interest disclosure",
+        "particular proceedings",
+        "contracting out"
+      ],
+      "index_terms": [
+        "Lunt v Merseyside TEC",
+        "clause 9.1 settlement",
+        "independent legal advice",
+        "University of East London",
+        "ERA 1996",
+        "employment tribunal jurisdiction"
+      ],
+      "linked_authorities": [
+        "Lunt v Merseyside TEC Ltd [1999] IRLR 458",
+        "ICS v West Bromwich Building Society [1998] 1 WLR 898"
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Court of Appeal guidance of general importance with clear restoration of tribunal jurisdiction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2005/920.json",
+    "status": "done",
+    "notes": "Full TCC trial on Telecommunications Code objection; standing, expert evidence and dismissal are comprehensively reasoned.",
+    "enrichment": {
+      "short_title": "Petursson v Hutchison 3G: Code objection to 3G base station",
+      "area_of_law": [
+        "Telecommunications",
+        "Property law",
+        "Environmental health",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Telecommunications Act 1984",
+          "provisions": [
+            "Schedule 2 paragraph 17"
+          ]
+        },
+        {
+          "title": "Communications Act 2003",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Claimants lived at 57 London Road Worcester near a Hutchison 3G base station installed on adjacent pub premises in August 2003.",
+        "They complained of headaches, nausea and disorientation attributed to emissions, but expert evidence showed exposures far below ICNIRP guidelines.",
+        "Early log entries recorded symptoms before the mast was operational; the claimants sold the property before trial.",
+        "Damages claims were abandoned; only removal or repositioning of apparatus was sought under paragraph 17 of the Electronic Communications Code."
+      ],
+      "procedural_posture": "Technology and Construction Court trial of a paragraph 17 Code objection to a 3G telecommunications base station.",
+      "outcome": "Claim dismissed for lack of standing after disposal of the property and on merits because material prejudice was not objectively established.",
+      "ratio": "Paragraph 17(6) requires objective proof that apparatus materially prejudices enjoyment of land; subjective fear or psychosomatic symptoms without causal evidence are insufficient, and owners who sell lose standing to seek removal orders.",
+      "legal_issues": [
+        "Whether claimants retained standing after selling 57 London Road",
+        "Whether paragraph 17(6) prejudice is subjective or objective",
+        "Causation of alleged health effects from ICNIRP-compliant emissions",
+        "Reliability of claimants' contemporaneous log and symptom correlation evidence"
+      ],
+      "catchwords": [
+        "Electronic Communications Code",
+        "base station",
+        "3G mast",
+        "electromagnetic fields",
+        "material prejudice",
+        "ICNIRP"
+      ],
+      "index_terms": [
+        "Stewart report",
+        "Dr Hyland",
+        "Dr Chadwick",
+        "Little Sauce Factory",
+        "paragraph 17 objection",
+        "psychosomatic symptoms"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed fact findings on evidence reliability and comprehensive expert evidence analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/963.json",
+    "status": "done",
+    "notes": "Judicial review on conservation area effect on prior approval telecoms rights; withdrawal notices quashed with full reasoning.",
+    "enrichment": {
+      "short_title": "Orange PCS v Islington: conservation area and telecoms permitted development",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Telecommunications",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 57",
+            "section 58",
+            "section 97",
+            "section 171A",
+            "section 172",
+            "section 173",
+            "section 173A",
+            "section 174"
+          ]
+        },
+        {
+          "title": "Town and Country Planning (General Permitted Development) Order 1995",
+          "provisions": [
+            "Article 1(5)",
+            "Article 3",
+            "Article 4",
+            "Schedule 2 Part 24"
+          ]
+        },
+        {
+          "title": "Planning (Listed Buildings and Conservation Areas) Act 1990",
+          "provisions": [
+            "section 69",
+            "section 72"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Orange PCS obtained prior approval under GPDO Part 24 for telecoms equipment at Canonbury Telephone Exchange but installation did not match approved plans.",
+        "Enforcement notices requiring removal were varied in January 2004 to require alterations bringing works into compliance.",
+        "Islington designated the Highbury New Park Conservation Area in October 2002, making the site Article 1(5) land excluding Part 24 antenna development.",
+        "In June 2004 the council withdrew the varied enforcement notices and issued fresh removal notices relying on loss of permitted development rights."
+      ],
+      "procedural_posture": "Judicial review challenge to withdrawal of varied enforcement notices after conservation area designation.",
+      "outcome": "Withdrawal notices quashed; Article 4 was the proper mechanism to restrict permitted development after designation rather than retrospectively denying crystallised prior approval rights.",
+      "ratio": "Once prior approval under Part 24 has crystallised the extent of permission, later conservation area designation does not automatically extinguish accrued rights to complete compliant development; Article 4 provides the lawful route to require fresh planning permission.",
+      "legal_issues": [
+        "Whether conservation area designation revoked existing Part 24 prior approval rights",
+        "Construction of 'would consist of' in Schedule 2 Part 24 A.1(h)",
+        "Whether Article 4 directions are the correct remedy after designation",
+        "Whether judicial review was preferable to pursuing the enforcement appeal"
+      ],
+      "catchwords": [
+        "permitted development",
+        "conservation area",
+        "prior approval",
+        "enforcement notice",
+        "withdrawal notice",
+        "telecommunications apparatus"
+      ],
+      "index_terms": [
+        "Canonbury Telephone Exchange",
+        "Article 1(5) land",
+        "GPDO Part 24",
+        "R(Watts) v SoS",
+        "section 173(12)",
+        "virtual assignment"
+      ],
+      "linked_authorities": [
+        "R (Watts) v Secretary of State for the Environment, Transport and the Regions [2002] EWHC 993 (Admin)",
+        "Cole v Somerset County Council [1957] 2 QB 23"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Complex planning statutory interaction but quashing remedy and central legal conclusion are clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/905.json",
+    "status": "done",
+    "notes": "Short prohibition judgment on magistrates' adjournment; relief limited to banning named oral witnesses is clearly stated.",
+    "enrichment": {
+      "short_title": "Watson v Dartford: prohibition after unlawful trial adjournment",
+      "area_of_law": [
+        "Criminal procedure",
+        "Administrative law",
+        "Road traffic law",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 24",
+            "section 27"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 2003",
+          "provisions": [
+            "section 117",
+            "section 134"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1967",
+          "provisions": [
+            "section 9"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Watson faced magistrates' trial for careless driving, failing to provide a breath specimen and failing to stop after a December 2002 accident.",
+        "On 27 February 2004 justices refused a prosecution adjournment because witnesses Bulman and PC Hall were unavailable; on 1 March a new bench granted adjournment without changed circumstances.",
+        "Miss Bulman would have proved NFU insurance documents; PC Hall's evidence of transmission was unnecessary.",
+        "Business documents could have been admitted under section 27 of the 1988 Act or later under the 2003 Act without oral testimony."
+      ],
+      "procedural_posture": "Application for prohibition before conclusion of magistrates' proceedings after an adjournment granted in breach of Acton Youth Court principles.",
+      "outcome": "Prohibition granted only to prevent oral evidence from Miss Bulman and PC Hall; justices to apply hearsay rules in force at the resumed trial date.",
+      "ratio": "Magistrates may not revisit and revoke an earlier refusal to adjourn absent a change of relevant circumstances; the prejudice from an wrongly granted adjournment is limited to excluding oral evidence that would not otherwise have been available.",
+      "legal_issues": [
+        "Whether judicial review was premature before trial completion",
+        "Power of magistrates to revoke an earlier adjournment refusal",
+        "Extent of prohibition where business documents could be admitted without oral evidence",
+        "Whether trial should proceed under 1988 or 2003 hearsay provisions"
+      ],
+      "catchwords": [
+        "prohibition",
+        "adjournment",
+        "magistrates",
+        "business documents",
+        "hearsay evidence",
+        "motoring offences"
+      ],
+      "index_terms": [
+        "R v Acton Youth Court",
+        "R v Rochford Justices ex p Buck",
+        "NFU Mutual",
+        "section 27 approval",
+        "Dartford Magistrates",
+        "change of circumstances"
+      ],
+      "linked_authorities": [
+        "R v Acton Youth Court ex p Director of Public Prosecutions [2000]",
+        "R v Rochford Justices ex parte Buck [1978] 68 Cr App R 114"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Straightforward procedural ruling with clearly limited relief though underlying trial merits undecided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/1289.json",
+    "status": "done",
+    "notes": "Multi-ground HRO challenge dismissed; Basses Corbieres, ES and Natura 2000 arguments fully addressed.",
+    "enrichment": {
+      "short_title": "HST v SoS Transport: Immingham Outer Harbour HRO challenge",
+      "area_of_law": [
+        "Ports and harbours",
+        "Environmental law",
+        "European Union law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Harbours Act 1964",
+          "provisions": [
+            "section 14",
+            "section 44",
+            "Schedule 2",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Conservation (Natural Habitats etc) Regulations 1994",
+          "provisions": [
+            "Regulation 48",
+            "Regulation 49",
+            "Regulation 53"
+          ]
+        },
+        {
+          "title": "Council Directive 79/409/EEC",
+          "provisions": [
+            "Article 4"
+          ]
+        },
+        {
+          "title": "Council Directive 92/43/EEC",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "ABP sought a Harbour Revision Order for five new roll-on roll-off berths at Immingham Outer Harbour, removing 22 hectares of intertidal mudflat bird habitat.",
+        "Competitor Humber Sea Terminal objected outside the statutory period and later applied for its own HRO for additional berths upstream.",
+        "The Secretary of State authorised the HRO in July 2004 relying on imperative reasons of overriding public interest and compensation agreements.",
+        "A proposed Phase 2 SPA extension covering the works area was not yet classified though treated under PPG9 precautionary policy."
+      ],
+      "procedural_posture": "Section 44 Harbours Act challenge to the Immingham Outer Harbour Harbour Revision Order 2004 on environmental and procedural grounds.",
+      "outcome": "Application dismissed on all grounds; Basses Corbieres did not apply without an allegation of Birds Directive breach, and the environmental statement and compensation agreement were lawful.",
+      "ratio": "Sites treated as SPAs under precautionary policy are not 'should have been classified' sites within Basses Corbieres unless non-classification itself breached Directive obligations; compensation measures under Regulation 53 need not be in the ES if not main or likely significant effects of the project.",
+      "legal_issues": [
+        "Whether Basses Corbieres precluded IROOI for an unclassified potential SPA",
+        "Whether the environmental statement was invalid for omitting compensation realignment schemes",
+        "Whether the compensation agreement secured Natura 2000 coherence under Regulation 53",
+        "Failure to assess in-combination effects with HST's separate HRO proposal"
+      ],
+      "catchwords": [
+        "Harbour Revision Order",
+        "Special Protection Area",
+        "Natura 2000",
+        "environmental statement",
+        "imperative reasons",
+        "Immingham"
+      ],
+      "index_terms": [
+        "Basses Corbieres",
+        "Associated British Ports",
+        "Humber Sea Terminal",
+        "appropriate assessment",
+        "Regulation 53 compensation",
+        "roll-on roll-off berths"
+      ],
+      "linked_authorities": [
+        "Commission v France (Basses Corbieres) (Case C-374/98)",
+        "Bown v Secretary of State for Transport [2003] EWCA Civ 1170",
+        "R (Burkett) v London Borough of Hammersmith & Fulham [2003] EWHC 1031 (Admin)"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Very long judgment but each ground is expressly resolved with detailed reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/865.json",
+    "status": "done",
+    "notes": "First Part IIA contaminated land High Court appeal; knowledge finding quashed with retrial ordered.",
+    "enrichment": {
+      "short_title": "Circular Facilities v Sevenoaks: Part IIA remediation notice appeal",
+      "area_of_law": [
+        "Environmental law",
+        "Contaminated land",
+        "Company law",
+        "Magistrates' courts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Environmental Protection Act 1990",
+          "provisions": [
+            "Part IIA",
+            "section 78A",
+            "section 78E",
+            "section 78F"
+          ]
+        },
+        {
+          "title": "Contaminated Land (England) Regulations 2000",
+          "provisions": [
+            "Regulation 13"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Sevenoaks served a remediation notice on Circular Facilities as an appropriate person for methane and carbon dioxide from decomposing organic matter at Well Close, Leigh.",
+        "The site was infilled clay pits developed for housing in 1980; a 1978 soil report disclosed black organic matter and gas bubbling in trial pits.",
+        "CFL's controlling mind Mr Ketteringham denied knowing of organic material until 2002, relying on Mr Scott to supervise development.",
+        "The district judge inferred CFL must have known but did not clearly find personal knowledge or impute Mr Scott's agency knowledge."
+      ],
+      "procedural_posture": "First High Court appeal under Regulation 13 against a magistrates' court upholding a Part IIA remediation notice for knowingly permitting contamination.",
+      "outcome": "Appeal allowed; knowledge finding quashed for inadequate reasons; matter remitted for retrial though section 78F(9) does not require knowledge of resulting harm from substance A.",
+      "ratio": "A finding that a developer knowingly permitted organic material requires clear fact-finding on who knew what and why; availability of a soil report on the planning register is insufficient alone, and section 78F(9) extends liability to substances produced by biological or chemical processes affecting a known substance.",
+      "legal_issues": [
+        "Whether CFL or Mr Ketteringham knew of buried organic matter between 1979 and 1985",
+        "Whether knowledge of the 1978 report sufficed for 'knowingly permitted'",
+        "Imputation of Mr Scott's knowledge as CFL's agent or partner",
+        "Whether knowingly permitted requires awareness of potential harm from chemical or biological processes"
+      ],
+      "catchwords": [
+        "contaminated land",
+        "remediation notice",
+        "appropriate person",
+        "knowingly permitted",
+        "methane",
+        "landfill infill"
+      ],
+      "index_terms": [
+        "DETR Circular 2/2000",
+        "section 78F(9)",
+        "soil investigation report",
+        "Frankipile piles",
+        "Mr Ketteringham",
+        "Well Close Leigh"
+      ],
+      "linked_authorities": [
+        "El Ajou v Dollar Land Holdings plc [1994] 2 All ER 685"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Appellate reasoning on inadequate findings is clear; liability on retrial remains open."
+      }
+    }
+  }
+]

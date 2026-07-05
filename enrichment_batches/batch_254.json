@@ -1,0 +1,693 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/588.json",
+    "status": "done",
+    "notes": "Statutory review and judicial review ouster analysis is detailed and the outcome for both claims is clear.",
+    "enrichment": {
+      "short_title": "Judicial review after failed immigration statutory review",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law",
+        "Judicial review",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 101"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": [
+            "Part 54",
+            "rule 54.21",
+            "rule 54.25"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 28A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Two asylum claimants sought judicial review of Immigration Appeal Tribunal refusals of permission to appeal after High Court judges had rejected statutory review under section 101(3) of the 2002 Act.",
+        "The government introduced statutory review to replace judicial review in IAT permission cases, with paper-only review and a final High Court decision.",
+        "Claimants argued that judicial review jurisdiction survived and that Article 6 and Article 14 ECHR were breached.",
+        "Collins J granted permission in the second claim and heard both together."
+      ],
+      "procedural_posture": "Judicial review of IAT refusal of permission to appeal following unsuccessful statutory review under section 101(3).",
+      "outcome": "Both claims dismissed; judicial review jurisdiction survives but is an exceptional remedy of last resort after statutory review, and these claims were an abuse of process.",
+      "ratio": "Section 101 of the 2002 Act does not oust judicial review by clear words, but where statutory review exists Parliament intended it to replace judicial review; a claim re-arguing grounds already rejected in statutory review is an abuse unless there are very exceptional circumstances such as fraud or bias.",
+      "legal_issues": [
+        "Whether section 101 ousts judicial review of IAT permission decisions",
+        "Whether statutory review is a satisfactory alternative remedy barring judicial review",
+        "Whether refusal of judicial review breaches Articles 6 and 14 ECHR",
+        "Whether failed statutory review creates an estoppel or abuse of process"
+      ],
+      "catchwords": [
+        "statutory review",
+        "judicial review",
+        "Immigration Appeal Tribunal",
+        "section 101",
+        "abuse of process",
+        "asylum"
+      ],
+      "index_terms": [
+        "IAT permission",
+        "alternative remedy",
+        "Maaouia v France",
+        "Sivasubramaniam",
+        "Anisminic",
+        "immigration delay"
+      ],
+      "linked_authorities": [
+        "R (Sivasubramaniam) v Wandsworth County Court [2003] 1 WLR 475",
+        "Bugdaycay v Secretary of State for the Home Department [1987] AC 514",
+        "Maaouia v France (2001) 33 EHRR 1037",
+        "R v Birmingham City Council ex p Ferrero [1993] 1 All ER 530",
+        "Westminster City Council v O'Reilly [2004] 1 WLR 195"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Statutory framework, abuse-of-process holding, and ECHR analysis are explicit throughout the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/314.json",
+    "status": "done",
+    "notes": "Long judgment on arbitration privacy and CPR 62.10, but the split appeal outcome on judgment versus Lawtel summary is clear.",
+    "enrichment": {
+      "short_title": "Privacy of section 68 arbitration challenge judgments",
+      "area_of_law": [
+        "Arbitration law",
+        "Civil procedure",
+        "Open justice",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 1",
+            "section 68"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": [
+            "rule 62.10",
+            "rule 39.2"
+          ]
+        },
+        {
+          "title": "Administration of Justice Act 1960",
+          "provisions": [
+            "section 12"
+          ]
+        },
+        {
+          "title": "Contempt of Court Act 1981",
+          "provisions": [
+            "section 4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Moscow sought publication of Cooke J's judgment dismissing Bankers Trust and IIB applications under section 68 of the 1996 Act arising from a confidential UNCITRAL arbitration.",
+        "The section 68 hearing was held in private under CPR 62.10(3)(b), but a Lawtel summary was briefly published online.",
+        "The dispute concerned a Credit Agreement between Moscow, Bankers Trust and IIB involving politically and commercially sensitive material.",
+        "Cooke J refused publication of the full judgment but also prohibited publication of the neutral Lawtel summary."
+      ],
+      "procedural_posture": "Appeal from Commercial Court order refusing publication of a section 68 judgment and Lawtel summary.",
+      "outcome": "Appeal dismissed in relation to the full judgment but allowed in relation to the Lawtel summary, which may be published generally; Moscow to pay 85% of Bankers Trust's appeal costs.",
+      "ratio": "CPR 62.10 establishes a starting point of privacy for section 68 hearings, but publication of a reasoned judgment raises distinct considerations; where a judgment contains highly confidential factual material and the successful party has no good reason for publication, privacy may be justified, yet a factually neutral summary already in the public domain should not be suppressed.",
+      "legal_issues": [
+        "Whether a section 68 judgment should be published where the hearing was private under CPR 62.10",
+        "Relationship between privacy of arbitration claims and open justice under Scott v Scott and Article 6 ECHR",
+        "Whether publication of a neutral third-party summary should be restrained",
+        "Effect of party autonomy and confidentiality in English arbitration"
+      ],
+      "catchwords": [
+        "arbitration privacy",
+        "section 68",
+        "CPR 62.10",
+        "open justice",
+        "Lawtel summary",
+        "confidentiality"
+      ],
+      "index_terms": [
+        "UNCITRAL arbitration",
+        "Moscow finance",
+        "Scott v Scott",
+        "private hearing",
+        "public judgment",
+        "Commercial Court"
+      ],
+      "linked_authorities": [
+        "Scott v Scott [1913] AC 417",
+        "Hodgson v Imperial Tobacco Ltd [1998] 1 WLR 1056",
+        "Clibbery v Allen [2002] EWCA Civ 45",
+        "B v United Kingdom (2002) 34 EHRR 19",
+        "Hussman (Europe) Ltd v Pharaon [2003] EWCA Civ 266"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Outcome on both appeal points and the privacy principles are clearly stated, though the judgment is lengthy and fact-sensitive."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/420.json",
+    "status": "done",
+    "notes": "Short asylum appeal; the Polat/E distinction and error-of-law scope are straightforward.",
+    "enrichment": {
+      "short_title": "Asylum appeal: new country guidance not before tribunal",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Lusala, a Congolese national of mixed Hutu and Bakongo ethnicity, claimed asylum based on ethnicity and objection to military service.",
+        "An adjudicator rejected the claim and the IAT refused permission to appeal on 9 June 2003.",
+        "On appeal, Lusala relied on later UKIAT country guidance in M (DR Congo) and a UNHCR report cited there.",
+        "That material had not been before the IAT when it decided his case."
+      ],
+      "procedural_posture": "Court of Appeal appeal, with permission, against an IAT refusal of permission to appeal on a point of law.",
+      "outcome": "Appeal dismissed; permission to appeal refused.",
+      "ratio": "An appeal to the Court of Appeal is on a point of law arising from the tribunal's decision; material that was not before the tribunal cannot found an error of law, and the Polat concession does not assist where the relevant evidence was never submitted to the tribunal.",
+      "legal_issues": [
+        "Whether later country guidance or UNHCR material can be relied on when not before the IAT",
+        "Scope of error of law on appeal from an immigration tribunal",
+        "Application of Polat v SSHD [2003] EWCA Civ 1059",
+        "Whether the court should remit for reconsideration of new evidence"
+      ],
+      "catchwords": [
+        "asylum appeal",
+        "error of law",
+        "country guidance",
+        "IAT",
+        "DR Congo",
+        "new evidence"
+      ],
+      "index_terms": [
+        "UNHCR report",
+        "Polat v SSHD",
+        "E and R v SSHD",
+        "Hutu ethnicity",
+        "military service",
+        "permission to appeal"
+      ],
+      "linked_authorities": [
+        "Polat v SSHD [2003] EWCA Civ 1059",
+        "E and R v Secretary of State [2004] EWCA Civ 49",
+        "M (DR Congo) v SSHD UKIAT00071"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "The judgment is short and the legal conclusion follows directly from settled appeal principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/622.json",
+    "status": "done",
+    "notes": "Detailed bribery judgment with clear findings on fiduciary duty and constructive trust remedies.",
+    "enrichment": {
+      "short_title": "Constructive trust over secret commissions from refurbishment contracts",
+      "area_of_law": [
+        "Equity and trusts",
+        "Agency law",
+        "Commercial fraud",
+        "Restitution"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Khalid, an employee and adviser to Sheikh Mohammed of Qatar, received about £1.8 million in secret 10% commissions from Solland companies on luxury property refurbishment contracts worth over £20 million.",
+        "Commissions were built into contract prices and paid through Interiors and later through offshore company International.",
+        "Proceedings against the Sollands settled; Mr Khalid did not attend trial and default judgments were entered against his nominees.",
+        "The claimants sought restitution, constructive trust, and damages for deceit and conspiracy."
+      ],
+      "procedural_posture": "Chancery trial following settlement with other defendants, determining liability and remedies against the absent commission recipient.",
+      "outcome": "Judgment for the claimants against Mr Khalid, including a proprietary constructive trust over the secret commissions and traceable proceeds.",
+      "ratio": "A fiduciary who receives secret commissions is accountable on constructive trust under AG for Hong Kong v Reid rather than merely as a debtor under Lister v Stubbs, especially where the bribe was built into the price paid by the principal and extracted from the principal's own money.",
+      "legal_issues": [
+        "Whether Mr Khalid owed fiduciary duties to the claimants as agent or employee",
+        "Whether AG for Hong Kong v Reid displaces Lister & Co v Stubbs",
+        "Availability of a constructive trust over bribes and traceable assets",
+        "Effect of Qatari law and alleged compromise or estoppel defences"
+      ],
+      "catchwords": [
+        "secret commission",
+        "bribery",
+        "constructive trust",
+        "fiduciary duty",
+        "Lister v Stubbs",
+        "AG for Hong Kong v Reid"
+      ],
+      "index_terms": [
+        "Qatar royal family",
+        "Lombard House",
+        "offshore trust",
+        "Solland Interiors",
+        "proprietary restitution",
+        "conspiracy to defraud"
+      ],
+      "linked_authorities": [
+        "AG for Hong Kong v Reid [1994] 1 AC 324",
+        "Lister & Co v Stubbs (1890) 45 Ch D 1",
+        "Bristol and West Building Society v Mothew [1998] Ch 1",
+        "Mahesan v Malaysia Government Officers' Co-operative Housing Society [1979] AC 374",
+        "Reading v R [1951] AC 507"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Findings on fiduciary status, fact of inflated pricing, and trust remedy are explicit despite the case's factual complexity."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/472.json",
+    "status": "done",
+    "notes": "Travel agent causation appeal; recorder's fact findings and breach analysis are clear.",
+    "enrichment": {
+      "short_title": "Travel agent liability for cancelled Balkan airline tickets",
+      "area_of_law": [
+        "Contract law",
+        "Travel and tourism law",
+        "Agency law",
+        "Damages"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supply of Goods and Services Act 1982",
+          "provisions": [
+            "section 13"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Payless Travel procured Balkan Bulgarian Airlines tickets for Baba Krupa Holidays passengers flying to Dubai on 23 March 2002.",
+        "Balkan cancelled the group booking in writing on 1 March 2002, but Payless Travel failed to warn Baba Krupa or obtain reliable written reinstatement.",
+        "Thirty-four passengers were refused boarding; Baba Krupa incurred hotel and replacement ticket costs totalling about £10,259.",
+        "The county court recorder found breach of the implied duty of reasonable care and skill and awarded damages."
+      ],
+      "procedural_posture": "Appeal from Birmingham County Court judgment on a Part 20 counterclaim in travel agency proceedings.",
+      "outcome": "Appeal dismissed on causation; Payless Travel remained liable for the damages awarded below.",
+      "ratio": "Once Balkan had threatened cancellation, a travel agent acting under section 13 of the 1982 Act owed a continuing duty to warn the principal and obtain clear confirmation of the booking; failure to do so was an effective cause of the principal's foreseeable replacement-travel losses even if Balkan's cancellation was also a cause.",
+      "legal_issues": [
+        "Whether Payless Travel's duty ended on issue of tickets",
+        "Whether failure to warn of cancellation and to secure reinstatement breached section 13",
+        "Whether Balkan's cancellation broke the chain of causation",
+        "Whether replacement-ticket damages were recoverable"
+      ],
+      "catchwords": [
+        "travel agent",
+        "reasonable care and skill",
+        "causation",
+        "airline cancellation",
+        "Galoo",
+        "replacement tickets"
+      ],
+      "index_terms": [
+        "Balkan Bulgarian Airlines",
+        "Baba Krupa Holidays",
+        "Part 20 counterclaim",
+        "agency duty to inform",
+        "county court appeal",
+        "Dubai flight"
+      ],
+      "linked_authorities": [
+        "Galoo v Bright Grahame Murray [1994] 1 WLR 1363",
+        "London Borough of Bromley v Ellis [1971] 1 Lloyd's Rep 97",
+        "Reynolds on Agency"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "The appeal was confined to causation and the recorder's findings on breach and loss were not disturbed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/644.json",
+    "status": "needs_review",
+    "notes": "Very long group-litigation judgment with mixed outcomes across three lead claims and preliminary issues; enrichment captures core holdings but merits review for nuance.",
+    "enrichment": {
+      "short_title": "Nationwide organ retention group litigation lead claims",
+      "area_of_law": [
+        "Tort law",
+        "Medical law",
+        "Clinical negligence",
+        "Human rights",
+        "Coroners law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Tissue Act 1961",
+          "provisions": []
+        },
+        {
+          "title": "Coroners Act 1988",
+          "provisions": [
+            "section 8",
+            "section 19"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Three lead claims in the Nationwide Organ Group Litigation concerned children's organs removed and retained after post-mortems without parents' knowledge at hospitals outside Alder Hey.",
+        "Parents claimed psychiatric injury, negligence, wrongful interference with a body, and human rights breaches following disclosure of organ retention practices.",
+        "The cases involved two hospital post-mortems (Harris and Shorter) and one coroner's post-mortem (Carpenter).",
+        "The trial was intended to resolve most of about 2,140 claims on the group register."
+      ],
+      "procedural_posture": "Lead trial and preliminary issues in group litigation following Bristol and Alder Hey organ retention disclosures.",
+      "outcome": "No tort of wrongful interference recognised in these circumstances; Mrs Shorter's negligence claim succeeded (£2,750), but Harris and Carpenter negligence claims failed on foreseeability; wrongful interference claims failed in all three lead cases.",
+      "ratio": "Parents have no possessory right in organs lawfully removed during an authorised post-mortem once the Doodeward exception applies, so wrongful interference claims fail; clinicians obtaining hospital post-mortem consent owe a duty to explain possible organ retention, but psychiatric injury must still be reasonably foreseeable, with primary victims judged by ordinary tort foreseeability.",
+      "legal_issues": [
+        "Whether English law recognises a tort of wrongful interference with a body",
+        "Whether hospitals acquired lawful possession of retained organs under the Doodeward exception",
+        "Duty of care when obtaining post-mortem consent under the 1961 Act",
+        "Application of primary and secondary victim rules to psychiatric injury",
+        "Foreseeability of psychiatric harm on discovery of organ retention"
+      ],
+      "catchwords": [
+        "organ retention",
+        "post-mortem consent",
+        "wrongful interference",
+        "psychiatric injury",
+        "Doodeward",
+        "group litigation"
+      ],
+      "index_terms": [
+        "NOGL",
+        "Alder Hey",
+        "Bolam",
+        "primary victim",
+        "Human Tissue Act 1961",
+        "bereaved parents"
+      ],
+      "linked_authorities": [
+        "Dobson v North Tyneside Health Authority [1997] 1 WLR 596",
+        "R v Kelly [1999] QB 621",
+        "McLoughlin v Jones [2002] 2 WLR 1279",
+        "Alcock v Chief Constable of South Yorkshire [1992] 1 AC 310",
+        "Bolam v Friern Hospital Management Committee [1957] 1 WLR 582"
+      ],
+      "confidence": {
+        "score": 0.84,
+        "level": "high",
+        "notes": "Core legal holdings are clear, but the judgment is exceptionally long with claim-specific outcomes and unresolved human-rights issues that may need specialist review."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/737.json",
+    "status": "done",
+    "notes": "CFA champerty validity issue is a pure question of law with a clear arbitrator's award upheld.",
+    "enrichment": {
+      "short_title": "Validity of conditional fee agreement with contingent uplift",
+      "area_of_law": [
+        "Legal costs and funding",
+        "Arbitration law",
+        "Construction law",
+        "Public policy"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": [
+            "section 58"
+          ]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": []
+        },
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 57"
+          ]
+        },
+        {
+          "title": "Conditional Fee Agreements Regulations 2000",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Benaim and DMD settled an A13 road design negligence arbitration with Benaim ordered to pay DMD's costs.",
+        "DMD's solicitors acted under a CFA dated 31 August 2000 with a success uplift varying by amount recovered, capped at 25% of recovery.",
+        "Benaim argued the CFA was unenforceable for unlawful champerty despite complying with section 58.",
+        "An arbitrator upheld the CFA and amended his award after Benaim sought permission to appeal."
+      ],
+      "procedural_posture": "Technology and Construction Court appeal on the validity of a costs CFA following an arbitration costs award.",
+      "outcome": "Appeal dismissed; the CFA was valid and enforceable, and Benaim remained liable for DMD's costs under it.",
+      "ratio": "Section 58 renders enforceable conditional fee agreements that satisfy its conditions, and a CFA with a success uplift linked in part to amount recovered does not contain an independent champertous element if it remains within the statutory uplift cap and regulatory requirements.",
+      "legal_issues": [
+        "Whether section 58 excludes further public-policy unenforceability for champerty",
+        "Whether a CFA with contingent uplift linked to recovery is a lawful conditional fee agreement",
+        "Whether the arbitrator could amend his award under section 57",
+        "Distinction between conditional fees and contingency fees"
+      ],
+      "catchwords": [
+        "conditional fee agreement",
+        "champerty",
+        "success fee",
+        "section 58",
+        "arbitration costs",
+        "CFA"
+      ],
+      "index_terms": [
+        "A13 road",
+        "Burgess Salmon",
+        "Awwad v Geraghty",
+        "Wallersteiner v Moir",
+        "costs assessment",
+        "contingent uplift"
+      ],
+      "linked_authorities": [
+        "Awwad v Geraghty [2000] 1 All ER 609",
+        "Wallersteiner v Moir (No 2) [1975] QB 373",
+        "Trendtex Trading v Crédit Suisse [1980] QB 629",
+        "Giles v Thompson [1993] 3 All ER 321"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "The statutory construction issue is addressed directly and the parties agreed on most underlying facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/666.json",
+    "status": "done",
+    "notes": "Fresh psychiatric evidence on low IQ and unsafe conviction is clearly analysed under section 23.",
+    "enrichment": {
+      "short_title": "Unsafe conviction where learning disability undiscovered at trial",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal procedure",
+        "Evidence",
+        "Mental capacity"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 23"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Darren Cash was convicted by a 10:2 majority at retrial of rape by aiding and abetting and kidnapping Deborah Ben-David after a pub encounter with his cousin Michael Cash.",
+        "Post-conviction psychological assessment revealed a full-scale IQ of 53, placing him in the lowest 0.1% of the population with mild mental retardation.",
+        "At trial he had not conducted a cut-throat defence against Michael Cash because counsel was unaware of his disability and followed his instructions.",
+        "Fresh evidence suggested he was suggestible, vulnerable under cross-examination, and should have had an appropriate adult at interview."
+      ],
+      "procedural_posture": "Court of Appeal criminal appeal with fresh evidence on mental capacity under section 23 of the 1968 Act.",
+      "outcome": "Appeal allowed; convictions on both counts quashed as unsafe and no retrial ordered.",
+      "ratio": "Where the appellant's severe learning disability was unknown at trial and fresh expert evidence shows he lacked capacity fairly to comprehend proceedings or resist a dominant co-defendant's account, the conviction is unsafe even if the jury accepted the complainant's account of the underlying events.",
+      "legal_issues": [
+        "Admissibility of fresh psychiatric evidence under section 23",
+        "Effect of undiagnosed learning disability on fitness to plead and trial fairness",
+        "Whether a different cut-throat defence would likely have affected the verdict",
+        "Appropriateness of retrial after long custody in unsuitable conditions"
+      ],
+      "catchwords": [
+        "unsafe conviction",
+        "fresh evidence",
+        "learning disability",
+        "appropriate adult",
+        "aiding and abetting rape",
+        "no retrial"
+      ],
+      "index_terms": [
+        "IQ 53",
+        "suggestibility",
+        "Lucas direction",
+        "cut-throat defence",
+        "hospital order",
+        "majority verdict"
+      ],
+      "linked_authorities": [
+        "R v Lucas [1981] QB 720",
+        "Criminal Appeal Act 1968 section 23"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "The section 23 analysis and unsafe-verdict conclusion are explicit, though underlying factual disputes at trial were complex."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/346.json",
+    "status": "done",
+    "notes": "Agency and Towcon clause 22 analysis is detailed but the dismissal on lack of Noas's authority is clear.",
+    "enrichment": {
+      "short_title": "Towage contract agency: owner not bound by Towcon terms",
+      "area_of_law": [
+        "Maritime law",
+        "Agency law",
+        "Commercial contract",
+        "Arbitration and jurisdiction"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Marine Blast chartered the dredger Von Rocks from Noas and entered into a Towcon towage contract with Targe for towage from Sweden to Scotland.",
+        "The tow failed and the dredger became a constructive total loss; Skandia as hull insurer settled a Swedish claim against Targe for SEK 1.1 million.",
+        "Targe claimed indemnity from Marine Blast under clause 18(2) of the Towcon contract, arguing Noas was not a party and therefore a third party.",
+        "Marine Blast contended Noas was bound through implied authority and clause 22 warranty of authority."
+      ],
+      "procedural_posture": "Appeal from preliminary issues on whether Noas was a party to the towage contract and whether Targe could maintain its indemnity claim.",
+      "outcome": "Appeal dismissed; Noas was not a party to the towage contract and Targe's indemnity claim against Marine Blast could proceed on that basis.",
+      "ratio": "Implied authority to bind an owner to Towcon terms requires objective consent inferred from conduct; faxing Towcon documents without presenting them as terms binding the owner, especially in illegible form and without drawing attention to clause 22, is insufficient to make Noas a party or to authorise Marine Blast to contract on its behalf.",
+      "legal_issues": [
+        "Whether Noas was a party to the towage contract through implied or apparent authority",
+        "Construction of Towcon clause 22 warranty of authority",
+        "Burden and standard of proof on agency",
+        "Whether bailment-on-terms analogy could bind Noas without agency"
+      ],
+      "catchwords": [
+        "towage contract",
+        "Towcon",
+        "implied authority",
+        "clause 22",
+        "indemnity",
+        "third party"
+      ],
+      "index_terms": [
+        "Von Rocks",
+        "Marine Blast",
+        "Noas Nordmuddring",
+        "Skandia",
+        "The Pioneer Container",
+        "Swedish jurisdiction"
+      ],
+      "linked_authorities": [
+        "The Pioneer Container [1994] AC 324",
+        "Bowstead and Reynolds on Agency",
+        "Elder Dempster & Co Ltd v Paterson Zochonis & Co Ltd [1924] AC 522",
+        "The Starsin [2003] UKHL 12"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Preliminary issue answers and agency reasoning are clear, though the underlying maritime dispute has a long procedural history."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/602.json",
+    "status": "done",
+    "notes": "CIS certificate statutory construction and commissioners' jurisdiction issues are clearly resolved.",
+    "enrichment": {
+      "short_title": "Construction Industry Scheme certificate compliance test",
+      "area_of_law": [
+        "Tax law",
+        "Construction industry",
+        "Administrative law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Income and Corporation Taxes Act 1988",
+          "provisions": [
+            "section 561",
+            "section 565",
+            "section 831"
+          ]
+        },
+        {
+          "title": "Taxes Management Act 1970",
+          "provisions": [
+            "section 56"
+          ]
+        },
+        {
+          "title": "Finance Act 1971",
+          "provisions": [
+            "section 29",
+            "section 30"
+          ]
+        }
+      ],
+      "key_facts": [
+        "JDC Services applied for a Construction Industry Scheme certificate but was refused because of late PAYE, CIS and corporation tax payments and late returns over the qualifying three-year period.",
+        "The Rochford General Commissioners allowed JDC's appeal despite finding the failures were not minor and technical, relying on the company's efforts to regularise its tax affairs.",
+        "The Revenue appealed by case stated on the construction of section 565 and the commissioners' jurisdiction.",
+        "JDC had previously been granted a certificate while in substantial tax arrears."
+      ],
+      "procedural_posture": "High Court appeal by way of case stated from General Commissioners allowing a CIS certificate appeal.",
+      "outcome": "Revenue appeal allowed; the commissioners' decision was wrong in law and the CIS certificate was quashed.",
+      "ratio": "Section 565(4) requires past tax failures to be both minor and technical and not to give reason to doubt future compliance; the commissioners had full appellate jurisdiction to review the Revenue's refusal but misapplied the statutory test and could not treat serious repeated lateness as satisfying section 565(3).",
+      "legal_issues": [
+        "Whether section 565(4) imposes separate minor-and-technical and no-reason-to-doubt requirements",
+        "Whether commissioners may substitute their judgment on CIS certificate entitlement",
+        "Whether JDC's compliance history satisfied section 565(8)",
+        "Whether the High Court may quash a CIS certificate on case stated"
+      ],
+      "catchwords": [
+        "CIS certificate",
+        "section 565",
+        "minor and technical",
+        "General Commissioners",
+        "tax compliance",
+        "case stated"
+      ],
+      "index_terms": [
+        "Construction Industry Scheme",
+        "PAYE arrears",
+        "corporation tax",
+        "Lothbury Investment Corp v CIR",
+        "sub-contractor tax",
+        "quashing order"
+      ],
+      "linked_authorities": [
+        "Shaw v Vicky [2002] STC 1544",
+        "Lothbury Investment Corp Ltd v CIR (1979) 53 TC 223",
+        "Dart Harbour and Navigation Authority v Secretary of State for Transport [2003] 2 Lloyd's Rep 607"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Statutory construction, jurisdictional analysis, and quashing power are all addressed directly in a focused tax judgment."
+      }
+    }
+  }
+]

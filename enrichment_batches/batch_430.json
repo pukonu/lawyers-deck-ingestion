@@ -1,0 +1,658 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2005/369.json",
+    "status": "done",
+    "notes": "CCRC murder reference; Morgan Smith provocation misdirection led to retrial though fresh psychiatric evidence was refused.",
+    "enrichment": {
+      "short_title": "Karimi: murder conviction quashed for Morgan Smith provocation misdirection",
+      "area_of_law": [
+        "Criminal law",
+        "Homicide",
+        "Evidence",
+        "Psychiatry"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 23"
+          ]
+        },
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": [
+            "section 9"
+          ]
+        },
+        {
+          "title": "Contempt of Court Act 1981",
+          "provisions": [
+            "section 4(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Karimi, a Kurdish freedom fighter, killed Sirvan Kabadi in December 1996 after learning of his wife's affair with the victim.",
+        "At trial he relied on provocation, diminished responsibility based on PTSD, and self-defence; he was convicted of murder and sentenced to life imprisonment.",
+        "The Criminal Cases Review Commission referred the case on fresh psychiatric evidence diagnosing enduring personality change after catastrophic experience (EPCC) and on the summing-up.",
+        "Dr Mezey and Dr Grounds disagreed with the trial psychiatrist Dr Nayani on diminished responsibility and offered a shifted provocation case based on EPCC."
+      ],
+      "procedural_posture": "Court of Appeal on CCRC reference against murder conviction after refusal of leave and extension of time.",
+      "outcome": "Fresh psychiatric evidence was refused; appeal allowed on provocation misdirection, conviction quashed and retrial ordered; section 4(2) reporting restriction imposed.",
+      "ratio": "Where psychiatric evidence relevant to provocation is directed only to diminished responsibility, the jury may be misled and a Morgan Smith misdirection on special characteristics can render a murder conviction unsafe even if fresh expert evidence would not have changed the verdict.",
+      "legal_issues": [
+        "Whether fresh EPCC psychiatric evidence should be admitted under section 23",
+        "Whether the summing-up complied with Morgan Smith on provocation",
+        "Whether psychiatric evidence was wrongly excluded from the provocation direction",
+        "Whether the court should substitute manslaughter or order a retrial"
+      ],
+      "catchwords": [
+        "murder",
+        "provocation",
+        "Morgan Smith",
+        "diminished responsibility",
+        "PTSD",
+        "CCRC reference",
+        "retrial"
+      ],
+      "index_terms": [
+        "Kurdish freedom fighter",
+        "enduring personality change",
+        "special characteristics",
+        "summing-up",
+        "Besharef",
+        "post-traumatic stress disorder"
+      ],
+      "linked_authorities": [
+        "R v Morgan Smith [2001] 1 AC 146",
+        "R v Josephine Smith [2002] EWCA Crim 2671",
+        "R v Weller [2004] 1 Cr App R(S) 1",
+        "R v Rowland [2003] EWCA Crim 3636"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Grounds for allowing the appeal, refusal of fresh evidence and retrial order are all clearly reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2005/102.json",
+    "status": "done",
+    "notes": "Third judgment in W v Westminster libel/HRA case; qualified privilege upheld, Article 8 declaration but no damages.",
+    "enrichment": {
+      "short_title": "W v Westminster: libel fails on qualified privilege; Article 8 declaration without damages",
+      "area_of_law": [
+        "Defamation",
+        "Human rights",
+        "Family law",
+        "Child protection",
+        "Local government"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "sections 6",
+            "7",
+            "8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "W brought libel and later Human Rights Act claims after Westminster social workers disclosed at a child protection conference that he might be grooming a teenager for prostitution.",
+        "The disclosure was made without prior warning to W in the presence of the mother and professionals; the concern arose from earlier unverified file entries.",
+        "Eady J had earlier held absolute privilege unavailable; defendants did not plead justification and conceded the words were untrue.",
+        "W received an apology and retraction in August 2003 but pursued claims after the council resiled from earlier concessions."
+      ],
+      "procedural_posture": "Third Queen's Bench judgment following trial on qualified privilege, malice and a late Human Rights Act Article 8 claim.",
+      "outcome": "Libel claim failed for lack of malice and qualified privilege; declaration that Article 8 was infringed by the disclosure, but no damages as just satisfaction did not require an award.",
+      "ratio": "Qualified privilege may defeat libel even where Article 8 is engaged; misuse of personal information at a child protection conference can breach Article 8 where disclosure was unnecessary, unintentional and made without warning, but damages under section 8 are not mandatory where other remedies suffice.",
+      "legal_issues": [
+        "Whether qualified privilege defeated the libel claim",
+        "Whether there was evidence of malice sufficient for a jury",
+        "Whether disclosure at the CPC breached Article 8",
+        "Whether damages were necessary to afford just satisfaction under section 8(3)"
+      ],
+      "catchwords": [
+        "libel",
+        "qualified privilege",
+        "Article 8",
+        "child protection conference",
+        "social services",
+        "personal information",
+        "Human Rights Act"
+      ],
+      "index_terms": [
+        "Westminster City Council",
+        "grooming allegation",
+        "Working Together",
+        "malice",
+        "Spring v Guardian Assurance",
+        "Anufrijeva"
+      ],
+      "linked_authorities": [
+        "W v Westminster City Council [2004] EWHC 2866 (QB)",
+        "Re S (Sexual Abuse Allegations: Local Authority Response) [2001] 2 FLR 776",
+        "Spring v Guardian Assurance plc [1995] 2 AC 296",
+        "Chase v News Group Newspapers [2003] EMLR 218"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Final dispositions on libel, Article 8 and remedies are explicit though this is the third instalment of a multi-judgment trial."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/92.json",
+    "status": "done",
+    "notes": "Authoritative Court of Appeal ruling that section 24 Limitation Act does not bar winding-up petitions on judgment debts.",
+    "enrichment": {
+      "short_title": "Ridgeway Motors v ALTS: no six-year limitation bar to winding-up on judgment debt",
+      "area_of_law": [
+        "Insolvency law",
+        "Company law",
+        "Limitation of actions",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 24",
+            "section 38"
+          ]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 123",
+            "section 124"
+          ]
+        }
+      ],
+      "key_facts": [
+        "ALTS, assignee of a 1996 costs judgment exceeding £94,000 with interest, presented a winding-up petition against Ridgeway in 2004.",
+        "Ridgeway argued the petition was an action upon a judgment barred after six years under section 24(1) of the Limitation Act 1980.",
+        "HHJ Rich QC dismissed the strike-out application but granted a stay pending appeal.",
+        "The Revenue sought to intervene as a frequent petitioner but was refused leave, though written submissions were considered."
+      ],
+      "procedural_posture": "Appeal from refusal to strike out a winding-up petition on limitation grounds.",
+      "outcome": "Appeal dismissed; presentation of a winding-up petition by a judgment creditor is not subject to the six-year section 24(1) limitation period.",
+      "ratio": "An action upon a judgment in section 24(1) has the special legal meaning of a fresh action to obtain a second judgment, not execution or collective insolvency proceedings; a winding-up petition is sui generis and not statute-barred after six years.",
+      "legal_issues": [
+        "Whether a winding-up petition is an action upon a judgment within section 24(1)",
+        "Whether Re a Debtor or Lowsley v Forbes governs insolvency proceedings",
+        "Whether the extended definition of action in section 38(1) applies",
+        "Whether an ordinary creditor without a judgment is barred from presenting a petition"
+      ],
+      "catchwords": [
+        "winding-up petition",
+        "limitation",
+        "judgment debt",
+        "section 24",
+        "insolvency",
+        "execution",
+        "fresh action"
+      ],
+      "index_terms": [
+        "Ridgeway Motors",
+        "ALTS",
+        "costs judgment",
+        "Lowsley v Forbes",
+        "WT Lamb & Sons v Rider",
+        "deemed unable to pay debts"
+      ],
+      "linked_authorities": [
+        "Lowsley v Forbes [1999] 1 AC 329",
+        "WT Lamb & Sons v Rider [1948] 2 KB 331",
+        "Re a Debtor [1997] Ch 310",
+        "Re Lines Bros Ltd [1983] Ch 1"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Statutory construction and dismissal are comprehensively reasoned by three members of the court."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/costs/2005/90007.json",
+    "status": "done",
+    "notes": "Detailed assessment of Greystoke ATE premium after liability-admitted RTA; CPR 44.3B relief granted.",
+    "enrichment": {
+      "short_title": "Wooldridge v Hayes: recoverability of ATE premium after admitted-liability RTA",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Insurance law",
+        "Personal injury"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The claimant, a patient after severe head injuries in a 1998 road accident, settled for over £600,000 plus costs subject to detailed assessment.",
+        "After BTE cover was exhausted, Greystoke ATE insurance was taken out in 2002 at a premium of £7,469 plus IPT to cover opponent's costs under CFA-funded proceedings.",
+        "Defendants admitted liability in 1999; the dispute concerned whether the premium, premium-insurance option and automatic increase option were reasonable and recoverable.",
+        "The bill failed to comply with CPR Costs Practice Direction requirements on describing cover type until relief was sought."
+      ],
+      "procedural_posture": "Detailed assessment before Gray J of disputed ATE insurance premium and insurance premium tax following an approved settlement.",
+      "outcome": "Insurance premium and IPT allowed in full; relief from CPR 44.3B sanction granted; policy terms held not illusory and 10% premium rate reasonable.",
+      "ratio": "An ATE premium may be recoverable where liability was admitted if the risk of failing to beat a Part 36 payment remains real; non-compliance with funding disclosure rules may be relieved where technical and non-prejudicial, and premium reasonableness is judged by burning-cost analysis not website comparators alone.",
+      "legal_issues": [
+        "Whether non-compliance with CPR 44.3B and the Costs Practice Direction barred recovery",
+        "Whether Greystoke policy cover was illusory because of conditions 1, 2 and 11",
+        "Whether a 10% premium rate was reasonable after liability admission",
+        "Whether the premium insurance and automatic increase options were recoverable"
+      ],
+      "catchwords": [
+        "after the event insurance",
+        "detailed assessment",
+        "insurance premium",
+        "conditional fee agreement",
+        "Callery v Gray",
+        "CPR 44.3B"
+      ],
+      "index_terms": [
+        "Greystoke Legal Services",
+        "road traffic accident",
+        "before the event cover",
+        "Part 36 payment",
+        "premium insurance option",
+        "automatic increase option"
+      ],
+      "linked_authorities": [
+        "Callery v Gray (No 2) [2001] 1 WLR 2142",
+        "Callery v Gray (No 1) [2002] 1 WLR 2000"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed findings on each premium component and sanction relief are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/316.json",
+    "status": "done",
+    "notes": "Care fact-finding appeal; Holman J's paragraph 93 struck out as misstating local authority child protection duties.",
+    "enrichment": {
+      "short_title": "North Yorkshire v Swift: failed abuse findings do not bind section 47 protection duties",
+      "area_of_law": [
+        "Family law",
+        "Child protection",
+        "Public law",
+        "Local government"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 31",
+            "section 43",
+            "section 47"
+          ]
+        },
+        {
+          "title": "Local Authority Social Services Act 1970",
+          "provisions": [
+            "section 7"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Care proceedings concerned a baby girl whose father had historic but unproven allegations of sexual abuse against two other children.",
+        "Holman J at a preliminary fact-finding hearing was not satisfied on the balance of probabilities that either allegation was true.",
+        "The judge nevertheless said parties must proceed on the basis the abuse did not happen, while acknowledging very high grounds for suspicion.",
+        "The local authority appealed the legal effect of paragraph 93, seeking to maintain child protection register entry and section 47 inquiries."
+      ],
+      "procedural_posture": "Appeal with leave limited to statements of law in paragraphs 93-96 after failed threshold findings in care proceedings.",
+      "outcome": "Appeal allowed to strike paragraph 93; local authority may continue child protection register entry and section 47(1)(b) inquiries despite unproved section 31 threshold facts.",
+      "ratio": "Failure to prove section 31 threshold facts does not estop a local authority from exercising child protection powers below the care-order threshold; section 47 duties triggered by reasonable cause to suspect significant harm remain distinct from section 31 proof requirements.",
+      "legal_issues": [
+        "Effect of unproved fact-finding on local authority child protection duties",
+        "Whether paragraph 93 created res judicata or estoppel",
+        "Lawfulness of maintaining the child on the Child Protection Register",
+        "Application of section 47(1)(b) after failed threshold findings"
+      ],
+      "catchwords": [
+        "care proceedings",
+        "fact-finding",
+        "section 31 threshold",
+        "section 47",
+        "child protection register",
+        "sexual abuse",
+        "local authority"
+      ],
+      "index_terms": [
+        "Holman J",
+        "Working Together to Safeguard Children",
+        "Re H and R",
+        "Re S sexual abuse",
+        "Climbié Inquiry",
+        "Area Child Protection Conference"
+      ],
+      "linked_authorities": [
+        "Re H and R (Child Sexual Abuse: Standard of Proof) [1996] 1 FLR 80",
+        "Re M and R (Child Abuse: Evidence) [1996] 2 FLR 195",
+        "Re S (Sexual Abuse Allegations: Local Authority Response) [2001] 2 FLR 776"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Unanimous Court of Appeal disposal and excision of paragraph 93 are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/119.json",
+    "status": "done",
+    "notes": "Judicial review on Pentney FP12 conflict between definitive map and statement; inspector's map presumption quashed.",
+    "enrichment": {
+      "short_title": "Norfolk CC v SoS DEFRA: definitive map and statement conflict on Pentney footpath",
+      "area_of_law": [
+        "Public rights of way",
+        "Planning and environment",
+        "Administrative law",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Wildlife and Countryside Act 1981",
+          "provisions": [
+            "section 53",
+            "section 56"
+          ]
+        },
+        {
+          "title": "National Parks and Countryside Act 1949",
+          "provisions": [
+            "section 32"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Pentney Footpath No 12 was shown on the definitive map meeting Back Lane at one point but described in the definitive statement as starting at a field gate about 30 metres away.",
+        "Norfolk County Council made a 2003 modification order to align the map with the statement; objectors challenged it at a public local inquiry.",
+        "The inspector refused confirmation, treating map and statement as irreconcilable and applying a Trevelyan presumption favouring the map.",
+        "The Osbornes of Bramborne House had requested the modification after identifying the inconsistency."
+      ],
+      "procedural_posture": "Judicial review of an inspector's decision refusing to confirm a footpath modification order.",
+      "outcome": "Claim upheld; inspector's decision quashed for wrongly applying an evidential presumption in favour of the map over the statement at review stage.",
+      "ratio": "Where definitive map and statement irreconcilably conflict as to a footpath's position, neither document enjoys a review-stage presumption over the other; section 56 makes the map primary for conclusive evidential purposes outside review, but modification decisions require balance-of-probability judgment on all evidence including statement particularity.",
+      "legal_issues": [
+        "Whether the definitive statement prevails over the map as a matter of law",
+        "What evidential weight applies at section 53 review when map and statement conflict",
+        "Whether the inspector erred by requiring cogent evidence to displace the map",
+        "Whether the modification order should have been confirmed in part"
+      ],
+      "catchwords": [
+        "definitive map",
+        "definitive statement",
+        "public footpath",
+        "modification order",
+        "judicial review",
+        "rights of way",
+        "Trevelyan"
+      ],
+      "index_terms": [
+        "Pentney Footpath 12",
+        "Back Lane",
+        "Bramborne House",
+        "section 53(3)(c)",
+        "Walwin",
+        "public local inquiry"
+      ],
+      "linked_authorities": [
+        "Trevelyan v Secretary of State [2001] 1 WLR 1264",
+        "R v Secretary of State ex parte Burrows [1991] 2 QB 354",
+        "LE Walwin & Partners Ltd v West Sussex CC [1975] 3 All ER 604",
+        "Todd v Secretary of State [2004] 1 WLR 2471"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed four-issue analysis and quashing order are clear though some route-finding facts remain unresolved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/353.json",
+    "status": "done",
+    "notes": "ASBO appeal after vehicle theft; necessity upheld but terms 2-4 struck as disproportionately wide.",
+    "enrichment": {
+      "short_title": "McGrath: ASBO partly upheld but ban on all car parks and trespass struck out",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Anti-social behaviour",
+        "Public order"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": [
+            "section 1C"
+          ]
+        },
+        {
+          "title": "Police Reform Act 2002",
+          "provisions": [
+            "section 64"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Jamie McGrath pleaded guilty to theft from a car at St Albans station after DNA linked him to the break-in.",
+        "He had an extensive ten-year record of 112 mostly dishonesty offences and received community punishment plus a two-year ASBO.",
+        "ASBO terms prohibited all car parks in three counties, all trespass, possession of any tool usable on vehicles, and being drunk in public.",
+        "The judge considered McGrath had turned over a new leaf but held an ASBO necessary given his history of station car park offending."
+      ],
+      "procedural_posture": "Appeal with leave against sentence limited to the post-conviction ASBO imposed at Luton Crown Court.",
+      "outcome": "Appeal allowed in part; terms 2-4 struck out as draconian, unclear or overlapping with going equipped; terms 1 and 5 upheld for two years.",
+      "ratio": "A post-commencement qualifying offence permits an ASBO where post-1999 antisocial conduct and necessity are shown, with pre-commencement conduct relevant to necessity; ASBO terms must be clear and commensurate with the risk as breach may lead to five years' imprisonment.",
+      "legal_issues": [
+        "Whether pre-commencement conduct could be considered for ASBO necessity",
+        "Whether dishonesty offending could support an ASBO",
+        "Whether prohibited acts must themselves cause harassment alarm or distress",
+        "Whether terms banning all car parks, trespass and tool possession were proportionate"
+      ],
+      "catchwords": [
+        "ASBO",
+        "anti-social behaviour order",
+        "vehicle crime",
+        "disproportionate terms",
+        "section 1C",
+        "necessity",
+        "theft"
+      ],
+      "index_terms": [
+        "Network Rail car park",
+        "British Transport Police",
+        "R v Shane Tony P",
+        "going equipped",
+        "community punishment",
+        "Hertfordshire Bedfordshire Buckinghamshire"
+      ],
+      "linked_authorities": [
+        "R v Shane Tony P [2004] EWCA Crim 287"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory framework, partial success and term-by-term analysis are clearly set out."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/102.json",
+    "status": "done",
+    "notes": "Major VAT appeal; Telewest restructuring created separate zero-rated magazine supply despite integrated customer package.",
+    "enrichment": {
+      "short_title": "Telewest v HMRC: VAT zero-rating restored for Cable Guide magazine supply",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "European Union law",
+        "Commercial law",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": [
+            "section 47(2A)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Telewest supplied cable television and Cable Guide magazine to customers through regional companies until CPP and BSkyB changed VAT composite-supply analysis.",
+        "From January 2000 Telewest incorporated Publications Ltd outside the VAT group and used agency arrangements to bill £3.25 magazine charges separately.",
+        "Existing customers were notified in Cable Guide; new contracts stated Publications would supply the magazine while regional companies acted as collection agents.",
+        "HMRC contended the package remained a single standard-rated supply by Telewest despite the contractual restructuring."
+      ],
+      "procedural_posture": "Appeal from VAT Tribunal and High Court dismissing Telewest's challenge to standard-rating of magazine element of subscriptions.",
+      "outcome": "Appeal allowed; separate contract and VAT supply by Publications to customers established; cross-appeal dismissed; no reference to the Court of Justice.",
+      "ratio": "Domestic contract analysis may support two taxable persons and two VAT supplies where customers acquiesced in partial novation; CPP principal/ancillary supply doctrine does not fuse supplies by different taxable persons, and artificiality arguments cannot override autonomous Community law supply concepts.",
+      "legal_issues": [
+        "Whether existing customers assented to partial novation with Publications",
+        "Whether new customer contracts created a separate magazine supply",
+        "Whether CPP/BSkyB composite supply principles applied across two suppliers",
+        "Whether section 47(2A) VATA treated the regional company as principal supplier of magazines"
+      ],
+      "catchwords": [
+        "value added tax",
+        "zero-rating",
+        "composite supply",
+        "Card Protection Plan",
+        "magazine",
+        "cable television",
+        "tax avoidance"
+      ],
+      "index_terms": [
+        "Telewest Communications",
+        "Cable Guide",
+        "Publications Ltd",
+        "partial novation",
+        "taxable person",
+        "Sixth VAT Directive"
+      ],
+      "linked_authorities": [
+        "Card Protection Plan Ltd v CCE (1999) STC 270",
+        "British Sky Broadcasting v CCE (1999) V & DR 283",
+        "CCE v Wellington Private Hospital [1997] STC 445",
+        "Nell Gwynn House Maintenance Fund Trustees v CCE [1999] STC 79"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Contract and VAT conclusions are detailed though the scheme's fact pattern is complex."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2005/297.json",
+    "status": "done",
+    "notes": "TCC trial on M27 subcontract; JP Mac failed to prove continuing contract with Hanson after mobilisation cap.",
+    "enrichment": {
+      "short_title": "JP Mac v Hanson: subcontract transferred to AAL after £20,000 mobilisation work",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Commercial law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "JP Mac supplied operatives and plant on the M27 renewal joint venture between Hanson and Stenoak/AAL.",
+        "Hanson contended only initial mobilisation work up to £20,000 was under its subcontract; further work was contracted with AAL, which paid invoices until insolvency.",
+        "Mr McCarthy claimed he was told invoicing AAL was quicker and easier; Hanson invoices produced later were found to be manufactured.",
+        "Associated Asphalt became insolvent in June 2002 leaving unpaid invoices of £164,816.59 which JP Mac sought from Hanson."
+      ],
+      "procedural_posture": "Technology and Construction Court trial on liability for unpaid subcontract sums after joint venture partner insolvency.",
+      "outcome": "Claim dismissed; JP Mac proved only the initial Hanson contract to £20,000 and agreed thereafter to contract with AAL/Stenoak under self-billing arrangements.",
+      "ratio": "Where a subcontractor continues work after a capped mobilisation package without objecting to a new party's subcontract documents and self-billing instructions, acquiescence and contemporaneous invoicing to the new paymaster can establish a new contractual relationship despite later fabricated documents.",
+      "legal_issues": [
+        "Whether JP Mac's subcontract remained with Hanson throughout the M27 works",
+        "Whether Mr McCarthy agreed to contract with AAL after mobilisation",
+        "Effect of self-billing 'THIS IS NOT A TAX INVOICE' endorsements on AAL invoices",
+        "Whether adverse inferences should be drawn from absent witnesses and fabricated Hanson invoices"
+      ],
+      "catchwords": [
+        "sub-contract",
+        "joint venture",
+        "quantum meruit",
+        "self-billing",
+        "mobilisation works",
+        "insolvency",
+        "adverse inference"
+      ],
+      "index_terms": [
+        "M27 motorway",
+        "Associated Asphalt",
+        "Stenoak",
+        "Mr Webster",
+        "Invoice 202",
+        "technology and construction court"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Findings depend heavily on documentary and credibility analysis but final disposition is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/123.json",
+    "status": "done",
+    "notes": "Costs judgment in Richards v Pembrokeshire CC; two-thirds costs after partially successful planning appeal.",
+    "enrichment": {
+      "short_title": "Richards v Pembrokeshire: two-thirds costs after successful planning rights appeal",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr and Mrs Richards successfully challenged a Pembrokeshire County Council order affecting their property rights, requiring appeal to the Court of Appeal.",
+        "The court initially proposed full costs save for no order on a 9 March 2004 hearing, then invited submissions.",
+        "The council argued the appellants raised unsuccessful arguments and changed their case between stages, wasting costs.",
+        "Written submissions were exchanged in November and December 2004 after the principal appeal decision."
+      ],
+      "procedural_posture": "Supplemental Court of Appeal ruling on costs following substantive success in a planning judicial review appeal.",
+      "outcome": "No order for costs of the 9 March 2004 hearing; otherwise the respondent pays two-thirds of the appellants' costs below and on appeal.",
+      "ratio": "A successful appellant with a justified complaint should normally recover costs, but a significant one-third deduction is appropriate where the winning party changed its case and pursued arguments that wasted court time and opponent's costs without losing entitlement entirely.",
+      "legal_issues": [
+        "Whether the appellants should recover all costs of the appeal and proceedings below",
+        "Whether no order should apply to the 9 March 2004 hearing",
+        "Effect of case refinements and unsuccessful arguments on costs allocation",
+        "Whether exceptional circumstances were needed to deprive a successful party of costs"
+      ],
+      "catchwords": [
+        "costs",
+        "Court of Appeal",
+        "planning",
+        "successful appellant",
+        "case change",
+        "two-thirds costs",
+        "no order"
+      ],
+      "index_terms": [
+        "Pembrokeshire County Council",
+        "Richards",
+        "9 March 2004 hearing",
+        "written submissions",
+        "costs deduction"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Costs order is clear though detailed reasons are summarised rather than fully reported."
+      }
+    }
+  }
+]

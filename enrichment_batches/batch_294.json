@@ -1,0 +1,714 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1756.json",
+    "status": "done",
+    "notes": "CCRC-referred robbery appeal conceded by the Crown after unreliability of CCTV identification expert evidence; outcome straightforward.",
+    "enrichment": {
+      "short_title": "Bacchus robbery appeal: unreliable CCTV identification",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal procedure",
+        "Evidence",
+        "Appeals against conviction"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The appellant was convicted by a 10-2 jury majority at Nottingham Crown Court in September 2000 of robbery arising from a group entry into a woman's flat and theft of her watch on 5 April 1999.",
+        "The prosecution case depended on expert CCTV comparison evidence from Mr Harrow linking the appellant to footage of men arriving near the scene.",
+        "The Crown accepted that without Mr Harrow's evidence there would have been no case to answer.",
+        "The CPS had ceased to instruct Mr Harrow and no longer considered his methods sufficiently reliable to support a safe conviction."
+      ],
+      "procedural_posture": "Appeal against conviction referred to the Court of Appeal by the Criminal Cases Review Commission.",
+      "outcome": "Appeal allowed; conviction quashed as unsafe because the Crown no longer invited the court to treat Mr Harrow's evidence as a safe basis for conviction.",
+      "ratio": "Where the prosecution no longer contends that expert identification evidence is sufficiently reliable for a jury safely to convict, the resulting conviction cannot stand and must be regarded as unsafe.",
+      "legal_issues": [
+        "Whether the conviction was safe where the sole decisive expert identification evidence was no longer relied on by the Crown",
+        "Effect of CPS withdrawal of confidence in an expert witness on appeal"
+      ],
+      "catchwords": [
+        "robbery",
+        "unsafe conviction",
+        "CCTV identification",
+        "expert evidence",
+        "CCRC reference",
+        "prosecution concession"
+      ],
+      "index_terms": [
+        "Criminal Cases Review Commission",
+        "Nottingham Crown Court",
+        "majority verdict",
+        "identification parade",
+        "young offenders institution"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Short judgment with clear facts, Crown concession, and explicit unsafe-conviction reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/1300.json",
+    "status": "done",
+    "notes": "Long TCC adjudication enforcement judgment; late referral, dispute crystallisation, and Ferson revaluation issues are all addressed.",
+    "enrichment": {
+      "short_title": "Verry v Mikvah: enforcing retention adjudication decision",
+      "area_of_law": [
+        "Construction law",
+        "Adjudication",
+        "Contract law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Grants, Construction and Regeneration Act 1996",
+          "provisions": [
+            "section 108"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 7",
+            "Part 8",
+            "Part 24"
+          ]
+        }
+      ],
+      "key_facts": [
+        "William Verry Ltd carried out construction of a communal Mikvah in Golders Green under a JCT 98 building contract with an original sum of about £2.45m.",
+        "Following earlier adjudications, a third adjudicator directed North West London Communal Mikvah to pay Verry £67,055.97 representing half the retention after practical completion.",
+        "Interim certificate no 34 had reduced the gross value of the works to account for alleged defects and produced a nil payment.",
+        "NWLCM resisted enforcement on grounds including a one-day late referral notice, absence of a live dispute, and the adjudicator's failure to consider defects."
+      ],
+      "procedural_posture": "Summary judgment application to enforce a construction adjudicator's decision, following conversion of Part 8 proceedings into Part 7 proceedings.",
+      "outcome": "Judgment for Verry that the adjudicator's decision was valid and enforceable, but the judgment was not to be drawn up for 42 days to allow for a possible further adjudication on defects.",
+      "ratio": "Section 108(1)(b) requires contractual machinery enabling referral within seven days but does not prohibit an adjudicator extending that timetable; a genuine dispute existed over interim certificate no 34 and retention release; although the adjudicator erred in treating earlier gross valuations as immutable, those errors were within jurisdiction and the decision remained enforceable.",
+      "legal_issues": [
+        "Whether a referral notice served one day after the contractual seven-day period invalidated the adjudication",
+        "Whether a dispute existed when the adjudication notice was served",
+        "Whether an adjudicator may revalue works for defects after an earlier decision on gross value",
+        "Whether errors of law took the adjudicator outside jurisdiction under Joinery Plus principles"
+      ],
+      "catchwords": [
+        "adjudication",
+        "retention",
+        "interim certificate",
+        "HGCRA",
+        "summary judgment",
+        "defects",
+        "jurisdiction"
+      ],
+      "index_terms": [
+        "William Verry Ltd",
+        "North West London Communal Mikvah",
+        "JCT 98",
+        "Bruce Kettle",
+        "Ferson Contractors Ltd v Levolux AT Ltd",
+        "Joinery Plus Ltd v Laing Ltd",
+        "practical completion"
+      ],
+      "linked_authorities": [
+        "Ferson Contractors Ltd v Levolux AT Ltd [2003] TCLR 5",
+        "Joinery Plus Ltd (in administration) v Laing Ltd [2003] TCLR 4"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed judgment with clear holdings on timing, dispute existence, and enforcement despite adjudicator error."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1642.json",
+    "status": "done",
+    "notes": "Fitness-to-plead appeal with unanimous medical evidence and clear statutory analysis under section 4 of the 1964 Act.",
+    "enrichment": {
+      "short_title": "R v B: fitness to plead and stand trial",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal procedure",
+        "Mental health and fitness to plead",
+        "Appeals against conviction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Procedure (Insanity) Act 1964",
+          "provisions": [
+            "section 4"
+          ]
+        },
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 3",
+            "section 47"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant faced charges including threats to kill, ABH, and false imprisonment arising from a violent incident at an ex-partner's flat.",
+        "Two consultant psychiatrists, Dr Falkowski and Dr Browne, reported shortly before trial that the appellant was fit to plead and fit to stand trial.",
+        "On 4 June 2003 the trial judge refused a further adjournment for a third psychiatric report and declined to empanel a jury on fitness.",
+        "The trial proceeded and the appellant later changed his plea on some counts; subsequent reports indicated possible mental health detention needs."
+      ],
+      "procedural_posture": "Appeal against the Crown Court judge's refusal to adjourn for further psychiatric evidence and to have fitness determined by a jury.",
+      "outcome": "Appeal dismissed; the judge's decision was held to be the only conclusion open on the medical evidence then before him.",
+      "ratio": "Under section 4 of the Criminal Procedure (Insanity) Act 1964, a jury may find a defendant unfit to plead only on medical evidence; where two recent consultant psychiatrists unanimously find fitness, there is no live question of fitness requiring a separate jury determination.",
+      "legal_issues": [
+        "Whether the judge was wrong to refuse a further adjournment for psychiatric evidence",
+        "Whether a fitness-to-plead jury should have been empanelled",
+        "Effect of unanimous medical evidence that a defendant is fit to plead and stand trial"
+      ],
+      "catchwords": [
+        "fitness to plead",
+        "fitness to stand trial",
+        "psychiatric report",
+        "adjournment",
+        "section 4",
+        "jury determination"
+      ],
+      "index_terms": [
+        "Middlesex Guildhall",
+        "Dr Falkowski",
+        "Dr Browne",
+        "threats to kill",
+        "false imprisonment",
+        "Mental Health Act"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Statutory wording and medical evidence are clearly analysed; later hospital transfer is treated as a footnote only."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/830.json",
+    "status": "done",
+    "notes": "Work equipment appeal turns on construction of PUWER 1992 and Regulation 4; Court of Appeal declined to follow Kelly.",
+    "enrichment": {
+      "short_title": "Hammond: wheel bolt not work equipment under PUWER",
+      "area_of_law": [
+        "Personal injury",
+        "Health and safety",
+        "Employment law",
+        "Tort law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Provision and Use of Work Equipment Regulations 1992",
+          "provisions": [
+            "Regulation 2",
+            "Regulation 4",
+            "Regulation 5",
+            "Regulation 6",
+            "Regulation 7",
+            "Regulation 22"
+          ]
+        },
+        {
+          "title": "Council Directive 89/655/EEC",
+          "provisions": [
+            "Article 2",
+            "Article 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "An experienced Metropolitan Police mobile maintenance mechanic injured his hand and wrist when a wheel bolt sheared as he tried to undo it on a police dog van.",
+        "The trial judge held the bolt was work equipment and found a breach of the strict maintenance duty in Regulation 6, with 50% contributory negligence.",
+        "The van was operated by a second defendant police authority and was not the property of the claimant's employer.",
+        "The appeal concerned whether a component being worked upon, rather than equipment provided to do the work, fell within the Regulations."
+      ],
+      "procedural_posture": "Appeal with permission against a liability-only judgment in a personal injury action.",
+      "outcome": "Appeal allowed; the wheel bolt was not work equipment and the second defendant should not have been held liable.",
+      "ratio": "Regulation 4 shows the 1992 Regulations apply to equipment provided by an employer for use by employees at work, not to objects on which employees are working that belong to others; a wheel bolt on a customer's or third-party vehicle is therefore not work equipment for a garage or repair mechanic.",
+      "legal_issues": [
+        "Whether a wheel bolt being removed during repair was work equipment within Regulation 2",
+        "Whether Regulation 4 limits work equipment to tools and equipment provided by the employer",
+        "Whether Kelly v First Engineering Ltd should be followed",
+        "Whether the second defendant, not being the employer, could be liable under the Regulations"
+      ],
+      "catchwords": [
+        "work equipment",
+        "PUWER",
+        "Regulation 6",
+        "wheel bolt",
+        "strict liability",
+        "employer duty",
+        "repair and maintenance"
+      ],
+      "index_terms": [
+        "Metropolitan Police",
+        "police dog van",
+        "Kelly v First Engineering Ltd",
+        "Stark v Post Office",
+        "Wallace v Balfour Beatty",
+        "Griffiths v Vauxhall Motors",
+        "contributory negligence"
+      ],
+      "linked_authorities": [
+        "Kelly v First Engineering Ltd [1999] SCLR 1025",
+        "Stark v Post Office [2000] ICR 1013",
+        "Wallace v Balfour Beatty Rail Maintenance Ltd [2003] EWCA Civ 72",
+        "Griffiths v Vauxhall Motors Ltd [2003] EWCA Civ 412"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed statutory and purposive analysis with clear reversal of the trial judge."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1494.json",
+    "status": "done",
+    "notes": "NMC statutory appeal dismissed as out of time; Article 6 and substantive misconduct analysis are explicit.",
+    "enrichment": {
+      "short_title": "Blackett: out-of-time appeal against nursing register removal",
+      "area_of_law": [
+        "Professional discipline",
+        "Administrative law",
+        "Healthcare regulation",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nurses, Midwives and Health Visitors Act 1997",
+          "provisions": [
+            "section 12"
+          ]
+        },
+        {
+          "title": "Rehabilitation of Offenders Act 1974",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 52"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant nurse was removed from the register after admitting a 2002 conviction for attempting dishonestly to obtain a pecuniary advantage.",
+        "She had falsely denied previous cautions and convictions on an NHS employment application and police check form despite a history of dishonesty offences.",
+        "She wrote to the Nursing and Midwifery Council on 12 June 2003 expressing an intention to appeal but did not file a High Court appeal until 11 December 2003.",
+        "The Council had correctly advised that any appeal had to be brought to the High Court within three months of the decision."
+      ],
+      "procedural_posture": "Statutory appeal to the High Court against a Professional Conduct Committee decision removing the appellant from the nursing register.",
+      "outcome": "Appeal dismissed as out of time; the court held it had no power to extend the three-month limit and that, had the appeal been in time, it would still have been refused on the merits.",
+      "ratio": "Section 12(1) of the 1997 Act imposes a mandatory three-month limit for appeals to the High Court which CPR Part 52 does not empower the court to extend; the three-month period is compatible with Article 6; failure to disclose convictions on a nursing application justifies removal to protect public trust.",
+      "legal_issues": [
+        "Whether the court could extend the three-month statutory appeal period",
+        "Whether Article 6 required a compatible reading allowing extension of time",
+        "Whether the letter to the NMC constituted an in-time appeal to the appropriate court",
+        "Whether removal from the register was a reasonable professional discipline decision"
+      ],
+      "catchwords": [
+        "nursing register",
+        "professional conduct",
+        "statutory appeal",
+        "time limit",
+        "Article 6",
+        "non-disclosure",
+        "dishonesty"
+      ],
+      "index_terms": [
+        "Nursing and Midwifery Council",
+        "Balamoody v UKCC",
+        "Cavanilles v Spain",
+        "Plymouth Community Services NHS Trust",
+        "Rehabilitation of Offenders Act exclusion"
+      ],
+      "linked_authorities": [
+        "Balamoody v United Kingdom Central Council for Nursing, Midwifery and Health Visiting [1997] EWHC Admin 704",
+        "J & PM Dockeray v Secretary of State for the Environment, Food and Rural Affairs [2002] EWHC 420 Admin"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Time-limit issue and obiter merits analysis are both clearly reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1284.json",
+    "status": "done",
+    "notes": "Complex maritime Part 24 and jurisdiction judgment; core holdings on warning duties, spare parts contracts, and Article 6 are clear.",
+    "enrichment": {
+      "short_title": "Baltic Eider fire: Wartsila summary judgment and jurisdiction",
+      "area_of_law": [
+        "Maritime law",
+        "Product liability",
+        "Tort law",
+        "Contract law",
+        "Civil procedure",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 24"
+          ]
+        },
+        {
+          "title": "Council Regulation (EC) No 44/2001",
+          "provisions": [
+            "Article 2",
+            "Article 5",
+            "Article 6"
+          ]
+        },
+        {
+          "title": "Sale of Goods Act 1979",
+          "provisions": [
+            "section 14"
+          ]
+        },
+        {
+          "title": "Unfair Contract Terms Act 1977",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Andrew Weir Shipping Ltd claimed over $5m after a serious fire in August 2001 on the Baltic Eider, allegedly caused by a loosened erosion plug on a Wartsila 46 engine fuel injection pump.",
+        "The claim was brought against Wartsila UK Ltd, the local service network company, and Wartsila Finland, the engine designer and manufacturer.",
+        "WUK had supplied overhaul spare parts kits without steel washers or erosion plugs and had not passed Wartsila 32 warning bulletins to AWSL.",
+        "Applications included WFI's jurisdiction challenge, WUK's reverse summary judgment application, and AWSL's permission to amend."
+      ],
+      "procedural_posture": "Concurrent applications for reverse summary judgment, permission to amend, and challenge to jurisdiction over the Finnish defendant.",
+      "outcome": "WUK's summary judgment application succeeded on the supply and servicing contract claims but failed on the tort claim and overhaul spare parts contract claim; WFI's jurisdiction challenge failed; permission to amend granted in part.",
+      "ratio": "AWSL had no realistic prospect of proving WUK or WFI supplied the copper washer in issue, but arguable tort and contract claims survived against WUK based on failure to warn about copper washers, torque settings, and securing devices, and on implied terms in overhaul spare parts kits; those surviving claims were sufficiently connected to found jurisdiction over WFI under Article 6(1).",
+      "legal_issues": [
+        "Whether AWSL could establish supply of a copper erosion plug washer by WUK or WFI",
+        "Whether WUK owed a duty to warn about dangers associated with fuel pump maintenance",
+        "Whether overhaul spare parts kits breached implied terms of satisfactory quality and fitness for purpose",
+        "Whether Article 6(1) jurisdiction existed over the Finnish defendant"
+      ],
+      "catchwords": [
+        "engine fire",
+        "erosion plug",
+        "duty to warn",
+        "spare parts kit",
+        "Part 24",
+        "Article 6",
+        "maritime claim"
+      ],
+      "index_terms": [
+        "Baltic Eider",
+        "Andrew Weir Shipping Ltd",
+        "Wartsila 46",
+        "Wartsila 32 warning bulletin",
+        "Donoghue v Stevenson",
+        "Vacwell v BDH Chemicals",
+        "Reunion Europeenne"
+      ],
+      "linked_authorities": [
+        "Swain v Hillman [2001] 1 All ER 91",
+        "Three Rivers DC v Bank of England [2001] 2 All ER 513",
+        "ED & F Man Liquid Products Ltd v Patel [2003] EWCA Civ 472",
+        "Donoghue v Stevenson [1932] AC 562",
+        "Vacwell v BDH Chemicals [1971] 1 QB 88",
+        "Caparo Industries Plc v Dickman [1990] 2 AC 605",
+        "The Rebecca Elaine [1999] 2 Lloyd's Rep 1"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Very long judgment but dispositive conclusions on each application are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1676.json",
+    "status": "done",
+    "notes": "Second habeas corpus application with detailed Article 12 conduct-description analysis; partial discharge is clearly reasoned.",
+    "enrichment": {
+      "short_title": "Castillo extradition: inaccurate conduct description",
+      "area_of_law": [
+        "Extradition",
+        "Administrative law",
+        "Criminal law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act 1989",
+          "provisions": [
+            "section 2",
+            "section 7",
+            "section 9",
+            "section 11",
+            "section 12",
+            "section 13"
+          ]
+        },
+        {
+          "title": "European Convention on Extradition Order 2001",
+          "provisions": [
+            "Article 12"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The applicant, a Spanish citizen arrested at Dover with a false passport, was sought by Spain for alleged terrorist offences including arson and attempted murder.",
+        "Spain withdrew one extradition request after evidence showed a map linked to a barracks explosion was in fact a route to the applicant's home.",
+        "On a second habeas corpus application, newly produced Spanish dossier materials showed the extradition request misdescribed conduct relating to an attempted bomb under a police officer's car.",
+        "The request failed to make clear the officer was in his house, the device required manual ignition, and remnants were found 150 metres away."
+      ],
+      "procedural_posture": "Second application for habeas corpus challenging committal for extradition to Spain.",
+      "outcome": "Application succeeded in part; the applicant was discharged in respect of charges 6 and 7 but extradition on charges 1-3 and 5 remained.",
+      "ratio": "A requesting state must fairly and accurately describe the conduct alleged under Article 12; where the true description shows no basis for attempted murder or GBH against the police officer, committal on those charges cannot stand, though a properly described attempt to cause an explosion likely to endanger life may remain.",
+      "legal_issues": [
+        "Whether the extradition request was made in good faith under section 11(3)(c)",
+        "Whether the conduct description satisfied Article 12 and UK reservation requirements",
+        "Whether charges 6 and 7 were sustainable under English law on a fair description of the facts",
+        "Whether discharge under section 11(3) required success on every charge"
+      ],
+      "catchwords": [
+        "habeas corpus",
+        "extradition",
+        "good faith",
+        "Article 12",
+        "attempted murder",
+        "terrorism",
+        "conduct description"
+      ],
+      "index_terms": [
+        "Kingdom of Spain",
+        "Basque",
+        "Belmarsh Prison",
+        "Bow Street committal",
+        "Banco Santander",
+        "Osman",
+        "R (Saifi) v Governor of Brixton Prison"
+      ],
+      "linked_authorities": [
+        "Castillo v Kingdom of Spain [2002] EWHC 1302 (Admin)",
+        "Re Evans [1994] 1 WLR 1006",
+        "Osman (transcript 28 February 1992)",
+        "R (Saifi) v Governor of Brixton Prison [2001] 1 WLR 1134",
+        "Re Debs (6 March 1998)"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Complex extradition facts but the partial discharge reasoning and charge-by-charge analysis are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/801.json",
+    "status": "done",
+    "notes": "Permission-to-appeal application in bankruptcy with clear refusal on all five grounds.",
+    "enrichment": {
+      "short_title": "McKay: refusal of permission to remove trustee",
+      "area_of_law": [
+        "Insolvency law",
+        "Bankruptcy",
+        "Civil procedure",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Rules 1986",
+          "provisions": [
+            "rule 6.132",
+            "rule 7.38"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs McKay applied to remove her trustee in bankruptcy, Mr Titley, alleging fraud and extortion and denying any valid petitioning creditor.",
+        "The application had been outstanding for about fourteen months and the trustee obtained release at a creditors' meeting on 12 February 2004 before the hearing.",
+        "The judge proceeded in Mrs McKay's absence after refusing a further adjournment and held she lacked standing and was effectively seeking to rerun an unsuccessful annulment application.",
+        "Mrs McKay, a litigant in person, sought permission to appeal on five grounds including adjournment, respondent absence, and disclosure of third-party funding."
+      ],
+      "procedural_posture": "Application for permission to appeal against refusal of an application to remove a trustee in bankruptcy.",
+      "outcome": "Permission to appeal refused; no real prospect of success on any ground.",
+      "ratio": "Refusal of adjournment was within the judge's discretion after long delay; absence of the trustee did not entitle the applicant to removal; once the trustee had obtained release there was no jurisdiction to remove him; Insolvency Rule 7.38 did not apply because costs were not directed to be paid otherwise than out of the insolvent estate.",
+      "legal_issues": [
+        "Whether the judge wrongly refused a further adjournment",
+        "Whether the application should have succeeded because the trustee did not attend",
+        "Whether the applicant had standing to seek removal of the trustee",
+        "Whether she was entitled to disclosure of third-party funding under Insolvency Rule 7.38"
+      ],
+      "catchwords": [
+        "trustee in bankruptcy",
+        "permission to appeal",
+        "adjournment",
+        "standing",
+        "trustee release",
+        "litigant in person"
+      ],
+      "index_terms": [
+        "Christine McKay",
+        "Mr Titley",
+        "Judge Norris QC",
+        "Birmingham District Registry",
+        "annulment application",
+        "Official Receiver"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Short permission judgment with clear disposal of each ground of appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1332.json",
+    "status": "done",
+    "notes": "Limited judicial review on Prison Service Order policy breach; categorisation and placement policy arguments rejected.",
+    "enrichment": {
+      "short_title": "TB: provisional Category A placement of remanded child",
+      "area_of_law": [
+        "Prison law",
+        "Administrative law",
+        "Judicial review",
+        "Children and young offenders"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Prisons Act 1952",
+          "provisions": [
+            "section 12"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 92"
+          ]
+        },
+        {
+          "title": "Children and Young Persons Act 1933",
+          "provisions": [
+            "section 53"
+          ]
+        }
+      ],
+      "key_facts": [
+        "TB, aged 16 when remanded, faced charges of abduction and attempted murder arising from a violent shooting attack on a young woman.",
+        "He was assessed as provisional Category A and held on the medical wing of an adult prison with very limited association and a restricted regime.",
+        "Shortly before hearing he was moved to the young offenders wing with a fuller regime after turning 17.",
+        "The surviving challenge was that categorisation and medical-wing placement breached Prison Service Orders 0900 and 4950."
+      ],
+      "procedural_posture": "Judicial review by a child through his mother and next friend, continuing on a limited policy-breach ground after placement changed.",
+      "outcome": "Claim dismissed on the policy-breach ground; PSO 0900 and PSO 4950 did not establish policies prohibiting provisional Category A categorisation or requiring full juvenile regimes for all under-18s wherever held.",
+      "ratio": "Prison Service Orders may guide staff but do not create freestanding legal policies binding the Secretary of State; neither PSO 0900 nor PSO 4950, read with the Youth Justice Board service level agreement, prohibited provisional Category A categorisation or placement of a high-risk juvenile outside the juvenile estate on the medical wing.",
+      "legal_issues": [
+        "Whether under-18s could be categorised as provisional Category A",
+        "Whether PSO 4950 required full juvenile regimes for all under-18s wherever placed",
+        "Whether the Secretary of State acted unlawfully by breaching his own policies",
+        "Effect of the service level agreement between the Youth Justice Board and the Prison Service"
+      ],
+      "catchwords": [
+        "Category A",
+        "juvenile prisoner",
+        "judicial review",
+        "Prison Service Order",
+        "medical wing",
+        "remand",
+        "policy breach"
+      ],
+      "index_terms": [
+        "PSO 0900",
+        "PSO 4950",
+        "Youth Justice Board",
+        "R v Secretary of State ex parte Stafford",
+        "R(P) v Home Secretary",
+        "National Security Framework",
+        "Belmarsh"
+      ],
+      "linked_authorities": [
+        "R v Secretary of State for the Home Department ex parte Stafford [1998] 1 WLR 503",
+        "R(P) v Home Secretary [2001] 1 WLR 2001",
+        "R(BP) v SSHD [2003] EWHC 1963"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Limited ground of challenge is clearly decided; other convention and discretion grounds were treated as academic."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1823.json",
+    "status": "needs_review",
+    "notes": "Permission-stage judgment only; arguable tenancy point identified but substantive judicial review and factual tenancy validity remain undecided.",
+    "enrichment": {
+      "short_title": "Moore: care registration and tenancy agreements",
+      "area_of_law": [
+        "Social care regulation",
+        "Administrative law",
+        "Landlord and tenant",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Care Standards Act 2000",
+          "provisions": [
+            "section 102"
+          ]
+        },
+        {
+          "title": "National Care Standards Commission (Registration) Regulations 2002",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The claimants challenged a Care Standards Tribunal decision about whether Alternative Futures provided domiciliary care as a registered person.",
+        "The Tribunal treated the existence of tenancy agreements as not determinative but did not clearly find whether valid tenancies existed.",
+        "Alternative Futures had argued the agreements were a fiction or had not been entered into, rather than a classic sham.",
+        "Other Tribunal appeals were held pending the outcome of this case."
+      ],
+      "procedural_posture": "Application for permission to judicial review a Care Standards Tribunal decision, with a related appeal by one claimant stayed.",
+      "outcome": "Permission to judicial review granted; Mr Moore's separate appeal stayed pending disposal of the judicial review; Commission for Social Care Inspection substituted as second defendant.",
+      "ratio": "It is at least arguable that the Tribunal erred in law by treating the existence of tenancies as not critical without clearly determining whether valid tenancies existed; where statutory construction points arise of general importance and claimants cannot appeal the Tribunal decision, judicial review should proceed even if tenancy validity remains fact-sensitive.",
+      "legal_issues": [
+        "Whether valid tenancy agreements were determinative of registered-person status",
+        "Whether the Tribunal failed adequately to address existence of the alleged agreements",
+        "Whether the real-choice test applied by the Tribunal was correct in law",
+        "Whether the proceedings were academic or should proceed under Salem principles"
+      ],
+      "catchwords": [
+        "Care Standards Tribunal",
+        "registered person",
+        "tenancy",
+        "domiciliary care",
+        "permission",
+        "judicial review",
+        "real choice"
+      ],
+      "index_terms": [
+        "Alternative Futures",
+        "National Care Standards Commission",
+        "Commission for Social Care Inspection",
+        "R v Secretary of State ex parte Salem",
+        "service charge",
+        "periodic tenancy"
+      ],
+      "linked_authorities": [
+        "R v Secretary of State for the Home Department ex parte Salem [1999] 2 AC 554"
+      ],
+      "confidence": {
+        "score": 0.8,
+        "level": "medium",
+        "notes": "Permission granted and legal error is identified as arguable, but the Tribunal's ultimate test and tenancy findings remain unresolved."
+      }
+    }
+  }
+]

@@ -1,0 +1,740 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1287.json",
+    "status": "done",
+    "notes": "Batch 19 enrichment",
+    "enrichment": {
+      "short_title": "Good reason defence under section 139 CJA 1988 requires occasion-specific proof",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing and appeals",
+        "Public order and weapons"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": [
+            "section 18",
+            "section 20"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 139"
+          ]
+        },
+        {
+          "title": "Prevention of Crime Act 1953",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Sean Giles was acquitted of wounding counts but convicted of possessing a lock-knife with an eight-centimetre blade in a public place in Ely after a confrontation over a missing handheld computer.",
+        "The trial judge directed the jury that Giles had raised no good reason for carrying the knife and that the only possible verdict on count 3 was guilty.",
+        "Giles argued that a multi-purpose Swiss Army-style utility tool did not require proof of a specific reason for possession on the occasion alleged.",
+        "The Court of Appeal held there was no evidence capable of supporting a good-reason defence and that the judge was entitled to withdraw the issue from the jury."
+      ],
+      "procedural_posture": "Crown Court conviction appeal by leave of the Single Judge on possession of a bladed article.",
+      "outcome": "Appeal dismissed; costs matters adjourned for further enquiries.",
+      "ratio": "Under section 139(4) of the Criminal Justice Act 1988, a defendant must prove a specific good reason or lawful authority for having a prohibited bladed article in a public place at the particular time alleged; the fact that the article forms part of a multi-purpose implement with legitimate uses does not create a blanket defence, and habit or forgetfulness cannot amount to good reason.",
+      "legal_issues": [
+        "Whether a defendant carrying a prohibited bladed article as part of a multi-purpose tool must prove a specific good reason for possession on the occasion alleged",
+        "Whether sufficient evidence of good reason was raised to leave the section 139(4) defence to the jury",
+        "Whether the trial judge was entitled to direct the jury that no good-reason defence had been raised"
+      ],
+      "catchwords": [
+        "bladed article",
+        "section 139",
+        "good reason",
+        "lock knife",
+        "folding pocket knife",
+        "public place",
+        "jury direction"
+      ],
+      "index_terms": [
+        "Sean Giles",
+        "Swiss Army knife",
+        "Deegan",
+        "DPP v Gregson",
+        "Bonnick",
+        "Manning",
+        "Ely"
+      ],
+      "linked_authorities": [
+        "R v Deegan",
+        "DPP v Gregson",
+        "R v Bonnick",
+        "R v Manning"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Core ratio, facts, and authorities are clearly stated in the judgment. Judges field in the source file is empty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/pat/2003/116.json",
+    "status": "done",
+    "notes": "Batch 19 enrichment",
+    "enrichment": {
+      "short_title": "No summary judgment on repackaging necessity in parallel import pharma case",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks",
+        "Civil procedure",
+        "EU law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 24.2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Glaxo and Wellcome sued Europharm and Eurochem for trade mark infringement and passing off over parallel importation of pharmaceutical products from other EEA countries.",
+        "The defendants applied for summary judgment on the issue of whether repackaging was necessary to gain effective access to the UK market, relying on Laddie J's findings in the related Dowelhurst action.",
+        "The claimants objected on CPR notice grounds and on substance, arguing that necessity was a question of fact for trial and that issue estoppel did not apply because the parties differed.",
+        "Mr Justice Laddie rejected the application, holding that the defendants could not be deprived of the opportunity to put better evidence before the court."
+      ],
+      "procedural_posture": "Application for summary judgment under CPR rule 24.2 in ongoing trade mark infringement and passing off proceedings.",
+      "outcome": "Summary judgment application rejected.",
+      "ratio": "Even where a parallel importer succeeded on the necessity-of-repackaging issue in earlier related proceedings, a different defendant in later proceedings is not precluded from litigating that factual issue at trial; the ECJ has treated repackaging necessity as a question of fact, so summary judgment is inappropriate where the claimant may adduce different evidence before a different judge.",
+      "legal_issues": [
+        "Whether summary judgment should be granted on the necessity of repackaging parallel-imported pharmaceuticals",
+        "Whether findings in the Dowelhurst action bind the defendants in these proceedings",
+        "Whether short service of the summary judgment application should be permitted"
+      ],
+      "catchwords": [
+        "parallel import",
+        "trade mark infringement",
+        "passing off",
+        "repackaging",
+        "necessity",
+        "summary judgment",
+        "pharmaceuticals"
+      ],
+      "index_terms": [
+        "Glaxo Group Ltd",
+        "Europharm of Worthing Ltd",
+        "Dowelhurst action",
+        "free movement of goods",
+        "CPR 24.2"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Short procedural judgment with clear outcome and reasoning. Dowelhurst is referenced but not materially analysed as a reported authority."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/154.json",
+    "status": "done",
+    "notes": "Batch 19 enrichment",
+    "enrichment": {
+      "short_title": "Police authority seat allocation and failed legitimate expectation claim",
+      "area_of_law": [
+        "Administrative law",
+        "Judicial review",
+        "Local government",
+        "Police governance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Act 1996",
+          "provisions": [
+            "section 4",
+            "Schedule 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Royal Borough of Windsor and Maidenhead sought judicial review after the Thames Valley Police Authority Joint Committee refused to appoint its Conservative nominee, Mr Hilton, to the police authority in 2002.",
+        "In 2000 the Royal Borough had agreed to nominate a Liberal Democrat councillor after the Joint Committee chairman wrote that due recognition might be given to the borough at the next allocation in 2002.",
+        "The Joint Committee maintained the existing party balance across the nine constituent councils, requiring the Royal Borough again to nominate a Liberal Democrat rather than a Conservative.",
+        "Maurice Kay J held that the June 2000 letter was not a clear and unambiguous representation capable of founding a substantive legitimate expectation, and that the 2002 decision was not irrational."
+      ],
+      "procedural_posture": "Judicial review of a police authority joint committee decision on councillor appointments, with subsequent summary costs assessment.",
+      "outcome": "Judicial review application dismissed; respondent's costs summarily assessed at £14,500.",
+      "ratio": "A letter from the chairman of a police authority joint committee expressing a personal willingness to try to accommodate a council's future nomination preferences does not, without clear and unambiguous authority, create a substantive legitimate expectation binding the committee; maintaining statutory political balance across the authority area can be a rational basis for refusing a change in seat allocation.",
+      "legal_issues": [
+        "Whether the Joint Committee chairman's June 2000 letter created a substantive legitimate expectation that the Royal Borough could appoint a Conservative in 2002",
+        "Whether the chairman had authority to bind the Joint Committee",
+        "Whether the Joint Committee's May 2002 refusal to appoint Mr Hilton was irrational"
+      ],
+      "catchwords": [
+        "legitimate expectation",
+        "police authority",
+        "joint committee",
+        "political balance",
+        "irrationality",
+        "judicial review",
+        "local government"
+      ],
+      "index_terms": [
+        "Royal Borough of Windsor and Maidenhead",
+        "Thames Valley Police Authority",
+        "Schedule 2 Police Act 1996",
+        "Coughlan",
+        "ex parte Baker"
+      ],
+      "linked_authorities": [
+        "R v North and East Devon Health Authority, ex parte Coughlan",
+        "R v Devon County Council, ex parte Baker",
+        "Robertson v Minister of Pensions",
+        "Matrix Securities Ltd v Inland Revenue Commissioners"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed judgment on legitimate expectation and irrationality with explicit outcome and costs. Lord Woolf MR is listed as a judge but Maurice Kay J appears to have delivered the substantive judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/537.json",
+    "status": "done",
+    "notes": "Batch 19 enrichment",
+    "enrichment": {
+      "short_title": "Listed building curtilage cannot be defined by fence erection motive",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Listed buildings",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 174",
+            "section 289"
+          ]
+        },
+        {
+          "title": "Town and Country Planning (General Permitted Development) Order 1995",
+          "provisions": [
+            "Schedule 2 Part II Class A",
+            "paragraph A.1(d)"
+          ]
+        },
+        {
+          "title": "Interpretation Act 1978",
+          "provisions": [
+            "section 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Denis Lowe appealed under section 289 against an inspector's decision upholding an enforcement notice requiring removal of a 650-metre chain-link fence alongside the driveway of Grade II listed Alresford Hall near Colchester.",
+        "Permitted development for fences would apply unless the development was within the curtilage of a listed building under paragraph A.1(d) of the 1995 Order.",
+        "The inspector treated Mr Lowe's stated security reasons for erecting the fence as evidence that the fence lay within the hall's curtilage.",
+        "Sir Richard Tucker held that curtilage must be assessed as at the time of the development and that the owner's reasons for erecting the fence could not define or prove curtilage; the driveway fence was outside the curtilage."
+      ],
+      "procedural_posture": "Section 289 appeal against a planning inspector's decision upholding an enforcement notice, with costs and permission to appeal applications.",
+      "outcome": "Inspector's decision quashed; appellant's costs ordered subject to a £300 deduction; permission to appeal refused.",
+      "ratio": "Whether development is within the curtilage of a listed building is a question of fact and degree to be determined by reference to physical layout, ownership and use or function as at the time of the development; the landowner's reasons for erecting a fence cannot define curtilage or show that land outside the immediate enclosure of the dwelling house falls within it.",
+      "legal_issues": [
+        "Whether a fence alongside a driveway to a listed mansion house was within the curtilage of the listed building",
+        "Whether the inspector lawfully relied on the appellant's reasons for erecting the fence in determining curtilage",
+        "What factors determine the curtilage of a listed building for permitted development purposes"
+      ],
+      "catchwords": [
+        "curtilage",
+        "listed building",
+        "enforcement notice",
+        "permitted development",
+        "planning permission",
+        "fence",
+        "inspector decision"
+      ],
+      "index_terms": [
+        "Alresford Hall",
+        "Denis Lowe",
+        "Dyer v Dorset County Council",
+        "Attorney-General ex rel Sutcliffe v Calderdale Borough Council",
+        "Skerritts of Nottingham Ltd",
+        "Methuen-Campbell v Walters"
+      ],
+      "linked_authorities": [
+        "Attorney-General ex rel Sutcliffe v Calderdale Borough Council",
+        "Dyer v Dorset County Council",
+        "Methuen-Campbell v Walters",
+        "Trim v Sturminster Rural District Council",
+        "Skerritts of Nottingham Ltd v Secretary of State for the Environment, Transport and the Regions"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed planning judgment with clear legal analysis and explicit quashing of the inspector's decision."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/193.json",
+    "status": "done",
+    "notes": "Batch 19 enrichment",
+    "enrichment": {
+      "short_title": "Co-defendant robbery appeal: Padula evidence and cross-examination limits",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Sentencing and appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78"
+          ]
+        },
+        {
+          "title": "Criminal Evidence Act 1898",
+          "provisions": [
+            "section 1(f)(iii)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Jeffrey Hobden and William Jamieson were convicted of robbing a 73-year-old man at his Suffolk cottage in February 2000 and sentenced to ten years' imprisonment.",
+        "The prosecution case rested heavily on accomplice Lee Padula's evidence, victim identification of Hobden, shoe prints, hotel and vehicle evidence linking both men to the scene, and post-robbery sightings in Brighton.",
+        "Jamieson complained that the judge wrongly restricted cross-examination about Hobden's involvement in related Sussex robberies; Hobden complained about severance, identification evidence, and exclusion of a note passed in the cells.",
+        "The Court of Appeal held the judge erred in limiting Jamieson's cross-examination but that both convictions remained safe; Hobden's renewed leave applications were refused."
+      ],
+      "procedural_posture": "Crown Court conviction appeals and renewed application for leave to appeal by Hobden, with reasons reserved after dismissal at the hearing.",
+      "outcome": "Appeals dismissed; Hobden's renewed applications refused.",
+      "ratio": "A co-defendant has an absolute right, subject to relevance, to cross-examine a prosecution witness on matters supporting his defence even if prejudicial to a co-defendant, and section 78 PACE does not empower a judge to exclude defence cross-examination; however, where the evidence against both defendants is overwhelming, an erroneous restriction on cross-examination about other robberies does not render a conviction unsafe.",
+      "legal_issues": [
+        "Whether Padula's accomplice evidence should have been excluded under section 78 PACE",
+        "Whether the judge wrongly restricted cross-examination about the Sussex robberies",
+        "Whether Hobden's identification evidence should have been withdrawn under Turnbull principles",
+        "Whether a note passed between co-defendants in the cells was admissible as real evidence",
+        "Whether the joint trial should have been severed"
+      ],
+      "catchwords": [
+        "robbery",
+        "accomplice evidence",
+        "Queen's evidence",
+        "identification",
+        "joint trial",
+        "cross-examination",
+        "section 78 PACE"
+      ],
+      "index_terms": [
+        "Jeffrey Hobden",
+        "William Jamieson",
+        "Lee Padula",
+        "Sussex robberies",
+        "Turnbull",
+        "R v Myers",
+        "R v McGovern"
+      ],
+      "linked_authorities": [
+        "R v McGovern",
+        "R v Myers",
+        "Murdoch v Taylor",
+        "Lobban v The Queen",
+        "R v Windass"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long reserved judgment with detailed fact findings and explicit disposal. Appellate panel named in source metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/227.json",
+    "status": "done",
+    "notes": "Batch 19 enrichment",
+    "enrichment": {
+      "short_title": "Jamaica asylum remittal where IAT ignored Article 3 protection issue",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Refugee Convention",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Althea Britton, a Jamaican citizen, claimed asylum and Article 3 protection based on politically motivated gang violence against her family in West Kingston, including murders, threats and the burning of the family home after she left Jamaica.",
+        "The special adjudicator accepted her evidence but rejected the asylum claim for lack of a Convention reason and dismissed the Article 3 claim for the same reasons, including reliance on an internal flight option.",
+        "The Immigration Appeal Tribunal held sufficiency of protection irrelevant once Convention reasons failed, yet briefly endorsed the adjudicator's view that Jamaican security forces were overzealous rather than ineffective.",
+        "The Court of Appeal held the Article 3 claim required separate consideration of sufficiency of protection and remitted the case to the IAT."
+      ],
+      "procedural_posture": "Appeal from the Immigration Appeal Tribunal dismissing asylum and human rights appeals against refusal of asylum.",
+      "outcome": "Appeal allowed with costs; case remitted to the IAT to reconsider sufficiency of protection.",
+      "ratio": "Failure to establish persecution for a Refugee Convention reason does not dispose of a separate Article 3 claim; where an appellant alleges a real risk of inhuman or degrading treatment from gang violence and inadequate state protection, the tribunal must consider sufficiency of protection on its own merits and cannot treat police being active or overzealous as equivalent to effective protection against targeted gang violence.",
+      "legal_issues": [
+        "Whether the IAT adequately reasoned its dismissal of the Article 3 human rights claim",
+        "Whether sufficiency of state protection is relevant to an Article 3 claim where Convention reasons for asylum are not made out",
+        "Whether the test for sufficiency of protection under Article 3 differs from that under the Refugee Convention"
+      ],
+      "catchwords": [
+        "asylum",
+        "Article 3",
+        "sufficiency of protection",
+        "Jamaica",
+        "gang violence",
+        "immigration appeal",
+        "internal flight"
+      ],
+      "index_terms": [
+        "Althea Britton",
+        "Immigration Appeal Tribunal",
+        "Horvath",
+        "Banomova",
+        "HLR v France",
+        "Krepel"
+      ],
+      "linked_authorities": [
+        "Horvath v Secretary of State for the Home Department",
+        "Banomova v Secretary of State for the Home Department",
+        "HLR v France",
+        "R (Dhima) v Immigration Appeal Tribunal",
+        "McPherson v Secretary of State for the Home Department",
+        "Secretary of State for the Home Department v Krepel"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear appellate reasoning on Article 3 procedural error with explicit remittal order. Potential Horvath/Krepel distinction flagged but not finally decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/67.json",
+    "status": "done",
+    "notes": "Batch 19 enrichment",
+    "enrichment": {
+      "short_title": "Section 208 TA 1988 exempts company distributions from corporation tax on gains",
+      "area_of_law": [
+        "Tax law",
+        "Corporation tax",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Income and Corporation Taxes Act 1988",
+          "provisions": [
+            "section 6",
+            "section 9",
+            "section 13",
+            "section 14",
+            "section 20",
+            "section 208",
+            "section 209",
+            "section 231",
+            "section 321",
+            "section 331",
+            "section 438",
+            "Schedule F"
+          ]
+        },
+        {
+          "title": "Taxation of Chargeable Gains Act 1992",
+          "provisions": [
+            "section 1",
+            "section 22",
+            "section 24",
+            "section 37"
+          ]
+        },
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 160",
+            "section 162",
+            "section 171"
+          ]
+        },
+        {
+          "title": "Finance Act 1965",
+          "provisions": [
+            "section 47",
+            "section 48",
+            "section 62",
+            "section 74",
+            "Schedule 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Strand Futures & Options Ltd sold half its 29.9% shareholding in City of London Options Ltd back to CLO for £871,630 in September 1995 and excluded the receipt from its capital gains computation.",
+        "HM Inspector of Taxes assessed SFOL to corporation tax on the basis that the payment was consideration for a disposal giving rise to a chargeable gain.",
+        "The Special Commissioners upheld the assessment under Revenue Statement of Practice SP 4/89, treating section 208 as exempting distributions only from an income tax charge and not from corporation tax on chargeable gains.",
+        "Etherton J held that CLO's purchase was an actual disposal, but that section 208 exempts all UK company distributions from corporation tax whether as income or as an ingredient of a capital gain."
+      ],
+      "procedural_posture": "Appeal from Special Commissioners dismissing an appeal against a corporation tax assessment for the accounting period ending 31 December 1995.",
+      "outcome": "Appeal allowed; payment on CLO's share buy-back not liable to corporation tax as a chargeable gain.",
+      "ratio": "Section 208 of the Income and Corporation Taxes Act 1988, properly interpreted in light of Finance Act 1965 section 47 and the policy against double taxation reflected in TCGA 1992 section 37, provides a general exemption from corporation tax on all distributions by UK resident companies, including distributions arising from a company's purchase of its own shares, whether treated as income or as part of a chargeable gain.",
+      "legal_issues": [
+        "Whether SFOL's sale of shares to CLO constituted an actual disposal for chargeable gains purposes",
+        "Whether section 208 TA 1988 exempts distributions only from corporation tax on income or also from corporation tax on chargeable gains",
+        "How Finance Act 1965 section 47 and TCGA 1992 section 37 inform the interpretation of section 208"
+      ],
+      "catchwords": [
+        "corporation tax",
+        "chargeable gains",
+        "distributions",
+        "share buy-back",
+        "section 208",
+        "advance corporation tax",
+        "double taxation"
+      ],
+      "index_terms": [
+        "Strand Futures and Options Ltd",
+        "City of London Options Ltd",
+        "SP 4/89",
+        "Hughes v Bank of New Zealand",
+        "Bird v IRC",
+        "Padmore v IRC"
+      ],
+      "linked_authorities": [
+        "Berry v Warnett",
+        "Powlson v Welbeck Securities Ltd",
+        "Hughes v Bank of New Zealand",
+        "Bird v IRC",
+        "Inland Revenue Commissioners v Garvin",
+        "Padmore v IRC (No 2)",
+        "Bibby v Prudential Assurance Co Ltd",
+        "Pearson v IRC"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Complex tax judgment with detailed statutory analysis and clear allowance of appeal. Judge metadata lists many historical law lords not present at the hearing and was not reproduced."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/246.json",
+    "status": "done",
+    "notes": "Batch 19 enrichment",
+    "enrichment": {
+      "short_title": "English magistrates' jurisdiction over Scottish dog bite under Dogs Act 1871",
+      "area_of_law": [
+        "Administrative law",
+        "Animal law",
+        "Magistrates' courts jurisdiction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Dogs Act 1871",
+          "provisions": [
+            "section 2"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 52"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Neil Shufflebottom, owner of a dog called Trigger ordinarily kept in Stockport, faced a complaint under section 2 of the Dogs Act 1871 after the dog bit Charlotte Gabbittas in a caravan in Kirkcudbright, Scotland, on 30 December 2001.",
+        "The magistrates accepted jurisdiction where the owner ordinarily kept the dog within their commission area, notwithstanding that the supporting incident occurred in Scotland.",
+        "The case stated asked whether English magistrates could hear a section 2 complaint based on conduct outside England and Wales where the owner ordinarily kept the dog locally.",
+        "Mackay J held that preventive justice under section 2 focuses on the owner within jurisdiction and that evidence of dangerous behaviour outside the area is admissible to support an order."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Stockport magistrates on jurisdiction to hear a Dogs Act 1871 complaint.",
+      "outcome": "Case stated answered in the affirmative; claimant ordered to pay respondent's costs summarily assessed at £2,644.05.",
+      "ratio": "Magistrates have jurisdiction under section 52 of the Magistrates' Courts Act 1980 to hear a section 2 Dogs Act 1871 complaint where the dog owner ordinarily keeps the dog within the commission area, even if the incident relied on occurred outside England and Wales; evidence of dangerous behaviour abroad is admissible because the proceedings are preventive and directed at ensuring proper control by an owner amenable to the court's jurisdiction.",
+      "legal_issues": [
+        "Whether English magistrates have jurisdiction to hear a Dogs Act 1871 complaint where the biting incident occurred in Scotland",
+        "How section 52 of the Magistrates' Courts Act 1980 applies to complaints relating to conduct outside the commission area",
+        "Whether evidence of a dog's behaviour outside the jurisdiction is admissible on a section 2 complaint"
+      ],
+      "catchwords": [
+        "dangerous dog",
+        "Dogs Act 1871",
+        "magistrates jurisdiction",
+        "cross-border",
+        "section 52",
+        "preventive justice",
+        "case stated"
+      ],
+      "index_terms": [
+        "Neil Shufflebottom",
+        "Trigger",
+        "Kirkcudbright",
+        "Lockett v Withey",
+        "R v Leicester Justices ex parte Workman"
+      ],
+      "linked_authorities": [
+        "Lockett v Withey",
+        "R v Leicester Justices, ex parte Workman"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Focused jurisdictional judgment with clear affirmative answer and supporting authority. Judge metadata lists historical chief justices not sitting on the appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/232.json",
+    "status": "done",
+    "notes": "Batch 19 enrichment",
+    "enrichment": {
+      "short_title": "Liberty to apply unsuitable for continuing SEN judicial review enforcement",
+      "area_of_law": [
+        "Administrative law",
+        "Education law",
+        "Special educational needs",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Education Act 1996",
+          "provisions": []
+        },
+        {
+          "title": "Education (Special Educational Needs) Regulations 1994",
+          "provisions": [
+            "Regulation 17"
+          ]
+        }
+      ],
+      "key_facts": [
+        "V, a severely disabled 13-year-old in Carlisle, succeeded in judicial review proceedings before Jackson J in March 2002 when Cumbria County Council was found in breach of statutory duties under her Statement of Special Educational Needs.",
+        "Her mother later applied under the liberty-to-apply provision in Jackson J's order, alleging continuing breaches relating to seating assessment, speech and language therapy, a hoist, staffing and review procedures.",
+        "The local authority disputed each allegation on affidavit evidence; V had not returned to James Rennie School and remained at home nearly a year after the order.",
+        "Wall J held that liberty to apply was not the appropriate procedure for disputed continuing breaches of statutory duty and made no order save discharging the liberty-to-apply paragraph."
+      ],
+      "procedural_posture": "Application under liberty to apply following successful judicial review of special educational needs provision, heard after directions from Maurice Kay J.",
+      "outcome": "No order on the liberty-to-apply application; paragraph 7 liberty to apply discharged; further JR applications to be listed before Jackson J on the papers.",
+      "ratio": "Liberty to apply may be used to clarify an order or establish a clear continuing breach, but it is not an appropriate vehicle for fresh or disputed allegations that a local authority has failed to comply with detailed mandatory orders in special educational needs cases; where the defendant denies breach on substantial factual issues, the claimant should bring a further application for permission to apply for judicial review specifying the breaches precisely.",
+      "legal_issues": [
+        "Whether alleged continuing failures to comply with mandatory SEN orders could be enforced by liberty to apply",
+        "Whether the court could determine disputed factual compliance without a fresh judicial review application",
+        "What procedural route is appropriate where a local authority denies breach of detailed special educational needs orders"
+      ],
+      "catchwords": [
+        "special educational needs",
+        "statement of SEN",
+        "judicial review",
+        "liberty to apply",
+        "local authority",
+        "education",
+        "mandatory order"
+      ],
+      "index_terms": [
+        "Cumbria County Council",
+        "James Rennie School",
+        "David Hart Walker",
+        "affective communication",
+        "Jackson J"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Procedural judgment with clear disposal. Original Jackson J judgment transcript unavailable; analysis based on the order and disputed affidavit evidence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/128.json",
+    "status": "done",
+    "notes": "Batch 19 enrichment",
+    "enrichment": {
+      "short_title": "EC Insolvency Regulation jurisdiction over Delaware company with UK centre of interests",
+      "area_of_law": [
+        "Insolvency law",
+        "Company law",
+        "EU law",
+        "Private international law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 8",
+            "section 8(7)",
+            "section 221",
+            "section 251",
+            "section 426"
+          ]
+        },
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 690A"
+          ]
+        },
+        {
+          "title": "Council Regulation (EC) No 1346/2000 on Insolvency Proceedings",
+          "provisions": [
+            "Article 2",
+            "Article 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "BRAC Rent-A-Car International Inc, incorporated in Delaware but trading almost entirely from Hemel Hempstead as manager of Budget group's European, Middle Eastern and African operations, petitioned for an English administration order.",
+        "The company was in US Chapter 11 proceedings, but creditors sought protection in England where an Italian arbitration award exceeding £1.1 million had been registered as a judgment.",
+        "Judgment creditors argued the EC Insolvency Regulation applied only to companies incorporated in Member States, not to entities incorporated outside the Community.",
+        "Lloyd J held that Article 3 of Regulation 1346/2000 gives jurisdiction where the centre of the debtor's main interests is in a Member State, regardless of place of incorporation, and made the administration order."
+      ],
+      "procedural_posture": "Administration petition by the company with reserved judgment on jurisdiction following opposition by judgment creditors.",
+      "outcome": "Administration order made; court held it had jurisdiction under the EC Insolvency Regulation.",
+      "ratio": "Article 3 of Council Regulation 1346/2000 confers jurisdiction to open main insolvency proceedings on the courts of the Member State where the centre of the debtor's main interests is situated, and that test is not limited to companies incorporated within the Community; a Delaware company whose operations, employees, contracts and administration are centred in England may be subject to English administration proceedings.",
+      "legal_issues": [
+        "Whether the EC Insolvency Regulation applies to a company incorporated outside the European Community",
+        "Where the centre of main interests of a Delaware company trading from England is located for Article 3 purposes",
+        "Whether section 8(7) of the Insolvency Act 1986 aligns domestic administration jurisdiction with the Regulation"
+      ],
+      "catchwords": [
+        "administration order",
+        "insolvency regulation",
+        "centre of main interests",
+        "cross-border insolvency",
+        "foreign company",
+        "Chapter 11",
+        "jurisdiction"
+      ],
+      "index_terms": [
+        "BRAC Rent-A-Car International Inc",
+        "Budget group",
+        "Hemel Hempstead",
+        "Regulation 1346/2000",
+        "Re Latreefers Inc",
+        "The Deichland"
+      ],
+      "linked_authorities": [
+        "Re Latreefers Inc",
+        "Re Dallhold Estates (UK) Pty",
+        "The Deichland",
+        "Société d'Importation Édouard Leclerc-Siplec v TF1 Publicité SA and M6 Publicité SA"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Reserved judgment on a novel jurisdictional point with detailed Regulation analysis and clear conclusion."
+      }
+    }
+  }
+]

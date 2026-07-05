@@ -1,0 +1,781 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2992.json",
+    "status": "done",
+    "notes": "Complete statutory appeal judgment on SENT evidence review; full text includes post-judgment corrections on witness names.",
+    "enrichment": {
+      "short_title": "SENT appeal allowed where tribunal misattributed head teacher's evidence on sensory room placement",
+      "area_of_law": [
+        "Education law",
+        "Special educational needs",
+        "Administrative law",
+        "Tribunal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Special Educational Needs Tribunal Regulations 1994",
+          "sections": ["reg 30(2)"]
+        }
+      ],
+      "key_facts": [
+        "E, a 12-year-old girl with profound and multiple learning difficulties, was due to transfer to secondary education; Wandsworth LEA named P School in Part 4 of her Statement.",
+        "Mother K appealed to the Special Educational Needs and Disability Tribunal, principally over access to a multi-sensory room; hydrotherapy and music therapy were largely resolved in her favour.",
+        "The Tribunal dismissed the placement appeal, finding P School's smaller sensory room adequate and attributing to Ms Charman, P's head teacher, that P was an appropriate placement.",
+        "On statutory appeal, Maurice Kay J compared the Tribunal's reasoning with the Chairman's notes and found no evidential basis for the attribution to Ms Charman; witness statements conflicted and could not be preferred over the notes."
+      ],
+      "procedural_posture": "Statutory appeal to the High Court against a Special Educational Needs and Disability Tribunal decision dismissing an appeal against a Statement of Special Educational Needs.",
+      "outcome": "Appeal allowed; Tribunal decision quashed and matter remitted to a fresh tribunal; costs to the appellant.",
+      "ratio": "On a statutory appeal against a SENT decision, where the tribunal's reasons depend on what witnesses said but no transcript exists, the court starts with the Chairman's notes; supplementary witness statements may be considered only where they agree or there is clear reason to prefer them, and a material misstatement of important witness evidence is a sufficient ground to allow the appeal and remit for redetermination.",
+      "legal_issues": [
+        "Whether the Tribunal materially misstated Ms Charman's evidence on the suitability of P School",
+        "What material the High Court may consider on a statutory appeal when no transcript of tribunal evidence exists",
+        "Whether the outcome would inevitably have been the same despite any misunderstanding"
+      ],
+      "catchwords": [
+        "special educational needs",
+        "SENT statutory appeal",
+        "Statement of Special Educational Needs",
+        "material error of fact",
+        "Chairman's notes",
+        "multi-sensory provision",
+        "school placement"
+      ],
+      "index_terms": [
+        "London Borough of Wandsworth",
+        "Special Educational Needs Tribunal",
+        "PMLD",
+        "Alconbury",
+        "S v Special Educational Needs Tribunal",
+        "Oxfordshire County Council v GB"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v Secretary of State for the Environment, ex p Alconbury Developments Ltd [2001] 2 WLR 1389",
+          "role": "considered"
+        },
+        {
+          "citation": "S v Special Educational Needs Tribunal [1995] 1 WLR 1627",
+          "role": "applied"
+        },
+        {
+          "citation": "Oxfordshire County Council v GB and others [2001] EWCA Civ 1358",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment with clear outcome and reasoning; metadata lists additional judges not appearing in the reserved judgment text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1631.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment; source summary field is truncated but full_text is complete.",
+    "enrichment": {
+      "short_title": "Package holiday ankle injury: Court of Appeal upholds general damages and future care award",
+      "area_of_law": [
+        "Personal injury",
+        "Damages",
+        "Package travel and holidays"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mrs Bygrave slipped on a wet hotel staircase during a Thomas Cook package holiday in Cyprus in June 1999, suffering a displaced trimalleolar ankle fracture requiring surgery and leaving permanent stiffness, scarring and progressive post-traumatic arthritis.",
+        "Negligence was admitted; the county court judge awarded £19,000 general damages (severe JSB bracket), £19,230 future care at £5.50/hour for 4 hours weekly, and £2,485 future taxi costs.",
+        "Thomas Cook appealed those three heads, contending the injury was moderate not severe, that future domestic help was unwarranted because the claimant worked as a cleaner then full-time sedentary employment, and that taxi costs lacked evidential support."
+      ],
+      "procedural_posture": "Appeal with permission of Kennedy LJ against a Deputy District Judge's multi-track assessment of damages in the Central London County Court.",
+      "outcome": "Appeal dismissed on all grounds; costs on an indemnity basis.",
+      "ratio": "An appellate court will not interfere with a trial judge's assessment of general damages unless the award is palpably wrong; where there is abundant evidence of disability affecting domestic chores and travel, awards for future care assistance and modest annual taxi costs inferred from mobility limitations are within the judge's legitimate discretion even if precise taxi usage is not proved.",
+      "legal_issues": [
+        "Whether the ankle injury fell within the JSB severe or moderate bracket",
+        "Whether future care costs were justified given prior employment as a cleaner and change to full-time sedentary work",
+        "Whether future taxi expenses were supported by sufficient evidence"
+      ],
+      "catchwords": [
+        "personal injury damages",
+        "general damages",
+        "future care",
+        "future travel expenses",
+        "ankle fracture",
+        "package holiday",
+        "JSB guidelines",
+        "appeal threshold"
+      ],
+      "index_terms": [
+        "Thomas Cook Tour Operations",
+        "trimalleolar fracture",
+        "Smith v Manchester",
+        "Kemp and Kemp comparables",
+        "contributory negligence not in issue"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed medical and damages analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2591.json",
+    "status": "done",
+    "notes": "Long but complete substantive judicial review judgment on planning permission delay and discretion.",
+    "enrichment": {
+      "short_title": "Late planning challenge refused despite publicity and EIA breaches; declaratory relief granted",
+      "area_of_law": [
+        "Planning law",
+        "Judicial review",
+        "Environmental law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Supreme Court Act 1981",
+          "sections": ["s 31(6)"]
+        },
+        {
+          "instrument": "Town and Country Planning Act 1990",
+          "sections": ["s 106", "s 173"]
+        },
+        {
+          "instrument": "Town and Country Planning (General Development Procedure) Order 1995",
+          "sections": ["art 8(4)"]
+        },
+        {
+          "instrument": "Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999",
+          "sections": ["reg 4", "reg 5", "reg 7"]
+        },
+        {
+          "instrument": "Human Rights Act 1998",
+          "sections": ["Art 6", "Art 8", "Art 1 Protocol 1"]
+        }
+      ],
+      "key_facts": [
+        "Haringey granted Wolseley planning permission in September 2000 for a building supplies warehouse at 460 Archway Road, Highgate; the claimant solicitor opposite the site only learned of it in April 2003 after site works began.",
+        "The council failed to advertise in a newspaper circulating locally and did not adopt a site notice; it also failed to adopt a screening opinion under the EIA Regulations.",
+        "Judicial review was commenced in May 2003, over 2½ years late; by hearing Wolseley had spent approaching £2 million on works under a fixed-price contract.",
+        "The claimant was not criticised for delay once he knew of the permission; Wolseley reasonably continued works without interim injunction."
+      ],
+      "procedural_posture": "Substantive judicial review after permission granted by Elias J; claim to quash planning permission or obtain declaratory relief.",
+      "outcome": "Quashing order refused under s 31(6) because of undue delay, substantial prejudice to Wolseley and detriment to good administration; declaration granted that the council failed to comply with publicity and EIA requirements.",
+      "ratio": "Serious procedural breaches in granting planning permission—including failure to comply with article 8(4)(b) local advertisement and failure to screen for EIA—would have warranted quashing if challenged promptly, but after very long delay where the developer has incurred very large expenditure in reliance on an apparently valid permission and the claimant is not to blame for ignorance, the court may refuse quashing relief under s 31(6) while still granting declaratory relief recording the authority's errors.",
+      "legal_issues": [
+        "Whether the council complied with major-development publicity requirements",
+        "Whether an environmental screening opinion was required and considered",
+        "How s 31(6) discretion applies where delay was caused by defective publicity",
+        "Whether hardship to Wolseley and detriment to good administration outweigh correcting the errors",
+        "Whether EU law prevents withholding relief for EIA breaches after delay"
+      ],
+      "catchwords": [
+        "planning permission",
+        "judicial review delay",
+        "s 31(6)",
+        "publicity requirements",
+        "environmental impact assessment",
+        "hardship and prejudice",
+        "detriment to good administration",
+        "declaratory relief"
+      ],
+      "index_terms": [
+        "Wolseley Centers",
+        "London Borough of Haringey",
+        "Archway Road Highgate",
+        "Berkeley v Secretary of State",
+        "Caswell",
+        "Lichfield Securities"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Berkeley v Secretary of State for the Environment [2001] 2 AC 603",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Dairy Produce Quota Tribunal, ex p Caswell [1990] 2 AC 738",
+          "role": "applied"
+        },
+        {
+          "citation": "R (Lichfield Securities Ltd) v Lichfield District Council [2001] PLCR 519",
+          "role": "considered"
+        },
+        {
+          "citation": "R v Tower Hamlets LBC, ex p Chetnik [1988] 1 AC 858",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Comprehensive judgment with detailed fact-finding and discretion analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3380.json",
+    "status": "done",
+    "notes": "Complete judgment on maintenance undertaking and income support exclusion.",
+    "enrichment": {
+      "short_title": "Informal sponsor undertaking valid for income support exclusion despite not using official form",
+      "area_of_law": [
+        "Social security",
+        "Immigration law",
+        "Judicial review",
+        "Public benefits"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Immigration Act 1971",
+          "sections": ["s 32"]
+        },
+        {
+          "instrument": "Immigration Rules (HC395)",
+          "sections": ["para 35", "para 317", "para 320"]
+        },
+        {
+          "instrument": "Income Support (General) Regulations 1987",
+          "sections": ["reg 21(3)(i)"]
+        },
+        {
+          "instrument": "Immigration and Asylum Act 1999",
+          "sections": ["s 115"]
+        },
+        {
+          "instrument": "Social Security Administration Act 1992",
+          "sections": ["s 178"]
+        }
+      ],
+      "key_facts": [
+        "Zar Begum, aged 71, entered the UK from Pakistan in May 1998 to join family on indefinite leave, supported by a written maintenance undertaking given by her son-in-law in March 1998.",
+        "The undertaking was prepared by solicitors, witnessed, and stated she would be maintained without recourse to public funds; it mistakenly referred to a six-month visit though settlement was intended.",
+        "Income support was initially awarded then suspended; the Benefits Agency and tribunals held the undertaking excluded entitlement under reg 21(3)(i) and later s 115.",
+        "The claimant argued the document was not a valid formal maintenance undertaking because it was not on form RON 112 or SET(F) and lacked certification and recovery warnings."
+      ],
+      "procedural_posture": "Judicial review of the Social Security Commissioner's refusal of leave to appeal against Coventry Appeal Tribunal rejection of income support claim.",
+      "outcome": "Application dismissed; leave to appeal refused; costs to the Secretary of State subject to legal aid enforcement restrictions.",
+      "ratio": "Whether a document is a maintenance undertaking for income support exclusion is a question of fact in each case; an undertaking need not be on a prescribed Home Office form if it is a formal written promise to maintain and accommodate without recourse to public funds given in pursuance of the Immigration Rules and relied on to grant leave to enter.",
+      "legal_issues": [
+        "Whether the March 1998 declaration was a maintenance undertaking within reg 21(3)(i) and s 115",
+        "Whether use of official forms RON 112 or SET(F) and Secretary of State certification is mandatory",
+        "Whether the six-month reference invalidated an undertaking for settlement",
+        "Whether leave to enter was granted on the basis of the undertaking"
+      ],
+      "catchwords": [
+        "maintenance undertaking",
+        "income support",
+        "public funds",
+        "immigration sponsorship",
+        "person subject to immigration control",
+        "social security commissioner",
+        "formality requirements"
+      ],
+      "index_terms": [
+        "Zar Begum",
+        "Mohammed Wahid",
+        "RON 112",
+        "SET(F)",
+        "CIS/2816/2002",
+        "dependent relative entry"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "CIS/2474/1999 (Social Security Commissioner)",
+          "role": "followed"
+        },
+        {
+          "citation": "CIS/47/02 (Social Security Commissioner)",
+          "role": "followed"
+        },
+        {
+          "citation": "CIS/2816/2002 (Social Security Commissioner)",
+          "role": "followed"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full first-instance judgment with clear statutory analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2598.json",
+    "status": "done",
+    "notes": "Complete judgment on two statutory arbitration appeals under 1995 local government reorganisation regulations.",
+    "enrichment": {
+      "short_title": "Creebeck landfill held surplus land on Darlington reorganisation; arbitrator had no power to award pre-notice interest",
+      "area_of_law": [
+        "Local government",
+        "Arbitration",
+        "Property transfer",
+        "Environmental law"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Local Government Changes for England (Property Transfer and Transitional Payments) Regulations 1995",
+          "sections": ["reg 5", "reg 8", "reg 10", "reg 14", "reg 16", "reg 17", "reg 18", "reg 19", "Schedule 1"]
+        },
+        {
+          "instrument": "Arbitration Act 1996",
+          "sections": ["s 49", "s 69", "s 94", "s 95"]
+        },
+        {
+          "instrument": "Local Government Act 1992",
+          "sections": ["s 17", "s 20(3)"]
+        },
+        {
+          "instrument": "Environmental Protection Act 1990",
+          "sections": ["s 51"]
+        },
+        {
+          "instrument": "Local Government Act 1972",
+          "sections": ["s 111", "s 120"]
+        }
+      ],
+      "key_facts": [
+        "Following Darlington's unitary reorganisation on 1 April 1997, Durham County Council and Darlington Borough Council disputed asset allocation under the 1995 Regulations.",
+        "DCC acquired the negative-value Creebeck landfill site in 1993 mainly to manage legacy pollution after tipping ceased in 1984; DBC contended it was surplus land not required for DBC's waste disposal functions.",
+        "Arbitrator Spence QC held monitoring was owner liability not a transferred waste disposal function; arbitrator Cochrane QC awarded DBC a capital reserve share plus interest from 1997."
+      ],
+      "procedural_posture": "Section 69(3) appeals to the High Court against two statutory arbitration awards under the 1995 Regulations, with leave of Blackburne J.",
+      "outcome": "Appeal against Spence award on Creebeck dismissed; appeal against Cochrane interest award allowed and paragraph 6.2 set aside.",
+      "ratio": "Land is required by an acquiring authority under reg 5(6)(b)(i) only if objectively necessary for the exercise of its statutory functions after reorganisation; post-closure monitoring of a full unlicensed landfill as owner is not s 51 waste disposal function, so Creebeck was surplus land. Interest under reg 18 runs only after sums become payable following the reg 16 notice after arbitration, and s 49 Arbitration Act 1996 does not fill the gap for earlier periods because the Regulations provide otherwise.",
+      "legal_issues": [
+        "Whether Creebeck was required by DBC for waste disposal functions or surplus land",
+        "Whether ownership or monitoring of a closed landfill is a local authority function under reg 5(6)(b)(i)",
+        "From which notice date transitional payment interest runs under regs 17 and 18",
+        "Whether the arbitrator could award interest under the Arbitration Act 1996 for the period before a reg 16 notice"
+      ],
+      "catchwords": [
+        "local government reorganisation",
+        "property transfer regulations",
+        "surplus land",
+        "landfill site",
+        "statutory arbitration",
+        "transitional payments",
+        "interest on awards",
+        "section 69 appeal"
+      ],
+      "index_terms": [
+        "Durham County Council",
+        "Darlington Borough Council",
+        "Creebeck",
+        "Malcolm Spence QC",
+        "Christopher Cochrane QC",
+        "Hazell v Hammersmith"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Hazell v Hammersmith and Fulham LBC [1992] 2 AC 29",
+          "role": "considered"
+        },
+        {
+          "citation": "Ashville Investments Ltd v Elmer Contractors Ltd [1989] QB 488",
+          "role": "cited"
+        },
+        {
+          "citation": "Sharkey v Secretary of State for the Environment (1992) P&CR 332",
+          "role": "cited"
+        },
+        {
+          "citation": "BP Chemicals Ltd v Kingdom Engineering (Fife) Ltd [1994] 2 Lloyd's Rep 373",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Detailed judgment with appendices reproducing key regulations."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1561.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on mandatory lifer review intervals and mootness.",
+    "enrichment": {
+      "short_title": "Mandatory lifer's post-Stafford review delay appeal dismissed despite release on hearing day",
+      "area_of_law": [
+        "Prison law",
+        "Human rights",
+        "Public law",
+        "Sentencing and parole"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Human Rights Act 1998",
+          "sections": ["s 2"]
+        },
+        {
+          "instrument": "European Convention on Human Rights",
+          "sections": ["Art 5(4)"]
+        }
+      ],
+      "key_facts": [
+        "Mr Murray received a mandatory life sentence for murder in 1974, was released on licence twice and recalled; after Stafford v UK the Home Secretary accelerated review timetables for mandatory lifers.",
+        "Following a January 2000 closed-conditions recommendation, the next review was not completed until April 2002 recommending open conditions testing with a further two-year review; accelerated to 15 months ending September 2003.",
+        "Pitchford J dismissed judicial review seeking an earlier Parole Board hearing; Murray was released on parole on the morning of the Court of Appeal hearing.",
+        "The court held the appeal was not academic because the interim Stafford compliance issues affected other mandatory lifers."
+      ],
+      "procedural_posture": "Appeal against refusal of judicial review concerning delay in Parole Board review of a recalled mandatory life prisoner pending legislative reform.",
+      "outcome": "Appeal dismissed; court declined to expand grounds beyond those decided below; permission refused on wider Article 5(4) procedure points.",
+      "ratio": "Article 5(4) requires reviews at reasonable intervals assessed on the facts; Strasbourg practice treats intervals over one year as generally requiring justification whereas up to one year may need particular grounds to show breach. Logistical difficulties after Stafford do not excuse excessive delay but may limit mandatory relief; where the prisoner has been released and no useful remedy remains, an appellate court should not substitute its own factual assessment of whether a 15-month interval was excessive.",
+      "legal_issues": [
+        "Whether the appeal was academic after the prisoner's release",
+        "What interval between Parole Board reviews satisfies Article 5(4) after expiry of tariff",
+        "Whether Pitchford J erred in treating delay as justified by resource constraints after Stafford",
+        "Whether review-interval decisions must be taken by a court rather than the Home Secretary"
+      ],
+      "catchwords": [
+        "mandatory life sentence",
+        "Article 5(4)",
+        "Parole Board review",
+        "Stafford v UK",
+        "recalled lifer",
+        "reasonable intervals",
+        "judicial review",
+        "mootness"
+      ],
+      "index_terms": [
+        "Murray",
+        "Home Secretary",
+        "Oldham v UK",
+        "Hirst v UK",
+        "R (Spence) v SSHD",
+        "Criminal Justice Bill 2003"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Stafford v The United Kingdom (2002) 35 EHRR 1121",
+          "role": "applied"
+        },
+        {
+          "citation": "Oldham v United Kingdom (2000) Application no 36273/97",
+          "role": "applied"
+        },
+        {
+          "citation": "Hirst v United Kingdom (2001) Application no 40787/98",
+          "role": "applied"
+        },
+        {
+          "citation": "R (MacNeil) v Parole Board [2001] EWCA Civ 448",
+          "role": "applied"
+        },
+        {
+          "citation": "R (Spence) v Secretary of State for the Home Department [2003] EWCA Civ 732",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full collective judgment with substantial obiter on review-interval procedure."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1547.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment applying Dietz to CPR 21.10 partial settlements.",
+    "enrichment": {
+      "short_title": "Defendant may repudiate pre-approval liability settlement with child claimant under CPR 21.10",
+      "area_of_law": [
+        "Civil procedure",
+        "Personal injury",
+        "Contract law",
+        "Minors"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Civil Procedure Rules 1998",
+          "sections": ["CPR 21.10", "CPR 36.10", "Part 8"]
+        },
+        {
+          "instrument": "Rules of the Supreme Court",
+          "sections": ["Ord 80 r 11", "Ord 80 r 12"]
+        }
+      ],
+      "key_facts": [
+        "Kerry Drinkall, injured cycling at 14, made a Part 36 offer accepted in April 2000 settling liability 80:20 in her favour through her litigation friend.",
+        "In September 2001, before she turned 18, the defendant withdrew intending to argue greater contributory negligence for lack of a cycling helmet.",
+        "County court judges held the April agreement binding; the defendant appealed, arguing CPR 21.10 required court approval and invalidated any pre-proceedings settlement.",
+        "The Court of Appeal held Dietz v Lennig Chemicals [1969] 1 AC 170 was decisive: until court approval either party may repudiate."
+      ],
+      "procedural_posture": "Second appeal with permission of Hale LJ against county court decisions on preliminary issue of validity of pre-issue liability compromise.",
+      "outcome": "Appeal allowed; settlement agreement held invalid and repudiation permitted; defendant succeeded on preliminary issue.",
+      "ratio": "CPR 21.10(1) renders settlements relating to a child claimant invalid without court approval once proceedings are begun or where Part 8 proceedings are issued solely for approval; until approval is given the agreement is only provisional and either party may lawfully repudiate, including partial liability settlements and Part 36 agreements, following Dietz on the materially identical Ord 80 rules.",
+      "legal_issues": [
+        "Whether CPR 21.10 applies to settlements reached before proceedings begin",
+        "Whether court approval is mandatory or optional for pre-issue agreements",
+        "Whether partial liability settlements fall within CPR 21.10(1)",
+        "Effect of Dietz on repudiation rights before approval"
+      ],
+      "catchwords": [
+        "CPR 21.10",
+        "child claimant",
+        "litigation friend",
+        "settlement approval",
+        "Part 36 offer",
+        "infant compromise",
+        "Dietz",
+        "partial settlement"
+      ],
+      "index_terms": [
+        "Kerry Drinkall",
+        "contributory negligence",
+        "cycling helmet",
+        "Ord 80",
+        "estoppel not argued"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Dietz v Lennig Chemicals Ltd [1969] 1 AC 170",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.97,
+        "level": "high",
+        "notes": "Clear unanimous judgment with direct House of Lords authority."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1545.json",
+    "status": "done",
+    "notes": "Complete patent appeal judgment; chemical structure descriptions in source use simplified notation.",
+    "enrichment": {
+      "short_title": "Alendronate patent revoked for Blum anticipation; weekly 70mg osteoporosis dosing claim excluded by s 4(2)",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Pharmaceutical law"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Patents Act 1977",
+          "sections": ["s 1(1)", "s 2", "s 3", "s 4(2)", "s 75", "s 76(3)", "s 125"]
+        }
+      ],
+      "key_facts": [
+        "UK Patent 2 118 042 (priority April 1982) claimed pharmaceutical compositions containing alendronate and related bisphosphonates for urolithiasis and inhibiting bone resorption.",
+        "European Patent (UK) 0 998 292 (priority July 1997) claimed use of about 70mg alendronate orally once weekly to treat osteoporosis while minimising GI adverse effects.",
+        "Jacob J revoked both patents; the Court of Appeal upheld anticipation and obviousness of 042 over Blum (November 1981) and held 292 claim 1 was a dosing regime excluded from patentability by s 4(2), following Bristol-Myers Squibb v Baker Norton."
+      ],
+      "procedural_posture": "Appeal with permission against Jacob J's revocation of two related bisphosphonate patents heard together at first instance.",
+      "outcome": "Appeal dismissed; permission to amend 292 specification refused; both patents remain revoked.",
+      "ratio": "Blum's direction to use C4 alendronate in pharmaceutical preparations anticipates claim 1 of 042 because a skilled person would read this as use as an active ingredient for bone disorders, and obviousness follows from established clinical use of related bisphosphonates. Claim 1 of 292 on its true construction claims a weekly dosing regime not a novel 70mg unit dosage form, and such a method-of-treatment claim is unpatentable under s 4(2); late amendment deleting example paragraphs added impermissible matter under s 76(3)(a).",
+      "legal_issues": [
+        "Whether Blum anticipated pharmaceutical composition claims for alendronate",
+        "Whether 042 was obvious over Blum given common general knowledge of bisphosphonates",
+        "Whether 292 claim 1 is a dosing regime or a novel dosage form",
+        "Whether s 4(2) excludes the 292 invention from patentability",
+        "Whether proposed amendment to 292 specification should be allowed"
+      ],
+      "catchwords": [
+        "patent validity",
+        "bisphosphonates",
+        "alendronate",
+        "anticipation",
+        "obviousness",
+        "method of treatment",
+        "dosing regime",
+        "pharmaceutical composition"
+      ],
+      "index_terms": [
+        "Istituto Gentili",
+        "Merck",
+        "Teva Pharmaceutical Industries",
+        "Blum EP 0 039 033",
+        "pamidronate",
+        "osteoporosis",
+        "Bristol-Myers Squibb v Baker Norton",
+        "General Tire"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "General Tire & Rubber Co v Firestone Tyre & Rubber Co [1972] RPC 457",
+          "role": "applied"
+        },
+        {
+          "citation": "Windsurfing International Inc v Tabur Marine (Great Britain) Ltd [1985] RPC 59",
+          "role": "applied"
+        },
+        {
+          "citation": "Bristol-Myers Squibb Co v Baker Norton Pharmaceuticals Inc [2001] RPC 1",
+          "role": "applied"
+        },
+        {
+          "citation": "Designers Guild Ltd v Russell Williams (Textiles) Ltd [2001] FSR 11",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long technical judgment; Kabachnik/Fleisch obviousness and Lunar News issues not finally decided on appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2757.json",
+    "status": "done",
+    "notes": "Complete appeal judgment from Solicitors Disciplinary Tribunal to High Court.",
+    "enrichment": {
+      "short_title": "Solicitor's £3,500 SDT fine reduced to £500 for delayed Law Society compensation payment",
+      "area_of_law": [
+        "Legal profession",
+        "Solicitors regulation",
+        "Professional discipline"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Solicitors Act 1974",
+          "sections": ["s 12", "Schedule 1A para 5"]
+        }
+      ],
+      "key_facts": [
+        "Solicitor Iqbal Kaur Dhillon failed to pay £350 compensation directed by a Client Relations Office decision of 6 November 2001 following a client complaint about delayed visa work and poor communication.",
+        "She did not respond to repeated Law Society letters, allegedly attempted payment by posting a cheque to an outdated address on 16 November 2001, and did not verify bank clearance.",
+        "Payment of £400 (including interest) was made on 2 January 2003, days before the Solicitors Disciplinary Tribunal hearing.",
+        "The Tribunal found conduct unbefitting and fined her £3,500 plus costs; she appealed findings and penalty."
+      ],
+      "procedural_posture": "Appeal to the High Court from a Solicitors Disciplinary Tribunal finding of conduct unbefitting a solicitor for failure to comply with a Client Relations Office compensation direction.",
+      "outcome": "Appeal allowed in part; fine reduced from £3,500 to £500; appellant to pay full investigation costs and half of hearing costs; finding of conduct unbefitting upheld.",
+      "ratio": "Failure to pay a Client Relations Office compensation award and to respond properly to the Law Society may properly be conduct unbefitting, but where the solicitor made some attempt to pay, telephoned the Society, and paid shortly before the hearing—and the Society failed to pass on the client's change of address—a fine at the upper end of previous comparators (£1,000–£2,500 for similar failures) was disproportionate; the Tribunal should also make explicit findings on disputed facts such as the alleged December telephone call.",
+      "legal_issues": [
+        "Whether there was no case to answer when the Society did not prove non-payment at the close of its case",
+        "Whether conduct unbefitting was made out for delayed compensation payment",
+        "Whether the £3,500 fine was appropriate given mitigating circumstances",
+        "Proper presentation of Client Relations Office enforcement cases"
+      ],
+      "catchwords": [
+        "solicitors disciplinary tribunal",
+        "conduct unbefitting",
+        "Client Relations Office",
+        "compensation order",
+        "Office for the Supervision of Solicitors",
+        "professional discipline",
+        "penalty appeal"
+      ],
+      "index_terms": [
+        "Iqbal Kaur Dhillon",
+        "Law Society",
+        "Bolton v Law Society",
+        "Langford v Law Society",
+        "visa application complaint"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Bolton v Law Society [1994] 1 WLR 512",
+          "role": "cited"
+        },
+        {
+          "citation": "Langford v Law Society",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full appeal judgment with detailed procedural criticism and penalty analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2778.json",
+    "status": "done",
+    "notes": "Complete judgment on IAT permission refusal and changed country conditions after Ivory Coast coup.",
+    "enrichment": {
+      "short_title": "Ivorian asylum seeker cannot reopen IAT refusal using post-adjudicator coup evidence",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Judicial review",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Immigration Act 1971",
+          "sections": ["s 16(1)"]
+        },
+        {
+          "instrument": "Immigration and Asylum Act 1999",
+          "sections": ["s 65", "s 69(5)", "s 74"]
+        },
+        {
+          "instrument": "Immigration Rules (HC395)",
+          "sections": ["para 336"]
+        },
+        {
+          "instrument": "Immigration and Asylum (Procedure) Rules 2000",
+          "sections": ["r 18(6)", "r 18(7)"]
+        },
+        {
+          "instrument": "European Convention on Human Rights",
+          "sections": ["Art 2", "Art 3", "Art 8"]
+        },
+        {
+          "instrument": "1951 Refugee Convention",
+          "sections": []
+        }
+      ],
+      "key_facts": [
+        "Ms Diaby, a Muslim Ivorian from Daloa, claimed asylum after attacks by Christian neighbours in February 2001; she arrived in the UK in March 2001 and claimed asylum in October 2001.",
+        "An adjudicator dismissed asylum and human rights appeals on 27 September 2002, finding no well-founded fear of persecution; she lives with an Ivorian partner and has a UK-born child.",
+        "A failed coup in Côte d'Ivoire on 19 September 2002 worsened civil conditions but was not raised in grounds of appeal to the IAT, which refused permission on 18 December 2002 noting removal would await calm.",
+        "On judicial review the claimant relied on extensive post-coup country evidence not before the IAT."
+      ],
+      "procedural_posture": "Judicial review of the Immigration Appeal Tribunal's refusal of permission to appeal an adjudicator's dismissal of asylum and human rights claims.",
+      "outcome": "Application dismissed; Secretary of State undertook not to remove for 14 days; permission to appeal refused; claimant advised to bring fresh challenge if removal directions issued.",
+      "ratio": "The IAT permission stage forms part of the overall decision-making process, but where an adjudicator's decision was unassailable on the evidence before her, later country-condition material known to the IAT Vice President but not pleaded or evidenced cannot be used on judicial review to show the adjudicator was wrong; the proper route is a fresh challenge to removal based on up-to-date country evidence, not quashing a permission refusal.",
+      "legal_issues": [
+        "Whether the IAT had a duty to investigate and weigh known but unpleaded facts about the Ivory Coast coup",
+        "Whether post-adjudicator changed country conditions can invalidate an earlier unobjectionable adjudicator decision on JR of permission refusal",
+        "Application of Ravichandran, Robinson and Haile to unpleaded points",
+        "Whether the claimant should pursue fresh removal proceedings instead"
+      ],
+      "catchwords": [
+        "asylum appeal",
+        "permission to appeal",
+        "Immigration Appeal Tribunal",
+        "changed country conditions",
+        "Côte d'Ivoire",
+        "judicial review",
+        "unpleaded evidence",
+        "Article 3"
+      ],
+      "index_terms": [
+        "Shara Diaby",
+        "Daloa",
+        "Mahmood",
+        "Ravichandran",
+        "Haile",
+        "internal relocation not arising"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Ravichandran v Secretary of State for the Home Department [1996] Imm AR 97",
+          "role": "distinguished"
+        },
+        {
+          "citation": "R v Immigration Appeal Tribunal, ex p Robinson [1997] 4 All ER 210",
+          "role": "distinguished"
+        },
+        {
+          "citation": "Haile v Immigration Appeal Tribunal [2002] INLR 283",
+          "role": "distinguished"
+        },
+        {
+          "citation": "Mahmood v Secretary of State for the Home Department",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment; country conditions at hearing date (April 2003 FCO advice) noted but current position at judgment date not evidenced."
+      }
+    }
+  }
+]

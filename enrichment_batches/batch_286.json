@@ -1,0 +1,765 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/pat/2004/1342.json",
+    "status": "needs_review",
+    "notes": "Interlocutory Norwich Pharmacal application; timing refusal only, not a final merits decision on infringement.",
+    "enrichment": {
+      "short_title": "BASF refused early Norwich Pharmacal disclosure of pesticide supplier",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Civil procedure",
+        "Agricultural chemicals"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "BASF AG sued ME2 Crop Protection for selling metazachlor under the name BOUNTY in alleged breach of BASF's patent.",
+        "ME2 initially claimed the imported product came from BASF or its associates and was legitimately on the market under EC exhaustion of rights.",
+        "ME2 later conceded the product was not from BASF or its licensees and appeared outside the Pesticide Safety Directorate marketing approval.",
+        "BASF sought disclosure of ME2's foreign supplier to enable possible proceedings abroad, while an interlocutory injunction already protected the UK market."
+      ],
+      "procedural_posture": "Interlocutory application in patent infringement proceedings for Norwich Pharmacal-type disclosure of a foreign supplier.",
+      "outcome": "Application refused at this stage; disclosure deferred because the interlocutory injunction already protected BASF and ME2's non-infringement case might succeed at trial.",
+      "ratio": "Where an interlocutory injunction already protects the claimant's market and the defendant may succeed on non-infringement, it is inappropriate at that stage to order Norwich Pharmacal disclosure of the defendant's foreign supplier; the refusal is without prejudice to a further application if circumstances materially change.",
+      "legal_issues": [
+        "Whether Norwich Pharmacal disclosure of a foreign supplier should be ordered before trial",
+        "Effect of an existing interlocutory injunction on the timing of disclosure relief",
+        "Whether possible success on non-infringement removes the basis for supplier disclosure"
+      ],
+      "catchwords": [
+        "Norwich Pharmacal",
+        "patent infringement",
+        "metazachlor",
+        "interlocutory injunction",
+        "foreign supplier",
+        "exhaustion of rights"
+      ],
+      "index_terms": [
+        "BASF AG",
+        "ME2 Crop Protection",
+        "BOUNTY",
+        "pesticide import",
+        "PSD approval",
+        "disclosure timing"
+      ],
+      "linked_authorities": [
+        "Norwich Pharmacal Co v Customs and Excise Commissioners [1974] AC 133"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Short interlocutory ruling with clear outcome and reasoning, but no final infringement or validity decision."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/654.json",
+    "status": "needs_review",
+    "notes": "Judges field is empty in source metadata; judgment otherwise complete with important procedural guidance.",
+    "enrichment": {
+      "short_title": "Pharis deportation appeal refused; no automatic stay on filing notice",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 78",
+            "section 101",
+            "section 103",
+            "section 104"
+          ]
+        },
+        {
+          "title": "Immigration (Removal Directions) Regulations 2000",
+          "provisions": [
+            "regulation 4"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 52.7",
+            "CPR 52.15"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ben Pharis sought permission to appeal Maurice Kay J's refusal of judicial review of removal directions to Nigeria, claiming Sierra Leonean origin.",
+        "Maurice Kay J held removal was lawful because Nigeria was willing to receive him even if he was not a Nigerian national.",
+        "Pharis filed his notice of appeal out of time and was deported to Nigeria on 10 November 2003 after the Home Office failed to act on the Treasury Solicitor's deferral request.",
+        "The Home Office apologised after repeated court requests for an explanation of the administrative failure."
+      ],
+      "procedural_posture": "Application for permission to appeal out of time against refusal of permission for judicial review in an immigration removal case.",
+      "outcome": "Permission to appeal refused; the Court of Appeal announced that filing a notice of appeal in immigration judicial review cases will no longer automatically stay deportation unless a judge grants a stay on application.",
+      "ratio": "CPR 52.7 means an appeal does not automatically stay removal unless ordered; in immigration judicial review cases appellants must apply expressly for a stay, and unmeritorious appeals such as Pharis's would not have received one; deportation after filing a notice without a stay is not necessarily wrongful.",
+      "legal_issues": [
+        "Whether removal directions to Nigeria were lawful under regulation 4 of the Immigration (Removal Directions) Regulations 2000",
+        "Whether Pharis's notice of appeal operated as a stay of deportation",
+        "Whether the Home Office acted unlawfully in deporting Pharis while an appeal was pending",
+        "Whether the Court of Appeal should change practice on automatic deferral of removal after filing a notice of appeal"
+      ],
+      "catchwords": [
+        "immigration removal",
+        "permission to appeal",
+        "stay of deportation",
+        "judicial review",
+        "CPR 52.7",
+        "Concordat"
+      ],
+      "index_terms": [
+        "Nigeria",
+        "Sierra Leone",
+        "Treasury Solicitor",
+        "Civil Appeals Office",
+        "Nationality Immigration and Asylum Act 2002",
+        "abuse of process"
+      ],
+      "linked_authorities": [
+        "R (Nine Nepalese Asylum Seekers) v Immigration Appeal Tribunal [2003] EWCA Civ 1892"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome, statutory framework, and new practice guidance are explicit. Judges metadata missing from source file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/652.json",
+    "status": "needs_review",
+    "notes": "Judges metadata corrupted (duplicate and historical names); merits reasoning on CPR 7.6(2) is otherwise clear.",
+    "enrichment": {
+      "short_title": "CPR 7.6(2) extension refused after solicitor's service delay",
+      "area_of_law": [
+        "Civil procedure",
+        "Personal injury",
+        "Limitation",
+        "Road traffic accidents"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 1.1",
+            "CPR 1.2",
+            "CPR 3.1",
+            "CPR 3.4",
+            "CPR 7.5",
+            "CPR 7.6",
+            "CPR 23.10"
+          ]
+        },
+        {
+          "title": "Legal Aid Act 1988",
+          "provisions": [
+            "section 17"
+          ]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": [
+            "section 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Hashtroodi suffered tetraplegia in a road traffic accident on 21 January 2000 and issued a claim form on 13 January 2001, eight days before limitation expired.",
+        "His solicitors failed to serve within four months and obtained a without-notice three-week extension from Master Tennant one working day before expiry.",
+        "Service on nominated solicitors via DX was probably lost; Deputy Master Eastman refused to set aside the extension and to strike out for non-service.",
+        "The Court of Appeal held the only reason for non-service was solicitor incompetence, not insurer delay in nominating solicitors."
+      ],
+      "procedural_posture": "Appeal by defendant against refusal to set aside a without-notice CPR 7.6 extension of time for service and against dismissal of a strike-out application.",
+      "outcome": "Appeal allowed; Master Tennant's extension set aside; claimant to pay defendant's costs of the action and appeal.",
+      "ratio": "CPR 7.6(2) does not import the pre-CPR 'good reason' threshold from RSC Ord 6 r 8; the discretion must be exercised under the overriding objective, but failure to serve through solicitor incompetence after issuing at the last moment is a powerful reason to refuse an extension, especially where personal service on the defendant was readily available.",
+      "legal_issues": [
+        "Whether CPR 7.6(2) requires 'good reason' for failure to serve within the specified period",
+        "How the overriding objective governs extensions of time under CPR 7.6(2)",
+        "Whether a without-notice extension obtained by incompetent solicitors should be set aside",
+        "Whether service by DX under the former practice direction was effective (left undecided as moot)"
+      ],
+      "catchwords": [
+        "extension of time",
+        "service of claim form",
+        "CPR 7.6",
+        "overriding objective",
+        "limitation",
+        "personal injury"
+      ],
+      "index_terms": [
+        "Hashtroodi",
+        "road traffic accident",
+        "tetraplegia",
+        "without notice application",
+        "Kleinwort Benson",
+        "Biguzzi v Rank Leisure"
+      ],
+      "linked_authorities": [
+        "Kleinwort Benson Ltd v Barbrak Ltd [1987] 1 AC 597",
+        "Biguzzi v Rank Leisure plc [1999] 1 WLR 1926",
+        "Godwin v Swindon BC [2002] EWCA Civ 1478",
+        "Robert v Momentum Services Ltd [2003] EWCA Civ 299",
+        "Vinos v Marks & Spencer plc [2001] 3 All ER 784"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Leading procedural reasoning on CPR 7.6(2) is detailed and explicit. Judges field in source is unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/821.json",
+    "status": "done",
+    "notes": "Anonymised family appeal; court held disclosure to violent non-resident father was not a justiciable issue for the court.",
+    "enrichment": {
+      "short_title": "Terminally ill child's father not to be told by court order",
+      "area_of_law": [
+        "Family law",
+        "Children law",
+        "Human rights",
+        "Local authority law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 1",
+            "section 8",
+            "section 10",
+            "section 34",
+            "section 35"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A four-year-old seriously ill child lived with his mother and stepfather under a residence order with a supervision order.",
+        "The father had no parental responsibility, a history of violence and drug offending, and had disclaimed interest in the child.",
+        "A circuit judge adjourned whether the local authority should tell the father of the child's terminal illness; Judge D ordered the authority to offer disclosure.",
+        "The mother appealed with Judge D's encouragement, arguing disclosure would risk violent disruption of the child's final weeks."
+      ],
+      "procedural_posture": "Appeal against a specific issue order requiring a local authority to inform a non-resident father of his child's terminal medical condition.",
+      "outcome": "Appeal allowed; paragraphs requiring the local authority to convey information to the father discharged; decision left to those with parental responsibility.",
+      "ratio": "Where no live dispute between parents falls to be decided, the court should not intervene under the non-interventionist Children Act 1989 to compel disclosure of a terminally ill child's condition to a violent father without parental responsibility; those with parental responsibility may decide not to inform him, and any Article 8 rights of the father are outweighed on the facts.",
+      "legal_issues": [
+        "Whether the court had jurisdiction to order disclosure of a child's medical condition to the father",
+        "Whether a specific issue order was appropriate after discharge of the care order",
+        "Whether the local authority's supervision order role justified passing information to the father",
+        "Whether refusing disclosure breached the father's Article 8 ECHR rights"
+      ],
+      "catchwords": [
+        "specific issue order",
+        "parental responsibility",
+        "terminal illness",
+        "non-intervention",
+        "supervision order",
+        "anonymity"
+      ],
+      "index_terms": [
+        "Children Act 1989",
+        "residence order",
+        "local authority",
+        "Article 8",
+        "disclosure to father",
+        "Hackney"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Anonymised but complete judgment with clear ratio on justiciability and parental responsibility."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/663.json",
+    "status": "done",
+    "notes": "Long SSSI confirmation appeal; full merits judgment with clear dismissal and reported authority.",
+    "enrichment": {
+      "short_title": "Breckland farmland SSSI confirmation upheld against landowners",
+      "area_of_law": [
+        "Environmental law",
+        "Administrative law",
+        "Judicial review",
+        "Agricultural land",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Wildlife and Countryside Act 1981",
+          "provisions": [
+            "section 28"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "Article 1 Protocol 1"
+          ]
+        },
+        {
+          "title": "Council Directive 79/409/EEC (Birds Directive)",
+          "provisions": []
+        },
+        {
+          "title": "Council Directive 92/43/EEC (Habitats Directive)",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Major Breckland landowners challenged English Nature's confirmation of about 13,335 hectares as a Site of Special Scientific Interest for an internationally important stone-curlew population.",
+        "English Nature notified the site in November 2000 and confirmed it in August 2001 after council approval in July 2001.",
+        "Lightman J dismissed the judicial review in July 2003, holding the confirmation lawful under section 28.",
+        "The appellants argued English Nature took account of immaterial considerations, misapplied section 28, and breached Article 1 Protocol 1."
+      ],
+      "procedural_posture": "Appeal with permission on three grounds against dismissal of judicial review challenging confirmation of SSSI notification.",
+      "outcome": "Appeal dismissed; confirmation lawful; permission to appeal to the House of Lords refused; appellants to pay respondent's costs.",
+      "ratio": "English Nature lawfully notified and confirmed Breckland Farmland as an SSSI under section 28 of the Wildlife and Countryside Act 1981 by directing its mind to the statutory criteria and guidelines independently of conflicting government policy; the decision was not vitiated by immaterial considerations, procedural irregularity, or disproportionate impact on the landowners' Article 1 Protocol 1 rights.",
+      "legal_issues": [
+        "Whether English Nature erred by taking immaterial considerations into account on confirmation",
+        "The correct construction of section 28 and the distinction between SSSI notification and SPA designation",
+        "Whether the appellants should have challenged an earlier 2000 habitat policy decision",
+        "Whether SSSI confirmation disproportionately interfered with Article 1 Protocol 1 rights"
+      ],
+      "catchwords": [
+        "SSSI",
+        "site of special scientific interest",
+        "stone-curlew",
+        "English Nature",
+        "section 28",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Breckland",
+        "Norfolk",
+        "Suffolk",
+        "Wildlife and Countryside Act 1981",
+        "Birds Directive",
+        "Article 1 Protocol 1"
+      ],
+      "linked_authorities": [
+        "R (Fisher and others) v English Nature [2004] 1 WLR 503",
+        "R (Fisher and others) v English Nature [2003] EWHC 1599 (Admin)"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full reported appeal with detailed statutory analysis and explicit outcome. Lengthy but complete text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1294.json",
+    "status": "needs_review",
+    "notes": "Judges field empty in source metadata; otherwise a substantial conviction appeal judgment on hearsay admissibility.",
+    "enrichment": {
+      "short_title": "Video interview of Alzheimer's complainant admissible under section 23",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Sexual offences",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 23",
+            "section 26"
+          ]
+        },
+        {
+          "title": "Youth Justice and Criminal Evidence Act 1999",
+          "provisions": [
+            "section 53"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78",
+            "Code C paragraph 11.4"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 85"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant Sed, a minicab driver, was convicted of attempted rape of an 81-year-old woman with moderate to severe Alzheimer's disease in a care home.",
+        "DNA matching the appellant was found on the complainant's knickers and an anal swab; he admitted consensual sexual contact but denied intercourse.",
+        "The prosecution relied on a video-recorded police interview of the complainant under sections 23 and 26 of the Criminal Justice Act 1988.",
+        "Psychiatrists agreed she was unfit to give live evidence and unreliable on detail but recalled an unpleasant sexual incident."
+      ],
+      "procedural_posture": "Appeal against conviction with renewed applications on hearsay admissibility, jury directions, and PACE Code C breach; sentence appeal also renewed.",
+      "outcome": "Conviction appeal dismissed on all grounds; leave refused on remaining grounds including jury direction and second interview admissibility.",
+      "ratio": "Section 23 of the Criminal Justice Act 1988 does not require common-law competence at the threshold; competence in the section 53 sense and reliability are matters for the section 26 interests-of-justice discretion, which the trial judge properly exercised in admitting the video interview of a vulnerable complainant whose account could be tested against medical and DNA evidence.",
+      "legal_issues": [
+        "Whether competence is a precondition of admissibility under section 23",
+        "What test of competence applies to video-recorded hearsay under section 26",
+        "Whether admission of the complainant's interview was in the interests of justice and fair under section 78 and Article 6",
+        "Whether jury directions on the interview were adequate",
+        "Whether the second police interview breached Code C paragraph 11.4"
+      ],
+      "catchwords": [
+        "hearsay",
+        "section 23",
+        "section 26",
+        "Alzheimer's disease",
+        "attempted rape",
+        "video interview"
+      ],
+      "index_terms": [
+        "Sed",
+        "care home",
+        "DNA evidence",
+        "competence",
+        "R v D",
+        "PACE Code C"
+      ],
+      "linked_authorities": [
+        "R v D [2002] 2 Cr App R 36",
+        "A v United Kingdom (1998) 27 EHRR 611",
+        "R v Ioannou [1999] Crim LR 586",
+        "Prouse v DPP [1999] Archbold News 2"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed appellate analysis of CJA 1988 hearsay framework. Judges metadata absent from source."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1205.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists historical Law Lords alongside the trying judge; partial damages assessment only after other claims stayed.",
+    "enrichment": {
+      "short_title": "Barrister's negligent LRH Act advice damages assessed at £213,365",
+      "area_of_law": [
+        "Professional negligence",
+        "Leasehold law",
+        "Damages",
+        "Property investment"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Leasehold Reform, Housing and Urban Development Act 1993",
+          "provisions": [
+            "section 7",
+            "section 42",
+            "section 43",
+            "section 45",
+            "section 48",
+            "section 49",
+            "section 56",
+            "Schedule 13"
+          ]
+        },
+        {
+          "title": "Rent Act 1977",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Trustee freeholders of Muswell Hill Broadway property sued solicitors and a barrister for negligence over leasehold enfranchisement notices served on tenant Mrs Tuttle.",
+        "The barrister admitted negligence in failing to advise that Mrs Tuttle's leases were not qualifying leases because each granted term was less than 21 years from the date of grant.",
+        "After a compromise treating Mrs Tuttle as entitled, the landlords granted long leases at premiums below open market value.",
+        "Only the barrister's admitted negligence on qualifying lease status was assessed; other allegations against both defendants were stayed."
+      ],
+      "procedural_posture": "Assessment of damages on one admitted allegation of barrister's negligence after partial stay of professional negligence claims.",
+      "outcome": "Damages assessed at £213,365 plus interest at 6.5% from 18 July 2001; much of the claimed loss attributed to later compromise over invalid counter-notices was excluded under SAAMCO causation analysis.",
+      "ratio": "Loss flowing from compromise of proceedings over allegedly invalid counter-notices was not caused by negligent advice conceding qualifying lease status but by separate notice defects; damages for the admitted negligence must credit the premium an LVT would have fixed in July 2001 rather than the later compromise figure, and the block should be valued on an investment basis as at the date of the negligent act.",
+      "legal_issues": [
+        "Whether loss from later compromise was caused by negligent advice on qualifying leases or by separate notice defects",
+        "Application of SAAMCO and The Oropesa to mitigation and causation",
+        "How to credit premiums and value the landlord's investment interest",
+        "Whether the property should be severed for loss assessment",
+        "The appropriate date for assessing damages"
+      ],
+      "catchwords": [
+        "professional negligence",
+        "qualifying lease",
+        "leasehold enfranchisement",
+        "SAAMCO",
+        "damages assessment",
+        "counter-notice"
+      ],
+      "index_terms": [
+        "Muswell Hill Broadway",
+        "Leasehold Reform Act 1993",
+        "barrister negligence",
+        "LVT premium",
+        "investment valuation",
+        "Mrs Tuttle"
+      ],
+      "linked_authorities": [
+        "South Australia Asset Management Corp v York Montague Ltd [1997] AC 191",
+        "The Oropesa [1943] P 32",
+        "Bell v Peter Browne [1990] 2 QB 495"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Detailed damages judgment on one stayed-down issue. Corrupted judges metadata and partial scope warrant review."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/1231.json",
+    "status": "needs_review",
+    "notes": "Interlocutory refusal of summary judgment and strike-out in ongoing harassment injunction proceedings; merits not finally decided.",
+    "enrichment": {
+      "short_title": "HLS denied summary judgment against SHAC protest leaders",
+      "area_of_law": [
+        "Tort law",
+        "Harassment",
+        "Injunctions",
+        "Human rights",
+        "Animal rights protest",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Protection from Harassment Act 1997",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 3",
+            "section 7"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 37"
+          ]
+        },
+        {
+          "title": "Public Order Act 1986",
+          "provisions": [
+            "section 4A",
+            "section 5",
+            "section 14",
+            "section 16"
+          ]
+        },
+        {
+          "title": "Anti-social Behaviour Act 2003",
+          "provisions": [
+            "section 30"
+          ]
+        },
+        {
+          "title": "Criminal Evidence Act 1968",
+          "provisions": [
+            "section 11"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 10",
+            "Article 11"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 19.6",
+            "CPR 24.2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Huntingdon Life Sciences sought final injunctive relief against SHAC and individual protest leaders to restrain harassment of employees and related unlawful campaign activity.",
+        "Interim injunctions had been in force since April 2003 following evidence of intimidation, assaults, and supplier targeting.",
+        "Key defendants had past convictions for public order offences and conspiracy to incite public nuisance linked to the SHAC campaign.",
+        "Defendants argued they had renounced unlawful tactics since 2001 and that CPR 19.6 representative proceedings and ECHR issues required a full trial."
+      ],
+      "procedural_posture": "Applications to strike out the defence and for summary judgment against defending SHAC activists while interim harassment injunctions remained in force pending trial.",
+      "outcome": "Strike-out and summary judgment applications refused; case to proceed to trial with interim injunction continuing; case management directions to follow.",
+      "ratio": "Despite a strong claimant case based on convictions and campaign material, the defendants had a real prospect of showing changed conduct and raised triable issues on CPR 19.6 representative proceedings, ECHR balancing, and discretionary injunctive relief; there was a compelling public interest reason for a full trial rather than summary disposal.",
+      "legal_issues": [
+        "Whether summary judgment should be granted under CPR 24.2 for harassment under the 1997 Act",
+        "Whether past convictions alone justify a final injunction without trial",
+        "Whether CPR 19.6 permits representative claims on behalf of HLS employees",
+        "Whether a limited company may bring a claim under the Protection from Harassment Act 1997",
+        "How Articles 10 and 11 ECHR affect injunctive relief against protest activity"
+      ],
+      "catchwords": [
+        "harassment",
+        "animal rights",
+        "summary judgment",
+        "SHAC",
+        "injunction",
+        "CPR 19.6"
+      ],
+      "index_terms": [
+        "Huntingdon Life Sciences",
+        "Stop Huntingdon Animal Cruelty",
+        "Protection from Harassment Act 1997",
+        "vivisection protest",
+        "Burris v Azadani",
+        "interim injunction"
+      ],
+      "linked_authorities": [
+        "Burris v Azadani [1995] 4 All ER 802",
+        "DPP v Dziurzynski [2002] EWHC 1380 (Admin)",
+        "M Michaels (Furriers) Ltd v Askey [1983] The Times, 25 June 1983"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Interlocutory procedural ruling with rich factual background but no final liability determination."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1234.json",
+    "status": "needs_review",
+    "notes": "Return-date ruling on without-notice anti-suit injunction in concurrent English and New York reinsurance proceedings.",
+    "enrichment": {
+      "short_title": "Anti-suit injunction continued against New York arbitration petition",
+      "area_of_law": [
+        "Arbitration",
+        "Conflict of laws",
+        "Insurance and reinsurance",
+        "Civil procedure",
+        "Anti-suit injunction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 9"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Tonicstar, capital provider to Lloyd's Syndicate 1861, sued American Home Assurance in England for misrepresentation and non-disclosure over a facultative excess-of-loss reinsurance.",
+        "AHA discovered an arbitration clause after English proceedings were served and applied under section 9 for a stay while also petitioning the New York Federal Court to compel arbitration.",
+        "Gross J granted a without-notice anti-suit injunction restraining AHA's New York petition; this was the return date.",
+        "Both sides disputed the seat of arbitration and whether Tonicstar was a proper claimant, though the real party was the syndicate."
+      ],
+      "procedural_posture": "Return date application to discharge or continue a without-notice anti-suit injunction restraining parallel New York proceedings to compel arbitration.",
+      "outcome": "Injunction continued until further order; England held the natural forum and AHA's New York petition oppressive.",
+      "ratio": "Where a Lloyd's reinsurance dispute governed by English law is already before the English court, including a section 9 stay application, pursuit of a New York petition to compel arbitration under the Federal Arbitration Act is oppressive and warrants an anti-suit injunction to prevent pre-emption of the natural forum's decision on stay and seat.",
+      "legal_issues": [
+        "Whether England was the natural forum for stay and seat determinations",
+        "Whether AHA's New York petition was vexatious or oppressive",
+        "Whether an anti-suit injunction should restrain parallel foreign arbitration compulsion proceedings",
+        "Whether Tonicstar lacked standing to sue on the reinsurance contract",
+        "The applicable law and seat of the arbitration agreement"
+      ],
+      "catchwords": [
+        "anti-suit injunction",
+        "reinsurance",
+        "arbitration seat",
+        "section 9 stay",
+        "Lloyd's syndicate",
+        "forum non conveniens"
+      ],
+      "index_terms": [
+        "Tonicstar",
+        "American Home Assurance",
+        "Syndicate 1861",
+        "New York Federal Court",
+        "Glencore",
+        "General Star v Stirling Cooke Brown"
+      ],
+      "linked_authorities": [
+        "Glencore International AG v Exter Shipping Ltd [2002] CLC 1090",
+        "General Star International Indemnity Ltd v Stirling Cooke Brown Reinsurance Brokers Ltd [2003] EWHC 3 (Comm)",
+        "Airbus Industrie GIE v Patel [1999] 1 AC 119",
+        "Toomey v Eagle Star [1994] 1 Lloyd's Rep 516"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Clear return-date reasoning on anti-suit principles. Interim in nature; underlying arbitration issues undecided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/690.json",
+    "status": "needs_review",
+    "notes": "Judges field empty in source metadata; short permission-to-appeal refusal in mental health judicial review.",
+    "enrichment": {
+      "short_title": "Mental health judicial review permission refused for Miss Graham",
+      "area_of_law": [
+        "Mental health law",
+        "Administrative law",
+        "Human rights",
+        "Data protection"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": []
+        },
+        {
+          "title": "EC Directive 95/46/EC",
+          "provisions": [
+            "Article 10"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Miss Graham sought judicial review to prevent a mental health trust and social services authority from interfering with her liberty without court permission.",
+        "Staff had told her she would be sectioned under the Mental Health Act unless she agreed to medication for schizophrenia.",
+        "She was sectioned on 17 March 2004 and briefly detained at Homerton Hospital; habeas corpus proceedings ended when she was released.",
+        "Her grounds alleged persecution linked to the Russian Mafia and tenants at Follingham Court, Hackney."
+      ],
+      "procedural_posture": "Out-of-time application for permission to appeal Sullivan J's refusal of permission to apply for judicial review and interim relief.",
+      "outcome": "Permission to appeal refused; Sullivan J's decision upheld.",
+      "ratio": "Courts may in principle intervene to prevent unlawful detention, but without cogent evidence of an unlawful plan to deprive liberty the court cannot act on speculation; the Mental Health Act and habeas corpus provide remedies after detention, and the applicant's unsupported conspiracy-based grounds did not justify intervention.",
+      "legal_issues": [
+        "Whether the court could pre-emptively restrain sectioning without cogent evidence",
+        "Whether refusal to disclose medical files affected the judicial review application",
+        "Whether Article 10 of Directive 95/46/EC assisted the claim",
+        "Whether habeas corpus or Mental Health Act safeguards made judicial review unnecessary"
+      ],
+      "catchwords": [
+        "judicial review",
+        "mental health",
+        "sectioning",
+        "permission to appeal",
+        "habeas corpus",
+        "schizophrenia"
+      ],
+      "index_terms": [
+        "Graham",
+        "East London and City Mental Health NHS Trust",
+        "Homerton Hospital",
+        "Follingham Court",
+        "Hackney",
+        "Directive 95/46/EC"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.86,
+        "level": "high",
+        "notes": "Short procedural judgment with clear refusal reasoning. Judges metadata missing from source."
+      }
+    }
+  }
+]

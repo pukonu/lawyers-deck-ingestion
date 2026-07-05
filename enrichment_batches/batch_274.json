@@ -1,0 +1,684 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/978.json",
+    "status": "done",
+    "notes": "Partial-settlement credit insurance trial; single construction issue on Maximum Advance is clearly resolved.",
+    "enrichment": {
+      "short_title": "Credit default insurance: meaning of Maximum Advance",
+      "area_of_law": [
+        "Insurance law",
+        "Commercial contract",
+        "Consumer credit",
+        "Motor finance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Consumer Credit Act 1974",
+          "provisions": []
+        },
+        {
+          "title": "Consumer Credit (Rebate on Early Settlement) Regulations 1983",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "College Credit Ltd (CCL) provided sub-prime motor finance insured by NIG under a credit default policy renewed until December 2002.",
+        "After partial settlement, the sole remaining issue was whether ADB and GAP customer insurance premiums counted towards the Underwriting Criteria Maximum Advance.",
+        "If those premiums were included, many agreements exceeded the cap and fell outside cover; Net Outstanding Balance expressly excluded such premiums from claims.",
+        "Hannington Bailey Associates acted as intermediary; HBA faced potential follow-on claims depending on the construction outcome."
+      ],
+      "procedural_posture": "Trial on a single coverage construction issue after partial settlement between CCL and NIG.",
+      "outcome": "Construction issue decided in favour of CCL; Advance for Maximum Advance purposes excludes ADB and GAP premiums.",
+      "ratio": "In this credit default policy, Maximum Advance means the payment made by CCL to the dealer to complete the purchase, excluding optional customer insurance premiums, because compliance with underwriting criteria should link insured credit risk to vehicle security rather than uninsured add-ons that could arbitrarily void cover.",
+      "legal_issues": [
+        "Whether ADB and GAP premiums form part of Advance for Maximum Advance underwriting criteria",
+        "Whether textual or commercial purpose analysis governs where policy language is undefined",
+        "Practical effect of contingent maximum finance calculations on forecourt transactions"
+      ],
+      "catchwords": [
+        "credit default insurance",
+        "Maximum Advance",
+        "underwriting criteria",
+        "GAP insurance",
+        "ADB",
+        "policy construction",
+        "sub-prime motor finance"
+      ],
+      "index_terms": [
+        "College Credit Ltd",
+        "National Guarantee Corporation",
+        "conditional sale agreement",
+        "Glass's Guide",
+        "Net Outstanding Balance",
+        "motor vehicle finance",
+        "coverage defence"
+      ],
+      "linked_authorities": [
+        "Biggin v Permanite [1951] 2 KB 314"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Single construction point and outcome are explicit. HBA costs and follow-on claims were not finally determined."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/979.json",
+    "status": "done",
+    "notes": "Appeal from summary judgment on share-sale indemnity; Holme v Brunskill and surrender defences rejected on clear facts.",
+    "enrichment": {
+      "short_title": "Share sale indemnity appeal over lease guarantee",
+      "area_of_law": [
+        "Commercial contract",
+        "Landlord and tenant",
+        "Guarantee and indemnity",
+        "Company acquisitions"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Eurodis guaranteed CEM's Belfast lease and later sold CEM shares to Unicomp Holdings under a share sale agreement with indemnity and guarantee clauses.",
+        "CEM went into liquidation; Unibol occupied the premises without formal assignment consent; Eurodis paid £290,000 to settle Fortwilliam's Northern Ireland claim.",
+        "Eurodis sued Unicomp Inc for indemnity under clauses 4.11 and 7.1 of the share sale agreement.",
+        "Unicomp argued surety defences including Holme v Brunskill discharge, surrender by operation of law, and failure of best endeavours to obtain release."
+      ],
+      "procedural_posture": "Appeal with permission from summary judgment for £365,303.84 plus interest and costs.",
+      "outcome": "Appeal dismissed; defences have no reasonable prospect of success.",
+      "ratio": "Fortwilliam's forbearance in enforcing lease covenants fell within the guarantee proviso and did not discharge Eurodis under Holme v Brunskill; continued rent payment by Unibol was not inconsistent with lease continuation; Holdings' indemnity obligation persisted pending release regardless of best endeavours performance.",
+      "legal_issues": [
+        "Whether Unicomp was surety or indemnifier under the share sale agreement",
+        "Application of Holme v Brunskill to landlord forbearance on assignment covenant breaches",
+        "Whether acceptance of rent from Unibol operated as surrender releasing the guarantee",
+        "Whether Holdings failed to use best endeavours to procure Eurodis's release"
+      ],
+      "catchwords": [
+        "share sale agreement",
+        "lease guarantee",
+        "indemnity",
+        "Holme v Brunskill",
+        "surrender by operation of law",
+        "intentionally homeless",
+        "summary judgment"
+      ],
+      "index_terms": [
+        "Unicomp Inc",
+        "Eurodis Electron",
+        "CEM Computers",
+        "Fortwilliam Estates",
+        "Belfast lease",
+        "Unibol",
+        "corporate guarantee"
+      ],
+      "linked_authorities": [
+        "Holme v Brunskill (1878) 3 QBD 495",
+        "Howard de Walden Estates Ltd v Pasta Place Ltd [1995] 1 EGLR 79",
+        "Selous Street Properties Ltd v Oronel Fabrics Ltd [1984] 1 EGLR 50",
+        "Mattey Securities Ltd v Ervin [1998] EDLR 66"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Facts largely undisputed and defences addressed sequentially with clear refusals."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1099.json",
+    "status": "done",
+    "notes": "Long procedural judgment on s23 CJA 1988; four granted grounds and additional summing-up defect all clearly analysed.",
+    "enrichment": {
+      "short_title": "Unsafe conviction: fearful witness statement under s23",
+      "area_of_law": [
+        "Criminal procedure",
+        "Evidence",
+        "Drugs offences",
+        "Fair trial"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 23",
+            "section 25",
+            "section 26"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Lobban was convicted on retrial of possessing cocaine with intent to supply after drugs were found in Heather Moore's Fiesta and his fingerprints were on the ashtray.",
+        "At the first trial Judge Reynolds read Moore's statement under section 23 after excluding the defendant and denying defence cross-examination on voir dire.",
+        "The judge applied section 25 rather than section 26 and misunderstood the extent to which Lobban disputed Moore's account of car use.",
+        "At retrial the jury received inadequate directions on untested statement evidence and the judge failed to summarise Lobban's interview defence blaming Carl Dwyer."
+      ],
+      "procedural_posture": "Appeal against conviction with leave on four grounds; court also treated failure to summarise defence as rendering conviction unsafe.",
+      "outcome": "Appeal allowed; conviction quashed; retrial not ordered given time served.",
+      "ratio": "Where a witness's fear is in issue under section 23, fair procedure requires proper voir dire questioning including defence cross-examination unless exceptional protective measures are justified; statements prepared for criminal proceedings require section 26 leave criteria; juries must be warned about limited weight of unread and uncross-examined statement evidence.",
+      "legal_issues": [
+        "Propriety of judge's room hearings and defendant exclusion during fear inquiry",
+        "Whether section 25 or section 26 governs admissibility of witness statements",
+        "Right to cross-examine witness on voir dire as to fear",
+        "Adequacy of jury directions on hearsay statement evidence",
+        "Duty to summarise defence case from interview"
+      ],
+      "catchwords": [
+        "section 23",
+        "fearful witness",
+        "hearsay statement",
+        "voir dire",
+        "unsafe conviction",
+        "cocaine",
+        "fair trial"
+      ],
+      "index_terms": [
+        "Heather Moore",
+        "Carl Dwyer",
+        "Crown Court Snaresbrook",
+        "retrial",
+        "fingerprint evidence",
+        "partner scheme",
+        "summing up"
+      ],
+      "linked_authorities": [
+        "R v Wood & Fitzsimmons [1998] Crim LR 213",
+        "R v Elliot and others [2003] EWCA Crim 1695",
+        "R v Jennings and Miles [1995] Crim LR 810",
+        "R v Samuel and others (1992) Crim LR 189",
+        "R v Jones (Anthony) [2003] 1 AC 1",
+        "Ekbatani v Sweden (1994) 18 EHRR 504",
+        "R v Badjan (1969) 53 Cr App R 141"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed procedural and statutory analysis with explicit conclusions on each ground."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/641.json",
+    "status": "done",
+    "notes": "Test-case appeal on MoD non-delegable duty; lengthy authority review but outcome and ratio are clear.",
+    "enrichment": {
+      "short_title": "MoD non-delegable duty for German hospital birth injury",
+      "area_of_law": [
+        "Clinical negligence",
+        "Tort",
+        "Public law",
+        "Military law",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Congenital Disabilities (Civil Liability) Act 1976",
+          "provisions": [
+            "section 1"
+          ]
+        },
+        {
+          "title": "National Health Service Act 1977",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A child born in Germany to a British army family suffered cerebral palsy from negligent vacuum delivery at Gilead Krankenhaus.",
+        "After 1996 the MoD arranged secondary care through GST and designated German provider hospitals rather than British Military Hospitals.",
+        "German experts and Gutachter Kommission found negligence; Gilead insurers admitted liability and equivalent English damages were available in Germany.",
+        "The appeal tested whether the MoD owed a non-delegable duty to ensure careful obstetric treatment."
+      ],
+      "procedural_posture": "Appeal with permission from Bell J's Part 8 determination that no non-delegable duty was owed.",
+      "outcome": "Appeal dismissed; MoD owed only a duty to provide access to an appropriate secondary healthcare regime by reasonable selection of providers.",
+      "ratio": "English law does not impose on the MoD a non-delegable duty to ensure due skill and care in German DGP treatment where it no longer operates hospitals itself; the duty is organisational—to exercise reasonable care in procuring access—and was discharged by contracting with GST; prior military hospital duty did not survive outsourcing.",
+      "legal_issues": [
+        "Whether MoD owed non-delegable hospital treatment duty to service dependants in Germany",
+        "Application of Australian hospital non-delegable duty jurisprudence",
+        "Effect of B's reasonable perception of Army-provided care",
+        "Whether pre-1996 duty persisted after closure of military hospitals",
+        "Public policy favouring English forum claims against MoD"
+      ],
+      "catchwords": [
+        "non-delegable duty",
+        "Ministry of Defence",
+        "clinical negligence",
+        "service dependants",
+        "designated German provider",
+        "cerebral palsy",
+        "hospital authority"
+      ],
+      "index_terms": [
+        "Gilead Krankenhaus",
+        "British Forces Germany Health Service",
+        "Guy's and St Thomas's NHS Trust",
+        "Health Alliance",
+        "obstetric negligence",
+        "Gold v Essex County Council",
+        "Cassidy v Ministry of Health"
+      ],
+      "linked_authorities": [
+        "Gold v Essex County Council [1942] 2 KB 293",
+        "Cassidy v Ministry of Health [1951] 2 KB 343",
+        "Wilsons and Clyde Coal Co Ltd v English [1937] AC 57",
+        "X (minors) v Bedfordshire CC [1995] 2 AC 633",
+        "Robertson v Nottingham Health Authority [1997] 8 Med LR 1",
+        "Kondis v State Transport Authority (1984) 154 CLR 672",
+        "Ellis v Wallsend District Hospital (1989) 17 NSWLR 553"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Core duty question and policy reasoning are fully reasoned. Standard-of-care conflict was acknowledged as irrelevant on agreed facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/627.json",
+    "status": "done",
+    "notes": "Homelessness review procedural fairness appeal; statutory framework and Hobbs applied straightforwardly.",
+    "enrichment": {
+      "short_title": "Intentional homelessness review procedural fairness",
+      "area_of_law": [
+        "Housing law",
+        "Administrative law",
+        "Human Rights Act 1998"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1996",
+          "provisions": [
+            "section 175",
+            "section 176",
+            "section 184",
+            "section 190",
+            "section 191",
+            "section 202",
+            "section 203",
+            "section 204"
+          ]
+        },
+        {
+          "title": "Allocation of Housing and Homelessness (Review Procedure) Regulations 1999",
+          "provisions": [
+            "regulation 6(2)",
+            "regulation 8(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ms Lomotey jointly owned a Valley House flat with her brother but surrendered her interest and accepted a notice to quit to seek council rehousing.",
+        "Enfield decided she was intentionally homeless under section 191; the review panel confirmed after refusing an oral hearing.",
+        "She had not included her partner David Whyte on her application though later submissions raised family life under Article 8.",
+        "The county court judge held the review procedurally unfair for failing to explore Whyte's position and collusion findings."
+      ],
+      "procedural_posture": "Local authority appeal against county court decision quashing intentional homelessness finding for procedural unfairness.",
+      "outcome": "Appeal allowed; review procedure fair; intentional homelessness decision restored.",
+      "ratio": "Natural justice requires the substance of adverse points to be put to the applicant, not repetition in identical form; here collusion and Whyte's exclusion were fully explored in interviews and the application form itself showed she did not seek accommodation with him, so regulation 8(2) did not apply and no further oral hearing was required.",
+      "legal_issues": [
+        "Whether review panel had to explore whether Lomotey wished to live with Whyte",
+        "Application of regulation 8(2) where reviewer saw no deficiency in original decision",
+        "Procedural fairness when credibility and collusion are in issue",
+        "Whether accommodation at Valley House was reasonable to continue to occupy"
+      ],
+      "catchwords": [
+        "intentional homelessness",
+        "section 191",
+        "homelessness review",
+        "procedural fairness",
+        "collusion",
+        "regulation 8",
+        "Hobbs v Sutton"
+      ],
+      "index_terms": [
+        "London Borough of Enfield",
+        "Naomi Lomotey",
+        "Valley House",
+        "section 202 review",
+        "Homeless Persons Officer",
+        "Islam v Ivesey",
+        "Runa Begum"
+      ],
+      "linked_authorities": [
+        "Hobbs v London Borough of Sutton (1993) 26 HLR 132",
+        "Robinson v Brent LBC (1998) 31 HLR 1015",
+        "Runa Begum v Tower Hamlets LBC [2003] 2 AC 430",
+        "Islam v Ivesey [1983] AC 688"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Procedural fairness focus; merits of intentional homelessness finding treated as largely determined by undisputed facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/560.json",
+    "status": "done",
+    "notes": "Gwilliam/Bottomley analysis on contractor insurance duty; appeal allowed on orthodox competence standard.",
+    "enrichment": {
+      "short_title": "Nightclub owner not liable for uninsured doorman",
+      "area_of_law": [
+        "Tort",
+        "Occupiers' liability",
+        "Vicarious liability",
+        "Personal injury"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Occupiers' Liability Act 1957",
+          "provisions": [
+            "section 2(4)(b)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Payling suffered severe head injuries when ejected by a doorman at Naylor's Main Street nightclub in Rotherham.",
+        "Naylor engaged Whitehead's licensed security staff under a local Pub and Club Watch scheme for about eighteen months without incident.",
+        "Whitehead had no public liability insurance; the judge held Naylor breached duty by failing to check insurance cover.",
+        "The door attendant's negligence was admitted; the dispute was whether Naylor owed a free-standing duty to ensure insurance."
+      ],
+      "procedural_posture": "Appeal from liability-only trial before HHJ Murphy.",
+      "outcome": "Appeal allowed; no free-standing duty to ensure contractor insurance; accredited long-used contractor satisfied competence duty.",
+      "ratio": "An occupier delegating security to an independent contractor is not generally under a free-standing duty to ensure public liability insurance; the duty is to take reasonable care in selecting a competent contractor, which may in some fact-specific cases include insurance checks, but here licensed accredited contractors with a satisfactory track record required no further inquiry.",
+      "legal_issues": [
+        "Whether employer owed free-standing duty to ensure independent contractor had insurance",
+        "Distinction between competence and suitability of independent contractors",
+        "Application of Gwilliam v West Hertfordshire Hospitals NHS Trust",
+        "Effect of statutory licensing scheme on standard of care in contractor selection"
+      ],
+      "catchwords": [
+        "independent contractor",
+        "public liability insurance",
+        "doorman negligence",
+        "occupiers liability",
+        "competence",
+        "Pub and Club Watch",
+        "vicarious liability"
+      ],
+      "index_terms": [
+        "Main Street nightclub",
+        "Rotherham",
+        "Naylor",
+        "Whitehead",
+        "door supervisor",
+        "Gwilliam",
+        "Bottomley v Todmorden Cricket Club"
+      ],
+      "linked_authorities": [
+        "Gwilliam v West Hertfordshire Hospitals NHS Trust [2003] QB 443",
+        "Bottomley v Todmorden Cricket Club [2003] EWCA Civ 1575"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Unanimous Court of Appeal on orthodox duty analysis; Waller LJ's Gwilliam reasoning distinguished on facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1015.json",
+    "status": "done",
+    "notes": "Complex indemnity construction for Arrows F1 overdraft; Lindsay J resolves beneficiaries and loss clearly though order details remain.",
+    "enrichment": {
+      "short_title": "Walkinshaw personal indemnity for Arrows overdraft",
+      "area_of_law": [
+        "Commercial contract",
+        "Banking and finance",
+        "Contract construction",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 736"
+          ]
+        },
+        {
+          "title": "Limited Liability Partnership Act 2000",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Tom Walkinshaw gave a personal indemnity capped at half of advances under a £13m Morgan Grenfell overdraft to Arrows Autosports Ltd.",
+        "The indemnity broadly defined Indemnified Persons including affiliates, associates, shareholders and partners of the Overdraft Provider MGDCS.",
+        "MGDCS was reimbursed by Morgan Grenfell equity funds partnerships which acquired the overdraft benefit in summer 2000.",
+        "Arrows collapsed owing the full overdraft; Walkinshaw resisted liability to the funds as indemnified persons."
+      ],
+      "procedural_posture": "Trial on remaining indemnity construction and quantum issues after Pumfrey J had rejected other Walkinshaw defences.",
+      "outcome": "Walkinshaw liable under indemnity to MGDCS claiming for Funds I–IV (and Fund V on commercial matrix analysis); liable for principal and contractual interest subject to cap.",
+      "ratio": "On proper construction of the widely drafted indemnity, the Morgan Grenfell equity funds partnerships were affiliates or associates of MGDCS within the financing matrix for Arrows; their loss from non-repayment of the overdraft related to MGDCS's advances and MGDCS may sue on their behalf; res inter alios acta does not let MGDCS ignore reimbursement when no own loss remained.",
+      "legal_issues": [
+        "Who qualifies as Indemnified Persons under the indemnity",
+        "Whether Funds I–V are affiliates or associates of MGDCS",
+        "Whether unpaid contractual interest is indemnified loss",
+        "Whether MGDCS can sue for Funds' losses under Linden Gardens principles",
+        "Cap on liability at half of advances plus interest"
+      ],
+      "catchwords": [
+        "personal indemnity",
+        "overdraft facility",
+        "contract construction",
+        "Indemnified Persons",
+        "Formula One",
+        "affiliates",
+        "limited partnership"
+      ],
+      "index_terms": [
+        "Tom Walkinshaw",
+        "Arrows Autosports",
+        "Morgan Grenfell Development Capital",
+        "MGE Partners",
+        "Deutsche Bank",
+        "Arrows F1",
+        "MG Group"
+      ],
+      "linked_authorities": [
+        "Investors Compensation Scheme v West Bromwich BS [1998] 1 WLR 896",
+        "Linden Gardens Trust Ltd v Lenesta Sludge [1994] 1 AC 85",
+        "Alfred McAlpine Construction Ltd v Panatown Ltd [2001] 1 AC 518",
+        "Banque Bruxelles Lambert v Eagle Star [1995] 2 All ER 769",
+        "Swingcastle Ltd v Alastair Gibson [1991] 2 AC 223"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Primary construction and liability holdings clear. Interest computation and final order form left for further discussion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/534.json",
+    "status": "done",
+    "notes": "Conflicting ownership judgments on Rallye aircraft; privity and Hodson v Walker principles applied with full reasoning.",
+    "enrichment": {
+      "short_title": "Aircraft title: prior purchaser not bound by earlier judgment",
+      "area_of_law": [
+        "Property law",
+        "Sale of goods",
+        "Civil procedure",
+        "Res judicata"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Sale of Goods Act 1979",
+          "provisions": [
+            "section 21"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Wiltshire as Spilsby Soaring Trust trustee claimed a Rallye aircraft sold without authority by Ebbs to Etherington, Heapy and Storey, then to Powell.",
+        "HHJ O'Rorke declared Wiltshire owner in proceedings against Ebbs alone after Ebbs's bankruptcy.",
+        "Powell bought in good faith before that judgment; Recorder Maw later declared Powell owner in separate proceedings.",
+        "Wiltshire detained the aircraft from Powell relying on the earlier declaration."
+      ],
+      "procedural_posture": "Appeal against declaration that Powell held good title despite prior judgment against Ebbs.",
+      "outcome": "Appeal dismissed; Powell not estopped by earlier judgment because he acquired title before judgment and was not a privy.",
+      "ratio": "Estoppel per rem judicatam binds privies in estate only if they derive title from the judgment debtor after the judgment; a purchaser of goods before judgment is not bound even where title passes through the unsuccessful litigant, because the vendor no longer represented that interest during the first action.",
+      "legal_issues": [
+        "Whether subsequent purchasers of goods are privies estopped by judgment against their vendor",
+        "Whether privity requires acquisition of interest after judgment or after commencement of proceedings",
+        "Application of Hodson v Walker to chattels",
+        "Appropriate form of declaratory relief as to ownership"
+      ],
+      "catchwords": [
+        "res judicata",
+        "privy in estate",
+        "nemo dat quod non habet",
+        "aircraft ownership",
+        "estoppel",
+        "good faith purchaser",
+        "conflicting declarations"
+      ],
+      "index_terms": [
+        "Rallye G-AVVJ",
+        "Spilsby Soaring Trust",
+        "Christopher Ebbs",
+        "Timothy Wiltshire",
+        "Morane Saulnier",
+        "Civil Aviation Authority",
+        "Hodson v Walker"
+      ],
+      "linked_authorities": [
+        "Hodson v Walker (1872) LR 7 Exch 55",
+        "Doe v Earl of Derby (1834) 1 Ad & El 783",
+        "Gleeson v J Wippell & Co [1977] 1 WLR 510",
+        "Johnson v Gore Wood & Co [2002] 2 AC 1",
+        "Nana Ofori Atta v Nana Abu Bonsra [1958] AC 95",
+        "House of Spring Gardens Ltd v Waite [1991] 1 QB 241"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Legal principle and application to Powell's pre-judgment purchase clearly established. Underlying merits between Wiltshire and Powell differed from O'Rorke findings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1614.json",
+    "status": "done",
+    "notes": "Case management decision refusing TCC transfer; insurance ascertainment point identified as core Commercial Court issue.",
+    "enrichment": {
+      "short_title": "Commercial Court retains insurance-heavy construction dispute",
+      "area_of_law": [
+        "Civil procedure",
+        "Insurance law",
+        "Construction law",
+        "Case management"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 1.1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Lumbermens Mutual Casualty sought a declaration on liability insurance coverage arising from Braehead shopping centre construction claims against Bovis.",
+        "The action combined important insurance law issues with substantial TCC-type building contract liability between Bovis and Braehead.",
+        "Bovis applied to transfer the case to the Technology and Construction Court citing trial length and TCC expertise.",
+        "Ascertainment and breach of warranty insurance points might dispose of the case without trying construction liability."
+      ],
+      "procedural_posture": "Application to transfer proceedings out of the Commercial Court to the TCC.",
+      "outcome": "Transfer refused; case to remain in Commercial Court with insurance issues tried first in 2004.",
+      "ratio": "Where core Commercial Court insurance construction issues—including ascertainment of liability under a liability policy—may determine the action without trying building contract liability, the case is not inappropriate for the Commercial Court despite substantial TCC factual issues; staged trial management under CPR overriding objective is preferable to transfer.",
+      "legal_issues": [
+        "When Commercial Court should transfer mixed insurance and construction cases to TCC",
+        "Relative importance of insurance ascertainment point versus Bovis-Braehead liability trial",
+        "Staged trial of insurance issues before construction liability",
+        "Application of Bubaya v Holman and Barclays Bank v Bemister principles"
+      ],
+      "catchwords": [
+        "Commercial Court",
+        "transfer to TCC",
+        "liability insurance",
+        "ascertainment of liability",
+        "case management",
+        "CPR overriding objective",
+        "construction dispute"
+      ],
+      "index_terms": [
+        "Lumbermens Mutual Casualty",
+        "Bovis Lend Lease",
+        "Braehead",
+        "Post Office v Norwich Union",
+        "breach of warranty",
+        "Technology and Construction Court",
+        "insurance construction"
+      ],
+      "linked_authorities": [
+        "Bubaya v Holman",
+        "Barclays Bank v Bemister"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Interlocutory case management ruling only; substantive insurance and construction merits not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1038.json",
+    "status": "done",
+    "notes": "Marine cargo inherent vice claim; Gaunt and Noten principles applied with detailed weather and engineering evidence.",
+    "enrichment": {
+      "short_title": "Transformer damage held inherent vice not all-risks loss",
+      "area_of_law": [
+        "Insurance law",
+        "Marine insurance",
+        "Carriage of goods",
+        "Engineering"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Marine Insurance Act 1906",
+          "provisions": [
+            "section 55(2)(c)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A large Alstom transformer shipped from Ellesmere Port to Malaysia under a project all-risks marine cargo policy for the Manjung power station.",
+        "On arrival the mitre joints between unwound fifth limbs and the yoke had separated from prolonged vessel motion in winter gales.",
+        "Insurers denied the claim citing inherent vice; repair costs exceeded £1 million.",
+        "Force 8 winds and significant wave heights over 6 metres for extended periods occurred on ordinary January short-sea passages."
+      ],
+      "procedural_posture": "Insurers' claim for declaration of non-liability under project marine cargo policy.",
+      "outcome": "Declaration granted; loss caused by inability to withstand ordinary voyage incidents, not unusual perils of the sea.",
+      "ratio": "Under an all-risks cargo policy excluding inherent vice, the insured must prove loss by external fortuitous accident; where winter gale conditions on UK-Malaysia routes are ordinary incidents of the voyage and the cargo progressively fails from normal pitching and rolling, the proximate cause is inherent vice rather than perils of the sea.",
+      "legal_issues": [
+        "Whether transformer damage was proximately caused by perils of the sea or inherent vice",
+        "Meaning of all-risks cover and insured's burden of proof",
+        "Whether prolonged force 8 conditions were extraordinary for the voyage",
+        "Application of Gaunt and Noten v Harding to packing and natural behaviour of goods"
+      ],
+      "catchwords": [
+        "inherent vice",
+        "all risks",
+        "marine cargo insurance",
+        "Institute Cargo Clauses",
+        "transformer",
+        "perils of the sea",
+        "project policy"
+      ],
+      "index_terms": [
+        "Alstom Power Plants",
+        "Mayban General Assurance",
+        "Manjung power station",
+        "Eliane Trader",
+        "electrical transformer",
+        "mitre joint",
+        "winter North Atlantic"
+      ],
+      "linked_authorities": [
+        "British and Foreign Marine Insurance Co Ltd v Gaunt [1921] 2 AC 41",
+        "Soya GmbH Mainz KG v White [1983] 1 Lloyd's Rep 122",
+        "TM Noten BV v Harding [1990] 2 Lloyd's Rep 283"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed findings on mechanism of failure and weather normality support clear inherent vice conclusion."
+      }
+    }
+  }
+]

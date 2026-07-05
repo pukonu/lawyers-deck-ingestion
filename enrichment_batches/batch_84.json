@@ -1,0 +1,810 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1228.json",
+    "status": "done",
+    "notes": "Batch 84 enrichment",
+    "enrichment": {
+      "short_title": "Asylum appeal dismissed after alleged non-receipt of hearing notice",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Appeals (Procedure) Rules 2000 (SI 2000/2333)",
+          "provisions": [
+            "rule 18(7)",
+            "rule 30(2)",
+            "rule 30(4)",
+            "rule 33(1)",
+            "rule 33(2)(a)",
+            "rule 48(2)(a)"
+          ]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 69",
+            "Schedule 4 paragraph 4(1)(b)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 1.1(1)",
+            "rule 1.2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Turkish asylum seeker appealed against refusal of asylum but neither returned a Reply to Directions nor attended a first hearing.",
+        "The adjudicator dismissed the appeal without considering its merits under rule 33(2)(a), relying on deemed service of the hearing notice.",
+        "The claimant and his solicitors said they never received the notice; the Immigration Appeal Tribunal refused leave to appeal without resolving that assertion.",
+        "Wilson J held that where non-receipt is credibly asserted, dismissal without merits is unlawful and leave should be granted if the assertion has a real prospect of success."
+      ],
+      "procedural_posture": "Judicial review of the Immigration Appeal Tribunal's refusal of leave to appeal against an adjudicator's non-merits dismissal.",
+      "outcome": "Tribunal decision quashed; leave application remitted for fresh consideration; Secretary of State ordered to pay costs.",
+      "ratio": "Where an appellant credibly asserts that a procedural notice was never received, the Immigration Appeal Tribunal must weigh that assertion and grant leave if it has a real prospect of being true, because dismissal without considering merits is not lawful where there has been no relevant failure to comply with a direction.",
+      "legal_issues": [
+        "Lawfulness of dismissing an asylum appeal without considering merits under rule 33",
+        "Effect of deemed service under rule 48(2)(a) when non-receipt is asserted",
+        "Whether the Tribunal may ignore an assertion of non-receipt",
+        "Relationship between overriding objective of just disposal and individual justice"
+      ],
+      "catchwords": [
+        "asylum appeal",
+        "rule 33",
+        "non-receipt of notice",
+        "deemed service",
+        "leave to appeal",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Karagoz",
+        "Immigration Appeal Tribunal",
+        "first hearing",
+        "Reply to Directions",
+        "ex parte S",
+        "ex parte Asifa Saleem"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Immigration Appeal Tribunal, ex parte S",
+          "citation": "[1998] IAR 252",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Secretary of State for the Home Department, ex parte Asifa Saleem",
+          "citation": "[2000] IAR 529",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full procedural judgment with clear ratio on non-receipt of notices; judge not identified in source metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/924.json",
+    "status": "done",
+    "notes": "Batch 84 enrichment",
+    "enrichment": {
+      "short_title": "TOLATA sale of family home after residence order reversal",
+      "area_of_law": [
+        "Property law",
+        "Family law",
+        "Trusts of land"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trusts of Land and Appointment of Trustees Act 1996",
+          "provisions": [
+            "section 6(2)",
+            "section 13",
+            "section 14",
+            "section 14(2)",
+            "section 15(1)(a)",
+            "section 15(1)(b)",
+            "section 15(1)(c)",
+            "section 15(3)"
+          ]
+        },
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "Schedule 1"
+          ]
+        },
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": [
+            "section 30"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Former cohabiting parents were beneficial joint tenants of the family home at 74 Laughton Road, Northolt.",
+        "The mother initially sought deferred sale under TOLATA; after a residence order was made to the father, each party reversed position and the judge ordered immediate sale.",
+        "The father's Schedule 1 Children Act application was adjourned and risked dismissal while the TOLATA claim proceeded alone.",
+        "The Court of Appeal upheld the sale order but criticised failure to hear competing TOLATA and Schedule 1 applications together."
+      ],
+      "procedural_posture": "Appeal with permission against a county court order for sale under section 14 of TOLATA.",
+      "outcome": "Appeal dismissed; order for sale upheld despite identified procedural and reasoning flaws.",
+      "ratio": "Under TOLATA section 15 the court has a power, not a duty, to order sale and must have regard to specified factors including children's welfare; where co-owners invoke TOLATA and Schedule 1, case management should normally conjoin the applications so neither statutory regime prejudices the other.",
+      "legal_issues": [
+        "Whether TOLATA replaced the section 30 duty-to-sell approach",
+        "Construction of 'intentions' and 'purposes' in section 15(1)",
+        "Weight of section 15(3) circumstances and wishes in a dispute between equal beneficiaries",
+        "Overlap between TOLATA and Children Act Schedule 1 applications"
+      ],
+      "catchwords": [
+        "TOLATA",
+        "trust of land",
+        "order for sale",
+        "Schedule 1",
+        "family home",
+        "section 15"
+      ],
+      "index_terms": [
+        "White v Hansford",
+        "Northolt",
+        "beneficial joint tenancy",
+        "residence order",
+        "deferral of sale"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Long judgment with detailed statutory analysis from Arden LJ; appeal outcome clear though some fact-finding criticisms were not fatal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1288.json",
+    "status": "done",
+    "notes": "Batch 84 enrichment",
+    "enrichment": {
+      "short_title": "Speed camera conviction challenge on fresh grounds",
+      "area_of_law": [
+        "Road traffic law",
+        "Administrative law",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Regulation Act 1984",
+          "provisions": [
+            "section 81(1)",
+            "section 89(1)",
+            "section 89(2)"
+          ]
+        },
+        {
+          "title": "Road Traffic Offenders Act 1988",
+          "provisions": [
+            "Schedule 2",
+            "section 20"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant was convicted by magistrates of driving at 36 mph in a 30 mph limit on the A443 at Hallow.",
+        "Before the magistrates he relied on section 89(2) and lack of corroboration; on appeal to the High Court he advanced a new point about Speedmaster DS3 cross-check markings.",
+        "Magistrates had found the automatic camera accurate, certificated, and self-corroborating through dual readings.",
+        "Owen J held the new challenge raised issues not explored below and dismissed the application."
+      ],
+      "procedural_posture": "Appeal by case stated or equivalent application to the High Court against magistrates' conviction for speeding.",
+      "outcome": "Application dismissed as without substance.",
+      "ratio": "On appeal against a speeding conviction based on a prescribed device, a party cannot reopen factual issues that were not raised or explored before the magistrates, including conditions of Secretary of State approval under section 20 of the Road Traffic Offenders Act 1988.",
+      "legal_issues": [
+        "Admissibility of evidence from prescribed speed detection devices",
+        "Section 89(2) single-witness opinion rule",
+        "Whether new grounds about device operating conditions could be raised on appeal",
+        "Conditions attached to Secretary of State approval"
+      ],
+      "catchwords": [
+        "speeding",
+        "Speedmaster DS3",
+        "prescribed device",
+        "magistrates appeal",
+        "section 89",
+        "section 20"
+      ],
+      "index_terms": [
+        "Sheffield",
+        "A443 Hallow",
+        "automatic camera",
+        "case stated"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Short procedural judgment; appellant name taken from case_name field."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/3089.json",
+    "status": "done",
+    "notes": "Batch 84 enrichment",
+    "enrichment": {
+      "short_title": "IGPA pepper contracts and defective declaration of shipment",
+      "area_of_law": [
+        "Sale of goods",
+        "Commercial law",
+        "Arbitration"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 69(7)",
+            "section 70(4)(b)",
+            "section 68(2)(h)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Indonesian sellers sold Muntok white pepper C&F to European buyers under IGPA contract form no. 5.",
+        "Goods were loaded on unpowered barge INTAN 6, declared shipped, then lost when the barge sank off Bangka Island.",
+        "Buyers refused documents; the IGPA Board of Appeal held declarations naming the barge were defective because INTAN 6 was not a first class ship.",
+        "Following P.T. Putrabali v Fratelli de Lorenzi, the court held declarations valid in form and remitted for damages assessment after sellers compromised Singapore cargo claims."
+      ],
+      "procedural_posture": "Commercial Court appeal with permission against two IGPA Board of Appeal arbitration awards.",
+      "outcome": "Awards set aside; appeals remitted to the Board of Appeal for assessment of damages and determination of counterclaims.",
+      "ratio": "Under IGPA form 5 clause 10, a declaration of shipment is judged by form and timing rather than underlying performance; failure to object within three business days renders a declaration effective, and buyers may reject C&F documents only where non-conformity appears on their face without further investigation.",
+      "legal_issues": [
+        "Validity of declaration of shipment naming an unpowered barge",
+        "Whether clause 6 requires shipment on a contractual vessel before declaration",
+        "Effect of buyers' failure to object within three business days",
+        "When shipping documents may be rejected under C&F terms",
+        "Measure of damages after sellers compromised subrogated cargo claims"
+      ],
+      "catchwords": [
+        "IGPA contract",
+        "declaration of shipment",
+        "C&F sale",
+        "first class ship",
+        "loss of ship clause",
+        "commodity arbitration"
+      ],
+      "index_terms": [
+        "Putrabali Adyamulia",
+        "Muntok white pepper",
+        "INTAN 6",
+        "Societe Est Epices",
+        "Enrico Webb James",
+        "Moore-Bick J Lorenzi"
+      ],
+      "linked_authorities": [
+        {
+          "name": "P.T. Putrabali v Fratelli de Lorenzi SNC",
+          "citation": "15/10/01, unreported",
+          "relation": "followed"
+        },
+        {
+          "name": "The Vladimir Ilich",
+          "citation": "[1975] 1 Lloyd's Rep. 322",
+          "relation": "applied"
+        },
+        {
+          "name": "Ashmore & Son v C.S. Cox & Co.",
+          "citation": "[1899] 1 QB 436",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Bergerco U.S.A. v Vegoil Ltd",
+          "citation": "[1984] 1 Lloyd's Rep. 440",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Gill & Duffus S.A. v Berger & Co. Inc.",
+          "citation": "[1984] AC 382",
+          "relation": "applied"
+        },
+        {
+          "name": "Acada Chemicals Ltd v Empresa Nacional Pesquera S.A.",
+          "citation": "[1994] 1 Lloyd's Rep. 428",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed commercial judgment with extensive authority analysis; metadata lists incorrect historical judges."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/782.json",
+    "status": "done",
+    "notes": "Batch 84 enrichment",
+    "enrichment": {
+      "short_title": "Restrictive covenant tied to Cadogan settled estate",
+      "area_of_law": [
+        "Property law",
+        "Restrictive covenants",
+        "Land law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Settled Land Act 1925",
+          "provisions": [
+            "section 17"
+          ]
+        }
+      ],
+      "key_facts": [
+        "In 1929 the Sixth Earl Cadogan sold land including 60-62 Chelsea Manor Street to Chelsea Borough Council with a covenant restricting use to housing the working classes.",
+        "The covenant was expressed to benefit adjoining land only while it remained part of 'the Cadogan Settled Estate in Chelsea'.",
+        "The 1889 settlement was dismantled in 1961 and the benefited land ceased to be settled land.",
+        "Dano Ltd sought to develop the site as private housing; the Court of Appeal held the covenant unenforceable once the settled estate ended."
+      ],
+      "procedural_posture": "Appeal against a declaration that no benefited land remained within the covenant's scope.",
+      "outcome": "Appeal dismissed; covenant held spent and unenforceable.",
+      "ratio": "Where a restrictive covenant is enforceable only while benefited land 'forms part of the Cadogan Settled Estate in Chelsea', the word 'settled' refers to the settlement existing in 1929 and the covenant cannot survive dismantling of that settlement even if Cadogan family interests continue in neighbouring land.",
+      "legal_issues": [
+        "Construction of 'Cadogan Settled Estate in Chelsea'",
+        "Whether covenant benefit survives reorganisation of the Cadogan estate in 1961",
+        "Purposive versus literal interpretation of estate-described covenant benefit",
+        "Impact on Peabody Trust affordable housing lease"
+      ],
+      "catchwords": [
+        "restrictive covenant",
+        "settled estate",
+        "condition subsequent",
+        "working classes housing",
+        "Chelsea Manor Street",
+        "covenant benefit"
+      ],
+      "index_terms": [
+        "Earl Cadogan",
+        "Dano Ltd",
+        "Rat and Parrot",
+        "Peabody Donation Fund",
+        "Kensington and Chelsea"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Unanimous construction appeal with clear reasoning on settled estate wording."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1120.json",
+    "status": "done",
+    "notes": "Batch 84 enrichment",
+    "enrichment": {
+      "short_title": "Warsaw Convention costs after Part 36 payment in",
+      "area_of_law": [
+        "Aviation law",
+        "Carriage of goods by air",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Convention for the Unification of Certain Rules Relating to International Carriage by Air (Warsaw Convention as amended at The Hague 1955)",
+          "provisions": [
+            "Article 22",
+            "Article 22(4)",
+            "Article 24(1)",
+            "Article 25",
+            "Article 28(1)",
+            "Article 29"
+          ]
+        },
+        {
+          "title": "Carriage by Air Act 1961",
+          "provisions": []
+        },
+        {
+          "title": "Carriage by Air and Road Act 1979",
+          "provisions": [
+            "section 4"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 36",
+            "rule 36.13",
+            "rule 44.12(1)(b)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Cargo was destroyed when a Korean Air B747 crashed near Stansted on 22 December 1999.",
+        "Claimants sued for high-value helicopter gearbox and printing press cargo losses subject to Warsaw Convention weight limits.",
+        "Korean Air offered limit-based settlements but paid slightly more into court in July 2002, which claimants accepted.",
+        "Morison J held Article 22(4) did not bar costs because the payment into court exceeded the last written offer within six months of commencement."
+      ],
+      "procedural_posture": "Application by carrier for an order depriving cargo claimants of costs after acceptance of payments into court.",
+      "outcome": "Application dismissed; claimants entitled to costs under Part 36.",
+      "ratio": "Article 22(4) of the Warsaw Convention deprives a claimant of costs only where damages awarded do not exceed a qualifying written carrier offer made within the prescribed period; where the payment into court exceeds that offer, the exception does not apply and CPR Part 36 costs consequences operate without conflict.",
+      "legal_issues": [
+        "Construction of Article 22(4) Warsaw Convention",
+        "Whether acceptance of a payment into court constitutes an award of damages",
+        "Conflict between international convention and CPR Part 36",
+        "Conversion of SDR limits to sterling for payments into court"
+      ],
+      "catchwords": [
+        "Warsaw Convention",
+        "Article 22(4)",
+        "Part 36",
+        "payment into court",
+        "limitation of liability",
+        "air cargo"
+      ],
+      "index_terms": [
+        "Korean Air",
+        "GKN Westland Helicopters",
+        "Stansted crash",
+        "special drawing rights",
+        "Carriage by Air (Sterling Equivalents) Order 1999"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Morris v KLM Royal Dutch Airlines",
+          "citation": "[2002] AC 628",
+          "relation": "applied"
+        },
+        {
+          "name": "Swiss Bank Corp v Brink's M.A.T. Ltd",
+          "citation": "[1986] QB 853",
+          "relation": "applied"
+        },
+        {
+          "name": "Milor S.r.l. v British Airways Plc",
+          "citation": "[1996] QB 702",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed judgment on Convention and CPR interaction; metadata lists incorrect judges."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1308.json",
+    "status": "done",
+    "notes": "Batch 84 enrichment",
+    "enrichment": {
+      "short_title": "Council tax disaggregation in blind care home",
+      "area_of_law": [
+        "Council tax",
+        "Rating and valuation",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Council Tax (Chargeable Dwellings) Order 1992 (SI 1992/550)",
+          "provisions": [
+            "Article 2",
+            "Article 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Kathleen Chambers House in Burnham-on-Sea is a purpose-built RNIB residential care home for blind and partially sighted residents.",
+        "The listing officer sought to disaggregate four two-person units for separate council tax assessment while 32 single-person units remained aggregated.",
+        "The Valuation Tribunal allowed RNIB's appeal, finding no cogent distinction between disputed and non-disputed units.",
+        "Mitting J quashed the tribunal decision for flawed reasoning and remitted to a freshly constituted tribunal."
+      ],
+      "procedural_posture": "Appeal to the High Court against a Valuation Tribunal decision on council tax disaggregation.",
+      "outcome": "Tribunal decision quashed and remitted to a new Valuation Tribunal; listing officer ordered to pay £4,000 towards RNIB's costs.",
+      "ratio": "Whether part of a building is a 'self-contained unit' under Article 2 of the Council Tax (Chargeable Dwellings) Order 1992 is a single objective question to be answered in light of all circumstances including the purpose for which the building was constructed; subjective developer intent and comparison with the listing officer's treatment of other units are irrelevant.",
+      "legal_issues": [
+        "Meaning of 'self-contained unit' in Article 2",
+        "Whether communal care-home facilities negate separate living accommodation",
+        "Irrelevance of subjective builder intent and actual use",
+        "Two-step versus holistic approach to disaggregation"
+      ],
+      "catchwords": [
+        "council tax",
+        "disaggregation",
+        "self-contained unit",
+        "Valuation Tribunal",
+        "care home",
+        "RNIB"
+      ],
+      "index_terms": [
+        "Kathleen Chambers House",
+        "Burnham-on-Sea",
+        "listing officer",
+        "Beasley v YMCA",
+        "Batty v Burfoot",
+        "Coleman v Rotsztein"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Beasley (Listing Officer) v National Council of YMCAs",
+          "citation": "[2000] RA 429",
+          "relation": "applied"
+        },
+        {
+          "name": "Batty v Burfoot",
+          "citation": "[1995] RA 299",
+          "relation": "applied"
+        },
+        {
+          "name": "Coleman v Rotsztein",
+          "citation": "[2003] EWHC 1057 (Admin)",
+          "relation": "applied"
+        },
+        {
+          "name": "Clement v Bryant",
+          "citation": "[2003] EWHC 422 (Admin)",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed statutory appeal with extensive citation of rating authority; permission to Court of Appeal refused for lack of jurisdiction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1449.json",
+    "status": "done",
+    "notes": "Batch 84 enrichment",
+    "enrichment": {
+      "short_title": "Albanian asylum claim and state protection for domestic violence",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "Schedule 4 paragraph 9(4)(a)"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Refugee Convention 1951",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "An Albanian woman claimed asylum based on fear of violence from her former partner and his family, including after her father's murder in Albania.",
+        "The Secretary of State refused asylum and certified the claim as not raising a Convention reason.",
+        "A Special Adjudicator dismissed the appeal after a preliminary finding of sufficient Albanian state protection for victims of domestic violence under Horvath.",
+        "The IAT refused leave to appeal; Harrison J dismissed judicial review, holding the Adjudicator's assessment was balanced and not Wednesbury unreasonable."
+      ],
+      "procedural_posture": "Judicial review of the Immigration Appeal Tribunal's refusal of leave to appeal against dismissal of asylum and human rights appeals.",
+      "outcome": "Claim dismissed; leave to appeal refusal upheld; costs ordered against publicly funded claimant.",
+      "ratio": "Sufficiency of state protection under Horvath must be assessed in light of the claimant's particular feared harm, not domestic violence in Albania generally; where objective material shows legal frameworks, police training, and support services, a balanced conclusion that protection meets the practical Horvath standard is not perverse even if victims must initiate prosecutions themselves.",
+      "legal_issues": [
+        "Horvath test for sufficiency of state protection against non-state actors",
+        "Whether protection analysis may be decided as a preliminary issue",
+        "Relevance of victim-initiated prosecution in Albania",
+        "Whether police laxity shows unwillingness rather than inefficiency",
+        "Certification under paragraph 9(4)(a) Schedule 4"
+      ],
+      "catchwords": [
+        "asylum",
+        "state protection",
+        "Horvath",
+        "domestic violence",
+        "Albania",
+        "leave to appeal"
+      ],
+      "index_terms": [
+        "Mishto",
+        "Koleci",
+        "Immigration Appeal Tribunal",
+        "Special Adjudicator",
+        "Islam v SSHD"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Horvath v Secretary of State for the Home Department",
+          "citation": "[2000] INLR 239",
+          "relation": "applied"
+        },
+        {
+          "name": "Islam v Secretary of State for the Home Department",
+          "citation": "[1999] 2 AC 629",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full asylum judgment with detailed Horvath analysis; metadata lists incorrect judges."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/800.json",
+    "status": "done",
+    "notes": "Batch 84 enrichment",
+    "enrichment": {
+      "short_title": "Contributory negligence for seat belt and drunk driver",
+      "area_of_law": [
+        "Personal injury",
+        "Negligence",
+        "Road traffic"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "A 16-year-old back-seat passenger suffered serious head and other injuries when the defendant's car hit a railway bridge after speeding and drinking.",
+        "She was not wearing a seat belt that was available but not readily accessible under the back seat.",
+        "The judge found the head injury would have occurred even with a belt but other injuries would not, reducing damages 15% for the belt and 10% for accepting a lift from a drunk driver.",
+        "The defendant's renewed application for permission to appeal challenged expert findings and departures from Froom and Owens guidelines."
+      ],
+      "procedural_posture": "Renewed application for permission to appeal against contributory negligence apportionments in a county court personal injury trial.",
+      "outcome": "Permission to appeal refused.",
+      "ratio": "Trial judges may apportion contributory negligence separately by injury type where effects can be distinguished; reductions below Froom and Owens benchmarks may be justified by age, limited seat-belt availability, and the claimant being led by older companions, and such assessments will rarely be disturbed on appeal.",
+      "legal_issues": [
+        "Whether head injury would have occurred if a seat belt had been worn",
+        "Separate versus overall contributory negligence assessment",
+        "Appropriate reduction for failure to wear seat belt under Froom v Butcher",
+        "Reduction for accepting lift from intoxicated driver under Owens v Brimmell"
+      ],
+      "catchwords": [
+        "contributory negligence",
+        "seat belt",
+        "Froom v Butcher",
+        "Owens v Brimmell",
+        "drunk driver",
+        "personal injury"
+      ],
+      "index_terms": [
+        "Goodman",
+        "Keeves",
+        "Cambridge County Court",
+        "closed head injury",
+        "Recorder Brunner"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Froom v Butcher",
+          "citation": "[1976] QB 286",
+          "relation": "applied"
+        },
+        {
+          "name": "Owens v Brimmell",
+          "citation": "[1977] 1 QB 859",
+          "relation": "applied"
+        },
+        {
+          "name": "J (A Child) v Wilkins",
+          "citation": "[2001] PIQR 179",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Clear permission judgment on well-known PI authorities; metadata lists incorrect judge."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/687.json",
+    "status": "done",
+    "notes": "Batch 84 enrichment",
+    "enrichment": {
+      "short_title": "Green belt gypsy caravan very special circumstances",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288",
+            "section 54A"
+          ]
+        },
+        {
+          "title": "Planning Policy Guidance Note 2: Green Belts (PPG 2)",
+          "provisions": [
+            "paragraph 3.1",
+            "paragraph 3.2",
+            "Annex E"
+          ]
+        },
+        {
+          "title": "Circular 1/94: Gypsy Sites and Planning",
+          "provisions": [
+            "paragraph 22"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8",
+            "Article 14"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Porter, a gypsy with serious ill-health, sought retention of a residential mobile home at Willow Tree Farm, Iver, in the green belt after years of unlawful occupation.",
+        "A planning inspector found very special circumstances in personal hardship and lack of alternative pitches, overriding green belt policy.",
+        "South Bucks District Council challenged the decision under section 288; the Secretary of State conceded quashing on precedent grounds but the judge upheld the permission.",
+        "The Court of Appeal quashed the permission for failing to analyse unlawfulness of occupation and broader Chapman-compliant planning context."
+      ],
+      "procedural_posture": "Appeal under section 288 of the Town and Country Planning Act 1990 against dismissal of a challenge to a planning inspector's appeal decision.",
+      "outcome": "Appeal allowed; inspector's grant of permission quashed.",
+      "ratio": "Very special circumstances justifying inappropriate green belt development require clear and cogent analysis in the planning context, including the unlawfulness of long-standing breach of control and the gypsy/non-gypsy comparator question highlighted in Chapman; a mere catalogue of personal hardship without that broader reasoning is insufficient.",
+      "legal_issues": [
+        "Whether gypsy status and personal ill-health alone can constitute very special circumstances",
+        "Relevance of unlawful occupation under Chapman v United Kingdom",
+        "Precedent as a ground for refusing green belt permission",
+        "Application of section 54A and PPG 2 paragraph 3.2",
+        "Interaction of local plan gypsy site policies with green belt restrictions"
+      ],
+      "catchwords": [
+        "green belt",
+        "very special circumstances",
+        "gypsy caravan",
+        "planning inspector",
+        "section 288",
+        "Chapman"
+      ],
+      "index_terms": [
+        "South Bucks District Council",
+        "Willow Tree Farm",
+        "Iver",
+        "Linda Porter",
+        "PPG 2",
+        "Colne Valley Park"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Chapman v United Kingdom",
+          "citation": "(2001) 33 EHRR 18",
+          "relation": "applied"
+        },
+        {
+          "name": "City of Edinburgh Council v Secretary of State for Scotland",
+          "citation": "[1997] 1 WLR 1447",
+          "relation": "applied"
+        },
+        {
+          "name": "Westminster City Council v Great Portland Estates plc",
+          "citation": "[1985] AC 661",
+          "relation": "applied"
+        },
+        {
+          "name": "Woolhead v Secretary of State for the Environment",
+          "citation": "(1996) 71 P & CR 424",
+          "relation": "considered"
+        },
+        {
+          "name": "Doncaster Metropolitan Borough Council v Secretary of State for Environment, Transport and the Regions",
+          "citation": "[2002] EWHC 808 (Admin)",
+          "relation": "applied"
+        },
+        {
+          "name": "Ayres v Secretary of State for the Environment",
+          "citation": "(1997) 74 P & CR 246",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Leading planning appeal with comprehensive Chapman and PPG 2 analysis; metadata lists spurious historical judges."
+      }
+    }
+  }
+]

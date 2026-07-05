@@ -1,0 +1,902 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1766.json",
+    "status": "done",
+    "notes": "Leave refusal on co-accused defence statement disclosure; ratio clear from Cairns.",
+    "enrichment": {
+      "short_title": "Prosecution disclosure of co-accused defence statements",
+      "area_of_law": [
+        "Criminal procedure",
+        "Prosecution disclosure",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1987",
+          "provisions": [
+            "section 7",
+            "section 8",
+            "section 9(4)",
+            "section 9(5)",
+            "section 9(11)"
+          ]
+        },
+        {
+          "title": "Criminal Procedure and Investigations Act 1996",
+          "provisions": [
+            "section 7",
+            "section 7(2)"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3(1)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6(3)(b)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "David McHugh was one of ten defendants awaiting trial for conspiracy to defraud arising from a debt collection agency.",
+        "At a preparatory hearing Judge Swift ruled that the Crown must assess each co-accused defence statement for disclosure and that he had no power to direct the Crown not to perform its statutory duty.",
+        "McHugh sought leave to appeal under section 9(11) of the Criminal Justice Act 1987 on two grounds relating to disclosure of his defence statement to co-accused.",
+        "The prosecution, following Cairns, Zaidi and Chaudhary, had proposed examining defence statements and disclosing material that might assist co-accused.",
+        "The Court of Appeal refused leave, holding the judge's ruling correct and the application unarguable."
+      ],
+      "procedural_posture": "Application for leave to appeal to the Court of Appeal against a preparatory hearing ruling in multi-defendant Crown Court fraud proceedings.",
+      "outcome": "Leave to appeal refused; written reasons given for refusal.",
+      "ratio": "Where the prosecution holds a co-defendant's defence statement, it must apply the section 7 CPIA 1996 secondary disclosure test and disclose relevant parts if they might reasonably be expected to assist another defendant's defence or undermine the prosecution case against him; a trial judge cannot lawfully direct the Crown not to discharge that statutory duty, and an appeal under section 9(11) of the Criminal Justice Act 1987 lies only against a point of law, not against case-management directions.",
+      "legal_issues": [
+        "Whether the prosecution is under a duty to consider disclosing co-accused defence statements",
+        "Whether a judge may supervise or prevent Crown disclosure of such statements",
+        "Scope of appeal under section 9(11) of the Criminal Justice Act 1987",
+        "Interaction of R v Tariq with Cairns on cross-service of defence statements"
+      ],
+      "catchwords": [
+        "defence statements",
+        "prosecution disclosure",
+        "co-defendants",
+        "preparatory hearing",
+        "section 7 CPIA 1996",
+        "leave to appeal",
+        "Article 6"
+      ],
+      "index_terms": [
+        "Criminal Justice Act 1987",
+        "Criminal Procedure and Investigations Act 1996",
+        "Cairns Zaidi and Chaudhary",
+        "R v Tariq",
+        "multi-defendant fraud",
+        "secondary disclosure"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Cairns, Zaidi and Chaudhary",
+          "citation": "[2002] EWCA Crim 2838, [2002] 1 WLR 796",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Tariq & Ors",
+          "citation": "(1991) 92 Cr App R 277",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Jaspers v Belgium",
+          "citation": "[1981] 27 DR 61",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Esposito and others",
+          "citation": "Crown Court at Liverpool, 20 December 2002",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Outcome, statutory framework, and governing authority in Cairns are explicit. Judge metadata in source data may be incomplete."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1628.json",
+    "status": "done",
+    "notes": "Standard-of-proof point on Secretary of State police discipline appeal clearly decided.",
+    "enrichment": {
+      "short_title": "Police discipline appeal and criminal standard of proof",
+      "area_of_law": [
+        "Police discipline",
+        "Administrative law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Act 1964",
+          "provisions": [
+            "section 37",
+            "Schedule 5 paragraph 3"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 103"
+          ]
+        },
+        {
+          "title": "Police Discipline Regulations 1985",
+          "provisions": [
+            "regulation 5",
+            "Schedule 1 paragraph 16",
+            "Schedule 5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ex-PC Ravi Bhoti pleaded guilty to a drink-driving offence and was required to resign after police discipline proceedings.",
+        "A tribunal recommended he should not be required to resign, but the Secretary of State upheld dismissal; earlier judicial review and Court of Appeal proceedings had addressed the standard of proof.",
+        "On reconsideration after remittal, the Secretary of State's letter of 13 May 2002 found Bhoti was 'more than likely' aware he might be over the limit when he drove.",
+        "The Court of Appeal had held that where the Secretary of State disagrees with the tribunal on a fact adverse to the officer, that fact must be proved to the criminal standard.",
+        "Moses J quashed the May 2002 decision because 'more than likely' is not the same as being sure."
+      ],
+      "procedural_posture": "Second judicial review of the Secretary of State's decision on a section 37 Police Act 1964 appeal against required resignation, following remittal from the Court of Appeal.",
+      "outcome": "Judicial review application allowed; Secretary of State's decision of 13 May 2002 quashed; costs ordered.",
+      "ratio": "On a police discipline appeal where the Secretary of State takes a different view from the tribunal on a fact relied on against the officer, the aggravating fact must be established to the criminal standard of proof; language such as 'more than likely' shows the wrong standard was applied and vitiates the decision, and ex post facto official explanations cannot rewrite the decision letter.",
+      "legal_issues": [
+        "Standard of proof for aggravating facts on Secretary of State police discipline appeals",
+        "Construction of 'more than likely' in the decision letter",
+        "Whether Court of Appeal standard-of-proof remarks were obiter",
+        "Appropriate remedy after unlawful second decision"
+      ],
+      "catchwords": [
+        "police discipline",
+        "judicial review",
+        "standard of proof",
+        "required resignation",
+        "drink driving",
+        "Secretary of State",
+        "tribunal"
+      ],
+      "index_terms": [
+        "Police Act 1964",
+        "PC Bhoti",
+        "Police Notice 23 of 1996",
+        "criminal conduct",
+        "Collins J",
+        "Schiemann LJ",
+        "Clarke LJ"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Secretary of State for the Home Department ex parte Barr and Others",
+          "citation": "[1995] Admin 157",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Central ratio on standard of proof follows directly from prior Court of Appeal reasoning applied to the May 2002 letter."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/943.json",
+    "status": "done",
+    "notes": "EAT time extension principles clearly restated for litigant in person postal delay.",
+    "enrichment": {
+      "short_title": "EAT extension of time after lost appeal notice",
+      "area_of_law": [
+        "Employment law",
+        "Employment tribunal procedure",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Appeal Tribunal Rules 1993",
+          "provisions": [
+            "rule 3(1)",
+            "rule 3(3)",
+            "rule 35(1)",
+            "rule 35(3)",
+            "rule 37(1)"
+          ]
+        },
+        {
+          "title": "Interpretation Act 1978",
+          "provisions": [
+            "section 7"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ms Hazel Peters, a litigant in person, sought to appeal an employment tribunal decision refusing her unfair dismissal and sex discrimination claims.",
+        "She posted her notice of appeal on 28 March 2002 within the 42-day limit, but the EAT never received it; she faxed a copy on 23 April, eleven days late.",
+        "The Registrar refused an extension using standard recitals treating postal loss as never acceptable, without addressing her particular circumstances.",
+        "EAT Judge Peter Clark upheld refusal, finding her explanation honest but not a good excuse because she had not telephoned to confirm receipt.",
+        "The Court of Appeal held a litigant in person who posted in good time could reasonably rely on rule 35(3) and granted the extension."
+      ],
+      "procedural_posture": "Court of Appeal appeal with permission against an Employment Appeal Tribunal decision refusing an extension of time to lodge a notice of appeal.",
+      "outcome": "Appeal allowed; Registrar's and EAT judge's orders set aside; extension of time granted with costs.",
+      "ratio": "The EAT's unqualified discretion under rule 37(1) must be exercised judicially and with regard to all relevant factors; where a litigant in person posts a notice of appeal well before expiry and may assume deemed delivery under rule 35(3), loss in the post can justify an extension, and a Registrar or judge errs by applying rigid standard-form reasons without considering the applicant's particular circumstances.",
+      "legal_issues": [
+        "Exercise of discretion to extend time under rule 37(1) EAT Rules",
+        "Effect of rule 35(3) deemed postal delivery",
+        "Whether postal loss can excuse late receipt",
+        "Different expectations of litigants in person and solicitors"
+      ],
+      "catchwords": [
+        "Employment Appeal Tribunal",
+        "extension of time",
+        "litigant in person",
+        "postal service",
+        "unfair dismissal",
+        "rule 37",
+        "Abdelghafar"
+      ],
+      "index_terms": [
+        "Employment Appeal Tribunal Rules 1993",
+        "Hazel Peters",
+        "Sat Katar Company Ltd",
+        "Sealy v Consignia",
+        "Aziz v Bethnal Green City Challenge"
+      ],
+      "linked_authorities": [
+        {
+          "name": "United Arab Emirates and Abdelghafar and Dr A K Abbas",
+          "citation": "[1995] ICR 65",
+          "relation": "applied"
+        },
+        {
+          "name": "Aziz v Bethnal Green City Challenge Company Ltd",
+          "citation": "[2000] IRLR 111",
+          "relation": "applied"
+        },
+        {
+          "name": "Sealy v Consignia",
+          "citation": "[2002] 3 All ER 801",
+          "relation": "applied"
+        },
+        {
+          "name": "Capital Foods Retail Ltd v Corrigan",
+          "citation": "[1993] IRLR 430",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Camden v Islington Community Services NHS Trust",
+          "citation": "[1996] IRLR 381",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Ratio on discretion and litigant-in-person postal delay is the core holding; respondent was in liquidation and did not appear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1767.json",
+    "status": "done",
+    "notes": "Split outcome: conviction appeal dismissed, sentence reduced; good-character analysis detailed.",
+    "enrichment": {
+      "short_title": "Drug money laundering conviction and Dutch prior finding",
+      "area_of_law": [
+        "Criminal law",
+        "Money laundering",
+        "Sentencing",
+        "Evidence and character"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Evidence Act 1898",
+          "provisions": [
+            "section 1",
+            "section 1(f)(ii)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ramadan El-Delbi was convicted by a majority jury of conspiracy to deal with drug-trafficking proceeds and attempting to remove such proceeds.",
+        "He was arrested at Heathrow with over £515,000 in cash, linked to a drugs conspiracy involving Heemskerk and repeated short UK visits from Dubai.",
+        "He was sentenced to twelve years with a confiscation order; the Court of Appeal reduced concurrent sentences to ten years.",
+        "During trial the judge declined a good-character direction because of a pending Dutch money-laundering finding of guilt, despite Dutch law treating the conviction as non-final until appeal.",
+        "The court rejected challenges to adverse-inference directions on silence at customs interview."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal with leave against conviction and sentence following Crown Court trial at Isleworth.",
+      "outcome": "Appeal against conviction dismissed; appeal against sentence allowed and concurrent terms reduced from twelve to ten years on each count.",
+      "ratio": "A defendant with a first-instance finding of guilt for similar conduct abroad, even if appealable under foreign law, cannot assert absence of previous convictions without the jury hearing at least a neutral reference to that matter; section 1(f)(ii) of the Criminal Evidence Act 1898 permits cross-examination on findings of guilt and underlying facts, and twelve-year sentences were manifestly excessive compared with comparable laundering cases given the sums involved.",
+      "legal_issues": [
+        "Effect of a pending Dutch conviction on good-character directions",
+        "Whether foreign non-irrevocable findings count as convictions for character purposes",
+        "Adequacy of adverse-inference directions for failure to mention facts in interview",
+        "Whether twelve-year sentences for laundering about £500,000 were manifestly excessive"
+      ],
+      "catchwords": [
+        "money laundering",
+        "drug proceeds",
+        "good character",
+        "foreign conviction",
+        "adverse inference",
+        "sentencing",
+        "confiscation"
+      ],
+      "index_terms": [
+        "Ramadan El-Delbi",
+        "Heemskerk",
+        "Dutch criminal law",
+        "Simpson",
+        "Sabharmal",
+        "section 1 Criminal Evidence Act 1898"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Aziz & others",
+          "citation": "[1995] 2 Cr App R 478",
+          "relation": "applied"
+        },
+        {
+          "name": "Warden",
+          "citation": "Court of Appeal (Criminal Division), 6 July 2000, unreported",
+          "relation": "distinguished"
+        },
+        {
+          "name": "McGregor",
+          "citation": "(1992) 95 Cr App R 240",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Marsh",
+          "citation": "[1994] Crim LR 52",
+          "relation": "cited"
+        },
+        {
+          "name": "Simpson",
+          "citation": "[1998] 2 Cr App R (S) 111",
+          "relation": "cited"
+        },
+        {
+          "name": "Sabharmal",
+          "citation": "[2001] 2 Cr App R (S) 81",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Dual outcome and principal legal rulings are explicit; source judge metadata includes questionable entries."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/costs/2003/9009.json",
+    "status": "done",
+    "notes": "Transitional legal aid costs regime analysis fully reasoned.",
+    "enrichment": {
+      "short_title": "Legal aid costs claim time limit in old certificate case",
+      "area_of_law": [
+        "Costs",
+        "Legal aid and public funding",
+        "Housing law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": [
+            "section 11",
+            "section 106",
+            "Schedule 15 Part 1"
+          ]
+        },
+        {
+          "title": "Legal Aid Act 1988",
+          "provisions": [
+            "section 17",
+            "section 18",
+            "Part IV"
+          ]
+        },
+        {
+          "title": "Community Legal Service (Costs) Regulations 2000",
+          "provisions": [
+            "regulation 2",
+            "regulation 9",
+            "regulation 10",
+            "regulation 12"
+          ]
+        },
+        {
+          "title": "Community Legal Service (Cost Protection) Regulations 2000",
+          "provisions": [
+            "regulation 5"
+          ]
+        },
+        {
+          "title": "Housing Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Yenula Properties Ltd successfully litigated a tenancy status claim against legally aided tenant Mr Naidu through first instance, appeal, and Court of Appeal.",
+        "Mr Naidu's legal aid application was signed before 1 April 2000 and granted on 17 April 2000, making it an 'old' certificate case governed by section 18 Legal Aid Act 1988.",
+        "The Court of Appeal costs order of 23 May 2002 referred to section 11 costs protection, but Yenula's application for LSC payment of any shortfall was made on 13 September 2002, twenty-one days after the three-month Regulation 10 deadline.",
+        "The preliminary issue was whether Yenula could pursue payment from the Legal Services Commission under Regulation 5 of the Cost Protection Regulations.",
+        "Lloyd J held the Cost Protection Regulations did not apply and the mandatory time limit could not be extended."
+      ],
+      "procedural_posture": "Preliminary issue on a costs application in ongoing proceedings between a successful landlord claimant and a legally aided tenant.",
+      "outcome": "Preliminary issue answered in the negative; Yenula could not pursue its application for LSC payment of costs.",
+      "ratio": "Where legal aid was granted under the pre-April 2000 regime, substantive liability for costs against the Commission remains under section 18 of the Legal Aid Act 1988 while only the CLS Costs Regulations govern procedure; Regulation 5 of the Cost Protection Regulations does not apply, so the three-month limit in Regulation 10(2) is mandatory and cannot be saved by the amended 'good reason for delay' wording, which refers to applications for funded services rather than receiving parties' costs applications.",
+      "legal_issues": [
+        "Whether Cost Protection Regulation 5 applies to old legal aid certificates",
+        "Construction of Court of Appeal order referring to section 11 in transitional cases",
+        "Whether amended Regulation 5(3)(b) permits late receiving-party applications",
+        "Whether solicitor pressure of work or unfamiliarity constitutes good reason for delay"
+      ],
+      "catchwords": [
+        "legal aid",
+        "costs protection",
+        "Legal Services Commission",
+        "transitional provisions",
+        "section 18 Legal Aid Act 1988",
+        "time limit",
+        "assured shorthold tenancy"
+      ],
+      "index_terms": [
+        "Yenula Properties Ltd",
+        "Community Legal Service",
+        "Access to Justice Act 1999",
+        "R v Secretary of State for the Home Office ex parte Gunn",
+        "Bryanston Street"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Secretary of State for the Home Office ex parte Gunn",
+          "citation": "[2001] EWCA Civ 891",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed statutory analysis with clear negative answer to the preliminary issue."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1765.json",
+    "status": "done",
+    "notes": "Confiscation postponement jurisprudence applied to quash orders.",
+    "enrichment": {
+      "short_title": "Confiscation order postponed beyond six months",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation",
+        "Sentencing procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 71",
+            "section 72A"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1993",
+          "provisions": [
+            "section 28"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Kamlesh Soneji and David Bullen pleaded guilty to conspiracy to convert and remove criminal property and were sentenced in August 2000.",
+        "Confiscation hearings were postponed beyond six months from conviction because the trial judge was unavailable until late October 2000.",
+        "On 18 August 2000 the judge formally postponed confiscation until 30 October without analysing exceptional circumstances or consulting defendants.",
+        "Confiscation orders were eventually made in 2002; Soneji's order was £30,284 and Bullen's £375,000.",
+        "The Court of Appeal held the postponement invalid for failure to find exceptional circumstances as required by section 72A."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal with leave against confiscation orders only, following guilty pleas and earlier sentence appeals.",
+      "outcome": "Appeal allowed; confiscation orders quashed.",
+      "ratio": "Under section 72A of the Criminal Justice Act 1988, postponement of confiscation proceedings beyond six months from conviction requires a real judicial decision that exceptional circumstances exist; listing difficulties alone are insufficient without enquiry into whether a timely hearing was feasible, and a later candid judicial acknowledgment that no exceptional circumstances were found cannot be overridden.",
+      "legal_issues": [
+        "Whether judge unavailability amounts to exceptional circumstances under section 72A(3)",
+        "Interaction of statutory postponement with common law adjournment powers",
+        "Whether failure to find exceptional circumstances goes to jurisdiction",
+        "Effect of defendant consent or co-accused trial delay"
+      ],
+      "catchwords": [
+        "confiscation",
+        "section 72A",
+        "six month limit",
+        "exceptional circumstances",
+        "postponement",
+        "listing",
+        "money laundering"
+      ],
+      "index_terms": [
+        "Kamlesh Soneji",
+        "David Bullen",
+        "R v Sekhon",
+        "R v Steele and Shevki",
+        "R v Chuni",
+        "R v Ruddick",
+        "R v Simpson"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Steele and Shevki",
+          "citation": "[2001] 2 Cr App R (S) 40",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Sekhon",
+          "citation": "[2002] EWCA Crim 2954",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Chuni",
+          "citation": "[2002] 2 Cr App R 371",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Ruddick",
+          "citation": "[2003] EWCA Crim 1961",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Simpson",
+          "citation": "[2003] EWCA Crim 1499",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Palmer",
+          "citation": "[2002] EWCA Crim 2202",
+          "relation": "overruled"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Quashing of orders follows clearly from section 72A and post-Sekhon authority on exceptional circumstances."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/815.json",
+    "status": "done",
+    "notes": "Partnership account issue on £110,000 not decided at trial; Henderson analysis clear.",
+    "enrichment": {
+      "short_title": "Partnership accounts and £110,000 contribution",
+      "area_of_law": [
+        "Partnership law",
+        "Equity",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Ms Tannu claimed £110,000 lent to Ms Moosajee; the defendants contended she became an equal partner in Ashworth's Pharmacy.",
+        "HHJ MacDuff held there was a partnership at will from 1 May to 29 September 1999, not a loan, and ordered dissolution accounts.",
+        "The £110,000 had been paid in instalments into the pharmacy bank account before trading began, based on halving a £220,000 business valuation.",
+        "On taking accounts the second defendant argued the sum was purchase price for a half share belonging to her; Master Bowman struck that out, but Lloyd J restored it applying Henderson v Henderson.",
+        "The Court of Appeal held the trial judge had not decided whether the payment was purchase price or partnership capital contribution."
+      ],
+      "procedural_posture": "Second appeal to the Court of Appeal with permission against Lloyd J's decision on partnership dissolution accounts following a Queen's Bench trial transferred to Chancery.",
+      "outcome": "Appeal allowed; matter remitted to the Master to determine capital shares and profit-sharing on dissolution.",
+      "ratio": "Where a trial determines only whether a relationship is loan or partnership, it need not finally resolve how a lump sum paid before trading should appear in dissolution accounts; Henderson v Henderson does not bar a partner from contending at the account stage that payments were capital contributions rather than purchase price paid to the other partner personally.",
+      "legal_issues": [
+        "Whether HHJ MacDuff decided the accounting treatment of £110,000",
+        "Application of Henderson v Henderson between stages of the same proceedings",
+        "Purchase price for half share versus capital contribution to partnership",
+        "Issues properly remitted on taking partnership accounts"
+      ],
+      "catchwords": [
+        "partnership",
+        "dissolution",
+        "accounts",
+        "capital contribution",
+        "purchase price",
+        "Henderson v Henderson",
+        "pharmacy business"
+      ],
+      "index_terms": [
+        "Ashworth's Pharmacy",
+        "Tannu",
+        "Moosajee",
+        "partnership at will",
+        "Master Bowman",
+        "Johnson v Gore Wood"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Henderson v Henderson",
+          "citation": "(1843) 3 Hare 100",
+          "relation": "applied"
+        },
+        {
+          "name": "Johnson v Gore Wood",
+          "citation": "[2002] 2 AC 1",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Appellate court expressly held the accounting issue undecided at trial; no statutes central to the ruling."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1382.json",
+    "status": "done",
+    "notes": "Procedural ECJ reference decision; substantive genuine-use ratio awaits ECJ.",
+    "enrichment": {
+      "short_title": "ECJ reference on trade mark genuine use",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks",
+        "EU law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": []
+        },
+        {
+          "title": "First Council Directive 89/104/EEC (Trade Marks Directive)",
+          "provisions": [
+            "Article 10(1)",
+            "Article 12(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Jacob J had referred questions on the meaning of 'genuine use' under the Trade Marks Directive to the European Court of Justice in December 2001.",
+        "In May 2003 the ECJ Registrar asked whether the reference should be withdrawn following the ruling in Case C-40/01 Ansul.",
+        "Both parties agreed Ansul did not fully answer the central referred questions, especially on de minimis use and extent of use.",
+        "The parties agreed question 5 was answered by Ansul and could be withdrawn.",
+        "Jacob J withdrew question 5 but declined Art 104(3) summary procedure and maintained the remaining reference."
+      ],
+      "procedural_posture": "Chancery Division procedural decision on an outstanding preliminary reference to the European Court of Justice under the Trade Marks Directive.",
+      "outcome": "Question 5 withdrawn; remaining reference maintained and not to be decided under Article 104(3) ECJ Rules of Procedure.",
+      "ratio": "Ansul does not render acte clair the referred questions on whether extent of use is relevant to 'genuine use', whether a de minimis rule exists, and how minimal but commercially motivated use should be treated; a national court may therefore maintain a preliminary reference notwithstanding partial overlap with Ansul, withdrawing only questions clearly answered.",
+      "legal_issues": [
+        "Whether Ansul fully answers referred questions on genuine use",
+        "Appropriateness of Article 104(3) reasoned-order procedure",
+        "Existence and content of a de minimis rule for genuine use",
+        "Whether extent of use is relevant to revocation/non-use"
+      ],
+      "catchwords": [
+        "trade marks",
+        "genuine use",
+        "preliminary reference",
+        "ECJ",
+        "Ansul",
+        "de minimis",
+        "Trade Marks Directive"
+      ],
+      "index_terms": [
+        "Trade Marks Act 1994",
+        "Directive 89/104",
+        "Article 104 ECJ Rules",
+        "non-use revocation",
+        "Jacob J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ansul BV v Ajax Brandbeveiliging BV",
+          "citation": "Case C-40/01",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.84,
+        "level": "high",
+        "notes": "Procedural holding is clear; substantive ratio on genuine use awaits ECJ answers to remaining questions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/954.json",
+    "status": "done",
+    "notes": "Rule 9(3) discretion analysis and EAT error clearly identified.",
+    "enrichment": {
+      "short_title": "Employment tribunal dismissal for non-attendance",
+      "area_of_law": [
+        "Employment law",
+        "Employment tribunal procedure",
+        "Unfair dismissal"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Tribunal (Constitution and Rules of Procedure etc) Regulations 1993",
+          "provisions": [
+            "rule 9(3)",
+            "rule 10"
+          ]
+        },
+        {
+          "title": "Employment Tribunal (Constitution and Rules of Procedure etc) Regulations 2001",
+          "provisions": [
+            "rule 11(3)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Roberts, a college technician, was dismissed for alleged misconduct; his effective termination date was 14 February 2000.",
+        "Other claims were struck out; the unfair dismissal claim was listed for 13 June 2001 but Roberts did not attend, having failed to secure an adjournment.",
+        "The employment tribunal dismissed the claim under rule 9(3) after considering written documents but without hearing the employer's evidence on the reason for dismissal.",
+        "A differently constituted EAT majority allowed Roberts's appeal, holding inadequate reasons and that the tribunal should have required the employer to give evidence.",
+        "The Court of Appeal restored the dismissal, holding rule 9(3) confers a wide discretion with no duty to investigate merits."
+      ],
+      "procedural_posture": "Court of Appeal appeal by Skelmersdale College against an Employment Appeal Tribunal decision remitting an unfair dismissal claim; Roberts's application to reinstate a separate permission application heard together.",
+      "outcome": "College's appeal allowed; EAT decision set aside; Roberts's application to reinstate permission to appeal refused; Roberts ordered to pay costs.",
+      "ratio": "Rule 9(3) of the employment tribunal rules gives the tribunal a broad discretion when an applicant fails to attend: it may adjourn, dismiss, or otherwise dispose of the claim after considering specified documents, but is not required to hear the respondent's evidence on merits; dismissing after considering those documents and the litigation history is lawful where the applicant knew of the hearing and gave no adequate reason for absence.",
+      "legal_issues": [
+        "Scope of discretion under rule 9(3) when applicant absent",
+        "Whether tribunal must hear employer evidence before dismissing unfair dismissal claim",
+        "Adequacy of reasons for dismissal under rule 10",
+        "Whether EAT erred by imposing a 'due consideration' gloss on the rule"
+      ],
+      "catchwords": [
+        "employment tribunal",
+        "rule 9(3)",
+        "non-attendance",
+        "unfair dismissal",
+        "discretion",
+        "strike out",
+        "Meek"
+      ],
+      "index_terms": [
+        "Skelmersdale College",
+        "Roberts",
+        "Retarded Children's Aid Society v Day",
+        "Chief Constable of Thames Valley Police v Kellaway",
+        "Mensah v East Hertfordshire NHS Trust"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Retarded Children's Aid Society v Day",
+          "citation": "[1978] ICR 437",
+          "relation": "applied"
+        },
+        {
+          "name": "Chief Constable of Thames Valley Police v Kellaway",
+          "citation": "[2000] IRLR 170",
+          "relation": "applied"
+        },
+        {
+          "name": "Mensah v East Hertfordshire NHS Trust",
+          "citation": "[1998] IRLR 531",
+          "relation": "applied"
+        },
+        {
+          "name": "Meek v City of Birmingham District Council",
+          "citation": "[1987] IRLR 250",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Court of Appeal restored ET order with detailed rule 9(3) analysis; Article 6 raised but not decisive."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1391.json",
+    "status": "done",
+    "notes": "Parole Board hearsay fairness analysis applied; claim dismissed.",
+    "enrichment": {
+      "short_title": "Parole Board hearsay on licence recall",
+      "area_of_law": [
+        "Parole and sentencing",
+        "Administrative law",
+        "Public law",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": [
+            "section 39",
+            "section 44A"
+          ]
+        },
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": [
+            "section 58"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 85"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1967",
+          "provisions": [
+            "section 9"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Guy Pearson was serving an extended sentence for indecent assault on a child and was released on licence in June 2001 with conditions including no contact with under-18s.",
+        "His licence was revoked in January 2002 after reports that he took children, including named boys, to a Himley Hall bonfire on 3 November 2001.",
+        "At a Parole Board review under section 44A he denied taking children; the Board relied on hearsay statements of three boys and police and social-work evidence about their credibility.",
+        "The Board declined to direct his further release, finding the risk to the public remained too high.",
+        "Wilson J dismissed judicial review, holding admission of the hearsay was fair where the boys could not practicably attend and professional witnesses assessed credibility."
+      ],
+      "procedural_posture": "High Court judicial review of the Parole Board's refusal to direct release of a recalled extended-sentence prisoner.",
+      "outcome": "Claim dismissed; Parole Board decision upheld; costs ordered against the legally aided claimant.",
+      "ratio": "On a section 44A Parole Board reference following licence recall, hearsay evidence may lawfully be admitted on a central disputed fact if the Board critically assesses its quality and the prisoner had a fair opportunity to challenge it; fairness does not automatically require oral evidence from child witnesses where experienced police and social-work witnesses vouch for credibility and adjournment for compulsory attendance was not pursued.",
+      "legal_issues": [
+        "Fairness of admitting hearsay statements of children at Parole Board hearings",
+        "Whether Article 6 applies to parole recall proceedings",
+        "Weight to be given untested hearsay where lengthy re-imprisonment is at stake",
+        "Whether taking children to a bonfire was central to the recall decision"
+      ],
+      "catchwords": [
+        "Parole Board",
+        "licence recall",
+        "hearsay",
+        "sex offender",
+        "section 44A",
+        "fair procedure",
+        "extended sentence"
+      ],
+      "index_terms": [
+        "Guy Pearson",
+        "Himley Hall",
+        "R (West) v Parole Board",
+        "R (Sim) v Parole Board",
+        "R (McKeown) v Wirral Borough Magistrates Court",
+        "Re W (Minors) (Wardship: Evidence)"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (on the application of West) v The Parole Board",
+          "citation": "[2002] EWCA Civ 1641",
+          "relation": "applied"
+        },
+        {
+          "name": "R (on the application of Sim) v The Parole Board and SSHD",
+          "citation": "[2003] EWHC 152",
+          "relation": "applied"
+        },
+        {
+          "name": "R (on the application of McKeown) v Wirral Borough Magistrates Court",
+          "citation": "CO/3972/2000",
+          "relation": "applied"
+        },
+        {
+          "name": "Re W (Minors) (Wardship: Evidence)",
+          "citation": "[1990] 1 FLR 203",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Sharkey",
+          "citation": "[2000] 1 Cr App R 409",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Fairness ruling is detailed and outcome explicit; some obiter on alternative recall grounds noted in judgment."
+      }
+    }
+  }
+]

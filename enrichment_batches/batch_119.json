@@ -1,0 +1,904 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1008.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on US prosecution history estoppel; split 2-1 on amendment estoppel.",
+    "enrichment": {
+      "short_title": "Patent licence royalties barred where US prosecution history estoppel blocked doctrine of equivalents",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "United States Patent Act",
+          "provisions": [
+            "35 USC §102(b) (as applied in prosecution)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Celltech licensed MedImmune under the US Adair Patent relating to CDR-grafted humanised antibodies.",
+        "MedImmune developed palivizumab (SYNAGIS); Celltech claimed royalties on the basis of infringement by equivalents of claim 1, focusing on amino-acid position 23 (serine in the patent, threonine in SYNAGIS).",
+        "During US prosecution Celltech amended claim 1 to require donor residues at positions 6, 23, 24 and 49 after a Riechmann prior-art objection and made representations to the USPTO distinguishing acceptor residues at position 23.",
+        "Jacob J held argument estoppel but not amendment estoppel barred Celltech from relying on the doctrine of equivalents; both parties appealed.",
+        "The Court of Appeal (Vice-Chancellor and Longmore LJ; Arden LJ dissenting) held both amendment and argument estoppel applied, so Celltech could not recover royalties by equivalence."
+      ],
+      "procedural_posture": "Appeal and cross-appeal from Jacob J's trial of preliminary issues on US patent infringement and prosecution history estoppel.",
+      "outcome": "Cross-appeal allowed and Celltech's appeal dismissed; claim dismissed and Celltech precluded from relying on the US doctrine of equivalents.",
+      "ratio": "Under US law after Festo Corp v Shoketsu (2002), where a patentee narrows a claim so that a specified residue must be a donor amino acid and tells the USPTO that an acceptor residue at that position distinguishes the prior art, prosecution history estoppel prevents later asserting equivalence for a non-donor conservative substitution at that element.",
+      "legal_issues": [
+        "Whether Celltech was barred by amendment estoppel from relying on the doctrine of equivalents",
+        "Whether argument estoppel applied to Celltech's prosecution representations about position 23",
+        "How English courts should determine questions of US federal patent law"
+      ],
+      "catchwords": [
+        "prosecution history estoppel",
+        "doctrine of equivalents",
+        "file wrapper estoppel",
+        "Festo",
+        "humanised antibodies",
+        "foreign law",
+        "patent licence royalties"
+      ],
+      "index_terms": [
+        "Celltech",
+        "MedImmune",
+        "Adair Patent",
+        "SYNAGIS",
+        "palivizumab",
+        "Kabat position 23",
+        "Riechmann",
+        "amendment estoppel",
+        "argument estoppel"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Festo Corp v Shoketsu Kinzoku Kogyo Kabushiki Co",
+          "citation": "122 S Ct 1831 (2002)",
+          "relation": "applied"
+        },
+        {
+          "name": "Warner-Jenkinson Co Inc v Hilton Davis Chemical Co",
+          "citation": "520 US 17 (1997)",
+          "relation": "considered"
+        },
+        {
+          "name": "Texas Instruments Inc v US International Trade Commission",
+          "citation": "988 F2d 1165 (Fed Cir 1993)",
+          "relation": "applied"
+        },
+        {
+          "name": "MCC Proceeds Inc v Bishopsgate Investment Trust plc",
+          "citation": "[1998] unreported CA",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full approved judgment with detailed US law analysis; source metadata lists Lord Denning as judge but the text identifies Vice-Chancellor, Arden LJ and Longmore LJ."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1045.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on transsexual employees and toilet facilities under the 1975 Act.",
+    "enrichment": {
+      "short_title": "Employer not liable for refusing pre-operative transsexual access to female staff toilets",
+      "area_of_law": [
+        "Employment law",
+        "Discrimination law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Sex Discrimination Act 1975",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 2A",
+            "section 5(3)",
+            "section 6(2)",
+            "section 41",
+            "section 82"
+          ]
+        },
+        {
+          "title": "Workplace (Health, Safety and Welfare) Regulations 1992",
+          "provisions": [
+            "Regulation 20"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Sarah Croft, a Royal Mail employee undergoing male-to-female gender reassignment, began presenting as a woman in August 1998 during her real-life test.",
+        "Management agreed a low-key approach but required her to use a disabled/unisex toilet rather than female staff facilities while she remained pre-operative.",
+        "Colleagues harassed her verbally; management repeated harassment policies but the employee declined to name perpetrators for formal action.",
+        "She resigned in 1999 claiming constructive dismissal and direct discrimination under section 2A for denial of female toilet access.",
+        "The employment tribunal and EAT dismissed her claims; the Court of Appeal upheld those decisions."
+      ],
+      "procedural_posture": "Appeal from the Employment Appeal Tribunal dismissing an appeal from an employment tribunal.",
+      "outcome": "Appeal dismissed; no direct discrimination, no constructive dismissal, and section 41(3) defence upheld for acts of employee harassment.",
+      "ratio": "Section 2A protects persons undergoing gender reassignment but does not automatically entitle a pre-operative transsexual presenting as female to use sex-segregated toilet facilities immediately; employers may make separate interim arrangements for a reasonable period without less favourable treatment compared with non-transsexual employees.",
+      "legal_issues": [
+        "Whether refusal of female toilet access was direct sex or gender-reassignment discrimination",
+        "When a transsexual employee should be treated as female for facility-access purposes",
+        "Whether Royal Mail satisfied the section 41(3) reasonable-steps defence for employee harassment"
+      ],
+      "catchwords": [
+        "gender reassignment",
+        "transsexualism",
+        "toilet facilities",
+        "section 2A",
+        "Sex Discrimination Act 1975",
+        "comparator",
+        "section 41 defence",
+        "real life test"
+      ],
+      "index_terms": [
+        "Royal Mail",
+        "gender dysphoria",
+        "workplace toilets",
+        "pre-operative transsexual",
+        "Bellinger v Bellinger",
+        "Goodwin v United Kingdom",
+        "P v S"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bellinger v Bellinger",
+          "citation": "[2003] UKHL 21",
+          "relation": "considered"
+        },
+        {
+          "name": "Goodwin v United Kingdom",
+          "citation": "(2002) 35 EHRR 18",
+          "relation": "considered"
+        },
+        {
+          "name": "P v S and Cornwall County Council",
+          "citation": "[1996] ICR 795",
+          "relation": "applied"
+        },
+        {
+          "name": "A v Chief Constable of West Yorkshire Police",
+          "citation": "[2002] EWCA Civ 1584",
+          "relation": "considered"
+        },
+        {
+          "name": "Canniffe v East Riding of Yorkshire Council",
+          "citation": "[2000] IRLR 555",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full approved judgment with detailed tribunal findings and clear ratio on comparators and interim facilities."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1782.json",
+    "status": "done",
+    "notes": "Complete case stated under Mental Health Act 1983 s78(8) on tribunal powers and Article 5.",
+    "enrichment": {
+      "short_title": "MHRT has no power to order transfer of restricted patient to medium security",
+      "area_of_law": [
+        "Mental health law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 1",
+            "section 37",
+            "section 41",
+            "section 42",
+            "section 72",
+            "section 73",
+            "section 78(8)"
+          ]
+        },
+        {
+          "title": "Mental Health Review Tribunal Rules",
+          "provisions": [
+            "Rule 13",
+            "Rule 14",
+            "Rule 15"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3",
+            "section 6"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 5(1)(e)",
+            "Article 5(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "MP, a restricted patient detained at Rampton after a manslaughter conviction, had progressed clinically and successive tribunals recommended transfer to medium security.",
+        "Despite clinical support, transfer to a Regional Secure Unit proved impossible for several years, hindering progression toward conditional discharge.",
+        "The tribunal stated a special case asking whether the statutory regime was incompatible with Article 5 and whether deferred conditional discharge could secure transfer.",
+        "Silber J answered that tribunals may make non-binding transfer recommendations but cannot enforce them for restricted patients.",
+        "Counsel accepted the court was bound by Ashingdane that Article 5 is not concerned with conditions or location of lawful psychiatric detention."
+      ],
+      "procedural_posture": "Case stated by a Mental Health Review Tribunal under section 78(8) of the Mental Health Act 1983 for High Court determination.",
+      "outcome": "Questions answered against the patient; no Convention incompatibility; permission to appeal refused.",
+      "ratio": "For restricted patients who still meet the section 72 detention criteria, a Mental Health Review Tribunal has no statutory power to order or enforce transfer to lower-security conditions; Article 5(1)(e) and 5(4) do not require judicial control of place or security level of lawful hospital detention.",
+      "legal_issues": [
+        "Whether section 73 is incompatible with Article 5 for lack of enforceable transfer powers",
+        "Whether deferred conditional discharge under section 73(7) could retain supervisory control pending transfer",
+        "Whether Tribunal Rules 13-15 could be used to direct transfer"
+      ],
+      "catchwords": [
+        "restricted patient",
+        "Mental Health Review Tribunal",
+        "Regional Secure Unit",
+        "high security",
+        "case stated",
+        "Article 5",
+        "Ashingdane",
+        "conditional discharge"
+      ],
+      "index_terms": [
+        "Rampton Hospital",
+        "psychopathic disorder",
+        "Newton Lodge",
+        "transfer recommendation",
+        "section 72 criteria",
+        "deferred discharge"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ashingdane v United Kingdom",
+          "citation": "(1985) 7 EHRR 528",
+          "relation": "applied"
+        },
+        {
+          "name": "R (IH) v Nottinghamshire NHS Healthcare Trust",
+          "citation": "[2002] EWCA Civ 636",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Grant v Mental Health Review Tribunal of Trent",
+          "citation": "(1986) The Times, 26 April",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Harry) v Secretary of State",
+          "citation": "[1998] 1 WLR 1737",
+          "relation": "applied"
+        },
+        {
+          "name": "Munjaz v Mersey Care NHS Trust",
+          "citation": "[2003] EWCA Civ 1036",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment answering stated questions; tribunal had not made definitive findings on current detention criteria."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2188.json",
+    "status": "done",
+    "notes": "Complete judicial review dismissing challenge to Welsh compulsory purchase and side road orders.",
+    "enrichment": {
+      "short_title": "Sirhowy Enterprise Way CPO upheld despite failed Oakdale Business Park primary purpose",
+      "area_of_law": [
+        "Administrative law",
+        "Compulsory purchase",
+        "Highways law",
+        "Environmental law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Highways Act 1980",
+          "provisions": [
+            "section 14(1)(a)(ii)",
+            "section 125"
+          ]
+        },
+        {
+          "title": "Conservation (Natural Habitats etc) Regulations 1994",
+          "provisions": [
+            "regulation 3(4)",
+            "regulation 39",
+            "regulation 44"
+          ]
+        },
+        {
+          "title": "Council Directive 92/43/EEC (Habitats Directive)",
+          "provisions": [
+            "Article 12",
+            "Article 16"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Caerphilly Borough Council sought compulsory purchase and side road orders for the Sirhowy Enterprise Way bypass linking Blackwood to Pontllanfraith.",
+        "An inspector advised confirmation on the secondary purpose of reducing Blackwood town-centre traffic after finding the primary Oakdale Business Park regeneration purpose not justified by 2020.",
+        "Objectors challenged substitution of purposes, procedural fairness, and confirmation before a regulation 44 bat-disturbance licence.",
+        "The council gave an undertaking not to serve notice to treat until any required bat licence was granted.",
+        "Pitchford J dismissed both grounds of challenge."
+      ],
+      "procedural_posture": "Judicial review of compulsory purchase and side road orders confirmed by the National Assembly for Wales after a public inquiry.",
+      "outcome": "Claim dismissed; orders remained valid and the minister lawfully had regard to the Habitats Directive without deciding the licence application.",
+      "ratio": "Confirmation of compulsory purchase and side road orders may lawfully rely on an independent secondary public purpose where the inspector rejects the council's primary stated purpose; regulation 3(4) of the 1994 Habitats Regulations requires regard to the directive but does not require the confirming authority itself to determine Article 16 compliance before authorising land acquisition.",
+      "legal_issues": [
+        "Whether the Assembly could confirm orders after rejecting the primary regeneration purpose",
+        "Whether objectors were denied a fair opportunity to challenge the secondary traffic-relief purpose",
+        "Whether confirmation without a bat licence breached the Habitats Directive"
+      ],
+      "catchwords": [
+        "compulsory purchase order",
+        "side roads order",
+        "public inquiry",
+        "irrationality",
+        "Habitats Directive",
+        "bats",
+        "regulation 44 licence",
+        "Blackwood bypass"
+      ],
+      "index_terms": [
+        "Sirhowy Enterprise Way",
+        "Oakdale Business Park",
+        "National Assembly for Wales",
+        "Woodfield Park",
+        "notice to treat",
+        "A4084"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Cornwall County Council, ex parte Hardy",
+          "citation": "[2001] JPL 786",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Chesterfield Properties plc v Secretary of State for the Environment",
+          "citation": "(1997) 76 P&CR 117",
+          "relation": "applied"
+        },
+        {
+          "name": "Commission v United Kingdom",
+          "citation": "Case C-434/01 (Advocate General's Opinion)",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full judgment on both grounds; judges field in source JSON is empty though Pitchford J is identified in the text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1866.json",
+    "status": "done",
+    "notes": "Complete GLO test-case judgment on ACT restitution and limitation; appears duplicate of ewHC/ch/2003/1779.",
+    "enrichment": {
+      "short_title": "ACT restitution claim not time-barred where mistake discovered only after Metallgesellschaft",
+      "area_of_law": [
+        "Tax law",
+        "Restitution",
+        "European Union law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Income and Corporation Taxes Act 1988",
+          "provisions": [
+            "section 14",
+            "section 238",
+            "section 241",
+            "section 247",
+            "section 248"
+          ]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 2",
+            "section 5",
+            "section 32(1)(c)"
+          ]
+        },
+        {
+          "title": "EC Treaty",
+          "provisions": [
+            "Article 52 (now Article 43)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "DMG, a UK subsidiary of a German parent, paid advance corporation tax on dividends because section 247 ICTA barred group income elections with non-UK parents.",
+        "The ECJ in Metallgesellschaft/Hoechst held that restriction unlawful and that affected companies could claim compensation or restitution in domestic courts.",
+        "Some ACT payments were made more than six years before DMG issued proceedings in October 2000.",
+        "DMG pleaded restitution for payments made under a mistake of law, relying on Kleinwort Benson and section 32(1)(c) postponement until discovery.",
+        "Park J held tax payments could be recovered by mistake-of-law restitution and limitation did not begin until the ECJ decision (or at earliest the Advocate General's opinion)."
+      ],
+      "procedural_posture": "Group Litigation Order test case in the High Court (Chancery) on limitation and restitution following Metallgesellschaft/Hoechst.",
+      "outcome": "Judgment for DMG; claims for restitution of ACT payments held valid and not statute-barred.",
+      "ratio": "A UK company that paid ACT because it mistakenly believed group income elections with an EU-resident parent were impossible may recover the timing disadvantage by restitution for mistake of law; under section 32(1)(c) the six-year period runs from discovery of the mistake, which in this case was the ECJ ruling rather than awareness of Hoechst's earlier challenge.",
+      "legal_issues": [
+        "Whether Kleinwort Benson restitution applies to tax paid to the Revenue",
+        "Whether DMG's ACT payments were made under a mistake of law",
+        "When the limitation period began under section 32(1)(c)"
+      ],
+      "catchwords": [
+        "advance corporation tax",
+        "group income election",
+        "Metallgesellschaft",
+        "mistake of law",
+        "Kleinwort Benson",
+        "limitation",
+        "section 32",
+        "restitution"
+      ],
+      "index_terms": [
+        "Deutsche Morgan Grenfell",
+        "Deutsche Bank",
+        "ACT timing disadvantage",
+        "Hoechst challenge",
+        "GLO test case",
+        "Pirelli"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Metallgesellschaft Ltd v IRC",
+          "citation": "Case C-397/98; [2001] STC 452",
+          "relation": "applied"
+        },
+        {
+          "name": "Kleinwort Benson Ltd v Lincoln City Council",
+          "citation": "[1999] 2 AC 349",
+          "relation": "applied"
+        },
+        {
+          "name": "Woolwich Equitable Building Society v IRC",
+          "citation": "[1993] AC 70",
+          "relation": "considered"
+        },
+        {
+          "name": "Pirelli Cable Holding NV v IRC",
+          "citation": "[2003] STC 250",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full judgment with detailed limitation analysis; substantively the same case as [2003] EWHC Ch 1779."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1034.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment applying Walkley to widow's Fatal Accidents and Law Reform Act claims.",
+    "enrichment": {
+      "short_title": "Widow's asbestos claim time-barred after deceased discontinued timeous first action",
+      "area_of_law": [
+        "Personal injury",
+        "Limitation of actions",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 11",
+            "section 12",
+            "section 14",
+            "section 33"
+          ]
+        },
+        {
+          "title": "Fatal Accidents Act 1976",
+          "provisions": [
+            "section 1(1)"
+          ]
+        },
+        {
+          "title": "Law Reform (Miscellaneous Provisions) Act 1934",
+          "provisions": [
+            "section 1(1)"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Barry Young issued a timeous personal injury claim for mesothelioma in January 1995 after a provisional diagnosis.",
+        "After defendants disclosed pathology showing adenocarcinoma, his expert accepted doubt and the action was discontinued in January 1997.",
+        "Post-mortem examination in 1999 confirmed mesothelioma; his widow brought fresh Fatal Accidents Act and 1934 Act claims in May 2002.",
+        "The judge exercised section 33 discretion to allow the claims; employers appealed on Walkley grounds.",
+        "The Court of Appeal held Walkley barred section 33 because the deceased had begun proceedings within the primary limitation period."
+      ],
+      "procedural_posture": "Appeal from a preliminary issue trial on whether limitation should be disapplied under section 33.",
+      "outcome": "Appeal allowed; widow's claims held statute-barred under sections 11 and 12.",
+      "ratio": "Where a injured person issued proceedings within the primary three-year period but later discontinued them, Walkley prevents a second claimant (including a widow under the Fatal Accidents Act or the deceased's estate under the 1934 Act) from invoking section 33, because section 11 rather than the claimant's own delay is the reason the cause of action could no longer be pursued.",
+      "legal_issues": [
+        "Whether Walkley applies to derivative Fatal Accidents Act and 1934 Act claims",
+        "Whether exceptional circumstances or estoppel could avoid Walkley",
+        "Whether Walkley violates Article 6 ECHR"
+      ],
+      "catchwords": [
+        "Walkley principle",
+        "section 33 discretion",
+        "discontinuance",
+        "mesothelioma",
+        "Fatal Accidents Act",
+        "1934 Act",
+        "date of knowledge",
+        "asbestos"
+      ],
+      "index_terms": [
+        "Western Power Distribution",
+        "second action",
+        "preliminary issue",
+        "Stubbings v UK",
+        "Nash v Eli Lilly"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Walkley v Precision Forgings Ltd",
+          "citation": "[1979] 1 WLR 606",
+          "relation": "applied"
+        },
+        {
+          "name": "Deerness v John R Keeble & Son (Brantham) Ltd",
+          "citation": "[1983] 2 Lloyd's Rep 260",
+          "relation": "applied"
+        },
+        {
+          "name": "Stubbings v United Kingdom",
+          "citation": "(1997) 23 EHRR 213",
+          "relation": "applied"
+        },
+        {
+          "name": "Piggott v Estate of Aulton (deceased)",
+          "citation": "[2003] EWCA Civ 24",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full approved judgment extending Walkley to widow's claims for the first time."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1779.json",
+    "status": "done",
+    "notes": "Duplicate transcript of Deutsche Morgan Grenfell v IRC; same reasoning as EWHC Ch 1866.",
+    "enrichment": {
+      "short_title": "ACT restitution claim not time-barred where mistake discovered only after Metallgesellschaft",
+      "area_of_law": [
+        "Tax law",
+        "Restitution",
+        "European Union law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Income and Corporation Taxes Act 1988",
+          "provisions": [
+            "section 14",
+            "section 238",
+            "section 241",
+            "section 247",
+            "section 248"
+          ]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 2",
+            "section 5",
+            "section 32(1)(c)"
+          ]
+        },
+        {
+          "title": "EC Treaty",
+          "provisions": [
+            "Article 52 (now Article 43)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "DMG, a UK subsidiary of a German parent, paid advance corporation tax on dividends because section 247 ICTA barred group income elections with non-UK parents.",
+        "The ECJ in Metallgesellschaft/Hoechst held that restriction unlawful and that affected companies could claim compensation or restitution in domestic courts.",
+        "Some ACT payments were made more than six years before DMG issued proceedings in October 2000.",
+        "DMG pleaded restitution for payments made under a mistake of law, relying on Kleinwort Benson and section 32(1)(c) postponement until discovery.",
+        "Park J held tax payments could be recovered by mistake-of-law restitution and limitation did not begin until the ECJ decision (or at earliest the Advocate General's opinion)."
+      ],
+      "procedural_posture": "Group Litigation Order test case in the High Court (Chancery) on limitation and restitution following Metallgesellschaft/Hoechst.",
+      "outcome": "Judgment for DMG; claims for restitution of ACT payments held valid and not statute-barred.",
+      "ratio": "A UK company that paid ACT because it mistakenly believed group income elections with an EU-resident parent were impossible may recover the timing disadvantage by restitution for mistake of law; under section 32(1)(c) the six-year period runs from discovery of the mistake, which in this case was the ECJ ruling rather than awareness of Hoechst's earlier challenge.",
+      "legal_issues": [
+        "Whether Kleinwort Benson restitution applies to tax paid to the Revenue",
+        "Whether DMG's ACT payments were made under a mistake of law",
+        "When the limitation period began under section 32(1)(c)"
+      ],
+      "catchwords": [
+        "advance corporation tax",
+        "group income election",
+        "Metallgesellschaft",
+        "mistake of law",
+        "Kleinwort Benson",
+        "limitation",
+        "section 32",
+        "restitution"
+      ],
+      "index_terms": [
+        "Deutsche Morgan Grenfell",
+        "Deutsche Bank",
+        "ACT timing disadvantage",
+        "Hoechst challenge",
+        "GLO test case",
+        "Pirelli"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Metallgesellschaft Ltd v IRC",
+          "citation": "Case C-397/98; [2001] STC 452",
+          "relation": "applied"
+        },
+        {
+          "name": "Kleinwort Benson Ltd v Lincoln City Council",
+          "citation": "[1999] 2 AC 349",
+          "relation": "applied"
+        },
+        {
+          "name": "Woolwich Equitable Building Society v IRC",
+          "citation": "[1993] AC 70",
+          "relation": "considered"
+        },
+        {
+          "name": "Pirelli Cable Holding NV v IRC",
+          "citation": "[2003] STC 250",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full judgment; substantively identical to [2003] EWHC Ch 1866 with minor formatting differences."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/2135.json",
+    "status": "done",
+    "notes": "Complete liability trial judgment in bus-into-shop road traffic case.",
+    "enrichment": {
+      "short_title": "Bus driver liable where bus crossed carriageway and crashed into shop after hitting car",
+      "area_of_law": [
+        "Personal injury",
+        "Road traffic law",
+        "Negligence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "On 23 November 1999 a Selkent single-decker bus driven by Kenneth Benjamin turned from Eltham High Street into Well Hall Road and crossed onto the southbound carriageway.",
+        "The bus glanced Mr Kundi's lawfully positioned Proton car before demolishing pavement bollards and embedding in the Sheck shop, seriously injuring Michelle Stotardt (then Couchley).",
+        "Selkent contended inevitable accident due to a sudden epileptic or syncopal event; Kundi was alleged to have performed a U-turn.",
+        "Eyewitness and medical evidence did not support a U-turn or a proven medical incapacity before the bus entered the wrong carriageway.",
+        "Douglas Brown J found the driver negligent and rejected inevitable accident; Kundi bore no liability."
+      ],
+      "procedural_posture": "High Court Queen's Bench Division trial of liability only in a personal injury claim.",
+      "outcome": "Judgment for the claimant against Selkent; Part 20 claim and claim against Kundi dismissed.",
+      "ratio": "An employer bus operator fails to establish inevitable accident where the driver, with retrograde amnesia notwithstanding, drove onto the wrong side of the road and collided with a lawfully placed vehicle before hitting premises, and expert evidence does not prove on the balance of probabilities a medical event causing loss of control at that stage.",
+      "legal_issues": [
+        "Whether Mr Kundi performed a U-turn contributing to the collision",
+        "Whether Mr Benjamin lost control through epilepsy, syncope or reflex anoxic seizure",
+        "Whether Selkent discharged the burden of proving inevitable accident"
+      ],
+      "catchwords": [
+        "road traffic accident",
+        "bus negligence",
+        "inevitable accident",
+        "epilepsy",
+        "retrograde amnesia",
+        "Part 20 claim",
+        "runaway vehicle"
+      ],
+      "index_terms": [
+        "Stagecoach Selkent",
+        "Well Hall Road Eltham",
+        "Proton car",
+        "shop front collision",
+        "automatic driving defence"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full liability judgment with detailed fact findings; judges field empty in source JSON."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2405.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal (Criminal Division) judgment dismissing indecent assault appeal.",
+    "enrichment": {
+      "short_title": "Conviction upheld for stroking complainant's leg during shoe-fetish apartment viewing",
+      "area_of_law": [
+        "Criminal law",
+        "Sexual offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Sexual Offences Act 1956",
+          "provisions": [
+            "indecent assault (as then in force)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "During a property viewing the appellant knelt before the sales manager, stroked her legs below the knee over her trousers, and repeatedly asked to touch and remove her boots.",
+        "The complainant felt frightened; the appellant returned the next day and was reported to police.",
+        "He told custody staff he had 'only the shoe fetish' and at interview denied sexual satisfaction and denied leg contact.",
+        "The jury convicted of indecent assault; he received a three-year community rehabilitation order with a sex offender programme.",
+        "On appeal he challenged indecency directions, mistaken touching, relevance of complainant's fear, and admission of fetish evidence."
+      ],
+      "procedural_posture": "Appeal against conviction by leave of the single judge.",
+      "outcome": "Appeal dismissed; conviction held safe.",
+      "ratio": "Brief stroking of a woman's legs below the knee without consent, where the defendant's purpose was sexual gratification connected to a shoe fetish, is capable of amounting to indecent assault and is distinct from mere touching of footwear; a mistaken-touching direction is required only where the evidence supports that possibility.",
+      "legal_issues": [
+        "Whether leg-stroking was capable of indecency distinct from boot-touching",
+        "Whether the judge should have directed on mistaken touching",
+        "Whether complainant's fear was misused in summing-up",
+        "Whether 'shoe fetish' evidence was admissible"
+      ],
+      "catchwords": [
+        "indecent assault",
+        "indecency",
+        "shoe fetish",
+        "consent",
+        "summings-up",
+        "mistaken touching",
+        "R v George"
+      ],
+      "index_terms": [
+        "sexual touching",
+        "property viewing",
+        "expert evidence",
+        "custody admission"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v George",
+          "citation": "[1956] Crim LR 52",
+          "relation": "considered"
+        },
+        {
+          "name": "R v Court",
+          "citation": "[1989] AC 28",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Full criminal appeal judgment; Sexual Offences Act 1956 inferred from indecent assault charge at trial date."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1219.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on strict construction of section 21(4)(a) Housing Act 1988 notices.",
+    "enrichment": {
+      "short_title": "Section 21(4) notice invalid where possession date was day after period end",
+      "area_of_law": [
+        "Housing law",
+        "Landlord and tenant"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1988",
+          "provisions": [
+            "section 5(1)",
+            "section 21(1)",
+            "section 21(4)",
+            "section 21(4)(a)",
+            "section 21(4)(b)"
+          ]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": [
+            "section 55(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Tenants held a statutory periodic assured shorthold tenancy running from the 4th to the 3rd of each month after an initial fixed term.",
+        "Landlords served a section 21(4) notice requiring possession on 4 January 2003 rather than the last day of the period, 3 January 2003.",
+        "The county court struck out the tenants' defence to accelerated possession proceedings; HHJ Mayor dismissed their appeal.",
+        "Chadwick LJ adjourned for a second appeal on notice because county courts needed a definitive answer.",
+        "The Court of Appeal held the notice non-compliant and allowed the appeal."
+      ],
+      "procedural_posture": "Second appeal (permission granted at hearing) against strike-out of defence to section 21(4) possession claim.",
+      "outcome": "Appeal allowed; notice held invalid and defence restored.",
+      "ratio": "Under section 21(4)(a) of the Housing Act 1988 a landlord's notice must specify as the date after which possession is required the last day of a period of the tenancy, not the following day; Mannai-style construction does not cure a one-day error because the subsection sets mandatory, precise criteria triggering the court's duty to order possession.",
+      "legal_issues": [
+        "Whether a periodic tenancy can have two 'last days' for notice purposes",
+        "Whether the Mannai reasonable-recipient test applies to section 21(4)(a)",
+        "Whether specifying possession on the day after period-end complies with the statute"
+      ],
+      "catchwords": [
+        "section 21(4)",
+        "assured shorthold tenancy",
+        "periodic tenancy",
+        "notice requiring possession",
+        "accelerated possession",
+        "Mannai",
+        "strict construction"
+      ],
+      "index_terms": [
+        "McDonald v Fernandez",
+        "Leicester County Court",
+        "strike out defence",
+        "4th to 3rd monthly period"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Lower Street Properties v Jones",
+          "citation": "(1996) 28 HLR 877",
+          "relation": "applied"
+        },
+        {
+          "name": "Mannai Investment Co Ltd v Eagle Star Life Assurance Co Ltd",
+          "citation": "[1997] AC 749",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Burman v Mount Cook Land Ltd",
+          "citation": "[2001] EWCA Civ 1712",
+          "relation": "applied"
+        },
+        {
+          "name": "Ravenseft Properties Ltd v Hall",
+          "citation": "[2001] EWCA Civ 2034",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Short point clearly resolved; facts undisputed."
+      }
+    }
+  }
+]

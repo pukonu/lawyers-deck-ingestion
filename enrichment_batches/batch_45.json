@@ -1,0 +1,853 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2003/848.json",
+    "status": "done",
+    "notes": "Batch 45 enrichment",
+    "enrichment": {
+      "short_title": "Confiscation assumptions after recovered burglary proceeds",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 71",
+            "section 72AA"
+          ]
+        },
+        {
+          "title": "Proceeds of Crime Act 1995",
+          "provisions": [
+            "section 1",
+            "section 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Gary John Wilkes was convicted of aggravated burglary and related offences; stolen goods from the trigger offences were recovered by police.",
+        "A confiscation order of £41,380 was made on the basis of statutory assumptions under section 72AA after two qualifying offences.",
+        "Wilkes appealed only the confiscation order, arguing he had obtained property only momentarily and that assumptions should not have been made or should have been rebutted.",
+        "The Court of Appeal held that section 71(4) is satisfied when property is obtained at completion of the offence, regardless of later recovery, following R v Smith (David Cadman) in the House of Lords."
+      ],
+      "procedural_posture": "Appeal with leave against a Crown Court confiscation order under section 71 of the Criminal Justice Act 1988.",
+      "outcome": "Appeal dismissed; the confiscation order was upheld.",
+      "ratio": "Under section 71(4) of the Criminal Justice Act 1988 a defendant benefits from an offence if he obtains property in connection with its commission, and recovery of the property is irrelevant; once section 72AA is triggered by qualifying offences, the court may make statutory assumptions and need not treat unsuccessful offences as defeating the regime.",
+      "legal_issues": [
+        "Whether recovered stolen property means the offender did not benefit for section 71 purposes",
+        "Discretion to make and rebut assumptions under section 72AA(3)-(5)",
+        "Effect of R v Smith (David Cadman) on section 71(4) and (5)",
+        "Compatibility of the assumptions regime with Article 6 ECHR"
+      ],
+      "catchwords": [
+        "confiscation",
+        "section 72AA",
+        "statutory assumptions",
+        "qualifying offences",
+        "benefit from offence",
+        "proceeds of crime"
+      ],
+      "index_terms": [
+        "Wilkes",
+        "aggravated burglary",
+        "handling stolen goods",
+        "realisable assets",
+        "course of criminal conduct",
+        "Smith David Cadman"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Smith (David Cadman)",
+          "citation": "[2001] UKHL 68",
+          "relation": "followed"
+        },
+        {
+          "name": "Rees",
+          "citation": "unreported, 14 February 1996",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed judgment on confiscation statutory framework with clear outcome on all grounds of appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/539.json",
+    "status": "done",
+    "notes": "Batch 45 enrichment",
+    "enrichment": {
+      "short_title": "Driver identity on case stated after no-case submission",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal procedure",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "Part VI",
+            "section 172"
+          ]
+        },
+        {
+          "title": "Road Traffic Offenders Act 1988",
+          "provisions": [
+            "sections 11",
+            "section 12"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Simon Nicholas Bayliff was prosecuted for speeding, using a vehicle without insurance, and failing to produce insurance after being stopped on the M40.",
+        "The driver gave his name, address, date of birth and employer; the vehicle was registered to that employer.",
+        "Magistrates rejected a submission of no case to answer but then acquitted on identity, finding guilt not proved beyond reasonable doubt despite no defence evidence.",
+        "The High Court held that Creed v Scott showed sufficient evidence of identity and that the magistrates had asked a question of law answerable in the negative."
+      ],
+      "procedural_posture": "Prosecution appeal by way of case stated from Nuneaton Magistrates' Court.",
+      "outcome": "Appeal allowed; the acquittals could not stand and the matter was remitted for rehearing.",
+      "ratio": "Where a driver gives his name and address to police and appears by counsel at trial, that is some evidence of identity on which magistrates may convict; rejecting no case to answer does not oblige conviction, but acquittal on identity after Creed v Scott was wrong in law on these facts.",
+      "legal_issues": [
+        "Evidential value of a driver's self-identification to police",
+        "Whether magistrates may acquit after rejecting no case to answer",
+        "Application of Creed v Scott and Marshall v Ford",
+        "Whether the case stated raised a question of law or fact"
+      ],
+      "catchwords": [
+        "case stated",
+        "driver identity",
+        "no case to answer",
+        "speeding",
+        "motor insurance",
+        "magistrates"
+      ],
+      "index_terms": [
+        "Bayliff",
+        "Creed v Scott",
+        "Marshall v Ford",
+        "Scruby v Beskeen",
+        "M40 motorway",
+        "VASCAR"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Creed v Scott",
+          "citation": "[1976] RTR 485",
+          "relation": "applied"
+        },
+        {
+          "name": "Marshall v Ford",
+          "citation": "(1908) 72 JP 480",
+          "relation": "cited"
+        },
+        {
+          "name": "Scruby v Beskeen",
+          "citation": "[1980] RTR",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Clear road traffic identity appeal with well-defined facts and authority-driven reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/580.json",
+    "status": "done",
+    "notes": "Batch 45 enrichment",
+    "enrichment": {
+      "short_title": "Assault on custody sergeant removing disruptive visitor",
+      "area_of_law": [
+        "Criminal law",
+        "Police powers",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Act 1996",
+          "provisions": [
+            "section 89(1)"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A 16-year-old appellant and her mother disrupted Hereford custody suite while the appellant was answering bail.",
+        "Custody Sergeant Eastwood guided the mother toward the exit using minimal force while the appellant was restrained for placement in a cell.",
+        "The appellant lunged past the custody assistant and recklessly injured Sergeant Eastwood's face.",
+        "Magistrates convicted her of assaulting an officer in execution of his duty; the High Court upheld that the sergeant remained acting in execution of his duty."
+      ],
+      "procedural_posture": "Appeal by way of case stated against conviction in the magistrates' court.",
+      "outcome": "Appeal dismissed; both questions posed for the High Court were answered in favour of the prosecution.",
+      "ratio": "A custody sergeant may lawfully remove a disruptive non-detainee from a custody suite using minimal force to maintain effective operation of the station, and such conduct remains in execution of his duty so that a reckless assault on him is not excused as defence of another.",
+      "legal_issues": [
+        "Whether guiding a disruptive visitor from a custody suite is acting in execution of duty",
+        "Whether minimal force amounted to unlawful assault on the mother",
+        "Whether the appellant acted in defence of her mother",
+        "Distinction between detention and escorting a visitor off premises"
+      ],
+      "catchwords": [
+        "assault on police",
+        "execution of duty",
+        "custody suite",
+        "breach of the peace",
+        "self-defence",
+        "case stated"
+      ],
+      "index_terms": [
+        "Bucher",
+        "Sergeant Eastwood",
+        "Hereford Police Station",
+        "Donnelly v Jackman",
+        "Rice v Connolly",
+        "conditional discharge"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Donnelly v Jackman",
+          "citation": "(1970) 1 All ER 987",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Rice v Connolly",
+          "citation": "(1966) 2 All ER 651",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Bentley v Brudzinski",
+          "citation": "75 Cr App R 217",
+          "relation": "cited"
+        },
+        {
+          "name": "Ludlow v Burgess",
+          "citation": "75 Cr App R 227",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Straightforward case stated with detailed magistrates' findings and clear legal conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2003/219.json",
+    "status": "done",
+    "notes": "Batch 45 enrichment",
+    "enrichment": {
+      "short_title": "Failed US adoption and freeing child for adoption",
+      "area_of_law": [
+        "Family law",
+        "Adoption",
+        "Children law",
+        "Immigration"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Adoption Act 1976",
+          "provisions": [
+            "section 11",
+            "section 18",
+            "section 57",
+            "section 72"
+          ]
+        },
+        {
+          "title": "Adoption and Children Act 2002",
+          "provisions": [
+            "sections 92",
+            "section 93",
+            "section 94",
+            "section 95"
+          ]
+        },
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 3",
+            "Part III"
+          ]
+        },
+        {
+          "title": "Adoption (Inter-Country Aspects) Act 1999",
+          "provisions": [
+            "section 13"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6",
+            "section 7"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Texas adoption of a baby by unsuitable English adopters was facilitated by private home study reports prepared by Jay Carter and Blessed Trinity Adoptions Inc.",
+        "The adoptive mother committed suicide, the adoptive father abandoned the child, and the local authority issued proceedings to free the child for adoption.",
+        "Birth parents sought return of the child but assessment concluded placement with them would expose her to significant harm.",
+        "Munby J made a public judgment freeing the child for adoption and directed copies to government departments, the DPP and US authorities."
+      ],
+      "procedural_posture": "Originating summons in the Family Division to free a child for adoption under section 18 of the Adoption Act 1976 after breakdown of an inter-country adoption.",
+      "outcome": "Order made freeing the child forthwith for adoption; judgment given in public with directions for dissemination.",
+      "ratio": "Privately commissioned overseas home study reports generally facilitate unlawful private adoption arrangements contrary to sections 11 and 57 of the Adoption Act 1976; on a section 65-style balancing exercise the welfare of the child prevails over reunification with birth parents where assessment shows significant risk of harm, even where consent was procured improperly.",
+      "legal_issues": [
+        "Lawfulness of private home study reports for inter-country adoption",
+        "Recognition of a Texas adoption order in English law",
+        "Whether birth parents should recover the child",
+        "Impact of Article 8 on adoption and deportation-style family separation analysis",
+        "Local authority duties when a privately adopted child enters its area"
+      ],
+      "catchwords": [
+        "inter-country adoption",
+        "home study report",
+        "freeing order",
+        "private adoption arrangements",
+        "child welfare",
+        "Article 8"
+      ],
+      "index_terms": [
+        "Jay Carter",
+        "Blessed Trinity Adoptions",
+        "Re C Adoption Legality",
+        "Re J-S",
+        "Flintshire County Council v K",
+        "Texas adoption"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re C (Adoption: Legality)",
+          "citation": "[1999] 1 FLR 370",
+          "relation": "followed"
+        },
+        {
+          "name": "Re J-S (Private International Adoption)",
+          "citation": "[2000] 2 FLR 638",
+          "relation": "followed"
+        },
+        {
+          "name": "Flintshire County Council v K",
+          "citation": "[2001] 2 FLR 476",
+          "relation": "followed"
+        },
+        {
+          "name": "Boultif v Switzerland",
+          "citation": "33 EHRR 1179",
+          "relation": "cited"
+        },
+        {
+          "name": "Amrollahi v Denmark",
+          "citation": "11 July 2002, 56811/00",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Very long public judgment; core legal holdings on private adoption reports and freeing order are clear though some transcript text is truncated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/358.json",
+    "status": "done",
+    "notes": "Batch 45 enrichment",
+    "enrichment": {
+      "short_title": "Insurance excess claim value under CPR 16.3",
+      "area_of_law": [
+        "Civil procedure",
+        "Road traffic law",
+        "Insurance"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "After a road traffic accident insurers agreed by memorandum of understanding that court liability would determine who bore full repair costs.",
+        "The claimant issued proceedings claiming only the £125 policy excess, not the insurer-paid repair bill of about £756.",
+        "District Judge Stephenson struck out the claim for failing to plead the full repair value; her refusal to set aside was upheld at first instance.",
+        "The Court of Appeal held that under the CPR the claim value is what the claimant seeks through the court, not sums kept out of proceedings by agreement."
+      ],
+      "procedural_posture": "Appeal transferred from Central London County Court to the Court of Appeal on a point of CPR practice.",
+      "outcome": "Appeal allowed; strike-out and refusal to set aside were set aside and the claim reinstated.",
+      "ratio": "For CPR purposes the financial value of a claim is limited to sums formally claimed through the court; a claimant is entitled to exclude heads of loss and insurers may litigate only an excess without being required to include subrogated repair costs in the pleadings.",
+      "legal_issues": [
+        "Meaning of claim and financial value under CPR 16.3 and 26.8",
+        "Whether subrogated insurer arrangements require pleading full repair costs",
+        "Relationship between court fees and pleaded claim value",
+        "Autonomy of a claimant to limit pleaded damages"
+      ],
+      "catchwords": [
+        "CPR",
+        "claim value",
+        "small claims track",
+        "insurance excess",
+        "subrogation",
+        "strike out"
+      ],
+      "index_terms": [
+        "Khiaban v Beard",
+        "memorandum of understanding",
+        "County Court Fees Order",
+        "Henderson v Henderson",
+        "road traffic accident"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Henderson v Henderson",
+          "citation": "(1843) 3 Hare 100",
+          "relation": "cited"
+        },
+        {
+          "name": "Re B (Infants)",
+          "citation": "[1965] 1 WLR 946",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Focused CPR appeal with clear ratio on claim valuation and insurer MOU practice."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/540.json",
+    "status": "done",
+    "notes": "Batch 45 enrichment",
+    "enrichment": {
+      "short_title": "Planning appeal for city-centre amusement centre",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 78",
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Noble Organisation appealed refusal of planning permission to change 25 Northgate Street, Gloucester from A1 retail to an amusement centre.",
+        "A planning inspector allowed the appeal, finding no harm to the primary shopping area or the Cross Conservation Area.",
+        "Gloucester City Council challenged the inspector's treatment of emerging local plan policy S8 and the onus to demonstrate enhanced viability.",
+        "Richards J dismissed the section 288 claim, holding the inspector lawfully applied limited weight to the draft plan and positively found enhanced vitality and viability."
+      ],
+      "procedural_posture": "Statutory challenge under section 288 of the Town and Country Planning Act 1990 to a planning inspector's appeal decision.",
+      "outcome": "Claim dismissed; the inspector's grant of permission was upheld.",
+      "ratio": "An inspector may give limited weight to an emerging draft local plan and assess policy S8 by its objective of avoiding harm to centre viability; positive findings that a proposal accords with structure plan policy TC1 and supports shopping function suffice to show the developer demonstrated sustainment and enhancement of the primary shopping area.",
+      "legal_issues": [
+        "Construction of draft local plan policy S8 criterion 4",
+        "Onus on developer to demonstrate enhanced primary shopping area viability",
+        "Weight to be given to a draft plan adopted for development control purposes",
+        "Whether relief should be refused for immaterial error"
+      ],
+      "catchwords": [
+        "planning permission",
+        "section 288",
+        "primary shopping area",
+        "conservation area",
+        "emerging local plan",
+        "viability"
+      ],
+      "index_terms": [
+        "Gloucester City Council",
+        "Noble Organisation",
+        "Northgate Street",
+        "policy S8",
+        "PPG6",
+        "PPG1"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bolton Metropolitan District Council v Secretary of State for the Environment",
+          "citation": "[1995] 1 WLR 1176",
+          "relation": "cited"
+        },
+        {
+          "name": "MJT Securities Ltd v Secretary of State for the Environment",
+          "citation": "[1997] 3 PLR 43",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed planning judgment; merits grounds were narrowed at hearing but core S8 issues are fully reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/378.json",
+    "status": "done",
+    "notes": "Batch 45 enrichment",
+    "enrichment": {
+      "short_title": "P&I club letter of undertaking competent court",
+      "area_of_law": [
+        "Admiralty law",
+        "Insurance",
+        "Contract",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "sections 20",
+            "section 21"
+          ]
+        },
+        {
+          "title": "Civil Jurisdiction and Judgments Act 1982",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Cargo interests obtained a P&I club letter of undertaking not to arrest the Juntha Rajpruek in exchange for refraining from arrest.",
+        "The club undertook to instruct solicitors to accept in rem proceedings in a competent court, reserving rights to contest jurisdiction and seek a stay.",
+        "Cargo owners issued English Admiralty in rem proceedings and sought specific performance when the club refused to accept service.",
+        "The Court of Appeal upheld Aikens J: competent court means a court with jurisdiction over the in rem claim, not one where the vessel is physically present."
+      ],
+      "procedural_posture": "Appeal with permission against a Part 8 judgment ordering specific performance of a letter of undertaking.",
+      "outcome": "Appeal dismissed with costs; permission to appeal to the House of Lords refused.",
+      "ratio": "In a P&I club letter of undertaking, competent court means a court with subject-matter jurisdiction to entertain the in rem cargo claim, not merely a court whose territorial waters the vessel has entered; the reservation of rights to challenge jurisdiction does not require physical presence of the vessel.",
+      "legal_issues": [
+        "Construction of competent court in a letter of undertaking",
+        "Whether the English Admiralty Court had in rem jurisdiction without the vessel in territorial waters",
+        "Effect of exclusive jurisdiction clauses in bills of lading",
+        "Commercial purpose of club guarantees and service undertakings"
+      ],
+      "catchwords": [
+        "letter of undertaking",
+        "P&I club",
+        "Admiralty in rem",
+        "competent court",
+        "cargo claim",
+        "specific performance"
+      ],
+      "index_terms": [
+        "Steamship Mutual",
+        "Juntha Rajpruek",
+        "general average",
+        "salvage security",
+        "The Freccia del Nord",
+        "Aikens J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Freccia del Nord",
+          "citation": "[1989] 1 Lloyd's Rep 388",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear contractual construction appeal in admiralty security context with unanimous Court of Appeal agreement."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/389.json",
+    "status": "done",
+    "notes": "Batch 45 enrichment",
+    "enrichment": {
+      "short_title": "Section 65 appeal and child's Article 8 rights",
+      "area_of_law": [
+        "Immigration law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 65"
+          ]
+        },
+        {
+          "title": "Immigration Act 1971",
+          "provisions": [
+            "section 3",
+            "section 5",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6",
+            "section 7"
+          ]
+        },
+        {
+          "title": "Children and Young Persons Act 1933",
+          "provisions": [
+            "section 39"
+          ]
+        }
+      ],
+      "key_facts": [
+        "AC, a Turkish national sentenced to eight years with a deportation recommendation, appealed refusal to revoke her deportation order under section 65.",
+        "Her six-year-old daughter S lived with the father in the UK and shared Article 8 family life with the mother.",
+        "The Immigration Appeal Tribunal ruled that only the appellant's own human rights could be considered on a section 65 appeal, not S's rights separately.",
+        "Jack J held section 65 is appellant-focused but the impact of deportation on shared family life, including effects on a child, must be taken into account in the Article 8 balancing exercise."
+      ],
+      "procedural_posture": "Judicial review of preliminary rulings of the Immigration Appeal Tribunal in a section 65 human rights appeal against refusal to revoke deportation.",
+      "outcome": "Tribunal ruling quashed in part; the Tribunal was wrong to exclude consideration of the impact of deportation on the child when assessing the appellant's Article 8 rights.",
+      "ratio": "A section 65 appeal is limited to alleged breaches of the appellant's own human rights, but where family life is shared the decision maker must consider the effect of deportation on that family life as a whole, including harm to a child, when conducting the Article 8 proportionality balance.",
+      "legal_issues": [
+        "Scope of section 65 Immigration and Asylum Act 1999",
+        "Whether a child's Article 8 rights may be relied on directly in the appeal",
+        "Distinction between family life as a single relationship and individual Convention rights",
+        "Application of Boultif and Amrollahi to deportation decisions"
+      ],
+      "catchwords": [
+        "deportation",
+        "section 65",
+        "Article 8",
+        "family life",
+        "immigration appeal",
+        "proportionality"
+      ],
+      "index_terms": [
+        "Kehinde v Secretary of State",
+        "Samaroo v Secretary of State",
+        "Immigration Rules paragraph 364",
+        "IAT preliminary ruling",
+        "mother and child"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Kehinde v Secretary of State",
+          "citation": "01/TH/2668",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Samaroo v Secretary of State",
+          "citation": "[2002] INLR 55",
+          "relation": "cited"
+        },
+        {
+          "name": "Boultif v Switzerland",
+          "citation": "33 EHRR 1179",
+          "relation": "cited"
+        },
+        {
+          "name": "Amrollahi v Denmark",
+          "citation": "11 July 2002, 56811/00",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Secretary of State ex parte Gangadeen",
+          "citation": "[1998] INLR 206",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Authoritative analysis of section 65 scope with clear quashing of the Tribunal's narrow approach to children's rights."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/576.json",
+    "status": "done",
+    "notes": "Batch 45 enrichment",
+    "enrichment": {
+      "short_title": "Race discrimination claim time limits and continuing act",
+      "area_of_law": [
+        "Employment law",
+        "Discrimination law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Race Relations Act 1976",
+          "provisions": [
+            "section 68(1)",
+            "section 68(6)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Francis Robertson, a black Caribbean plant technician, complained of racial harassment by colleague Don Pankhurst in early 1999 and other employer conduct later that year.",
+        "His tribunal claim was filed on 4 October 1999; Pankhurst's further racist conduct at a reconciliation meeting on 5 October postdated the claim.",
+        "The employment tribunal found the Pankhurst complaints time-barred and refused a just and equitable extension; the EAT substituted its own view and remitted the case.",
+        "The Court of Appeal restored the tribunal decision, holding there was no continuing act and the EAT could not overturn the just and equitable discretion."
+      ],
+      "procedural_posture": "Employer appeal to the Court of Appeal against an Employment Appeal Tribunal decision restoring a race discrimination claim.",
+      "outcome": "Appeal allowed; the EAT decision was set aside and the employment tribunal's limitation rulings restored.",
+      "ratio": "A continuing act of discrimination requires a practice, policy, rule or regime, not merely unchanged attitude by one colleague; post-claim conduct cannot establish a continuing act for limitation purposes, and an EAT may not substitute its view for a tribunal's section 68(6) just and equitable discretion unless plainly wrong.",
+      "legal_issues": [
+        "Whether Pankhurst's conduct formed a continuing act for limitation",
+        "Admissibility of post-claim events on limitation and discretion",
+        "Standard of review of just and equitable extension under section 68(6)",
+        "Relationship between early harassment and later employer management decisions"
+      ],
+      "catchwords": [
+        "race discrimination",
+        "time limits",
+        "continuing act",
+        "just and equitable",
+        "Employment Appeal Tribunal",
+        "section 68"
+      ],
+      "index_terms": [
+        "Robertson",
+        "Bexley Community Centre",
+        "Leisure Link",
+        "Owusu v London Fire",
+        "Sougrin v Haringey",
+        "Jack v Pinkerton"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Owusu v London Fire and Civil Defence Authority",
+          "citation": "[1995] IRLR 574",
+          "relation": "applied"
+        },
+        {
+          "name": "Sougrin v Haringey Health Authority",
+          "citation": "[1992] IRLR 416",
+          "relation": "cited"
+        },
+        {
+          "name": "Din (Ghulam) v Carrington Viyella Ltd",
+          "citation": "[1982] ICR 256",
+          "relation": "cited"
+        },
+        {
+          "name": "Daniel and Homerton Hospital Trust",
+          "citation": "unreported, 9 July 1999, CA",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Complex limitation facts but clear appellate restatement of continuing act and discretion principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/321.json",
+    "status": "done",
+    "notes": "Batch 45 enrichment",
+    "enrichment": {
+      "short_title": "CDDA proceedings and earlier civil findings",
+      "area_of_law": [
+        "Company law",
+        "Directors disqualification",
+        "Civil procedure",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Company Directors Disqualification Act 1986",
+          "provisions": [
+            "section 1",
+            "section 8",
+            "section 9",
+            "section 16",
+            "section 20"
+          ]
+        },
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 432(2)"
+          ]
+        },
+        {
+          "title": "Civil Evidence Act 1995",
+          "provisions": [
+            "section 1"
+          ]
+        },
+        {
+          "title": "Civil Evidence Act 1968",
+          "provisions": [
+            "sections 11",
+            "section 13"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Secretary of State sought disqualification of John Bairstow, former chairman of Queen's Moat House plc, for unfitness to manage a company.",
+        "Extensive misconduct issues had already been tried over many months before Nelson J in wrongful dismissal proceedings between Bairstow and QMH.",
+        "Pumfrey J ordered Bairstow bound by Nelson J's findings and barred from relitigating them, relying on Hunter v Chief Constable abuse of process principles.",
+        "The Court of Appeal allowed Bairstow's appeal, holding earlier civil findings were inadmissible under Hollington v Hewthorn and relitigation was not manifestly unfair or disreputable."
+      ],
+      "procedural_posture": "Appeal with permission against a pre-trial review order in section 8 CDDA disqualification proceedings.",
+      "outcome": "Appeal allowed; paragraph 1 of Pumfrey J's order was set aside and the case remitted for further pre-trial review.",
+      "ratio": "Findings in earlier civil proceedings between different parties are not admissible to prove facts under Hollington v Hewthorn, and requiring relitigation in CDDA proceedings is not an abuse of process unless relitigation would be manifestly unfair or bring justice into disrepute; the Secretary of State must prove unfitness by admissible evidence.",
+      "legal_issues": [
+        "Admissibility of prior civil court findings in CDDA proceedings",
+        "Application of Hunter v Chief Constable to non-party disqualification applications",
+        "Whether Hollington applies only to criminal convictions",
+        "Scope of CPR case management powers over evidence"
+      ],
+      "catchwords": [
+        "director disqualification",
+        "abuse of process",
+        "collateral challenge",
+        "Hollington",
+        "prior civil findings",
+        "hearsay"
+      ],
+      "index_terms": [
+        "Bairstow",
+        "Queen's Moat House",
+        "Nelson J",
+        "Pumfrey J",
+        "Re Rex Williams Leisure",
+        "Three Rivers v Bank of England"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hollington v F Hewthorn & Co Ltd",
+          "citation": "[1943] KB 587",
+          "relation": "applied"
+        },
+        {
+          "name": "Hunter v Chief Constable of the West Midlands",
+          "citation": "[1982] AC 529",
+          "relation": "applied"
+        },
+        {
+          "name": "Reichel v Magrath",
+          "citation": "(1889) 14 App Cas 665",
+          "relation": "cited"
+        },
+        {
+          "name": "Three Rivers District Council v Bank of England (No 3)",
+          "citation": "[2001] 2 All ER 513",
+          "relation": "cited"
+        },
+        {
+          "name": "Arthur JS Hall & Co v Simons",
+          "citation": "[2002] 1 AC 615",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Leading procedural judgment with comprehensive review of Hollington and Hunter principles in CDDA context."
+      }
+    }
+  }
+]

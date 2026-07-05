@@ -1,0 +1,824 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1760.json",
+    "status": "done",
+    "notes": "Full Court of Appeal judgment on mandatory vs directory notice requirements under Part I LTA 1987.",
+    "enrichment": {
+      "short_title": "Section 11A tenants' information notice held valid despite omission of flat addresses under section 54",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Leasehold enfranchisement",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Landlord and Tenant Act 1987",
+          "provisions": ["Part I", "s.1", "s.5", "s.5A", "s.6", "s.11A", "s.12", "s.12A", "s.18A", "s.19", "s.54", "s.60"]
+        },
+        {
+          "title": "Landlord and Tenant Act 1985",
+          "provisions": ["s.3", "s.3A"]
+        },
+        {
+          "title": "Housing Act 1996",
+          "provisions": ["amendments to Part I LTA 1987", "s.10A"]
+        },
+        {
+          "title": "Commonhold and Leasehold Reform Act 2002",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Qualifying tenants of Brambridge House served a section 11A notice on the purchaser M25 Group requiring particulars of a disposal of the freehold, but the notice named the tenants without stating the addresses of their flats as section 54(2) requires.",
+        "It was assumed for the appeal that the original disposal had contravened sections 6–10 of the 1987 Act and that the tenants were the requisite majority.",
+        "The purchaser applied to strike out enforcement proceedings under section 19; the judge upheld the notice as directory only, and the Court of Appeal agreed."
+      ],
+      "procedural_posture": "Appeal from a strike-out application on the validity of a section 11A notice.",
+      "outcome": "Appeal dismissed; section 11A notice held valid despite non-compliance with the address requirement in section 54(2).",
+      "ratio": "When construing formal notice requirements under Part I of the Landlord and Tenant Act 1987, the court must distinguish mandatory from directory provisions by reference to the statutory scheme: the requirement in section 54(2) to state flat addresses is supportive machinery rather than an essential condition, so omission of addresses that were readily ascertainable by the landlord does not invalidate a section 11A notice.",
+      "legal_issues": [
+        "Whether failure to state flat addresses in a section 11A notice is fatal to its validity",
+        "How to apply the mandatory/directory distinction to Part I notice requirements",
+        "Whether section 54 must be construed uniformly across all Part I notices including those with penal consequences",
+        "Whether the purchaser's actual knowledge of tenant addresses is relevant"
+      ],
+      "catchwords": [
+        "section 11A",
+        "section 54",
+        "rights of first refusal",
+        "qualifying tenants",
+        "mandatory and directory",
+        "leasehold enfranchisement",
+        "notice validity"
+      ],
+      "index_terms": [
+        "M25 Group Ltd",
+        "Brambridge House",
+        "Kay Green v Twinsectra",
+        "Burman v Mount Cook Land",
+        "Howard v Secretary of State",
+        "Belvedere Court Management"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Kay Green v Twinsectra Ltd",
+          "citation": "[1996] 1 WLR 1587"
+        },
+        {
+          "name": "Burman v Mount Cook Land Ltd",
+          "citation": "[2002] Ch 256"
+        },
+        {
+          "name": "Howard v Secretary of State for the Environment",
+          "citation": "[1975] QB 235"
+        },
+        {
+          "name": "Belvedere Court Management Ltd v Frogmore Developments Ltd",
+          "citation": "[1997] QB 858"
+        },
+        {
+          "name": "Byrnlea Property Investments Ltd v Ramsay",
+          "citation": "[1969] 2 QB 253"
+        },
+        {
+          "name": "Speedwell Estates Ltd v Dalziel",
+          "citation": "[2002] 1 EGLR 55"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete judgment with detailed statutory analysis and clear outcome; judges listed include Potter LJ (Lord Denning appears to be a data error in source metadata)."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3649.json",
+    "status": "done",
+    "notes": "Short sentencing judgment; judges field empty in source metadata.",
+    "enrichment": {
+      "short_title": "Section 20 GBH sentence reduced from two and a half years to fifteen months for psychiatric in-patient",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Mental health and sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": ["s.20"]
+        }
+      ],
+      "key_facts": [
+        "The appellant, aged 33, was an in-patient at Royal South Hampshire hospital with paranoid schizophrenia and antisocial personality disorder.",
+        "He punched a fellow patient in the head after an argument over money; the victim fell and fractured tibia and fibula.",
+        "He was convicted of inflicting grievous bodily harm and sentenced to two and a half years' imprisonment; the single judge granted leave to appeal sentence only."
+      ],
+      "procedural_posture": "Appeal against sentence with leave of the single judge.",
+      "outcome": "Appeal allowed in part: sentence reduced to fifteen months' imprisonment; application for suspended sentence refused.",
+      "ratio": "A sentence of two and a half years for a single unpremeditated section 20 punch causing an unintended leg fracture was manifestly excessive when measured against one-punch manslaughter starting points, even allowing for the appellant's psychiatric condition and the need to protect the public; suspension was not warranted where the pre-sentence report identified a continuing risk of serious violence.",
+      "legal_issues": [
+        "Whether the sentence was manifestly excessive for a single punch under section 20",
+        "Whether exceptional circumstances warranted suspending the custodial sentence given the appellant's mental health",
+        "How psychiatric illness and public protection should be balanced at sentencing"
+      ],
+      "catchwords": [
+        "section 20",
+        "grievous bodily harm",
+        "sentencing appeal",
+        "manifestly excessive",
+        "paranoid schizophrenia",
+        "one punch",
+        "suspended sentence"
+      ],
+      "index_terms": [
+        "R v Gratton",
+        "Royal South Hampshire hospital",
+        "psychiatric in-patient",
+        "public protection",
+        "pre-sentence report"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Gratton",
+          "citation": "[2001] 2 Cr App R(S) 167"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Concise judgment with clear facts and outcome; no truncation; judge identity not recorded in source file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2895.json",
+    "status": "done",
+    "notes": "Chancery insolvency application; Lord Hoffmann listed in metadata but judgment delivered by Laddie J.",
+    "enrichment": {
+      "short_title": "Successful applicants recover £60,000 from liquidation account ahead of solicitors' Quistclose trust claim",
+      "area_of_law": [
+        "Insolvency",
+        "Company law",
+        "Costs",
+        "Trusts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": ["s.151"]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": ["s.18", "s.112", "s.115", "s.156", "s.192"]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["s.51"]
+        },
+        {
+          "title": "Insolvency Rules 1986",
+          "provisions": ["r.4.218", "r.4.220"]
+        }
+      ],
+      "key_facts": [
+        "Compaq group companies sought payment of about £60,000 held in the Insolvency Services Account of M.T. Realisations Ltd following costs orders made when liquidators' section 151 proceedings were struck out or discontinued.",
+        "Withers solicitors claimed the sum was held on trust for them, relying on a Ferris J administration discharge order and on Inland Revenue funding as a Quistclose-style purpose trust.",
+        "All Inland Revenue guarantee moneys had been paid to Withers before VAT refunds were received; the remaining £60,000 derived from VAT refunds and was general liquidation assets."
+      ],
+      "procedural_posture": "Chancery application for payment out of liquidation funds; Withers sought adjournment to a later combined hearing.",
+      "outcome": "Applicants succeeded; £60,000 payable to them in priority; trust and discretion arguments rejected; adjournment refused.",
+      "ratio": "Court-ordered costs in litigation against a company in liquidation retain priority over general liquidation expenses under the London Metallurgical principle; sections 112 and 156 of the Insolvency Act 1986 do not permit reordering of that priority, and neither a Ferris J section 18 administration order nor Inland Revenue cost guarantees created a trust excluding the £60,000 from assets available to satisfy the applicants' costs orders.",
+      "legal_issues": [
+        "Whether costs orders against a company in liquidation rank ahead of liquidators' own litigation expenses",
+        "Whether sections 112 and 156 allow the court to alter costs priority",
+        "Whether Inland Revenue funding created a Quistclose purpose trust for solicitors' fees",
+        "Whether Ferris J's administration discharge order created a trust binding the liquidators"
+      ],
+      "catchwords": [
+        "liquidation costs priority",
+        "Insolvency Services Account",
+        "Quistclose trust",
+        "purpose trust",
+        "rule 4.218",
+        "London Metallurgical Co",
+        "costs order priority"
+      ],
+      "index_terms": [
+        "M.T. Realisations Ltd",
+        "Digital Equipment Company",
+        "Compaq",
+        "Withers",
+        "Inland Revenue guarantee",
+        "Barclays Bank v Quistclose Investments",
+        "Re Toshoku Finance UK plc"
+      ],
+      "linked_authorities": [
+        {
+          "name": "In re London Metallurgical Co",
+          "citation": "[1895] 1 Ch 758"
+        },
+        {
+          "name": "Barclays Bank Ltd v Quistclose Investments Ltd",
+          "citation": "[1970] AC 567"
+        },
+        {
+          "name": "Re MC Bacon Ltd",
+          "citation": "[1991] Ch 127"
+        },
+        {
+          "name": "Re Toshoku Finance UK plc",
+          "citation": "[2002] 3 All ER 961"
+        },
+        {
+          "name": "Lewis v Commissioner of Inland Revenue",
+          "citation": "[2001] 3 All ER 499"
+        },
+        {
+          "name": "Re Mark One (Oxford Street) plc",
+          "citation": "[2000] 1 BCLC 462"
+        },
+        {
+          "name": "In re UCT Ltd",
+          "citation": "[2001] 1 WLR 436"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed first-instance judgment with full reasoning on trust and priority issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1759.json",
+    "status": "done",
+    "notes": "Long Chancery appeal on leasehold pre-emption; multiple Vice-Chancellors listed in source judges metadata.",
+    "enrichment": {
+      "short_title": "Lessors' equitable interest in South Kensington lease upheld after Bailies' breach of clause 5 pre-emption",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Property law",
+        "Equity",
+        "Leasehold"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Landlord and Tenant Act 1954",
+          "provisions": ["Part I", "s.17"]
+        },
+        {
+          "title": "Law of Property (Miscellaneous Provisions) Act 1989",
+          "provisions": ["s.2"]
+        },
+        {
+          "title": "Leasehold Reform Act 1967",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Under a 1979 lease of No. 1 Thurloe Close, clause 5 required the lessee to offer the term to the lessors before disposing of it; in August 1986 the Bailies contracted to sell the lease to Tiffany for £250,000 without giving the required pre-emption notice.",
+        "Tiffany and later purchaser Ms Chantry claimed the lessors unreasonably withheld consent to assignment; the lessors contended their equitable interest from the 1986 breach had priority.",
+        "Lindsay J held the lessors acquired an equitable interest in August 1986 and that section 17 of the 1954 Act did not invalidate clause 5."
+      ],
+      "procedural_posture": "Appeal with permission from Lindsay J on construction of clause 5 and effect of section 17 LTA 1954.",
+      "outcome": "Appeal dismissed; lessors' equitable interest in the lease held to have priority over Tiffany and Ms Chantry.",
+      "ratio": "A contractual right of pre-emption in clause 5 imposed a positive obligation on the lessee to offer the lease to the lessors immediately before entering a binding contract with a third party; breach of that obligation before the 1986 agreement vested an equitable interest in the lessors comparable to purchasers under contract, and section 17 of the Landlord and Tenant Act 1954 did not invalidate clause 5 or the consequences of its non-performance because performance did not necessarily oust Part I protection.",
+      "legal_issues": [
+        "Whether clause 5 imposed a positive obligation to offer the lease before contracting with a third party",
+        "At what point 'disposal' occurs for pre-emption purposes—binding contract or legal assignment",
+        "Whether breach before contract creates an equitable interest under Pritchard v Briggs",
+        "Whether section 17 LTA 1954 invalidates a leasehold pre-emption clause"
+      ],
+      "catchwords": [
+        "right of pre-emption",
+        "first refusal",
+        "equitable interest",
+        "Pritchard v Briggs",
+        "section 17",
+        "long lease at low rent",
+        "leasehold assignment"
+      ],
+      "index_terms": [
+        "Tiffany Investments Ltd",
+        "Thurloe Close",
+        "Bircham & Co Nominees v Worrell",
+        "Allnatt Properties v Newton",
+        "Re Hennessey",
+        "Joseph v Joseph"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Pritchard v Briggs",
+          "citation": "[1980] 1 Ch 338"
+        },
+        {
+          "name": "Bircham & Co Nominees Ltd v Worrell",
+          "citation": "[2001] EWCA Civ 775"
+        },
+        {
+          "name": "Allnatt Properties Ltd v Newton",
+          "citation": "[1981] 2 All ER 290"
+        },
+        {
+          "name": "Re Hennessey",
+          "citation": "[1975] 1 Ch 252"
+        },
+        {
+          "name": "Joseph v Joseph",
+          "citation": "[1967] Ch 78"
+        },
+        {
+          "name": "Tuck v Baker",
+          "citation": "[1992] EGLR 195"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with comprehensive analysis; Sedley LJ expressed reservations on section 17 but concurred in result."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3481.json",
+    "status": "done",
+    "notes": "Long judgment on sentencing disparity and confiscation procedure under section 72A CJA 1988.",
+    "enrichment": {
+      "short_title": "Flagship charity fraud seven-year sentence largely upheld and confiscation order survives section 72A challenge",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Fraud",
+        "Confiscation",
+        "Proceeds of crime"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["s.71", "s.72", "s.72A"]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["s.36"]
+        }
+      ],
+      "key_facts": [
+        "Following a nine-week trial the appellant was convicted of conspiracy to defraud, fraudulent VAT evasion and furnishing a false VAT return in connection with Flagship Quality Flower Ltd, which raised money ostensibly for charity Help but diverted most proceeds.",
+        "He was sentenced to seven, four and eighteen months concurrent; a confiscation order of £111,105 was made more than six months after conviction following adjourned proceedings.",
+        "Co-accused Neil Smith pleaded guilty and received much lower concurrent sentences; the Attorney General did not refer Smith's sentence as unduly lenient."
+      ],
+      "procedural_posture": "Appeal against sentence (renewed application) and against confiscation order; leave granted on VAT counts only for sentence.",
+      "outcome": "Seven-year conspiracy sentence and eighteen-month false document sentence upheld; four-year VAT sentence reduced to three years concurrent; confiscation appeal dismissed.",
+      "ratio": "No improper sentencing disparity arises where a mastermind with serious dishonesty antecedents receives a substantially higher sentence than a junior participant who pleaded guilty on a limited basis; for confiscation under section 72A, 'determination' means completion of the process and a substantive start within six months does not suffice without exceptional circumstances for adjournment beyond that period, but listing difficulties and changed co-defendant circumstances may justify a modest overrun where the judge properly finds exceptional circumstances and no injustice results.",
+      "legal_issues": [
+        "Whether disparity with co-accused Smith's sentence made the seven-year term manifestly excessive",
+        "Whether the four-year VAT sentence was manifestly excessive",
+        "Whether confiscation proceedings beyond six months after conviction lacked jurisdiction under section 72A(3)",
+        "Whether listing difficulties can amount to exceptional circumstances for postponement"
+      ],
+      "catchwords": [
+        "conspiracy to defraud",
+        "charity fraud",
+        "VAT evasion",
+        "confiscation order",
+        "section 72A",
+        "exceptional circumstances",
+        "sentencing disparity",
+        "R v Fawcett"
+      ],
+      "index_terms": [
+        "Flagship Quality Flower Ltd",
+        "Help charity",
+        "Neil Smith",
+        "R v Sekhon",
+        "R v Soneji and Bullen",
+        "R v Steele and Shevki",
+        "R v Porter"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Fawcett",
+          "citation": "5 Cr App R(S) 158"
+        },
+        {
+          "name": "R v Sekhon",
+          "citation": "[2002] EWCA Crim 2954"
+        },
+        {
+          "name": "R v Soneji and Bullen",
+          "citation": "[2003] EWCA Crim 1765"
+        },
+        {
+          "name": "R v Steele and Shevki",
+          "citation": "[2001] 2 Cr App R(S) 178"
+        },
+        {
+          "name": "R v Tuegel",
+          "citation": "[2000] 2 Cr App R 361"
+        },
+        {
+          "name": "R v Porter",
+          "citation": "[1990] 1 WLR 1260"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment with detailed procedural chronology and authoritative discussion of confiscation timing law."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2941.json",
+    "status": "done",
+    "notes": "Detailed community care judicial review; permission granted but claim dismissed.",
+    "enrichment": {
+      "short_title": "Wandsworth lawfully required ninety-four-year-old care home resident to move to nursing home after hip fracture",
+      "area_of_law": [
+        "Administrative law",
+        "Community care",
+        "Health and social care",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "National Health Service and Community Care Act 1990",
+          "provisions": ["s.46(3)", "s.47"]
+        },
+        {
+          "title": "National Assistance Act 1948",
+          "provisions": ["Part III", "s.21", "s.26", "s.26(1A)", "s.26(1C)", "s.26(1D)"]
+        },
+        {
+          "title": "Health and Social Care Act 2001",
+          "provisions": ["s.49"]
+        },
+        {
+          "title": "Care Standards Act 2000",
+          "provisions": ["Part II", "s.3(2)"]
+        },
+        {
+          "title": "Local Authority Social Services Act 1970",
+          "provisions": ["s.7", "s.7A"]
+        }
+      ],
+      "key_facts": [
+        "A 94-year-old woman had lived at a Servite Houses registered residential care home in Battersea since 1996, partly funded by Wandsworth; after fracturing her femur in May 2003 she was medically fit for discharge but the council refused to fund her return, assessing her as needing Level 2 nursing care in a registered nursing home.",
+        "A 2000 consent order required Servite to continue residential care until a lawful assessment showed nursing care was required; the Continuing Care Panel and Dr Cottee concluded band 2 medium nursing care was needed.",
+        "Following an interim return with privately funded 24-hour BUPA nursing, Dr Powell and others disagreed, but the court held the council's decision was not Wednesbury unreasonable."
+      ],
+      "procedural_posture": "Judicial review of local authority decision refusing residential home placement; permission granted, substantive hearing before Beatson J.",
+      "outcome": "Application dismissed; council's decision to place claimant in a nursing home held lawful on public law grounds.",
+      "ratio": "Where a local authority has lawfully assessed a resident as requiring registered nursing care with instant access to a trained nurse because of fluctuating cognitive and physical needs, its decision that care must be delivered in a nursing home setting is not vitiated by earlier procedural flaws in the panel process once those flaws were cured at the October 2003 meeting; the court will not substitute its clinical judgment for that of the designated consultant geriatrician absent irrationality.",
+      "legal_issues": [
+        "Whether the council's assessment and decision-making process was procedurally fair",
+        "Whether the claimant was correctly banded at Level 2 rather than Level 3 under local continuing care criteria",
+        "Whether nursing care could be provided in a residential home via NHS community services",
+        "Whether Article 8 ECHR added to the merits review"
+      ],
+      "catchwords": [
+        "community care assessment",
+        "section 47",
+        "nursing home placement",
+        "residential care",
+        "continuing care panel",
+        "Level 2 banding",
+        "Wednesbury unreasonableness",
+        "Care Standards Act registration"
+      ],
+      "index_terms": [
+        "Louisa G",
+        "Wandsworth LBC",
+        "Servite Houses",
+        "Dr Cottee",
+        "Dr Powell",
+        "South West London continuing care agreement",
+        "R v Islington ex parte Rixon"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Islington LBC, ex parte Rixon",
+          "citation": "(1996) 1 CCLR 119"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Very long judgment with extensive factual and policy material; outcome and core ratio clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3308.json",
+    "status": "done",
+    "notes": "POCA cash forfeiture judicial review; interested party did not appear.",
+    "enrichment": {
+      "short_title": "Forfeiture application after failed detention extension held not abuse of process under Proceeds of Crime Act 2002",
+      "area_of_law": [
+        "Administrative law",
+        "Proceeds of crime",
+        "Criminal procedure",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Proceeds of Crime Act 2002",
+          "provisions": ["s.241", "s.294", "s.295", "s.297", "s.298", "s.302", "s.304"]
+        },
+        {
+          "title": "Magistrates' Courts (Detention and Forfeiture of Cash) Rules 2002",
+          "provisions": ["r.6(7)", "para 7", "para 7(4)"]
+        }
+      ],
+      "key_facts": [
+        "Lancashire Constabulary seized £36,421 cash from Mushtaq Ahmed's home on suspicion it was recoverable property or intended for unlawful conduct under POCA 2002.",
+        "Burnley justices refused a section 295 extension on 9 January 2003 after Ahmed accounted for most of the cash; the Chief Constable applied for forfeiture under section 298 the next morning while initial detention continued.",
+        "District Judge Firth stayed the forfeiture proceedings as manipulation of the court's process; Pitchford J quashed that stay."
+      ],
+      "procedural_posture": "High Court judicial review of district judge's stay of magistrates' forfeiture proceedings; permission granted.",
+      "outcome": "Claim succeeded; stay quashed; forfeiture proceedings remitted to differently constituted magistrates' court for directions.",
+      "ratio": "An application for forfeiture under section 298 while cash remains detained under section 295(1) is a legitimate statutory step and not an abuse of process merely because magistrates had earlier refused to extend detention on the section 295 merits test; the justices' refusal did not terminate the initial 48-hour detention power, and a constable may pursue forfeiture without evidence of mala fides even immediately after an adverse detention hearing.",
+      "legal_issues": [
+        "Whether forfeiture could be applied for after justices refused a section 295 extension",
+        "Whether the Chief Constable's forfeiture application was a device to circumvent the justices' decision",
+        "The relationship between sections 294, 295 and 298 of POCA 2002",
+        "Whether section 297 release powers had been exercised"
+      ],
+      "catchwords": [
+        "cash seizure",
+        "section 295 detention",
+        "section 298 forfeiture",
+        "Proceeds of Crime Act 2002",
+        "abuse of process",
+        "magistrates' court",
+        "recoverable property"
+      ],
+      "index_terms": [
+        "Lancashire Constabulary",
+        "Burnley Magistrates Court",
+        "Mushtaq Ahmed",
+        "R v Luton Justices ex parte Abecasis",
+        "48-hour detention"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Luton Justices, ex parte Abecasis",
+          "citation": "[2000] 164 JP 265"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Clear statutory scheme analysis with full reasoning; minor post-delivery corrections to judgment noted in transcript."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3115.json",
+    "status": "done",
+    "notes": "Police injury pension JR; decision quashed only on apportionment; judges field empty in source.",
+    "enrichment": {
+      "short_title": "Police injury pension Medical Referee decision quashed for failing to apportion duty and non-duty injuries",
+      "area_of_law": [
+        "Administrative law",
+        "Police pensions",
+        "Employment and pensions",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Pensions Regulations 1987",
+          "provisions": ["reg. A11", "reg. A12", "reg. A12(1)", "reg. A12(2)", "reg. A12(3)", "reg. A13", "reg. B4(1)", "reg. H1", "reg. H2", "reg. K2", "Schedule A", "Schedule B Part V"]
+        }
+      ],
+      "key_facts": [
+        "PC Crocker was retired on injury grounds with schizoaffective psychosis attributed partly to stress at work (a duty injury) and partly to a pre-existing chemical imbalance in the brain.",
+        "The Selected Medical Practitioner assessed 40% loss of earning capacity; Medical Referee Dr Anton certified 100% loss, relying on Dr Johns' evidence and employer attitudes.",
+        "Dr Anton declined to consider apportionment after erroneous Home Office advice that it was outside his remit."
+      ],
+      "procedural_posture": "Judicial review by South Wales Police Authority of Medical Referee certificate on appeal under regulation H2.",
+      "outcome": "Application allowed in part; Medical Referee's decision quashed and remitted to a different Medical Referee for apportionment; costs to Police Authority.",
+      "ratio": "Disablement for injury pension quantum under regulation A12(3) must be assessed by reference to the degree earning capacity has been affected by the duty injury alone, discounting loss attributable to non-duty conditions that separately caused disablement; where a duty injury exacerbates an underlying condition that had not itself caused loss of earning capacity, apportionment is not required, but the Medical Referee must address apportionment when raised and cannot treat labour-market unemployability as a substitute for assessing actual earning capacity.",
+      "legal_issues": [
+        "Whether 100% loss of earning capacity was supported on the medical evidence",
+        "Whether assessment should consider future earning capacity or current capacity only",
+        "Whether employer attitudes and labour-market factors are relevant to earning capacity",
+        "How to apportion disablement between duty and non-duty injuries under A12(3) and A13"
+      ],
+      "catchwords": [
+        "police injury pension",
+        "Medical Referee",
+        "earning capacity",
+        "apportionment",
+        "injury on duty",
+        "regulation A12(3)",
+        "schizoaffective psychosis"
+      ],
+      "index_terms": [
+        "South Wales Police Authority",
+        "Mr Crocker",
+        "Dr Anton",
+        "Dr Davies",
+        "R (South Wales Police Authority) v Morgan and Lewis-Davidson",
+        "Home Office guidance 2002"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (South Wales Police Authority) v Morgan and Lewis-Davidson",
+          "citation": "[2003] EWHC 2274 Admin"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Complex pensions judgment; quashing limited to apportionment issue though court also rejected employer-attitude and future-capacity challenges."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3217.json",
+    "status": "done",
+    "notes": "Mode of trial judicial review; declaratory relief refused; certified point of law of general importance.",
+    "enrichment": {
+      "short_title": "Magistrates held unable to reopen mode of trial except under section 25 Magistrates' Courts Act 1980",
+      "area_of_law": [
+        "Administrative law",
+        "Criminal procedure",
+        "Magistrates' courts",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": ["s.17", "s.18", "s.19", "s.20", "s.21", "s.24", "s.25", "Schedule 1"]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": ["s.3", "s.91"]
+        },
+        {
+          "title": "Magistrates' Courts Act 1952",
+          "provisions": ["s.19(5)"]
+        }
+      ],
+      "key_facts": [
+        "Youth court defendants C and W had been directed to summary trial on indecent assault charges relating to R; when further linked sexual offences emerged the CPS applied to reopen mode of trial.",
+        "District Judge Sawetz held she had no power outside section 25 to reverse earlier summary trial decisions; the DPP sought declaratory relief after Crane J granted a voluntary bill of indictment resolving the immediate listing problem.",
+        "The Divisional Court reviewed twenty years of authority rejecting obiter dicta in R v Newham Juvenile Court ex parte F allowing reopening on changed circumstances."
+      ],
+      "procedural_posture": "Judicial review for declaratory relief only after voluntary bill of indictment granted; permission to appeal refused.",
+      "outcome": "Declaration refused; magistrates have no power to change mode of trial before summary trial or committal begins except as provided in section 25; leave to appeal refused.",
+      "ratio": "The Magistrates' Courts Act 1980 provides a single mode-of-trial decision for adults under sections 19–21 and for juveniles under section 24, with power to change course only in the limited circumstances in section 25 once summary trial or committal has begun; there is no freestanding inherent jurisdiction or 'change of circumstances' power to reopen the decision before those stages, and R v Craske on the 1952 Act does not justify a different construction.",
+      "legal_issues": [
+        "Whether magistrates may revisit a mode of trial decision before summary trial or committal starts",
+        "Whether section 25 exhaustively defines when mode of trial may be changed",
+        "Whether R v Craske supports reopening under the 1980 Act",
+        "Whether inherent jurisdiction or abuse of process principles apply"
+      ],
+      "catchwords": [
+        "mode of trial",
+        "either-way offences",
+        "section 25",
+        "youth court",
+        "summary trial",
+        "committal for trial",
+        "ex parte F",
+        "statutory jurisdiction"
+      ],
+      "index_terms": [
+        "Director of Public Prosecutions",
+        "Camberwell Green Youth Court",
+        "R v Dudley Justices ex parte Gillard",
+        "R v Newham Juvenile Court ex parte F",
+        "R v Liverpool Justices ex parte CPS",
+        "R v Fareham Youth Court ex parte CPS"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Dudley Justices, ex parte Gillard",
+          "citation": "[1986] AC 442"
+        },
+        {
+          "name": "R v Newham Juvenile Court, ex parte F (A Minor)",
+          "citation": "[1986] 1 WLR 939"
+        },
+        {
+          "name": "R v Liverpool Justices, ex parte Crown Prosecution Service",
+          "citation": "(1990) Cr App R 261"
+        },
+        {
+          "name": "R v Horseferry Road Magistrates' Court, ex parte K",
+          "citation": "[1997] QB 23"
+        },
+        {
+          "name": "R v Fareham Youth Court and Morey, ex parte Crown Prosecution Service",
+          "citation": "(1998) transcript 16 October 1998"
+        },
+        {
+          "name": "R v Craske, ex parte Metropolitan Police Commissioner",
+          "citation": "[1957] 2 QB 591"
+        },
+        {
+          "name": "R v Horseferry Road Magistrates' Court, ex parte Bennett",
+          "citation": "[1994] 1 AC 42"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Comprehensive Divisional Court judgment with full statutory text and authority review; academic interest only for defendants after voluntary bill."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1769.json",
+    "status": "done",
+    "notes": "Interlocutory Court of Appeal ruling in long-running antiquities partnership litigation.",
+    "enrichment": {
+      "short_title": "Symes denied appeal on statue ownership but granted limited cross-examination order and recusal refused",
+      "area_of_law": [
+        "Civil procedure",
+        "Partnership law",
+        "Contempt of court",
+        "Equity and trusts",
+        "Art and antiquities"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": ["s.281(3)"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["r.32.7", "r.32.14"]
+        }
+      ],
+      "key_facts": [
+        "Phillips and others sued Robin Symes for partnership accounts after Christo Michailidis' death; judgment entered in April 2003 that a partnership existed and Symes was in contempt over a granodiorite statue sale to Sheikh Al-Thani.",
+        "Symes' twelve-month committal was suspended on undertakings to disclose partnership assets; the claimants applied to cross-examine him broadly on compliance and fresh alleged contempts.",
+        "Peter Smith J ordered wide cross-examination and refused recusal; the Court of Appeal refused permission on ownership appeal for lack of standing and restructured cross-examination procedure."
+      ],
+      "procedural_posture": "Three interlocutory applications for permission to appeal rulings on ownership, cross-examination and recusal; urgent hearing with written submissions only.",
+      "outcome": "Permission refused on statue ownership (no standing); permission granted and appeal allowed on cross-examination scope; permission refused on recusal.",
+      "ratio": "A party in contempt proceedings over a statue sale has no standing to appeal a ownership finding where only co-owner witnesses are affected and escrow has removed any fraudulent breach of trust liability; post-judgment cross-examination to enforce suspended committal undertakings must be separated from general asset-tracing examination and cannot treat compliance affidavits as void if the deponent refuses to attend, but a prima facie breach permits cross-examination aimed at securing compliance; apparent bias against potential witnesses is not established where robust comments were made in an earlier trial and the judge may still fairly hear their evidence if they appear.",
+      "legal_issues": [
+        "Whether Symes had standing to appeal the statue ownership ruling",
+        "The proper scope and procedure for cross-examination on suspended committal undertakings",
+        "Whether privilege against self-incrimination applies to fresh contempt allegations",
+        "Whether Peter Smith J should have recused himself for apparent bias against Mr D and Mrs N"
+      ],
+      "catchwords": [
+        "partnership accounts",
+        "contempt of court",
+        "suspended committal",
+        "cross-examination",
+        "post-judgment disclosure",
+        "recusal",
+        "apparent bias",
+        "antiquities fraud"
+      ],
+      "index_terms": [
+        "Robin Symes",
+        "Christo Michailidis",
+        "Robin Symes Ltd",
+        "Sheikh Al-Thani",
+        "Peter Smith J",
+        "Cobra Golf Ltd v Rata",
+        "Memory Corporation v Sidhu",
+        "Porter v Magill"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Cobra Golf Ltd v Rata",
+          "citation": "[1998] Ch 109"
+        },
+        {
+          "name": "Memory Corporation plc v Sidhu",
+          "citation": "[2000] Ch 645"
+        },
+        {
+          "name": "Comet Products UK Ltd v Hawkex Plastics Ltd",
+          "citation": "[1971] 2 QB 67"
+        },
+        {
+          "name": "In re Medicaments and Related Classes of Goods (No 2)",
+          "citation": "[2001] 1 WLR 700"
+        },
+        {
+          "name": "Porter v Magill",
+          "citation": "[2002] 2 AC 357"
+        },
+        {
+          "name": "G v G",
+          "citation": "[1987] 1 WLR 647"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long interlocutory judgment with clear dispositions on three applications; underlying contempt and partnership facts complex but well documented."
+      }
+    }
+  }
+]

@@ -1,0 +1,641 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2005/491.json",
+    "status": "done",
+    "notes": "Confiscation appeal on benefit fraud; Court of Appeal rejects notional WFTC offset and section 71(1C) civil proceedings argument.",
+    "enrichment": {
+      "short_title": "R v Richards: confiscation order and notional Working Families Tax Credit offset",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation",
+        "Social security law",
+        "Tax credits"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 71"
+          ]
+        },
+        {
+          "title": "Social Security Administration Act 1992",
+          "provisions": [
+            "section 71",
+            "section 111A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Richards dishonestly claimed income support for about three and a half years after he and his partner began working, overpaying the state £22,735.19.",
+        "He pleaded guilty to specimen benefit fraud offences and received concurrent four-month sentences plus a confiscation order of £19,424.30 after allowance for Family Credit and voluntary repayments.",
+        "He argued the confiscation benefit should be reduced by a notional £16,521 Working Families Tax Credit entitlement and that section 71(1C) applied because the DWP had civil recovery proceedings.",
+        "The trial judge followed R (Larusai) v Secretary of State for Work and Pensions and refused to treat tax credits as an offset against benefit overpayments."
+      ],
+      "procedural_posture": "Appeal with leave of a single judge against a Crown Court confiscation order made after conviction for social security fraud.",
+      "outcome": "Appeal dismissed; notional tax credit could not reduce confiscated benefit and the DWP recovery scheme did not constitute civil proceedings for section 71(1C) purposes.",
+      "ratio": "Under section 71(4) benefit is measured by property or pecuniary advantage obtained at the time of the offence, not by hypothetical honest returns; notional tax credit is not a debt owed by the victim and section 71(1C) requires instituted civil proceedings by way of claim form, not statutory overpayment recovery.",
+      "legal_issues": [
+        "Whether notional Working Families Tax Credit should reduce benefit for confiscation purposes",
+        "Whether section 71(1C) conferred discretion because the DWP sought overpayment recovery",
+        "Construction of benefit under section 71(4) following R v May",
+        "Whether a statutory recovery regime amounts to civil proceedings"
+      ],
+      "catchwords": [
+        "confiscation order",
+        "benefit fraud",
+        "Working Families Tax Credit",
+        "section 71",
+        "overpayment recovery",
+        "Larusai"
+      ],
+      "index_terms": [
+        "income support",
+        "Family Credit",
+        "section 71(1C)",
+        "pecuniary advantage",
+        "DWP Debt Management",
+        "Lewes Crown Court"
+      ],
+      "linked_authorities": [
+        "R (on the application of Larusai) v Secretary of State for Work and Pensions [2003] EWHC 371 (Admin)",
+        "R v May [2005] EWCA Crim 97",
+        "R v Roissetter [2004] EWCA Crim 1827"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Statutory analysis, factual background and dismissal are all clearly reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/465.json",
+    "status": "done",
+    "notes": "Second habeas corpus application in Swiss extradition; Maurice Kay J dismissed speciality/bad faith challenge.",
+    "enrichment": {
+      "short_title": "Sutej v Governor HMP Holloway: second habeas corpus on Swiss fraud extradition",
+      "area_of_law": [
+        "Extradition",
+        "Public law",
+        "Criminal law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act 1989",
+          "provisions": [
+            "section 6(4)",
+            "section 7(4)",
+            "section 9(8)",
+            "section 11(3)(c)",
+            "section 81(b)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ingrid Sutej was committed for extradition to Switzerland on 27 fraud charges relating mainly to George Rafael after the Court of Appeal discharged four Nina Brink charges in July 2003.",
+        "Her second habeas corpus application argued the Swiss Investigating Magistrate M Tappolet showed bad faith by retaining Brink material and intending to revisit those allegations after return.",
+        "Correspondence showed Tappolet would decide partie civile status only after Sutej's return and declined to purge his file of Brink documents.",
+        "The Secretary of State had not yet ordered return on the remaining Rafael charges."
+      ],
+      "procedural_posture": "Second habeas corpus application challenging continued custody pending extradition to Switzerland on the Rafael charges.",
+      "outcome": "Application dismissed with costs of £1,700; the magistrate's correspondence did not manifest bad faith or an intention to breach speciality protection.",
+      "ratio": "Extradition proceedings do not resolve trial issues abroad; section 11(3)(c) requires evidence of bad faith on the balance of probabilities, and a foreign investigating magistrate's wait-and-see stance on related allegations does not show an intention to disregard Article 14 speciality protection.",
+      "legal_issues": [
+        "Whether M Tappolet's retention of Brink material breached the speciality rule",
+        "Whether accusations were made in good faith under section 11(3)(c)",
+        "Construction of 'accusation' to include foreign court conduct",
+        "Whether Swiss criminal procedure differences justify discharge"
+      ],
+      "catchwords": [
+        "habeas corpus",
+        "extradition",
+        "speciality rule",
+        "bad faith",
+        "Swiss fraud",
+        "section 11(3)(c)"
+      ],
+      "index_terms": [
+        "George Rafael",
+        "Nina Brink",
+        "M Tappolet",
+        "partie civile",
+        "Kashanu",
+        "European Convention Article 14"
+      ],
+      "linked_authorities": [
+        "Kashanu v Governor of Brixton Prison [2002] 2 WLR 907",
+        "Davison [1983] 77 Cr App R 309",
+        "Ex parte Ross Munro [1967] 1 QB 620"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Outcome and statutory framework are clear though some speciality points were not fully resolved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2005/3249.json",
+    "status": "done",
+    "notes": "Contempt committal hearing on breach of court undertakings by employee joining rival poultry distributor; financial penalty only.",
+    "enrichment": {
+      "short_title": "Westbridge Foods v Radovits: contempt for breach of employment undertakings",
+      "area_of_law": [
+        "Employment law",
+        "Commercial law",
+        "Contempt of court",
+        "Restraint of trade",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Tamas Radovits gave undertakings on 9 October 2003 not to solicit Westbridge customers or suppliers, not to work for a competitor, and to act in good faith while still employed by Westbridge Foods.",
+        "He had accepted work with rival distributor Oakfield and, during the undertaking period, traded on Oakfield's behalf with suppliers and customers including S & A Foods, THP, Bomadek and Carnex.",
+        "He gave misleading affidavits before admitting extensive breaches; telephone and computer records exposed covert Oakfield activity.",
+        "The substantive action settled for £85,000 but the committal application proceeded on multiple pleaded breaches."
+      ],
+      "procedural_posture": "Commercial Court committal hearing after trial of alleged contempt for breach of consent-order undertakings; penalty and costs reserved then determined.",
+      "outcome": "Contempt proved on admitted and found breaches; no imprisonment ordered; financial penalty of £1,800 and £25,000 costs on account ordered.",
+      "ratio": "Breaches of undertakings not to work for a competitor and to act in good faith may amount to contempt where proved to the criminal standard; deliberate evasion and false affidavits aggravate contempt but late frank admissions and elapsed time may justify a financial rather than custodial penalty.",
+      "legal_issues": [
+        "Whether particularised allegations of breach were proved beyond reasonable doubt",
+        "Whether Oakfield was a competitor within the undertaking",
+        "Construction of the good faith obligation",
+        "Appropriate penalty for sustained deliberate breach of court undertakings"
+      ],
+      "catchwords": [
+        "contempt of court",
+        "undertaking",
+        "restrictive covenant",
+        "non-solicitation",
+        "poultry distributor",
+        "good faith"
+      ],
+      "index_terms": [
+        "Oakfield Foods",
+        "S & A Foods",
+        "committal application",
+        "RSC Order 52",
+        "Faccenda Chicken",
+        "commission sheet"
+      ],
+      "linked_authorities": [
+        "Faccenda Chicken Ltd v Fowler [1987] 1 Ch 117",
+        "Johnson v Walton [1990] 1 FLR 350",
+        "Hivac Ltd v Park Royal Scientific Instruments Ltd [1946] 1 Ch 169"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed findings on individual allegations and final penalty are comprehensively recorded."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/288.json",
+    "status": "done",
+    "notes": "Libel summary judgment appeal dismissed in absentia; Sedley LJ upheld Eady J on Defamation Act 1996 and Article 6.",
+    "enrichment": {
+      "short_title": "Steinberg v Pritchard Englefield: libel summary judgment appeal dismissed in absentia",
+      "area_of_law": [
+        "Defamation",
+        "Media law",
+        "Human rights",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Defamation Act 1996",
+          "provisions": [
+            "sections 8",
+            "sections 9",
+            "sections 10"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Steinberg, a US-qualified barrister, sued solicitors Pritchard Englefield and Mr Cohn over a letter alleging inflated costs accessible via search engines and his website.",
+        "Eady J gave summary judgment under sections 8-10 of the Defamation Act 1996 after adjournments for medical and financial evidence, awarding £5,000 damages but costs exceeded £191,000.",
+        "Steinberg appealed in absentia relying on lack of representation, stress, and Steel and Morris on Article 6 legal aid.",
+        "The ECHR had already declared his Convention complaint inadmissible in October 2004."
+      ],
+      "procedural_posture": "Appeal with permission against summary judgment and case management decisions in a defamation claim; heard in the appellant's absence after repeated adjournments.",
+      "outcome": "Appeal dismissed; costs assessed at £25,000; court held Eady J was entitled to proceed to summary judgment and no realistic defence existed.",
+      "ratio": "Sections 8-10 summary disposal does not breach Article 6 where no defence has a realistic prospect of success; indefinite unavailability and impecuniosity do not require adjournment, and Steel and Morris does not establish a general right to public funding for libel defendants.",
+      "legal_issues": [
+        "Whether summary judgment was premature in the appellant's absence",
+        "Whether Article 6 required legal aid or a full trial",
+        "Appropriateness of sections 8-10 where defendant was unrepresented",
+        "Whether publication was real and substantial compared with Jameel"
+      ],
+      "catchwords": [
+        "summary judgment",
+        "defamation",
+        "litigant in person",
+        "Article 6",
+        "Steel and Morris",
+        "costs disparity"
+      ],
+      "index_terms": [
+        "Pritchard Englefield",
+        "Eady J",
+        "Chase meanings",
+        "pro bono",
+        "Legal Services Commission",
+        "web publication"
+      ],
+      "linked_authorities": [
+        "Steinberg v Pritchard Englefield [2003] EWHC 1461 (QB)",
+        "Steel and Morris v United Kingdom (2005) 68416/01",
+        "Jameel v Dow Jones & Co Inc [2005] EWCA Civ 75"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Appellate reasoning on procedure and merits is explicit though the judgment incorporates the first-instance decision by reference."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/439.json",
+    "status": "done",
+    "notes": "Brief GMC interim suspension extension after doctor's imprisonment; Sullivan J extended order one year.",
+    "enrichment": {
+      "short_title": "R (GMC) v Baluchi: extension of interim suspension after imprisonment",
+      "area_of_law": [
+        "Medical law",
+        "Professional discipline",
+        "Public law",
+        "Healthcare regulation"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Dr Baluchi pleaded guilty to criminal offences and received a sentence of imprisonment.",
+        "The GMC sought judicial review to extend an interim order suspending his registration.",
+        "A fitness to practise hearing was listed for 29 March 2005 but practical difficulties arising from detention might prevent it proceeding.",
+        "Sullivan J considered a further year's suspension proportionate given the custodial sentence."
+      ],
+      "procedural_posture": "High Court application by the GMC to extend an interim suspension order pending fitness to practise proceedings.",
+      "outcome": "Interim suspension extended for a further year until 3 March 2006.",
+      "ratio": "Where a doctor has been imprisoned following a guilty plea, extending interim suspension for a reasonable further period is proportionate to protect the public and allow alternative arrangements if listed proceedings cannot proceed.",
+      "legal_issues": [
+        "Whether interim suspension should be extended pending full GMC hearing",
+        "Proportionality of a twelve-month extension where the doctor is detained",
+        "Practical effect of imprisonment on scheduled fitness to practise proceedings"
+      ],
+      "catchwords": [
+        "General Medical Council",
+        "interim suspension",
+        "fitness to practise",
+        "imprisonment",
+        "medical practitioner"
+      ],
+      "index_terms": [
+        "Baluchi",
+        "interim order",
+        "GMC proceedings",
+        "professional registration",
+        "judicial review"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.85,
+        "level": "high",
+        "notes": "Short ex tempore order; outcome and reasoning are clear but underlying misconduct details are sparse."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/2025.json",
+    "status": "done",
+    "notes": "Pharmacy relocation JR; Deputy Judge dismissed Boots challenge to FHSAA preference for first-received Lloyds application.",
+    "enrichment": {
+      "short_title": "R (Boots) v FHSAA: competing pharmacy relocation applications at Biggleswade",
+      "area_of_law": [
+        "Healthcare regulation",
+        "Pharmaceutical services",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "National Health Service Act 1977",
+          "provisions": []
+        },
+        {
+          "title": "National Health Service (Pharmaceutical Services) Regulations 1992",
+          "provisions": [
+            "regulation 4(2)",
+            "regulation 4(4)",
+            "regulation 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Boots and Lloyds both applied to relocate pharmaceutical services to a new Biggleswade health centre where only one provider could be approved.",
+        "Lloyds' application was received first; Boots later produced a Matrix Medical letter accepting its offer subject to PCT approval.",
+        "The PCT and FHSAA preferred Lloyds on a first-received basis, finding Boots had not secured confirmed control of the premises.",
+        "Boots challenged the decision for failure to apply Department of Health paragraph 76 guidance and alleged unfairness over a January 2004 Matrix letter not before the appeal body."
+      ],
+      "procedural_posture": "Judicial review of the Family Health Services Appeal Authority decision dismissing Boots' appeal against refusal of its relocation application.",
+      "outcome": "Application dismissed; Boots to pay FHSAA costs of £10,018.99; committee lawfully rejected Boots' control-of-premises argument and no procedural unfairness was established.",
+      "ratio": "Where competing pharmacy applications are otherwise equal, paragraph 76 guidance permits approval of the first received unless another deciding factor such as possession or likely control of premises is established; an appeal authority may reject a preferred-bidder letter conditioned on approval and need not consider evidence not put before it.",
+      "legal_issues": [
+        "Application of paragraph 76 guidance on competing pharmacy applications",
+        "Whether Boots had secured control of the proposed premises",
+        "Procedural fairness regarding the January 2004 Matrix Medical letter",
+        "Whether Mr Burns' witness statement created unfairness"
+      ],
+      "catchwords": [
+        "pharmaceutical services",
+        "judicial review",
+        "Primary Care Trust",
+        "relocation application",
+        "Boots the Chemist",
+        "first received"
+      ],
+      "index_terms": [
+        "Biggleswade health centre",
+        "Matrix Medical",
+        "Lloyds Pharmacy",
+        "FHSAA",
+        "regulation 4(4)",
+        "E v Secretary of State for the Home Department"
+      ],
+      "linked_authorities": [
+        "R (E) v Secretary of State for the Home Department [2004] QB 1044"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed factual chronology and disposal on both principal and fairness grounds are clearly set out."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/449.json",
+    "status": "done",
+    "notes": "Permission to appeal refused against strike-out of litigant-in-person conspiracy claim against council and police.",
+    "enrichment": {
+      "short_title": "Hare v Leeds City Council: permission refused on struck-out conspiracy claim",
+      "area_of_law": [
+        "Civil procedure",
+        "Human rights",
+        "Tort law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 3.4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Miss Hare, licensee of the World's End and freeholder of the Royal Oak in Pudsey, sued Leeds City Council and West Yorkshire Police alleging a conspiracy to damage her pub businesses.",
+        "She claimed customers were deterred by false statements, equipment sabotage and loss of staff linked to council redevelopment interests.",
+        "HHJ Grenfell struck out the claim under CPR 3.4 for disclosing no reasonable grounds and no factual basis.",
+        "Thomas J refused permission to appeal after hearing Miss Hare in person."
+      ],
+      "procedural_posture": "Application for permission to appeal against a county court strike-out order in a human rights and conspiracy claim brought by a litigant in person.",
+      "outcome": "Permission to appeal refused; the judge's conclusion that the claim had no prospect of success was upheld.",
+      "ratio": "Even where a litigant in person strongly believes a serious conspiracy against her business, CPR 3.4 strike-out is justified if the pleaded and oral case lacks any identifiable factual foundation capable of supporting Protocol 1 Article 1 or Article 8 claims.",
+      "legal_issues": [
+        "Whether the claim disclosed reasonable grounds under CPR 3.4",
+        "Whether a litigant in person's oral amplification supplied missing factual basis",
+        "Appropriate approach to permission where human rights allegations are serious but unsupported"
+      ],
+      "catchwords": [
+        "strike out",
+        "litigant in person",
+        "conspiracy",
+        "Article 8",
+        "Protocol 1 Article 1",
+        "public house"
+      ],
+      "index_terms": [
+        "World's End Pudsey",
+        "Royal Oak",
+        "Leeds City Council",
+        "West Yorkshire Police",
+        "case management conference",
+        "permission to appeal"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Permission decision and underlying strike-out reasoning are clearly summarised though detailed particulars are limited."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/516.json",
+    "status": "done",
+    "notes": "Landmark ruling that section 6 HRA does not require exclusion of article 8 covert surveillance evidence; Button murder appeal dismissed.",
+    "enrichment": {
+      "short_title": "R v Button: admissibility of covert police-station video obtained in breach of article 8",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Human rights",
+        "Surveillance law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6"
+          ]
+        },
+        {
+          "title": "Regulation of Investigatory Powers Act 2000",
+          "provisions": []
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Christina Button and Simon Tannahill were convicted of murdering Button's husband after a dog-walk attack motivated by debts and insurance gain.",
+        "Covert video of the defendants whispering at a police station was obtained after only audio surveillance had been authorised under RIPA, breaching article 8.",
+        "The prosecution case included circumstantial evidence and Tannahill's uncle's account of a prior request to find a killer.",
+        "The defence argued section 6 HRA made admission of article 8-breach evidence automatically unlawful."
+      ],
+      "procedural_posture": "Appeal and renewed application for leave to appeal against murder convictions raising a novel section 6 Human Rights Act point on evidence obtained by unauthorised covert video surveillance.",
+      "outcome": "Button's appeal dismissed and Tannahill's application refused; courts may admit relevant evidence obtained in breach of article 8 if fairness under article 6 and section 78 PACE permits.",
+      "ratio": "The breach of article 8 occurs at the point of covert surveillance, not when a court admits the evidence; section 6 does not require automatic exclusion because admissibility is governed by article 6 fairness and the section 78 discretion following Schenk, Khan and R v P.",
+      "legal_issues": [
+        "Whether section 6 HRA prevents courts admitting article 8-breach evidence",
+        "Relationship between articles 6 and 8 in criminal trials",
+        "Effect of unauthorised RIPA surveillance on admissibility",
+        "Whether use of unlawfully obtained material repeats the article 8 breach"
+      ],
+      "catchwords": [
+        "article 8",
+        "section 6 HRA",
+        "covert surveillance",
+        "section 78 PACE",
+        "RIPA",
+        "admissibility"
+      ],
+      "index_terms": [
+        "Button",
+        "Tannahill",
+        "police station video",
+        "whispering",
+        "Schenk v Switzerland",
+        "R v Khan"
+      ],
+      "linked_authorities": [
+        "Attorney General's Reference (No 2 of 2001) [2004] 2 AC 72",
+        "Khan v United Kingdom (2000) 31 EHRR 1016",
+        "R v P [2002] 1 AC 146"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Central legal issue and comprehensive review of domestic and Strasbourg authority are clearly reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/291.json",
+    "status": "done",
+    "notes": "Tax sham-appeal JR; Jackson J held section 45(3) TMA 1970 does not require de novo rehearing after commissioner death.",
+    "enrichment": {
+      "short_title": "Hitch v Special Commissioners: continuation of tax appeal after commissioner's death",
+      "area_of_law": [
+        "Tax law",
+        "Administrative law",
+        "Judicial review",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Taxes Management Act 1970",
+          "provisions": [
+            "section 45",
+            "section 56(6)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Taxpayers appealed CGT assessments arising from a 1984 Singapore insurance scheme alleged by the Revenue to involve sham agreements.",
+        "Special Commissioners Everett and Shirley heard the appeal and found shams; the Court of Appeal restored that ruling and remitted the case in January 2001.",
+        "Commissioner Shirley died before the remitted appeals concluded; Hitch refused consent under section 45(3) to continue before Everett and Oliver QC.",
+        "Hitch sought a de novo rehearing to reopen the sham preliminary issue."
+      ],
+      "procedural_posture": "Judicial review of Special Commissioners' refusal to order a rehearing de novo after one commissioner's death and their direction to continue the remitted capital gains tax appeals.",
+      "outcome": "Application dismissed; section 45(3) is a quorum enabling provision and did not require taxpayer consent to continue the remitted appeals before a reconstituted panel.",
+      "ratio": "Section 45(3) of the Taxes Management Act 1970 regulates quorum and case management rather than stripping the Special Commissioners of jurisdiction to continue an appeal after a commissioner's death where the Court of Appeal has remitted the matter for further disposal.",
+      "legal_issues": [
+        "Whether section 45(3) requires party consent to continue after a commissioner's incapacity",
+        "Effect of the Court of Appeal remittal order on the need for a fresh appeal",
+        "Whether taxpayer consent can force a de novo rehearing to reopen sham findings",
+        "Distinction between jurisdiction and case management on judge replacement"
+      ],
+      "catchwords": [
+        "Special Commissioners",
+        "section 45(3)",
+        "tax appeal",
+        "sham transaction",
+        "de novo rehearing",
+        "capital gains tax"
+      ],
+      "index_terms": [
+        "Mr Hitch",
+        "Mr Everett",
+        "Mr Shirley",
+        "Swindon land scheme",
+        "Case Stated",
+        "TW Law"
+      ],
+      "linked_authorities": [
+        "Commissioners of Inland Revenue v TW Law Ltd [1950] 29 TC 467",
+        "Odhams Press Ltd v Cook [1938] 23 TC 233",
+        "R v Coates [2004] 1 WLR 3043"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory construction and historical tax authority review are detailed and the disposal is explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/537.json",
+    "status": "done",
+    "notes": "AG reference on unduly lenient community sentence for causing death by careless driving; leave granted but sentence not increased.",
+    "enrichment": {
+      "short_title": "Attorney General's Reference No 157 of 2004: death by careless driving sentence",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Road traffic law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A 22-year-old driver pleaded guilty to causing death by careless driving after a drunken night drive that killed his best friend Robert Cowie in a nearside collision on the A30.",
+        "Blood analysis showed about two-and-a-half times the permitted alcohol level and the driver was uninsured.",
+        "The Crown Court imposed a 240-hour community punishment order and a curfew order.",
+        "The deceased's mother expressed no desire for imprisonment and bore no ill will toward the offender."
+      ],
+      "procedural_posture": "Attorney General's reference under section 36 of the Criminal Justice Act 1988 alleging an unduly lenient non-custodial sentence for causing death by careless driving.",
+      "outcome": "Leave to refer granted because the sentence was unduly lenient in principle, but the court declined to substitute imprisonment given completion of most of the community order and exceptional mitigating circumstances.",
+      "ratio": "Causing death by careless driving with significant alcohol aggravation will usually warrant custody, but an unduly lenient community order may stand without increase where the offender has nearly completed it, double jeopardy applies, and the victim's family strongly oppose imprisonment.",
+      "legal_issues": [
+        "Whether the community sentence was unduly lenient under section 36",
+        "Classification of the offence within Cooksley sentencing guidelines",
+        "Distinction from Attorney General's Reference No 77 of 2002 (Scotney)",
+        "Whether to increase sentence after substantial completion of community punishment"
+      ],
+      "catchwords": [
+        "unduly lenient",
+        "causing death by careless driving",
+        "community punishment order",
+        "drink driving",
+        "Attorney General's reference",
+        "double jeopardy"
+      ],
+      "index_terms": [
+        "Robert Cowie",
+        "A30 collision",
+        "curfew order",
+        "Cooksley",
+        "Scotney",
+        "victim family mitigation"
+      ],
+      "linked_authorities": [
+        "R v Cooksley [2004] 1 Cr App R (S) 1",
+        "Attorney General's Reference No 77 of 2002 [2003] 1 Cr App R (S) 111"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Sentencing analysis, guideline comparison and final non-intervention decision are clearly stated."
+      }
+    }
+  }
+]

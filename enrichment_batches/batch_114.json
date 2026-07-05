@@ -1,0 +1,819 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1223.json",
+    "status": "done",
+    "notes": "Full liability appeal judgment; limitation/Hague Rules point expressly deferred pending House of Lords in The Rafaela S.",
+    "enrichment": {
+      "short_title": "Bailee liability where Mori press toppled during terminal U-turn",
+      "area_of_law": [
+        "Bailment",
+        "Carriage of goods",
+        "Negligence",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "A Mori 600-ton press sold C&F Southampton was damaged on 31 July 1998 when it toppled from a mafi flat trailer during a U-turn at Southampton Container Terminal (SCT).",
+        "Coopers Payen and Sanwa sued SCT as bailee/sub-bailee; the trial judge held SCT had discharged its burden of proving reasonable care and gave judgment for SCT.",
+        "The critical issue was whether the tug towing the mafi was driven too fast or too tightly during the U-turn, or whether failed washers/bolts caused the topple.",
+        "The single joint expert Mr Krabbendam concluded the topple required a speed of about 9.8 kph; SCT witness Mr Strange said the speed was below 5 kph.",
+        "The Court of Appeal held the judge erred in accepting Mr Strange's speed evidence in isolation and without reconciling it with the joint expert and the rejected washer theory."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against a county court trial judgment on liability only; package limitation under Hague/Hague-Visby Rules deferred pending House of Lords decision in The Rafaela S.",
+      "outcome": "Appeal allowed on liability; judgment for the claimants on liability; costs of appeal to respondents; remaining costs and limitation issues reserved.",
+      "ratio": "Where a bailee must prove reasonable care, identification of the probable cause of damage is not legally required but is highly relevant to evaluating witness and expert evidence on causation; where the only remaining explanations are excessive speed on a U-turn or an unsupported washer failure, a trial judge should not prefer lay speed evidence over a single joint expert when that would leave the accident unexplained.",
+      "legal_issues": [
+        "Whether SCT breached its duty as bailee by driving the mafi too fast or turning too tightly",
+        "Whether the washer/bolt loosening theory was a realistic alternative cause",
+        "How a court should treat single joint expert evidence when it conflicts with witness-of-fact evidence on speed",
+        "Whether the Court of Appeal could interfere with the trial judge's findings where credibility was not the decisive factor"
+      ],
+      "catchwords": [
+        "bailment",
+        "bailee burden of proof",
+        "reasonable care",
+        "single joint expert",
+        "causation",
+        "cargo damage",
+        "container terminal",
+        "U-turn",
+        "centre of gravity"
+      ],
+      "index_terms": [
+        "Coopers Payen",
+        "Sanwa Parking Industry",
+        "Southampton Container Terminal",
+        "Mori press",
+        "mafi flat trailer",
+        "Peet v Mid-Kent Healthcare Trust",
+        "Palmer on Bailment",
+        "The Rafaela S",
+        "commercial court appeal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Assicurazioni Generali SpA v Arab Insurance Group",
+          "citation": "[2003] 1 WLR 577",
+          "relation": "cited"
+        },
+        {
+          "name": "Peet v Mid-Kent Healthcare Trust",
+          "citation": "[2001] EWCA Civ 1703",
+          "relation": "applied"
+        },
+        {
+          "name": "The Rafaela S",
+          "citation": "[2003] EWCA Civ 556",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Bullen v The Swan Electric Engraving Company",
+          "citation": "[1887] 23 TLR 258",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long, complete judgment with detailed findings on liability; limitation point expressly not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1809.json",
+    "status": "done",
+    "notes": "Complete judicial review on Bail Act 1976 s.7 procedure; claimant had already been sentenced by hearing date.",
+    "enrichment": {
+      "short_title": "Whether reasonable excuse applies to breach of bail under s.7 Bail Act",
+      "area_of_law": [
+        "Administrative law",
+        "Criminal procedure",
+        "Bail",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Bail Act 1976",
+          "provisions": [
+            "section 6",
+            "section 6(1)",
+            "section 7",
+            "section 7(3)",
+            "section 7(4)",
+            "section 7(5)",
+            "section 7(6)",
+            "Schedule 1 Part I paragraph 2"
+          ]
+        },
+        {
+          "title": "Public Order Act 1986",
+          "provisions": [
+            "section 3",
+            "section 4"
+          ]
+        },
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": [
+            "section 31(1)(a)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant pleaded guilty to public order offences and was granted conditional bail including daily reporting and a curfew.",
+        "He was arrested under section 7(3) Bail Act 1976 for failing to report between 14 and 24 June 2003 and argued he had a reasonable excuse for the breach.",
+        "The court clerk advised the justices that reasonable excuse was not a defence in section 7 proceedings; the claimant admitted the breach and was remanded in custody.",
+        "Judicial review was brought challenging that ruling; by the hearing the claimant had been sentenced, but the parties agreed the point of law remained important."
+      ],
+      "procedural_posture": "Expedited judicial review of a West London Magistrates' Court decision on breach of bail conditions; leave granted by Owen J.",
+      "outcome": "Claim dismissed; no reasonable excuse defence at the first stage of section 7(5) proceedings; usual costs order against legally assisted claimant not to be enforced without leave.",
+      "ratio": "Section 7 Bail Act 1976 involves a two-stage process: first whether a breach occurred, then whether bail should be granted or custody ordered; at the first stage justices must act fairly but are not required to consider reasonable excuse for the breach, unlike the 'without reasonable cause' defence in section 6 for failure to surrender.",
+      "legal_issues": [
+        "Whether a bailed person may rely on reasonable excuse when justices decide if a bail condition has been broken under section 7(5)",
+        "Whether section 7 must be read consistently with section 6 Bail Act 1976",
+        "Whether Article 5 ECHR requires importation of a reasonable excuse defence into section 7(5)"
+      ],
+      "catchwords": [
+        "bail",
+        "breach of bail conditions",
+        "reasonable excuse",
+        "section 7 Bail Act 1976",
+        "magistrates court",
+        "judicial review",
+        "Article 5",
+        "remand in custody"
+      ],
+      "index_terms": [
+        "R v Liverpool City Magistrates ex parte DPP",
+        "R v Havering Magistrates' Court ex parte DPP",
+        "West London Magistrates' Court",
+        "reporting condition",
+        "curfew breach",
+        "two-stage bail procedure"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Liverpool City Magistrates' Court, ex parte Director of Public Prosecutions",
+          "citation": "[1993] QB 233",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Havering Magistrates' Court, ex parte Director of Public Prosecutions",
+          "citation": "[2001] 2 Cr App R 12",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear point-of-law judgment with full statutory and authority analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/939.json",
+    "status": "done",
+    "notes": "Complete costs appeal after Tomlin settlement of copyright software dispute.",
+    "enrichment": {
+      "short_title": "Appeal against broad-brush costs order after settled copyright trial",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Intellectual property",
+        "Copyright"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 51(1)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 44.3(1)(a)",
+            "CPR 44.3(2)",
+            "CPR 44.3(4)",
+            "CPR 44.3(6)",
+            "CPR 44.3(6)(a)",
+            "CPR 44.3(6)(f)",
+            "CPR 44.3(7)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "BCT sued Brewer for copyright infringement in computer software (PACS system); the action settled on a Tomlin order shortly after trial began, leaving costs to the judge.",
+        "BCT recovered only about £10,400 under the settlement against total costs exceeding £300,000 per side.",
+        "The deputy judge ordered BCT to pay 85% of Brewer's pre-amendment costs and 62.5% of post-amendment costs using a broad four-issue apportionment.",
+        "BCT appealed, arguing the judge should have made no order as to post-amendment costs and had double-penalised BCT on the one issue it won."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against a costs order made by agreement after settlement of a High Court copyright trial.",
+      "outcome": "Appeal dismissed; costs order not manifestly unjust.",
+      "ratio": "Where parties settle substantive issues but ask a judge to decide costs without a full trial, the judge may properly decline the exercise in complex cases; if he undertakes it, an appellate court will interfere only on manifest injustice, and proportional issue-based apportionment under CPR 44.3(6)(a) may be appropriate even if described as broad brush.",
+      "legal_issues": [
+        "Whether a judge should decide costs after a Tomlin settlement without trying the merits",
+        "Whether equal apportionment of costs across four issues was erroneous in principle",
+        "Whether the judge should have made no order as to post-amendment costs",
+        "Whether BCT suffered a double deduction on the issue on which it succeeded"
+      ],
+      "catchwords": [
+        "costs after settlement",
+        "Tomlin order",
+        "copyright infringement",
+        "computer software",
+        "issue-based costs",
+        "broad brush apportionment",
+        "manifest injustice",
+        "judicial discretion"
+      ],
+      "index_terms": [
+        "BCT Software Solutions",
+        "C Brewer & Sons",
+        "PACS system",
+        "Denne v Denne",
+        "Brawley v Marizynski",
+        "AEI Ltd v PPL",
+        "software licence dispute"
+      ],
+      "linked_authorities": [
+        {
+          "name": "AEI Ltd v PPL",
+          "citation": "[1999] 1 WLR 1507",
+          "relation": "applied"
+        },
+        {
+          "name": "Brawley v Marizynski (No 1)",
+          "citation": "[2002] EWCA Civ 756",
+          "relation": "cited"
+        },
+        {
+          "name": "Denne v Denne",
+          "citation": "(1977) CAT 4743",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full appellate judgment on costs discretion; underlying copyright merits not tried."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1834.json",
+    "status": "done",
+    "notes": "Short adjourned procedural judgment; no substantive relief granted but legal framework identified.",
+    "enrichment": {
+      "short_title": "Adjourned judicial review of delayed naturalisation application",
+      "area_of_law": [
+        "Administrative law",
+        "Immigration and nationality",
+        "Naturalisation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "British Nationality Act 1981",
+          "provisions": [
+            "section 6",
+            "Schedule 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant applied for judicial review of the Secretary of State's handling of a naturalisation application.",
+        "The claim had been adjourned in January 2003 because no decision had been made; it was restored when further delay continued.",
+        "Police interview and Schedule 1 investigations were still outstanding; the Secretary of State could not yet be satisfied of statutory requirements.",
+        "The court accepted that if forced to decide now the application would likely be refused, and that the court has no power to control how the Secretary of State exercises his discretion absent abuse."
+      ],
+      "procedural_posture": "Restored adjourned application for judicial review; permission previously granted by Silber J.",
+      "outcome": "No substantive order requiring immediate decision; matter to proceed under the Secretary of State's lawful discretion; Secretary of State to indicate timing when investigations complete.",
+      "ratio": "Naturalisation involves a statutory discretion under the British Nationality Act 1981 which the courts cannot control unless there is abuse of power; where investigations under section 6 and Schedule 1 remain incomplete, judicial review cannot usefully compel a premature adverse decision.",
+      "legal_issues": [
+        "Whether the court could compel or timetable a naturalisation decision",
+        "Whether delay in processing the application amounted to unlawful conduct",
+        "What relief was available while Schedule 1 investigations remained outstanding"
+      ],
+      "catchwords": [
+        "naturalisation",
+        "British Nationality Act 1981",
+        "judicial review",
+        "Secretary of State discretion",
+        "Schedule 1",
+        "delay",
+        "adjourned claim"
+      ],
+      "index_terms": [
+        "Messaoudi",
+        "Home Office naturalisation",
+        "Metropolitan Police interview",
+        "Silber J",
+        "restored judicial review"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.82,
+        "level": "high",
+        "notes": "Brief procedural ruling without detailed fact-finding; enrichment limited to what the judgment states."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/995.json",
+    "status": "needs_review",
+    "notes": "Core s.31 ratio clear, but Mummery LJ flagged unresolved whether sticker albums are literary works outside s.31(1); parties limited argument.",
+    "enrichment": {
+      "short_title": "Football sticker copyright — incidental inclusion under s.31 CDPA",
+      "area_of_law": [
+        "Intellectual property",
+        "Copyright",
+        "Sports law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Copyright, Designs and Patents Act 1988",
+          "provisions": [
+            "section 1(1)",
+            "section 3(1)(a)",
+            "section 4(1)(a)",
+            "section 11",
+            "section 16(1)",
+            "section 17(2)",
+            "section 22",
+            "section 23",
+            "section 27(2)",
+            "section 27(3)",
+            "section 28(1)",
+            "section 31",
+            "section 31(1)",
+            "section 31(2)",
+            "section 31(3)",
+            "section 172(2)"
+          ]
+        },
+        {
+          "title": "Copyright Act 1956",
+          "provisions": [
+            "section 9(5)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Panini distributed unofficial football sticker albums depicting Premier League players in authentic club strip, including club badges and the Premier League emblem.",
+        "FAPL, Topps (exclusive licensee), and fourteen clubs sought injunctions for copyright infringement in badges and the league emblem reproduced on stickers and album photographs.",
+        "Peter Smith J treated the CPR Part 24 application as suitable for final determination and held section 31(1) incidental inclusion did not apply because badges were essential to the commercial purpose of authentic strip images.",
+        "Panini appealed; the Court of Appeal agreed inclusion was not incidental where reproduction of badges was essential to market the product to collectors."
+      ],
+      "procedural_posture": "Appeal against an interim injunction treated as final determination of the section 31 defence; permission to appeal granted by Arden LJ with stay on substitution of final order.",
+      "outcome": "Appeal dismissed; section 31(1) defence unavailable on the facts; £30,000 on account of costs ordered.",
+      "ratio": "Under section 31(1) CDPA 1988, whether copyright material is 'incidentally' included depends on why work A was included in work B; where player photographs on stickers and albums were created to show authentic club strip for commercial collector appeal, club badges and the Premier League emblem were essential rather than casual or subordinate inclusions.",
+      "legal_issues": [
+        "Whether section 31(1) CDPA 1988 provides a defence to reproduction of club badges and the Premier League emblem on football stickers and albums",
+        "Whether 'incidental' means background/casual inclusion or can coexist with being integral to the photograph",
+        "Whether commercial purpose and collector authenticity are relevant to incidentality",
+        "Whether sticker albums are compilations (literary works) to which section 31(1) does not apply — raised but not decided"
+      ],
+      "catchwords": [
+        "copyright",
+        "incidental inclusion",
+        "section 31 CDPA 1988",
+        "football stickers",
+        "club badge",
+        "Premier League emblem",
+        "photograph",
+        "secondary infringement",
+        "authentic strip"
+      ],
+      "index_terms": [
+        "Panini UK",
+        "Football Association Premier League",
+        "Topps Europe",
+        "IPC Magazines v MGN",
+        "Copinger & Skone James",
+        "Laddie Prescott and Vitoria",
+        "collectible stickers"
+      ],
+      "linked_authorities": [
+        {
+          "name": "IPC Magazines Ltd v MGN Ltd",
+          "citation": "[1998] FSR 431",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Main s.31 point fully reasoned; album-as-literary-work construction point expressly provisional and unresolved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1828.json",
+    "status": "done",
+    "notes": "Complete s.68 Arbitration Act challenge with detailed damages measure analysis.",
+    "enrichment": {
+      "short_title": "s.68 challenge to LMAA award on charter loss-of-earnings measure",
+      "area_of_law": [
+        "Arbitration",
+        "Shipping",
+        "Charterparty",
+        "Contract law",
+        "Damages"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 57(3)(a)",
+            "section 68"
+          ]
+        },
+        {
+          "title": "Sale of Goods Act 1979",
+          "provisions": [
+            "section 50"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Owners Hawk Shipping withdrew the vessel Sea Hawk II from a time charter with Cron Navigation in October 2000; the charterers claimed wrongful withdrawal.",
+        "Under LMAA Small Claims Procedure the arbitrator awarded charterers about US $72,477 (later corrected for double counting) for loss of earnings over the remaining charter period.",
+        "Owners argued the arbitrator overlooked their defence that damages should be measured by contract hire rate minus substitute vessel market rate, not gross profit lost.",
+        "Neither party led evidence on substitute vessel availability; the arbitrator used commercial judgment and later explained ammonium nitrate cargo required specialised tonnage."
+      ],
+      "procedural_posture": "High Court application under section 68 Arbitration Act 1996 to set aside/correct an LMAA Small Claims award; no oral hearing in arbitration.",
+      "outcome": "Application dismissed; no serious irregularity established.",
+      "ratio": "Failure to address every pleaded point in an arbitral award is not necessarily serious irregularity under section 68; where neither party adduces evidence on available market/substitute tonnage, an expert LMAA arbitrator may assess loss of earnings on his own commercial judgment without reversing the burden of proof or committing procedural unfairness.",
+      "legal_issues": [
+        "Whether the arbitrator failed to deal with the substitute-vessel measure of damages",
+        "Whether the charterers bore the burden of disproving an available market",
+        "Whether the arbitrator's section 57 correction letter evidenced serious irregularity or disingenuous cover-up",
+        "Whether parties' pleadings implied agreement that substitute vessels were available"
+      ],
+      "catchwords": [
+        "section 68 Arbitration Act 1996",
+        "serious irregularity",
+        "LMAA Small Claims Procedure",
+        "time charter",
+        "wrongful withdrawal",
+        "loss of earnings",
+        "available market",
+        "substitute vessel",
+        "measure of damages"
+      ],
+      "index_terms": [
+        "Hawk Shipping",
+        "Cron Navigation",
+        "Sea Hawk II",
+        "Baltime 1939",
+        "ammonium nitrate carriage",
+        "William Packard arbitrator",
+        "charterparty damages"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full commercial court judgment on s.68 with clear findings on damages principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1808.json",
+    "status": "done",
+    "notes": "Complete permission-stage judgment; litigant in person; no merits review of ombudsman decision.",
+    "enrichment": {
+      "short_title": "Refusal of permission to review Legal Services Ombudsman decision",
+      "area_of_law": [
+        "Administrative law",
+        "Legal profession regulation",
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 51(7)(a)",
+            "section 51(7)(b)",
+            "section 192B"
+          ]
+        },
+        {
+          "title": "Administration of Justice Act 1960",
+          "provisions": [
+            "section 69"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Bhamjee sought judicial review of the Legal Services Ombudsman's December 2002 decision that the Office for the Supervision of Solicitors had reasonably investigated his complaint against Dillons.",
+        "The application was lodged on 29 April 2003, well out of time; Collins J refused permission on the papers as hopeless.",
+        "On renewed oral application Sullivan J found no satisfactory explanation for delay and no arguable error of law in the ombudsman's decision.",
+        "Costs of the unnecessary oral renewal were awarded summarily at £1,500 plus VAT; costs of the acknowledgment of service were not awarded."
+      ],
+      "procedural_posture": "Renewed application for permission to apply for judicial review after refusal on the papers; litigant in person.",
+      "outcome": "Permission refused; claimant to pay defendant's costs of the oral renewal hearing summarily assessed at £1,500 plus VAT; leave to appeal to Court of Appeal refused.",
+      "ratio": "A renewed permission application will be refused where the claim is out of time without adequate explanation and discloses no arguable judicially reviewable error of law; where a claimant persists after a clear paper refusal and warning as to costs, the court may award costs of the oral renewal despite the usual practice direction presumption.",
+      "legal_issues": [
+        "Whether to extend time for judicial review of the Legal Services Ombudsman's decision",
+        "Whether the ombudsman's decision contained any arguable error of law",
+        "Whether costs of the oral renewal and acknowledgment of service should be awarded"
+      ],
+      "catchwords": [
+        "permission to apply for judicial review",
+        "Legal Services Ombudsman",
+        "Office for the Supervision of Solicitors",
+        "out of time",
+        "hopeless claim",
+        "renewed application",
+        "costs of oral hearing",
+        "litigant in person"
+      ],
+      "index_terms": [
+        "Bhamjee",
+        "Dillons solicitors",
+        "Collins J",
+        "Sullivan J",
+        "Leach costs principle",
+        "vexatious litigant proceedings"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Leach",
+          "citation": "cited in CPR White Book at 54.12.5",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Procedural permission judgment; underlying ombudsman merits not reviewed in detail."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1718.json",
+    "status": "done",
+    "notes": "Complete costs appeal on Judgments Act interest and detailed assessment costs.",
+    "enrichment": {
+      "short_title": "Interest on costs paid from trust fund after Tomlin consent order",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Equity",
+        "Trusts",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Judgments Act 1838",
+          "provisions": []
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 47.18",
+            "CPR 47.19",
+            "CPR 52.11(3)(b)"
+          ]
+        },
+        {
+          "title": "Costs Practice Direction",
+          "provisions": [
+            "section 46"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Parties settled a Chancery dispute over flat titles via a Tomlin consent order requiring sale of two flats and payment of applicants' costs from proceeds held in a joint solicitors' account.",
+        "Deputy Master Jefferson assessed respondents' costs at £122,289.50 including £14,063.58 assessment costs and awarded Judgments Act interest.",
+        "Sale proceeds were held on trust for the parties in proportionate shares; respondents would receive interest on their share from deposit in any event.",
+        "Appellants appealed on whether Judgments Act interest applies to costs paid from a fund and on detailed assessment costs after Calderbank offers."
+      ],
+      "procedural_posture": "Appeal to High Court judge against Deputy Master Jefferson's final costs certificate and interest declaration; permission granted on interest point.",
+      "outcome": "Appeal allowed on Judgments Act interest (following Re Marsden's Estate); appeal dismissed on detailed assessment costs; provisional no order as to appeal costs.",
+      "ratio": "Interest under the Judgments Act does not run on costs payable out of a fund where there is no adversarial judgment debt; where proceeds are held on trust for beneficiaries in proportionate shares, equitable interest on deposited funds rather than Judgment Act interest is the appropriate analysis for costs paid from the fund.",
+      "legal_issues": [
+        "Whether Judgments Act 1838 interest applies to costs ordered to be paid from sale proceeds held on trust",
+        "Whether Nethercote and Marsden limit interest on fund-based costs orders",
+        "Whether the deputy master erred in awarding respondents their costs of detailed assessment after Calderbank offers",
+        "Whether the appeal should be a rehearing or review under CPR 52.11(3)(b)"
+      ],
+      "catchwords": [
+        "Judgments Act interest",
+        "costs from a fund",
+        "Tomlin consent order",
+        "detailed assessment",
+        "CPR 47.19",
+        "Calderbank offer",
+        "trust fund",
+        "Re Marsden's Estate",
+        "costs of assessment"
+      ],
+      "index_terms": [
+        "Wills v Crown Estate Commissioners",
+        "Deputy Master Jefferson",
+        "Wolsley House flats",
+        "vesting order",
+        "Audergon v La Baguette Ltd",
+        "A G v Nethercote"
+      ],
+      "linked_authorities": [
+        {
+          "name": "A G v Nethercote",
+          "citation": "[1841] 11 Sim 529",
+          "relation": "applied"
+        },
+        {
+          "name": "Re Marsden's Estate",
+          "citation": "[1889] 40 Ch D 475",
+          "relation": "applied"
+        },
+        {
+          "name": "Audergon v La Baguette Ltd",
+          "citation": "[2002] EWCA Civ 10",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed written judgment on two distinct costs issues; appeal costs order provisional."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1002.json",
+    "status": "done",
+    "notes": "Complete refusal of permission to appeal on EU constitutional referendum declarations.",
+    "enrichment": {
+      "short_title": "No judicial power to require referendum before EU constitution ratification",
+      "area_of_law": [
+        "Constitutional law",
+        "Administrative law",
+        "European Union law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Communities Act 1972",
+          "provisions": []
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Political Parties, Elections and Referendums Act 2000",
+          "provisions": [
+            "section 101(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The applicant sought declarations that ratification of a proposed EU constitutional treaty required prior popular consent by referendum or manifesto mandate.",
+        "Silber J refused permission for judicial review, finding no arguable basis for the six (later seven) declarations sought.",
+        "The Draft Treaty establishing a constitution for Europe had been presented in June 2003 but final content and ratification remained uncertain.",
+        "The applicant argued illegality at common law and/or a constitutional convention requiring referendum or electoral approval before fundamental constitutional change."
+      ],
+      "procedural_posture": "Application to the Court of Appeal for permission to appeal from Silber J's refusal of permission to apply for judicial review.",
+      "outcome": "Permission to appeal refused; no arguable prospects of success.",
+      "ratio": "Courts have not in modern times treated Acts of Parliament as unenforceable for lack of prior referendum or manifesto mandate; alleged constitutional conventions requiring popular approval before fundamental change are not established as justiciable legal rules, and declaratory relief is inappropriate where no draft treaty has been finalised.",
+      "legal_issues": [
+        "Whether courts may refuse to enforce legislation passed without a prior referendum",
+        "Whether a constitutional convention requires referendum or manifesto approval before fundamental constitutional change",
+        "Whether the court should declare requirements for referendum under the Political Parties, Elections and Referendums Act 2000 before EU treaty ratification",
+        "Whether declaratory relief is appropriate at this pre-ratification stage"
+      ],
+      "catchwords": [
+        "constitutional convention",
+        "referendum",
+        "EU constitution",
+        "parliamentary sovereignty",
+        "declaratory relief",
+        "judicial review",
+        "ratification",
+        "fundamental constitutional change"
+      ],
+      "index_terms": [
+        "Southall",
+        "Draft Treaty establishing a constitution for Europe",
+        "Laeken Convention",
+        "Silber J",
+        "Schiemann LJ",
+        "manifesto mandate"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear constitutional ruling on permission; no fact-heavy dispute."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1813.json",
+    "status": "done",
+    "notes": "Complete judgment on s.89 Housing Act 1980 and Tomlin consent possession order.",
+    "enrichment": {
+      "short_title": "s.89 limits stay of execution on consent trespass possession order",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Housing law",
+        "Possession proceedings",
+        "Charity law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1980",
+          "provisions": [
+            "section 89",
+            "section 89(1)",
+            "section 89(2)",
+            "section 86",
+            "section 88"
+          ]
+        },
+        {
+          "title": "Landlord and Tenant Act 1954",
+          "provisions": [
+            "section 38(4)(b)"
+          ]
+        },
+        {
+          "title": "County Courts Act 1984",
+          "provisions": [
+            "section 42",
+            "section 42(5)"
+          ]
+        },
+        {
+          "title": "High Court and County Court Jurisdiction Order 1991",
+          "provisions": [
+            "Article 8B"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Hackney and Side By Side (Kids) Ltd, a charity running a nursery for mentally handicapped children, settled possession proceedings by Tomlin consent order requiring vacation by 25 June 2003 in return for alternative sites and £70,000 relocation costs.",
+        "The defendant did not vacate, alleging Hackney breached works deadlines on the Big Hill site; it obtained an ex parte High Court stay of execution on the writ.",
+        "Hackney applied to set aside the stay; the consent order made possession by 25 June independent of disputes over schedule compliance.",
+        "Stanley Burnton J held section 89 Housing Act 1980 applies to High Court and consent possession orders, capping postponement at six weeks unless exceptional hardship is shown."
+      ],
+      "procedural_posture": "High Court application to set aside Deputy Master's ex parte stay of execution on a county court possession order enforced by writ against trespassers.",
+      "outcome": "Stay set aside; possession enforcement permitted subject to a further stay until 18 July 2003 (six-week s.89 maximum); claimant's costs summarily assessed at £10,000.",
+      "ratio": "Section 89 Housing Act 1980 restricts postponement of possession to 14 days unless exceptional hardship is shown, and in any event to six weeks; it applies to consent possession orders and to orders enforced in the High Court; where a Tomlin order fixes possession date independently of schedule performance disputes, alleged breach of relocation works does not automatically justify extended stay.",
+      "legal_issues": [
+        "Whether section 89 Housing Act 1980 applies to High Court enforcement of county court possession orders",
+        "Whether section 89 applies to consent/Tomlin possession orders",
+        "Whether Bain v Church Commissioners was correctly decided on High Court scope of s.89",
+        "Whether alleged breach of consent schedule works prevented enforcement or justified stay/waiver/estoppel"
+      ],
+      "catchwords": [
+        "section 89 Housing Act 1980",
+        "stay of execution",
+        "consent order",
+        "Tomlin order",
+        "possession against trespassers",
+        "writ of possession",
+        "exceptional hardship",
+        "nursery charity",
+        "relocation works"
+      ],
+      "index_terms": [
+        "Hackney LBC",
+        "Side By Side (Kids) Ltd",
+        "Bain v Church Commissioners",
+        "CCR Order 25 rule 13",
+        "Big Hill site",
+        "Egerton Road nursery",
+        "Stanley Burnton J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bain v Church Commissioners for England",
+          "citation": "[1989] 1 WLR 24",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Re International Tin Council",
+          "citation": "[1987] Ch 419",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment on s.89 construction and consent order enforcement; factual disputes expressly not tried."
+      }
+    }
+  }
+]

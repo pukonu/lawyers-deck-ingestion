@@ -1,0 +1,659 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2667.json",
+    "status": "done",
+    "notes": "Full Court of Appeal reasons on conviction and sentence refusal.",
+    "enrichment": {
+      "short_title": "Drug conspiracy appeal: fair trial and accomplice witness procedures under Article 6",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Sentencing",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": ["section 78"]
+        },
+        {
+          "title": "Criminal Procedure and Investigations Act 1996",
+          "provisions": ["sections 23", "25"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 6", "Article 8"]
+        }
+      ],
+      "key_facts": [
+        "Adrian Reed was convicted at Norwich Crown Court of six counts of conspiracy to supply class A and B drugs and sentenced to 11 years' imprisonment.",
+        "The prosecution case rested heavily on accomplice and user witnesses whose statements were obtained with limited formal recording of police inducements.",
+        "Reed appealed on Article 6 grounds that unregulated police dealings with vulnerable witnesses denied a fair trial; sentence appeal was renewed.",
+        "Co-defendants who pleaded guilty gave evidence for the Crown; the judge rejected a stay and section 78 applications and gave detailed accomplice warnings."
+      ],
+      "procedural_posture": "Court of Appeal (Criminal Division) giving reserved reasons after dismissal of conviction appeal and refusal of leave to appeal against sentence.",
+      "outcome": "Appeal against conviction dismissed; renewed application for leave to appeal against the 11-year sentence refused.",
+      "ratio": "Absence of formal rules or complete records of pre-interview police contacts with accomplice witnesses does not of itself render a trial unfair where domestic safeguards—disclosure, cross-examination, abuse of process and section 78 powers, and robust jury directions on tainted evidence and corroboration—were properly applied; Strasbourg authority does not require a different result, and the total sentence was not excessive for a violent ringleader in large-scale conspiracy to supply.",
+      "legal_issues": [
+        "Whether lack of transparent police procedures for approaching accomplice witnesses breached Article 6",
+        "Whether the trial judge erred in refusing to stay the prosecution or exclude witness evidence under section 78 PACE",
+        "Whether the 11-year total sentence was manifestly excessive"
+      ],
+      "catchwords": [
+        "conspiracy to supply drugs",
+        "accomplice evidence",
+        "police inducements",
+        "Article 6 fair trial",
+        "section 78 PACE",
+        "abuse of process",
+        "corroboration warning",
+        "sentence totality"
+      ],
+      "index_terms": [
+        "Reed",
+        "Norwich Crown Court",
+        "Cambridgeshire drug supply",
+        "Queen's evidence",
+        "immunity",
+        "CPIA disclosure",
+        "Baragiola",
+        "X v UK"
+      ],
+      "linked_authorities": [
+        {" citation": "X v UK (1976) 7 DR 115", "role": "considered" },
+        {" citation": "Baragiola v Switzerland (1993)", "role": "considered" },
+        {" citation": "Edwards v UK (1992) 15 EHRR 417", "role": "considered" },
+        {" citation": "Malone v UK (1984) 7 EHRR 14", "role": "considered" },
+        {" citation": "R v Turner 61 Cr App R 67", "role": "applied" },
+        {" citation": "Chan Wai-Keung v Regina [1995] 2 Cr App R 194", "role": "cited" }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long reserved judgment with clear outcomes on conviction and sentence; enrichment drawn directly from full text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2956.json",
+    "status": "done",
+    "notes": "Settlement approval judgment; top-level summary field truncated but full text complete.",
+    "enrichment": {
+      "short_title": "Disabled child's SEN judicial review stayed on negotiated physiotherapy terms",
+      "area_of_law": [
+        "Administrative law",
+        "Education law",
+        "Social care",
+        "Judicial review"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Dennis Tristan McC, a severely disabled child with cerebral palsy, challenged his local authority through his father over physiotherapy and occupational therapy provision under his Statement of Special Educational Needs.",
+        "Prolonged litigation included interim orders, a Tomlin stay in October 2002, and further consent orders before Mr Justice Wall.",
+        "The parties negotiated a detailed schedule of relief including physiotherapeutic management and an amended statement referencing the Star Centre.",
+        "The local authority sought earlier dismissal of proceedings; the claimant favoured keeping proceedings alive until 31 July 2004 as a fallback."
+      ],
+      "procedural_posture": "Judicial review before the Administrative Court on approval of a revised Tomlin settlement and case-management of dismissal timing.",
+      "outcome": "Proceedings stayed on the negotiated schedule; paragraph 4 amended so proceedings stand dismissed on 31 July 2004 without a unilateral early-dismissal mechanism; no order for costs.",
+      "ratio": "Where a disabled child's support has been agreed after repeated enforcement disputes, it is appropriate to keep judicial review proceedings in being until an agreed cut-off date as a fallback for implementation disputes, rather than permit the authority unilaterally to seek early dismissal while still under enhanced supervisory obligations.",
+      "legal_issues": [
+        "Whether judicial review proceedings should be dismissed before the agreed support end-date",
+        "Whether a clause allowing earlier dismissal without both parties' consent unfairly removed court oversight"
+      ],
+      "catchwords": [
+        "Statement of Special Educational Needs",
+        "physiotherapy",
+        "Tomlin order",
+        "judicial review settlement",
+        "disabled child",
+        "liberty to apply"
+      ],
+      "index_terms": [
+        "Dennis Tristan McC",
+        "Gloucester Primary Care Trust",
+        "cerebral palsy",
+        "Star Centre",
+        "consent order"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Straightforward procedural settlement judgment; truncated metadata summary does not affect substantive enrichment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1406.json",
+    "status": "done",
+    "notes": "Landmark conjoined HRA damages judgment; very long full text.",
+    "enrichment": {
+      "short_title": "Conjoined HRA appeals on Article 8 maladministration and damages under section 8",
+      "area_of_law": [
+        "Human rights",
+        "Public law",
+        "Damages",
+        "Housing law",
+        "Immigration and asylum"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["section 6", "section 8", "section 8(4)"]
+        },
+        {
+          "title": "National Assistance Act 1948",
+          "provisions": ["section 21"]
+        },
+        {
+          "title": "Housing Act 1996",
+          "provisions": ["Part VII", "section 188", "section 193"]
+        },
+        {
+          "title": "National Health Service and Community Care Act 1990",
+          "provisions": ["section 47"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 8"]
+        }
+      ],
+      "key_facts": [
+        "Three conjoined appeals involved asylum-related claimants alleging maladministration by public authorities breached Article 8 and entitled them to HRA damages.",
+        "Anufrijeva concerned Southwark's housing and care for an elderly disabled family member in unsuitable maisonette accommodation.",
+        "N, a Libyan asylum seeker, claimed psychiatric harm from delayed asylum processing and inadequate support; Silber J had awarded damages.",
+        "M, an Angolan refugee, sought damages for delay reuniting his family; Richards J dismissed the claim."
+      ],
+      "procedural_posture": "Conjoined appeals to the Court of Appeal on Human Rights Act damages following High Court trials or judgments in three related public-law claims.",
+      "outcome": "Appeal allowed in N (Home Office); appeals dismissed in Anufrijeva and M; leave to appeal refused in M; Anufrijeva ordered to pay Southwark's costs under section 11 Access to Justice Act.",
+      "ratio": "Maladministration causing delay or distress does not automatically infringe Article 8: serious consequences and a lack of effective respect for private or family life must be shown, and damages under section 8 HRA are discretionary, must afford just satisfaction, and are not awarded merely because psychiatric harm follows from administrative error unless the authority's conduct showed a lack of respect that was reasonably foreseeable; procedural human-rights litigation must remain proportionate to the remedy sought.",
+      "legal_issues": [
+        "When positive obligations under Article 8 require public authorities to provide support or suitable housing",
+        "Whether maladministration in welfare or asylum systems constitutes a Convention breach",
+        "When courts should award damages under section 8 HRA and on what equitable basis",
+        "How to keep HRA litigation costs proportionate"
+      ],
+      "catchwords": [
+        "Human Rights Act damages",
+        "Article 8",
+        "maladministration",
+        "just satisfaction",
+        "asylum support",
+        "family reunion",
+        "social housing",
+        "positive obligations"
+      ],
+      "index_terms": [
+        "Anufrijeva",
+        "Southwark",
+        "Bernard",
+        "Chapman v UK",
+        "Askar v UK",
+        "restitutio in integrum",
+        "psychiatric harm"
+      ],
+      "linked_authorities": [
+        {" citation": "R (Bernard) v Enfield LBC [2002] EWHC 2282 Admin", "role": "considered" },
+        {" citation": "Chapman v United Kingdom (2001) 33 EHRR 18", "role": "applied" },
+        {" citation": "Marcic v Thames Water [2002] QB 929", "role": "cited" },
+        {" citation": "London Borough of Harrow v Qazi [2003] UKHL 43", "role": "cited" },
+        {" citation": "Askar v United Kingdom (application no. 26373/95)", "role": "applied" }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Authoritative joint judgment with explicit order; principles and individual outcomes clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1408.json",
+    "status": "done",
+    "notes": "Full planning/EIA appeal judgment.",
+    "enrichment": {
+      "short_title": "EIA screening for industrial estate on greenfield site near Mansfield",
+      "area_of_law": [
+        "Planning law",
+        "Environmental law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning (Assessment of Environmental Effects) Regulations 1988",
+          "provisions": ["regulation 2", "regulation 4", "regulation 5", "Schedule 2", "Schedule 3"]
+        },
+        {
+          "title": "Council Directive 85/337/EEC",
+          "provisions": ["Article 2", "Article 4", "Annex II"]
+        }
+      ],
+      "key_facts": [
+        "Dawn Jones challenged Mansfield District Council's grant of outline planning permission for a 28.4 hectare industrial estate on open countryside adjacent to her home.",
+        "The council decided in February 2002 that no environmental impact assessment was required despite ecological concerns about golden plovers and bats.",
+        "Consultees including RSPB and wildlife groups had called for further surveys; the developer offered unilateral undertakings for additional ecological work.",
+        "Richards J dismissed judicial review; the claimant appealed on Wednesbury and EIA-screening grounds."
+      ],
+      "procedural_posture": "Appeal from refusal of permission/judicial review of local planning authority screening and grant of outline planning permission.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Whether Schedule 2 development would be likely to have significant environmental effects is a matter of planning judgment for the authority, reviewable only on Wednesbury grounds; an authority may decide an EIA is unnecessary where existing surveys and consultee responses provide sufficient information, and cannot be required to treat post-permission conditions or undertakings as a substitute for the EIA process, but here further surveys did not preclude a lawful screening decision.",
+      "legal_issues": [
+        "Standard of review of a local authority EIA screening decision",
+        "Whether uncertainty about wildlife impacts required an EIA before permission",
+        "Whether reliance on post-grant surveys unlawfully substituted conditions for EIA"
+      ],
+      "catchwords": [
+        "environmental impact assessment",
+        "Schedule 2 development",
+        "industrial estate",
+        "screening decision",
+        "golden plover",
+        "bats",
+        "Wednesbury reasonableness",
+        "Gillespie"
+      ],
+      "index_terms": [
+        "Jones",
+        "Mansfield District Council",
+        "Berkeley v SSE",
+        "Hardy",
+        "Bellway Gillespie",
+        "Kraaijeveld",
+        "WWF v Bozen"
+      ],
+      "linked_authorities": [
+        {" citation": "Berkeley v Secretary of State for the Environment [2001] 2 AC 603", "role": "applied" },
+        {" citation": "R v Cornwall CC ex p Hardy [2001] Env LR 473", "role": "distinguished" },
+        {" citation": "Bellway Urban Renewal Southern v Gillespie [2003] EWCA Civ 400", "role": "distinguished" },
+        {" citation": "Smith v SSETR [2003] EWCA Civ 262", "role": "cited" }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete appellate judgment with detailed legal framework and fact-specific conclusions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1372.json",
+    "status": "done",
+    "notes": "Full reinsurance premium review clause appeal.",
+    "enrichment": {
+      "short_title": "Reinsurance premium review clause: valid invocation and nomination for year three",
+      "area_of_law": [
+        "Insurance law",
+        "Reinsurance",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Marine Insurance Act 1906",
+          "provisions": ["section 53(1)"]
+        }
+      ],
+      "key_facts": [
+        "Lloyd's syndicates held a three-year whole-account excess-of-loss reinsurance with New Cap Reinsurance Corporation containing a premium review clause triggered by extraordinary claims development (ECD).",
+        "NCR cancelled after year one and disputed the contract's continuation; at trial Morison J found ECD in 1998 justified a 1999 premium increase but that NCR had not validly invoked or nominated a new premium in time.",
+        "NCR amended its defence mid-trial to rely on ECD in 1998; the judge treated the 1997 invocation as a continuing act, which the Court of Appeal rejected.",
+        "The syndicates succeeded for indemnity for 1998 and 1999 years."
+      ],
+      "procedural_posture": "Appeal from Commercial Court trial on construction and operation of a reinsurance premium review clause.",
+      "outcome": "Claimants' appeal allowed; NCR obliged to indemnify syndicates for 1998 and 1999; NCR not entitled to nominate increased premiums for those years.",
+      "ratio": "A premium review clause must be invoked within a reasonable time after the triggering event for the relevant anniversary and cannot be exercised prospectively from an earlier year; invocation must give the reassured clear notice of the ground relied on, and nomination of the increased premium is part of the clause's machinery—failure to invoke for 1998 ECD or to nominate timely vitiated NCR's attempt to terminate cover for 1999.",
+      "legal_issues": [
+        "Whether NCR validly invoked the premium review clause for the third underwriting year",
+        "Whether a 1997 invocation could operate as a continuing notice for later ECD",
+        "Whether nomination of a new premium was essential and whether mid-trial quantification was too late",
+        "Whether valid invocation automatically terminated the contract"
+      ],
+      "catchwords": [
+        "reinsurance",
+        "premium review clause",
+        "extraordinary claims development",
+        "contractual notice",
+        "Mannai",
+        "invocation",
+        "nomination",
+        "slip policy"
+      ],
+      "index_terms": [
+        "Charman",
+        "New Cap Re",
+        "Lloyd's syndicates",
+        "whole account excess of loss",
+        "Morison J",
+        "cancellation"
+      ],
+      "linked_authorities": [
+        {" citation": "Mannai Ltd v Eagle Star [1997] AC 749", "role": "applied" },
+        {" citation": "Prentis Donegan v Leeds & Leeds [1998] 2 Lloyd's Rep 326", "role": "cited" },
+        {" citation": "The Mihalis Angelos [1971] 1 QB 164", "role": "cited" }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed reserved judgment with clear order varying Morison J's conclusions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1370.json",
+    "status": "done",
+    "notes": "Full conjoined personal injury damages appeals.",
+    "enrichment": {
+      "short_title": "Excluding care-cost inflation evidence as indirect attack on Lord Chancellor discount rate",
+      "area_of_law": [
+        "Personal injury",
+        "Damages",
+        "Civil procedure",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Damages Act 1996",
+          "provisions": ["section 1", "section 1(2)"]
+        }
+      ],
+      "key_facts": [
+        "Three severely injured claimants (Sheppard, Cooke, Page) sought to admit accountant Rowland Hogg's evidence that future care and earnings costs rise faster than RPI, using NHS Pay Cost Index data.",
+        "Trial judges excluded the evidence because it would undermine the Lord Chancellor's prescribed 2.5% discount rate under section 1 Damages Act 1996.",
+        "Hogg contended differential inflation in the multiplicand was separate from the discount rate; defendants argued it was a prohibited indirect challenge under Warriner.",
+        "All three appeals were conjoined before Laws, Dyson and Carnwath LJJ."
+      ],
+      "procedural_posture": "Interlocutory appeals from case-management decisions excluding expert evidence on future pecuniary loss multiplicands in serious injury claims.",
+      "outcome": "All three appeals dismissed.",
+      "ratio": "Under the conventional multiplier/multiplicand method endorsed in Cookson v Knowles and Wells v Wells, future inflation is accounted for solely through the discount rate fixed by the Lord Chancellor under section 1 Damages Act 1996; adjusting the multiplicand for sector-specific inflation (such as care costs exceeding RPI) is an impermissible direct or indirect subversion of that rate, and section 1(2) does not assist where the Lord Chancellor already considered long life expectancy and high care costs.",
+      "legal_issues": [
+        "Whether expert evidence on care-cost inflation beyond RPI is admissible alongside the prescribed discount rate",
+        "Whether such evidence falls within section 1(2) as a more appropriate rate",
+        "Relationship between full compensation principle and statutory discount rate"
+      ],
+      "catchwords": [
+        "discount rate",
+        "multiplicand",
+        "multiplier",
+        "future care costs",
+        "NHS Pay Cost Index",
+        "index-linked gilts",
+        "Warriner",
+        "Wells v Wells"
+      ],
+      "index_terms": [
+        "Sheppard",
+        "Cooke",
+        "Page",
+        "Rowland Hogg",
+        "Lord Chancellor order 2.5%",
+        "Ogden Tables"
+      ],
+      "linked_authorities": [
+        {" citation": "Wells v Wells [1999] 1 AC 345", "role": "applied" },
+        {" citation": "Cookson v Knowles [1979] AC 556", "role": "applied" },
+        {" citation": "Warriner v Warriner [2002] 1 WLR 1703", "role": "applied" },
+        {" citation": "Hodgson v Trapp [1989] AC 807", "role": "cited" }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Comprehensive conjoined judgment with unanimous outcome and clear ratio on discount rate methodology."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2510.json",
+    "status": "done",
+    "notes": "Full section 288 planning challenge judgment.",
+    "enrichment": {
+      "short_title": "Backland housing appeal dismissed for harm to Linkswood Road character",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 288"]
+        }
+      ],
+      "key_facts": [
+        "Millgate Homes appealed an inspector's dismissal of outline permission for two detached houses in the rear gardens of 6 and 8 Linkswood Road, Burnham.",
+        "South Bucks refused permission for backland development harming the cohesive frontage-plot character and creating an adverse precedent.",
+        "The appeal was decided on written representations after a site visit; design was a reserved matter and not before the inspector.",
+        "The planning officer had recommended grant but the committee refused; other scheme variants on the site were not challenged."
+      ],
+      "procedural_posture": "Section 288 statutory challenge to a planning inspector's decision on written representations appeal.",
+      "outcome": "Application to quash the inspector's decision refused; claimant ordered to pay the Secretary of State's costs summarily assessed at £3,380.",
+      "ratio": "An inspector's conclusion that backland housing with a penetrating access way would materially harm the distinctive character of a low-density frontage-plot estate is a planning judgment not susceptible to section 288 challenge where adequately reasoned; generalised precedent reasoning and variance from surrounding development were sufficiently explained without deciding design reserved matters.",
+      "legal_issues": [
+        "Whether the inspector adequately reasoned on access-way and 'mini estate road' harm",
+        "Whether precedent reasoning was insufficiently particularised",
+        "Whether treating backland development as harmful per se was an error of law",
+        "Whether 'variance' finding improperly relied on reserved design matters"
+      ],
+      "catchwords": [
+        "section 288",
+        "planning inspector",
+        "backland development",
+        "precedent",
+        "character and appearance",
+        "outline permission",
+        "reserved matters"
+      ],
+      "index_terms": [
+        "Millgate Homes",
+        "Linkswood Road",
+        "Burnham",
+        "South Bucks local plan",
+        "PPG3",
+        "Rumsey"
+      ],
+      "linked_authorities": [
+        {" citation": "Rumsey v SSETR [2001] 81 P&CR 465", "role": "distinguished" }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete Sullivan J judgment rejecting all four grounds of challenge."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2749.json",
+    "status": "done",
+    "notes": "Full single-judge conviction appeal.",
+    "enrichment": {
+      "short_title": "Midnight indecent assault appeals: similar-fact direction and judge's questioning",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "John McKenzie was convicted at Snaresbrook of two indecent assaults on professional women near the Samuel Lewis Estate and threatening to kill the second complainant.",
+        "Count 1 turned on identification parades; counts 2–3 involved admitted presence but disputed consent and extent of sexual contact.",
+        "The judge permitted screening of a witness, questioned the appellant at length, and gave a similar-fact direction linking the counts.",
+        "McKenzie was sentenced to 3 years on count 1, 8 years concurrent on count 2 (with 2-year extended licence), and 4 years on count 3."
+      ],
+      "procedural_posture": "Appeal against conviction with leave on eight grounds and renewed application on a ninth after a previous hung jury on severed counts.",
+      "outcome": "Appeal dismissed; renewed application on witness screening refused.",
+      "ratio": "In a joinded trial with strong identification and circumstantial evidence on each count, defects in a similar-fact direction or occasional sarcastic judicial questioning do not render convictions unsafe where the jury were clearly directed on separate issues and the similar-fact link was legitimately available; screening a vulnerable witness was within the trial judge's discretion.",
+      "legal_issues": [
+        "Whether judicial questioning of the defendant created unfairness",
+        "Whether the summing-up was unbalanced",
+        "Whether the similar-fact direction was circular or insufficient",
+        "Whether witness screening prejudiced the defence"
+      ],
+      "catchwords": [
+        "indecent assault",
+        "similar fact evidence",
+        "identification parade",
+        "witness screening",
+        "judicial questioning",
+        "summing up",
+        "midnight attacker"
+      ],
+      "index_terms": [
+        "McKenzie",
+        "Snaresbrook Crown Court",
+        "Samuel Lewis Estate",
+        "woolly hat",
+        "DNA nail clippings"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full Pill LJ judgment addressing each ground and concluding convictions safe."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2668.json",
+    "status": "done",
+    "notes": "Full linked theft appeals; Petkar sentence reduced separately.",
+    "enrichment": {
+      "short_title": "Bank employees' £840,000 theft: section 34 direction and cut-throat defences",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Theft",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice and Public Order Act 1994",
+          "provisions": ["section 34"]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["section 23"]
+        }
+      ],
+      "key_facts": [
+        "Rafiq Petkar and Martin Farquhar, former Industrial Bank of Japan employees, were convicted by majority verdict of two £420,000 thefts in November–December 1998.",
+        "Farquhar transferred funds to Petkar's accounts; each ran a cut-throat defence—Petkar claimed innocent investment receipt, Farquhar claimed duress by Petkar.",
+        "Much of the money was withdrawn for casinos and trading; Petkar admitted lying in police interview about returning all funds.",
+        "Farquhar fled to Ireland for over two years; disputed shooting incidents were investigated inconclusively."
+      ],
+      "procedural_posture": "Linked appeals against conviction after retrial; Petkar also appealed sentence.",
+      "outcome": "Both conviction appeals dismissed; Petkar's sentence appeal allowed in part—5 years reduced to 4 years 6 months for delay not attributable to him.",
+      "ratio": "Misdirections on section 34 (failure to identify inferences, remind explanations, and warn against convicting mainly on silence) and absence of a Jones and Jenkins warning in a cut-throat trial do not make convictions unsafe where the evidence of dishonest transfers, lies, and telephone recordings was overwhelming; Petkar received a modest sentence reduction for pre-trial delay caused by Farquhar's absconding.",
+      "legal_issues": [
+        "Adequacy of the section 34 adverse-inference direction",
+        "Need for a co-defendant evidence warning after Jones and Jenkins",
+        "Admissibility and characterization of Mrs Wells' section 23 statement",
+        "Whether new post-conviction account evidence affected Petkar's cash-return account"
+      ],
+      "catchwords": [
+        "theft",
+        "employee fraud",
+        "section 34 silence",
+        "cut-throat defence",
+        "duress",
+        "adverse inference",
+        "Jones and Jenkins",
+        "majority verdict"
+      ],
+      "index_terms": [
+        "Petkar",
+        "Farquhar",
+        "Industrial Bank of Japan",
+        "Graceland Investments",
+        "Refco",
+        "Middlesex Guildhall"
+      ],
+      "linked_authorities": [
+        {" citation": "R v Jones and Jenkins [2003] EWCA Crim 1966", "role": "applied" },
+        {" citation": "R v Condron [1997] 1 Cr App R 185", "role": "applied" },
+        {" citation": "R v Argent [1997] 2 Cr App R 27", "role": "cited" },
+        {" citation": "R v Clark [1998] 2 Cr App R 137", "role": "applied" }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Reserved Rix LJ judgment with detailed treatment of grounds and explicit safety conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2847.json",
+    "status": "done",
+    "notes": "Landmark interlocutory PII guidance after Edwards & Lewis.",
+    "enrichment": {
+      "short_title": "PII hearings after Edwards & Lewis: ex parte procedure and special counsel",
+      "area_of_law": [
+        "Criminal procedure",
+        "Evidence",
+        "Human rights",
+        "Public interest immunity"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Procedure and Investigations Act 1996",
+          "provisions": ["section 3", "section 5", "section 7", "section 9", "section 21", "section 35", "section 37"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["section 2(1)"]
+        },
+        {
+          "title": "Registration of Investigatory Powers Act 2000",
+          "provisions": ["Part II"]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": ["section 78"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Six defendants faced a six-week heroin conspiracy trial; the Crown sought PII over RIPA surveillance authorisations.",
+        "The trial judge ruled PII should not be heard inter partes and requested appointment of special independent counsel after Edwards & Lewis v UK.",
+        "Defendant C appealed against ex parte procedure; the Crown appealed against premature appointment of special counsel.",
+        "The Court of Appeal (Criminal Division) gave first domestic guidance reconciling Jasper, Edwards & Lewis, and Joe Smith."
+      ],
+      "procedural_posture": "Interlocutory appeals under section 35 CPIA 1996 from preparatory hearing rulings on PII procedure before a major Crown Court trial.",
+      "outcome": "C's appeal dismissed; Crown's appeal allowed—judge's request for special counsel premature; certified questions for House of Lords; both defendants granted leave to appeal on PII procedure.",
+      "ratio": "Ex parte PII hearings remain compatible with Article 6 where domestic safeguards operate and national security or informant protection require non-disclosure; Edwards & Lewis does not require open inter partes PII hearings or routine special counsel, but in rare cases where undisclosed material may determine a preliminary fact-sensitive ruling the judge may invite the Attorney General to appoint special independent counsel from an approved panel following prosecution submissions and defence issue-identification.",
+      "legal_issues": [
+        "Whether PII applications must be heard inter partes after Edwards & Lewis",
+        "When special independent counsel should be appointed and by whom",
+        "Compatibility of ex parte PII procedure with Article 6 equality of arms",
+        "Relationship between Edwards & Lewis and R v Joe Smith"
+      ],
+      "catchwords": [
+        "public interest immunity",
+        "special counsel",
+        "Edwards and Lewis",
+        "Jasper",
+        "CPIA disclosure",
+        "ex parte hearing",
+        "Article 6",
+        "RIPA authorisation"
+      ],
+      "index_terms": [
+        "heroin conspiracy",
+        "surveillance",
+        "Attorney General",
+        "independent counsel",
+        "preparatory hearing",
+        "informant protection"
+      ],
+      "linked_authorities": [
+        {" citation": "Edwards & Lewis v United Kingdom (2003)", "role": "applied" },
+        {" citation": "Jasper v United Kingdom [2000] 30 EHRR 441", "role": "applied" },
+        {" citation": "R v Joe Smith [2001] 1 WLR 1031", "role": "applied" },
+        {" citation": "R v Turner [1995] 2 Cr App R 94", "role": "cited" },
+        {" citation": "R v DPP v Acton Youth Court [2001] 1 WLR 1828", "role": "applied" }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Authoritative procedural judgment establishing PII ground rules; outcomes and certified questions explicit."
+      }
+    }
+  }
+]

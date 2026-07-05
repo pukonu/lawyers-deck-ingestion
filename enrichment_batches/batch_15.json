@@ -1,0 +1,736 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/147.json",
+    "status": "done",
+    "notes": "Batch 15 enrichment",
+    "enrichment": {
+      "short_title": "Lugano Convention Article 5(5) jurisdiction for London branch tort",
+      "area_of_law": [
+        "Private international law",
+        "Civil jurisdiction",
+        "Maritime and shipping law",
+        "Banking and finance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Jurisdiction and Judgments Act 1982",
+          "provisions": [
+            "section 3(A)(1)",
+            "section 3(B)(2)"
+          ]
+        },
+        {
+          "title": "Private International Law (Miscellaneous Provisions) Act 1995",
+          "provisions": []
+        },
+        {
+          "title": "Lugano Convention on Jurisdiction and the Enforcement of Judgments in Civil and Commercial Matters (1988)",
+          "provisions": [
+            "Article 2",
+            "Article 3",
+            "Article 5(3)",
+            "Article 5(5)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A German cargo purchaser claimed in tort against a Norwegian bank whose London branch had arranged a vessel mortgage and instructed arrest of the Tropical Reefer in Panama in July 2001.",
+        "The first instance judge held that neither Article 5(3) nor Article 5(5) of the Lugano Convention gave the English court jurisdiction, and that Panama was the convenient forum.",
+        "The appeal concerned whether a dispute arising from a London branch decision to enforce security fell within Article 5(5), and whether the court could stay proceedings on forum non conveniens grounds if jurisdiction existed.",
+        "The Court of Appeal held that Lloyd's Register v Campenon Bernard removed Somafer's geographical limitation on branch operations for tort and contract claims."
+      ],
+      "procedural_posture": "Appeal from a Queen's Bench Division judgment declining jurisdiction under the Lugano Convention and indicating that proceedings would otherwise be stayed.",
+      "outcome": "Appeal allowed on jurisdiction under Article 5(5), but the action was stayed in favour of Panama; leave to appeal to the House of Lords was granted on the stay point.",
+      "ratio": "Article 5(5) of the Lugano Convention is not limited to disputes where branch activities produce the harmful event in the forum state; where a tort claim arises from London banking business conducted by a defendant's branch, including the decision and instructions to enforce security, the dispute may properly be said to arise out of the branch's operations even if the arrest occurred abroad.",
+      "legal_issues": [
+        "Whether Article 5(5) Lugano Convention confers jurisdiction where a London branch decision led to a tort committed in Panama",
+        "Whether Somafer's geographical restriction on branch operations survives Lloyd's Register of Shipping v Campenon Bernard",
+        "Whether the English court may stay proceedings on forum non conveniens grounds where jurisdiction exists under the Convention"
+      ],
+      "catchwords": [
+        "Lugano Convention",
+        "Article 5(5)",
+        "special jurisdiction",
+        "branch operations",
+        "forum non conveniens",
+        "vessel arrest",
+        "Myrto"
+      ],
+      "index_terms": [
+        "Durbeck GmbH",
+        "Den Norske Bank",
+        "Tropical Reefer",
+        "Panama arrest",
+        "Somafer",
+        "Lloyd's Register v Campenon Bernard",
+        "Ace Insurance v Zurich Insurance"
+      ],
+      "linked_authorities": [
+        "Somafer v Saar Fern Gas AG",
+        "Lloyd's Register of Shipping v Society Campenon Bernard",
+        "Kleinwort Benson Ltd v Glasgow City Council",
+        "Agnew v Lansforsakringsbolagen",
+        "The Myrto",
+        "Ace Insurance Company v Zurich Insurance Company"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Core jurisdiction ratio, outcome, and linked authorities are explicit in the judgment. Judge metadata in the source file appears unreliable and was not corrected."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/264.json",
+    "status": "done",
+    "notes": "Batch 15 enrichment",
+    "enrichment": {
+      "short_title": "Complete hedgerow removal as proper management under Regulation 6(1)(j)",
+      "area_of_law": [
+        "Environmental law",
+        "Planning and land use",
+        "Criminal law",
+        "Local government"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Environment Act 1995",
+          "provisions": [
+            "section 97"
+          ]
+        },
+        {
+          "title": "Hedgerows Regulations 1997 (SI 1997/1160)",
+          "provisions": [
+            "Regulation 5(1)",
+            "Regulation 5(2)",
+            "Regulation 6(1)(j)",
+            "Regulation 7",
+            "Regulation 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Conwy County Borough Council prosecuted Mr Lloyd for removing about 100 linear metres of hedgerow at Nant Uchaf, Groes, Denbigh in June 2001 without awaiting the local authority's response to his notice.",
+        "Magistrates acquitted Mr Lloyd after accepting his and an expert's evidence that the hedge was worthless, dangerous, and required complete removal for proper management.",
+        "The council appealed by case stated, arguing that total removal could not amount to proper management and that the justices had effectively usurped the local authority's role.",
+        "The judge held that Regulation 6(1)(j) plainly permits removal of any hedgerow where complete removal is required for its proper management."
+      ],
+      "procedural_posture": "Prosecution appeal by case stated from magistrates' acquittal on a Hedgerows Regulations 1997 offence.",
+      "outcome": "Prosecution appeal dismissed; complete removal of 100 metres of hedgerow was capable of being proper management, and the magistrates' conclusion was one they were entitled to reach.",
+      "ratio": "Regulation 6(1)(j) of the Hedgerows Regulations 1997 must be given its plain meaning and is not limited to partial management works; complete removal of a hedgerow may qualify as proper management where the evidence supports that conclusion, even though the statutory scheme also allows local authorities to object to removal of important hedgerows.",
+      "legal_issues": [
+        "Whether complete removal of a hedgerow can amount to proper management under Regulation 6(1)(j)",
+        "Whether magistrates were entitled to find proper management on the evidence",
+        "Whether acquittal under Regulation 6(1)(j) undermines hedgerow conservation policy"
+      ],
+      "catchwords": [
+        "hedgerows",
+        "Hedgerows Regulations 1997",
+        "proper management",
+        "Regulation 6(1)(j)",
+        "case stated",
+        "environmental prosecution"
+      ],
+      "index_terms": [
+        "Conwy County Borough Council",
+        "Robert Lloyd",
+        "Nant Uchaf",
+        "hedgerow removal",
+        "Environment Act 1995",
+        "conservation"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Statutory interpretation, facts, and outcome are clearly stated. No linked case authorities were materially relied on."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/13.json",
+    "status": "done",
+    "notes": "Batch 15 enrichment",
+    "enrichment": {
+      "short_title": "Refusal to set aside Castor pension fund default judgments",
+      "area_of_law": [
+        "Civil procedure",
+        "Banking and finance",
+        "Trusts and pensions",
+        "Fraud and restitution"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR Part 3.9",
+            "CPR Part 3.10"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Trustees of Daimler Chrysler Canada employee benefit funds sued Castor-related defendants, including Mora Hotel Corporation NV and Chascona NV, for losses arising from the collapse of the Castor Group.",
+        "Default judgments for very large sums were entered after Mora and Chascona failed to comply with unless orders requiring service of statements of case and related steps.",
+        "Years later the defendants applied to set aside the judgments and for relief from the unless-order sanctions under CPR r.3.9.",
+        "The judge found arguable defences on the merits but refused relief because of deliberate non-compliance, delay, prejudice, and the public interest in finality."
+      ],
+      "procedural_posture": "Applications to set aside default judgments and for relief from sanctions imposed by unless orders in long-running Castor litigation.",
+      "outcome": "Applications dismissed; default judgments were not set aside.",
+      "ratio": "Where defendants consciously failed to comply with unless orders against legal advice, delayed seeking relief, and prejudice and finality considerations weighed heavily against reopening very large default judgments, the court should refuse relief under CPR r.3.9 even if arguable defences exist on the merits.",
+      "legal_issues": [
+        "Whether default judgments entered after unless-order non-compliance should be set aside",
+        "Application of CPR r.3.9 factors including intentional default, delay, and prejudice",
+        "Whether Article 6 required setting aside where defences were arguable",
+        "Effect of mistaken bases for earlier unless orders"
+      ],
+      "catchwords": [
+        "unless order",
+        "default judgment",
+        "relief from sanctions",
+        "CPR 3.9",
+        "set aside",
+        "Castor litigation",
+        "finality"
+      ],
+      "index_terms": [
+        "CIBC Mellon Trust Company",
+        "Mora Hotel Corporation",
+        "Chascona NV",
+        "Castor Group",
+        "pension fund trustees",
+        "Stolzenberg",
+        "freezing order"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome and discretionary reasoning are explicit at paragraphs 164-168. Detailed procedural history is complex but accurately reflected."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/244.json",
+    "status": "done",
+    "notes": "Batch 15 enrichment",
+    "enrichment": {
+      "short_title": "SEND Tribunal failed to address expert evidence on school placement",
+      "area_of_law": [
+        "Education law",
+        "Special educational needs",
+        "Administrative law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Education Act 1996",
+          "provisions": [
+            "section 324",
+            "section 326"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A severely dyslexic child, H, had failed in mainstream primary school and progressed at specialist schools Belgrave and Mark College, which his mother funded.",
+        "The Special Educational Needs Tribunal upheld Bristol City Council's placement of H at Monks Park School's resource base rather than Mark College.",
+        "The tribunal found no real literacy improvement at Belgrave and preferred the head teacher of Monks Park, but did not explain why it rejected expert evidence from Dr Lloyd and Mrs Jones.",
+        "Neither the local authority nor the tribunal contested the High Court appeal."
+      ],
+      "procedural_posture": "Appeal by case stated from a Special Educational Needs Tribunal decision on the contents of a statement of special educational needs.",
+      "outcome": "Appeal allowed; the tribunal's decision was set aside and the case remitted to a fresh tribunal for expedited reconsideration.",
+      "ratio": "Where expert evidence is central to a tribunal's decision on special educational needs placement, the tribunal must give adequate reasons if it rejects that evidence; failure to explain why expert views were departed from vitiates the reasoning process and constitutes an error of law.",
+      "legal_issues": [
+        "Whether the tribunal erred in finding no literacy progress at Belgrave School",
+        "Whether the tribunal gave adequate reasons for rejecting expert evidence",
+        "Whether the tribunal improperly relied on its own expertise",
+        "Appropriate remedy where a SEND tribunal decision is vitiated by inadequate reasons"
+      ],
+      "catchwords": [
+        "special educational needs",
+        "SEND Tribunal",
+        "statement of SEN",
+        "reasons",
+        "expert evidence",
+        "school placement",
+        "dyslexia"
+      ],
+      "index_terms": [
+        "Bristol City Council",
+        "Mark College",
+        "Monks Park School",
+        "Belgrave School",
+        "Education Act 1996 section 324",
+        "S (A Minor) v SEND Tribunal"
+      ],
+      "linked_authorities": [
+        "S (A Minor) v Special Educational Needs Tribunal"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Legal error, facts, and outcome are clearly articulated. Child anonymised as H in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/pat/2003/127.json",
+    "status": "done",
+    "notes": "Batch 15 enrichment",
+    "enrichment": {
+      "short_title": "CPR 31.22 restricts use of paroxetine test results abroad",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Pharmaceuticals",
+        "Civil procedure",
+        "Confidentiality"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 31.22"
+          ]
+        }
+      ],
+      "key_facts": [
+        "SmithKline Beecham and GlaxoSmithKline sued Apotex for infringement of UK Patent 2,297,550 relating to paroxetine hydrochloride anhydrate.",
+        "Before and during proceedings, Apotex supplied samples subject to confidentiality undertakings limiting use of information and test results.",
+        "Apotex contended it could use GSK's test results freely, including in parallel US proceedings, because draft clauses 4(d) and (e) had been removed from the final agreement.",
+        "The judge held the confidentiality agreement did not grant Apotex that right and that CPR 31.22 equally restrained both parties from using the results outside the English proceedings."
+      ],
+      "procedural_posture": "Interlocutory application to vary confidentiality undertakings governing use of experimental results in patent infringement proceedings.",
+      "outcome": "GSK succeeded; test results were to be treated as subject to CPR 31.22 and could not be disclosed or used outside the English proceedings without agreement or court permission.",
+      "ratio": "Where test results are generated for English patent proceedings in circumstances where both parties expected balanced CPR 31.22 protection, the court will treat those results as disclosed material usable only for the purpose of those proceedings, and rejected draft confidentiality clauses do not give one party unrestricted rights to deploy the other party's test results abroad.",
+      "legal_issues": [
+        "Construction of sample-supply confidentiality undertakings",
+        "Whether Apotex could use GSK's test results in US proceedings",
+        "Application of CPR 31.22 to experiment results generated after proceedings commenced",
+        "Whether the court should modify contractual confidentiality terms"
+      ],
+      "catchwords": [
+        "patent infringement",
+        "confidentiality club",
+        "CPR 31.22",
+        "test results",
+        "paroxetine",
+        "disclosure",
+        "pharmaceutical samples"
+      ],
+      "index_terms": [
+        "SmithKline Beecham",
+        "Apotex Europe",
+        "UK Patent 2297550",
+        "paroxetine hydrochloride anhydrate",
+        "confidentiality undertaking",
+        "Chicago proceedings"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome and reasoning on confidentiality agreement construction and CPR 31.22 are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/226.json",
+    "status": "done",
+    "notes": "Batch 15 enrichment",
+    "enrichment": {
+      "short_title": "Green Belt agricultural caravan refused after inspector's functional need finding",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Agriculture",
+        "Green Belt"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288",
+            "section 289"
+          ]
+        },
+        {
+          "title": "Planning Policy Guidance Note 2 (Green Belts)",
+          "provisions": [
+            "paragraph 1.4"
+          ]
+        },
+        {
+          "title": "Planning Policy Guidance Note 7 (The Countryside)",
+          "provisions": [
+            "Annex I"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Marney appealed against an enforcement notice and refusal of planning permission for a residential caravan at Old Wareham Brickworks in the Green Belt and Surrey Hills AONB.",
+        "He kept free-range chickens and argued that he needed to live on site for water supply, electricity, security, and fire safety reasons.",
+        "The inspector found financial viability satisfied but functional need not satisfied, and that the caravan would harm Green Belt openness and AONB character.",
+        "On section 288 judicial review, Sullivan J rejected challenges on water pipes, rotation system, electricity, fire risk, and landscape impact grounds."
+      ],
+      "procedural_posture": "Section 288 challenge to an inspector's decision dismissing planning and enforcement appeals; related section 289 application heard together.",
+      "outcome": "Section 288 application and section 289 permission application refused; the inspector's decision was upheld.",
+      "ratio": "An inspector may rely on common-sense solutions to operational issues such as burying or lagging water pipes where the issue was raised at inquiry, and need not address every minor point raised by an appellant; where Green Belt and AONB harm was clearly established, hypothetical alternative lawful uses of a caravan did not require a different outcome.",
+      "legal_issues": [
+        "Whether the inspector considered matters not raised at the inquiry regarding water pipe lagging",
+        "Whether a rotational poultry husbandry system prevented burying pipes",
+        "Whether component failure in ventilation systems was adequately considered",
+        "Whether landscape impact analysis should have distinguished residential from agricultural caravan use",
+        "Ground (f) enforcement appeal and ancillary agricultural use arguments"
+      ],
+      "catchwords": [
+        "planning appeal",
+        "Green Belt",
+        "AONB",
+        "agricultural worker",
+        "caravan",
+        "section 288",
+        "functional need",
+        "PPG7"
+      ],
+      "index_terms": [
+        "Marney",
+        "Old Wareham Brickworks",
+        "Surrey Hills",
+        "enforcement notice",
+        "poultry farming",
+        "Sabey v Secretary of State"
+      ],
+      "linked_authorities": [
+        "H Sabey & Co Ltd v Secretary of State for the Environment and Others"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Grounds of challenge and disposals are clearly recorded. Procedural disputes over inspector's notes are accurately summarised."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/77.json",
+    "status": "done",
+    "notes": "Batch 15 enrichment",
+    "enrichment": {
+      "short_title": "Default judgment set aside where Kenyan service not proved",
+      "area_of_law": [
+        "Civil procedure",
+        "Banking and finance",
+        "Commodity trading",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR Part 6 rule 6.24(1)(a)",
+            "CPR Part 10 rule 10.3",
+            "CPR Part 12 rule 12.3(1)",
+            "CPR Part 13 rule 13.2",
+            "CPR Part 13 rule 13.3"
+          ]
+        },
+        {
+          "title": "Companies Act (Kenya) (Rev 1978)",
+          "provisions": [
+            "section 391(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Credit Agricole Indosuez claimed over US$1.9 million from SDV, a Kenyan warehouse company, for breach of undertakings and deceit relating to pledged Kenyan coffee.",
+        "SDV was added as ninth defendant and served out of the jurisdiction; default judgment was entered in July 2002 on certificates stating personal service on the company secretary.",
+        "SDV applied to set aside the judgment, disputing service; the court found the asserted personal service probably did not occur and that no valid alternative service was proved.",
+        "The claimants had also obtained permission to serve out on the basis that SDV was a necessary or proper party, which SDV disputed."
+      ],
+      "procedural_posture": "Application to set aside default judgment entered under CPR Part 12 for failure to acknowledge service after purported service out of the jurisdiction in Kenya.",
+      "outcome": "Default judgment set aside under CPR 13.2; the court would also have set it aside under CPR 13.3.",
+      "ratio": "CPR 13.2 mandatorily requires setting aside a default judgment where the conditions for entering judgment were not satisfied; where proceedings were not validly served on a foreign defendant and judgment was obtained on a false basis as to personal service, the court must set aside the judgment and cannot treat defective service as cured by discretion.",
+      "legal_issues": [
+        "Whether proceedings were validly served on SDV in Kenya",
+        "Mandatory effect of CPR 13.2 where service conditions were not met",
+        "Whether SDV had a real prospect of defending the claim",
+        "Whether there was good reason to set aside because permission to serve out was obtained on untrue evidence"
+      ],
+      "catchwords": [
+        "default judgment",
+        "set aside",
+        "service out of jurisdiction",
+        "CPR 13.2",
+        "CPR 13.3",
+        "Kenya",
+        "coffee warehouse"
+      ],
+      "index_terms": [
+        "Credit Agricole Indosuez",
+        "UNICOF",
+        "SDV",
+        "Kenyan coffee",
+        "affidavit of service",
+        "Castor-related fraud claim"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Service findings, CPR analysis, and outcome are clearly stated in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/201.json",
+    "status": "done",
+    "notes": "Batch 15 enrichment",
+    "enrichment": {
+      "short_title": "Permission refused to appeal shared residence and contact order",
+      "area_of_law": [
+        "Family law",
+        "Children law",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Separated parents of two children aged 8 and 6 had long-running residence and contact proceedings, with residence with the mother as the established pattern.",
+        "The father applied for a shared residence order after previously telling the Court of Appeal he would not challenge the mother as primary carer.",
+        "Mrs Justice Black conducted a detailed hearing and ordered continued residence with the mother and generous defined contact, declining overnight mid-week contact recommended by the welfare officer.",
+        "The father appealed in person; the Court of Appeal found no basis to interfere with the trial judge's exercise of discretion."
+      ],
+      "procedural_posture": "Application for permission to appeal against a High Court children Act order on residence and contact.",
+      "outcome": "Application for permission to appeal dismissed.",
+      "ratio": "The Court of Appeal will not interfere with a specialist family judge's discretionary welfare decision on residence and contact unless the judge was plainly wrong, misdirected herself, or made a material error of fact; a litigant in person's detailed research does not lower that threshold.",
+      "legal_issues": [
+        "Whether the trial judge erred in refusing a shared residence order",
+        "Whether departure from the welfare officer's overnight contact recommendation was justified",
+        "Scope of appellate review of discretionary family welfare orders"
+      ],
+      "catchwords": [
+        "residence order",
+        "contact order",
+        "shared residence",
+        "permission to appeal",
+        "welfare discretion",
+        "litigant in person"
+      ],
+      "index_terms": [
+        "Re R (children)",
+        "Mrs Justice Black",
+        "CAFCASS",
+        "family proceedings",
+        "Children Act 1989"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Appellate reasoning and outcome are clear. Party names anonymised in the judgment; case title uses initials."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/95.json",
+    "status": "done",
+    "notes": "Batch 15 enrichment",
+    "enrichment": {
+      "short_title": "Overnight detention for contempt in face of court upheld",
+      "area_of_law": [
+        "Family law",
+        "Contempt of court",
+        "Human rights",
+        "Children law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 91(14)"
+          ]
+        },
+        {
+          "title": "Family Law Act 1996",
+          "provisions": []
+        },
+        {
+          "title": "Family Law Act 1986",
+          "provisions": [
+            "section 55A"
+          ]
+        },
+        {
+          "title": "Contempt of Court Act 1981",
+          "provisions": [
+            "section 12(1)"
+          ]
+        },
+        {
+          "title": "County Court Act 1984",
+          "provisions": [
+            "section 118(1)"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 9(4)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 5",
+            "Article 6",
+            "Article 8"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 52.3(1)(a)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "During a family directions hearing, the appellant used violent and abusive language, threatened the mother and her solicitor, and physically attacked them before being restrained.",
+        "Bracewell J remanded him in custody and, after a hearing four days later with assigned representation, sentenced him to six months for contempt in the face of the court.",
+        "The appellant purged his contempt in November 2001 and later appealed out of time with Official Solicitor intervention and the Lord Chancellor's Department joined under the Human Rights Act.",
+        "The court also refused numerous permission applications relating to children and Family Law Act proceedings, and held that a suspended committal order is a committal order appealable without permission."
+      ],
+      "procedural_posture": "Substantive appeal against committal for contempt in the face of the court, with related permission applications and appeal against a suspended committal order.",
+      "outcome": "Substantive contempt appeal dismissed; all permission applications refused; suspended committal appeal dismissed.",
+      "ratio": "The High Court has inherent power to detain a contemnor overnight before summary disposal where necessary to arrange fair representation and reflection, provided delay is no longer than necessary; where guilt is admitted and mitigation fully argued, the same judge may sentence without real possibility of bias, and a six-month sentence may be justified for a violent contempt disrupting family proceedings.",
+      "legal_issues": [
+        "Lawfulness of detention from 18 to 22 October pending contempt sentencing",
+        "Whether the sentencing judge should have referred the matter to another judge",
+        "Compliance with Articles 5 and 6 ECHR in summary contempt procedure",
+        "Whether a suspended committal order requires permission to appeal under CPR 52.3"
+      ],
+      "catchwords": [
+        "contempt in the face of the court",
+        "summary procedure",
+        "Article 5",
+        "Article 6",
+        "family proceedings",
+        "suspended committal",
+        "section 91(14)"
+      ],
+      "index_terms": [
+        "Wilkinson",
+        "Bracewell J",
+        "Official Solicitor",
+        "Morris v Crown Office",
+        "Delaney v Delaney",
+        "non-molestation order"
+      ],
+      "linked_authorities": [
+        "Delaney v Delaney",
+        "Morris v Crown Office",
+        "Balogh v St Alban's Crown Court",
+        "Moran",
+        "R v Hill",
+        "R v Dodds",
+        "Re Medicaments and Related Classes of Goods",
+        "Porter v Magill",
+        "Barnet London Borough Council v Hurst",
+        "Government of Sierra Leone v Davenport",
+        "Hale v Tanner",
+        "Re W(B)(An Infant)"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Principal contempt principles and outcomes are clearly reasoned. Multiple related applications are accurately summarised at high level."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/263.json",
+    "status": "done",
+    "notes": "Batch 15 enrichment",
+    "enrichment": {
+      "short_title": "Immigration Rule 297(iv) covers parental risk to child welfare",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Public law",
+        "Human rights",
+        "Family law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Rules (HC 395)",
+          "provisions": [
+            "Rule 297",
+            "Rule 297(i)(f)",
+            "Rule 297(ii)",
+            "Rule 297(iii)",
+            "Rule 297(iv)",
+            "Rule 297(v)"
+          ]
+        },
+        {
+          "title": "Asylum Support Regulations 2000 (SI 2000/704)",
+          "provisions": [
+            "Regulation 8"
+          ]
+        },
+        {
+          "title": "Children Act 1989",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Two siblings aged about 16 and 17 sought indefinite leave to enter the UK to join their British parents, whom they had never lived with in Britain.",
+        "The entry clearance officer refused leave because the parents had a history of physically abusing other children, including convictions and care proceedings, creating a serious welfare risk.",
+        "The physical accommodation was adequate, but refusal was maintained under Rule 297(iv) on the basis the children would not be adequately accommodated by their parents.",
+        "The Immigration Appeal Tribunal held that adequate accommodation includes non-material welfare concerns; the Court of Appeal agreed."
+      ],
+      "procedural_posture": "Appeal from the Immigration Appeal Tribunal on the interpretation of Rule 297(iv) HC 395.",
+      "outcome": "Appeal dismissed; adequate accommodation under Rule 297(iv) includes whether the parent can safely accommodate the child, not merely the physical suitability of the housing.",
+      "ratio": "The requirement in Rule 297(iv) that a child can and will be accommodated adequately by the parent focuses on the parent's role as accommodator and is not limited to the physical features of the premises; accommodation may be inadequate where a parent poses a serious risk of harm to the child, consistent with the family reunion purpose of the rule and Article 8.",
+      "legal_issues": [
+        "Whether Rule 297(iv) is limited to physical adequacy of accommodation",
+        "Relationship between Rule 297(i)(f) suitable care arrangements and Rule 297(iv)",
+        "Whether refusal on welfare grounds interferes with Article 8 family life",
+        "Relevance of Asylum Support Regulations 2000 to interpretation of Rule 297"
+      ],
+      "catchwords": [
+        "Immigration Rules",
+        "Rule 297",
+        "adequate accommodation",
+        "child entry clearance",
+        "family reunion",
+        "welfare",
+        "Article 8"
+      ],
+      "index_terms": [
+        "M v Secretary of State for the Home Department",
+        "entry clearance officer",
+        "Redbridge Social Services",
+        "Schedule 1 offender",
+        "HC 395",
+        "Re McGrath (Infants)"
+      ],
+      "linked_authorities": [
+        "Re McGrath (Infants)"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "The interpretive issue and unanimous appellate reasoning are clearly stated. Party names anonymised in the judgment."
+      }
+    }
+  }
+]

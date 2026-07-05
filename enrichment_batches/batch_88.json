@@ -1,0 +1,784 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1500.json",
+    "status": "done",
+    "notes": "Batch 88 enrichment",
+    "enrichment": {
+      "short_title": "CCRC murder reference and undisclosed witness convictions",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal evidence",
+        "Appeals against conviction"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The appellant was convicted of murder in 1995 after Terry McPherson was killed in Teignmouth; the prosecution case was largely circumstantial.",
+        "Micky Lewis gave evidence of a post-offence confession, but his 54 previous convictions (39 for dishonesty) were not disclosed because he gave a false name and date of birth.",
+        "The Criminal Cases Review Commission referred the case; fresh pathologist and DNA evidence were also considered.",
+        "The court held Lewis's evidence went to a subsequent confession, not the central circumstantial facts, and dismissed the appeal."
+      ],
+      "procedural_posture": "Reference by the Criminal Cases Review Commission to the Court of Appeal against conviction following refusal of leave to appeal.",
+      "outcome": "Appeal dismissed; the conviction was held to be safe despite non-disclosure of the witness's previous convictions.",
+      "ratio": "Non-disclosure of a prosecution witness's previous convictions does not automatically render a conviction unsafe; the court must assess whether the undisclosed material might reasonably have affected the jury's verdict, and where other evidence is compelling the omission of a confession witness's bad character may be immaterial.",
+      "legal_issues": [
+        "Effect of non-disclosure of a prosecution witness's previous convictions on the safety of a conviction",
+        "Whether Micky Lewis's evidence went to the heart of the case or only to an alleged confession",
+        "Admissibility and weight of fresh pathologist evidence on time of death",
+        "Whether fresh DNA evidence affected the safety of the conviction"
+      ],
+      "catchwords": [
+        "unsafe conviction",
+        "non-disclosure",
+        "previous convictions",
+        "CCRC reference",
+        "circumstantial evidence",
+        "prosecution witness credibility"
+      ],
+      "index_terms": [
+        "Underwood",
+        "R v Farrell",
+        "R v Pendleton",
+        "Micky Lewis",
+        "Teignmouth murder",
+        "Criminal Cases Review Commission"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Farrell",
+          "citation": "20th March 2000 (unreported)",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Pendleton",
+          "citation": "[2002] 1 WLR 72",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Smith",
+          "citation": "4th June 1998 (unreported)",
+          "relation": "cited"
+        },
+        {
+          "name": "Vasilou",
+          "citation": "[2000] Crim L Rev 845",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long full-text judgment with detailed factual findings and clear disposal on the main CCRC ground."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/705.json",
+    "status": "done",
+    "notes": "Batch 88 enrichment",
+    "enrichment": {
+      "short_title": "Reinsurance non-disclosure and truth of media allegations",
+      "area_of_law": [
+        "Insurance law",
+        "Reinsurance",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Marine Insurance Act 1906",
+          "provisions": [
+            "section 18",
+            "section 20"
+          ]
+        }
+      ],
+      "key_facts": [
+        "London reinsurers sought declarations that they had validly avoided reinsurances of Colombian insurers covering a state-owned bank.",
+        "The reinsureds had not disclosed Colombian media reports and investigations alleging corruption involving the bank's president, S. Benjamin Medina.",
+        "Moore-Bick J struck out defence paragraphs denying actual misconduct; the reinsureds appealed, arguing truth of the allegations should be tried.",
+        "The Court of Appeal held materiality is judged at placement by reference to information then known, not by later proof that allegations were false."
+      ],
+      "procedural_posture": "Expedited appeal with permission against an order striking out parts of the defence in reinsurance avoidance proceedings.",
+      "outcome": "Appeal dismissed; reinsureds debarred from adducing evidence on whether there was actual misconduct justifying the investigations.",
+      "ratio": "In insurance and reinsurance, the duty of disclosure requires disclosure of material intelligence known at the time of placement; whether undisclosed allegations or investigations were later shown to be unfounded does not determine materiality or validate avoidance, and insurers need not litigate the truth of rumours before rescinding for non-disclosure.",
+      "legal_issues": [
+        "Whether materiality of non-disclosed media reports depends on whether allegations of misconduct were true",
+        "Whether reinsurers' avoidance could be defeated by proving at trial that investigations were politically motivated",
+        "Application of Pan Atlantic inducement and materiality tests to moral hazard and intelligence",
+        "Whether Colman J's reasoning in The Grecia Express should be followed"
+      ],
+      "catchwords": [
+        "non-disclosure",
+        "utmost good faith",
+        "reinsurance",
+        "material circumstance",
+        "moral hazard",
+        "Pan Atlantic"
+      ],
+      "index_terms": [
+        "Brotherton",
+        "Aseguradora Colseguros",
+        "Caja Agraria",
+        "Medina",
+        "The Grecia Express",
+        "Lynch v Dunsford"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Pan Atlantic Insurance Co Ltd v Pine Top Insurance Co Ltd",
+          "citation": "[1995] 1 AC 501",
+          "relation": "applied"
+        },
+        {
+          "name": "Strive Shipping Corp v Hellenic Mutual War Risks Association (The Grecia Express)",
+          "citation": "[2002] EWHC 203; 2 Ll.R. 88",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Lynch v Dunsford",
+          "citation": "(1811) 14 East. 494",
+          "relation": "applied"
+        },
+        {
+          "name": "Ionides v Pender",
+          "citation": "(1874) LR 9 QB 531",
+          "relation": "applied"
+        },
+        {
+          "name": "Carter v Boehm",
+          "citation": "(1766) 3 Burr 1905",
+          "relation": "cited"
+        },
+        {
+          "name": "Drake Insurance plc v Provident Insurance Co",
+          "citation": "[2003] EWHC 109 (Comm)",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Substantive appellate judgment with extensive authority analysis and clear order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/732.json",
+    "status": "done",
+    "notes": "Batch 88 enrichment",
+    "enrichment": {
+      "short_title": "Mandatory lifer Parole Board review interval challenge",
+      "area_of_law": [
+        "Prison law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime (Sentences) Act 1997",
+          "provisions": [
+            "section 28",
+            "section 29",
+            "section 35"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": [
+            "section 32"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 7"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 5(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Spence, a mandatory life prisoner recalled several times for licence breaches and alcohol-related offending, was recommended for transfer to open conditions.",
+        "The Parole Board recommended the next review begin nine months after transfer; the Secretary of State substituted eighteen months.",
+        "Judicial review was refused at first instance; the prisoner appealed on lawfulness, Article 5(4), and irrationality grounds.",
+        "By the time of the appeal the review interval had effectively been shortened administratively, but the court dismissed the appeal on the merits."
+      ],
+      "procedural_posture": "Appeal against refusal of judicial review of the Secretary of State's decision on timing of the next Parole Board review.",
+      "outcome": "Appeal dismissed; the Secretary of State lawfully fixed an eighteen-month interval before the next review.",
+      "ratio": "The Home Secretary may depart from a Parole Board recommendation on when a mandatory lifer's next review should begin if individual reasons justify a longer testing period; Article 5(4) requires reasonable review intervals assessed prospectively, not prescriptive speed, and reasonableness is for the court rather than Wednesbury review alone.",
+      "legal_issues": [
+        "Whether the executive may delay the start of a post-tariff mandatory lifer's next Parole Board review",
+        "Whether an eighteen-month interval before review breached Article 5(4) ECHR",
+        "Whether the Secretary of State irrationally applied a blanket July 1998 policy",
+        "Whether the Parole Board has power to defer answering referral questions"
+      ],
+      "catchwords": [
+        "mandatory life sentence",
+        "Parole Board",
+        "judicial review",
+        "Article 5(4)",
+        "open conditions",
+        "review interval"
+      ],
+      "index_terms": [
+        "Spence",
+        "Stafford v United Kingdom",
+        "Oldham v UK",
+        "R (Anderson) v Home Secretary",
+        "R (MacNeill) v Parole Board"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Stafford v United Kingdom",
+          "citation": "App No 46295/99",
+          "relation": "considered"
+        },
+        {
+          "name": "Oldham v UK",
+          "citation": "App No 36273/97",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Anderson) v Home Secretary",
+          "citation": "[2002] UKHL 46; [2002] 3 WLR 1800",
+          "relation": "considered"
+        },
+        {
+          "name": "R (MacNeill) v Parole Board",
+          "citation": "[2001] EWCA Civ 448",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Clough) v Secretary of State for the Home Department",
+          "citation": "[2003] EWHC 597 (Admin)",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full appellate judgment with clear statutory framework and ECHR analysis; partly academic by hearing date."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/730.json",
+    "status": "done",
+    "notes": "Batch 88 enrichment",
+    "enrichment": {
+      "short_title": "Roundabout design negligence and motorcycle collision",
+      "area_of_law": [
+        "Negligence",
+        "Highway law",
+        "Personal injury"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr King rode his motorcycle at about 2 am into the central island of the Cobtree roundabout near Maidstone, colliding with chevron signs.",
+        "The trial judge found the highway authority negligent in designing too high an entry angle with insufficient deflection, and apportioned contributory negligence at 50%.",
+        "The authority appealed on negligence, causation, and contributory negligence.",
+        "The Court of Appeal allowed the appeal 2-1, holding the accident was caused by the claimant's failure to observe give-way markings and signs."
+      ],
+      "procedural_posture": "Appeal against a High Court judgment finding highway authority negligence and 50% contributory negligence.",
+      "outcome": "Appeal allowed; the claimant's claim was set aside for want of causation and negligence.",
+      "ratio": "Even where a roundabout approach may exceed recommended entry angles, a highway authority is not liable if an attentive driver had ample warning of the roundabout and the accident was caused by the claimant's failure to notice give-way lines, hazard markings, and turn-left signs rather than by the design defect.",
+      "legal_issues": [
+        "Whether excessive entry angle and lack of deflection breached the highway authority's duty of care",
+        "Whether any design breach caused the accident",
+        "Proper apportionment of contributory negligence",
+        "Relevance of post-accident safety audit recommendations"
+      ],
+      "catchwords": [
+        "highway negligence",
+        "roundabout design",
+        "contributory negligence",
+        "entry angle",
+        "TA 42/84",
+        "motorcycle accident"
+      ],
+      "index_terms": [
+        "King",
+        "Cobtree roundabout",
+        "M20 Junction 6",
+        "Department of the Environment Transport and the Regions",
+        "London Passenger Transport Board v Upson"
+      ],
+      "linked_authorities": [
+        {
+          "name": "London Passenger Transport Board v Upson",
+          "citation": "[1949] AC 155",
+          "relation": "applied"
+        },
+        {
+          "name": "Stovin v Wise",
+          "citation": "[1996] AC 923",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed factual findings and split court; ratio clear from majority judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1198.json",
+    "status": "done",
+    "notes": "Batch 88 enrichment",
+    "enrichment": {
+      "short_title": "Dublin safe third country policy and daughter's asylum claim",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 11",
+            "section 65",
+            "section 69",
+            "section 72"
+          ]
+        },
+        {
+          "title": "Immigration Rules (HC395)",
+          "provisions": [
+            "paragraph 327",
+            "paragraph 329",
+            "paragraph 349"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant, a Kosovan asylum seeker, was to be returned to Italy under the Dublin Convention after his wife's asylum claim was refused.",
+        "A July 2002 policy change limited family-tie discretion to dependants still awaiting an initial asylum decision.",
+        "His daughter Elida had lodged a separate asylum application in October 2001 which had not yet received an initial decision.",
+        "The Secretary of State argued Elida was covered by her mother's refused dependant application; the court rejected that construction."
+      ],
+      "procedural_posture": "Second application for judicial review following permission granted on one ground relating to construction of the safe third country family-ties policy.",
+      "outcome": "Judicial review succeeded; the July 2002 decision was quashed but the court declined to order substantive consideration, remitting reconsideration to the Secretary of State.",
+      "ratio": "Under the 2002 safe third country family-ties policy, an unmarried minor child included only as a dependant in a principal's refused claim is not treated as having received an initial decision on her own asylum claim; a later free-standing application by the child can engage paragraph (c) of the policy if no initial decision has yet been made.",
+      "legal_issues": [
+        "True construction of the July 2002 family-ties discretion policy",
+        "Whether the Secretary of State's construction was reasonably open to him",
+        "Interaction between rule 349 dependant inclusion and separate asylum claims",
+        "Whether the court should order substantive consideration or only quash"
+      ],
+      "catchwords": [
+        "Dublin Convention",
+        "safe third country",
+        "family unity",
+        "asylum dependant",
+        "section 11 certificate",
+        "policy construction"
+      ],
+      "index_terms": [
+        "Gashi",
+        "Elida Gashi",
+        "Kosovo",
+        "Adan",
+        "R (Nadarajah) v SSHD",
+        "Immigration Rules paragraph 349"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Adan v Secretary of State for the Home Department",
+          "citation": "[2001] 2 AC 477",
+          "relation": "considered"
+        },
+        {
+          "name": "R (Nadarajah) v Secretary of State for the Home Department",
+          "citation": "[2002] EWHC 2595 (Admin)",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Secretary of State for the Home Department, ex parte Ozminnos",
+          "citation": "[1994] Imm AR 287",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Secretary of State for the Home Department, ex parte Gangadeen",
+          "citation": "21 November 1997 (unreported)",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed policy construction judgment with transcript of relief argument; relief limited to quashing."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/716.json",
+    "status": "done",
+    "notes": "Batch 88 enrichment",
+    "enrichment": {
+      "short_title": "Article 8 immigration appeal and proportionality review",
+      "area_of_law": [
+        "Immigration law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 65",
+            "Schedule 4"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ms Edore, an overstayer from Nigeria, had two children in the UK fathered by a married British citizen who saw them weekly and provided support.",
+        "A special adjudicator allowed her section 65 appeal as removal would be disproportionate under Article 8.",
+        "The Immigration Appeal Tribunal reversed, treating interference as flowing from the father's choice and finding removal proportionate.",
+        "The Court of Appeal restored the adjudicator, holding the Secretary of State's decision was outside the range of reasonable responses."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal with permission to consider the approach to section 65 human rights appeals and proportionality.",
+      "outcome": "Appeal allowed; IAT decision set aside and adjudicator's decision of 20 June 2002 restored.",
+      "ratio": "On a section 65 appeal the adjudicator asks whether the Secretary of State's removal decision was within the range of reasonable responses in striking a fair Article 8 balance, not whether the adjudicator would prefer a different outcome; nevertheless removal may be quashed where, on undisputed facts, only one proportionate conclusion is reasonably open.",
+      "legal_issues": [
+        "Correct approach of adjudicators and the IAT to proportionality under section 65",
+        "Whether appellate authorities may substitute their preferred Article 8 balance",
+        "Whether removal interfered with family life or only reflected the father's refusal to relocate",
+        "Whether removal of the appellant and her children was proportionate on the facts"
+      ],
+      "catchwords": [
+        "Article 8",
+        "proportionality",
+        "section 65 appeal",
+        "family life",
+        "immigration control",
+        "discretionary area of judgment"
+      ],
+      "index_terms": [
+        "Edore",
+        "Noruwa",
+        "Ismet Ala",
+        "Samaroo and Sezek",
+        "B v Secretary of State for the Home Department",
+        "illegal entry"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ismet Ala v Secretary of State for the Home Department",
+          "citation": "[2003] EWHC 521 (Admin)",
+          "relation": "applied"
+        },
+        {
+          "name": "Noruwa",
+          "citation": "IAT 00/TH/2345",
+          "relation": "considered"
+        },
+        {
+          "name": "Samaroo and Sezek v Secretary of State for the Home Department",
+          "citation": "[2001] UK HRR 1150",
+          "relation": "applied"
+        },
+        {
+          "name": "B v Secretary of State for the Home Department",
+          "citation": "[2000] ImmAR 478",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Baah",
+          "citation": "[2002] UK IAT 05998",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Leading procedural discussion with clear outcome and extensive citation of Moses J in Ala."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3547.json",
+    "status": "done",
+    "notes": "Batch 88 enrichment",
+    "enrichment": {
+      "short_title": "Article 6 and return after unlawful removal to Germany",
+      "area_of_law": [
+        "Immigration law",
+        "Human rights",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant applied for permission to judicially review removal of his family to Germany on 25 February 2003.",
+        "Hooper J had already found the removal arguably unlawful and adjourned whether the court would order return to enable civil claims.",
+        "The claimant proposed claims including alleged assaults by immigration officers on 15 August 2002.",
+        "The Secretary of State certified that Article 6 did not arguably require the family's presence in the UK to pursue those claims."
+      ],
+      "procedural_posture": "Renewed application for permission to apply for judicial review on whether failure to return the family would breach Article 6.",
+      "outcome": "Permission refused; the Secretary of State's Article 6 certificate was not arguably wrong.",
+      "ratio": "At an early stage of proposed civil proceedings, Article 6 does not arguably require a removed claimant to remain in the United Kingdom where witness statements, medical records, and police statements already exist and overseas lawyers or limited further instructions would suffice, especially where the main live claim concerns a brief assault incident.",
+      "legal_issues": [
+        "Whether unlawful removal must be remedied by ordering return to pursue civil proceedings",
+        "Whether Article 6 requires presence in the UK to conduct proposed claims with reasonable sufficiency",
+        "Effect of the Secretary of State's section 72-style certificate on in-country appeal rights",
+        "Whether the claimant's solicitors' witness statement established need for detailed in-person instructions"
+      ],
+      "catchwords": [
+        "Article 6",
+        "judicial review",
+        "permission",
+        "unlawful removal",
+        "civil proceedings",
+        "immigration detention assault"
+      ],
+      "index_terms": [
+        "Dalbudak",
+        "Germany",
+        "Harmondsworth",
+        "public funding",
+        "Mark Scott"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Transcript-style judgment continuing an earlier ruling; focused on one Article 6 issue with clear refusal of permission."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1205.json",
+    "status": "done",
+    "notes": "Batch 88 enrichment",
+    "enrichment": {
+      "short_title": "Harry Potter leak injunction against persons unknown",
+      "area_of_law": [
+        "Intellectual property",
+        "Confidential information",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Rule 1.1",
+            "Rule 1.2",
+            "Rule 3.1",
+            "Rule 3.10",
+            "Rule 7.2",
+            "Rule 7.5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Copies of Harry Potter and the Order of the Phoenix were taken without authority from secure printers and offered to national newspapers.",
+        "Interim injunctions had been made against persons unknown who offered copies to the Sun, Daily Mail, and Daily Mirror.",
+        "Named defendants were arrested or submitted to orders; the issue was continuing the injunction against unidentified persons.",
+        "The Vice-Chancellor held CPR permitted defendants described with sufficient certainty and continued the order until publication."
+      ],
+      "procedural_posture": "Chancery application to continue ex parte injunctions against unnamed defendants pending publication of the fifth Harry Potter book.",
+      "outcome": "Injunction continued until 21 June 2003 against persons described as those offering or possessing copies without the claimants' consent.",
+      "ratio": "Under the Civil Procedure Rules a claimant may sue and obtain injunctions against defendants identified by a sufficiently certain description rather than by name, where the description identifies who is bound and who is not; Friern Barnet and Re Wykeham Terrace are not applicable to CPR proceedings.",
+      "legal_issues": [
+        "Whether unnamed defendants may be joined under the Civil Procedure Rules",
+        "Whether the proposed description was sufficiently certain",
+        "Whether orders against persons unknown would bind anyone in contempt proceedings",
+        "Distinction from McPhail v Persons Unknown and Friern Barnet UDC v Adams"
+      ],
+      "catchwords": [
+        "confidential information",
+        "injunction",
+        "persons unknown",
+        "CPR",
+        "breach of confidence",
+        "Harry Potter"
+      ],
+      "index_terms": [
+        "Bloomsbury Publishing",
+        "J K Rowling",
+        "Order of the Phoenix",
+        "Clays Ltd Bungay",
+        "News Group Newspapers",
+        "McPhail v Persons Unknown"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Friern Barnet UDC v Adams",
+          "citation": "[1927] 2 Ch. 25",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Re Wykeham Terrace",
+          "citation": "[1971] 1 Ch. 204",
+          "relation": "distinguished"
+        },
+        {
+          "name": "McPhail v Persons Unknown",
+          "citation": "[1973] 3 All ER 393",
+          "relation": "considered"
+        },
+        {
+          "name": "EMI v Kudhail",
+          "citation": "[1985] FSR 36",
+          "relation": "considered"
+        },
+        {
+          "name": "Biguzzi v Rank Leisure",
+          "citation": "[1999] 1 WLR 1926",
+          "relation": "applied"
+        },
+        {
+          "name": "Jackson v Bubela",
+          "citation": "[1972] 5 WWR 80",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full Chancery judgment with detailed procedural analysis and clear order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1542.json",
+    "status": "done",
+    "notes": "Batch 88 enrichment",
+    "enrichment": {
+      "short_title": "Guilty plea set aside after undisclosed sensitive material",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal procedure",
+        "Disclosure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The appellant pleaded guilty at Croydon Crown Court to being knowingly concerned in importing cocaine after swallowing 90 packages at Gatwick.",
+        "She was sentenced to three years' imprisonment and had been advised a duress defence might succeed but chose to plead guilty.",
+        "Customs later disclosed sensitive material that would have attracted public interest immunity and likely led to no prosecution or an offered no-evidence submission.",
+        "The Court of Appeal granted an extension of time, allowed the appeal, and set aside the guilty plea."
+      ],
+      "procedural_posture": "Out-of-time application for leave to appeal against conviction following late disclosure by Customs and Excise.",
+      "outcome": "Appeal allowed; conviction quashed and guilty plea set aside.",
+      "ratio": "An appeal against conviction may succeed despite a guilty plea where undisclosed prosecution material was so sensitive that the prosecution would not have proceeded or would have offered no evidence, and the appellant would have been strongly advised not to plead guilty had the material been available.",
+      "legal_issues": [
+        "Whether the Court of Appeal will entertain an appeal after a guilty plea",
+        "Whether non-disclosure of sensitive material meant the appellant did not have a fair trial",
+        "Effect of public interest immunity on prosecution disclosure obligations",
+        "Whether pragmatic reasons for pleading guilty prevent setting aside the plea"
+      ],
+      "catchwords": [
+        "guilty plea",
+        "appeal against conviction",
+        "non-disclosure",
+        "public interest immunity",
+        "cocaine importation",
+        "duress"
+      ],
+      "index_terms": [
+        "Montague-Darlington",
+        "Customs and Excise",
+        "Gatwick",
+        "R v Togher",
+        "R v Forde"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Togher",
+          "citation": "[2001] 1 Cr App R 457",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Forde",
+          "citation": "(1923) 2 KB 400",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Short judgment; sensitive material deliberately not described but legal principles clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1351.json",
+    "status": "done",
+    "notes": "Batch 88 enrichment",
+    "enrichment": {
+      "short_title": "Rural housing appeal and PPG3 sustainability",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288",
+            "section 54A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Developers appealed refusal of planning permission to demolish a garage and coach depot and build five houses at Stiperstones in an Area of Outstanding Natural Beauty.",
+        "The council refused mainly because the village was not a sustainable settlement under PPG3 and its Interim Housing Policy.",
+        "A planning inspector allowed the appeal, treating the scheme as modest infill meeting paragraphs 69 and 71 of PPG3.",
+        "The council challenged the decision on five grounds including development plan compliance, bus service evidence, and interim policy weight."
+      ],
+      "procedural_posture": "Statutory challenge under section 288 of the Town and Country Planning Act 1990 to a planning inspector's appeal decision.",
+      "outcome": "Application dismissed; the inspector's grant of permission was upheld on all five grounds.",
+      "ratio": "An inspector lawfully may find a five-house infill scheme in a small village consistent with PPG3 rural housing policy despite conflict with local plan policies limiting infill to one or two dwellings, and may give limited weight to an interim housing policy that exceeds national guidance where it has not been publicly consulted upon.",
+      "legal_issues": [
+        "Whether the inspector failed to address development plan conflict with Policies HG4 and STI1",
+        "Whether relocation of a bus depot would terminate the village bus service",
+        "Whether the Interim Housing Policy was incompatible with PPG3",
+        "Whether the inspector adequately reasoned that the scheme satisfied a local housing requirement",
+        "Whether finding the site sustainable was perverse"
+      ],
+      "catchwords": [
+        "section 288",
+        "PPG3",
+        "rural housing",
+        "sustainable development",
+        "interim housing policy",
+        "infill development"
+      ],
+      "index_terms": [
+        "South Shropshire District Council",
+        "Stiperstones",
+        "Minsterley Motors",
+        "Policy HG4",
+        "Policy STI1",
+        "Area of Outstanding Natural Beauty"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed planning judgment addressing five grounds systematically; transcript includes costs argument."
+      }
+    }
+  }
+]

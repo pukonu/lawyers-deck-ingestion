@@ -1,0 +1,633 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1103.json",
+    "status": "done",
+    "notes": "Investment bank bonus trial; formula and discretionary bonus analysis and FX trading attribution are clear throughout.",
+    "enrichment": {
+      "short_title": "Investment bank trader's bonus claims for 1999 and 2000",
+      "area_of_law": [
+        "Employment law",
+        "Financial services",
+        "Contract law",
+        "Bonus and remuneration"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Kennedy, a senior FX options trader at Dresdner Kleinwort Wasserstein, claimed underpaid formula bonus for 1999 and a further discretionary bonus for 2000.",
+        "For 1999 his contract provided for a bonus of 2% of Net Operating Profit of the GFXO business, capped at US$575,000 total compensation.",
+        "For 2000 bonuses were discretionary, subject to an implied term that discretion would not be exercised irrationally or perversely following Clark v Nomura.",
+        "Mr Kennedy claimed 53 USD/JPY barrier trades generated about US$17m profit, entitling him to a bonus of roughly £1.2m–£2m; DKW paid a guaranteed £125,500.",
+        "DKW contended profits could not be attributed to individual trades because hedging and risk management were conducted on an aggregate book basis."
+      ],
+      "procedural_posture": "Trial of claims for unpaid employment bonuses for the years ended 31 December 1999 and 2000.",
+      "outcome": "Both claims dismissed; the court held Mr Kennedy received at least the bonus due for 1999 and that the 2000 discretionary bonus was not irrational or perverse.",
+      "ratio": "A trader who was refused proprietary-trader status and whose barrier trades were risk-managed as part of the desk book could not attribute aggregate book profits to his trades; at most he earned about US$1.75m of edge, and awarding no bonus beyond the guaranteed £125,500 was not irrational or perverse.",
+      "legal_issues": [
+        "Whether 2% of NOP for 1999 entitled Mr Kennedy to a larger bonus than that paid",
+        "Whether DKW exercised discretionary bonus power irrationally or perversely for 2000",
+        "Whether profits from 53 barrier trades could be attributed to an individual trader",
+        "The role of risk managers versus traders in FX options books"
+      ],
+      "catchwords": [
+        "employment bonus",
+        "discretionary bonus",
+        "investment bank",
+        "FX options",
+        "barrier trade",
+        "Net Operating Profit",
+        "irrational discretion"
+      ],
+      "index_terms": [
+        "Dresdner Kleinwort Wasserstein",
+        "Clark v Nomura International",
+        "GFXO",
+        "proprietary trader",
+        "Murex",
+        "retention payment",
+        "City trader remuneration"
+      ],
+      "linked_authorities": [
+        "Clark v Nomura International plc [2000] 1 RLR 766"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed findings on bonus calculations, trading structure, and discretionary bonus law are explicit in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1181.json",
+    "status": "done",
+    "notes": "ARP premium recovery and Competition Act defences; scheme analysis and summary dismissal outcome are clear.",
+    "enrichment": {
+      "short_title": "Solicitors ARP indemnity premium and Competition Act challenge",
+      "area_of_law": [
+        "Professional indemnity insurance",
+        "Competition law",
+        "Solicitors regulation",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Competition Act 1998",
+          "provisions": [
+            "section 2",
+            "section 18",
+            "Schedule 3 paragraph 5"
+          ]
+        },
+        {
+          "title": "Solicitors Act 1974",
+          "provisions": [
+            "section 37"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Ross, a sole-practice solicitor, obtained open-market professional indemnity insurance for 2000/01 but failed to do so for 2001/02 and was placed in the Law Society Assigned Risks Pool.",
+        "The ARP premium demanded was £56,847.73, based on gross fee income plus a 20% default uplift; Mr Ross did not pay.",
+        "Mr Ross defended the recovery claim by alleging breaches of the Chapter I and Chapter II prohibitions under the Competition Act 1998.",
+        "The Law Society scheme required qualifying insurers to participate in the ARP and set ARP premiums by reference to gross fees rather than individual risk.",
+        "The European Commission had previously indicated the scheme did not appreciably restrict competition."
+      ],
+      "procedural_posture": "Application to strike out or summarily dismiss a solicitor's Competition Act defence to a claim for unpaid ARP premium.",
+      "outcome": "Defence dismissed under CPR Rule 24.2; judgment entered for £56,847.73 with interest.",
+      "ratio": "The solicitors' indemnity scheme including the ARP is pro-competitive overall; ARP premiums are cost-recovery mechanisms rather than open-market rates, and Mr Ross had no real prospect of establishing Chapter I or Chapter II breaches or collective dominance by qualifying insurers.",
+      "legal_issues": [
+        "Whether the ARP scheme infringes the Chapter I prohibition",
+        "Whether qualifying insurers collectively abused a dominant position",
+        "Whether ARP premiums are excessive or anti-competitive",
+        "Whether the 2001 restriction on back-dating cover impedes leaving the ARP"
+      ],
+      "catchwords": [
+        "Assigned Risks Pool",
+        "professional indemnity insurance",
+        "solicitors",
+        "Competition Act 1998",
+        "Chapter I prohibition",
+        "summary judgment",
+        "Law Society"
+      ],
+      "index_terms": [
+        "Solicitors Indemnity Rules 2001",
+        "qualifying insurer",
+        "default premium",
+        "run-off cover",
+        "sole practitioner",
+        "European Commission clearance"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Competition Act analysis and judgment for the premium are fully reasoned. Some Schedule 3 exemption points were not reached."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/653.json",
+    "status": "done",
+    "notes": "Important Third Parties (Rights Against Insurers) Act 1930 guidance; contractual liability scope and pre-liability disclosure clearly resolved.",
+    "enrichment": {
+      "short_title": "Third Parties Act 1930: contractual liability and pre-action disclosure",
+      "area_of_law": [
+        "Insurance law",
+        "Insolvency law",
+        "Consumer credit",
+        "Commercial contract"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Third Parties (Rights Against Insurers) Act 1930",
+          "provisions": [
+            "section 1",
+            "section 2"
+          ]
+        },
+        {
+          "title": "Consumer Credit Act 1974",
+          "provisions": [
+            "section 75"
+          ]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 11(3)(d)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "OT Computers and Tiny sold computers with extended warranty schemes and became insolvent in Jersey and England.",
+        "First National Tricity Finance, jointly liable under section 75 Consumer Credit Act 1974, indemnified customers and sought subrogation to their claims.",
+        "Administrators and AXA refused to disclose insurance policies covering extended warranty liabilities.",
+        "The administrators argued the 1930 Act applied only to tortious or tort-like liabilities, not pure contractual warranty claims.",
+        "They also argued section 2 disclosure was unavailable until the insured's liability had been established."
+      ],
+      "procedural_posture": "Appeal on applications for information under section 2 of the 1930 Act and alternative leave to commence proceedings under the Insolvency Act 1986.",
+      "outcome": "Appeal allowed; FNTF entitled to disclosure of insurance arrangements, subject to a 21-day proviso on a reinsurance/insurance-business argument in a respondents' notice.",
+      "ratio": "The 1930 Act applies to contractual liabilities to third parties unless excluded by the policy terms; rights transfer on insolvency as inchoate rights and section 2 permits disclosure before liability is established, so Woolwich Building Society v Taylor should no longer be followed.",
+      "legal_issues": [
+        "Whether the 1930 Act covers contractual as well as tortious liabilities",
+        "When statutory transfer of insured rights to third parties occurs",
+        "Whether section 2 permits pre-liability disclosure of insurance information",
+        "Whether extended warranty schemes constitute insurance within section 1(5)"
+      ],
+      "catchwords": [
+        "Third Parties (Rights Against Insurers) Act 1930",
+        "insolvency",
+        "extended warranty",
+        "section 75",
+        "insurance disclosure",
+        "contractual liability",
+        "subrogation"
+      ],
+      "index_terms": [
+        "OT Computers",
+        "First National Tricity Finance",
+        "Woolwich Building Society v Taylor",
+        "Tarbuck v Avon Insurance",
+        "Bradley v Eagle Star",
+        "administrators",
+        "computer supplier insolvency"
+      ],
+      "linked_authorities": [
+        "Woolwich Building Society v Taylor [1995] 1 BCLC 132",
+        "Tarbuck v Avon Insurance Plc [2002] QB 571",
+        "T&N Ltd v Royal & Sun Alliance Plc [2003] EWHC 1016 (Ch)",
+        "Post Office v Norwich Union Fire Insurance Society Ltd [1967] 2 QB 363",
+        "Bradley v Eagle Star Insurance Co Ltd [1989] AC 957",
+        "In re Compania Merabello San Nicholas SA [1973] Ch 75",
+        "Cox v Bankside Members Agency Ltd [1995] 2 Lloyd's Rep 437"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Court of Appeal judgment comprehensively addresses both main issues. Respondents' notice on section 1(5) was reserved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1320.json",
+    "status": "done",
+    "notes": "Recent complaint admissibility in long-term abuse case; conviction quashed for inadequate jury direction.",
+    "enrichment": {
+      "short_title": "Recent complaint evidence in stepfather sexual abuse appeal",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Sexual offences",
+        "Appeals against conviction"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The appellant was convicted of specimen counts including indecent assault, buggery, rape and gross indecency against his stepdaughter S from age 9 or 10 until she left home at 19.",
+        "S gave evidence of daily abuse including touching and later penetrative assaults; the defence denied all allegations.",
+        "Evidence was admitted of S's complaint to school friend C at age 13 or 14; C's account was limited to touching under a nightdress.",
+        "The trial judge directed the jury on recent complaint but did not contrast C's evidence with S's account of penetrative abuse.",
+        "The appellant was sentenced to 12 years' imprisonment."
+      ],
+      "procedural_posture": "Appeal against conviction by leave of the Single Judge on the admissibility and direction relating to recent complaint evidence.",
+      "outcome": "Appeal allowed; conviction quashed as unsafe due to inadequate jury direction, with re-trial to be considered on hand-down.",
+      "ratio": "Recent complaint evidence is admissible if sufficiently consistent to support the complainant's credibility even where the complaint describes less serious conduct than trial evidence; but where inconsistencies are material the judge must direct the jury specifically on them, and failure to do so may render a conviction unsafe.",
+      "legal_issues": [
+        "What degree of consistency is required for recent complaint evidence to be admissible",
+        "Whether complaint of touching supports credibility as to more serious penetrative offences",
+        "Whether the trial judge's direction on recent complaint was adequate",
+        "Application of Lillyman and Wright principles to long-term abuse cases"
+      ],
+      "catchwords": [
+        "recent complaint",
+        "sexual abuse",
+        "indecent assault",
+        "jury direction",
+        "credibility",
+        "consistency",
+        "unsafe conviction"
+      ],
+      "index_terms": [
+        "R v Lillyman",
+        "R v Wright and Ormerod",
+        "R v Braye-Jones",
+        "White v R",
+        "stepfather",
+        "complainant consistency",
+        "Criminal Justice Act 2003 section 120"
+      ],
+      "linked_authorities": [
+        "R v Lillyman [1896] 2 QBD 167",
+        "R v Osborne [1905] 1 KB 551",
+        "R v Wright and Ormerod (1987) 90 Cr App R 91",
+        "R v Wallwork (1958) 42 Cr App Rep 153",
+        "White v R [1999] AC 210",
+        "R v Braye-Jones [1966] Qd R 295",
+        "R v Nazif [1987] 2 NZLR 122",
+        "R v Islam [1999] 1 Cr App R 22"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Admissibility principles and unsafe conviction reasoning are detailed. Re-trial decision was deferred to hand-down."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/pat/2004/1718.json",
+    "status": "done",
+    "notes": "Patent interlocutory injunction for herbicide product; infringement arguable and limited prejudice to defendant.",
+    "enrichment": {
+      "short_title": "Interim injunction against non-BASF Metazachlor herbicide sales",
+      "area_of_law": [
+        "Patent law",
+        "Intellectual property",
+        "Agriculture and pesticides",
+        "Interlocutory injunctions"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "BASF holds UK patent EP(UK) 0411408 for monoclinic Metazachlor used in the herbicide Butisan S for oil seed rape.",
+        "Me2 Crop Protection sold BOOTY, approved as a parallel import of Butisan S, but BASF's tests showed it was not genuine BASF product.",
+        "Me2 initially offered undertakings not to sell infringing product but later refused and questioned patent validity.",
+        "BASF sought an interlocutory injunction before the 2004 peak sales season to prevent import of non-BASF monoclinic Metazachlor.",
+        "Me2's corporate ownership was opaque and its accounts raised concerns about ability to pay damages."
+      ],
+      "procedural_posture": "Application for interlocutory injunction restraining import and sale of allegedly infringing herbicide pending trial.",
+      "outcome": "Interlocutory injunction granted restraining import and sale of non-BASF monoclinic Metazachlor.",
+      "ratio": "Where infringement was arguable, irreparable price and market harm to the patentee was likely, damages might be irrecoverable from the defendant, and the injunction only prevented conduct Me2 was licensed to avoid and had previously indicated it did not intend, an interim injunction was justified.",
+      "legal_issues": [
+        "Whether there is a serious question to be tried on patent infringement",
+        "Balance of convenience between BASF and Me2",
+        "Whether Me2 could adequately compensate BASF if the patent were upheld",
+        "Whether BOOTY contained non-parallel-imported infringing Metazachlor"
+      ],
+      "catchwords": [
+        "patent infringement",
+        "interlocutory injunction",
+        "herbicide",
+        "Metazachlor",
+        "parallel import",
+        "Pesticides Safety Directorate",
+        "agglomeration"
+      ],
+      "index_terms": [
+        "Butisan S",
+        "BOOTY",
+        "monoclinic Metazachlor",
+        "EP(UK) 0411408",
+        "oil seed rape",
+        "Me2 Crop Protection",
+        "PSD approval"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Interlocutory decision on undisputed arguable infringement; validity not fully tried."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1195.json",
+    "status": "done",
+    "notes": "Short permission-to-appeal refusal on trial adjournment costs; case management point straightforward.",
+    "enrichment": {
+      "short_title": "Permission to appeal refused on adjourned police claim costs",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Police civil liability",
+        "Appeals"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Noble brought a 2002 action against the Metropolitan Police for assault and false imprisonment arising from events in November 1996.",
+        "The trial listed for 8 December 2002 was adjourned after Mr Noble dismissed his solicitors over bundle preparation disputes.",
+        "Judge Levy ordered Mr Noble to pay the defendant's costs of the adjournment, enforceable only by set-off against any damages as he was an assisted person.",
+        "Mr Noble sought permission to appeal, arguing his solicitors caused the adjournment; permission was refused by Simon J and HH Judge Darlow.",
+        "The Court of Appeal held the dispute with solicitors was not a matter for appeal against the Commissioner."
+      ],
+      "procedural_posture": "Renewed application for permission to appeal against a costs order made on adjournment of a county court trial.",
+      "outcome": "Permission to appeal refused; application described as hopeless.",
+      "ratio": "A costs order made against a claimant for adjournment of trial was properly made as between claimant and defendant where the adjournment was not the defendant's fault; any grievance about solicitors' conduct must be pursued separately, not by appeal against the police.",
+      "legal_issues": [
+        "Whether the claimant should pay costs of an adjourned trial",
+        "Whether a dispute with former solicitors provides grounds to appeal the costs order",
+        "Whether the adjournment costs order was a case management decision open to appeal"
+      ],
+      "catchwords": [
+        "permission to appeal",
+        "costs of adjournment",
+        "assisted person",
+        "false imprisonment",
+        "case management",
+        "set-off",
+        "solicitors dispute"
+      ],
+      "index_terms": [
+        "Metropolitan Police",
+        "Central London County Court",
+        "legal aid",
+        "trial adjournment",
+        "assault claim",
+        "wasted costs"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Brief procedural judgment; underlying merits of the police claim were not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1453.json",
+    "status": "done",
+    "notes": "Crime and Disorder Act racial aggravation case stated appeal; statutory construction and section 28(3) analysis clear.",
+    "enrichment": {
+      "short_title": "Whether 'bloody foreigners' is racially aggravated criminal damage",
+      "area_of_law": [
+        "Criminal law",
+        "Hate crime",
+        "Administrative law",
+        "Case stated appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": [
+            "section 28",
+            "section 29"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A 16-year-old youth was charged with racially aggravated criminal damage for breaking a kebab shop window after a dispute over payment.",
+        "During the argument he swore and said 'bloody foreigners' before going outside and cracking the window pane.",
+        "The victim, Mr Mutlu, was a Turkish-speaking chef who had been in the UK since 1997.",
+        "Youth court magistrates found no case to answer, holding the phrase did not necessarily denote a racial group and hostility was not established.",
+        "The DPP appealed by case stated."
+      ],
+      "procedural_posture": "Appeal by case stated against a youth court decision of no case to answer on racially aggravated criminal damage.",
+      "outcome": "Appeal allowed; magistrates erred in law, but the matter was not remitted because of the passage of time.",
+      "ratio": "'Foreigners' can describe a racial group by nationality or national origins under section 28(4); 'bloody foreigners' was capable of demonstrating hostility under section 28(1)(a), and magistrates wrongly treated payment dispute motivation as excluding racial hostility contrary to section 28(3).",
+      "legal_issues": [
+        "Whether 'foreigners' falls within the definition of racial group in section 28(4)",
+        "Whether 'bloody foreigners' demonstrates hostility based on presumed membership of a racial group",
+        "Distinction between section 28(1)(a) demonstrated hostility and section 28(1)(b) motivation",
+        "Effect of section 28(3) where hostility is based partly on non-racial factors"
+      ],
+      "catchwords": [
+        "racially aggravated",
+        "criminal damage",
+        "hostility",
+        "foreigners",
+        "section 28",
+        "no case to answer",
+        "national origins"
+      ],
+      "index_terms": [
+        "Crime and Disorder Act 1998",
+        "kebab shop",
+        "youth court",
+        "case stated",
+        "R v White (Anthony)",
+        "DPP v McFarlane",
+        "RG & LT v DPP"
+      ],
+      "linked_authorities": [
+        "R v White (Anthony) [2001] 1 WLR 1352",
+        "DPP v McFarlane [2002] EWCA Crim unreported",
+        "DPP v Woods (2002)",
+        "Orphabis v Queen Mary College [1985] AC 761",
+        "RG & LT v DPP [2004] EWHC unreported"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Statutory construction and magistrates' legal errors are fully analysed. No remittal on pragmatic grounds."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1182.json",
+    "status": "done",
+    "notes": "Lloyd's pre-action disclosure application; Black v Sumitomo criteria applied to motor run-off reserves.",
+    "enrichment": {
+      "short_title": "Pre-action disclosure over Lloyd's motor run-off reserve release",
+      "area_of_law": [
+        "Insurance law",
+        "Lloyd's syndicates",
+        "Civil procedure",
+        "Professional negligence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "XL London and Brockbank managed Lloyd's syndicates that sold motor business run off by Acott & Tilley from 2000 under a Run-Off Agreement.",
+        "In March 2002 the Brockbank syndicates accepted Acott & Tilley's RITC quotation of about £44.1m based on estimated outstanding claims and IBNR.",
+        "Within months syndicate 2002 reported releasing about £23.5m of reserves to profit, suggesting substantial over-reserving.",
+        "No explanation was given for the reserve release; XL London and Brockbank sought pre-action disclosure of claims files and reserve documentation.",
+        "The parties agreed disclosure of pre-RITC documents; dispute remained over post-RITC documents."
+      ],
+      "procedural_posture": "Application for pre-action disclosure under CPR Part 31.16, alternatively Norwich Pharmacal relief under Part 31.18.",
+      "outcome": "Pre-action disclosure ordered against Acott & Tilley for both pre- and post-RITC document categories.",
+      "ratio": "Under CPR 31.16, where a negligence claim over reserving was likely, post-RITC documents explaining the reserve release would fall within standard disclosure and were fairly required to investigate whether reserves were negligently set before the RITC premium was calculated.",
+      "legal_issues": [
+        "Whether CPR 31.16 jurisdiction is satisfied for pre-action disclosure",
+        "Whether post-RITC documents would be subject to standard disclosure in anticipated proceedings",
+        "Whether disclosure before proceedings is fair and cost-saving",
+        "Whether Norwich Pharmacal relief was available against the managing agent"
+      ],
+      "catchwords": [
+        "pre-action disclosure",
+        "CPR 31.16",
+        "Lloyd's syndicate",
+        "reinsurance to close",
+        "reserving",
+        "run-off agreement",
+        "motor insurance"
+      ],
+      "index_terms": [
+        "Black v Sumitomo Corporation",
+        "Norwich Pharmacal",
+        "RITC premium",
+        "IBNR",
+        "Acott & Tilley",
+        "Zenith Syndicate Management",
+        "claims reserving"
+      ],
+      "linked_authorities": [
+        "Norwich Pharmacal Co v Customs & Excise Commissioners [1974] AC 133",
+        "Black v Sumitomo Corporation [2001] EWCA Civ 1919"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Procedural disclosure ruling; underlying negligence not determined. Fraud was hinted but not pursued."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1406.json",
+    "status": "done",
+    "notes": "CCRC referral on licence recall calculation errors; immediate release ordered with cautionary remarks.",
+    "enrichment": {
+      "short_title": "Licence recall and remand credit sentence calculation errors",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Licence recall",
+        "Appeals"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Keogh was sentenced to two and a half years for burglary plus activation of five and a half months remaining on licence for breach.",
+        "The Court of Appeal reduced the burglary term to 18 months but left the licence period unchanged.",
+        "It later emerged he had been recalled before arrest and time from May to July 2003 was not remand credit but served as a recalled prisoner.",
+        "The true outstanding licence period was over ten months, not five and a half months, due to authority calculation errors.",
+        "The Criminal Cases Review Commission referred the case because the appellant had expected release on 1 May 2004."
+      ],
+      "procedural_posture": "Reference by the Criminal Cases Review Commission following sentence calculation errors discovered after an earlier successful appeal.",
+      "outcome": "Licence period reduced to 78 days permitting immediate release, balancing errors in recall calculation and remand credit.",
+      "ratio": "Where concurrent errors in licence recall calculation and remand credit created unfair expectations of earlier release, justice may require adjusting the licence period even though the overall sentence cannot be increased; authorities must accurately advise courts on outstanding licence periods.",
+      "legal_issues": [
+        "Whether time between recall and sentencing counted as remand on the new sentence",
+        "The correct outstanding licence period to be activated on breach",
+        "Whether the court should remedy expectation of earlier release caused by official errors",
+        "Interaction of Sharkey, Stocker and Brown on remand credit"
+      ],
+      "catchwords": [
+        "licence recall",
+        "sentence calculation",
+        "remand credit",
+        "CCRC reference",
+        "burglary",
+        "immediate release",
+        "recalled prisoner"
+      ],
+      "index_terms": [
+        "Sharkey [2000] 1 Cr App R 409",
+        "Stocker [2003] EWCA Crim 121",
+        "Brown [2004] EWCA Crim 496",
+        "Police National Computer",
+        "Wood Green Crown Court",
+        "breach of licence"
+      ],
+      "linked_authorities": [
+        "Sharkey [2000] 1 Cr App R 409",
+        "Stocker [2003] EWCA Crim 121",
+        "Brown [2004] EWCA Crim 496"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Fact-specific sentencing correction; relies on assumed PNC error as accepted by parties."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1193.json",
+    "status": "done",
+    "notes": "School exclusion judicial review for firework incident; standard of proof and reasons challenges rejected.",
+    "enrichment": {
+      "short_title": "Judicial review of permanent school exclusion for firework incident",
+      "area_of_law": [
+        "Education law",
+        "Administrative law",
+        "Judicial review",
+        "School discipline"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Pupil H was permanently excluded after involvement in letting off a firework in a covered school walkway, causing a stampede risk.",
+        "H admitted supplying matches and cupping his hands over the fuse as it was lit; he initially denied knowledge of the firework.",
+        "The school had posted a Notice warning that lighting fireworks would lead to minimum 15-day exclusion and injury could lead to permanent exclusion.",
+        "The Independent Appeal Panel upheld exclusion, finding beyond reasonable doubt that H was responsible.",
+        "H challenged the Panel's fact-finding, standard of proof, proportionality and adequacy of reasons by judicial review."
+      ],
+      "procedural_posture": "Judicial review of an independent appeal panel decision upholding permanent exclusion from school.",
+      "outcome": "Application dismissed; exclusion upheld as lawful and rational.",
+      "ratio": "Where lighting a firework in a confined school space created serious safety risks, permanent exclusion was a rational response notwithstanding a good disciplinary record; for conduct amounting to a criminal offence the panel had to be sure of responsibility, and the Panel's reasons adequately explained upholding the headteacher's decision.",
+      "legal_issues": [
+        "Whether the Panel had to resolve precise manner of involvement in the firework incident",
+        "The correct standard of proof where exclusion involves criminal conduct",
+        "Whether permanent exclusion was disproportionate or inconsistent with the school's Notice",
+        "Whether the Panel's reasons were adequate"
+      ],
+      "catchwords": [
+        "school exclusion",
+        "judicial review",
+        "firework",
+        "permanent exclusion",
+        "standard of proof",
+        "appeal panel",
+        "pupil discipline"
+      ],
+      "index_terms": [
+        "R(S) v Governing Body of YP School",
+        "R v Head Teacher of Dunraven School ex parte B",
+        "R (McCann) v Manchester Crown Court",
+        "Ali v Head Teacher and Governors of Lord Grey School",
+        "Children and Young Persons Act section 39",
+        "anti-bullying policy"
+      ],
+      "linked_authorities": [
+        "R(S) v The Governing Body of YP School [2003] EWCA Civ 1306",
+        "R v Head Teacher of Dunraven School ex parte B [2000] ELR 156",
+        "R (McCann) v Manchester Crown Court [2003] 1 AC 787",
+        "Ali v Head Teacher and Governors of Lord Grey School [2004] EWCA Civ 382",
+        "R v Northamptonshire County Council ex parte W [1998] ELR 291"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed administrative review of exclusion decision. Proportionality in exclusion cases left open."
+      }
+    }
+  }
+]

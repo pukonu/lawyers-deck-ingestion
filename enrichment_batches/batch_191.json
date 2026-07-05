@@ -1,0 +1,710 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/costs/2003/9050.json",
+    "status": "done",
+    "notes": "Complete costs appeal judgment on whether success fees could be assessed on post-discontinuance summarily assessed costs.",
+    "enrichment": {
+      "short_title": "Success fees not recoverable on summarily assessed costs where proceedings had concluded under CPR 44.3A(2)(a)",
+      "area_of_law": [
+        "Costs",
+        "Civil procedure",
+        "Conditional fee agreements"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": ["s 58(2)"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["r 38.6", "r 43.2", "r 44.3A", "r 47.6"]
+        }
+      ],
+      "key_facts": [
+        "Thompson sued Anderson for defamation, discontinued, and was ordered to pay two thirds of her costs, partly summarily assessed by Master Rose and McCombe J.",
+        "Anderson's bill on detailed assessment included success fees under conditional fee agreements on those summarily assessed sums.",
+        "Costs Officer Emery allowed success fees totalling £3,900; Thompson appealed, contending the Masters had already made a summary assessment of all costs including additional liability."
+      ],
+      "procedural_posture": "Appeal to a High Court costs judge against a costs officer's allowance of success fees on detailed assessment.",
+      "outcome": "Appeal allowed; respondent ordered to pay appeal costs of £1,351.25.",
+      "ratio": "Once proceedings have concluded, CPR 44.3A(2) applies and a judge who summarily assesses costs without ordering detailed assessment of the additional liability is treated as exercising power under rule 44.3A(2)(a); a costs officer cannot go behind that order and separately allow success fees on summarily assessed costs.",
+      "legal_issues": [
+        "Whether success fees on summarily assessed post-discontinuance costs were assessable on detailed assessment",
+        "Whether Master Rose and McCombe J made summary assessments under CPR 44.3A(2)(a), (b) or (c)",
+        "Whether failure to specify base costs and additional liability separately prevented summary assessment of success fees"
+      ],
+      "catchwords": [
+        "success fee",
+        "conditional fee agreement",
+        "detailed assessment",
+        "summary assessment",
+        "additional liability",
+        "discontinuance",
+        "CPR 44.3A"
+      ],
+      "index_terms": [
+        "Thompson v Anderson",
+        "Costs Officer Emery",
+        "Master Rose",
+        "Cope v United Dairies",
+        "percentage increase",
+        "base costs",
+        "funding arrangement"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Cope v United Dairies (London) Ltd",
+          "citation": "[1963] 2 WLR 926"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full judgment with clear findings on CPR 44.3A and formal order; no material gaps in source text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2985.json",
+    "status": "done",
+    "notes": "Complete Chancery appeal judgment on partnership vicarious liability and causation in accountant share fraud claim.",
+    "enrichment": {
+      "short_title": "Accountancy firm partners liable for senior partner's forged share transfers as acts in ordinary course of business",
+      "area_of_law": [
+        "Partnership law",
+        "Tort",
+        "Fraud and deceit",
+        "Professional liability"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Partnership Act 1890",
+          "provisions": ["s 10"]
+        },
+        {
+          "title": "Civil Liability (Contribution) Act 1978",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Senior partner Gordon forged stock transfer forms to sell a client's Glaxo shares; stockbrokers Kerr and Allen confirmed signatures and Glaxo registered the transfers.",
+        "Glaxo recovered from the stockbrokers, who sought contribution from Gordon's co-partners McHugh and Lynch.",
+        "The partners sought to amend their defence to deny vicarious liability and allege the stockbrokers' negligence broke the chain of causation."
+      ],
+      "procedural_posture": "Appeal to the High Court against summary judgment for the stockbrokers on partnership liability.",
+      "outcome": "Appeal dismissed; no real prospect of showing Gordon's fraud was outside the ordinary course of the firm's business or that stockbrokers' negligence broke causation.",
+      "ratio": "Under section 10 of the Partnership Act 1890, applying Dubai Aluminium's close-connection test, a partner's fraudulent share dealings may be in the ordinary course of an accountancy firm's business where the firm occasionally handled share transactions; fraud is the sole cause of loss and a third party's failure to detect forgery does not break the chain.",
+      "legal_issues": [
+        "Whether Gordon's forged share transfers were done in the ordinary course of the firm's business",
+        "Application of the close-connection test from Dubai Aluminium Co Ltd v Salaam",
+        "Whether stockbrokers' negligent signature confirmation broke the chain of causation",
+        "Whether contribution was available under the Civil Liability (Contribution) Act 1978"
+      ],
+      "catchwords": [
+        "partnership liability",
+        "vicarious liability",
+        "ordinary course of business",
+        "fraudulent misrepresentation",
+        "stock transfer form",
+        "warranty of authority",
+        "close connection test"
+      ],
+      "index_terms": [
+        "H Wilson Gordon & Co",
+        "Miss Porterfield",
+        "Glaxo Wellcome",
+        "D M Wright & Partners",
+        "accountants share dealing",
+        "Dobell v Stevens",
+        "Standard Chartered Bank v Pakistan National Shipping Corp"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Dubai Aluminium Co Ltd v Salaam",
+          "citation": "[2002] 3 WLR 1913"
+        },
+        {
+          "name": "Swain v Hillman",
+          "citation": "[2001] 1 All ER 91"
+        },
+        {
+          "name": "Standard Chartered Bank v Pakistan National Shipping Corp (Nos 2 and 4)",
+          "citation": "[2003] 1 AC 959"
+        },
+        {
+          "name": "Smith New Court Securities Ltd v Scrimgeour Vickers",
+          "citation": "[1997] AC 254"
+        },
+        {
+          "name": "Dobell v Stevens",
+          "citation": "(1825) 3 B&C 623"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Substantive judgment with detailed fact findings and clear application of section 10 and Dubai Aluminium."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1784.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ judgment on lease rent review counter-notice service and landlord consent to subletting.",
+    "enrichment": {
+      "short_title": "Rent review counter-notice invalid where tenant's solicitor knew landlord's changed address but tenant did not serve there",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Property law",
+        "Contract"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": ["s 196"]
+        },
+        {
+          "title": "Landlord and Tenant Act 1988",
+          "provisions": ["s 1(3)(a)", "s 1(4)", "s 1(6)(c)"]
+        }
+      ],
+      "key_facts": [
+        "Arundel served a rent review notice increasing annual rent to £30,000; Khokher disputed service of a valid counter-notice.",
+        "The county court found a counter-notice was left at 200 Brent Street; fresh evidence on appeal raised perjury allegations.",
+        "The Court of Appeal held valid service required the last known place of business, which the tenant's solicitor knew had moved to Wheathampstead."
+      ],
+      "procedural_posture": "Resumed appeal to the Court of Appeal after permission to adduce fresh evidence on rent review service and sub-letting consent.",
+      "outcome": "Appeal allowed on rent review; annual rent from 25 December 2000 declared £30,000; sub-letting consent appeal dismissed; papers referred to Law Society and DPP over alleged false evidence.",
+      "ratio": "Knowledge of a material fact acquired by a tenant's solicitor in the course of acting on the lease is imputed to the tenant for service purposes; service at an outdated address in the lease is insufficient where the solicitor knew the landlord's last known place of business had changed.",
+      "legal_issues": [
+        "Whether a rent review counter-notice was validly served under the lease and section 196 LPA 1925",
+        "Whether a solicitor's knowledge of the landlord's changed address was imputed to the tenant",
+        "Whether the landlord unreasonably withheld consent to a sub-letting under the Landlord and Tenant Act 1988",
+        "Whether schedule 13 proviso preserved tenant's right to appoint a surveyor despite defective counter-notice"
+      ],
+      "catchwords": [
+        "rent review",
+        "counter-notice",
+        "service of notices",
+        "last known place of business",
+        "imputed knowledge",
+        "consent to subletting",
+        "reasonable landlord"
+      ],
+      "index_terms": [
+        "Arundel Corporation",
+        "37 Watling Avenue",
+        "Metropolitan Properties v Cordery",
+        "Go West Ltd v Spigarolo",
+        "Fuller's Theatre & Vaudeville Co Ltd v Rofe",
+        "Bowstead on Agency"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Arundel Corporation v Khokher",
+          "citation": "[2003] EWCA Civ 491"
+        },
+        {
+          "name": "Metropolitan Properties v Cordery",
+          "citation": "(1980) 39 P & CR 10"
+        },
+        {
+          "name": "Go West Ltd v Spigarolo",
+          "citation": "[2003] 2 WLR 986"
+        },
+        {
+          "name": "Fuller's Theatre & Vaudeville Co Ltd v Rofe",
+          "citation": "[1923] AC 435"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full appellate judgment covering both rent review and consent issues; earlier interlocutory judgment cited as EWCA Civ 491."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1762.json",
+    "status": "done",
+    "notes": "Complete split EWCA Civ judgment on normal retiring age for a unique employee under ERA 1996 s109.",
+    "enrichment": {
+      "short_title": "Unique employee may have normal retiring age equal to contractual retirement age under ERA s109(1)(a)(i)",
+      "area_of_law": [
+        "Employment law",
+        "Unfair dismissal"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": ["s 94", "s 109(1)(a)(i)", "s 109(1)(b)", "s 235(1)"]
+        }
+      ],
+      "key_facts": [
+        "Wall was Director-General of BCAS with an agreed contractual retirement age of 70 but was dismissed at 67.",
+        "The employment tribunal and EAT proceeded on agreed assumptions that his position was unique and his contractual retiring age was 70.",
+        "The EAT held a normal retiring age of 70 existed; BCAS appealed, relying on Age Concern Scotland v Hines."
+      ],
+      "procedural_posture": "Employer's appeal to the Court of Appeal from the Employment Appeal Tribunal on a preliminary jurisdictional point under section 109.",
+      "outcome": "Appeal dismissed by majority (Simon Brown LJ and Scott Baker LJ; Evans-Lombe J dissenting); complaint remitted to the employment tribunal on merits.",
+      "ratio": "The word 'normal' in section 109(1)(a)(i) does not require comparators; an employee in a unique position with a contractual retiring age may have that age as his normal retiring age, determined by what age he could reasonably expect to be compelled to retire.",
+      "legal_issues": [
+        "Whether an employee holding a unique position can have a normal retiring age within section 109(1)(a)(i)",
+        "Whether comparators are necessary to establish a normal retiring age",
+        "Interaction between contractual retiring age and the statutory fallback age of 65",
+        "Correct interpretation of Waite v GCHQ and Patel v Nagesan"
+      ],
+      "catchwords": [
+        "normal retiring age",
+        "upper age limit",
+        "unfair dismissal jurisdiction",
+        "unique employee",
+        "contractual retirement",
+        "Director-General",
+        "section 109 ERA"
+      ],
+      "index_terms": [
+        "British Compressed Air Society",
+        "Age Concern Scotland v Hines",
+        "Dormers Wells Infant School v Gill",
+        "Waite v Government Communications Headquarters",
+        "Patel v Nagesan",
+        "Nothman v Barnet London Borough Council"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Waite v Government Communications Headquarters",
+          "citation": "[1983] 2 AC 714"
+        },
+        {
+          "name": "Age Concern Scotland v Hines",
+          "citation": "[1983] IRLR 477"
+        },
+        {
+          "name": "Patel v Nagesan",
+          "citation": "[1995] ICR 988"
+        },
+        {
+          "name": "Nothman v Barnet London Borough Council",
+          "citation": "[1978] 1 WLR 220"
+        }
+      ],
+      "confidence": {
+        "score": 0.97,
+        "level": "high",
+        "notes": "Detailed split appellate reasoning on a single statutory question with agreed preliminary facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1899.json",
+    "status": "done",
+    "notes": "Supplementary EWCA Civ judgment making restraint orders after dismissing Mahajan's applications in EWCA Civ 1897.",
+    "enrichment": {
+      "short_title": "Vexatious litigant restrained from abusive correspondence and given paper-filter for further hopeless applications",
+      "area_of_law": [
+        "Civil procedure",
+        "Contempt of court",
+        "Access to justice"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Following the main judgment dismissing Mahajan's appeals, the court considered protective orders.",
+        "Mahajan had sent offensive correspondence to Civil Appeals Office staff, including racially abusive material.",
+        "The court concluded his litigation was persistent, vexatious and devoid of merit."
+      ],
+      "procedural_posture": "Supplementary judgment in the Court of Appeal after dismissal of Mahajan's procedural appeals, determining protective orders.",
+      "outcome": "Orders made restraining rude or abusive correspondence with Civil Appeals Office staff and requiring future related applications to be filtered on paper with final refusal if devoid of merit.",
+      "ratio": "Where litigation is persistent and vexatious, the court may restrain abusive correspondence to court staff and require further applications on related matters to be considered on paper by a designated judge, with paper refusal final if the application is totally devoid of merit.",
+      "legal_issues": [
+        "Whether to restrain a litigant from rude or abusive correspondence with court staff",
+        "Whether to impose a civil restraint order on further hopeless applications",
+        "Application of principles in Bhamjee v Forsdick"
+      ],
+      "catchwords": [
+        "vexatious litigant",
+        "civil restraint order",
+        "contempt",
+        "Civil Appeals Office",
+        "abusive correspondence",
+        "paper filter",
+        "penal notice"
+      ],
+      "index_terms": [
+        "Mahajan v Waldman",
+        "Bhamjee v Forsdick",
+        "litigant in person",
+        "Advocate to the Court",
+        "Chancery Division referral"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bhamjee v Forsdick",
+          "citation": "[2003] EWCA Civ 1113"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Short supplementary judgment; linked to main judgment in EWCA Civ 1897; judges not listed in source metadata but named in text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1897.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ judgment dismissing Mahajan's appeals against Civil Appeals Office and Chancery case management orders.",
+    "enrichment": {
+      "short_title": "Litigant's failure to comply with CPR Part 52 appeal bundle requirements justified dismissal of his applications",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Bankruptcy",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Part 52", "PD 52 para 5.6", "r 52.16(5)"]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": ["s 57"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art 6"]
+        }
+      ],
+      "key_facts": [
+        "Mahajan, an undischarged bankrupt, pursued repeated fraud claims against the Waldman family after failed employment and county court proceedings.",
+        "Deputy Master Joseph ordered that his permission-to-appeal application would be dismissed unless he filed a compliant appeal bundle within 21 days.",
+        "Mahajan failed to comply, abused court staff, and sought to appeal Patten J's and Rimer J's related case management orders."
+      ],
+      "procedural_posture": "Appeals and applications for permission to appeal in the Court of Appeal against Civil Appeals Office and Chancery procedural orders.",
+      "outcome": "All applications dismissed; no extension of time to comply with Deputy Master Joseph's order; no merit in challenges to Patten J or Rimer J.",
+      "ratio": "A litigant in person must comply with CPR Part 52 Practice Direction bundle requirements when directed by the Civil Appeals Office; failure to attend a dismissal list hearing and provide required documents justifies strike-out, and courts may regulate their own procedure without breach of Article 6.",
+      "legal_issues": [
+        "Whether Deputy Master Joseph's unless order requiring a compliant appeal bundle was reasonable",
+        "Whether Mahajan should be granted an extension of time to comply",
+        "Whether Patten J erred in refusing transcripts and interrogation of court staff",
+        "Whether Rimer J erred in adjourning and refusing costs orders against the Court Service",
+        "Whether the Master of the Rolls could transfer an application for permission to appeal to the Court of Appeal"
+      ],
+      "catchwords": [
+        "appeal bundle",
+        "Practice Direction Part 52",
+        "unless order",
+        "litigant in person",
+        "permission to appeal",
+        "strike out",
+        "undischarged bankrupt"
+      ],
+      "index_terms": [
+        "Mahajan v Waldman",
+        "Deputy Master Joseph",
+        "Patten J",
+        "Rimer J",
+        "Neuberger J",
+        "Pearlion Associates",
+        "Civil Appeals Office"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full procedural judgment with extensive background; companion restraint judgment in EWCA Civ 1899."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/2934.json",
+    "status": "done",
+    "notes": "Complete judicial review judgment on HSE decision not to prosecute after fatal accident on housing estate.",
+    "enrichment": {
+      "short_title": "HSE decision not to prosecute landlords after child's death by falling door held not unlawful",
+      "area_of_law": [
+        "Health and safety",
+        "Criminal law",
+        "Judicial review",
+        "Housing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Health and Safety at Work etc. Act 1974",
+          "provisions": ["s 3(1)", "s 33", "s 40"]
+        },
+        {
+          "title": "Management of Health and Safety at Work Regulations 1999",
+          "provisions": ["reg 21"]
+        },
+        {
+          "title": "Prosecution of Offences Act 1985",
+          "provisions": ["s 10"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art 6"]
+        }
+      ],
+      "key_facts": [
+        "Christopher Pullen, aged 12, was killed when a heavy communal security door fell on him at Southdown House on Islington's Market Estate.",
+        "Islington owned the estate; Hyde Housing Association held the maintenance contract from July 2000.",
+        "The HSE investigated but decided there was no realistic prospect of convicting either body under section 3."
+      ],
+      "procedural_posture": "Claim for judicial review of the Health and Safety Executive's decision not to prosecute Islington and Hyde.",
+      "outcome": "Claim dismissed; HSE decision held reasonably open on the evidence and correctly applying the Code for Crown Prosecutors.",
+      "ratio": "A decision not to prosecute is reviewable only on narrow grounds including unlawful policy, failure to follow the Code, mistake of law, or perversity; where employers had reasonably practicable repair systems and evidence did not sufficiently establish how long the door had been dangerous or employee default, the HSE could reasonably conclude there was no realistic prospect of conviction.",
+      "legal_issues": [
+        "Grounds for judicial review of a prosecutorial decision not to prosecute",
+        "Elements of section 3(1) HSWA and reverse burden under section 40",
+        "Whether injury alone establishes risk with onus on the defendant to prove reasonable practicability",
+        "Whether witness perceptions of danger were irrelevant",
+        "Application of regulation 21 and the Code for Crown Prosecutors evidential test"
+      ],
+      "catchwords": [
+        "HSE prosecution",
+        "section 3 HSWA",
+        "reasonable practicability",
+        "realistic prospect of conviction",
+        "non-prosecution decision",
+        "housing maintenance",
+        "fatal accident"
+      ],
+      "index_terms": [
+        "Pullen",
+        "Islington",
+        "Hyde Housing Association",
+        "R v Associated Octel Co Ltd",
+        "R v Director of Public Prosecutions ex parte C",
+        "R v Director of Public Prosecutions ex parte Manning",
+        "Davies v HSE"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Director of Public Prosecutions, ex parte C",
+          "citation": "[1995] 1 Cr App R 136"
+        },
+        {
+          "name": "R v Director of Public Prosecutions, ex parte Manning",
+          "citation": "[2001] QB 330"
+        },
+        {
+          "name": "R v Associated Octel Co Ltd",
+          "citation": "[1994] 4 All ER 1051"
+        },
+        {
+          "name": "Davies v Health and Safety Executive",
+          "citation": "[2002] EWCA Crim 2449"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Comprehensive judicial review judgment with detailed factual and legal analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1852.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ judgment allowing appeal where judge wrongly upheld no-case-to-answer on medical negligence causation.",
+    "enrichment": {
+      "short_title": "Judge erred in upholding no case to answer where ENT expert evidence supported rhinoplasty causation",
+      "area_of_law": [
+        "Clinical negligence",
+        "Medical law",
+        "Civil procedure",
+        "Personal injury"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Yousif underwent cosmetic rhinoplasty by Jordan in January 1998 and later complained of long-term nasal obstruction.",
+        "The judge upheld a no-case-to-answer submission, finding no evidence linking obstruction to the operation, relying mainly on a joint ENT statement.",
+        "Mr Quiney's individual report attributed bilateral alar collapse to the surgery; Professor Lund disagreed."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against county court judgment entered after successful no-case-to-answer submission at trial.",
+      "outcome": "Appeal allowed; action remitted for full hearing before a different circuit judge; no order as to costs.",
+      "ratio": "On a no-case-to-answer application the judge must survey all relevant evidence including expert reports; reading a general joint statement paragraph on subjective nasal congestion as negating Mr Quiney's specific causation opinion was an error where the individual report provided evidence of mechanical obstruction caused by the rhinoplasty.",
+      "legal_issues": [
+        "Correct approach to a no-case-to-answer submission on causation in clinical negligence",
+        "Whether there was evidence linking long-term nasal obstruction to the rhinoplasty",
+        "Proper construction of conflicting ENT expert reports and joint statement",
+        "Whether the action should be remitted to the same or a different judge"
+      ],
+      "catchwords": [
+        "medical negligence",
+        "rhinoplasty",
+        "no case to answer",
+        "causation",
+        "failure to warn",
+        "ENT expert evidence",
+        "alar collapse"
+      ],
+      "index_terms": [
+        "cosmetic surgery",
+        "nasal obstruction",
+        "Mr Quiney",
+        "Professor Lund",
+        "septoplasty",
+        "Harley Street",
+        "litigant in person"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed analysis of expert evidence and trial procedure."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2987.json",
+    "status": "done",
+    "notes": "Complete admin judgment quashing GDC specialist list refusal and remitting orthodontist's appeal for fresh hearing.",
+    "enrichment": {
+      "short_title": "GDC specialist list refusal quashed for inadequate reasons and unfair treatment of experience-based application",
+      "area_of_law": [
+        "Professional regulation",
+        "Dental law",
+        "Judicial review",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Dentists Act 1984",
+          "provisions": ["s 26(4)"]
+        },
+        {
+          "title": "European Primary and Specialist Dental Qualifications Regulations 1998",
+          "provisions": ["reg 12(3)(c)"]
+        },
+        {
+          "title": "General Dental Council (Distinctive Branches of Dentistry) Regulations 1998",
+          "provisions": ["reg 5(g)"]
+        },
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": ["s 71"]
+        }
+      ],
+      "key_facts": [
+        "Australian-qualified dentist Lynch applied for the GDC orthodontics specialist list by experience equivalent to a CCST.",
+        "An assessment panel and appeal panel refused, finding insufficient expertise; reasons were brief and partly misunderstood his Australian evidence.",
+        "Lynch practised full-time orthodontics for Whitecross Dental Care with extensive referrals but lacked specialist listing."
+      ],
+      "procedural_posture": "Judicial review of the General Dental Council's refusal to enter the claimant on the specialist orthodontics list and refusal to set aside that determination.",
+      "outcome": "Claim succeeded; both decisions quashed; appeal remitted to a fresh appeal panel; claimant awarded costs subject to no order on Pleming costs-in-case.",
+      "ratio": "Inexperience-based specialist listing decisions require adequate reasons explaining why evidence was insufficient; where reasons were defective, the panel misunderstood corroborative Australian evidence, and the applicant was not fairly alerted to the importance of supporting materials such as models, the decision may be quashed even if a fresh panel could reach the same outcome.",
+      "legal_issues": [
+        "Whether the GDC appeal panel's reasons were adequate",
+        "Whether the panel failed to have regard to material evidence of Australian and UK orthodontic experience",
+        "Admissibility of expert evidence in judicial review of expert tribunal decisions",
+        "Whether the Director of Appeals should have set aside the determination",
+        "Proper remedy when transitional specialist list application was unfairly determined"
+      ],
+      "catchwords": [
+        "specialist list",
+        "General Dental Council",
+        "orthodontics",
+        "CCST equivalent",
+        "inadequate reasons",
+        "experience route",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Mark Lynch",
+        "Whitecross Dental Care",
+        "Powis test",
+        "R v Westminster City Council ex p Ermakov",
+        "expert evidence in JR",
+        "Dentists Act transitional provisions"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Secretary of State for the Environment ex parte Powis",
+          "citation": "[1981] 1 WLR 584"
+        },
+        {
+          "name": "R v Westminster City Council, ex parte Ermakov",
+          "citation": "[1996] 2 All ER 302"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long judgment including post-judgment relief discussion; core holdings clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/3037.json",
+    "status": "done",
+    "notes": "Complete planning judicial review dismissing challenge to grant of permission for adjacent dwelling.",
+    "enrichment": {
+      "short_title": "Planning permission for elevated three-storey dwelling upheld despite earlier refusal and officer U-turn",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["s 54A"]
+        }
+      ],
+      "key_facts": [
+        "Neighbours Tromans objected to detailed planning permission for a detached dwelling at 22 Washbrook Lane adjacent to their home.",
+        "The council had refused a similar application in March 2002 and officers recommended refusal again in January 2003 before deferral and further negotiations.",
+        "After retaining-wall and tree-protection details were supplied, officers recommended approval in April 2003; the committee resolved 7-6 to grant permission."
+      ],
+      "procedural_posture": "Substantive judicial review of Cannock Chase District Council's grant of planning permission after adjourned permission hearing.",
+      "outcome": "Claim dismissed on all remaining grounds; planning permission upheld.",
+      "ratio": "Where officers change recommendation after deferral, site visit, and satisfactory additional information on tree protection and retaining walls, a local planning authority is not required to give separate reasons in the committee minutes if the officer report adequately explains departure from earlier refusal grounds; alleged vote miscount by objectors does not render the process unfair where the chair verified the count.",
+      "legal_issues": [
+        "Compliance with section 54A and development plan policies B8, H3 and H5",
+        "Whether failure to refer to January 2003 refusal reasons rendered the April 2003 decision irrational",
+        "Duty to give reasons when a council reverses a recent refusal",
+        "Whether procedural unfairness arose from not recounting committee votes after an objector's challenge"
+      ],
+      "catchwords": [
+        "planning permission",
+        "judicial review",
+        "development plan",
+        "infill development",
+        "planning officer recommendation",
+        "reasons for decision",
+        "committee vote"
+      ],
+      "index_terms": [
+        "Cannock Chase Local Plan",
+        "Policy B8",
+        "Policy H5",
+        "Washbrook Lane",
+        "R v East Hertfordshire DC ex p Beckman",
+        "R v Mendip DC ex p Fabre",
+        "section 54A"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v East Hertfordshire District Council, ex parte Beckman",
+          "citation": "(1998) 76 P&CR 333"
+        },
+        {
+          "name": "R v Mendip District Council, ex parte Fabre",
+          "citation": "(2000) 80 P&CR 500"
+        },
+        {
+          "name": "R v Aylesbury Vale District Council, ex parte Chaplin",
+          "citation": "(1998) 76 P&CR 207"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full planning JR with detailed chronology and clear rejection of all grounds."
+      }
+    }
+  }
+]

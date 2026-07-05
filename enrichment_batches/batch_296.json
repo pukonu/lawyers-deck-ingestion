@@ -1,0 +1,643 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1389.json",
+    "status": "needs_review",
+    "notes": "Corrupted judges metadata ('Lord Grey School'); lengthy governor-complaints annexure appended after the court judgment; substantive Article 9 holding is nevertheless clear.",
+    "enrichment": {
+      "short_title": "Begum jilbab school uniform and Article 9 challenge",
+      "area_of_law": [
+        "Education law",
+        "Human rights",
+        "Administrative law",
+        "Judicial review",
+        "Religious freedom"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6(1)"
+          ]
+        },
+        {
+          "title": "School Standards and Framework Act 1998",
+          "provisions": [
+            "sections 64-68"
+          ]
+        },
+        {
+          "title": "Education Act 2002",
+          "provisions": [
+            "section 52"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 9",
+            "Article 2 Protocol 1",
+            "Article 14"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Shabina Begum, a 15-year-old Muslim pupil at Denbigh High School, Luton, wore the approved Shalwar Kameeze uniform for two years before insisting from September 2002 on wearing a jilbab.",
+        "The school refused entry unless she complied with the published uniform policy, which had been developed after consultation with parents and mosques.",
+        "She did not attend school thereafter; the school maintained she was not excluded and offered compromise arrangements including a modified Shalwar Kameeze.",
+        "She sought judicial review alleging unlawful exclusion and breaches of Articles 9, 2 Protocol 1 and 14 ECHR."
+      ],
+      "procedural_posture": "Substantive claim for judicial review of Denbigh High School's refusal to allow attendance in a jilbab; permission against Luton Borough Council refused.",
+      "outcome": "Judicial review claim against the school dismissed; no breach of Article 2 Protocol 1 found; permission to proceed against the local education authority refused.",
+      "ratio": "A published school uniform policy limiting Muslim girls to an approved Shalwar Kameeze rather than a jilbab was a clear, proportionate limitation on Article 9 rights necessary for the proper running of a multi-faith secular school and protection of others' rights; the pupil was not excluded and her Article 2 Protocol 1 right to education was not denied where she could comply with uniform or seek transfer.",
+      "legal_issues": [
+        "Whether refusal to admit a pupil in a jilbab amounted to unlawful exclusion",
+        "Whether the uniform policy infringed Article 9 ECHR",
+        "Whether Article 2 Protocol 1 was breached by denial of education",
+        "Whether the limitation was prescribed by law, pursued a legitimate aim and was proportionate"
+      ],
+      "catchwords": [
+        "school uniform",
+        "jilbab",
+        "Article 9",
+        "religious dress",
+        "judicial review",
+        "education"
+      ],
+      "index_terms": [
+        "Begum v Denbigh High School",
+        "Shalwar Kameeze",
+        "Human Rights Act 1998",
+        "multi-faith school",
+        "Lord Grey School",
+        "Luton",
+        "proportionality"
+      ],
+      "linked_authorities": [
+        "A v Headteacher and Governors of Lord Grey School [2004] EWCA Civ 382",
+        "R (Williamson) v Secretary of State for Education and Employment [2002] EWHC 2488",
+        "R (SB) v Headteacher and Governors of Denbigh High School [2005] UKHL 15"
+      ],
+      "confidence": {
+        "score": 0.84,
+        "level": "medium",
+        "notes": "Core Article 9 and dismissal outcome are explicit, but judges metadata is corrupted and the file bundles extensive non-judicial governor material after the court decision."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/715.json",
+    "status": "needs_review",
+    "notes": "Corrupted judges metadata includes Lord Wilberforce; source summary field is truncated.",
+    "enrichment": {
+      "short_title": "Council liability for refusing window safety catch",
+      "area_of_law": [
+        "Tort law",
+        "Negligence",
+        "Landlord and tenant",
+        "Local authority liability",
+        "Housing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Occupier's Liability Act 1957",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A two-year-old child fell from a first-floor casement window of a council house let by Blaenau Gwent, sustaining serious injury.",
+        "The tenant had previously asked the council to fit window locks or safety catches after a near-miss involving an older child; the council refused on fire-safety policy grounds.",
+        "The trial judge held the council liable by analogy with Stockley for failing to give individual consideration to the request.",
+        "After the accident the council fitted a restrictor catch that would have prevented the fall."
+      ],
+      "procedural_posture": "Appeal by the local authority against a finding of common law negligence despite no disrepair and no occupier's liability duty.",
+      "outcome": "Appeal allowed; council not liable.",
+      "ratio": "A landlord council with no duty in respect of the condition of premises is not liable in negligence for refusing window locks requested on fire-safety grounds where the tenant sought locks rather than safety catches, no assumption of responsibility arose, and Stockley is distinguishable as involving a duty to abate an external hazard in an emergency.",
+      "legal_issues": [
+        "Whether a council landlord owed a duty of care to fit child-proof window safety devices",
+        "Application of Stockley v Knowsley MBC",
+        "Whether blanket fire-safety policy required individual exception",
+        "Distinction between locks and safety catches"
+      ],
+      "catchwords": [
+        "landlord negligence",
+        "window safety",
+        "local authority housing",
+        "duty of care",
+        "child fall",
+        "fire safety policy"
+      ],
+      "index_terms": [
+        "Cavalier v Pope",
+        "Stockley v Knowsley",
+        "Adams v Rhymney Valley District Council",
+        "casement window",
+        "assumption of responsibility",
+        "infant claimant"
+      ],
+      "linked_authorities": [
+        "Stockley v Knowsley Metropolitan Borough Council [1986] 279 EG 677",
+        "Cavalier v Pope [1906] AC 408",
+        "Adams v Rhymney Valley District Council [2000] 33 HLR 41",
+        "Goldman v Hargrove [1967] 1 AC 645"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Appeal reasoning and outcome are complete and explicit despite metadata defects."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1493.json",
+    "status": "needs_review",
+    "notes": "Empty judges array in source metadata; claim was significantly out of time though permission had been granted.",
+    "enrichment": {
+      "short_title": "Somalia asylum judicial review on risk on return",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mustafa Adam, an Ashraf clan member from Somalia, claimed asylum after family members were killed in 1995 and he received protection from Sheikh Abdi of the majority Marehan clan.",
+        "The adjudicator accepted clan membership and residence in Somalia but found he had integrated into Marehan protection, left for economic reasons and faced no well-founded fear of persecution on return.",
+        "The Immigration Appeal Tribunal refused permission to appeal in May 2003; judicial review was not lodged until February 2004.",
+        "Ground 9 alleged the adjudicator failed to address current risk on return to Somalia."
+      ],
+      "procedural_posture": "Substantive judicial review of IAT refusal of permission to appeal against an asylum dismissal, heard long out of time.",
+      "outcome": "Claim dismissed; no error of law in the adjudicator's determination or the tribunal's refusal of permission.",
+      "ratio": "Where an adjudicator expressly finds that a claimant had Marehan protection, was no longer at risk as a minority clan member and could return to that protection, the risk-on-return issue is sufficiently addressed even if not labelled separately; absence of an arguable point of law bars judicial review.",
+      "legal_issues": [
+        "Whether the adjudicator failed to make findings on current risk on return",
+        "Whether membership of a minority clan remained relevant after Marehan integration",
+        "Whether the IAT erred in refusing permission to appeal",
+        "Effect of significant delay in bringing judicial review"
+      ],
+      "catchwords": [
+        "judicial review",
+        "asylum",
+        "risk on return",
+        "Somalia",
+        "Ashraf clan",
+        "Immigration Appeal Tribunal"
+      ],
+      "index_terms": [
+        "Mustafa Adam",
+        "Marehan clan",
+        "Sheikh Abdi",
+        "economic migrant",
+        "permission to appeal",
+        "Robinson",
+        "out of time"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome and risk-on-return analysis are clear; judge identity missing from source metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2186.json",
+    "status": "needs_review",
+    "notes": "Empty judges array in source metadata; otherwise full section 288 planning judgment with agreed costs at end.",
+    "enrichment": {
+      "short_title": "Margam Forest wind farm section 288 challenge",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Environmental law",
+        "Heritage and conservation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Community Power Ltd appealed unsuccessfully to the National Assembly for Wales against refusal of permission for eleven wind turbines at Margam Forest on Mynydd Margam.",
+        "The inspector found serious harm to Margam Park, scheduled monuments, a registered historic landscape and the Llangynwyd Conservation Area outweighed renewable-energy benefits.",
+        "The applicant challenged failure to grant a split decision, misapplication of Structure Plan Policy EQ7, and inadequate reasoning on conservation-area impact.",
+        "Cadw and CCW had distinct remits regarding monuments, park and historic landscape respectively."
+      ],
+      "procedural_posture": "Section 288 application to quash the Assembly's dismissal of a wind-farm planning appeal.",
+      "outcome": "Application dismissed; agreed respondent costs of £11,340.",
+      "ratio": "Where an inspector concluded all eleven turbines caused unacceptable national heritage harm, no legal error arose from failing separately to approve a partial scheme; EQ7 could apply to a nationally important historic landscape on the Welsh Register, and conservation-area setting reasoning was adequately explained.",
+      "legal_issues": [
+        "Whether the inspector erred by not considering a split decision",
+        "Whether Policy EQ7 applied to a non-statutory historic landscape designation",
+        "Whether reasoning on Llangynwyd Conservation Area setting was inadequate",
+        "Whether Cadw's consultation role was materially mischaracterised"
+      ],
+      "catchwords": [
+        "wind turbines",
+        "section 288",
+        "historic landscape",
+        "conservation area",
+        "planning inquiry",
+        "split decision"
+      ],
+      "index_terms": [
+        "Margam Forest",
+        "Mynydd Margam",
+        "National Assembly for Wales",
+        "Margam Park",
+        "Cadw",
+        "CCW",
+        "Policy EQ7"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Grounds analysis and dismissal are comprehensive; judge name absent from metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1754.json",
+    "status": "needs_review",
+    "notes": "Empty judges array in source metadata; otherwise complete Attorney General's reference on sentence.",
+    "enrichment": {
+      "short_title": "Unduly lenient sentence for hammer assault in pub",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Offences against the person"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The offender attacked a stranger in a hotel bar with a claw hammer over a trivial jukebox dispute, striking three blows to the head after leaving and returning to the premises.",
+        "The victim suffered a depressed skull fracture with dura breach requiring titanium plates, lasting neurological and psychological effects and loss of employment.",
+        "He pleaded guilty to wounding with intent on the day of trial; the judge sentenced him to three years' imprisonment.",
+        "The Attorney General referred the sentence as unduly lenient."
+      ],
+      "procedural_posture": "Attorney General's reference under section 36 Criminal Justice Act 1988 following a late guilty plea at Crown Court.",
+      "outcome": "Reference upheld; sentence increased from three years to four and a half years after double-jeopardy allowance.",
+      "ratio": "An unprovoked public hammer attack on an innocent stranger causing serious lasting head injury, with multiple blows and continued aggression, merited a sentence of about five and a half to six years before allowance for a late guilty plea and double jeopardy; three years failed adequately to mark gravity and deter similar violence.",
+      "legal_issues": [
+        "Whether three years' imprisonment was unduly lenient for s18 wounding with intent",
+        "Weight to be given to late guilty plea and personal mitigation",
+        "Application of double-jeopardy reduction on reference",
+        "Relevance of prior dated violent convictions"
+      ],
+      "catchwords": [
+        "unduly lenient sentence",
+        "section 36 reference",
+        "wounding with intent",
+        "hammer attack",
+        "guilty plea",
+        "double jeopardy"
+      ],
+      "index_terms": [
+        "Attorney General's Reference No 30 of 2004",
+        "depressed skull fracture",
+        "Taunton Crown Court",
+        "AG Ref Hughes",
+        "AG Ref Johnson",
+        "AG Ref Catterill"
+      ],
+      "linked_authorities": [
+        "Attorney General's Reference (No 18 of 2002) [2003] 1 Cr App R (S) 9",
+        "Attorney General's Reference (No 36 of 1996) [1997] 1 Cr App R (S) 363",
+        "Attorney General's Reference (No 68 of 2002) [2003] 1 Cr App R (S) 94",
+        "Attorney General's Reference (No 11 of 1992) [1993] 14 Cr App R (S) 136"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Facts, aggravating features and substituted sentence are fully stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1379.json",
+    "status": "needs_review",
+    "notes": "Corrupted judges metadata includes Lord Keith; long fraud/agency trial judgment but outcome and ratio on authority are clear.",
+    "enrichment": {
+      "short_title": "Insurance broker guarantee letters assigned from liquidator",
+      "area_of_law": [
+        "Agency law",
+        "Contract law",
+        "Insurance broking",
+        "Insolvency",
+        "Commercial fraud"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Towey, deputy managing director of TL Dallas insurance brokers, signed 1995 letters undertaking to pay TTB about £994,000 for goods and finance supplied to Malicorp and associated companies.",
+        "TTB went into liquidation in 2002; the liquidator assigned the claims to Mr Hopkins for £1,000.",
+        "Towey said the letters were intended to support a failing client and no trading profits existed; TTB never pursued the debts in its accounts.",
+        "Dallas Group contended Towey lacked authority and that any liability had been discharged by subsequent payments."
+      ],
+      "procedural_posture": "Trial of assigned breach-of-undertaking claims following TTB's insolvent liquidation.",
+      "outcome": "Claim dismissed; 1995 letters held not binding and, alternatively, liability fully discharged.",
+      "ratio": "Deputy managing director Towey had neither actual nor ostensible authority to bind Dallas companies to large unconditional payment undertakings for a third-party exporter's benefit in an abnormal transaction; even if enforceable, the documented payments and TTB's conduct showed full discharge and no subsisting debt.",
+      "legal_issues": [
+        "Whether Mr Towey had actual or ostensible authority to sign the 1995 letters",
+        "Whether the letters were binding on DC and the holding company DG",
+        "Whether liability under the letters was fully discharged",
+        "Whether valid assignments required prior written demands"
+      ],
+      "catchwords": [
+        "agency",
+        "ostensible authority",
+        "guarantee letters",
+        "insurance broker",
+        "liquidator assignment",
+        "money laundering context"
+      ],
+      "index_terms": [
+        "TL Dallas Group",
+        "TTB Limited",
+        "Malicorp Trading",
+        "Paul Towey",
+        "Hely-Hutchinson v Brayhead",
+        "Macmillan v Bishopsgate",
+        "Bowstead and Reynolds"
+      ],
+      "linked_authorities": [
+        "Hely-Hutchinson v Brayhead Ltd [1968] 1 QB 549",
+        "Macmillan Inc v Bishopsgate Investment Trust (No 3) [1995] 1 WLR 978"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Authority and discharge holdings are explicit at paragraphs 97 and 104-105; judge metadata corrupted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/901.json",
+    "status": "needs_review",
+    "notes": "Corrupted judges metadata lists Lord Denning only; substantive unfair-dismissal appeal judgment is complete.",
+    "enrichment": {
+      "short_title": "Unfair dismissal for falsifying banking records",
+      "area_of_law": [
+        "Employment law",
+        "Unfair dismissal",
+        "Disciplinary procedure",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": []
+        },
+        {
+          "title": "Trade Union and Labour Relations (Consolidation) Act 1992",
+          "provisions": [
+            "section 272"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Chris Kelly, a regional operations manager with 22 years' service at Anglian Home Improvements, was dismissed for gross misconduct including falsifying daily banking records on the JDE system.",
+        "He recorded monies as banked before receipt to reduce branch debt figures and meet targets, despite a clear May 2001 memo requiring daily banking.",
+        "A split Employment Tribunal majority treated the conduct as figure massaging insufficiently serious for dismissal; the chairman dissented.",
+        "The Employment Appeal Tribunal upheld the dismissal decision."
+      ],
+      "procedural_posture": "Employer's appeal against EAT dismissal of its appeal from a split Employment Tribunal unfair-dismissal finding.",
+      "outcome": "Appeal allowed; Kelly's unfair dismissal claim dismissed without remittal.",
+      "ratio": "The lay members substituted their personal view for the band of reasonable responses test; deliberate falsification of banking records plainly constituted gross misconduct under the employer's disciplinary code, and on the facts found no reasonable tribunal could conclude dismissal was outside the range of reasonable responses.",
+      "legal_issues": [
+        "Whether the tribunal applied the band of reasonable responses test",
+        "Whether split extempore tribunal reasons were adequate",
+        "Whether the employer's disciplinary procedure and ACAS Code were properly considered",
+        "Whether perversity justified final dismissal of the claim without remittal"
+      ],
+      "catchwords": [
+        "unfair dismissal",
+        "reasonable responses",
+        "gross misconduct",
+        "falsification of records",
+        "split tribunal",
+        "perversity"
+      ],
+      "index_terms": [
+        "Anglian Home Improvements",
+        "British Leyland v Swift",
+        "Post Office v Foley",
+        "Yeboah v Crofton",
+        "Holden v Bradville",
+        "ACAS Code",
+        "banking records"
+      ],
+      "linked_authorities": [
+        "British Leyland UK Ltd v Swift [1981] IRLR 91",
+        "Post Office v Foley [2000] IRLR 827",
+        "Yeboah v Crofton [2002] IRLR 634",
+        "Holden v Bradville Ltd [1985] IRLR 483",
+        "Parkers Bakeries Ltd v Palmer [1977] IRLR 215"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Court of Appeal reasoning on substitution error and perversity is detailed and conclusive."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1492.json",
+    "status": "needs_review",
+    "notes": "Empty judges array in source metadata; planning and listed-building appeals remitted for redetermination.",
+    "enrichment": {
+      "short_title": "Listed gatehouse link extension planning challenge",
+      "area_of_law": [
+        "Planning law",
+        "Listed buildings and heritage",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288",
+            "section 54A"
+          ]
+        },
+        {
+          "title": "Planning (Listed Buildings and Conservation Areas) Act 1990",
+          "provisions": [
+            "section 63"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Thompson sought planning permission and listed building consent to link two Grade II gatehouses at the Cannon Hall estate, Barnsley, into a single dwelling.",
+        "Council officers had recommended approval but the council refused after parish council objection; the inspector dismissed both appeals finding harm to listed buildings and landscape value.",
+        "The claimant renovated the unused South Lodge believing consent would be granted, creating an appearance of recent occupation.",
+        "The inspector treated the lodge as ancillary accommodation in active use, affecting the PPG15 balancing exercise."
+      ],
+      "procedural_posture": "Combined section 288 and section 63 challenges to an inspector's dismissal of linked planning and listed building appeals.",
+      "outcome": "Claims allowed; inspector's decisions quashed and matter remitted for fresh determination; claimant awarded £600 costs.",
+      "ratio": "Where an inspector materially misapprehended that a listed gatehouse was in recent active use when renovations were done in expectation of consent, and that error could have affected the PPG15 justification balancing exercise, the decision must be quashed even if the same outcome might have been reached on correct facts.",
+      "legal_issues": [
+        "Whether the inspector erred in finding the South Lodge was in use",
+        "Whether failure to call council officers prejudiced the informal hearing",
+        "Whether economic viability and PPG15 justification were adequately addressed",
+        "Whether planning judgment or error of law was involved"
+      ],
+      "catchwords": [
+        "listed building consent",
+        "planning appeal",
+        "gatehouses",
+        "PPG15",
+        "informal hearing",
+        "quashing order"
+      ],
+      "index_terms": [
+        "Cannon Hall estate",
+        "Cawthorne",
+        "Barnsley",
+        "Grade II listed",
+        "Dyason",
+        "section 288",
+        "economic viability"
+      ],
+      "linked_authorities": [
+        "Dyason v Secretary of State for the Environment [1998] 2 PLR 54"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Error-of-law basis for quashing and remittal is clearly explained at paragraphs 29-36."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1734.json",
+    "status": "needs_review",
+    "notes": "Incomplete judges metadata (only Astill J listed); otherwise complete sentence appeal judgment.",
+    "enrichment": {
+      "short_title": "Money laundering sentence reduced on appeal",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Money laundering",
+        "Proceeds of crime"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Naushad Yoonus pleaded guilty to two conspiracies to convert criminal 'street money' into dollars and euros through a Bayswater hotel bureau de change operated by co-defendant Lathiff.",
+        "Customs surveillance in 2002 observed large cash exchanges; hundreds of thousands of dollars were recovered.",
+        "He was sentenced to six and three years' concurrent imprisonment despite previous good character and limited financial gain of about £5,000.",
+        "The sentencing judge accepted he was not the main player and the source of funds was not proved to be serious crime."
+      ],
+      "procedural_posture": "Appeal against sentence with leave of the single judge.",
+      "outcome": "Appeal allowed in part; six-year term quashed and substituted with four years, concurrent with the three-year count.",
+      "ratio": "For a subordinate money-laundering role on the accepted basis that serious crime was not established, substantial sums notwithstanding, six years following a guilty plea was excessive when compared with similar authorities; insufficient credit had been given for plea and role.",
+      "legal_issues": [
+        "Whether six years was manifestly excessive for the appellant's role",
+        "Credit for guilty plea on re-arraignment",
+        "Sentencing where source of laundered funds was uncertain",
+        "Comparison with Everson and Basra"
+      ],
+      "catchwords": [
+        "money laundering",
+        "sentence appeal",
+        "bureau de change",
+        "conspiracy",
+        "guilty plea credit",
+        "street money"
+      ],
+      "index_terms": [
+        "Naushad Yoonus",
+        "Radnor Hotel",
+        "Lathiff",
+        "R v Everson",
+        "R v Basra",
+        "Customs and Excise",
+        "concurrent sentences"
+      ],
+      "linked_authorities": [
+        "R v Louis Everson and Others [2002] 1 Cr App R(S) 131",
+        "R v Singh Basra [2002] 2 Cr App R(S) 99"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Substituted sentence and sentencing basis are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1478.json",
+    "status": "needs_review",
+    "notes": "Corrupted judges metadata lists Lord Bingham; reserved judgment on identification/Code D summing-up issues.",
+    "enrichment": {
+      "short_title": "Violent disorder appeal on identification direction",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal procedure",
+        "Evidence",
+        "Identification evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78",
+            "Code D paragraph 2.14",
+            "Code D paragraph 2.15"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Simon Hassan was convicted of violent disorder after acquittal on three wounding-with-intent counts arising from a 2002 school-area fight between Bengali and Afghan youths.",
+        "Prosecution case relied on witnesses identifying him by a black Avirex jacket and Moschino jeans rather than facial recognition.",
+        "No identification parade was held despite his offer to participate; the trial judge admitted identification evidence under section 78 PACE.",
+        "The summing up addressed Code D breach at length but did not give a Turnbull direction."
+      ],
+      "procedural_posture": "Appeal against conviction by leave of the single judge on identification and summing-up grounds.",
+      "outcome": "Appeal dismissed; conviction not unsafe.",
+      "ratio": "No Turnbull direction was required where dispute concerned participation not visual identification and clothing-based recognition was central; although the Code D direction could have been shorter and clearer per Forbes, the jury were told a parade should have been held and how to treat the lost safeguard, and the summing-up did not misdirect on the real issue.",
+      "legal_issues": [
+        "Whether a Turnbull direction was required",
+        "Whether failure to hold an identification parade under Code D made the conviction unsafe",
+        "Proper form of Forbes direction on Code D breach in summing up",
+        "Whether the judge confused the jury by referring to paragraph 2.15 exceptions"
+      ],
+      "catchwords": [
+        "identification evidence",
+        "Code D",
+        "identification parade",
+        "Turnbull direction",
+        "violent disorder",
+        "PACE section 78"
+      ],
+      "index_terms": [
+        "Simon Hassan",
+        "Avirex jacket",
+        "Forbes",
+        "R v Gayle",
+        "R v Doldur",
+        "North Westminster Community School",
+        "clothing identification"
+      ],
+      "linked_authorities": [
+        "R v Forbes [2000] UKHL 66",
+        "R v Gayle [1999] 2 Cr App Rep 131",
+        "R v Doldur [2000] Crim LR 178",
+        "R v Quinn [1995] 1 Cr App R 480"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Court's conclusions on Turnbull and Code D are detailed; some trial procedural background required reserved judgment."
+      }
+    }
+  }
+]

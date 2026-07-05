@@ -1,0 +1,760 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1052.json",
+    "status": "done",
+    "notes": "Batch 58 enrichment",
+    "enrichment": {
+      "short_title": "Section 37 hospital order quashed after psychiatric dispute",
+      "area_of_law": [
+        "Mental health law",
+        "Criminal sentencing",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 37",
+            "section 41",
+            "section 43"
+          ]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 9",
+            "section 10"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The applicant pleaded guilty to assault occasioning actual bodily harm after attacking a visitor with a hammer.",
+        "He was committed for sentence and the Crown Court judge imposed a section 37 hospital order under the Mental Health Act 1983.",
+        "Four consultant psychiatrists gave sharply conflicting evidence on whether he suffered mental illness warranting detention.",
+        "The Court of Appeal (Criminal Division) held it lacked jurisdiction to hear the sentence appeal and the court reconstituted as a Divisional Court to review the Crown Court decision.",
+        "The court preferred defence psychiatrists, quashed the section 37 order, and remitted the case for resentencing."
+      ],
+      "procedural_posture": "Sentence appeal to the Court of Appeal (Criminal Division), reconstituted as a Divisional Court by way of deemed judicial review of the Crown Court hospital order.",
+      "outcome": "Section 37 hospital order quashed; case remitted to the Crown Court for resentencing; bail granted with residence condition.",
+      "ratio": "Where psychiatric evidence is sharply divided, a sentencing judge must explain why preferred medical evidence is accepted and conflicting expert evidence rejected; a section 37 order cannot stand without sufficient evidence of mental illness of the nature or degree requiring hospital detention, and psychiatrists should not rely on unreliable hearsay from victims when diagnosing detainability.",
+      "legal_issues": [
+        "Jurisdiction of the Court of Appeal to hear appeals against section 37 hospital orders",
+        "Proper approach to conflicting psychiatric evidence on sentencing",
+        "Admissibility and weight of hearsay relied on by treating psychiatrists",
+        "Whether hospital detention was justified under section 37"
+      ],
+      "catchwords": [
+        "section 37",
+        "hospital order",
+        "mental illness",
+        "psychiatric evidence",
+        "judicial review",
+        "sentencing appeal",
+        "Criminal Appeal Act 1968"
+      ],
+      "index_terms": [
+        "K v Harrow Crown Court",
+        "Mental Health Act 1983",
+        "Crown Court",
+        "Divisional Court",
+        "assault ABH",
+        "psychiatrist expert evidence"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long, detailed judgment with clear outcome and reasoning on jurisdiction, medical evidence, and quashing of the hospital order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/costs/2003/9010.json",
+    "status": "done",
+    "notes": "Batch 58 enrichment",
+    "enrichment": {
+      "short_title": "Non-practising barrister litigant limited to £9.25 hourly rate",
+      "area_of_law": [
+        "Costs law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 48.6"
+          ]
+        },
+        {
+          "title": "Rules of the Supreme Court Order 62",
+          "provisions": [
+            "rule 18"
+          ]
+        },
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Steinberg, a non-practising English barrister and New York attorney, acted as litigant in person in defamation proceedings.",
+        "After setting aside a default judgment, he sought detailed assessment of one third of his costs at an hourly rate of US $475.",
+        "Costs Officer Lambert assessed costs at the litigant-in-person rate of £9.25 per hour because financial loss was not proved.",
+        "On appeal out of time, the Costs Judge held a non-practising barrister is not equated with a practising solicitor for Chorley purposes and refused to extend the law."
+      ],
+      "procedural_posture": "Appeal to a Costs Judge from a costs officer's detailed assessment, with permission granted to appeal out of time.",
+      "outcome": "Appeal dismissed; assessed recoverable costs remained at the litigant-in-person rate absent proof of financial loss.",
+      "ratio": "A barrister litigant in person who is not a practising barrister cannot simply certify a professional hourly rate equivalent to a practising solicitor under the Chorley principle; under CPR 48.6 he must prove actual financial loss item by item or recover only the prescribed litigant-in-person rate.",
+      "legal_issues": [
+        "Whether a non-practising barrister litigant in person may recover professional hourly rates",
+        "Application of Malkinson v Trim and Khan v Lord Chancellor to civil costs assessment",
+        "Burden of proving pecuniary loss under CPR 48.6 and RSC Order 62 rule 18",
+        "Distinction between barristers and practising solicitors as litigants in person"
+      ],
+      "catchwords": [
+        "litigant in person",
+        "costs assessment",
+        "CPR 48.6",
+        "hourly rate",
+        "financial loss",
+        "barrister",
+        "Chorley principle"
+      ],
+      "index_terms": [
+        "Pritchard Englefield",
+        "Steinberg",
+        "detailed assessment",
+        "Costs Officer Lambert",
+        "Malkinson v Trim",
+        "Mainwaring v Goldtech"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Malkinson v Trim",
+          "citation": "[2003] 1 WLR 463",
+          "relation": "discussed"
+        },
+        {
+          "name": "London Scottish Benefits Society v Chorley, Crawford & Chester",
+          "citation": null,
+          "relation": "discussed"
+        },
+        {
+          "name": "Mainwaring v Goldtech Investments",
+          "citation": "[1997] 1 All ER 467",
+          "relation": "applied"
+        },
+        {
+          "name": "Khan v Lord Chancellor",
+          "citation": null,
+          "relation": "distinguished"
+        },
+        {
+          "name": "Bailey v IBC Vehicles",
+          "citation": "[1998] 3 All ER 570",
+          "relation": "cited"
+        },
+        {
+          "name": "Stockinger v Highdorn Ltd",
+          "citation": null,
+          "relation": "discussed"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed costs judgment with extensive authority analysis and a clear conclusion on rate and proof of loss."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/401.json",
+    "status": "done",
+    "notes": "Batch 58 enrichment",
+    "enrichment": {
+      "short_title": "WWF licensee not liable for contempt over embedded game logos",
+      "area_of_law": [
+        "Intellectual property",
+        "Contempt of court",
+        "Contract law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "WWF obtained an injunction restraining World Wrestling Federation Entertainment from using WWF initials worldwide.",
+        "THQ, a video-game licensee, sought a declaration that continuing to sell games with the WWF scratch logo embedded in code would not breach the injunction or constitute contempt.",
+        "Jacob J refused relief; THQ appealed while the Federation intervened.",
+        "The Court of Appeal held the Federation was not absolutely liable for independent licensee acts and THQ would not aid and abet contempt."
+      ],
+      "procedural_posture": "Appeal from Jacob J's refusal of declaratory relief and a stay in proceedings between WWF and the Federation, with the Federation permitted to intervene.",
+      "outcome": "Appeal allowed; THQ entitled to a suitably drafted negative declaration protecting it from contempt liability on the facts found.",
+      "ratio": "An injunction against a licensor does not impose absolute liability for independent pre-injunction acts of an arm's-length licensee; a third party does not aid and abet contempt merely by exercising contractual rights, and continuing embedded logo use in existing games does not necessarily frustrate administration of justice where the Federation has directed discontinuance and the licensee has complied so far as practicable.",
+      "legal_issues": [
+        "Whether the Federation bore absolute liability for licensee use of WWF marks",
+        "Construction of clause J(2) of the 1998 licence agreement",
+        "Third-party liability for aiding and abetting contempt",
+        "Whether THQ's conduct would deliberately frustrate the injunction",
+        "Discretion to stay the injunction as regards THQ"
+      ],
+      "catchwords": [
+        "injunction",
+        "contempt of court",
+        "trade mark",
+        "licence",
+        "aiding and abetting",
+        "video games",
+        "WWF",
+        "third party"
+      ],
+      "index_terms": [
+        "World Wide Fund for Nature",
+        "World Wrestling Federation Entertainment",
+        "THQ",
+        "scratch logo",
+        "1994 Agreement",
+        "1998 licence",
+        "Attorney General v Punch"
+      ],
+      "linked_authorities": [
+        {
+          "name": "WWF & Anor v World Wrestling Federation Entertainment Inc",
+          "citation": "[2002] EWCA Civ 196",
+          "relation": "applied"
+        },
+        {
+          "name": "Marengo v Daily Sketch",
+          "citation": "[1948] 1 All ER 406",
+          "relation": "applied"
+        },
+        {
+          "name": "Director General of Fair Trading v Pioneer Concrete UK Ltd",
+          "citation": "[1995] 1 AC 456",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Hone v Page",
+          "citation": "[1980] FSR 501",
+          "relation": "applied"
+        },
+        {
+          "name": "Attorney General v Punch Ltd",
+          "citation": "[2003] 2 WLR 49",
+          "relation": "applied"
+        },
+        {
+          "name": "Attorney General v Times Newspapers",
+          "citation": "[1992] 1 AC 191",
+          "relation": "discussed"
+        },
+        {
+          "name": "Miller v Jackson",
+          "citation": "[1977] 1 QB 966",
+          "relation": "discussed"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with detailed reasoning on contempt, licence construction, and discretion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/641.json",
+    "status": "done",
+    "notes": "Batch 58 enrichment",
+    "enrichment": {
+      "short_title": "Time charterers cannot limit liability to shipowners under 1976 Convention",
+      "area_of_law": [
+        "Maritime law",
+        "Arbitration"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Merchant Shipping Act 1995",
+          "provisions": [
+            "section 185"
+          ]
+        },
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 69"
+          ]
+        },
+        {
+          "title": "Convention on Limitation of Liability for Maritime Claims 1976",
+          "provisions": [
+            "Article 1",
+            "Article 2",
+            "Article 9",
+            "Article 11"
+          ]
+        },
+        {
+          "title": "Vienna Convention on the Law of Treaties 1969",
+          "provisions": [
+            "Article 31",
+            "Article 32"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Owners chartered CMA Djakarta to time charterers under an amended NYPE charterparty.",
+        "An explosion and fire on board caused massive owner claims alleging shipment of dangerous bleaching powder in breach of the charter.",
+        "Arbitrators found for owners; charterers sought to limit liability under the 1976 Convention.",
+        "David Steel J dismissed the section 69 appeal, holding time charterers cannot limit owners' direct claims against them."
+      ],
+      "procedural_posture": "Appeal on a point of law under section 69 of the Arbitration Act 1996 against an interim final arbitration award on limitation of liability.",
+      "outcome": "Appeal dismissed; charterers not entitled to limit liability to owners under the 1976 Convention on these facts.",
+      "ratio": "Under the 1976 Convention a charterer may limit only when liability arises qua shipowner in connection with operation of the ship; owners' direct claims for vessel damage and recourse for cargo losses against time charterers fall outside Article 2 and are inconsistent with the single-fund structure shared by persons categorised as shipowners.",
+      "legal_issues": [
+        "Whether time charterers are shipowners entitled to limit under Article 1(2)",
+        "Whether damage to the chartered vessel is a limitable claim under Article 2",
+        "Interaction of single-fund provisions with cross-claims between owner and charterer",
+        "Correct interpretation of charterer in light of The Aegean Sea"
+      ],
+      "catchwords": [
+        "limitation of liability",
+        "1976 Convention",
+        "time charterer",
+        "dangerous cargo",
+        "arbitration appeal",
+        "section 69",
+        "shipowner"
+      ],
+      "index_terms": [
+        "CMA CGM",
+        "Classica Shipping",
+        "CMA Djakarta",
+        "The Aegean Sea",
+        "NYPE charterparty",
+        "maritime claims"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Aegean Sea",
+          "citation": "[1998] 2 Lloyd's Rep 39",
+          "relation": "applied"
+        },
+        {
+          "name": "Fothergill v Monarch Airlines",
+          "citation": "[1981] AC 251",
+          "relation": "applied"
+        },
+        {
+          "name": "The Tychy",
+          "citation": "[1999] 2 Lloyd's Rep 11",
+          "relation": "discussed"
+        },
+        {
+          "name": "The Giancinto Motta",
+          "citation": "[1977] 2 Lloyd's Rep 221",
+          "relation": "cited"
+        },
+        {
+          "name": "The Leerort",
+          "citation": "[2001] 2 Lloyd's Rep 291",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Comprehensive commercial court judgment confirming established limitation principles from The Aegean Sea."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1001.json",
+    "status": "done",
+    "notes": "Batch 58 enrichment",
+    "enrichment": {
+      "short_title": "Unsafe robbery conviction after unreliable facial imaging expert",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Appeals"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The appellant was convicted of armed robbery at Lloyds Bank in Greenwich based partly on fingerprint evidence, CCTV comparison, and expert facial imaging evidence.",
+        "After trial, CPS disclosed that expert Michael Harrow had given unreliable identification evidence in other cases.",
+        "The Crown conceded it would not have called Harrow had the material been known at trial.",
+        "The Court of Appeal held the conviction unsafe under Pendleton and ordered a retrial."
+      ],
+      "procedural_posture": "Appeal against conviction to the Court of Appeal (Criminal Division) following grant of leave by the single judge.",
+      "outcome": "Appeal allowed; convictions quashed; fresh indictment ordered with retrial within two months; defendant's costs order for solicitors' work.",
+      "ratio": "Where unreliable expert facial-mapping evidence was an important plank of the prosecution case, the conviction is unsafe if the jury might reasonably have acquitted had that evidence not been heard; absent objective databases or formulae, facial imaging experts should describe features for the jury but not express subjective probability opinions on identity.",
+      "legal_issues": [
+        "Whether conviction was unsafe after disclosure of expert unreliability",
+        "Application of the Pendleton test",
+        "Admissibility and limits of facial imaging expert opinion",
+        "Weight of fingerprint evidence from pre-offence handling of object in getaway car"
+      ],
+      "catchwords": [
+        "unsafe conviction",
+        "facial imaging",
+        "expert evidence",
+        "robbery",
+        "CCTV identification",
+        "Pendleton",
+        "retrial"
+      ],
+      "index_terms": [
+        "R v Gray",
+        "Michael Harrow",
+        "Lloyds Bank Greenwich",
+        "Stubbs",
+        "Attorney General's Reference No 2 of 2002",
+        "fingerprint evidence"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Pendleton",
+          "citation": "[2002] 1 WLR 72",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Stubbs",
+          "citation": "[2002] EWCA Crim 2254",
+          "relation": "discussed"
+        },
+        {
+          "name": "Attorney General's Reference No 2 of 2002",
+          "citation": "[2002] EWCA Crim 2373",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear unsafe-conviction reasoning with general guidance on facial imaging evidence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/524.json",
+    "status": "done",
+    "notes": "Batch 58 enrichment",
+    "enrichment": {
+      "short_title": "Patent action costs: Kirin-Amgen pays 10% of TKT costs",
+      "area_of_law": [
+        "Intellectual property",
+        "Costs law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 44.3",
+            "rule 1.1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Following a long patent dispute, the Court of Appeal held Kirin-Amgen's patent was not infringed by TKT but upheld validity on the issues argued on appeal.",
+        "At first instance the judge had found partial invalidity requiring amendment and infringement.",
+        "The only remaining issue was costs of proceedings before the judge and on appeal.",
+        "Aldous LJ ordered Kirin-Amgen to pay 10% of TKT's costs in all proceedings to reflect overall outcome and avoid disproportionate assessment."
+      ],
+      "procedural_posture": "Costs judgment in the Court of Appeal following substantive patent infringement and validity appeal.",
+      "outcome": "Kirin-Amgen ordered to pay 10% of TKT's costs in all proceedings, including amendment proceedings, at first instance and on appeal.",
+      "ratio": "In patent actions the successful non-infringing defendant who achieved its objective may recover general costs including infringement issues, while the patentee may recover costs only on distinct validity issues it won that were unnecessary to the infringement result; a proportionate percentage order may properly reflect mixed outcomes and avoid costly issue-by-issue assessment.",
+      "legal_issues": [
+        "Whether TKT was entitled to general costs as overall winner",
+        "Issue-based costs for validity arguments pleaded as squeezes",
+        "Costs of claims 19 and 20 validity sub-issues",
+        "Proportionate percentage costs order under CPR 1.1"
+      ],
+      "catchwords": [
+        "patent costs",
+        "infringement",
+        "validity",
+        "costs follow the event",
+        "issue-based costs",
+        "proportionality",
+        "CPR 44.3"
+      ],
+      "index_terms": [
+        "Kirin-Amgen",
+        "Hoechst Marion Roussel",
+        "TKT",
+        "epoetin patent",
+        "patent amendment",
+        "costs assessment"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Focused costs judgment with clear percentage order and reasoning on patent litigation cost principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/792.json",
+    "status": "done",
+    "notes": "Batch 58 enrichment",
+    "enrichment": {
+      "short_title": "Redruth Fairfield housing appeal quashed for planning errors",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288",
+            "section 54A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Kingsley Ventures appealed deemed refusal of outline planning permission for 48 dwellings on Fairfield open space in Redruth.",
+        "The site had long hosted a Whitsun fair and tolerated informal recreational use on private land.",
+        "An inspector dismissed the appeal, relying on emerging local plan policy RL668 and treating structure plan policy H2 as protecting existing open space.",
+        "Collins J quashed the decision for misinterpreting H2, procedural unfairness on acquisition costs, and misapplied weight to the emerging plan."
+      ],
+      "procedural_posture": "Claim under section 288 of the Town and Country Planning Act 1990 challenging an inspector's dismissal of a planning appeal for non-determination.",
+      "outcome": "Claim succeeded; inspector's decision quashed and matter remitted for fresh consideration; claimants awarded costs; permission to appeal refused.",
+      "ratio": "Structure plan policy H2 requires open space within housing development rather than prohibiting development on existing open land, which is governed by recreation policy SR4; an inspector may not rely on a single unexplored answer on land acquisition without fairness where it is pivotal, and significant weight to a consultation-stage emerging plan conflicts with PPG1 guidance that refusal on prematurity grounds should seldom be justified.",
+      "legal_issues": [
+        "Construction of structure plan policies H2 and SR4",
+        "Definition of previously developed land under PPG3 Annex C",
+        "Procedural fairness when inspector raises acquisition-cost issue at inquiry",
+        "Weight to be given to emerging local plan policy RL668 under PPG1"
+      ],
+      "catchwords": [
+        "section 288",
+        "planning appeal",
+        "open space",
+        "housing development",
+        "emerging local plan",
+        "PPG3",
+        "PPG1",
+        "previously developed land"
+      ],
+      "index_terms": [
+        "Kingsley Ventures",
+        "Kerrier District Council",
+        "Fairfield Redruth",
+        "Urban Framework Plan",
+        "policy H2",
+        "policy RL668",
+        "Whitsun fair"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Austin v The First Secretary of State and Penwith District Council",
+          "citation": "[2003] EWHC 229 Admin",
+          "relation": "discussed"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed admin judgment with multiple sustained grounds for quashing the inspector's decision."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/599.json",
+    "status": "done",
+    "notes": "Batch 58 enrichment",
+    "enrichment": {
+      "short_title": "Goods vehicle operating centre appeal dismissed as not perverse",
+      "area_of_law": [
+        "Transport law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Goods Vehicles (Licensing of Operators) Act 1995",
+          "provisions": [
+            "section 12",
+            "section 13",
+            "section 21",
+            "section 37"
+          ]
+        },
+        {
+          "title": "Transport Act 1985",
+          "provisions": [
+            "Schedule 4 paragraph 40"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Paul Williams applied for a restricted operator's licence for two tipper lorries at Perry Farm, Lingfield.",
+        "Surrey County Council objected on highway safety grounds, citing substandard sight lines on the B2028 access.",
+        "The Traffic Commissioner approved the licence subject to conditions and undertakings limiting movements and vehicle size.",
+        "The Transport Tribunal upheld the decision; the Court of Appeal dismissed Surrey CC's perversity challenge on a point of law."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal on a point of law from the Transport Tribunal, which had upheld a Traffic Commissioner's grant of an operator's licence.",
+      "outcome": "Appeal dismissed; operator's licence approval upheld.",
+      "ratio": "Whether an operating centre is suitable for use under section 13(5) of the 1995 Act is a specialist discretionary judgment for the Traffic Commissioner and Transport Tribunal; Design Bulletin 32 sight-line guidance for new accesses need not be applied rigidly to established limited-use accesses, and successive expert findings will not be perverse merely because a highway authority disagrees.",
+      "legal_issues": [
+        "Suitability of operating centre under section 13(5)",
+        "Application of Design Bulletin 32 sight-line methodology",
+        "Whether conditions under section 21 implied unsuitability",
+        "Scope of perversity review on appeal from Transport Tribunal"
+      ],
+      "catchwords": [
+        "operator's licence",
+        "operating centre",
+        "Traffic Commissioner",
+        "Transport Tribunal",
+        "sight lines",
+        "Design Bulletin 32",
+        "perversity"
+      ],
+      "index_terms": [
+        "Surrey County Council",
+        "Garden Materials Landscaping",
+        "Perry Farm Lingfield",
+        "restricted operator licence",
+        "goods vehicles",
+        "B2028"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with clear specialist-deference reasoning and detailed factual findings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/763.json",
+    "status": "done",
+    "notes": "Batch 58 enrichment",
+    "enrichment": {
+      "short_title": "Highway oak tree liable for subsidence at Woodfield Road",
+      "area_of_law": [
+        "Tort",
+        "Property",
+        "Insurance"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Nos 54 and 56 Woodfield Road, Ealing suffered subsidence cracking in 1994-1996 from clay desiccation caused by tree roots.",
+        "A mature highway oak opposite no 50 and garden plum and cypress trees were competing causal candidates.",
+        "Boreholes showed severe desiccation to 4m with predominantly oak roots at 2-2.5m; monitoring after culling local vegetation implicated the oak alone.",
+        "The council was held liable in nuisance; damages of £55,246 plus £1,500 general damages per claimant were agreed."
+      ],
+      "procedural_posture": "Technology and Construction Court trial of liability for tree-root subsidence damage and allocation of repair costs between household and highway authority insurers.",
+      "outcome": "Defendant council liable in nuisance; agreed damages and general damages awarded to claimants.",
+      "ratio": "Where clay subsoil is heavily desiccated to depths only consistent with oak rooting, oak roots predominate at those depths, and crack monitoring shows similar movement after removal of nearer garden trees, the highway oak is the sole or predominant cause of subsidence notwithstanding anomalies in level survey evidence.",
+      "legal_issues": [
+        "Causation of subsidence between highway oak and garden trees",
+        "Interpretation of borehole, root sample and monitoring evidence",
+        "Effect of tree culling on crack cycles",
+        "Nuisance liability of highway authority for tree-root damage"
+      ],
+      "catchwords": [
+        "tree root subsidence",
+        "nuisance",
+        "clay desiccation",
+        "highway tree",
+        "subsidence damage",
+        "expert evidence",
+        "London Clay"
+      ],
+      "index_terms": [
+        "Malewski",
+        "London Borough of Ealing",
+        "Woodfield Road",
+        "Delaware Mansions",
+        "oak tree",
+        "party wall subsidence"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Delaware Mansions Ltd v Westminster City Council",
+          "citation": "[2001] 3 WLR 1019",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed TCC liability judgment with extensive expert evidence analysis and agreed quantum."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/667.json",
+    "status": "done",
+    "notes": "Batch 58 enrichment",
+    "enrichment": {
+      "short_title": "Rejected clothing imports: Aldgate not liable for freight or demurrage",
+      "area_of_law": [
+        "Maritime law",
+        "Contract law",
+        "Carriage of goods"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Evergreen carried clothing containers from Bangladesh and China for suppliers of Aldgate Warehouse under concessionary freight rates.",
+        "Aldgate rejected shipping documents for late shipment; bills of lading remained with sellers' banks and were never indorsed to Aldgate.",
+        "Containers stood at Thamesport for years accruing freight and demurrage while Evergreen eventually sold the goods.",
+        "Moore-Bick J held the special freight agreement did not create independent liability and Aldgate was not an original party to the bills of lading."
+      ],
+      "procedural_posture": "Commercial court trial of claim for freight and container demurrage against an importer who rejected documents under f.o.b. purchase contracts.",
+      "outcome": "Claim dismissed; Aldgate not liable for freight or demurrage on the rejected consignments.",
+      "ratio": "Concessionary freight telexes modified tariff rates for goods destined for Aldgate but did not impose independent freight liability absent bill-of-lading indorsement; under f.o.b. cash-against-documents or letter-of-credit sales the manufacturer shipper, not the buyer notify party, is the original contracting party with the carrier until the bill is transferred.",
+      "legal_issues": [
+        "Effect of special freight agreement on Aldgate's freight liability",
+        "Whether Aldgate was original party to contracts evidenced by bills of lading",
+        "Identity of shipper under f.o.b. purchase and letter of credit structures",
+        "Rates and timing of demurrage and Evergreen's power of sale"
+      ],
+      "catchwords": [
+        "freight",
+        "demurrage",
+        "bill of lading",
+        "f.o.b. contract",
+        "letter of credit",
+        "container liner",
+        "notify party",
+        "shipper"
+      ],
+      "index_terms": [
+        "Evergreen Marine Corporation",
+        "Aldgate Warehouse",
+        "Pierre Leon Ltd",
+        "Thamesport",
+        "Chittagong",
+        "Qingdao",
+        "special freight agreement"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Cho Yang Shipping Co Ltd v Coral (UK) Ltd",
+          "citation": "[1997] 2 Lloyd's Rep 641",
+          "relation": "applied"
+        },
+        {
+          "name": "Pyrene Co Ltd v Scindia Navigation Co Ltd",
+          "citation": "[1954] 2 QB 402",
+          "relation": "discussed"
+        },
+        {
+          "name": "Dickenson v Lano",
+          "citation": "(1860) 2 F & F 191",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed commercial court analysis of freight agreements and bill-of-lading party identity with clear dismissal of claim."
+      }
+    }
+  }
+]

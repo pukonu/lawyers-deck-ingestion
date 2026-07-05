@@ -1,0 +1,730 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/24.json",
+    "status": "done",
+    "notes": "Full judgment on CPR 3.9 relief from sanctions in shareholder/asset-stripping dispute; clear split outcome across defendants.",
+    "enrichment": {
+      "short_title": "Relief from sanctions refused for Gandhi defendants over inadequate disclosure of disputed loan documents",
+      "area_of_law": [
+        "Civil procedure",
+        "Disclosure",
+        "Company law",
+        "Commercial fraud"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 3.9", "overriding objective"]
+        }
+      ],
+      "key_facts": [
+        "Communications Technology Investments alleged that Mr Gandhi, Security First and Mr Pratt wrongly allotted shares, stripped assets from Defcom and Peapod companies, and fabricated loan documentation exhibited in statutory demand proceedings.",
+        "Mr Justice Neuberger imposed an unless order requiring full disclosure by 5 December 2003; Mishcon de Reya came off the record and the first to third defendants were unrepresented at that hearing.",
+        "The defendants served further disclosure but claimants maintained it was inadequate, especially as to computer equipment and back-up tapes relevant to authenticity of disputed emails and loan documents.",
+        "Mr Gandhi had retained servers personally in July 2003 pursuant to a Netsec order but failed to disclose or explain their contents in the sanctions application."
+      ],
+      "procedural_posture": "Application for relief from sanctions under CPR 3.9 following Neuberger J's unless order debarring defences; concurrent applications for default judgment and for authority to fund legal costs under freezing orders.",
+      "outcome": "Relief from sanctions refused for the first and second defendants; relief granted for the third defendant (Mr Pratt); application for declaration on litigation funding dismissed.",
+      "ratio": "Where a defendant has deliberately obfuscated disclosure of equipment on which disputed documents may have been created and has a history of non-compliance with disclosure orders, the court should refuse relief from sanctions under CPR 3.9 even though denial of relief causes serious prejudice; a co-defendant who has not materially failed in his own disclosure and whose position differs may still obtain relief.",
+      "legal_issues": [
+        "Whether the first to third defendants failed to comply with Neuberger J's unless order on disclosure",
+        "Whether relief from sanctions should be granted under CPR 3.9",
+        "Whether continuing failure to disclose computer servers and back-up tapes justified debarring defences",
+        "Whether the third defendant should be debarred vicariously for other defendants' disclosure failures"
+      ],
+      "catchwords": [
+        "relief from sanctions",
+        "unless order",
+        "standard disclosure",
+        "debarring defence",
+        "freezing order",
+        "document authenticity",
+        "asset stripping",
+        "CPR 3.9"
+      ],
+      "index_terms": [
+        "Communications Technology Investments",
+        "Gandhi",
+        "Security First",
+        "Defcom",
+        "Neuberger",
+        "Arrow Nominees v Blackledge",
+        "Woodhouse v Consignia",
+        "Hanson v Makin"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Woodhouse v Consignia",
+          "citation": "[2002] 1 WLR 2558"
+        },
+        {
+          "name": "Arrow Nominees v Blackledge",
+          "citation": "[2000] BCLC 167"
+        },
+        {
+          "name": "Hanson v Makin",
+          "citation": "[2003] EWCA Civ 1801"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long first-instance judgment with detailed procedural history and clear differentiated outcomes; judge not named in source metadata but judgment identifies Mr Justice Hart."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/29.json",
+    "status": "done",
+    "notes": "Court of Appeal dismissal of judicial review of IAT refusal to grant leave; EC citizen deportation after serious robbery conviction.",
+    "enrichment": {
+      "short_title": "German EC citizen's deportation upheld after 12-year sentence for conspiracy to rob Securicor van",
+      "area_of_law": [
+        "Immigration law",
+        "European Union law",
+        "Judicial review",
+        "Deportation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Act 2002",
+          "provisions": ["section 101(2)", "section 101(3)"]
+        }
+      ],
+      "key_facts": [
+        "Mr Schmelz, a German citizen with indefinite leave to remain since 1985, was convicted of conspiracy to rob an armoured Securicor van and sentenced to 12 years' imprisonment.",
+        "The Secretary of State sought deportation on public interest grounds; the adjudicator found the crime particularly serious and that low reoffending risk did not outweigh deportation.",
+        "The Immigration Appeal Tribunal refused leave to appeal; Sullivan J dismissed judicial review but granted leave to appeal to the Court of Appeal on proportionality grounds.",
+        "The court criticised the volume and preparation of the authorities bundle and the procedural route that led to multiple levels reviewing the adjudicator's merits decision."
+      ],
+      "procedural_posture": "Appeal with leave from Sullivan J's decision in judicial review proceedings challenging the IAT's refusal to grant leave to appeal the adjudicator's deportation determination.",
+      "outcome": "Appeal dismissed; deportation decision upheld; no order as to costs.",
+      "ratio": "Deportation of an EC citizen requires demonstration of a serious threat to fundamental interests of society relating to personal conduct; an exceptionally serious aggravated theft combined with threat of violence can fall within the Marchon category where past conduct itself justifies deportation notwithstanding low reoffending risk, and proportionality assessment leaves significant discretion to the adjudicator.",
+      "legal_issues": [
+        "Whether deportation of an EC citizen convicted of serious robbery was lawful under Community law",
+        "Whether the adjudicator erred in treating the 12-year sentence as justifying deportation",
+        "Whether a sufficient proportionality balancing exercise was conducted",
+        "Whether the IAT erred in law in refusing leave to appeal"
+      ],
+      "catchwords": [
+        "deportation",
+        "EC citizen",
+        "public interest",
+        "proportionality",
+        "serious criminal offence",
+        "conspiracy to rob",
+        "Immigration Appeal Tribunal",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Schmelz",
+        "Marchon v IAT",
+        "Sullivan J",
+        "HC395 paragraph 364",
+        "OGRS reconviction assessment",
+        "Practice Direction on citation of authorities"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Marchon v Immigration Appeal Tribunal",
+          "citation": "[1993] Imm AR 384"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with clear legal analysis; Buxton LJ's procedural observations are supplementary to the substantive dismissal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/41.json",
+    "status": "done",
+    "notes": "Housing succession appeal dismissed; legal tenancy vested in executrix under will following minor's equitable succession.",
+    "enrichment": {
+      "short_title": "Minor's equitable succession to secure tenancy — legal estate vested in aunt as executrix under mother's will",
+      "area_of_law": [
+        "Housing law",
+        "Land law",
+        "Succession",
+        "Trusts of land"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1985",
+          "provisions": ["section 87", "section 89", "Part IV"]
+        },
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": ["section 1(6)", "section 205(1)(ii)"]
+        },
+        {
+          "title": "Trusts of Land and Appointment of Trustees Act 1996",
+          "provisions": ["section 23(2)", "Schedule 1 paragraph 2"]
+        }
+      ],
+      "key_facts": [
+        "Khaleda Fancy Khanam held a secure tenancy of 22 Rawstone Walk; her 15-year-old daughter Sharmin Ria was qualified to succeed under section 87.",
+        "On the mother's death in February 2001, the tenancy vested in equity in Miss Ria under section 89 but a minor cannot hold a legal estate.",
+        "The mother's will appointed her sister Masuda Hossain as sole executrix and trustee for Miss Ria; the Council sought declarations as to who held the legal tenancy.",
+        "Miss Ria appealed the county court declaration that Mrs Hossain held the legal tenancy; the Council had served notice to quit but was not seeking possession."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (referred from the High Court) from Bow County Court declarations on succession to a secure tenancy by a minor.",
+      "outcome": "Appeal dismissed with costs; county court declarations affirmed; permission to appeal refused.",
+      "ratio": "Where a minor succeeds equitably to a secure tenancy under the Housing Act 1985, the common law and statutory schemes are complementary; the legal estate vests in the executrix appointed under the deceased tenant's will, supported by TOLATA 1996 Schedule 1 paragraph 2, and not in the landlord in trust or in suspension.",
+      "legal_issues": [
+        "In whom the legal estate in a secure tenancy vested when the equitable successor was a minor",
+        "Whether Part IV of the Housing Act 1985 displaced common law succession rules",
+        "Whether the landlord held the legal tenancy in trust for the minor",
+        "Application of Kingston-upon-Thames RBC v Prince and TOLATA 1996 to statutory succession"
+      ],
+      "catchwords": [
+        "secure tenancy succession",
+        "minor tenant",
+        "legal and equitable estate",
+        "section 89 Housing Act 1985",
+        "executrix",
+        "TOLATA 1996",
+        "housing benefit"
+      ],
+      "index_terms": [
+        "London Borough of Newham",
+        "Sharmin Ria",
+        "Masuda Hossain",
+        "Kingston-upon-Thames RBC v Prince",
+        "Rawstone Walk"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Kingston-upon-Thames RBC v Prince",
+          "citation": "(1998) 31 HLR 794"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Straightforward succession point with clear statutory analysis and authority; court criticised unnecessary litigation but legal holdings are unambiguous."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/9.json",
+    "status": "done",
+    "notes": "Landmark Chancery decision departing from Siebe Gorman; debenture in standard form held to create floating charge on book debts after Agnew.",
+    "enrichment": {
+      "short_title": "Siebe Gorman debenture creates floating not fixed charge on book debts following Agnew",
+      "area_of_law": [
+        "Insolvency law",
+        "Banking and finance",
+        "Security law",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": ["section 112"]
+        },
+        {
+          "title": "Council Directive 92/12/EEC",
+          "provisions": ["Article 3", "Article 6", "Article 15(3)", "Article 18", "Article 19", "Article 20"]
+        }
+      ],
+      "key_facts": [
+        "Spectrum Plus Ltd granted National Westminster Bank a standard-form debenture in Siebe Gorman form securing an overdraft; book debt proceeds were paid into the company's overdrawn current account.",
+        "Liquidators collected book debts but refused to account to the bank, holding hundreds of liquidations were pending resolution of whether Siebe Gorman was correctly decided.",
+        "Lord Millett in Agnew v Commissioner of Inland Revenue had cast doubt on whether the Siebe Gorman debenture created a fixed charge where the chargor could freely use proceeds.",
+        "The Crown conceded that if Siebe Gorman remained good law the bank's application must succeed; the Vice-Chancellor was convinced Slade J's decision was wrong."
+      ],
+      "procedural_posture": "Application under section 112 Insolvency Act 1986 for declaration that the debenture created a fixed charge over book debts and order that liquidators account to the bank.",
+      "outcome": "Application dismissed; debenture held to create a floating charge on book debts, not a fixed charge.",
+      "ratio": "Applying Agnew, a charge on book debts that permits the company to collect proceeds and use them freely through an ordinary current account without a blocked account is inconsistent with a fixed charge; the label 'specific charge' in the debenture must yield to the rights and obligations actually conferred, and Siebe Gorman was wrongly decided on this point.",
+      "legal_issues": [
+        "Whether a Siebe Gorman form debenture creates a fixed or floating charge over present and future book debts",
+        "Whether Slade J's decision in Siebe Gorman should be followed after Agnew",
+        "Distinction between fixed and floating charges where proceeds are paid into an overdrawn account",
+        "Whether judicial comity requires following a co-ordinate first-instance decision on a point of general importance"
+      ],
+      "catchwords": [
+        "fixed charge",
+        "floating charge",
+        "book debts",
+        "debenture",
+        "Siebe Gorman",
+        "Agnew",
+        "crystallisation",
+        "overdraft facility"
+      ],
+      "index_terms": [
+        "Spectrum Plus",
+        "National Westminster Bank",
+        "Slade J",
+        "Re Brightlife Ltd",
+        "Re Keenan Bros Ltd",
+        "Re Yorkshire Woolcombers",
+        "Illingworth v Houldsworth",
+        "Re New Bullas Trading Ltd"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Siebe Gorman & Co Ltd v Barclays Bank Ltd",
+          "citation": "[1979] 2 LlLR 142"
+        },
+        {
+          "name": "Agnew v Commissioner of Inland Revenue",
+          "citation": "[2001] 2 AC 710"
+        },
+        {
+          "name": "Re Brightlife Ltd",
+          "citation": "[1987] Ch 200"
+        },
+        {
+          "name": "Re Keenan Bros Ltd",
+          "citation": "[1986] BCLC 242"
+        },
+        {
+          "name": "Illingworth v Houldsworth",
+          "citation": "[1904] AC 355"
+        },
+        {
+          "name": "Re Yorkshire Woolcombers Association",
+          "citation": "[1903] 2 Ch 284"
+        },
+        {
+          "name": "Re New Bullas Trading Ltd",
+          "citation": "[1994] 1 BCLC 485"
+        },
+        {
+          "name": "Re: A Company, ex parte Copp",
+          "citation": "[1989] BCLC 13"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Extensive first-instance analysis with clear outcome; source judges metadata lists cited House of Lords members rather than the sitting Vice-Chancellor."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/16.json",
+    "status": "done",
+    "notes": "Court declined to hear DLA appeal on merits where Commissioner had limited opportunity to address school-based attention needs.",
+    "enrichment": {
+      "short_title": "Court of Appeal declines to hear DLA care component appeal lacking Commissioner-level argument",
+      "area_of_law": [
+        "Social security law",
+        "Disability benefits",
+        "Appellate procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Social Security Contributions and Benefits Act 1992",
+          "provisions": ["section 72(1)(b)", "section 72(2)", "section 72(6)(b)", "section 73"]
+        }
+      ],
+      "key_facts": [
+        "D, a partially sighted child born in 1994 with Leber's Optic Neuropathy, applied for disability living allowance care and mobility components in October 2001.",
+        "The Appeal Tribunal awarded the lower mobility rate but refused the care component; the Commissioner provisionally found school-based assistance with seeing could qualify as attention in connection with bodily functions.",
+        "The Secretary of State made only brief submissions to the Commissioner despite provisional directions; the Commissioner awarded middle-rate care component for two years.",
+        "Permission to appeal was granted on a narrow legal issue as to whether school measures constituted statutory 'attention'."
+      ],
+      "procedural_posture": "Appeal from Social Security Commissioner Turnbull's decision allowing appeal from the Appeal Tribunal and awarding middle-rate care component; court invited not to embark on merits.",
+      "outcome": "Appeal dismissed with costs; court declined to hear substantive challenge to Commissioner's decision.",
+      "ratio": "The Court of Appeal should take a modest approach on appeals from specialist social security tribunals and not embark on a root-and-branch attack on a Commissioner's decision where the issue was not clearly argued before the Commissioner despite ample warning, particularly in a highly specialised area with an independent two-tier appellate structure.",
+      "legal_issues": [
+        "Whether assistance at school for a visually impaired child constitutes 'attention in connection with bodily functions' for DLA care component",
+        "Whether the Commissioner erred in awarding middle-rate care component based on school-day attention needs",
+        "Whether the Court of Appeal should hear an appeal where the Commissioner granted permission on a limited basis",
+        "Appropriate appellate restraint in social security appeals following Cooke v Secretary of State"
+      ],
+      "catchwords": [
+        "disability living allowance",
+        "care component",
+        "attention in connection with bodily functions",
+        "visual impairment",
+        "Social Security Commissioner",
+        "appellate restraint",
+        "specialist tribunal"
+      ],
+      "index_terms": [
+        "Hughes",
+        "Leber's Optic Neuropathy",
+        "Mallinson",
+        "Farey",
+        "Cooke v Secretary of State",
+        "section 72 SSCBA 1992"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Cooke v Secretary of State for Social Security",
+          "citation": "[2001] EWCA Civ 734"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Procedural dismissal rather than merits determination; DLA legal principles referenced but court explicitly avoided deciding the attention issue on appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/18.json",
+    "status": "done",
+    "notes": "Winding-up and bankruptcy petitions adjourned where excise duty liability under Reg 7(2) bona fide disputed as incompatible with EU Directive.",
+    "enrichment": {
+      "short_title": "Excise diversion fraud petitions adjourned — Reg 7(2) joint liability disputed as contrary to EU Directive",
+      "area_of_law": [
+        "Insolvency law",
+        "Excise duty",
+        "European Union law",
+        "Tax law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Finance Act 1994",
+          "provisions": ["section 12(1A)"]
+        },
+        {
+          "title": "Excise Duty Points (Duty Suspended Movements of Excise Goods) Regulations 2001",
+          "provisions": ["Regulation 3", "Regulation 4", "Regulation 7(1)", "Regulation 7(2)"]
+        },
+        {
+          "title": "Council Directive 92/12/EEC",
+          "provisions": ["Article 15(3)", "Article 20"]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": ["section 268(1)(b)"]
+        },
+        {
+          "title": "Finance (No. 2) Act 1992",
+          "provisions": ["section 1(4)"]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Jack Baars Wholesale traded spirits through bonded warehouses; in 2002 it purportedly sold 42 consignments to French and Spanish customers but Customs alleged an excise diversion fraud with forged AADs.",
+        "Seabrook and Smith Ltd was guarantor on the movements; Customs assessed approximately £1.4m excise duty and notified JBW of joint and several liability under Regulation 7(2).",
+        "Customs presented winding-up and bankruptcy petitions totalling over £1.6m without judgment or statutory demand on the partnership; appeals to the VAT and Duties Tribunal had been pending over a year.",
+        "Mr Baars denied fraud and argued Regulation 7(2) imposing liability on non-guarantors who 'cause' an excise duty point is incompatible with the exhaustive EU guarantee scheme."
+      ],
+      "procedural_posture": "Winding-up petition against insolvent partnership and bankruptcy petitions against partners; applications to set aside statutory demands; hearing on whether debts were bona fide disputed on substantial grounds.",
+      "outcome": "Winding-up and bankruptcy orders not made; all five matters adjourned generally pending VAT and Duties Tribunal appeals; Provisional Liquidator, Interim Receiver and Special Manager remained in office.",
+      "ratio": "Where excise duty liability under Regulation 7(2) is bona fide disputed on substantial grounds as incompatible with the EU Directive's exhaustive guarantor-based civil liability scheme, insolvency petitions should be adjourned rather than determined ahead of the Tribunal; causation of an excise duty point under Reg 4 may impose liability even on uncomplicit traders, raising a genuine triable issue.",
+      "legal_issues": [
+        "Whether Regulation 7(2) of the 2001 Regulations is compatible with Council Directive 92/12/EEC",
+        "Whether JBW and the Baars were jointly and severally liable for lost excise duty as persons who caused an excise duty point",
+        "Whether the petition debts were bona fide disputed on substantial grounds warranting adjournment",
+        "Whether winding-up or bankruptcy petitions could proceed without judgment or while Tribunal appeals were pending"
+      ],
+      "catchwords": [
+        "excise duty",
+        "duty suspended movement",
+        "excise diversion fraud",
+        "joint and several liability",
+        "winding up petition",
+        "bankruptcy petition",
+        "bona fide dispute",
+        "AAD"
+      ],
+      "index_terms": [
+        "Jack Baars Wholesale",
+        "Seabrook and Smith",
+        "M.T. Manut",
+        "LAD",
+        "Honig v Stadt Stadig",
+        "G van de Water",
+        "Everard v Society of Lloyds",
+        "In re Arena Corporation"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Turner v Royal Bank of Scotland",
+          "citation": "[2000] BPIR 683"
+        },
+        {
+          "name": "Everard and Ors v Society of Lloyds",
+          "citation": "[2003] EWHC 1890 (Ch)"
+        },
+        {
+          "name": "Honig v Stadt Stadig",
+          "citation": "Case C-128/94"
+        },
+        {
+          "name": "G van de Water v Staatssecretaris van Financien",
+          "citation": "Case C-325/99"
+        },
+        {
+          "name": "In re The Arena Corporation",
+          "citation": "[2003] EWHC 3032 (Ch)"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long judgment with detailed EU law and insolvency analysis; factual fraud allegations not finally determined; adjournment outcome clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/20.json",
+    "status": "done",
+    "notes": "Follow-up to winding-up petitions; declarations sought that 2004 quota licence operations would not breach undertaking refused.",
+    "enrichment": {
+      "short_title": "Quota import licence scheme — BDT still controlled quota companies applying for 2004 licences",
+      "area_of_law": [
+        "Company law",
+        "Trade regulation",
+        "European Union law",
+        "Insolvency law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Council Regulation (EEC) No 2454/1993",
+          "provisions": ["Article 143.1(f)"]
+        },
+        {
+          "title": "Council Regulation (EC) No 1394/2001",
+          "provisions": ["Article 2.3(b)"]
+        }
+      ],
+      "key_facts": [
+        "Bell Davies Trading and KTA operated a scheme using numerous 'quota companies' to circumvent EC import quotas on ceramics and footwear from China.",
+        "On 19 December 2003 the court found 2001–2002 licences were unlawfully obtained because quota companies were controlled by BDT; winding up was avoided on an undertaking not to manage unlawfully obtained licences.",
+        "BDT and KTA sought declarations that their proposed 2004 operations would not breach the undertaking; they claimed 2003 recruitment methods differed from earlier years.",
+        "Of 2,124 quota companies applying for 2004 licences, 1,061 were existing clients and 1,063 were new; evidence showed continuing BDT control at time of application."
+      ],
+      "procedural_posture": "Applications for declarations following winding-up petitions adjourned on undertaking; court determining whether proposed 2004 quota licence management would breach the undertaking.",
+      "outcome": "Applications dismissed; declarations refused; quota companies applying for 2004 licences were controlled by BDT at time of application.",
+      "ratio": "Where related persons are prohibited from making more than one import licence application per category, control of quota companies by the scheme operator at the time of application is a factual question; existing quota company clients who had participated in prior years remained controlled by BDT absent material change, and inadequate evidence was provided as to new clients.",
+      "legal_issues": [
+        "Whether quota companies applying for 2004 import licences were controlled by BDT within Article 143.1(f) of Regulation 2454/1993",
+        "Whether proposed 2004 licence management would breach the undertaking given to avoid winding up",
+        "Whether changed recruitment methods in 2003 negated control of existing and new quota companies"
+      ],
+      "catchwords": [
+        "import licence quota",
+        "related persons",
+        "quota companies",
+        "EC trade regulation",
+        "winding up undertaking",
+        "ceramics and footwear imports",
+        "China quotas"
+      ],
+      "index_terms": [
+        "Bell Davies Trading",
+        "KTA Limited",
+        "Secretary of State for Trade and Industry",
+        "Regulation 2454/1993",
+        "Regulation 1394/2001"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Supplemental judgment following December 2003 main decision; factual control findings clearly stated though some prior context assumed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/8.json",
+    "status": "done",
+    "notes": "Section 69 Arbitration Act appeal dismissed; arbitrator correctly found piecemeal agreement of phase 2 variation rates under AI 51.",
+    "enrichment": {
+      "short_title": "Phase 2 JCT variation rates agreed piecemeal under architect's instruction 51 — no restitutionary claim",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Arbitration"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": ["section 57(3)(a)", "section 69(2)(a)"]
+        },
+        {
+          "title": "Arbitration Act 1979",
+          "provisions": ["section 1(3)(a)", "section 2(1)(b)"]
+        }
+      ],
+      "key_facts": [
+        "Hallamshire Construction carried out phase 1 refurbishment of South Holland Centre under a 1980 JCT local authorities contract; phase 2 fit-out was added by architect's instruction AI 51 on 16 July 1997.",
+        "AI 51 instructed phase 2 work on revised bills and drawings with completion date 30 November 1997 and costs 'agreed at fair and reasonable costs by Jackson Coles'.",
+        "The contractor submitted priced Bill A; Jackson Coles returned revised Bill B in November 1997 with negotiated rate changes; mark-up of 7.5% was ultimately agreed by conduct when the final account was issued.",
+        "The contractor contended no contract was formed and it was entitled to restitutionary cost-plus payment because bills had to be agreed as a composite whole."
+      ],
+      "procedural_posture": "Appeal under section 69 Arbitration Act 1996 (by consent under JCT clause 41) from arbitrator's first interim award on preliminary issues as to agreement of phase 2 bills of quantities.",
+      "outcome": "Appeal dismissed; arbitrator's award confirmed that AI 51 had contractual effect and all phase 2 rates and prices were agreed.",
+      "ratio": "An architect's instruction negotiated as a variation to an existing JCT contract can have immediate contractual effect; where it provides for costs to be agreed by the quantity surveyor at fair and reasonable costs through revision of bills, agreement may be reached piecemeal on individual work items and rates rather than only by acceptance of a complete priced package as a single offer.",
+      "legal_issues": [
+        "Whether AI 51 had contractual effect as a variation under the existing JCT contract",
+        "Whether phase 2 rates required agreement of an entire priced bills package or could be agreed piecemeal",
+        "Whether absence of formal acceptance of Bill B meant no agreement on rates",
+        "Whether the contractor was entitled to restitutionary remuneration absent a concluded contract"
+      ],
+      "catchwords": [
+        "JCT contract",
+        "architect's instruction",
+        "variation",
+        "bills of quantities",
+        "offer and acceptance",
+        "construction arbitration",
+        "fair and reasonable costs",
+        "section 69 appeal"
+      ],
+      "index_terms": [
+        "Hallamshire Construction",
+        "South Holland District Council",
+        "AI 51",
+        "Jackson Coles",
+        "Sansone Hall",
+        "Bill A",
+        "Bill B",
+        "Panatown Ltd v Alfred McAlpine"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Panatown Ltd v Alfred McAlpine Ltd",
+          "citation": "58 Con LR 46"
+        },
+        {
+          "name": "Taylor Woodrow Civil Engineering Ltd v Hutchinson Development Ltd",
+          "citation": "(1999) ADRLJ 83"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed TCC judgment on agreed preliminary issues with clear contract formation analysis; arbitrator's factual findings treated as unappealable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/70.json",
+    "status": "done",
+    "notes": "Judicial review allowed; adjudicator erred in applying Turkish country conditions to Kurdish claimant's risk on return.",
+    "enrichment": {
+      "short_title": "Turkish Kurdish asylum claimant — adjudicator erred on risk of detention record on return after Hayser",
+      "area_of_law": [
+        "Immigration law",
+        "Asylum and human rights",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Bozkurt, a Turkish citizen of Kurdish ethnicity, appealed asylum refusal; the special adjudicator accepted he was beaten by police in 1986 and 1997 and attended his cousin Celal Alpay's funeral where Alpay, a TKPML member, had died in prison.",
+        "The adjudicator found the core persecution account lacked credibility but accepted objective evidence that returnees are checked against central records and suspects may face Anti-Terror Branch interrogation.",
+        "In paragraph 46 the adjudicator concluded authorities would not have a record on the claimant or wish to detain him, which the claimant argued ignored accepted country evidence.",
+        "The IAT refused permission to appeal; judicial review was granted on arguable Hayser-based submissions."
+      ],
+      "procedural_posture": "Judicial review of the Immigration Appeal Tribunal's refusal to grant permission to appeal the special adjudicator's asylum dismissal.",
+      "outcome": "Judicial review application allowed; matter remitted to the tribunal; costs to claimant; permission to appeal granted to Secretary of State.",
+      "ratio": "Where an adjudicator accepts country assessment evidence that Turkey maintains centralised records, checks all returnees, and may interrogate those previously arrested, a conclusion that authorities would not have a record on a claimant with prior detentions and political funeral attendance is an error in applying general country conditions to the particular case, not merely a matter of weight.",
+      "legal_issues": [
+        "Whether the adjudicator erred in concluding no reasonable likelihood of detention or ill-treatment on return",
+        "Whether paragraph 46 was inconsistent with accepted objective country evidence in Hayser",
+        "Whether the IAT erred in refusing permission to appeal",
+        "Distinction between findings of fact and misapplication of country guidance to individual circumstances"
+      ],
+      "catchwords": [
+        "asylum",
+        "judicial review",
+        "Turkey",
+        "Kurdish",
+        "risk on return",
+        "country conditions",
+        "Hayser",
+        "Anti-Terror Branch"
+      ],
+      "index_terms": [
+        "Bozkurt",
+        "Celal Alpay",
+        "TKPML",
+        "Hayser v Secretary of State",
+        "Indrakumar",
+        "Tunceli"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hayser v Secretary of State for the Home Department",
+          "citation": "[2002] UKIAT 07083"
+        },
+        {
+          "name": "Indrakumar v Secretary of State for the Home Department",
+          "citation": "[2003] EWCA Civ 1677"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear judicial review judgment on application of Hayser country guidance; Beatson J granted permission to appeal on category (4)(b) Indrakumar principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/2.json",
+    "status": "needs_review",
+    "notes": "Very large foot-and-mouth contract adjudication; enrichment based on introductory findings and declared answers to preliminary issues; monetary award pending claim schedules.",
+    "enrichment": {
+      "short_title": "Foot and mouth cleanup contractor entitled to travelling time, meal breaks and aggregate claims at twelve sites",
+      "area_of_law": [
+        "Construction law",
+        "Public procurement",
+        "Contract interpretation",
+        "Employment costs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Working Time Regulations 1998",
+          "provisions": ["Regulation 12"]
+        }
+      ],
+      "key_facts": [
+        "JDM Accord claimed over £5m from DEFRA for disputed labour, plant and aggregate costs on foot and mouth disease cleanup work across the South West and Wales in 2001, having already received over £32m.",
+        "Disputes covered meal break charging, travelling time between overnight accommodation and sites, waiting time, plant operator rates, and aggregate quantity and quality at burial and cleanup sites.",
+        "Annex B 'base' for travelling time means the operative's working base on the day (home or temporary); travelling from B&B accommodation to site is recoverable including depot pick-up time.",
+        "At twelve sample sites the court found none of JDM's travelling time, meal break or aggregate claims irrecoverable; plant operators entitled to reasonable rate of £18.70 per hour plus uplifts."
+      ],
+      "procedural_posture": "Technology and Construction Court trial of preliminary contract issues and monetary claims arising from MAFF/DEFRA foot and mouth epidemic cleanup call-off contracts.",
+      "outcome": "JDM largely succeeded on contract issues at twelve sites; no monetary award made pending submission of claim schedules reflecting findings; DEFRA may recover overpayments in principle but not at the twelve sites in question.",
+      "ratio": "In DEFRA foot and mouth cleanup contracts, 'base' in Annex B means the operative's actual working base on the day; travelling time from overnight accommodation to site is chargeable, meal breaks and waiting time count towards chargeable hours where contract provisions require, and variation to scope implied reasonable payment for additional travelling time necessitated by epidemic-scale labour deployment.",
+      "legal_issues": [
+        "Meaning of 'base' in Annex B for travelling time calculations",
+        "Whether travelling time from B&B accommodation to site is recoverable under the contract or as a variation",
+        "Whether meal breaks and waiting time are chargeable hours",
+        "Whether aggregate quantities and Meldon Quarry quality claims were recoverable",
+        "What reasonable rate applies for plant operators"
+      ],
+      "catchwords": [
+        "foot and mouth disease",
+        "public sector contract",
+        "travelling time",
+        "meal breaks",
+        "waiting time",
+        "aggregate supply",
+        "call-off contract",
+        "Annex B base"
+      ],
+      "index_terms": [
+        "JDM Accord",
+        "DEFRA",
+        "MAFF",
+        "Meldon Quarry",
+        "Ashmoor",
+        "HH Judge Thornton QC",
+        "burial sites",
+        "rapid response teams"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.78,
+        "level": "medium",
+        "notes": "Judgment exceeds 260,000 characters; enrichment drawn from stated contract issue answers and conclusions; full site-specific monetary breakdown not verified across entire text."
+      }
+    }
+  }
+]

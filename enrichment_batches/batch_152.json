@@ -1,0 +1,806 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2737.json",
+    "status": "done",
+    "notes": "Complete Divisional Court case-stated judgment on handling stolen goods and magistrates' reasoning.",
+    "enrichment": {
+      "short_title": "Handling appeal: magistrates' inference of guilty knowledge not reversed by burden-of-proof complaint",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Magistrates' courts",
+        "Administrative law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Paul Camara appealed by case stated against a Milton Keynes magistrates' court conviction for receiving stolen goods jointly with his brother.",
+        "Police observed three men dragging a bulky object, signalling when vehicles approached; Camara was later found near a duvet cover containing stolen cigarettes and tobacco.",
+        "Magistrates inferred he knew the contents were stolen from concealment conduct; they also referred to his failure to call witnesses to explain his presence.",
+        "On appeal the original mens rea question was abandoned; the live issue was whether the magistrates reversed the burden of proof by treating failure to call evidence as relevant."
+      ],
+      "procedural_posture": "Appeal by way of case stated from magistrates' court to the Divisional Court.",
+      "outcome": "Appeal dismissed; the court answered 'no' to the magistrates' question and upheld the conviction.",
+      "ratio": "Where magistrates first infer guilty knowledge or belief from the defendant's conduct and evidence, a further reference to the absence of witness evidence to support an alternative explanation may fortify an already open conclusion and does not necessarily involve an impermissible reversal of the burden of proof.",
+      "legal_issues": [
+        "Whether magistrates erred in treating the appellant's failure to call witnesses as relevant to mens rea",
+        "Whether inference of guilty knowledge from concealment conduct and proximity to stolen goods was open on the evidence",
+        "Whether a change of ground on appeal was permissible where the respondent did not object"
+      ],
+      "catchwords": [
+        "handling stolen goods",
+        "mens rea",
+        "burden of proof",
+        "case stated",
+        "magistrates",
+        "inference of guilty knowledge",
+        "failure to call witnesses"
+      ],
+      "index_terms": [
+        "Camara",
+        "Milton Keynes Magistrates' Court",
+        "receiving stolen goods",
+        "Oldbrook Boulevard",
+        "Divisional Court"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment text; straightforward criminal appeal with clear outcome and ratio."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3357.json",
+    "status": "done",
+    "notes": "Full Court of Appeal judgment on late indictment amendment and defence disclosure duties.",
+    "enrichment": {
+      "short_title": "Advance-fee fraud trial: late statutory conspiracy count amendment held fair despite Nock ambush",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal procedure",
+        "Conspiracy",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Law Act 1977",
+          "provisions": [
+            "section 1(1)"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1967",
+          "provisions": []
+        },
+        {
+          "title": "Criminal Justice Act 1987",
+          "provisions": []
+        },
+        {
+          "title": "Criminal Procedure and Investigations Act 1996",
+          "provisions": [
+            "section 5(6)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "John Gleeson was convicted of conspiracy to obtain property by deception in an advance-fee fraud targeting Stefan Udovic with a fictitious $75 million transfer.",
+        "At the close of the prosecution case defence counsel successfully submitted no case to answer on common law conspiracy to defraud, relying on DPP v Nock because the victim had already involved the police.",
+        "The judge allowed the prosecution to amend the indictment to add statutory conspiracy; the jury continued and convicted without witnesses being recalled for further cross-examination.",
+        "Defence counsel acknowledged he had deliberately delayed raising the Nock point until the close of the prosecution case for tactical advantage and had not disclosed it at the plea and directions hearing or in the defence statement."
+      ],
+      "procedural_posture": "Appeal against conviction by leave of the full Court of Appeal after refusal by the single judge.",
+      "outcome": "Appeal dismissed; conviction held safe despite late amendment and continuation before the same jury.",
+      "ratio": "A defendant is not unfairly prejudiced where an indictment is amended at the close of the prosecution case if the amended count rests on the same factual case already opened and the judge offers recall of witnesses for cross-examination; defence counsel who deliberately withhold a determinative legal challenge until the last moment, in breach of disclosure obligations under the CPIA 1996 and Practice Directions, cannot complain that justice required discharge of the jury or a fresh trial.",
+      "legal_issues": [
+        "Whether the judge erred in permitting amendment of the indictment after a successful submission of no case to answer",
+        "Whether continuing the trial before the same jury was unfair",
+        "Whether the judge should have discharged the jury and ordered a fresh trial",
+        "The duties of defence counsel to identify anticipated points of law before trial under the CPIA 1996 and plea and directions procedures"
+      ],
+      "catchwords": [
+        "indictment amendment",
+        "no case to answer",
+        "conspiracy to defraud",
+        "conspiracy to obtain by deception",
+        "DPP v Nock",
+        "R v O'Connor",
+        "defence statement",
+        "fair trial",
+        "advance fee fraud"
+      ],
+      "index_terms": [
+        "Gleeson",
+        "Southwark Crown Court",
+        "advance fee fraud",
+        "Nock",
+        "CPIA 1996",
+        "plea and directions hearing"
+      ],
+      "linked_authorities": [
+        {
+          "name": "DPP v Nock",
+          "citation": "[1978] AC 729",
+          "role": "applied"
+        },
+        {
+          "name": "R v O'Connor",
+          "citation": "[1997] Crim LR 516",
+          "role": "distinguished"
+        },
+        {
+          "name": "R v Bennett and Others",
+          "citation": "(1978) 68 Cr App R 168",
+          "role": "considered"
+        },
+        {
+          "name": "Adams v Regina",
+          "citation": "[1995] 2 Cr App R 295",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete reserved judgment with detailed procedural history and clear holdings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2342.json",
+    "status": "done",
+    "notes": "Full High Court appeal judgment under the Medical Act 1983 against erasure from the register.",
+    "enrichment": {
+      "short_title": "GMC erasure appeal dismissed where doctor falsely reported neglect to German Embassy",
+      "area_of_law": [
+        "Medical law",
+        "Professional discipline",
+        "Administrative law",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Medical Act 1983",
+          "provisions": [
+            "section 40(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Umapati Biswas appealed against a GMC Professional Conduct Committee decision finding serious professional misconduct and ordering erasure from the Medical Register.",
+        "The appeal focused on charges relating to patient Mrs FG and her baby M after a consultation on 1 January 2001 at Dulwich Hospital.",
+        "Mrs FG alleged the doctor said she could fly to Hamburg the next day; M was later admitted in Hamburg with pneumonia; the doctor then contacted the German Embassy and described M as neglected and dehydrated on 1 January.",
+        "Herr Schenk of the German Embassy understood the report as relating to M's condition on 1 January, not subsequent events; the Committee found the doctor acted dishonestly to protect himself from Mrs FG's complaint."
+      ],
+      "procedural_posture": "Statutory appeal to the High Court under section 40(1) of the Medical Act 1983 against a GMC Professional Conduct Committee determination.",
+      "outcome": "Appeal dismissed; the High Court upheld the Committee's findings on the Mrs FG charges as open and not erroneous in law.",
+      "ratio": "A fitness to practise tribunal is entitled to accept embassy evidence corroborated by a contemporaneous fax that a doctor reported a child as neglected and dehydrated on the date of examination, and to find that contact was motivated by self-protection rather than genuine child-welfare concerns, even where language and translation issues are raised.",
+      "legal_issues": [
+        "Whether the Committee erred in accepting Mrs FG's account of advice about flying to Hamburg",
+        "Whether the doctor's telephone report to the German Embassy related to 1 January or later events",
+        "Whether findings of dishonesty, abuse of position and serious professional misconduct were open on the evidence",
+        "Whether translation of the German word 'verwahrlost' and tense issues amounted to an error of law"
+      ],
+      "catchwords": [
+        "serious professional misconduct",
+        "GMC",
+        "Medical Register erasure",
+        "fitness to practise",
+        "German Embassy",
+        "child neglect allegation",
+        "professional discipline appeal"
+      ],
+      "index_terms": [
+        "Biswas",
+        "General Medical Council",
+        "Professional Conduct Committee",
+        "Dulwich Hospital",
+        "Medical Act 1983 section 40"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Long but complete judgment with detailed chronology and clearly reasoned dismissal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1369.json",
+    "status": "done",
+    "notes": "Major reserved Court of Appeal judgment on Article 3, D v UK and medical removal cases; Carnwath LJ dissent noted.",
+    "enrichment": {
+      "short_title": "HIV/AIDS removal case: Article 3 not engaged where Uganda treatment gap is not D-level exceptional",
+      "area_of_law": [
+        "Immigration law",
+        "Human rights",
+        "Administrative law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 2(1)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 1",
+            "Article 3",
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Ugandan citizen with advanced HIV/AIDS sought to resist removal after her asylum claim failed, relying on Article 3 because life-sustaining triple therapy was unavailable in Uganda.",
+        "An adjudicator allowed her appeal under Article 3, finding return would breach her rights; the Immigration Appeal Tribunal reversed, holding treatment was available in Uganda albeit inferior to UK provision.",
+        "Medical evidence showed she was stable in the UK but would suffer ill health, pain and early death if returned without full antiretroviral therapy.",
+        "The Court of Appeal held IAT reasoning was flawed for insufficient reasons, but dismissed the appeal because even on the appellant's best case Article 3 was not engaged."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against an Immigration Appeal Tribunal decision allowing the Secretary of State's appeal.",
+      "outcome": "Appeal dismissed by majority (Laws and Dyson LJJ); Carnwath LJ would have allowed the appeal and remitted to the IAT.",
+      "ratio": "D v United Kingdom must be strictly confined to truly exceptional cases where humanitarian considerations are so compelling that a civilised state could not in reason refuse refuge; a substantial reduction in life expectancy caused by inferior medical resources in the receiving state, without more, does not engage Article 3, and elected government retains primary responsibility for immigration policy subject only to the absolute Article 3 limit for serious ill-treatment.",
+      "legal_issues": [
+        "Whether removal of an HIV/AIDS sufferer to a state without adequate antiretroviral therapy engages Article 3",
+        "The proper scope and limits of D v UK",
+        "Whether the IAT gave legally sufficient reasons",
+        "The territoriality principle and extra-territorial effect of the Convention in removal cases",
+        "Whether the case should be remitted despite substantive Article 3 failure"
+      ],
+      "catchwords": [
+        "Article 3",
+        "HIV/AIDS",
+        "medical treatment",
+        "removal",
+        "D v UK",
+        "Ullah",
+        "Soering",
+        "immigration",
+        "life expectancy",
+        "territoriality"
+      ],
+      "index_terms": [
+        "N v Secretary of State for the Home Department",
+        "Uganda",
+        "Immigration Appeal Tribunal",
+        "antiretroviral therapy",
+        "exceptional leave to remain"
+      ],
+      "linked_authorities": [
+        {
+          "name": "D v United Kingdom",
+          "citation": "(1997) 24 EHRR 423",
+          "role": "applied"
+        },
+        {
+          "name": "Ullah v Special Adjudicator",
+          "citation": "[2003] 1 WLR 770",
+          "role": "applied"
+        },
+        {
+          "name": "Soering v United Kingdom",
+          "citation": "(1989) 11 EHRR 439",
+          "role": "considered"
+        },
+        {
+          "name": "Bensaid v United Kingdom",
+          "citation": "(2001) 33 EHRR 205",
+          "role": "considered"
+        },
+        {
+          "name": "I v Secretary of State",
+          "citation": "[1997] IAR 172",
+          "role": "considered"
+        },
+        {
+          "name": "K v Secretary of State",
+          "citation": "[2001] IAR 41",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.97,
+        "level": "high",
+        "notes": "Very full reserved judgment; dissent clearly recorded; ratio and outcome unambiguous."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1371.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment applying Razgar to Article 8 PTSD removal case.",
+    "enrichment": {
+      "short_title": "Kosovan PTSD case: Article 8 not engaged where only antidepressants unavailable in Kosovo",
+      "area_of_law": [
+        "Immigration law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 3",
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Djali, a Kosovan asylum seeker, succeeded before an adjudicator on Article 8 because his wife suffered severe PTSD linked to Serb attacks and rape in Kosovo.",
+        "The adjudicator found inadequate specialist care in Kosovo and that return would breach her physical and moral integrity and make separating the family unreasonable.",
+        "The Immigration Appeal Tribunal allowed the Secretary of State's appeal, holding treatment was limited to antidepressants equally available in Kosovo and future psychotherapy was not yet required.",
+        "The Court of Appeal applied Razgar and held Article 8(1) was not engaged; even if engaged, immigration control would outweigh any interference."
+      ],
+      "procedural_posture": "Further appeal to the Court of Appeal with permission of Keene LJ against an Immigration Appeal Tribunal decision.",
+      "outcome": "Appeal dismissed; removal held not to engage Article 8(1) and in any event proportionate under Article 8(2).",
+      "ratio": "Under Razgar, an Article 8 claim based on mental health engages the Convention only if there are substantial grounds for believing serious harm to physical and mental integrity will be caused or materially contributed to by the difference between treatment in the removing and receiving states; mere loss of prospects of better recovery from PTSD, where basic medication is available abroad and psychotherapy is not yet needed, does not cross that threshold.",
+      "legal_issues": [
+        "Whether return of a PTSD sufferer to Kosovo engages Article 8(1)",
+        "Application of Razgar territoriality and seriousness tests",
+        "Whether the IAT misdirected itself by following Kacaj on proportionality",
+        "Comparison with the IAT decision in M",
+        "Whether Edore deference applied where the Secretary of State had not decided proportionality"
+      ],
+      "catchwords": [
+        "Article 8",
+        "PTSD",
+        "private life",
+        "mental health",
+        "proportionality",
+        "Razgar",
+        "Kacaj",
+        "immigration control",
+        "Kosovo"
+      ],
+      "index_terms": [
+        "Djali",
+        "Immigration Appeal Tribunal",
+        "post-traumatic stress disorder",
+        "asylum",
+        "family removal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (Razgar) v Secretary of State for the Home Department",
+          "citation": "[2003] EWCA Civ 840",
+          "role": "applied"
+        },
+        {
+          "name": "R (Ullah) v Special Adjudicator",
+          "citation": "[2003] 1 WLR 770",
+          "role": "considered"
+        },
+        {
+          "name": "Kacaj v Secretary of State for the Home Department",
+          "citation": "[2001] INLR 354",
+          "role": "criticised"
+        },
+        {
+          "name": "Edore v Secretary of State for the Home Department",
+          "citation": "[2003] 3 All ER 1265",
+          "role": "distinguished"
+        },
+        {
+          "name": "Bensaid v United Kingdom",
+          "citation": "(2001) 33 EHRR 205",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment with clear application of Razgar and explicit outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/2263.json",
+    "status": "done",
+    "notes": "Long reserved Commercial Court judgment refusing summary judgment against non-executive directors.",
+    "enrichment": {
+      "short_title": "Equitable Life non-executive directors defeat summary judgment on DTBP negligence claims",
+      "area_of_law": [
+        "Company law",
+        "Directors' duties",
+        "Negligence",
+        "Fiduciary duties",
+        "Insurance law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 727"
+          ]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 214(4)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 3.4(2)",
+            "CPR 24.2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Equitable Life sued non-executive directors for negligence and breach of fiduciary duty over bonus declarations from 1996 to 2000 using a differential terminal bonus policy (DTBP).",
+        "GAR policies exceeded CARs from 1994; the DTBP reduced terminal bonuses for policyholders exercising guaranteed annuity options to equalise outcomes, but was later held unlawful in Equitable Life v Hyman.",
+        "Directors applied for summary judgment or strike out, arguing they reasonably relied on actuaries and executives and that Equitable's causation case was speculative.",
+        "Langley J refused summary relief, holding Equitable's claims had a real prospect of success on negligence, causation, bonus cuts and mis-selling allegations, though section 727 relief was inappropriate interlocutorily."
+      ],
+      "procedural_posture": "Applications for summary judgment and strike out under CPR 24.2 and 3.4(2) by non-executive director defendants.",
+      "outcome": "Applications refused; Equitable's claims against the non-executive directors to proceed to trial.",
+      "ratio": "In complex director-liability claims arising from the unlawful DTBP, a court should not grant summary judgment unless confident all relevant facts are satisfactorily investigated; non-executive directors owe a continuing duty to acquire sufficient knowledge of the company's business and may not blindly rely on executives, so disputed allegations that they failed to seek legal advice or cut bonuses after GAR/CAR divergence can realistically survive CPR 24.2.",
+      "legal_issues": [
+        "Whether non-executive directors breached duties by approving DTBP bonus declarations without legal advice",
+        "The scope of reasonable reliance on actuaries and executive management",
+        "Whether Equitable's causation case on hedging, bonus cuts and earlier test litigation was too speculative for summary disposal",
+        "Whether mis-selling claims founded on failure to warn policyholders of Hyman risk should proceed",
+        "Whether section 727 relief was available on an interlocutory application"
+      ],
+      "catchwords": [
+        "non-executive director",
+        "directors' duties",
+        "summary judgment",
+        "Equitable Life",
+        "guaranteed annuity rate",
+        "differential terminal bonus policy",
+        "Hyman",
+        "negligence",
+        "fiduciary duty"
+      ],
+      "index_terms": [
+        "Equitable Life Assurance Society",
+        "DTBP",
+        "GAR",
+        "CAR",
+        "with-profits policy",
+        "mis-selling",
+        "CPR 24.2"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Equitable Life Assurance Society v Hyman",
+          "citation": "[2002] 1 AC 408",
+          "role": "applied"
+        },
+        {
+          "name": "Re D'Jan of London Ltd",
+          "citation": "[1993] BCLC 646",
+          "role": "applied"
+        },
+        {
+          "name": "Re Barings Plc (No 5)",
+          "citation": "[2000] 1 BCLC 523",
+          "role": "applied"
+        },
+        {
+          "name": "Re City Equitable Fire Insurance Co Ltd",
+          "citation": "[1925] 1 Ch 407",
+          "role": "considered"
+        },
+        {
+          "name": "Three Rivers District Council v Bank of England (No 3)",
+          "citation": "[2001] UKHL 16",
+          "role": "applied"
+        },
+        {
+          "name": "In Re Lands Allotment Co",
+          "citation": "[1894] 1 Ch 616",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Very detailed interlocutory judgment; outcome clear though liability not decided on merits."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2371.json",
+    "status": "done",
+    "notes": "Complete quantum judgment following main Barings audit negligence trial.",
+    "enrichment": {
+      "short_title": "Barings audit damages: estoppel on profit credit, Yen currency and contributory negligence maths",
+      "area_of_law": [
+        "Professional negligence",
+        "Audit liability",
+        "Damages",
+        "Conflict of laws",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 727"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Following Evans-Lombe J's June 2003 liability judgment, Barings Futures Singapore pursued Deloitte & Touche Singapore for audit negligence relating to Nick Leeson's unauthorised SIMEX trading.",
+        "BFS sought to reduce the £12.46m section 727 relief for profits passed to other Barings companies by amounts of false profits from Leeson's adjusted trades, despite not having pleaded that damage at trial.",
+        "Contributory negligence deductions of 50%, 60% and 80% applied to three periods; an issue arose how to treat commission and interest earned in period one when Leeson's trading was in profit.",
+        "BFS sought damages in Singapore Dollars rather than Japanese Yen; the court held Yen was the currency that most truly expressed the loss and awarded Yen LIBOR plus 1% interest."
+      ],
+      "procedural_posture": "Separate quantum hearing following split trial; statements of case on quantification exchanged after main judgment.",
+      "outcome": "BFS estopped from reducing the £12.46m profit credit; contributory negligence calculation to follow D&T's table 1B approach; damages to be expressed in Japanese Yen with Yen LIBOR plus 1% interest.",
+      "ratio": "Where parties agreed at trial that D&T were entitled to section 727 relief of £12.46m for profits passed to other Barings entities, BFS cannot at the quantum stage seek to reduce that figure by unpleaded false-profit losses; the appropriate judgment currency is that in which the loss was immediately suffered and normally conducted, here Japanese Yen from SIMEX margin and settlement payments, not the claimant's internal accounting currency.",
+      "legal_issues": [
+        "Whether BFS was estopped from reducing agreed section 727 relief by unpleaded adjusted-trade profits",
+        "How to allocate commission and interest credits across contributory negligence periods",
+        "Whether damages should be awarded in Japanese Yen or Singapore Dollars",
+        "The appropriate interest rate on a foreign-currency judgment"
+      ],
+      "catchwords": [
+        "quantum",
+        "audit negligence",
+        "Barings",
+        "Nick Leeson",
+        "section 727",
+        "contributory negligence",
+        "foreign currency judgment",
+        "Miliangos",
+        "estoppel"
+      ],
+      "index_terms": [
+        "Barings Futures Singapore",
+        "Deloitte & Touche Singapore",
+        "SIMEX",
+        "account 88888",
+        "Japanese Yen",
+        "adjusted trades"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Miliangos v George Frank (Textiles) Ltd",
+          "citation": "[1976] AC 443",
+          "role": "applied"
+        },
+        {
+          "name": "The Despina R",
+          "citation": "[1979] AC 685",
+          "role": "applied"
+        },
+        {
+          "name": "Ketteman v Hansell Properties Ltd",
+          "citation": "[1987] 1 AC 189",
+          "role": "considered"
+        },
+        {
+          "name": "The Texaco Melbourne",
+          "citation": "[1994] 1 Lloyd's Rep 473",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete quantum judgment resolving four defined issues with clear holdings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2526.json",
+    "status": "done",
+    "notes": "Short complete Divisional Court judgment on construction of restraining order.",
+    "enrichment": {
+      "short_title": "Restraining order breach conviction quashed: 'going to premises' means entering not proximity",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing and orders",
+        "Statutory interpretation",
+        "Administrative law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Jeremy Keys appealed by case stated against conviction for breaching a restraining order prohibiting him from going to Somerfield supermarket premises at Highcliffe, including the car park.",
+        "It was agreed the car park was council-owned and not part of the supermarket premises; the live prohibition was 'going to the premises of Somerfield supermarket'.",
+        "Magistrates found Keys on 15 August about 20 metres from the store, on 16 August about two metres away in the adjacent car park, and on 17 August on the public footpath outside; he did not enter the store.",
+        "The CPS did not oppose the appeal; the court held proximity was insufficient for 'going to' the premises."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Bournemouth Magistrates' Court to the Divisional Court.",
+      "outcome": "Appeal allowed; conviction quashed with direction to magistrates to quash it.",
+      "ratio": "The phrase 'going to the premises' in a restraining order means entering the premises, not merely going near them; where proximity rather than entry is alleged, a conviction is not one a reasonable bench could reach unless the order expressly prohibits approach.",
+      "legal_issues": [
+        "Whether 'going to the premises' in a restraining order includes being in close proximity without entry",
+        "Whether the magistrates' decision was one no reasonable bench could reach"
+      ],
+      "catchwords": [
+        "restraining order",
+        "breach",
+        "going to premises",
+        "statutory interpretation",
+        "case stated",
+        "magistrates",
+        "quashed conviction"
+      ],
+      "index_terms": [
+        "Keys",
+        "Somerfield",
+        "Highcliffe",
+        "Bournemouth Magistrates' Court",
+        "restraining order"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Short, complete judgment with unambiguous construction point and outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2555.json",
+    "status": "done",
+    "notes": "Complete judicial review judgment on adequacy of Crown Court reasons in harassment appeal.",
+    "enrichment": {
+      "short_title": "Harassment Crown Court appeal quashed for inadequate reasons on discredited sole witness",
+      "area_of_law": [
+        "Administrative law",
+        "Criminal procedure",
+        "Natural justice",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Protection from Harassment Act 1997",
+          "provisions": [
+            "section 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Sharon Taylor applied for judicial review to quash Maidstone Crown Court's dismissal of her appeal against a magistrates' conviction for a course of conduct under section 2 of the Protection from Harassment Act 1997.",
+        "The sole prosecution witness, Mrs Bishop, admitted in cross-examination that she had previously made a false allegation to the police about Mrs Taylor.",
+        "Mrs Taylor gave evidence denying the allegations; no other fact witnesses were called for the Crown.",
+        "The Recorder announced only a bald acceptance of Mrs Bishop's evidence; a fuller explanation was provided later but the Divisional Court held reasons must be judged as given at the time of decision."
+      ],
+      "procedural_posture": "Judicial review with leave of Goldring J against a Crown Court decision dismissing an appeal against conviction.",
+      "outcome": "Application succeeded; Crown Court decision quashed with mandatory order for rehearing before a different constitution.",
+      "ratio": "Where the Crown Court accepts the evidence of the sole prosecution witness despite a compelling defence point such as a prior admitted false allegation, a bald statement that the witness is accepted is insufficient; adequate reasons must be given contemporaneously with the decision, and later elaboration cannot cure inadequate reasoning.",
+      "legal_issues": [
+        "Whether the Crown Court had a duty to give reasons in the circumstances of the appeal",
+        "Whether the reasons given were adequate under R v Harrow Crown Court ex p Dave",
+        "Whether later Recorder explanations could be taken into account",
+        "Whether the appropriate remedy was quashing plus mandatory rehearing"
+      ],
+      "catchwords": [
+        "judicial review",
+        "Crown Court reasons",
+        "Protection from Harassment Act",
+        "credibility",
+        "false allegation",
+        "natural justice",
+        "mandatory order",
+        "rehearing"
+      ],
+      "index_terms": [
+        "Taylor",
+        "Maidstone Crown Court",
+        "Sittingbourne Justices",
+        "harassment",
+        "R v Dave"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Harrow Crown Court, ex p Dave",
+          "citation": "99 Cr App R 114",
+          "role": "applied"
+        },
+        {
+          "name": "Pullum v Crown Prosecution Service",
+          "citation": "[2000] COD 206",
+          "role": "applied"
+        },
+        {
+          "name": "R v Snaresbrook Crown Court, ex p Input Management",
+          "citation": "163 JP 533",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment with clear procedural and reasons-based ratio."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1447.json",
+    "status": "done",
+    "notes": "Full Court of Appeal judgment on exclusion clause construction and UCTA international supply contract definition.",
+    "enrichment": {
+      "short_title": "BAE aircraft contract: maintenance negligence exclusion upheld but UCTA reasonableness remitted",
+      "area_of_law": [
+        "Contract law",
+        "Aviation",
+        "Negligence",
+        "Exemption clauses",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Unfair Contract Terms Act 1977",
+          "provisions": [
+            "section 26"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Amiri Flight Authority, successor to the UAE Ruler's Private Department, bought a BAE-146 aircraft under a BAE-drafted 1987 contract with ongoing maintenance and technical support obligations.",
+        "Serious fuel-tank corrosion from microbiological contamination was discovered in 1999; Amiri claimed BAE negligently failed to provide adequate biocide treatment in the maintenance programme and advice.",
+        "Tomlinson J granted summary judgment for BAE, holding clause A.10 of Appendix C excluded all contract and tort liability and the contract was an international supply contract outside UCTA.",
+        "The Court of Appeal held clause A.10 clearly excluded negligence in performance of Appendix B Part D obligations, but the contract was not an international supply contract under section 26(4)(c) because delivery in the UK did not satisfy 'delivered to' another state."
+      ],
+      "procedural_posture": "Appeal from summary judgment under CPR Part 24 dismissing Amiri's contract and tort claim.",
+      "outcome": "Appeal allowed in part; exclusion clause upheld but case remitted to Tomlinson J for UCTA reasonableness issues; summary judgment set aside.",
+      "ratio": "Clause A.10 in Appendix C, incorporated by the aircraft contract, clearly excludes BAE's liability in contract and tort for defects caused by negligent maintenance advice and supervision under Appendix B Part D, including the words 'training advice or supervision'; however section 26(4)(c) UCTA requires goods to be delivered to the territory of a state other than that where offer and acceptance occurred, so a contract signed in Abu Dhabi for delivery in England is not an international supply contract exempt from reasonableness control.",
+      "legal_issues": [
+        "Whether clause A.10 excludes claims for negligent maintenance programme development and advice",
+        "Whether the exclusion clause covers tort as well as contract claims arising from the same contractual duties",
+        "Whether the contract is an international supply contract under section 26 UCTA",
+        "The proper construction of 'delivered to' in section 26(4)(c)"
+      ],
+      "catchwords": [
+        "exclusion clause",
+        "Unfair Contract Terms Act",
+        "international supply contract",
+        "aircraft sale",
+        "maintenance programme",
+        "negligence",
+        "Ailsa Craig",
+        "summary judgment"
+      ],
+      "index_terms": [
+        "Amiri Flight Authority",
+        "BAE Systems",
+        "BAE-146",
+        "Appendix C clause A.10",
+        "microbiological corrosion",
+        "section 26 UCTA"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ailsa Craig Fishing Co Ltd v Malvern Fishing Co Ltd",
+          "citation": "[1983] 1 WLR 964",
+          "role": "applied"
+        },
+        {
+          "name": "Thornton v Shoe Lane Parking Ltd",
+          "citation": "[1971] 2 QB 163",
+          "role": "considered"
+        },
+        {
+          "name": "Interfoto Picture Library Ltd v Stiletto Visual Programmes Ltd",
+          "citation": "[1989] 1 QB 433",
+          "role": "considered"
+        },
+        {
+          "name": "R v Secretary of State for the Environment, ex p Spath Holme Ltd",
+          "citation": "[2001] 2 AC 349",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete reserved judgment resolving both exclusion clause and UCTA issues with remittal."
+      }
+    }
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2834.json",
+    "status": "done",
+    "notes": "Very long judgment; full_text complete. Possession appeal with multiple mortgage defences resolved on merits.",
+    "enrichment": {
+      "short_title": "Mortgage borrowers fail to set aside 1995 possession order against Paragon Finance",
+      "area_of_law": [
+        "Mortgage possession",
+        "Consumer credit",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Consumer Credit Act 1974",
+          "provisions": ["s.138"]
+        },
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": ["s.101", "s.103"]
+        },
+        {
+          "title": "County Courts Act 1984",
+          "provisions": ["s.21"]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": ["s.54(4)"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["Sch 1, Art 8"]
+        }
+      ],
+      "key_facts": [
+        "Defendants charged their Edgware home to Paragon Finance in 1989; a possession order was made in January 1995 after persistent arrears and was not set aside until this litigation.",
+        "On permission-to-appeal hearing before Peter Smith J, new defences were raised: lack of title to sue after securitisation, an implied term limiting exercise of the lender's discretion to vary interest, and an extortionate credit bargain under the Consumer Credit Act 1974.",
+        "The loan was not a regulated consumer credit agreement; the defendants had made very limited payments for many years and sought to reopen the possession order and resist enforcement."
+      ],
+      "procedural_posture": "High Court hearing of defendants' application for permission to appeal and, if granted, appeal against Barnet County Court orders refusing to set aside a 1995 possession order and permitting enforcement.",
+      "outcome": "Permission to appeal granted on the set-aside application and new points, but appeal dismissed on all grounds as having no real prospect of success; stay on warrant of possession to be lifted subject to representations on timing.",
+      "ratio": "A mortgagor resisting enforcement of an old possession order cannot succeed on technical title-to-sue, implied-term, or extortionate-credit-bargain arguments where the charge reserved rate-variation and securitisation powers, the agreement was not regulated credit, and there was no evidence the charged rates or undisclosed securitisation policy rendered the bargain extortionate.",
+      "legal_issues": [
+        "Whether Paragon retained title to sue after securitisation of the mortgage",
+        "Whether an implied term required fair and good-faith exercise of the lender's discretion to vary interest rates",
+        "Whether the mortgage was an extortionate credit bargain despite non-regulation",
+        "Whether the possession order could be set aside under repealed CCR Order 37 principles",
+        "Whether Article 8 prevented possession and enforcement"
+      ],
+      "catchwords": [
+        "mortgage possession",
+        "set aside possession order",
+        "securitisation",
+        "interest rate discretion",
+        "extortionate credit bargain",
+        "Paragon Finance",
+        "title to sue"
+      ],
+      "index_terms": [
+        "Paragon Finance",
+        "National Home Loans",
+        "self-certified mortgage",
+        "variable rate mortgage",
+        "warrant of possession",
+        "Joseph Aaron"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Paragon Finance plc v Nash",
+          "citation": "[2002] 1 WLR 685"
+        },
+        {
+          "name": "Broadwick Financial Services Ltd v Spencer",
+          "citation": "[2002] EWCA Civ 35"
+        },
+        {
+          "name": "Harrow LBC v Qazi",
+          "citation": "[2003] 3 WLR 792"
+        },
+        {
+          "name": "Ladd v Marshall",
+          "citation": "[1954] 3 All ER 745"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete full_text with detailed conclusions on each defence; source summary field truncated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2918.json",
+    "status": "done",
+    "notes": "Complete administrative JR on prisoner release calculation.",
+    "enrichment": {
+      "short_title": "Prisoner's judicial review fails over extended licence release date after Home Detention Curfew breach",
+      "area_of_law": [
+        "Prison law",
+        "Judicial review",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": ["s.33", "s.34A", "s.37A", "s.38A", "s.39"]
+        },
+        {
+          "title": "Prison Act 1952",
+          "provisions": ["s.49(2)"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art 5"]
+        }
+      ],
+      "key_facts": [
+        "Serving prisoner sentenced to two years' imprisonment was released on Home Detention Curfew, recalled for breach, and was unlawfully at large for 17 days before return to custody.",
+        "After later licence revocation, the Secretary of State recalculated the three-quarter release date to 15 December 2003 rather than 28 November 2003 to exclude time at large.",
+        "Claimant argued this double-counted the 17-day absence and unlawfully extended his sentence contrary to section 33(3) and Article 5."
+      ],
+      "procedural_posture": "Application for judicial review of the Secretary of State's recalculation of licence release and sentence expiry dates.",
+      "outcome": "Judicial review refused; permission to appeal to the Court of Appeal refused; no costs order against the claimant.",
+      "ratio": "Time spent unlawfully at large after recall from Home Detention Curfew is excluded from sentence served under section 49(2) of the Prison Act 1952, with consequential postponement of automatic conditional release, licence expiry, and sentence expiry dates; this is not double counting or unlawful extension of the court-imposed term.",
+      "legal_issues": [
+        "Effect of unlawfully-at-large time on three-quarter licence release under section 33(3) CJA 1991",
+        "Interaction between sections 38A and 49(2) and Prison Service Orders on HDC recall",
+        "Whether recalculation breached Article 5 ECHR",
+        "Whether the Secretary of State should exercise discretion to count UAL time towards sentence"
+      ],
+      "catchwords": [
+        "Home Detention Curfew",
+        "unlawfully at large",
+        "licence release date",
+        "sentence calculation",
+        "judicial review",
+        "prisoner release"
+      ],
+      "index_terms": [
+        "HDC recall",
+        "automatic conditional release",
+        "licence expiry date",
+        "PSO 6650",
+        "PSO 6700",
+        "Goldring J"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Self-contained first-instance judgment with clear statutory analysis and outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2978.json",
+    "status": "done",
+    "notes": "Source summary field truncated mid-sentence; full_text complete.",
+    "enrichment": {
+      "short_title": "Green Belt gypsy caravan permission quashed where children's schooling held not 'very special circumstances'",
+      "area_of_law": [
+        "Planning law",
+        "Judicial review",
+        "Gypsy and Traveller accommodation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["s.288"]
+        }
+      ],
+      "key_facts": [
+        "Mrs Draper, a gypsy, occupied an unauthorised caravan site in the Green Belt at Runwell, Essex; the Secretary of State allowed her appeal and granted conditional retention permission.",
+        "The sole very special circumstance relied on was that her two primary-school-age children were settled at a local school within walking distance.",
+        "The family had previously occupied an authorised gypsy pitch and chose to move to the unauthorised site; harm to the Green Belt was accepted as limited but inappropriate development in principle."
+      ],
+      "procedural_posture": "Section 288 statutory challenge by Chelmsford Borough Council to quash the Secretary of State's planning appeal decision.",
+      "outcome": "Application succeeded on ground 2; decision quashed; Secretary of State ordered to pay costs summarily assessed at £4,590.",
+      "ratio": "Under PPG2, very special circumstances must be circumstances objectively capable of being described as 'very special', not merely factors the decision-maker weighs heavily; commonplace educational needs of two young children at a local school cannot reasonably satisfy that test even where further Green Belt harm is limited.",
+      "legal_issues": [
+        "Whether the decision letter conflated harm in principle with limited visual harm under PPG2 paragraph 3.2",
+        "Whether ordinary children's educational needs could amount to very special circumstances",
+        "Whether a decision-maker may treat any outweighing factor as very special circumstances",
+        "Whether reference to general suitability of the area for gypsy occupation created a bad precedent"
+      ],
+      "catchwords": [
+        "Green Belt",
+        "very special circumstances",
+        "PPG2",
+        "gypsy caravan site",
+        "planning appeal",
+        "educational needs",
+        "section 288"
+      ],
+      "index_terms": [
+        "Runwell",
+        "Meadow Lane",
+        "inappropriate development",
+        "Doncaster MBC v Secretary of State",
+        "South Bucks",
+        "Basildon",
+        "Sullivan J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Doncaster Metropolitan Borough Council v Secretary of State for the Environment, Transport and the Regions",
+          "citation": "[2002] EWHC Admin 808"
+        },
+        {
+          "name": "South Bucks District Council v Secretary of State for Transport, Local Government and the Regions",
+          "citation": "[2003] EWCA Civ 687"
+        },
+        {
+          "name": "Brentwood Borough Council v Secretary of State for the Environment and Gray",
+          "citation": "[1996] 72 P&CR 61"
+        },
+        {
+          "name": "Basildon District Council v Secretary of State for the Environment, Transport and the Regions",
+          "citation": "[2001] JPL 1104"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full reasoning available; truncated summary in source metadata only."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3058.json",
+    "status": "done",
+    "notes": "Complete EIA screening challenge; judges metadata in source appears erroneous.",
+    "enrichment": {
+      "short_title": "Rival developer fails to quash Brighouse retail planning permission for defective EIA screening",
+      "area_of_law": [
+        "Planning law",
+        "Environmental impact assessment",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["s.106", "s.288"]
+        },
+        {
+          "title": "Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999",
+          "provisions": ["regs 2", "4", "5", "6", "7", "8", "20", "30"]
+        },
+        {
+          "title": "Local Government Act 1972",
+          "provisions": ["s.101"]
+        },
+        {
+          "title": "Environmental Assessment Directive",
+          "provisions": ["Art 4"]
+        }
+      ],
+      "key_facts": [
+        "Called-in planning permission was granted in November 2002 for a major retail and leisure redevelopment on a 3.777 ha former mill site in Brighouse after a public inquiry.",
+        "Claimant Younger Homes, a later land purchaser seeking residential development, challenged the grant for failure to make a valid EIA screening direction, relying on alleged defects in Calderdale MBC's 1999 screening opinion.",
+        "Officer Mr Raper concluded redevelopment was not EIA development; the opinion was handwritten, not sent to the applicant, and not placed on the planning register, though it was on the file."
+      ],
+      "procedural_posture": "Section 288 challenge to the Secretary of State's grant of planning permission on EIA screening and delegation grounds.",
+      "outcome": "Application dismissed; Secretary of State and Calderdale MBC awarded costs; leave to appeal refused.",
+      "ratio": "A lawfully adopted screening opinion by an authorised planning officer can satisfy regulation 8 even if informally recorded; procedural failures to notify the applicant or register the opinion do not vitiate the Secretary of State's decision where the obligation to consider EIA necessity was fulfilled and the challenger suffered no substantial prejudice.",
+      "legal_issues": [
+        "Whether Mr Raper had delegated authority to adopt Calderdale's screening opinion",
+        "Whether the screening opinion unlawfully relied on a future traffic impact assessment instead of EIA criteria",
+        "Whether contamination and outline-application uncertainties required EIA",
+        "Whether failure to send or register the screening opinion invalidated planning permission",
+        "Whether an unlawful screening opinion could be relied on in a section 288 challenge without prior JR"
+      ],
+      "catchwords": [
+        "environmental impact assessment",
+        "screening opinion",
+        "Schedule 2 development",
+        "planning permission",
+        "delegation",
+        "regulation 8",
+        "Berkeley"
+      ],
+      "index_terms": [
+        "Brighouse",
+        "Calderdale MBC",
+        "retail redevelopment",
+        "Circular 2/99",
+        "Gillespie",
+        "Jones",
+        "Lebus",
+        "Burkett"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Berkeley v Secretary of State for the Environment",
+          "citation": "[2001] 2 AC 603"
+        },
+        {
+          "name": "Cheshire County Council v Secretary of State for the Environment",
+          "citation": "[1988] JPL 30"
+        },
+        {
+          "name": "Provident Mutual Life Assurance Association v Derbyshire City Council",
+          "citation": "[1981] 1 WLR 173"
+        },
+        {
+          "name": "Bellway Urban Renewal Southern Ltd v Gillespie",
+          "citation": "[2003] EWCA Civ 400"
+        },
+        {
+          "name": "R (Burkett) v London Borough of Hammersmith and Fulham",
+          "citation": "[2002] UKHL 23"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long but complete judgment with detailed fact findings and clear disposition."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2845.json",
+    "status": "done",
+    "notes": "Complete VAT tribunal appeal on magazine attribution.",
+    "enrichment": {
+      "short_title": "PCS Union VAT appeal partly succeeds over attribution of subscription income to zero-rated magazines",
+      "area_of_law": [
+        "Value added tax",
+        "Tax tribunals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": ["s.19(4)", "s.73"]
+        },
+        {
+          "title": "Value Added Tax Regulations 1995",
+          "provisions": ["reg 101"]
+        }
+      ],
+      "key_facts": [
+        "PCS Union received member subscriptions funding a package of benefits including zero-rated union magazines with no separate cover price.",
+        "Customs assessed additional VAT for 1998-1999 accounting periods using a cost-based attribution of subscription value to magazine supplies.",
+        "Tribunal upheld assessments; union appealed, arguing market value (£1.80 per copy) should be used and that the cost method wrongly excluded network employment overheads."
+      ],
+      "procedural_posture": "High Court appeal from VAT and Duties Tribunal decision upholding Customs' section 73 best-judgment assessments.",
+      "outcome": "Appeal allowed in part; tribunal decision set aside and remitted for fresh hearing on overheads/staff-cost attribution; market-value method rejected on the evidence.",
+      "ratio": "Under section 19(4) VATA 1994 neither market-value nor cost attribution is mandatory in all cases; but where Customs used a cost method excluding £7.5m of network employment overheads without inquiry, despite audited accounts indicating broader attributable costs, that was an error of law warranting remission.",
+      "legal_issues": [
+        "Whether Madgett & Baldwin requires market-value attribution for bundled union magazine supplies",
+        "Whether the Commissioners' cost-based apportionment lawfully included network administration employment costs",
+        "Whether group magazines should be included in zero-rated supply value",
+        "Whether a mark-up above cost was required for section 19(4) attribution"
+      ],
+      "catchwords": [
+        "VAT attribution",
+        "zero-rated supplies",
+        "trade union subscriptions",
+        "section 19(4)",
+        "input tax apportionment",
+        "cost method",
+        "market value"
+      ],
+      "index_terms": [
+        "PCS Union",
+        "Customs and Excise",
+        "Madgett & Baldwin",
+        "Grunwick",
+        "Card Protection Plan",
+        "Members' Communications"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Customs & Excise v Madgett & Baldwin",
+          "citation": "[1998] STC 1189"
+        },
+        {
+          "name": "Grunwick Processing Laboratories Ltd v Commissioners of Customs & Excise",
+          "citation": "[1986] STC 441"
+        },
+        {
+          "name": "Card Protection Plan Ltd v Customs and Excise Commissioners",
+          "citation": "[1999] STC 270"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment with clear findings on each VAT attribution issue."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3374.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on Attorney General references.",
+    "enrichment": {
+      "short_title": "Attorney General may refer unduly lenient failure to make confiscation orders after procedural defects",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["s.36", "s.35", "s.71", "s.72A", "Sch 3 para 1"]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": ["s.50(1)"]
+        },
+        {
+          "title": "Proceeds of Crime Act 2002",
+          "provisions": ["s.32(2)(b)"]
+        }
+      ],
+      "key_facts": [
+        "In two unrelated fraud cases, Crown Court judges declined to embark on confiscation hearings, relying on since-overruled Court of Appeal decisions in Palmer and Pisciotto on defective postponement or notice.",
+        "Substantial benefit figures were alleged (£2m in Smith/Bradley; £500,000 in Cunningham/Graver/Flowers).",
+        "Attorney General sought references under section 36 as unduly lenient sentencing for failure to make confiscation orders."
+      ],
+      "procedural_posture": "Attorney General's references to the Court of Appeal under section 36 CJA 1988 following Crown Court refusals to conduct confiscation proceedings.",
+      "outcome": "References allowed; court held it had jurisdiction to review and make appropriate confiscation orders after factual hearing; discretion exercised to permit Cunningham reference despite delay.",
+      "ratio": "A Crown Court decision declining jurisdiction to make a confiscation order amounts to 'making no order' on the application and is itself a sentence amenable to Attorney General reference as unduly lenient; the Court of Appeal may then exercise the confiscation power the Crown Court wrongly thought unavailable.",
+      "legal_issues": [
+        "Whether failure to embark on confiscation proceedings is 'unduly lenient sentencing' under section 36",
+        "Whether the 28-day reference period runs from imprisonment or from refusal of confiscation",
+        "Whether the Court of Appeal may make confiscation orders when preconditions in section 71 were not determined below",
+        "Whether judges correctly bound by Palmer/Pisciotto after Sekhon and Simpson"
+      ],
+      "catchwords": [
+        "confiscation order",
+        "Attorney General reference",
+        "unduly lenient sentence",
+        "section 36",
+        "Palmer",
+        "Pisciotto",
+        "postponement"
+      ],
+      "index_terms": [
+        "section 73 statement",
+        "benefit figure",
+        "realisable amount",
+        "Sekhon",
+        "Simpson",
+        "six-month postponement"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Sekhon",
+          "citation": "[2002] EWCA Crim 2954"
+        },
+        {
+          "name": "R v Simpson",
+          "citation": "[2003] EWCA Crim 1499"
+        },
+        {
+          "name": "R v Palmer",
+          "citation": "[2002] EWCA Crim 2202"
+        },
+        {
+          "name": "R v Pisciotto",
+          "citation": "[2002] EWCA Crim 1592"
+        },
+        {
+          "name": "Morgans v Director of Public Prosecutions",
+          "citation": "[2001] 1 AC 315"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with detailed statutory analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2843.json",
+    "status": "done",
+    "notes": "Very long disqualification judgment; full_text complete. Disqualification period for McAvoy left to later hearing.",
+    "enrichment": {
+      "short_title": "Crystal Palace director McAvoy found unfit to manage companies after club's insolvency",
+      "area_of_law": [
+        "Company law",
+        "Director disqualification",
+        "Insolvency"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Company Directors Disqualification Act 1986",
+          "provisions": ["s.1A", "s.6", "s.9", "Sch 1"]
+        }
+      ],
+      "key_facts": [
+        "Crystal Palace FC (1986) Ltd entered administration in March 1999 with creditor deficiency exceeding £30m after relegation from the Premier League and Mark Goldberg's June 1998 takeover.",
+        "Secretary of State pursued disqualification against Goldberg and director Jim McAvoy for mismanagement, misuse of company funds, and filing failures.",
+        "Goldberg gave a section 1A disqualification undertaking on day two; the hearing continued against McAvoy alone."
+      ],
+      "procedural_posture": "Secretary of State application under section 6 CDDA 1986 for disqualification orders following CPFC insolvency.",
+      "outcome": "McAvoy found unfit and required to be disqualified for at least two years; period of disqualification reserved for later hearing (judge's provisional view: lowest conventional band); Goldberg case disposed of by undertaking.",
+      "ratio": "A director who bypasses corporate governance, permits inter-company fund transfers without proper control, signs false board minutes, misleads the board, and ignores statutory filing obligations may be unfit under section 6 even without personal gain or conscious dishonesty.",
+      "legal_issues": [
+        "Whether McAvoy's conduct as director of insolvent CPFC made him unfit to manage a company",
+        "Whether alleged executive responsibilities beyond directorship could be relied on",
+        "Application of Schedule 1 CDDA factors including misfeasance and failure to maintain accounting records",
+        "Appropriate period of disqualification where unfitness established"
+      ],
+      "catchwords": [
+        "director disqualification",
+        "unfitness",
+        "football club insolvency",
+        "Crystal Palace",
+        "corporate governance",
+        "misfeasance",
+        "section 6 CDDA"
+      ],
+      "index_terms": [
+        "Mark Goldberg",
+        "Jim McAvoy",
+        "CPFC",
+        "Allowclear",
+        "MGI",
+        "Venables contract",
+        "Padovano minute"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re Bath Glass Ltd",
+          "citation": "[1988] BCLC 329"
+        },
+        {
+          "name": "Secretary of State for Trade and Industry v Reynard",
+          "citation": "[2002] 2 BCLC 625"
+        },
+        {
+          "name": "Re Grayan Building Services Ltd",
+          "citation": "[1995] Ch 241"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Full judgment available; final disqualification period not yet fixed at judgment date."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1694.json",
+    "status": "done",
+    "notes": "Complete interlocutory libel appeal with trial imminent.",
+    "enrichment": {
+      "short_title": "Wall Street Journal libel appeal: Chase level-3 meaning restored; hearsay evidence admissible on Reynolds privilege",
+      "area_of_law": [
+        "Defamation",
+        "Media law",
+        "Civil evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Evidence Act 1972",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Jameel family companies sued over a February 2002 Wall Street Journal Europe article reporting SAMA monitoring of Saudi businessmen's bank accounts for potential terrorist ties.",
+        "At pre-trial review Eady J ruled the words bore at least Chase tier-2 meaning ('reasonable grounds to suspect') and admitted SAMA/bank hearsay statements to disprove monitoring despite no plea of justification.",
+        "Defendant relied on Reynolds qualified privilege; trial was listed for December 2003."
+      ],
+      "procedural_posture": "Defendant's interlocutory appeal against Eady J's rulings on meaning and admissibility of hearsay evidence in libel proceedings.",
+      "outcome": "Appeal allowed in part on meaning (lesser Chase tier-3 'grounds for investigation' meaning not excluded from jury); appeal dismissed on hearsay admissibility.",
+      "ratio": "A judge should not delimit defamatory meaning so as to exclude Chase tier-3 imputations where the article's misconduct underlying monitoring is ambiguous; hearsay denying account monitoring may be admitted to challenge journalists' account of source conversations without determining truth for Reynolds privilege purposes.",
+      "legal_issues": [
+        "Whether the article was capable of bearing only tier-2 'reasonable grounds to suspect' meaning",
+        "Distinction between Chase tier-2 and tier-3 defamatory meanings in terrorism-funding context",
+        "Admissibility of SAMA and bank witness statements where no justification pleaded",
+        "Whether falsity evidence is relevant to Reynolds qualified privilege after GKR Karate"
+      ],
+      "catchwords": [
+        "libel meaning",
+        "Chase v News Group",
+        "Reynolds privilege",
+        "terrorist ties",
+        "hearsay evidence",
+        "GKR Karate",
+        "interlocutory appeal"
+      ],
+      "index_terms": [
+        "Wall Street Journal Europe",
+        "SAMA",
+        "Abdul Latif Jameel",
+        "Al Rajhi",
+        "James Dorsey",
+        "Glenn Simpson",
+        "aggravated damages"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Chase v News Group Newspapers Ltd",
+          "citation": "[2003] EMLR 218"
+        },
+        {
+          "name": "Reynolds v Times Newspapers Ltd",
+          "citation": "[2001] 2 AC 127"
+        },
+        {
+          "name": "GKR Karate v Yorkshire Post (No 1)",
+          "citation": "[2000] EMLR 396"
+        },
+        {
+          "name": "Bonnick v Morris",
+          "citation": "[2002] EMLR 827"
+        },
+        {
+          "name": "Mapp v News Group Newspapers Ltd",
+          "citation": "[1998] QB 520"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete Court of Appeal judgment incorporating first-instance ruling."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1942.json",
+    "status": "done",
+    "notes": "Complete small claims representation appeal.",
+    "enrichment": {
+      "short_title": "Company entitled to lay representative on small claims track; unfair trial over unpaid leather goods",
+      "area_of_law": [
+        "Civil procedure",
+        "Small claims",
+        "Rights of audience"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": ["s.11", "s.27"]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": []
+        },
+        {
+          "title": "Lay Representatives (Right of Audience) Order 1999",
+          "provisions": ["art 3"]
+        }
+      ],
+      "key_facts": [
+        "Avinue sued Sunrule for £3,963.97 for leather goods delivered without signed delivery notes for all disputed invoices.",
+        "District judge refused John Boyd permission to represent corporate defendant Sunrule at fast-track small claims trial; director Mr Dimopoulos conducted case with limited English.",
+        "No cross-examination of claimant's witnesses occurred; judge relied on delivery driver's evidence despite invoice/delivery-note discrepancies."
+      ],
+      "procedural_posture": "Second-tier appeal with permission from Waller LJ against circuit judge's dismissal of appeal from small claims track judgment.",
+      "outcome": "Permission granted; appeal allowed; retrial ordered; costs assessed at £200 payable within 14 days.",
+      "ratio": "CPR PD 27 para 3.2(4) extends rather than restricts lay representation for corporate parties, so a company on the small claims track may be represented by a lay representative who is not an officer or employee; refusing that representation where the director cannot effectively conduct the trial renders the hearing unfair.",
+      "legal_issues": [
+        "Whether CPR 27PD 3.2(4) limits corporate lay representation to officers or employees",
+        "Construction of Lay Representatives (Right of Audience) Order 1999 with CPR Part 27",
+        "Whether second-tier appeal conditions in CPR 52.13 were satisfied",
+        "Whether trial was fair despite director participating personally"
+      ],
+      "catchwords": [
+        "small claims track",
+        "lay representative",
+        "rights of audience",
+        "corporate party",
+        "CPR 27",
+        "unfair trial",
+        "second-tier appeal"
+      ],
+      "index_terms": [
+        "Sunrule",
+        "Avinue",
+        "John Boyd",
+        "Dimopoulos",
+        "delivery note",
+        "fast track small claim"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete judgment with clear construction ruling and fairness analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1716.json",
+    "status": "done",
+    "notes": "Complete contract appeal on exclusive haulage agreement.",
+    "enrichment": {
+      "short_title": "Exclusive haulage contract breached when Nedlloyd merged operations and ended separate transport requirements",
+      "area_of_law": [
+        "Contract law",
+        "Commercial law",
+        "Transport and logistics"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "CEL held exclusive three-year contract from July 1996 to provide all Nedlloyd Lines UK's road haulage, including a dedicated fleet of at least 35 vehicles.",
+        "At end of 1996 Nedlloyd merged with P & O; from May 1997 merged haulage operations meant NLL no longer had separately identifiable transport requirements and CEL lost exclusive access to most work.",
+        "CEL continued some merged-group work but owner-driver and subcontractor flows fell sharply, reducing profitability."
+      ],
+      "procedural_posture": "Appeal against Andrew Smith J's judgment finding breach of contract and awarding damages with inquiry as to cash-flow loss.",
+      "outcome": "Appeal dismissed; implied-term breach upheld; costs order against appellant with £35,000 on account.",
+      "ratio": "Where a contract grants exclusive rights to supply all of a company's defined haulage requirements for a fixed term, there is an implied obligation (Stirling v Maitland) that the customer will not voluntarily destroy the continuing state of affairs in which those requirements exist; voluntary merger eliminating discrete business needs is a breach.",
+      "legal_issues": [
+        "Whether exclusive haulage contract implied a term that Nedlloyd would maintain separate transport requirements",
+        "Distinction from agency cases such as Luxor v Cooper where principals may dispose of business freely",
+        "Whether clause 4(a)(ii) liquidated damages for unused dedicated vehicles excluded damages for loss of wider work",
+        "Construction of exclusive supply contract against long prior exclusive joint-venture background"
+      ],
+      "catchwords": [
+        "exclusive contract",
+        "implied term",
+        "Stirling v Maitland",
+        "breach of contract",
+        "merger",
+        "haulage",
+        "dedicated fleet"
+      ],
+      "index_terms": [
+        "CEL Group",
+        "Nedlloyd Lines",
+        "P&O merger",
+        "container haulage",
+        "owner-driver fleet",
+        "transport services agreement"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Stirling v Maitland",
+          "citation": "(1864) 5 B & S 840"
+        },
+        {
+          "name": "Southern Foundries (1926) Ltd v Shirlaw",
+          "citation": "[1940] AC 701"
+        },
+        {
+          "name": "Luxor (Eastbourne) Ltd v Cooper",
+          "citation": "[1940] AC 108"
+        },
+        {
+          "name": "Bournemouth & Boscombe AFC v Manchester United FC",
+          "citation": "unreported, 21 May 1980"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete Court of Appeal judgment with agreed facts and clear ratio."
+      }
+    }
+  }
+]

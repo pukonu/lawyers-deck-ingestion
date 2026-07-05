@@ -1,0 +1,644 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/696.json",
+    "status": "done",
+    "notes": "Sudanese asylum credibility appeal; Rule 21 fresh evidence and admissibility analysis are clear throughout.",
+    "enrichment": {
+      "short_title": "Asylum appeal: admissibility of fresh evidence under Rule 21",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Appeals (Procedure) Rules 2003",
+          "provisions": [
+            "Rule 21"
+          ]
+        },
+        {
+          "title": "Immigration and Asylum Appeals (Procedure) Rules 2000",
+          "provisions": [
+            "Rule 22"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Sudanese citizen claimed asylum based on alleged DUP membership, detention, and ill-treatment, but the adjudicator found him not credible.",
+        "After a first IAT hearing at which neither he nor his solicitors attended, supplementary documents were belatedly linked to the file and the case was remitted.",
+        "On remittal the appellant sought to rely on fresh material without giving the written notice required by Rule 21 of the 2003 Rules.",
+        "The fresh documents included further letters from DUP supporters, a 1996 travel prohibition form, and a 2000 arrest warrant."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against the Immigration Appeal Tribunal's dismissal of an asylum appeal on remittal.",
+      "outcome": "Appeal dismissed; the tribunal was entitled to disregard the fresh material for failure to comply with Rule 21, and the material would not have affected the adjudicator's credibility findings in any event.",
+      "ratio": "Under Rule 21 of the 2003 Procedure Rules, a party who wishes the tribunal to consider evidence not submitted to the adjudicator must file written notice explaining the nature of the evidence and why it was not previously submitted; absent exceptional circumstances, oral submissions do not satisfy that requirement, and fresh evidence unlinked to the grounds of appeal may properly be excluded.",
+      "legal_issues": [
+        "Whether the IAT erred in disregarding supplementary documentary evidence",
+        "Whether failure to give Rule 21 notice rendered the remitted hearing procedurally unfair",
+        "Whether the fresh evidence cast doubt on the safety of the adjudicator's credibility findings"
+      ],
+      "catchwords": [
+        "asylum",
+        "credibility",
+        "fresh evidence",
+        "Rule 21",
+        "Immigration Appeal Tribunal",
+        "Sudan"
+      ],
+      "index_terms": [
+        "Democratic Unionist Party Sudan",
+        "anxious scrutiny",
+        "procedural fairness",
+        "membership card",
+        "Home Office interview"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Outcome, procedural rules, and treatment of each fresh document are explicit in Dyson's judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/pat/2004/1124.json",
+    "status": "done",
+    "notes": "Long technical judgment but infringement turns on German equivalence and residue H23; SYNAGIS held non-infringing.",
+    "enrichment": {
+      "short_title": "German patent infringement: SYNAGIS and CDR-grafted antibody claim 1",
+      "area_of_law": [
+        "Patent law",
+        "Intellectual property",
+        "Pharmaceutical and biotechnology",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Patent Convention",
+          "provisions": [
+            "Article 69"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Celltech claimed royalties from Medimmune under a licence relating to EP 0 626 390, with exclusive jurisdiction in the English courts but German law governing infringement.",
+        "Medimmune's SYNAGIS antibody product did not literally satisfy claim 1 because it retained a human threonine rather than a donor serine at Kabat residue H23.",
+        "The patent protocol and claims treated residues H23, H24, H26-H30 and H49 as mandatory donor residues in CDR-grafted humanised antibodies.",
+        "Celltech argued conservative serine-to-threonine substitution at H23 fell within the patent's scope under German doctrine of equivalents."
+      ],
+      "procedural_posture": "Trial on infringement only, applying German patent law to agreed facts concerning Medimmune's German sales of SYNAGIS.",
+      "outcome": "No infringement; SYNAGIS falls outside the semantic scope of the claims and, under the Custodial II equivalence test, the skilled addressee would understand the patentee to have excluded acceptor substitution at the critical residues including H23.",
+      "ratio": "Under German patent law following Formstein and the 2002 BGH quintet, a variant that obviously works by equivalent means is nonetheless outside the scope of protection where the claim and specification treat a residue as essential and decisive; here the patentee's strict donor-only requirement at H23 cannot be overridden by conservative substitution even if binding affinity is substantially unchanged.",
+      "legal_issues": [
+        "Whether SYNAGIS infringed claim 1 of EP 0 626 390 under German law",
+        "Whether conservative substitution at residue H23 was an equivalent embodiment",
+        "Whether the Formstein objection applied",
+        "Whether Biacore experiments proved functional equivalence"
+      ],
+      "catchwords": [
+        "patent infringement",
+        "doctrine of equivalents",
+        "humanised antibody",
+        "CDR grafting",
+        "SYNAGIS",
+        "German law"
+      ],
+      "index_terms": [
+        "Celltech",
+        "Medimmune",
+        "Kabat numbering",
+        "HAMA response",
+        "Custodial II",
+        "Formstein",
+        "monoclonal antibody"
+      ],
+      "linked_authorities": [
+        "Formstein BGHZ 98, 12",
+        "Custodial II GRUR 2002, 527",
+        "Improver Corporation v Remington Consumer Products Ltd [1990] FSR 181",
+        "Catnic Components Ltd v Hill & Smith Ltd [1982] RPC 183"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Primary issue and holding are clear though the judgment contains extensive unused alternative reasoning on equivalence and Formstein."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/583.json",
+    "status": "done",
+    "notes": "Limitation clause construction on agreed negligent PRP advice; all three judgments dismiss the appeal.",
+    "enrichment": {
+      "short_title": "Price Waterhouse liability cap and loss of anticipated tax savings",
+      "area_of_law": [
+        "Professional negligence",
+        "Contract law",
+        "Commercial contract",
+        "Employment and tax"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Unfair Contract Terms Act 1977",
+          "provisions": [
+            "section 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Price Waterhouse negligently advised Keele University on implementing a profit-related pay scheme that failed to meet Inland Revenue registration requirements.",
+        "Keele recovered about £1.67 million damages, largely representing 80% of anticipated tax savings lost over several years.",
+        "Price Waterhouse's terms capped liability at £1.7 million but also contained paired acceptance and exclusion limbs relating to direct loss and failure to realise anticipated savings.",
+        "Hart J held the damages were direct loss within the first limb and not excluded by the second limb; the Court of Appeal agreed by a different route."
+      ],
+      "procedural_posture": "Appeal against judgment for professional negligence and against the judge's construction of a contractual limitation and exclusion clause.",
+      "outcome": "Appeal dismissed; loss of anticipated savings caused by negligent advice was recoverable direct loss within the first limb, with the second limb excluding only other liability.",
+      "ratio": "Read as a whole, the clause's use of 'all other liability' in the second limb makes the first limb the primary category of accepted liability; failure to realise anticipated savings expressly listed in the second limb does not exclude such loss when it is a direct result of negligent provision of services, and the cap fixed at twice anticipated savings supports that construction.",
+      "legal_issues": [
+        "Whether loss of anticipated PRP tax savings was excluded by the second limb",
+        "Whether the first and second limbs were irreconcilable",
+        "Whether contra proferentem applied to the exclusion clause",
+        "Whether the Unfair Contract Terms Act 1977 prevented reliance on the clause"
+      ],
+      "catchwords": [
+        "professional negligence",
+        "limitation clause",
+        "exclusion clause",
+        "anticipated savings",
+        "profit-related pay",
+        "contra proferentem"
+      ],
+      "index_terms": [
+        "Price Waterhouse",
+        "Keele University",
+        "accountancy terms of engagement",
+        "direct loss",
+        "Pagnan v Tradax"
+      ],
+      "linked_authorities": [
+        "Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896",
+        "Pagnan SA v Tradax Ocean Transportation SA [1987] 2 Lloyd's Rep 342",
+        "Ailsa Craig Fishing Co v Malvern Fishing Co [1983] 1 WLR 964",
+        "Hadley v Baxendale (1854) 9 Exch 341"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Core construction issue and unanimous outcome are clear; UCTA reasonableness was not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1623.json",
+    "status": "done",
+    "notes": "Attorney-General's reference for unduly lenient s18 domestic hammer attack; sentence increased with double jeopardy discount.",
+    "enrichment": {
+      "short_title": "Unduly lenient sentence for hammer attack on wife",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Domestic violence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        },
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": [
+            "section 18"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Weekes pleaded guilty to causing grievous bodily harm with intent after attacking his wife with a hammer while she lay defenceless on the floor.",
+        "The victim suffered depressed comminuted skull fractures; their 13-year-old son intervened with a knife to stop the attack.",
+        "Snaresbrook Crown Court sentenced him to three years' imprisonment despite multiple aggravating features including use of a weapon, the family home setting, and witness impact on the child.",
+        "Mitigation included good character, a late guilty plea, depression, jealousy, and consumption of beer."
+      ],
+      "procedural_posture": "Attorney-General's reference under section 36 of the Criminal Justice Act 1988 alleging an unduly lenient sentence.",
+      "outcome": "Reference allowed; sentence increased from three years to four and a half years' imprisonment after double jeopardy discount, the appropriate sentence below having been about five and a half to six years.",
+      "ratio": "For a section 18 offence involving a deliberate hammer attack on a defenceless partner in the home, witnessed by a child, a three-year sentence after guilty plea failed adequately to reflect gravity and domestic violence authorities even allowing for mitigation.",
+      "legal_issues": [
+        "Whether the three-year sentence was unduly lenient",
+        "The appropriate range for section 18 domestic violence after guilty plea",
+        "Application of the double jeopardy principle on Attorney-General's references"
+      ],
+      "catchwords": [
+        "unduly lenient",
+        "section 18",
+        "domestic violence",
+        "hammer attack",
+        "Attorney-General's reference",
+        "double jeopardy"
+      ],
+      "index_terms": [
+        "grievous bodily harm with intent",
+        "Snaresbrook Crown Court",
+        "marital violence",
+        "child witness"
+      ],
+      "linked_authorities": [
+        "Attorney-General's Reference No 98 of 2002 (R v Bishop) [2003] 2 Cr App R(S) 563",
+        "R v Hudson [2003] 2 Cr App R(S) 327",
+        "Attorney-General's Reference No 19 of 1994 (R v Arnold) 16 Cr App R(S) 541"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Facts, aggravating features, and substituted sentence are stated explicitly."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1440.json",
+    "status": "done",
+    "notes": "AG reference for broken-bottle wounding of innocent bystander; conceded unduly lenient and increased to three years detention.",
+    "enrichment": {
+      "short_title": "Unduly lenient detention for repeated broken-bottle face wounds",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Youth justice"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        },
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": [
+            "section 18"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 91"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A 17-year-old with a substantial criminal record pleaded guilty to wounding with intent after repeatedly slashing an innocent intervenor's face with a broken bottle outside a nightclub.",
+        "The victim suffered permanent disfiguring scarring requiring stitches, plastic surgery, and ongoing psychological harm.",
+        "Preston Crown Court imposed an 18-month detention and training order, which the offender's counsel conceded was unduly lenient.",
+        "The offender pleaded guilty only after glass-fragment evidence was served and had a history of violence and prior short custodial sentences."
+      ],
+      "procedural_posture": "Attorney-General's reference under section 36 alleging an unduly lenient sentence for section 18 wounding with intent.",
+      "outcome": "Reference allowed; sentence substituted with three years' detention under section 91, reduced from an expected four-year sentence below to reflect double jeopardy.",
+      "ratio": "Deliberate repeated blows with a broken bottle to the face of an innocent peacemaker in a late-night street attack by a violent 17-year-old required a substantially longer custodial term than 18 months to mark gravity and public concern, even allowing for youth and guilty plea.",
+      "legal_issues": [
+        "Whether the 18-month DTO was unduly lenient",
+        "The appropriate sentence for section 18 wounding with a broken bottle by a youth",
+        "Whether section 91 long-term detention rather than a DTO was required",
+        "Weight to be given to personal background versus aggravating features"
+      ],
+      "catchwords": [
+        "unduly lenient",
+        "section 18",
+        "broken bottle",
+        "youth sentencing",
+        "section 91 detention",
+        "Attorney-General's reference"
+      ],
+      "index_terms": [
+        "wounding with intent",
+        "nightclub violence",
+        "disfiguring injury",
+        "double jeopardy",
+        "Preston Crown Court"
+      ],
+      "linked_authorities": [
+        "Attorney-General's Reference Nos 59, 60 and 63 of 1998 [1999] 2 Cr App R(S) 128",
+        "Attorney-General's Reference No 121 of 2002 [2003] EWCA Crim 684"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Unduly lenient finding was conceded and the substituted sentence is clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/867.json",
+    "status": "done",
+    "notes": "Permission-only decision on JR refusal to grant ILR after Article 8 adjudicator success; arguable policy rigidity identified.",
+    "enrichment": {
+      "short_title": "Permission to challenge discretionary leave after Article 8 success",
+      "area_of_law": [
+        "Immigration law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 52.15"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Pakistani citizen entered on a visit visa in 1993 and, after administrative failures, remained in the UK for about ten years before succeeding on Article 8 before an adjudicator.",
+        "The Secretary of State granted discretionary leave to remain until August 2006 rather than indefinite leave, applying a policy distinguishing refugee recognition from human-rights leave.",
+        "Sullivan J refused permission for judicial review, holding the decision was not irrational and Article 8 rights were protected by the ability to apply for extensions.",
+        "The applicant argued the policy was rigidly applied without regard to his unusual long-residence Article 8 case and caused unlawful uncertainty."
+      ],
+      "procedural_posture": "Application for permission to appeal against refusal of permission to apply for judicial review.",
+      "outcome": "Permission to appeal granted and treated as permission to apply for judicial review under CPR 52.15; merits not decided.",
+      "ratio": "Where a claimant succeeded on Article 8 because of deep-rooted private life built up over a decade through no fault of his own, it is arguable that blanket discretionary leave policy was applied without considering the particular case and that prolonged uncertainty itself may breach Article 8.",
+      "legal_issues": [
+        "Whether refusal of indefinite leave was irrational or unlawful",
+        "Whether Home Office policy was too rigidly applied",
+        "Whether limited discretionary leave creates an Article 8 breach through uncertainty",
+        "Whether the adjudicator's intention required indefinite leave"
+      ],
+      "catchwords": [
+        "indefinite leave to remain",
+        "discretionary leave",
+        "Article 8",
+        "judicial review",
+        "immigration policy",
+        "permission to appeal"
+      ],
+      "index_terms": [
+        "private life",
+        "Pakistan",
+        "Home Office policy",
+        "exceptional leave",
+        "long residence"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Interlocutory permission decision only; final JR outcome not before the court."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/1154.json",
+    "status": "done",
+    "notes": "Preliminary issue on PI damages for fund management fees; Wells v Wells and Lord Chancellor 2.5% discount rate central.",
+    "enrichment": {
+      "short_title": "Recoverability of investment management costs in large PI awards",
+      "area_of_law": [
+        "Personal injury",
+        "Tort law",
+        "Damages",
+        "Financial services"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Damages Act 1996",
+          "provisions": [
+            "section 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Callum Page, a seven-year-old with cerebral palsy, pursued a substantial clinical negligence claim where liability was admitted and quantum exceeded £2 million.",
+        "The claimant sought damages for predicted investment advice and fund management charges on the lump sum, estimated at up to about £930,000 on a £5 million award.",
+        "The court tried a preliminary issue whether such costs were recoverable where funds would not be under Court of Protection control after majority.",
+        "The defendant argued the claim was an indirect attack on the 2.5% discount rate prescribed after Wells v Wells."
+      ],
+      "procedural_posture": "Preliminary issue trial on admissibility of a head of damage for investment advice and fund management charges in a personal injury quantum claim.",
+      "outcome": "Claim disallowed; a claimant cannot recover investment advice and fund management charges as a separate head of damages where the Lord Chancellor's 2.5% discount rate already reflects the compensation framework following Wells v Wells.",
+      "ratio": "After Wells v Wells and the Damages Act 1996 prescribed discount rate, investment costs are part of the territory of the discount rate rather than a separate multiplicand item; allowing recovery would undermine certainty and amount to an indirect challenge to the prescribed rate, and the claimant failed to prove he would not achieve the assumed net return without such compensation.",
+      "legal_issues": [
+        "Whether investment advice and fund management charges are recoverable in personal injury damages",
+        "Whether such a claim circumvented the prescribed 2.5% discount rate",
+        "Whether Anderson v Davis survived Wells v Wells",
+        "Whether section 1(2) of the Damages Act 1996 permitted a different rate"
+      ],
+      "catchwords": [
+        "personal injury damages",
+        "discount rate",
+        "investment advice",
+        "fund management",
+        "Wells v Wells",
+        "preliminary issue"
+      ],
+      "index_terms": [
+        "cerebral palsy",
+        "clinical negligence",
+        "index-linked gilts",
+        "Lord Chancellor",
+        "Ogden Tables",
+        "Cooke v United Bristol"
+      ],
+      "linked_authorities": [
+        "Wells v Wells [1999] 1 AC 345",
+        "Anderson v Davis [1993] PIQR Q87",
+        "Francis v Bostock (1985)",
+        "Cooke v United Bristol Healthcare [2004] 1 WLR 251",
+        "Warriner v Warriner [2002] 1 WLR 1703"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Preliminary issue outcome is definitive though quantum figures remain disputed for any full trial."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2004/1215.json",
+    "status": "done",
+    "notes": "Open judgment in V v V with detailed fact-finding on false allegations; residence transferred to father.",
+    "enrichment": {
+      "short_title": "Residence transferred where mother frustrated contact with false allegations",
+      "area_of_law": [
+        "Family law",
+        "Child law",
+        "Contact and residence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 1",
+            "section 11(7)",
+            "section 97"
+          ]
+        },
+        {
+          "title": "Administration of Justice Act 1960",
+          "provisions": [
+            "section 12"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Two girls aged eight and six were subject to four years of contact litigation involving 17 orders and repeated suspension of contact following the parents' 2000 separation.",
+        "The mother repeatedly made false or exaggerated allegations of abuse and coached the children, while presenting herself as supporting contact.",
+        "Bodey J had ordered substantial staying contact in December 2002, but the mother unilaterally stopped contact until a penal notice was attached in May 2003.",
+        "The father applied for residence after finding the mother implacably hostile to contact with him and his family."
+      ],
+      "procedural_posture": "Fact-finding and welfare hearing on the father's application for a residence order in long-running private law Children Act proceedings.",
+      "outcome": "Residence order made in favour of the father; the judge found the mother's allegations false or grossly exaggerated and that continued residence with her would cause ongoing emotional harm.",
+      "ratio": "Where a resident parent systematically undermines court-ordered contact through fabricated allegations, coaching children, and intrusive investigations, transfer of residence may be warranted as the least harmful way to secure the children's relationship with the other capable parent despite the trauma of change.",
+      "legal_issues": [
+        "Whether residence should be transferred from mother to father",
+        "Whether the mother was implacably hostile to contact",
+        "Whether the children's welfare checklist supported a change of residence",
+        "What enforcement options exist for contact orders"
+      ],
+      "catchwords": [
+        "residence order",
+        "contact dispute",
+        "implacable hostility",
+        "parental alienation",
+        "welfare checklist",
+        "penal notice"
+      ],
+      "index_terms": [
+        "V v V",
+        "CAFCASS",
+        "false allegations",
+        "Family Resolutions pilot",
+        "Re K contact committal",
+        "child emotional harm"
+      ],
+      "linked_authorities": [
+        "Re K (Contact: Committal Order) [2003] 1 FLR 277",
+        "Re D (Contact: Enforcement) [2004] EWHC 727"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Extensive fact-finding and welfare reasoning support the residence transfer clearly."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1528.json",
+    "status": "done",
+    "notes": "Crack supply reference found unduly lenient but Court exercised discretion not to increase sentence.",
+    "enrichment": {
+      "short_title": "Unduly lenient crack supply sentence left undisturbed on discretion",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Drugs offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        },
+        {
+          "title": "Misuse of Drugs Act 1971",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A 38-year-old Big Issue seller pleaded guilty to four Class A drug supply offences arising from Operation Manton undercover purchases of crack and heroin in Liverpool.",
+        "He acted as a middleman obtaining drugs from a dealer called Twinny in exchange for pooled cash with undercover officers, partly to fund his own addiction.",
+        "Liverpool Crown Court sentenced him to five months on each count concurrently, deliberately kept below six months so he would be released immediately.",
+        "Since release he had engaged positively with drug treatment and hostel rehabilitation programmes."
+      ],
+      "procedural_posture": "Attorney-General's reference under section 36 alleging unduly lenient sentences for Class A drug supply offences.",
+      "outcome": "Reference allowed on the basis the sentence was unduly lenient, but the Court declined to increase it because of double jeopardy, immediate release, post-release progress, and the sentence's context among 43 co-defendants sentenced by the same judge.",
+      "ratio": "Although five months was unduly lenient for repeated crack and heroin supply in a city-centre undercover operation where 18 months to two years would have been expected, the Court may still refrain from increasing a sentence where double jeopardy, rehabilitation since release, and operational sentencing context make interference inappropriate.",
+      "legal_issues": [
+        "Whether five months was unduly lenient for concerned supply of crack cocaine",
+        "Whether Denslow supported leniency for a middleman addict supplier",
+        "Whether the Court should increase the sentence despite finding it unduly lenient",
+        "Application of double jeopardy on Attorney-General's references"
+      ],
+      "catchwords": [
+        "unduly lenient",
+        "crack cocaine",
+        "Class A drugs",
+        "Attorney-General's reference",
+        "Operation Manton",
+        "double jeopardy"
+      ],
+      "index_terms": [
+        "undercover test purchase",
+        "Liverpool Crown Court",
+        "Big Issue",
+        "heroin supply",
+        "drug dependency"
+      ],
+      "linked_authorities": [
+        "R v Denslow [1998] Crim LR 566",
+        "Attorney-General's Reference No 84 of 2000 [2001] 2 Cr App R(S) 336",
+        "R v Rumble [2003] 1 Cr App R(S) 618"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Unduly lenient finding and reasons for non-interference are explicitly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1180.json",
+    "status": "done",
+    "notes": "Complex offshore finance dispute; main insurance proceeds and title issues resolved though DnB expenses adjourned.",
+    "enrichment": {
+      "short_title": "Distribution of oil platform insurance proceeds after total loss",
+      "area_of_law": [
+        "Commercial law",
+        "Maritime and offshore",
+        "Banking and finance",
+        "Insurance law",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Interlinked agreements financed upgrade of the semi-submersible platform Spirit of Columbus for Petrobras service off Brazil, involving SANA, Petrobras, Brasoil, Petro-Deep, Petromec, and a security agent waterfall.",
+        "After the vessel was lost, about US$168 million insurance proceeds were disputed among parties with competing claims to the Vessel Security Account.",
+        "Petromec claimed a share on the basis it retained title to upgrade materials and equipment; SANA and Petro-Deep relied on waterfall priorities.",
+        "Petrobras received insurance money without perfecting assignments or a loss-payable clause, and litigation concerned how proceeds should be distributed."
+      ],
+      "procedural_posture": "Commercial Court trial of competing claims to insurance proceeds and related security-agency issues following total loss of the vessel.",
+      "outcome": "Petromec's claim to insurance proceeds failed because upgrade materials passed to SANA on incorporation and Petromec had no independent insurable interest under Brazilian law; Brasoil was entitled to recover the balance of proceeds and SANA must account to Brasoil, while DnB expense claims were adjourned.",
+      "ratio": "On incorporation of upgrade materials into the vessel, title passed to SANA so Petromec had no proprietary insurable interest; insurance proceeds assigned to the security agent were to be distributed through the waterfall for secured obligations and any balance attributable to SANA's interest had to be accounted to Brasoil under the purchase and charter total-loss provisions.",
+      "legal_issues": [
+        "Whether Petromec retained title to upgrade equipment and an insurance interest",
+        "How insurance proceeds should be distributed under the Security Agency Agreement waterfall",
+        "Whether SANA could retain residual proceeds after secured obligations were satisfied",
+        "Whether SANA could recover DnB security-agent expenses under clause 8.15",
+        "Brazilian law on third-party claims under property insurance"
+      ],
+      "catchwords": [
+        "insurance proceeds",
+        "offshore platform",
+        "security agent",
+        "waterfall",
+        "total loss",
+        "bareboat charter"
+      ],
+      "index_terms": [
+        "Petromec",
+        "Petrobras",
+        "Spirit of Columbus",
+        "Roncador field",
+        "Den Norske Bank",
+        "Assignment of Insurances",
+        "Brazilian insurance law"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Main distribution and Petromec title holdings are clear, but DnB expense reimbursement and some breach-of-assignment remedies were adjourned."
+      }
+    }
+  }
+]

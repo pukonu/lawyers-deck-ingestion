@@ -1,0 +1,664 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/147.json",
+    "status": "needs_review",
+    "notes": "Source judges metadata lists historical Law Lords and is unreliable; Sullivan J identified from full text.",
+    "enrichment": {
+      "short_title": "Whether demolition commenced 1967 outline planning permission",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 55", "section 192", "section 195", "section 288"]
+        },
+        {
+          "title": "Town and Country Planning Act 1968",
+          "provisions": ["section 65", "section 66", "section 67"]
+        },
+        {
+          "title": "Town and Country Planning Act 1971",
+          "provisions": ["section 43", "Schedule 24"]
+        },
+        {
+          "title": "Town and Country Planning Act 1962",
+          "provisions": ["section 12", "section 13", "section 221"]
+        },
+        {
+          "title": "Land Commission Act 1967",
+          "provisions": ["section 64"]
+        },
+        {
+          "title": "Planning (Consequential Provisions) Act 1990",
+          "provisions": ["Schedule 3"]
+        }
+      ],
+      "key_facts": [
+        "Outline planning permission granted in 1967 for demolition of cottages and erection of two bungalows at Crawley.",
+        "The owner demolished the cottages between January 1969 and November 1970 but did not build the bungalows.",
+        "The claimant sought a lawful development certificate on the basis that development had been begun before the 1974 time limit.",
+        "The inspector dismissed the appeal, treating demolition as not development and doubting whether demolition commenced the permitted scheme.",
+        "The Secretary of State argued that commencement required a specified operation under section 43(2) and demolition was not construction."
+      ],
+      "procedural_posture": "Section 288 application to quash an inspector's decision on a section 192 lawful development certificate appeal.",
+      "outcome": "Application allowed; inspector's decision quashed; permission to appeal granted on the section 43 point.",
+      "ratio": "Where demolition of existing buildings was authorised by outline permission and carried out as part of the permitted scheme, the development had been begun for time-limit purposes notwithstanding that demolition is not a work of construction under section 43(2); an inspector errs in speculating about the landowner's subjective motives when applying Riordan's objective commencement test.",
+      "legal_issues": [
+        "Whether demolition can amount to development and commencement of permitted building operations",
+        "Whether section 43(2) specified operations are the only way development may be begun for pre-1969 permissions",
+        "Application of Riordan and Ceredigion to lawful development certificate evidence",
+        "Whether subjective intention is relevant to commencement of development"
+      ],
+      "catchwords": [
+        "planning permission",
+        "commencement of development",
+        "lawful development certificate",
+        "demolition",
+        "section 43",
+        "specified operations",
+        "time limit condition"
+      ],
+      "index_terms": [
+        "Field v First Secretary of State",
+        "Forders Cottages Crawley",
+        "Marks and Spencer",
+        "Riordan Communications",
+        "Ceredigion County Council",
+        "Cambridge City Council",
+        "Schedule 24 TCPA 1971"
+      ],
+      "linked_authorities": [
+        "Cambridge City Council v Secretary of State for the Environment",
+        "Riordan Communications Ltd v South Buckinghamshire District Council",
+        "Ceredigion County Council v National Assembly for Wales",
+        "London County Council v Marks & Spencer",
+        "Coleshill v Minister of Housing and Local Government",
+        "Iddenden v Secretary of State for the Environment",
+        "Malvern Hills District Council v Secretary of State for the Environment"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome and legal reasoning are clear from a full judgment. Judge taken from text; source judges field is unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/7.json",
+    "status": "needs_review",
+    "notes": "Source judges metadata includes anachronistic names; Evans-Lombe, Mance and Thorpe LJJ identified from full text.",
+    "enrichment": {
+      "short_title": "Anti-suit injunction and ISDA non-exclusive jurisdiction clause",
+      "area_of_law": [
+        "Conflict of laws",
+        "Commercial contract",
+        "Banking and finance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["section 37"]
+        }
+      ],
+      "key_facts": [
+        "Royal Bank of Canada and Rabobank disputed a $523.8m Enron-related total return swap governed by English law.",
+        "Rabobank commenced proceedings in New York one day before RBC issued English proceedings; claims mirrored each other.",
+        "The ISDA Master Agreement contained a non-exclusive English jurisdiction clause permitting parallel foreign proceedings.",
+        "RBC sought an injunction restraining Rabobank from pursuing the New York action to judgment, save for discovery.",
+        "Andrew Smith J refused the injunction; RBC appealed on the basis that the clause made England the primary forum."
+      ],
+      "procedural_posture": "Appeal with permission against refusal of a section 37 anti-suit injunction restraining foreign proceedings.",
+      "outcome": "Appeal dismissed; Rabobank permitted to continue the New York proceedings to trial.",
+      "ratio": "A non-exclusive jurisdiction clause that expressly contemplates parallel proceedings in other jurisdictions does not impliedly require trial first in England or prohibit a foreign action from proceeding to judgment; pursuing foreign proceedings to trial is not vexatious or oppressive merely because an English trial is also fixed unless unconscionable conduct is shown.",
+      "legal_issues": [
+        "Effect of a non-exclusive ISDA jurisdiction clause on anti-suit relief",
+        "Whether parties impliedly agreed England would have primacy at trial",
+        "When parallel foreign proceedings become vexatious or oppressive",
+        "Application of Aerospatiale, Turner v Grovit and Sabah Shipyard principles"
+      ],
+      "catchwords": [
+        "anti-suit injunction",
+        "non-exclusive jurisdiction clause",
+        "ISDA Master Agreement",
+        "parallel proceedings",
+        "forum",
+        "comity",
+        "Enron swap"
+      ],
+      "index_terms": [
+        "Royal Bank of Canada v Rabobank",
+        "New York Supreme Court",
+        "section 37 SCA 1981",
+        "Turner v Grovit",
+        "Sabah Shipyard v Pakistan",
+        "Angelic Grace",
+        "Du Pont v Agnew"
+      ],
+      "linked_authorities": [
+        "Turner v Grovit",
+        "Societe Nationale Industrielle Aerospatiale v Lee Kui Jak",
+        "Airbus Industrie GIE v Patel",
+        "Credit Suisse First Boston (Europe) Ltd v MLC (Bermuda) Ltd",
+        "Sabah Shipyard (Pakistan) Ltd v Islamic Republic of Pakistan",
+        "Angelic Grace",
+        "Donohue v Armco"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with clear outcome. Source judges array is unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/11.json",
+    "status": "needs_review",
+    "notes": "Source judges metadata includes Lord Denning MR; Pill, Mummery and May LJJ identified from full text.",
+    "enrichment": {
+      "short_title": "Proper respondent for constructive unfair dismissal at community school",
+      "area_of_law": [
+        "Employment law",
+        "Education law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": ["section 94", "section 95", "Part X"]
+        },
+        {
+          "title": "School Standards and Framework Act 1998",
+          "provisions": ["section 20", "section 38", "section 54", "section 81", "Schedule 10", "Schedule 16", "Schedule 17"]
+        },
+        {
+          "title": "Education (Modification of Enactments Relating to Employment) Order 1999",
+          "provisions": ["Article 2", "Article 3", "Article 6"]
+        },
+        {
+          "title": "Employment Tribunals Act 1996",
+          "provisions": ["section 1"]
+        }
+      ],
+      "key_facts": [
+        "Mrs Green, deputy head at Victoria Road Primary School, claimed constructive unfair dismissal.",
+        "Kent County Council employed her but the governing body controlled staffing under delegated budget arrangements.",
+        "The employment tribunal dismissed the council as respondent, holding the governing body was the sole proper party.",
+        "The EAT reinstated the council, treating constructive dismissal as outside the governing body's employment powers.",
+        "The Court of Appeal held article 6 of the 1999 Order required proceedings against the governing body alone."
+      ],
+      "procedural_posture": "Appeal by the local education authority against an Employment Appeal Tribunal decision on a preliminary issue as to proper respondents.",
+      "outcome": "Appeal allowed; governing body held to be the sole respondent; council application to be dismissed from proceedings granted.",
+      "ratio": "Under the 1999 Order, unfair dismissal claims against community school staff, including constructive dismissal under section 95(1)(c), must be brought against the governing body acting in exercise of employment powers; the local education authority cannot be joined as respondent against its will, though awards take effect against the authority.",
+      "legal_issues": [
+        "Construction of employment powers in article 2(2) of the 1999 Order",
+        "Whether constructive dismissal falls within Schedule 16 dismissal procedures",
+        "Proper respondents under article 6 for unfair dismissal proceedings",
+        "Distinction between governing body and local education authority liability"
+      ],
+      "catchwords": [
+        "unfair dismissal",
+        "constructive dismissal",
+        "community school",
+        "governing body",
+        "local education authority",
+        "employment tribunal",
+        "1999 Modification Order"
+      ],
+      "index_terms": [
+        "Kent County Council v Green",
+        "Victoria Road Primary School Ashford",
+        "article 6 1999 Order",
+        "Schedule 16 SSFA 1998",
+        "Western Excavating v Sharpe",
+        "employment powers"
+      ],
+      "linked_authorities": [
+        "Western Excavating (ECC) Ltd v Sharpe",
+        "R v Bromley London Borough Council ex p Sinclair"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full judgment on a discrete statutory construction issue. Source judges metadata includes an incorrect historical name."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/91.json",
+    "status": "needs_review",
+    "notes": "Source judges array is empty; Newman J identified from full text.",
+    "enrichment": {
+      "short_title": "Section 55 asylum support and Article 3 destitution threshold",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": ["section 55"]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": ["section 95"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 3"]
+        }
+      ],
+      "key_facts": [
+        "Mr Zardasht, a 20-year-old Iraqi asylum seeker, applied late for asylum and had section 55 support withdrawn.",
+        "He claimed entitlement to support under section 55(5) because refusal would expose him to inhuman or degrading treatment.",
+        "He slept rough for about fourteen days in parks and a church with only intermittent access to food.",
+        "His evidence lacked detail on food, hygiene, charitable support and inability to fend for himself.",
+        "The Secretary of State argued the Pretty threshold was not met and charitable day centres were available."
+      ],
+      "procedural_posture": "Judicial review of refusal of asylum support under section 55(5) of the 2002 Act.",
+      "outcome": "Application dismissed; permission to appeal refused; interim relief discharged.",
+      "ratio": "Refusal of section 55 support does not breach Article 3 unless the claimant proves, with detailed evidence, that his condition verges on the severity in Pretty, that charitable support and self-help have been exhausted, and that inhuman or degrading treatment is imminently impending; generic assertions of destitution and homelessness are insufficient.",
+      "legal_issues": [
+        "Evidential requirements under section 55(5) NIAA 2002",
+        "Meaning of treatment verging on Article 3 in Pretty",
+        "Relevance of charitable day centres and ability to fend for oneself",
+        "Whether imminence and temporal duration of destitution matter"
+      ],
+      "catchwords": [
+        "section 55",
+        "asylum support",
+        "Article 3",
+        "destitution",
+        "judicial review",
+        "Pretty threshold",
+        "sleeping rough"
+      ],
+      "index_terms": [
+        "R v Secretary of State for the Home Department ex p Q",
+        "R v Secretary of State for the Home Department ex p T",
+        "NASS support withdrawal",
+        "Refugee Council",
+        "verging on inhuman treatment"
+      ],
+      "linked_authorities": [
+        "R (on the application of Q) v Secretary of State for the Home Department",
+        "R (on the application of T) v Secretary of State for the Home Department",
+        "Pretty v United Kingdom"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Full administrative judgment with detailed guidance. Judge identified from text; source judges field empty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/3.json",
+    "status": "needs_review",
+    "notes": "Source judges metadata includes historical Law Lords; Mance, Evans-Lombe and Thorpe LJJ identified from full text.",
+    "enrichment": {
+      "short_title": "Letter of credit as condition precedent to FOB laytime",
+      "area_of_law": [
+        "Sale of goods",
+        "Commercial contract",
+        "Shipping and commodities"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Kronos sold Sempra gasoil FOB Constantza under a contract requiring payment by irrevocable letter of credit.",
+        "Sempra nominated a vessel that arrived on 28 June 2001 but no letter of credit was opened until 5 or 6 July.",
+        "Kronos had no cargo ready until early July because of refinery slippage.",
+        "Sempra claimed demurrage from 30 June; Kronos argued laytime could not run before the credit was provided.",
+        "The judge held laytime could run independently of the letter of credit condition; Kronos appealed on a preliminary issue."
+      ],
+      "procedural_posture": "Appeal on a preliminary issue of law as to when laytime commenced under an FOB sale contract.",
+      "outcome": "Appeal allowed; laytime did not run until after the letter of credit was opened, subject to waiver.",
+      "ratio": "Where an FOB contract makes provision of a letter of credit a condition precedent to the seller's duty to perform any part of the loading operation, laytime under incorporated charterparty terms cannot begin to run until that condition is satisfied; the laytime and payment provisions bear on the same subject matter and cannot be treated as independent.",
+      "legal_issues": [
+        "Whether letter of credit is a condition precedent to commencement of laytime",
+        "Relationship between laytime provisions and seller's loading obligations",
+        "Whether late provision of credit can retrospectively trigger laytime",
+        "Application of The Aello to berth and cargo availability"
+      ],
+      "catchwords": [
+        "FOB contract",
+        "letter of credit",
+        "laytime",
+        "demurrage",
+        "condition precedent",
+        "notice of readiness",
+        "gasoil"
+      ],
+      "index_terms": [
+        "Kronos v Sempra",
+        "Constantza",
+        "Trans Trust SPRL v Danubian Trading",
+        "Ian Stach Ltd v Baker Bosley Ltd",
+        "Plasticmoda v Davidsons",
+        "The Aello",
+        "charterparty incorporation"
+      ],
+      "linked_authorities": [
+        "Trans Trust SPRL v Danubian Trading Co Ltd",
+        "Ian Stach Ltd v Baker Bosley Ltd",
+        "Plasticmoda Societa P.A. v Davidsons (Manchester) Ltd",
+        "Dias Co Nav SA v Louis Dreyfus Corpn",
+        "Soc Financiera de Bienes Raices SA v Agrimpex Hungarian Trading Co (The Aello)"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Clear preliminary issue decision on assumed facts. Source judges metadata unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/122.json",
+    "status": "needs_review",
+    "notes": "Judgment covers costs only after earlier merits decision; limited factual context in source file.",
+    "enrichment": {
+      "short_title": "Costs after split outcome in property and business dispute",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Aujla and Sanghera disputed interests in property called the Mills and payments relating to a transferred business.",
+        "The recorder reserved costs, indicating he was inclined to make no order because neither side fully succeeded.",
+        "The Court of Appeal had set aside parts of the recorder's order on business payment and security issues.",
+        "Arden LJ held the recorder's costs reasoning was undermined and Sanghera had been the overall winner.",
+        "The recorder had not based his costs order on adverse credibility findings alone."
+      ],
+      "procedural_posture": "Appeal on costs following an earlier appeal setting aside parts of a recorder's judgment.",
+      "outcome": "Appeal on costs allowed; claimant ordered to pay Sanghera's costs of the action before the recorder.",
+      "ratio": "Where a judge reserves costs on the basis that neither party truly won but an appellate court later sets aside the reasoning because one party succeeded on the merits, the costs order must be reconsidered and costs should ordinarily follow the event in favour of the successful party.",
+      "legal_issues": [
+        "Effect of setting aside substantive judgment on a reserved costs order",
+        "Whether adverse credibility findings justify no order as to costs",
+        "Application of costs follow the event where each side partially failed"
+      ],
+      "catchwords": [
+        "costs",
+        "costs follow the event",
+        "reserved costs",
+        "credibility",
+        "recorder",
+        "property dispute"
+      ],
+      "index_terms": [
+        "Aujla v Sanghera",
+        "costs discretion",
+        "no order as to costs",
+        "split outcome"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.78,
+        "level": "medium",
+        "notes": "Costs reasoning is clear but underlying merits and property issues are not fully recorded in the source file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/52.json",
+    "status": "needs_review",
+    "notes": "Very long judgment; source judges metadata includes historical names; Peter Smith J identified from full text.",
+    "enrichment": {
+      "short_title": "Director's breach of duty over Craven Cottage acquisition",
+      "area_of_law": [
+        "Company law",
+        "Equity and trusts",
+        "Employment and fiduciary duties"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Sutton was a director and employee of Dilmun group companies funded by Bahrain International Bank.",
+        "He acquired a conditional contract to buy Craven Cottage stadium through FRP, a company he helped incorporate.",
+        "The opportunity arose from his role and he concealed it from his employers, who would have been interested.",
+        "FRP was funded partly through structures linked to Sutton and external property investors.",
+        "The claimants sought an account of profits, constructive trust, and dishonest assistance against FRP."
+      ],
+      "procedural_posture": "Trial of claims for breach of contract, breach of fiduciary duty, account of profits, constructive trust and dishonest assistance.",
+      "outcome": "Both defendants held liable to account to the claimants; quantum and allowances deferred to the taking of accounts.",
+      "ratio": "A director and employee who takes for himself a property development opportunity obtained through his position, without informed consent after full disclosure, breaches fiduciary and contractual duties and is liable to account for profits; corporate vehicles with knowledge of the breach are also liable, with any equitable allowance reserved for the accounts stage.",
+      "legal_issues": [
+        "Scope of fiduciary duties and conflict of interest in property development",
+        "Whether board minutes authorised pursuit of outside opportunities",
+        "Liability of a corporate vehicle for dishonest assistance or knowing receipt",
+        "Election between account of profits and constructive trust",
+        "Whether claimants must elect before planning permission is resolved"
+      ],
+      "catchwords": [
+        "fiduciary duty",
+        "corporate opportunity",
+        "account of profits",
+        "constructive trust",
+        "dishonest assistance",
+        "director",
+        "conflict of interest"
+      ],
+      "index_terms": [
+        "Dilmun v Sutton",
+        "Craven Cottage Fulham",
+        "FRP Fulham Road Properties",
+        "Bahrain International Bank",
+        "Boardman v Phipps",
+        "Guinness v Saunders",
+        "property SPV"
+      ],
+      "linked_authorities": [
+        "Boardman v Phipps",
+        "Guinness v Saunders",
+        "Fyffes Group Ltd v Templeman",
+        "Warman International Ltd v Dwyer",
+        "Keech v Sandford"
+      ],
+      "confidence": {
+        "score": 0.85,
+        "level": "high",
+        "notes": "Core liability outcome is clear from the judgment's closing paragraphs. Detailed factual and quantum issues remain for accounts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/66.json",
+    "status": "done",
+    "notes": "Follow-up rulings on storage cover and diverted cargoes after Phase 1 judgment; Moore-Bick J clearly identified.",
+    "enrichment": {
+      "short_title": "Open-cover storage insurance and diverted oil cargoes",
+      "area_of_law": [
+        "Insurance law",
+        "Commodity trading",
+        "Commercial contract"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Glencore held an open facultative/obligatory cargo insurance cover with Alpina relating to oil stored at Fujairah.",
+        "Three Cheleken crude cargoes were declared FOB-STORE without specifying a storage period and later went missing.",
+        "Alpina argued storage cover expired after 30 days unless further declared; Glencore contended cover was continuous.",
+        "Separate issues arose where MTI diverted incoming cargoes for its own use while crediting Glencore in records.",
+        "Moore-Bick J gave Phase 1 judgment in November 2003; this judgment resolved two remaining coverage issues."
+      ],
+      "procedural_posture": "Further issues determination during multi-phase Commercial Court proceedings on quantum preparation.",
+      "outcome": "Cheleken cargoes held insured whenever loss occurred; each diverted cargo held to have caused an insured loss.",
+      "ratio": "Under a facultative/obligatory open cover, a storage declaration without a time limit requests continuous cover until the goods cease to be at risk or cover is expressly withdrawn; diversion of a fungible cargo by a warehouse operator causes an insured loss unless there is clear evidence the operator intended and effected a contemporaneous substitute transfer of equivalent stock.",
+      "legal_issues": [
+        "Construction of storage declarations under condition 1.18 of the open cover",
+        "Whether 30-day premium periods limit the duration of storage cover",
+        "Whether diverted cargoes caused loss where MTI held equivalent stock",
+        "Inference of intention to transfer substitute title from warehouse records"
+      ],
+      "catchwords": [
+        "cargo insurance",
+        "open cover",
+        "storage cover",
+        "commodity fraud",
+        "diverted cargo",
+        "Fujairah",
+        "bordereaux"
+      ],
+      "index_terms": [
+        "Glencore v Alpina",
+        "Cheleken crude",
+        "MTI Fujairah",
+        "condition 1.18",
+        "FOB-STORE declaration",
+        "James Roscoe v Winder",
+        "fungible commodities"
+      ],
+      "linked_authorities": [
+        "James Roscoe (Bolton) Ltd v Winder"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Focused supplemental judgment with clear holdings on both issues. Judge and prior phase context explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/160.json",
+    "status": "needs_review",
+    "notes": "Source judges metadata lists Lord Hailsham; Richards J identified from full text.",
+    "enrichment": {
+      "short_title": "Use Class C3 for supported living home with shift carers",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 55", "section 192", "section 195", "section 288"]
+        },
+        {
+          "title": "Town and Country Planning (Use Classes) Order 1987",
+          "provisions": ["Class C2", "Class C3", "paragraph 2"]
+        }
+      ],
+      "key_facts": [
+        "Oak House, a former family dwelling with a granny annexe, was used for four adults with learning disabilities.",
+        "Two non-resident carers were on site at all times under a shift system.",
+        "The Evesleigh Group sought a certificate of lawfulness for the use; Crawley Council refused.",
+        "An inspector held the use fell within Class C3(b) as a single household with care provided.",
+        "The council challenged the decision, relying on North Devon and the annexe's partial separation."
+      ],
+      "procedural_posture": "Section 288 challenge to an inspector's decision allowing a section 195 appeal for a section 192 certificate.",
+      "outcome": "Claim dismissed; inspector's decision upheld; certificate of lawfulness confirmed.",
+      "ratio": "Use of a dwelling by up to six residents with learning disabilities living together as a single household, including where non-resident carers provide full-time care, may fall within Class C3(b); the North Devon distinction for children and non-resident carers does not determinatively exclude adults who themselves constitute a household on the facts.",
+      "legal_issues": [
+        "Whether supported living with shift-based non-resident carers is Class C2 or C3",
+        "Application of North Devon District Council v First Secretary of State",
+        "Whether physical annexe separation prevents a single household finding",
+        "Materiality of decided cases as planning considerations"
+      ],
+      "catchwords": [
+        "use classes",
+        "Class C3",
+        "Class C2",
+        "certificate of lawfulness",
+        "supported living",
+        "learning disabilities",
+        "single household"
+      ],
+      "index_terms": [
+        "Crawley Borough Council v Helberg",
+        "Oak House Weald Drive",
+        "North Devon",
+        "R v Bromley ex p Sinclair",
+        "R (Hossack) v Kettering",
+        "DoE Circular 13/87"
+      ],
+      "linked_authorities": [
+        "North Devon District Council v First Secretary of State",
+        "R v Bromley London Borough Council ex p Sinclair",
+        "R (Hossack) v Kettering Borough Council",
+        "Simmons v Pizzey"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Full administrative judgment with clear outcome. Source judges field unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/63.json",
+    "status": "needs_review",
+    "notes": "Source judges metadata unreliable; Lindsay J identified as trial judge from full text.",
+    "enrichment": {
+      "short_title": "Hello! wedding-photo litigation costs after liability win",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Privacy and confidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Part 44", "rule 44.3", "rule 44.4"]
+        },
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["Article 8", "Article 10"]
+        }
+      ],
+      "key_facts": [
+        "Michael Douglas, Catherine Zeta-Jones and Hello! Ltd had already litigated breach of confidence over unauthorised wedding photographs.",
+        "The Hello! defendants were ordered to pay about £1.05m damages but defeated claims against the Marquesa and on several torts.",
+        "Hello! had obtained a false witness statement and procured a misleading letter used in the Court of Appeal injunction appeal.",
+        "This hearing determined costs of liability and quantum trials, interest, and whether to set aside the Court of Appeal costs order.",
+        "Lindsay J awarded 75% of liability costs and 85% of quantum costs on the standard basis and replaced the CA costs order with no order."
+      ],
+      "procedural_posture": "Costs hearing following liability and quantum trials in a celebrity breach of confidence action.",
+      "outcome": "Claimants awarded 75% of liability costs and 85% of quantum costs on standard basis; Court of Appeal costs order set aside to no order; £120,000 interest on damages; no costs for unsuccessful claim against Marquesa.",
+      "ratio": "Where claimants substantially win on breach of confidence but lose several other issues, costs should reflect proportionate success rather than a strict issue-by-issue tally; prior fraudulent conduct before the Court of Appeal can justify setting aside a costs order in the appellants' favour even if the injunction outcome would not have changed.",
+      "legal_issues": [
+        "Proportionate costs where claimants win main claim but lose multiple issues",
+        "Indemnity versus standard basis after dishonest litigation conduct",
+        "Setting aside Court of Appeal costs order for fraud or dishonesty",
+        "Interest on damages and on paid solicitors' costs",
+        "Costs of unsuccessful joinder of the Marquesa"
+      ],
+      "catchwords": [
+        "costs",
+        "breach of confidence",
+        "celebrity privacy",
+        "indemnity costs",
+        "fraud on the court",
+        "issue-based costs",
+        "Hello! magazine"
+      ],
+      "index_terms": [
+        "Douglas v Hello!",
+        "wedding photographs",
+        "CPR Part 44",
+        "setting aside judgment for fraud",
+        "Kuwait Airways v Iraqi Airways",
+        "interest on costs Bim Kemie"
+      ],
+      "linked_authorities": [
+        "AEI Rediffusion v PPL",
+        "Roache v Newsgroup Newspapers Ltd",
+        "Ford v GKR Construction Ltd",
+        "Johnsey Estates v Secretary of State for the Environment",
+        "Oksuzoglu v Kay",
+        "Kuwait Airways Corporation v Iraqi Airways Corporation",
+        "Bim Kemie AB v Blackburn Chemicals Ltd",
+        "Ahmed v Jaura"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Detailed costs judgment following earlier liability and quantum findings summarised within the text. Trial judge identified from text."
+      }
+    }
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2004/621.json",
+    "status": "done",
+    "notes": "Naval court martial Article 6 appeal following Grieves; conviction quashed and remedial Order context is clear.",
+    "enrichment": {
+      "short_title": "Naval court martial unfair trial under Article 6 after Grieves",
+      "area_of_law": [
+        "Criminal law",
+        "Military justice",
+        "Human rights",
+        "Court martial procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Naval Discipline Act 1957",
+          "provisions": [
+            "section 11",
+            "section 53C",
+            "section 70"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 2(1)",
+            "section 3(1)"
+          ]
+        },
+        {
+          "title": "Courts Martial (Appeals) Act 1968",
+          "provisions": [
+            "section 19(1)"
+          ]
+        },
+        {
+          "title": "Naval Discipline Act 1957 (Remedial) Order 2004",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The appellant was convicted at a naval court martial in July 2003 of using violence to a superior officer and sentenced to 36 days detention.",
+        "The Judge Advocate at trial was a serving naval officer appointed by the Chief Naval Judge Advocate, not a civilian.",
+        "Following the ECtHR decision in Grieves, the appeal challenged whether Article 6 required an independent and impartial tribunal.",
+        "Post-Grieves reforms included civilian Judge Advocates and the 2004 Remedial Order changing appointment procedures."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Criminal Division) on Article 6 fairness and unsafe conviction after leave was granted.",
+      "outcome": "Appeal allowed; conviction quashed as unsafe; no re-trial ordered; declaration of incompatibility refused.",
+      "ratio": "Applying Grieves, a naval court martial with a serving naval officer as Judge Advocate appointed by a serving naval officer lacked the independence required by Article 6; where unfairness arises from want of tribunal independence, the conviction cannot be safe.",
+      "legal_issues": [
+        "Whether Grieves applied to naval courts martial after QRRN 3630 and revised briefing notes",
+        "Whether Article 6 was breached by court martial composition apart from the Judge Advocate",
+        "Whether an Article 6 breach from lack of independence could nonetheless leave a conviction safe",
+        "Whether a declaration of incompatibility was warranted under section 53C(4) NDA 1957"
+      ],
+      "catchwords": [
+        "Article 6",
+        "naval court martial",
+        "Judge Advocate",
+        "Grieves",
+        "independence",
+        "unsafe conviction"
+      ],
+      "index_terms": [
+        "European Convention on Human Rights",
+        "Cooper v United Kingdom",
+        "Findlay v United Kingdom",
+        "Millar v Dickson",
+        "Spear",
+        "HMS Drake"
+      ],
+      "linked_authorities": [
+        "Grieves v United Kingdom Application No 57067/00",
+        "Cooper v United Kingdom Application No 48843/99",
+        "Findlay v United Kingdom [1997] 24 EHRR 221",
+        "Millar v Dickson [2002] 1 WLR 1615",
+        "Spear [2003] 1 AC 734",
+        "Togher [2001] 1 Cr App R 457"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Article 6 analysis, outcome, and Grieves application are explicit. Some historical post-judgment policy changes are noted but not central to the ratio."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/444.json",
+    "status": "done",
+    "notes": "Portuguese bankruptcy recognition and appellant standing; procedural history is complex but the court's conclusions are clear.",
+    "enrichment": {
+      "short_title": "Portuguese bankruptcy bars bankrupt from pursuing civil appeals",
+      "area_of_law": [
+        "Conflict of laws",
+        "Insolvency law",
+        "Civil procedure",
+        "Bankruptcy recognition"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Dr Vakil owed Mr Swycher over £1.5 million following High Court judgments in debt proceedings.",
+        "A Portuguese bankruptcy declaration was made against Dr Vakil in Lisbon on 3 July 2000 while embargos proceedings were pending.",
+        "The Court of Appeal remitted the question of Dr Vakil's standing to prosecute appeals to Mr Justice Simon, who held he had no standing.",
+        "Dr Vakil failed to appear at the permission hearing after repeated adjournment applications and travel to Brazil."
+      ],
+      "procedural_posture": "Directions judgment on permission to appeal from Simon J's standing ruling and application to strike out pending appeals.",
+      "outcome": "Permission to appeal refused; appeals 2002/1050 and 2002/1582 struck out for lack of standing; Swycher confirmed in his judgment.",
+      "ratio": "English conflict rules recognise a foreign bankruptcy order in rem notwithstanding pending annulment or appeal; under Portuguese law the bankrupt loses the right to litigate and the trustee takes over, so Dr Vakil had no standing to pursue the appeals.",
+      "legal_issues": [
+        "Whether the Portuguese bankruptcy declaration was final and conclusive for recognition purposes",
+        "Effect of pending embargos and recurso on recognition under Dicey Rule 35",
+        "Whether Dr Vakil had standing to apply for permission to appeal Simon J's order",
+        "Whether non-payment of judgment sums justified striking out the appeals"
+      ],
+      "catchwords": [
+        "foreign bankruptcy",
+        "standing to appeal",
+        "conflict of laws",
+        "Dicey and Morris",
+        "recognition",
+        "embargos"
+      ],
+      "index_terms": [
+        "Portuguese insolvency law",
+        "liquidatorio judicial",
+        "Nuvion v Freeman",
+        "Swycher v Vakil",
+        "judgment in personam",
+        "judgment in rem"
+      ],
+      "linked_authorities": [
+        "Nuvion v Freeman [1889] 15 AC 1"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Conflict of laws analysis and standing outcome are well reasoned. Some procedural history is lengthy but does not affect core holdings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/324.json",
+    "status": "done",
+    "notes": "First SIAC success under ATCSA 2001; permission to appeal refused on perversity grounds; closed material limits open-judgment detail.",
+    "enrichment": {
+      "short_title": "Secretary of State refused permission to appeal first SIAC certification cancellation",
+      "area_of_law": [
+        "Immigration and asylum",
+        "National security",
+        "Terrorism law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Anti-terrorism, Crime and Security Act 2001",
+          "provisions": [
+            "section 21",
+            "section 23",
+            "section 25",
+            "section 33"
+          ]
+        },
+        {
+          "title": "Special Immigration Appeals Commission Act 1997",
+          "provisions": [
+            "section 1",
+            "section 5",
+            "section 6",
+            "section 7"
+          ]
+        },
+        {
+          "title": "Terrorism Act 2000",
+          "provisions": [
+            "section 1"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998 (Designated Derogation) Order 2001",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "M, a Libyan national, was certified under section 21 ATCSA 2001 as a suspected international terrorist and detained.",
+        "SIAC allowed M's appeal in March 2004, the first successful challenge to certification under the 2001 Act.",
+        "SIAC found assessments were not reliably supported by evidence and reasonable suspicion of Al Qa'ida links was not established.",
+        "Special advocates rigorously tested closed material; M did not participate in the closed hearing."
+      ],
+      "procedural_posture": "Application for permission to appeal to the Court of Appeal on questions of law from SIAC's first cancellation of a section 21 certificate.",
+      "outcome": "Permission to appeal refused; SIAC's decision was not perverse or unsupported by evidence.",
+      "ratio": "SIAC must make its own objective judgment whether reasonable grounds exist for the Secretary of State's belief or suspicion; where SIAC's value judgment on the whole evidence is not perverse, the Court of Appeal cannot interfere on a question of law alone.",
+      "legal_issues": [
+        "Whether SIAC failed to consider the evidence as a whole",
+        "Whether reasonable suspicion of links to Al Qa'ida was established",
+        "The proper test under section 25 ATCSA 2001",
+        "Role of special advocates in closed SIAC proceedings"
+      ],
+      "catchwords": [
+        "SIAC",
+        "international terrorist",
+        "section 21 certificate",
+        "reasonable suspicion",
+        "special advocate",
+        "national security"
+      ],
+      "index_terms": [
+        "Libyan Islamic Fighting Group",
+        "Chahal v UK",
+        "ATCSA detention",
+        "closed material",
+        "generic judgment",
+        "Al Qa'ida"
+      ],
+      "linked_authorities": [
+        "Chahal v UK (1996) 23 EHRR 413"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Statutory framework and refusal of permission are clear. Detailed intelligence evidence is largely in closed judgment not fully reflected in the open text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/312.json",
+    "status": "done",
+    "notes": "Leading interim ASBO without-notice appeal; Article 6 and Rule 5 analysis is comprehensive and outcome clear.",
+    "enrichment": {
+      "short_title": "Interim ASBO without notice held compatible with Article 6",
+      "area_of_law": [
+        "Anti-social behaviour",
+        "Human rights",
+        "Magistrates' court procedure",
+        "Public law",
+        "Criminal justice"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": [
+            "section 1",
+            "section 1D",
+            "section 4"
+          ]
+        },
+        {
+          "title": "Police Reform Act 2002",
+          "provisions": [
+            "section 65"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Leeds City Council and police sought interim ASBOs without notice against 66 individuals linked to drug dealing in Little London, Leeds.",
+        "M, aged 17, received an interim order on 2 September 2003 excluding him from the area and restricting contact with named associates.",
+        "Owen J refused judicial review but granted Kenny relief on insufficient evidence; M appealed on Article 6 and Rule 5 grounds.",
+        "Operation Cape involved daily drug-related anti-social behaviour and fear of witness intimidation if notice were given."
+      ],
+      "procedural_posture": "Appeal from Administrative Court refusal of judicial review of interim ASBO made without notice under Rule 5 of the 2002 ASBO Rules.",
+      "outcome": "Appeal dismissed; interim ASBO without-notice procedure held lawful; Article 6 not engaged on making of interim order; correct 'just' test applied.",
+      "ratio": "An interim ASBO made without notice for a fixed period with safeguards (service, return date, Rule 6 variation/discharge) does not determine civil rights for Article 6 purposes; the statutory test is whether it is just to make the order, not proof of an extremely strong prima facie case.",
+      "legal_issues": [
+        "Whether Article 6(1) applies to interim ASBOs made without notice",
+        "Lawfulness of Rule 5 Magistrates' Courts (Anti-Social Behaviour) Rules 2002",
+        "Proper test for granting interim ASBO without notice",
+        "Whether without-notice procedure was necessary in M's case"
+      ],
+      "catchwords": [
+        "interim ASBO",
+        "without notice",
+        "Article 6",
+        "Operation Cape",
+        "Rule 5",
+        "McCann"
+      ],
+      "index_terms": [
+        "Little London Leeds",
+        "ex parte orders",
+        "Markass Car Hire v Cyprus",
+        "R (McCann) v Manchester City Council",
+        "Schuler-Zgraggen v Switzerland",
+        "proportionality"
+      ],
+      "linked_authorities": [
+        "R (McCann) v Manchester City Council [2003] 1 AC 787",
+        "R (Kenny and M) v Leeds Magistrates Court [2003] EWHC 2963 (Admin)",
+        "Markass Car Hire Ltd v Cyprus (2002)",
+        "R v Hereford Magistrates Court ex p Rowlands [1998] QB 110",
+        "Ansah v Ansah [1977] Fam 138"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory framework, Article 6 analysis, and appeal outcome are fully articulated. Linked Kenny first-instance judgment provides complementary context."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/678.json",
+    "status": "done",
+    "notes": "Consent quashing of PCA dispensation with contested abuse-of-process argument rejected; straightforward administrative outcome.",
+    "enrichment": {
+      "short_title": "Police complaint investigation dispensation quashed by consent",
+      "area_of_law": [
+        "Police complaints",
+        "Administrative law",
+        "Judicial review",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Act 1996",
+          "provisions": [
+            "section 69",
+            "section 75",
+            "section 76"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The claimant complained that Merseyside Police assaulted him while in custody after arrest for preaching near St George's Hall, Liverpool.",
+        "Investigation was delayed when the claimant absconded from bail; the Police Complaints Authority dispensed with investigation on 10 June 2003.",
+        "The claimant was returned to Liverpool on 13 June 2003 and sought reopening of the investigation.",
+        "The PCA consented to quashing its dispensation decision; Merseyside Police contested jurisdiction and abuse of process."
+      ],
+      "procedural_posture": "Judicial review application for quashing of PCA dispensation from investigating a police complaint, heard on consent terms.",
+      "outcome": "Consent order approved quashing the 10 June 2003 dispensation; Merseyside Police ordered to pay claimant's costs against them; investigation to resume.",
+      "ratio": "The Police Complaints Authority has power to review and revoke a dispensation under the 1985 Regulations; quashing the dispensation was proper where the complainant was now available to assist and no prejudice to officers had yet occurred.",
+      "legal_issues": [
+        "Whether the PCA had power to revoke a dispensation once granted",
+        "Whether continuing the investigation would be an abuse of process",
+        "Whether the court could approve a consent order quashing the PCA decision"
+      ],
+      "catchwords": [
+        "police complaint",
+        "dispensation",
+        "Police Complaints Authority",
+        "judicial review",
+        "consent order",
+        "investigation"
+      ],
+      "index_terms": [
+        "Merseyside Police",
+        "Police (Dispensation From Requirement To Investigate Complaints) Regulations 1985",
+        "R v Police Complaints Authority ex p Broome",
+        "St George's Hall Liverpool"
+      ],
+      "linked_authorities": [
+        "R v Police Complaints Authority, ex parte Ronald F Broome (1988, unreported)"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome and PCA power to review are clearly stated. Underlying assault merits were not adjudicated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/569.json",
+    "status": "done",
+    "notes": "Rome Convention Article 3.3 and French banking law analysis is detailed; judgment for Caterpillar on loan enforcement.",
+    "enrichment": {
+      "short_title": "English law governs cross-border Caterpillar loan despite French borrower",
+      "area_of_law": [
+        "Banking and finance",
+        "Conflict of laws",
+        "Commercial contract",
+        "Maritime finance",
+        "Restitution"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Caterpillar, a Delaware lender, advanced €5.3 million to French SNC borrower SNC Passion to finance construction of MV Passion catamaran ferry.",
+        "The loan was governed by English law with English jurisdiction; repayments defaulted from late 2001.",
+        "Defendant argued the loan was void under mandatory French banking law as Caterpillar was not an authorised French credit institution.",
+        "The transaction involved Singapore shipbuilding, US lender, UK-arranged finance, and Guadeloupe-based borrower."
+      ],
+      "procedural_posture": "Commercial Court trial of loan enforcement claim with illegality defence under Rome Convention Article 3(3) and French banking law.",
+      "outcome": "Judgment for Caterpillar on loan principal, interest, late charges and arrest indemnity; Article 3(3) inapplicable; French banking law not mandatory.",
+      "ratio": "Article 3(3) Rome Convention applies only where all elements relevant to the situation apart from the choice of law are connected with one country; an international commercial loan with US lender, Singapore build, and multi-jurisdictional performance is not a wholly domestic French transaction.",
+      "legal_issues": [
+        "Whether Article 3(3) Rome Convention prevented choice of English law",
+        "Whether French Law 84-46 and CMF provisions rendered the loan illegal",
+        "Whether Article 7(1) required application of French mandatory rules",
+        "Consequences of invalidity and restitution under English and French law"
+      ],
+      "catchwords": [
+        "Rome Convention",
+        "choice of law",
+        "French banking law",
+        "mandatory rules",
+        "loan agreement",
+        "ship finance"
+      ],
+      "index_terms": [
+        "MV Passion",
+        "Guadeloupe",
+        "Cour de Cassation 4 June 2002",
+        "NM Rothschild v Equitable Life",
+        "EURIBOR",
+        "forum non conveniens"
+      ],
+      "linked_authorities": [
+        "Kleinwort Benson v Glasgow City Council [1997] 4 All ER 641",
+        "NM Rothschild Ltd v Equitable Life Assurance Society [2002] EWHC 1021 (QB)",
+        "Ingmar GB Ltd v Eaton Technologies Inc (C-381/98)"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Conflict of laws reasoning and enforcement outcome are explicit. French expert evidence on domestic banking law is summarised but not all Cour de Cassation detail is central."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/816.json",
+    "status": "done",
+    "notes": "CCRC reference on improper judge's chambers plea discussions; conviction quashed applying Nazham principles.",
+    "enrichment": {
+      "short_title": "Unsafe conviction after improper judge's chambers plea indication",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal procedure",
+        "Sentencing",
+        "Public Order Act offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Public Order Act 1986",
+          "provisions": [
+            "section 4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant pleaded guilty on rearraignment to section 4 threatening behaviour as an alternative to affray at Butlins Pwllheli.",
+        "After co-accused Craggs agreed to give Queen's evidence, the judge indicated in chambers that a section 4 plea would avoid custody.",
+        "Counsel's contemporaneous advice recorded clear instructions to fight affray until the judge's second indication created a stark custodial risk.",
+        "The CCRC referred the case despite no prior appeal; counsel confirmed the plea was entered after deliberation with his girlfriend."
+      ],
+      "procedural_posture": "CCRC reference to Court of Appeal on whether guilty plea was nullity due to improper judicial indication in chambers.",
+      "outcome": "Appeal allowed; section 4 conviction quashed as unsafe; no recovery of defence costs.",
+      "ratio": "Improper discussions in the judge's chambers linking plea to sentence created improper pressure; applying Nazham, where such irregularity causally affected the change of plea the conviction is unsafe.",
+      "legal_issues": [
+        "Whether chambers plea and sentence discussions rendered the plea equivocal or involuntary",
+        "Causation between judicial irregularity and the appellant's change of plea",
+        "Application of principles in Nazham and Nazham",
+        "Whether oral evidence should be heard on the CCRC reference"
+      ],
+      "catchwords": [
+        "guilty plea",
+        "judge's chambers",
+        "sentence indication",
+        "Queen's evidence",
+        "CCRC",
+        "unsafe conviction"
+      ],
+      "index_terms": [
+        "Butlins Star Coast World",
+        "community service order",
+        "affray",
+        "improper pressure",
+        "rearraignment"
+      ],
+      "linked_authorities": [
+        "Nazham and Nazham [2004] EWCA Crim (9 March 2004)"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Procedural irregularity and unsafe verdict conclusion are clearly reasoned on counsel's contemporaneous advice. Underlying affray facts are minimally relevant."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/554.json",
+    "status": "done",
+    "notes": "Companion to M ASBO appeal; permission refused on delay, alternative remedies, and merits on infant best interests.",
+    "enrichment": {
+      "short_title": "Child's interim ASBO judicial review refused for delay and remedies",
+      "area_of_law": [
+        "Anti-social behaviour",
+        "Judicial review",
+        "Children's rights",
+        "Magistrates' court procedure",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": [
+            "section 1",
+            "section 1D",
+            "section 4"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 31"
+          ]
+        },
+        {
+          "title": "Children Act 1989",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A, aged 16, received an interim ASBO in Operation Cape on 2 September 2003 and a renewed order on 11 December 2003.",
+        "He did not attend return dates or seek variation until after arrest for alleged breach on 6 November 2003.",
+        "Owen J in Kenny and M held infant best interests are a primary consideration but dismissed M's claim on evidence; Court of Appeal later upheld M on Article 6.",
+        "On renewal the District Judge expressly applied the infant best interests principle per Owen J's judgment."
+      ],
+      "procedural_posture": "Expedited application for permission and judicial review of interim ASBOs against a child in Operation Cape, Leeds.",
+      "outcome": "Permission refused for both orders on delay and alternative remedies; on merits, no error shown in applying infant best interests on renewal.",
+      "ratio": "Delay and availability of Crown Court appeal and magistrates' court variation/discharge make judicial review inappropriate where the alleged error is misapplication of legal test rather than procedural unfairness; best interests of the child are a primary but not exclusive consideration.",
+      "legal_issues": [
+        "Whether delay barred judicial review of the first interim order",
+        "Whether Crown Court appeal or Rule 6 application were adequate alternative remedies",
+        "Whether the District Judge failed to treat A's best interests as a primary consideration",
+        "Relationship between infant best interests and public protection under ASBO regime"
+      ],
+      "catchwords": [
+        "interim ASBO",
+        "judicial review",
+        "best interests of the child",
+        "delay",
+        "alternative remedy",
+        "Operation Cape"
+      ],
+      "index_terms": [
+        "R (Kenny and M) v Leeds Magistrates Court",
+        "R (A) v Leeds",
+        "Crown Court appeal",
+        "section 1D Crime and Disorder Act",
+        "Little London Leeds"
+      ],
+      "linked_authorities": [
+        "R (Kenny and M) v Leeds Magistrates Court [2003] EWHC 2963 (Admin)",
+        "R (M) v Secretary of State for Constitutional Affairs [2004] EWCA Civ 312",
+        "R v Hereford Magistrates Court ex p Rowlands [1998] QB 110",
+        "R (Burkett) v Hammersmith & Fulham LBC [2002] UKHL 23"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Refusal grounds and best interests analysis are fully reasoned. Overlaps with EWCA Civ 312 and EWHC 2963 but distinct procedural focus on child claimant A."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/602.json",
+    "status": "done",
+    "notes": "Detailed guidance on replaying child witness video evidence to jury; appeal dismissed with Rawlings principles applied.",
+    "enrichment": {
+      "short_title": "Jury replay of child witness videos held fair and within discretion",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal evidence",
+        "Criminal procedure",
+        "Sexual offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Youth Justice and Criminal Evidence Act 1999",
+          "provisions": [
+            "section 19",
+            "section 27",
+            "section 28"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 85"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 32A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant was convicted of four counts of indecent assault on a 9-year-old family friend after majority verdicts.",
+        "Five minutes into deliberations the jury requested replay of video-recorded evidence of the complainant and her brother.",
+        "The judge replayed both videos in open court and gave balancing directions mid-replay and next day on cross-examination.",
+        "Defence counsel acquiesced and did not seek discharge; judge consulted Archbold after replay had partially started."
+      ],
+      "procedural_posture": "Appeal against conviction on discretionary replay of child witness video evidence after jury retirement.",
+      "outcome": "Appeal dismissed; conviction held safe; discretion properly exercised with adequate balancing directions.",
+      "ratio": "Where a jury requests replay of video-recorded child evidence to assess how rather than what was said, the judge may permit replay with balancing directions under Rawlings; the discretion extends to supporting child witnesses, not only the complainant.",
+      "legal_issues": [
+        "Whether the judge should have refused the jury's replay request",
+        "Whether balancing directions were given too late",
+        "Whether the brother's video should have been replayed separately",
+        "Whether public hostility in court required a direction on emotion"
+      ],
+      "catchwords": [
+        "video evidence",
+        "jury replay",
+        "balancing direction",
+        "child witness",
+        "Rawlings",
+        "special measures"
+      ],
+      "index_terms": [
+        "Archbold 4-423",
+        "R v Rawlings; R v Broadbent",
+        "R v M(J)",
+        "indecent assault",
+        "extended sentence"
+      ],
+      "linked_authorities": [
+        "R v Rawlings; R v Broadbent [1995] 2 Cr App R 222",
+        "R v M(J) [1999] 2 Cr App R 91"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Evidentiary discretion analysis and dismissal are comprehensive. Underlying trial facts are extensive but not needed for the replay holding."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/315.json",
+    "status": "done",
+    "notes": "Privilege and administrative receivers' powers over solicitor files; appeals allowed on confidence not waived by unauthorised disclosure.",
+    "enrichment": {
+      "short_title": "Receivers exceeded powers passing privileged files to debenture holder",
+      "area_of_law": [
+        "Insolvency law",
+        "Legal professional privilege",
+        "Banking and finance",
+        "Equity",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 42",
+            "section 234",
+            "section 235",
+            "section 236"
+          ]
+        }
+      ],
+      "key_facts": [
+        "GE Capital sought to enforce Paul Sutton's guarantee of Anglo Petroleum Ltd debts after fictitious factored transactions were discovered.",
+        "APL receivers obtained Boyes Turner solicitor files under section 234-236 and immediately forwarded them to GE's solicitors without review.",
+        "Sutton raised non-disclosure of fake Sutton Oil transactions as a defence; GE sought BT meeting notes from 14 September 2001.",
+        "APL, acting through its director Richard Sutton, and Sutton sought injunctions restraining use of allegedly privileged material."
+      ],
+      "procedural_posture": "Appeals from refusal of interlocutory injunctions in linked guarantee enforcement and document-return proceedings.",
+      "outcome": "Both appeals allowed; privilege/confidence not waived by unauthorised disclosure to GE; APL action properly brought by director.",
+      "ratio": "Administrative receivers exceeded their powers in passing privileged BT documents to the debenture holder without considering APL's interests; unauthorised disclosure cannot waive legal professional privilege, and a company director may bring proceedings to protect charged assets where the debenture holder's interests are not prejudiced.",
+      "legal_issues": [
+        "Whether APL's privilege was waived when receivers sent BT files to GE's solicitors",
+        "Whether receivers acted within debenture and Insolvency Act powers",
+        "Whether Paul Sutton had common interest or personal privilege in BT documents",
+        "Whether APL proceedings brought by director without receivers' consent were valid"
+      ],
+      "catchwords": [
+        "legal professional privilege",
+        "administrative receiver",
+        "debenture holder",
+        "common interest privilege",
+        "waiver",
+        "confidence"
+      ],
+      "index_terms": [
+        "Anglo Petroleum Ltd",
+        "Boyes Turner",
+        "GE Capital Commercial Finance",
+        "debt factoring",
+        "Goddard v Nationwide Building Society",
+        "Sagheera"
+      ],
+      "linked_authorities": [
+        "Goddard v Nationwide Building Society [1987] QB 670",
+        "Hellenic Mutual War Risks Association v Harrison (The Sagheera) [1997] 1 Lloyd's Rep 160",
+        "Newhart Developments Ltd v Co-operative Commercial Bank Ltd [1978] QB 814",
+        "In re Pantmaenog Timber Co Ltd [2003] UKHL 49",
+        "B v Auckland District Law Society [2003] UKPC 38"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Privilege and receivers' powers analysis is detailed. Some BT documents' privileged status assumed arguendo pending possible further hearing."
+      }
+    }
+  }
+]

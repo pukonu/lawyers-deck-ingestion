@@ -1,0 +1,809 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/807.json",
+    "status": "done",
+    "notes": "Batch 66 enrichment",
+    "enrichment": {
+      "short_title": "Arbitrator challenge after school refurbishment dispute",
+      "area_of_law": [
+        "Arbitration",
+        "Construction law",
+        "Building contracts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 24",
+            "section 57",
+            "section 68"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Home of Homes Ltd challenged partial and final arbitral awards arising from a JCT building contract dispute over refurbishment works at Munster Road Primary School for Hammersmith and Fulham LBC.",
+        "The contractor applied under section 68 to set aside a second partial award on jurisdiction and under section 24 to remove the arbitrator for alleged procedural failings.",
+        "Complaints included alleged misstatement of submissions, ambiguities in the award, and the arbitrator's request for clarification under section 57.",
+        "Forbes J reviewed the entire conduct of the arbitration before ruling on both applications."
+      ],
+      "procedural_posture": "High Court applications under the Arbitration Act 1996 to challenge a partial award and remove the arbitrator.",
+      "outcome": "Both the section 68 and section 24 applications were dismissed.",
+      "ratio": "Section 68 is reserved for extreme cases where an arbitrator has gone so wrong that justice calls out for correction; minor ambiguities or clarification requests in a long-running building arbitration do not justify setting aside a partial award or removing an arbitrator who has conducted proceedings fairly and competently.",
+      "legal_issues": [
+        "Whether serious irregularity under section 68(2) was established in relation to a partial jurisdictional award",
+        "Whether the arbitrator failed properly to conduct the proceedings or use reasonable despatch under section 24(1)(d)",
+        "Scope of section 57 requests for clarification of an arbitral award",
+        "Substantial injustice as a threshold for arbitral challenge"
+      ],
+      "catchwords": [
+        "arbitration",
+        "section 68",
+        "section 24",
+        "serious irregularity",
+        "partial award",
+        "building contract",
+        "JCT",
+        "arbitrator removal"
+      ],
+      "index_terms": [
+        "Home of Homes",
+        "Munster Road Primary School",
+        "Alan Turner arbitrator",
+        "Hammersmith and Fulham",
+        "DAC Report 1996"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed TCC judgment with explicit dismissal of both applications and clear section 68 threshold reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/494.json",
+    "status": "done",
+    "notes": "Batch 66 enrichment",
+    "enrichment": {
+      "short_title": "Financial assistance in Digital group share sale",
+      "area_of_law": [
+        "Company law",
+        "Insolvency",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 151",
+            "section 152",
+            "section 395"
+          ]
+        },
+        {
+          "title": "Companies Act 1929",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "MT Realisations Ltd, in liquidation, sued Digital group companies over a 1994-1995 restructuring in which MTI acquired MTR shares and assigned inter-company loans.",
+        "A 1995 re-scheduling agreement diverted sums owed by Digital group companies to MTR directly to Digital UK to reduce MTI's purchase price under the loan assignment.",
+        "The liquidator contended this was unlawful financial assistance by MTR to facilitate acquisition of its own shares contrary to sections 151 and 152.",
+        "Laddie J had granted summary judgment for the defendants; the Court of Appeal upheld dismissal of the appeal."
+      ],
+      "procedural_posture": "Appeal from summary judgment striking out claims for breach of the financial assistance prohibition.",
+      "outcome": "Appeal dismissed; the section 151 claims and related knowing receipt and interference claims had no real prospect of success.",
+      "ratio": "Where an assignee of secured inter-company loans was entitled to enforce its security over book debts due to the target company, directing payment of those debts to the assignor's creditor was a short-circuiting of existing rights and not the giving of financial assistance by the target company for the purpose of acquiring its shares.",
+      "legal_issues": [
+        "Whether MTI's liability under the loan assignment was incurred for the purpose of acquiring shares in MTR",
+        "Whether the 1995 set-off arrangements constituted financial assistance under section 151(2)",
+        "Application of the commercial realities approach after Chaston v SWP Group plc",
+        "Whether knowing receipt claims survived absence of a section 151 breach"
+      ],
+      "catchwords": [
+        "financial assistance",
+        "section 151",
+        "section 152",
+        "share acquisition",
+        "liquidator",
+        "set-off",
+        "secured creditor",
+        "summary judgment"
+      ],
+      "index_terms": [
+        "MT Realisations",
+        "Digital Equipment",
+        "MTI Holdings",
+        "Chaston v SWP Group",
+        "Charterhouse Investment Trust v Tempest Diesels",
+        "Re VGM Holdings"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Chaston v SWP Group plc",
+          "citation": "[2002] EWCA Civ 1999",
+          "relation": "applied"
+        },
+        {
+          "name": "Charterhouse Investment Trust Ltd v Tempest Diesels Ltd",
+          "citation": "[1986] BCLC 1",
+          "relation": "applied"
+        },
+        {
+          "name": "Re VGM Holdings Ltd",
+          "citation": "[1942] Ch 235",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with explicit outcome and detailed section 151 analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/526.json",
+    "status": "done",
+    "notes": "Batch 66 enrichment",
+    "enrichment": {
+      "short_title": "Income support recovery for undisclosed family loans",
+      "area_of_law": [
+        "Social security law",
+        "Public law",
+        "Welfare benefits"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Social Security Contributions and Benefits Act 1992",
+          "provisions": [
+            "section 124"
+          ]
+        },
+        {
+          "title": "Social Security Administration Act 1992",
+          "provisions": [
+            "section 71"
+          ]
+        },
+        {
+          "title": "Income Support (General) Regulations 1987",
+          "provisions": [
+            "regulation 17",
+            "regulation 28",
+            "regulation 29",
+            "regulation 41",
+            "regulation 66A",
+            "Schedule 9 paragraph 30"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ms Morrell received income support from 1995 to 1999 while her mother paid her rent and living expenses by way of regular monthly loans repayable only when she could find work.",
+        "On four income support review forms she answered 'no' to whether anyone paid money to a third party on her behalf.",
+        "The Secretary of State recovered overpayments for periods before the department received disclosure of the loans from the local authority benefits investigation team.",
+        "The Social Security Commissioner upheld recovery; the Court of Appeal dismissed her appeal on all three grounds."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal with permission from the Social Security Commissioner.",
+      "outcome": "Appeal dismissed on all grounds; the loans were income and overpayments were recoverable as caused by misrepresentation.",
+      "ratio": "Regular recurring payments from a parent towards rent and living costs may be income for income support purposes even if described as loans, unless there is a certain and immediate obligation of repayment; a claimant's false answers on review forms may causally contribute to overpayments even where the department failed to act on earlier third-party disclosure.",
+      "legal_issues": [
+        "Whether regular family loan payments counted as income or capital for income support",
+        "Whether overpayments were made in consequence of misrepresentation under section 71 SSAA 1992",
+        "Causation where official error followed repeated misrepresentations on review forms",
+        "Adequacy of the appeal tribunal's reasons"
+      ],
+      "catchwords": [
+        "income support",
+        "overpayment recovery",
+        "misrepresentation",
+        "family loans",
+        "means testing",
+        "Leeves",
+        "official error"
+      ],
+      "index_terms": [
+        "Morrell",
+        "benefits review form",
+        "R(SB) 3/90",
+        "R(SB) 9/85",
+        "Duggan v Chief Adjudication Officer",
+        "Leeves v Chief Adjudication Officer"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Leeves v Chief Adjudication Officer",
+          "citation": "R(IS) 5/99",
+          "relation": "applied"
+        },
+        {
+          "name": "Duggan v Chief Adjudication Officer",
+          "citation": "R(SB) 13/89",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Supplementary Benefits Commission, ex parte Singer",
+          "citation": "[1973] 1 WLR 713",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed judgment applying Leeves with clear outcomes on income classification, causation, and reasons."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1246.json",
+    "status": "done",
+    "notes": "Batch 66 enrichment",
+    "enrichment": {
+      "short_title": "Unsafe rape conviction after undisclosed medical notes",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal procedure",
+        "Evidence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr C was convicted by a 10-2 jury majority in 1994 of raping his six or seven year old daughter and had an earlier appeal dismissed.",
+        "At trial the Crown relied on medical evidence from 1990 and 1993 examinations but not on a January 1991 examination showing a normal prepubertal vagina.",
+        "The Criminal Cases Review Commission discovered the 1991 examination notes on a local authority file that prosecution counsel had failed to disclose despite a defence request.",
+        "The undisclosed evidence showed the critical injury must have occurred after January 1991 when the appellant had no unsupervised access to the child."
+      ],
+      "procedural_posture": "Second appeal following CCRC referral after discovery of undisclosed medical evidence.",
+      "outcome": "Appeal allowed; conviction quashed as unsafe.",
+      "ratio": "A conviction is unsafe where material medical evidence showing the Crown's timing case was impossible was not disclosed to the defence despite reasonable requests, because no jury properly directed could have convicted on the case as ultimately presented.",
+      "legal_issues": [
+        "Safety of conviction following non-disclosure of medical evidence",
+        "Effect of undisclosed local authority records on the Crown's case as to timing",
+        "CCRC referral criteria for fresh evidence",
+        "Prosecution disclosure duties in historical child abuse cases"
+      ],
+      "catchwords": [
+        "unsafe conviction",
+        "CCRC referral",
+        "non-disclosure",
+        "medical evidence",
+        "rape",
+        "prosecution disclosure",
+        "appeal allowed"
+      ],
+      "index_terms": [
+        "Criminal Cases Review Commission",
+        "local authority file",
+        "posterior fourchette injury",
+        "St Albans Crown Court"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Crown conceded the appeal; court clearly allowed it and criticised disclosure failures."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1020.json",
+    "status": "done",
+    "notes": "Batch 66 enrichment",
+    "enrichment": {
+      "short_title": "Sally Clark convictions quashed after fresh pathology",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal procedure",
+        "Medical evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": [
+            "section 9"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Sally Clark was convicted in 1999 of murdering her baby sons Christopher and Harry; her first appeal was dismissed in 2000.",
+        "Fresh microbiological test results from Harry's post-mortem samples, unknown at trial, suggested he may have died from natural causes.",
+        "Expert evidence at the second appeal, including from Professor Morris, undermined the prosecution case that Harry was murdered.",
+        "Professor Meadow's 'one in 73 million' statistical evidence at trial was also criticised as misleading and should not have been before the jury."
+      ],
+      "procedural_posture": "Second appeal following CCRC referral after discovery of undisclosed microbiological evidence and renewed expert review.",
+      "outcome": "Appeal allowed; both murder convictions quashed and no retrial sought.",
+      "ratio": "Murder convictions are unsafe where undisclosed microbiological evidence undermines the prosecution case and expert statistical evidence that materially influenced the jury should not have been admitted, so the court could not treat the remaining evidence as overwhelming.",
+      "legal_issues": [
+        "Safety of conviction following discovery of undisclosed post-mortem microbiology",
+        "Admissibility and impact of expert statistical evidence in sudden infant death cases",
+        "CCRC referral where fresh evidence creates a real possibility convictions are unsafe",
+        "Whether a retrial should follow quashed murder convictions"
+      ],
+      "catchwords": [
+        "unsafe conviction",
+        "CCRC",
+        "sudden infant death",
+        "expert evidence",
+        "non-disclosure",
+        "Professor Meadow",
+        "microbiology",
+        "murder appeal"
+      ],
+      "index_terms": [
+        "Sally Clark",
+        "Christopher Clark",
+        "Harry Clark",
+        "Professor Morris",
+        "Staphylococcus aureus",
+        "Chester Crown Court"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "High-profile judgment with Crown concession, explicit quashing, and detailed reasoning on fresh evidence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1092.json",
+    "status": "done",
+    "notes": "Batch 66 enrichment",
+    "enrichment": {
+      "short_title": "Planning enforcement after HMO conversion challenge",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 172",
+            "section 173",
+            "section 174",
+            "section 289"
+          ]
+        },
+        {
+          "title": "Town and Country Planning (Use Classes) Order 1987",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "ZZZ Incorporated appealed under section 289 against a planning inspector's decision upholding an enforcement notice requiring cessation of use of 46 Shoot Up Hill as nine self-contained flats.",
+        "Camden required the property to be rearranged back to non-self-contained bedsitting accommodation with shared facilities, alleging breach from prior HMO use.",
+        "The appellant contended the previous lawful use was not established as an HMO and that the enforcement steps were imprecise or excessive.",
+        "The inspector found the appellant failed to prove the previous use was not an HMO and that the notice requirements were sufficiently clear."
+      ],
+      "procedural_posture": "High Court appeal on a point of law under section 289 TCPA 1990 from a planning inspector's decision on an enforcement notice appeal.",
+      "outcome": "Appeal dismissed; the inspector was entitled to uphold the enforcement notice.",
+      "ratio": "On a section 174 enforcement appeal the appellant must establish a statutory ground of challenge; where it genuinely appeared to the local planning authority that the previous lawful use was as a house in multiple occupation, the inspector could require rearrangement to non-self-contained bedsitting accommodation without prescribing every detail so long as the required use was ascertainable.",
+      "legal_issues": [
+        "Burden of proof on previous lawful use in enforcement notice appeals",
+        "Whether enforcement notice steps were sufficiently precise under section 173",
+        "Whether restoration to HMO use was lawful where previous HMO status was disputed",
+        "Wednesbury reasonableness of the inspector's findings"
+      ],
+      "catchwords": [
+        "planning enforcement",
+        "house in multiple occupation",
+        "HMO",
+        "section 289",
+        "use class C3",
+        "enforcement notice",
+        "burden of proof"
+      ],
+      "index_terms": [
+        "ZZZ Incorporated",
+        "Camden",
+        "Shoot Up Hill",
+        "Thurrock Borough Council v SSETR",
+        "Rogers v Islington LBC"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Thurrock Borough Council v Secretary of State for the Environment, Transport and the Regions",
+          "citation": "[2001] EWCA Civ 226",
+          "relation": "cited"
+        },
+        {
+          "name": "Rogers v Islington London Borough Council",
+          "citation": "27 EG 178",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Full administrative judgment with clear dismissal and detailed statutory analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/529.json",
+    "status": "done",
+    "notes": "Batch 66 enrichment",
+    "enrichment": {
+      "short_title": "Rateability of permanently moored nightclub vessel",
+      "area_of_law": [
+        "Rating",
+        "Property law",
+        "Local taxation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government Finance Act 1988",
+          "provisions": [
+            "section 41",
+            "section 42",
+            "section 43",
+            "section 64"
+          ]
+        },
+        {
+          "title": "General Rate Act 1967",
+          "provisions": [
+            "section 115"
+          ]
+        },
+        {
+          "title": "Interpretation Act 1978",
+          "provisions": [
+            "section 5",
+            "First Schedule"
+          ]
+        },
+        {
+          "title": "Poor Rate Exemption Act 1840",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Cinderella Rockerfellas Ltd operated a nightclub on the permanently moored vessel Tuxedo Royale on the Tyne at Hillgate Quay from 1989 to 1999.",
+        "The valuation tribunal had deleted rating list entries on the basis the vessel was not rateable; the Lands Tribunal reversed that decision.",
+        "The vessel was secured by ropes and chains to the quay, licensed over the riverbed by the Crown Estate, and used exclusively as an entertainment complex.",
+        "The Court of Appeal considered whether the floating vessel formed a rateable hereditament with the licensed riverbed and quay."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from the Lands Tribunal on rateability of a moored vessel.",
+      "outcome": "Appeal dismissed; the Tuxedo Royale was rateable.",
+      "ratio": "A permanently moored vessel used as a static nightclub and enjoyed with licensed riverbed and adjacent quay land may form one rateable hereditament with that land under the Field Place Caravan Park principle, even without direct vertical attachment to the riverbed, where occupation is de facto exclusive, beneficial, and of sufficient permanence.",
+      "legal_issues": [
+        "Whether a floating vessel can be part of a rateable hereditament",
+        "Application of the unit of occupation test to moored chattels",
+        "Whether horizontal mooring to a quay suffices without riverbed fixtures",
+        "Divergence from Scottish heritability law"
+      ],
+      "catchwords": [
+        "non-domestic rating",
+        "hereditament",
+        "floating vessel",
+        "moorings",
+        "Field Place Caravan Park",
+        "rateable occupation",
+        "riverbed"
+      ],
+      "index_terms": [
+        "Tuxedo Royale",
+        "Cinderella Rockerfellas",
+        "Hillgate Quay Gateshead",
+        "Felgate v Lotus Leisure",
+        "Cory v Bristow",
+        "London County Council v Wilkins"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Field Place Caravan Park Ltd v Harding",
+          "citation": "[1966] 2 QB 484",
+          "relation": "applied"
+        },
+        {
+          "name": "London County Council v Wilkins (Valuation Officer)",
+          "citation": "[1957] AC 362",
+          "relation": "applied"
+        },
+        {
+          "name": "Felgate (VO) v Lotus Leisure Enterprises Ltd",
+          "citation": "[2000] RA 89",
+          "relation": "applied"
+        },
+        {
+          "name": "Cory v Bristow",
+          "citation": "(1872) 2 App Cas 262",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed CA rating judgment with explicit dismissal and clear application of established principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/794.json",
+    "status": "done",
+    "notes": "Batch 66 enrichment",
+    "enrichment": {
+      "short_title": "Secure tenancy succession and possession challenge",
+      "area_of_law": [
+        "Housing law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1985",
+          "provisions": [
+            "section 79",
+            "section 82",
+            "section 87",
+            "section 88",
+            "section 89",
+            "section 113"
+          ]
+        },
+        {
+          "title": "Housing Act 1996",
+          "provisions": [
+            "section 115",
+            "section 160",
+            "section 175",
+            "section 185",
+            "Part VII"
+          ]
+        },
+        {
+          "title": "National Assistance Act 1948",
+          "provisions": [
+            "section 21"
+          ]
+        },
+        {
+          "title": "National Health Service and Community Care Act 1990",
+          "provisions": [
+            "section 47"
+          ]
+        },
+        {
+          "title": "Protection from Eviction Act 1977",
+          "provisions": [
+            "section 3"
+          ]
+        },
+        {
+          "title": "Housing Act 1980",
+          "provisions": [
+            "section 89"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8",
+            "Article 14"
+          ]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 115"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Gangera, subject to immigration control, cared for his parents in their Hounslow secure tenancy but could not succeed after his mother died because she had already succeeded from his father.",
+        "The council served notice to quit and began possession proceedings while he remained in the property pending an unresolved immigration appeal.",
+        "He argued succession rules breached Article 14 read with Article 8 and that pursuing possession before reassessing needs under section 21 National Assistance Act 1948 was disproportionate.",
+        "A section 47 community care assessment concluded he was not entitled to section 21 accommodation."
+      ],
+      "procedural_posture": "Transferred possession claim converted into judicial review; permission granted with substantive hearing on Article 8/14 and proportionality grounds.",
+      "outcome": "Permission granted but judicial review application refused on all substantive grounds.",
+      "ratio": "Secure tenancy succession rules limiting transmission to one successor are a proportionate allocation of public housing resources and do not discriminate by status where the claimant fails because his mother was already a successor; absent rare exceptional circumstances, challenges to the proportionality of a local authority's decision to seek possession must be brought by judicial review rather than as a defence in County Court possession proceedings.",
+      "legal_issues": [
+        "Compatibility of secure tenancy succession rules with Article 8 and Article 14 ECHR",
+        "Whether possession proceedings were premature before section 21 National Assistance Act assessment",
+        "Proportionality of eviction of a trespasser with Article 8 home rights",
+        "Appropriate forum for Article 8 challenges to possession decisions"
+      ],
+      "catchwords": [
+        "secure tenancy",
+        "succession",
+        "Article 8",
+        "Article 14",
+        "possession proceedings",
+        "judicial review",
+        "National Assistance Act",
+        "immigration control"
+      ],
+      "index_terms": [
+        "Gangera",
+        "Hounslow",
+        "Michalak",
+        "Smart v Sheffield City Council",
+        "Poplar Housing v Donoghue",
+        "section 21 accommodation"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Wandsworth London Borough Council v Michalak",
+          "citation": "[2002] EWCA Civ 271",
+          "relation": "applied"
+        },
+        {
+          "name": "Sheffield City Council v Smart",
+          "citation": "[2002] EWCA Civ 04",
+          "relation": "applied"
+        },
+        {
+          "name": "Qazi v London Borough of Harrow",
+          "citation": "[2001] EWCA Civ 1834",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Long merits judgment with explicit refusal of relief and detailed Article 8/14 and forum analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/786.json",
+    "status": "done",
+    "notes": "Batch 66 enrichment",
+    "enrichment": {
+      "short_title": "Douglas wedding photos breach of confidence",
+      "area_of_law": [
+        "Privacy and confidentiality",
+        "Media law",
+        "Human rights",
+        "Intellectual property"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8",
+            "Article 10"
+          ]
+        },
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Michael Douglas and Catherine Zeta-Jones sold exclusive wedding photograph rights to OK! magazine and imposed strict confidentiality at the Plaza Hotel ceremony in November 2000.",
+        "Hello! magazine published unauthorised photographs obtained through paparazzi intrusion despite knowing exclusive rights had been sold.",
+        "OK! magazine joined the celebrity claimants seeking relief for breach of confidence and related commercial claims.",
+        "Lindsay J held Hello! liable for breach of confidence, granted injunctive relief or an undertaking, and left quantum to a later hearing."
+      ],
+      "procedural_posture": "High Court Chancery trial of claims for breach of confidence, privacy, and related media law remedies.",
+      "outcome": "Hello! defendants held liable for breach of confidence; injunction or undertaking granted and nominal Data Protection award made; other claims dismissed and damages quantum reserved.",
+      "ratio": "Publication of deliberately acquired unauthorised wedding photographs may breach confidence even where the claimants are public figures seeking publicity for authorised images; balancing Article 10 freedom of expression against confidence requires regard to industry standards including the Press Complaints Commission Code, and prior publication does not necessarily destroy entitlement to injunctive relief where the unauthorised images have faded from public memory.",
+      "legal_issues": [
+        "Existence and scope of breach of confidence in celebrity wedding photography",
+        "Balancing Article 8 and Article 10 in granting injunctive relief",
+        "Effect of partial publication into the public domain on confidentiality",
+        "Quantification of compensation for commercial loss to an exclusive licensee"
+      ],
+      "catchwords": [
+        "breach of confidence",
+        "celebrity privacy",
+        "wedding photographs",
+        "Hello magazine",
+        "OK magazine",
+        "Article 10",
+        "injunction",
+        "paparazzi"
+      ],
+      "index_terms": [
+        "Michael Douglas",
+        "Catherine Zeta-Jones",
+        "Plaza Hotel New York",
+        "Press Complaints Commission Code",
+        "Campbell v MGN",
+        "A v B plc"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Campbell v MGN Ltd",
+          "citation": "[2002] EWCA Civ 1373",
+          "relation": "applied"
+        },
+        {
+          "name": "A v B plc",
+          "citation": "[2002] EWCA Civ 337",
+          "relation": "applied"
+        },
+        {
+          "name": "Woodward v Hutchins",
+          "citation": "[1977] 1 WLR 760",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Very long trial judgment but conclusion on liability and relief is explicit; quantum reserved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/781.json",
+    "status": "done",
+    "notes": "Batch 66 enrichment",
+    "enrichment": {
+      "short_title": "Fraudulent interest relief claim through nominee company",
+      "area_of_law": [
+        "Tax law",
+        "Income tax",
+        "Fraud"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Taxes Management Act 1970",
+          "provisions": [
+            "section 34",
+            "section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Rowland, a chartered accountant, claimed personal income tax relief for bank interest on loans to Internoms Ltd used to finance a loss-making Pimlico property development from 1988 to 1992.",
+        "He contended Internoms was his nominee, but contemporaneous statements to his bank manager and solicitor said the company was beneficially owned and not a nominee.",
+        "Special Commissioners found he knowingly made false relief claims and that his conduct was fraudulent, triggering assessments more than six years after the relevant years.",
+        "The High Court appeal was on Edwards v Bairstow grounds only."
+      ],
+      "procedural_posture": "High Court appeal on a point of law from Special Commissioners' dismissal of the taxpayer's appeal against discovery assessments.",
+      "outcome": "Appeal dismissed; Special Commissioners were entitled to find fraudulent conduct.",
+      "ratio": "Where contemporaneous instructions to a solicitor and a bank manager stated that a company borrowing development funds was beneficially owned and not a nominee, a Special Commissioner may properly infer that a later personal claim for interest relief on the basis of nominee status was dishonest, even against a professional taxpayer, provided there is evidence to support rejection of the taxpayer's contrary evidence.",
+      "legal_issues": [
+        "Whether Internoms Ltd acted as nominee or principal in the property development borrowing",
+        "Whether assessments outside the normal time limit were justified by fraudulent conduct under section 36 TMA 1970",
+        "Edwards v Bairstow review of Special Commissioners' findings of fact",
+        "Standard of proof for fraud in tax appeals"
+      ],
+      "catchwords": [
+        "interest relief",
+        "fraudulent conduct",
+        "discovery assessment",
+        "nominee company",
+        "Special Commissioners",
+        "Edwards v Bairstow",
+        "income tax"
+      ],
+      "index_terms": [
+        "Reginald Rowland",
+        "Internoms Ltd",
+        "St George's Square Pimlico",
+        "Gwenda Wood",
+        "Ruleregal",
+        "section 36 TMA 1970"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Edwards v Bairstow",
+          "citation": "[1956] AC 14",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Appeal turned on sufficiency of evidence for fraud finding; court upheld Special Commissioners after detailed fact review."
+      }
+    }
+  }
+]

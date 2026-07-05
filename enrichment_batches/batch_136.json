@@ -1,0 +1,807 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1159.json",
+    "status": "done",
+    "notes": "Complete judgment on arbitration currency and interest powers; source summary truncated only.",
+    "enrichment": {
+      "short_title": "Arbitrators exceeded powers by ignoring contract currency and Lesotho interest law",
+      "area_of_law": [
+        "Arbitration",
+        "International commercial law",
+        "Construction and engineering contracts",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": ["section 2", "section 4", "section 48", "section 49", "section 68", "section 69"]
+        },
+        {
+          "title": "Contracts (Applicable Law) Act 1990",
+          "provisions": ["Rome Convention Article 10(1)(c)"]
+        }
+      ],
+      "key_facts": [
+        "LHDA and the Highlands Water Venture consortium disputed extra-cost claims from construction of the Katse Dam in Lesotho under FIDIC-style conditions governed by Lesotho law, with ICC arbitration seated in London.",
+        "The arbitral tribunal awarded sums in European currencies rather than the contractually stipulated Maloti/rand and foreign currency proportions, and applied English procedural discretion on interest under section 49 rather than Lesotho ex mora substantive law.",
+        "Morison J remitted the currency and interest issues under section 68 as serious irregularity (excess of powers); HWV appealed, arguing sections 48(4) and 49(3) gave the tribunal freestanding discretion even where the contract and applicable law dictated otherwise."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from a Commercial Court order remitting parts of an ICC partial award under section 68 of the Arbitration Act 1996.",
+      "outcome": "Appeal dismissed; the judge was entitled to remit the currency and interest issues for reconsideration.",
+      "ratio": "Where a contract clearly fixes currency of account and payment proportions, section 48(4) restates rather than overrides the substantive obligation to award in the contract currencies; where the applicable law (Lesotho Roman-Dutch law) gives a substantive ex mora right to interest, section 49(3) does not authorise the tribunal to apply English procedural discretion instead, and departing from the contract on these matters is an excess of power under section 68(2)(b).",
+      "legal_issues": [
+        "Whether currency of an arbitral award is governed by procedural or substantive law",
+        "Whether sections 48(4) and 49(3) override express contractual currency provisions",
+        "Whether awards of interest in civil-law-governed contracts are substantive or lex fori matters",
+        "Whether the tribunal exceeded its powers within section 68(2)(b)"
+      ],
+      "catchwords": [
+        "section 68 serious irregularity",
+        "excess of powers",
+        "currency of award",
+        "ex mora interest",
+        "duplum rule",
+        "ICC arbitration",
+        "Lesotho law",
+        "FIDIC contract"
+      ],
+      "index_terms": [
+        "Lesotho Highlands Development Authority",
+        "Impregilo",
+        "Katse Dam",
+        "Morison J",
+        "London seat arbitration",
+        "terms of reference",
+        "Jugoslavenska Oceanska Plovidba",
+        "Miliangos"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Jugoslavenska Oceanske Plovidba v Castle Investment Co Inc",
+          "citation": "[1974] QB 292",
+          "relation": "applied"
+        },
+        {
+          "name": "Miliangos v George Frank (Textiles) Ltd",
+          "citation": "[1976] AC 443",
+          "relation": "considered"
+        },
+        {
+          "name": "President of India v La Pintada Compagnia Navigacia SA",
+          "citation": "[1985] AC 104",
+          "relation": "considered"
+        },
+        {
+          "name": "Midland International Trade Services v Sudairy",
+          "citation": "11 April 1990 (unreported)",
+          "relation": "considered"
+        },
+        {
+          "name": "Kuwait Oil Tanker Co SAK v Al Bader",
+          "citation": "[2000] 2 All ER (Comm) 271",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full approved judgment available; ratio clearly stated on both currency and interest points."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1267.json",
+    "status": "done",
+    "notes": "Complete contempt committal appeal; procedural fairness focus.",
+    "enrichment": {
+      "short_title": "Suspended committal set aside for breach of committal Practice Direction safeguards",
+      "area_of_law": [
+        "Civil contempt",
+        "Civil procedure",
+        "Human rights",
+        "Debt enforcement"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR Schedule 1 RSC Order 52", "CPR Schedule 2 County Court Order 29", "Committal Applications Practice Direction Part I and Part II"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Amberley Construction obtained a £7,500 judgment against Paul Beamish, a project manager, who failed to pay and gave misleading information about his bank accounts at a judgment-debtor examination.",
+        "Judge Kennedy convened Beamish on two days' notice, examined him himself without prior written specification of the alleged contempts, and imposed a concurrent 28-day suspended committal at the same hearing.",
+        "Beamish was unrepresented; the claimant was not notified of the hearing; no opportunity was given to take legal advice or prepare a defence."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from a county court suspended committal order for contempt in the face of the court during judgment-debt enforcement.",
+      "outcome": "Appeal allowed; Judge Kennedy's committal order set aside.",
+      "ratio": "Committal for contempt in the face of the court must comply with the Committal Applications Practice Direction, including detailed written notice of alleged conduct, reasonable time to respond and obtain legal advice, and a separate opportunity to address penalty; serious procedural breaches that prejudice an unrepresented contemnor require the order to be set aside as incompatible with Article 6.",
+      "legal_issues": [
+        "Whether committal procedures were used impermissibly to enforce a private judgment debt",
+        "Whether the contemnor was adequately informed of the acts of contempt",
+        "Whether Part II of the Committal Practice Direction was complied with",
+        "Whether Article 6 fair trial rights were breached by judicial interrogation without self-incrimination warning"
+      ],
+      "catchwords": [
+        "committal for contempt",
+        "Practice Direction",
+        "contempt in the face of the court",
+        "Article 6",
+        "judgment debtor examination",
+        "N39 order",
+        "Berry Trade Ltd v Moussavi"
+      ],
+      "index_terms": [
+        "Amberley Construction",
+        "Paul Beamish",
+        "Worthing County Court",
+        "Judge Kennedy",
+        "third party debt order",
+        "perjury",
+        "Nicholls v Nicholls"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Nicholls v Nicholls",
+          "citation": "[1997] 1 WLR 314",
+          "relation": "applied"
+        },
+        {
+          "name": "Berry Trade Ltd v Moussavi",
+          "citation": "[2002] EWCA Civ 477",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full judgment with detailed procedural analysis and clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1161.json",
+    "status": "done",
+    "notes": "Complete partnership/trust appeal with remittal for further evidence.",
+    "enrichment": {
+      "short_title": "Business partner appeal allowed after late contract amendment without further cross-examination",
+      "area_of_law": [
+        "Partnership and joint ventures",
+        "Breach of trust",
+        "Breach of contract",
+        "Civil procedure",
+        "Damages"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["overriding objective"]
+        }
+      ],
+      "key_facts": [
+        "Mrs Amos and Mr Bowerbank jointly built a trade magazine business through Paparazzi and subsidiary companies with a concealed 70/30 beneficial share split.",
+        "When Amos became seriously ill in November 1998 she transferred legal title to shares and granted a power of attorney; Bowerbank then licensed Paparazzi's database and titles to his own company Castle while Integrated went into liquidation.",
+        "After a prolonged county court trial framed as breach of trust, the judge found for Amos on facts but against her on law, then permitted a very late amendment to add an oral agreement to sell or refinance the business, refused further cross-examination of Amos, and awarded about £18,639 plus interest."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from Central London County Court after a part-heard trial with permission to appeal on amendment, refusal of adjournment, judgment, and costs.",
+      "outcome": "Appeal allowed in part; judgment and costs order set aside; case remitted to the trial judge for further cross-examination of Amos and reassessment of liability and quantum.",
+      "ratio": "Granting permission to amend at the end of trial from a trust claim to a contract claim did not offend the Barrell jurisdiction, but once the new case was pleaded justice required the defendant be allowed further to cross-examine on essential contract terms; damages for breach of the oral agreement must be measured by what Amos would have received if Bowerbank had performed, not by an arbitrary asset valuation at 5 January 1999.",
+      "legal_issues": [
+        "Whether post-judgment amendment was permissible under Barrell Enterprises principles",
+        "Whether refusal to adjourn for further cross-examination was unjust",
+        "Whether trust-based pleading failure should defeat the claim after favourable fact findings",
+        "Correct measure of damages for breach of the alleged November 1998 oral agreement"
+      ],
+      "catchwords": [
+        "late amendment",
+        "Barrell Enterprises",
+        "breach of trust",
+        "fiduciary duty",
+        "oral agreement",
+        "quantum of damages",
+        "cross-examination",
+        "overriding objective"
+      ],
+      "index_terms": [
+        "Paparazzi International Publications",
+        "Integrated Publishing",
+        "Castle Publications",
+        "breast cancer",
+        "database licensing",
+        "Judge Green",
+        "Cobbold v Greenwich"
+      ],
+      "linked_authorities": [
+        {
+          "name": "In re Barrell Enterprises",
+          "citation": "[1973] 1 WLR 19",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Stewart v Engel",
+          "citation": "[2000] 1 WLR 2268",
+          "relation": "considered"
+        },
+        {
+          "name": "Cobbold v London Borough of Greenwich",
+          "citation": "9 August 1999 (unreported)",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long but complete judgment; procedural and quantum holdings clearly articulated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2257.json",
+    "status": "done",
+    "notes": "Complete CCRC reference judgment; source summary truncated only.",
+    "enrichment": {
+      "short_title": "Luton post office murder convictions quashed after cumulative prosecution disclosure failures",
+      "area_of_law": [
+        "Criminal law",
+        "Criminal evidence",
+        "Criminal procedure",
+        "CCRC references"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": ["section 2", "section 17", "section 23"]
+        },
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": ["amendment to section 2"]
+        }
+      ],
+      "key_facts": [
+        "David Cooper and Michael McMahon were convicted in 1970 of murdering sub-postmaster Reginald Stevens in Luton; the prosecution case depended heavily on accomplice witness Alfred Mathews.",
+        "Murphy's conviction was quashed in 1973 after fresh alibi evidence; Cooper and McMahon remained in prison until 1980 despite repeated failed appeals.",
+        "The CCRC referred the cases again citing nondisclosure about police informant Michael Good, earlier inconsistent statements by Mrs Mathews, and the impact of Edwards' evidence on Mathews' credibility."
+      ],
+      "procedural_posture": "Reference by the Criminal Cases Review Commission to the Court of Appeal under section 17 Criminal Appeal Act 1968; appeals against conviction long after original trial.",
+      "outcome": "Appeals allowed; convictions quashed as unsafe.",
+      "ratio": "Applying Pendleton, where cumulative fresh and undisclosed material—including misleading presentation of Good's role, Edwards' credible exculpatory evidence as to Murphy affecting assessment of Mathews, McNair's identification evidence, and undisclosed earlier statements of Mrs Mathews—undermines the critical witness, the court itself must regard the convictions as unsafe even if each point alone might not be decisive.",
+      "legal_issues": [
+        "Safety of conviction standard after Pendleton",
+        "Impact of Murphy's successful appeal on co-accused",
+        "Material nondisclosure relating to Good and Mrs Mathews",
+        "Whether prior Court of Appeal reasoning on Mathews' credibility remained valid"
+      ],
+      "catchwords": [
+        "unsafe conviction",
+        "CCRC reference",
+        "accomplice evidence",
+        "nondisclosure",
+        "police informant",
+        "Pendleton",
+        "Stafford v DPP",
+        "Regina v Ward"
+      ],
+      "index_terms": [
+        "Luton post office murder",
+        "Alfred Mathews",
+        "Patrick Murphy",
+        "Detective Chief Superintendent Drury",
+        "Michael Good",
+        "Terence Edwards",
+        "1969 murder"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Pendleton",
+          "citation": "[2002] 1 WLR 72",
+          "relation": "applied"
+        },
+        {
+          "name": "Stafford v DPP",
+          "citation": "[1974] AC 878",
+          "relation": "applied"
+        },
+        {
+          "name": "Regina v Ward",
+          "citation": "[1993] 1 WLR 619",
+          "relation": "applied"
+        },
+        {
+          "name": "Baksh v The Queen",
+          "citation": "[1958] AC 167",
+          "relation": "considered"
+        },
+        {
+          "name": "Mills and Poole (No 2)",
+          "citation": "[2003] EWCA Crim 1753",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Very long judgment but complete; outcome and reasoning on cumulative unsafe effect clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1869.json",
+    "status": "done",
+    "notes": "Complete Chancery professional negligence trial judgment.",
+    "enrichment": {
+      "short_title": "Accountants liable for failing to advise Channel Islands salary routing for non-domiciled banker",
+      "area_of_law": [
+        "Professional negligence",
+        "Tax law",
+        "Income tax",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Income and Corporation Taxes Act 1988",
+          "provisions": ["Schedule E Case II", "Schedule E Case III"]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["section 35A"]
+        }
+      ],
+      "key_facts": [
+        "Mr Slattery, an Irish/Canadian Citibank executive resident but not ordinarily resident in the UK, was paid net salary into a London account while working partly abroad.",
+        "Moore Stephens prepared tax returns apportioning foreign earnings and claiming large PAYE refunds on the assumption he was paid abroad, without advising him to use a Jersey account available to other Citibank employees.",
+        "When Slattery disclosed UK payment in 1999 he had to repay about £310,000 to HMRC; he sued for the tax savings he could have made with proper advice."
+      ],
+      "procedural_posture": "High Court Chancery trial of a professional negligence claim against chartered accountants for UK tax advice and return preparation.",
+      "outcome": "Judgment for Slattery for £197,092.48 damages; breach established for 1996/97 and 1997/98 with 50% contributory negligence reducing the latter year's recovery.",
+      "ratio": "A reasonably competent tax adviser owed a duty to tell a resident non-domiciled employee frequently working abroad that payment into a Channel Islands account would avoid deemed remittance of foreign earnings; Moore Stephens breached that duty and caused loss for 1996/97, and Slattery's failure to query an unexpected £127,000 refund amounted to 50% contributory negligence for 1997/98 but did not break causation entirely.",
+      "legal_issues": [
+        "Scope of Moore Stephens' retainer and duty to advise on offshore payment",
+        "Whether October 1996 telephone advice to pay salary in New York was given",
+        "Causation and loss for each tax year",
+        "Contributory negligence and break in chain of causation on large unexpected refund"
+      ],
+      "catchwords": [
+        "professional negligence",
+        "resident non-domiciled",
+        "deemed remittance",
+        "Channel Islands payment",
+        "PAYE refund",
+        "contributory negligence",
+        "Barings plc v Coopers & Lybrand"
+      ],
+      "index_terms": [
+        "Moore Stephens",
+        "Citibank",
+        "Jersey bank account",
+        "Mr Durman",
+        "Mr Pickles",
+        "foreign earnings",
+        "self assessment"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Barings plc and Anor v Coopers & Lybrand and Ors",
+          "citation": "[2003] EWHC 1319",
+          "relation": "cited"
+        },
+        {
+          "name": "Reeves v Commissioner of Police of the Metropolis",
+          "citation": "[2000] 1 AC 360",
+          "relation": "cited"
+        },
+        {
+          "name": "Walkers v Hungerfords",
+          "citation": "(1987) 19 ATR 745",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed trial judgment with year-by-year liability findings and agreed damages figures."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1928.json",
+    "status": "done",
+    "notes": "Complete IP preliminary issue judgment; parties anonymised in approved form.",
+    "enrichment": {
+      "short_title": "Porcelain supplier's confidentiality, copyright and purchase-order IP rights upheld at preliminary issue",
+      "area_of_law": [
+        "Intellectual property",
+        "Breach of confidence",
+        "Copyright",
+        "Contract law",
+        "Design rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Copyright, Designs and Patents Act 1988",
+          "provisions": ["section 4", "section 51"]
+        }
+      ],
+      "key_facts": [
+        "A Middle Eastern tableware wholesaler and Derby porcelain manufacturer Lynton traded for years under exclusive distributorship agreements (1990 and 1996) under which the wholesaler presented itself as manufacturer and owned commissioned designs.",
+        "The 1996 agreement terminated by consent in June 2001; the wholesaler continued placing orders on standard purchase order terms assigning IP and restricting use of customer/end-user information.",
+        "The wholesaler sued alleging breach of confidence, copyright in back stamps and patterns, and retention of paid-for moulds; Lynton broadly denied subsistence of rights."
+      ],
+      "procedural_posture": "Expedited trial of preliminary issues on nature and extent of contractual, equitable and copyright rights before the main breach/infringement trial.",
+      "outcome": "Preliminary issues largely resolved in favour of the claimant on subsistence of confidence and copyright and ownership of moulds; clause 11.1 contractual confidentiality did not survive termination but equitable duties continued.",
+      "ratio": "The fact that named or crest-identified customers/end-users of bespoke tableware are clients of the wholesaler is confidential information not defeated by springboard arguments; simplified crest artwork and composite back-stamp layouts involve sufficient skill and labour for copyright as graphic works; post-termination purchase orders incorporated terms assigning design copyright to the buyer and restricting disclosure of customer identity.",
+      "legal_issues": [
+        "Whether preliminary issue trial could determine confidentiality without knowing what information was misused",
+        "Construction of clause 11.1 1996 agreement as surviving termination",
+        "Whether purchase order terms were incorporated after termination",
+        "Subsistence of copyright in back stamps and decorative patterns",
+        "Ownership of commissioned moulds"
+      ],
+      "catchwords": [
+        "breach of confidence",
+        "Coco v Clark",
+        "back stamp copyright",
+        "exclusive distributorship",
+        "purchase order terms",
+        "springboard principle",
+        "preliminary issue"
+      ],
+      "index_terms": [
+        "Lynton Porcelain Company",
+        "Nowacki",
+        "1990 Agreement",
+        "1996 Agreement",
+        "2002 Robert Adam agreement",
+        "tableware wholesaler",
+        "Derby porcelain"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Coco v A N Clark (Engineers) Ltd",
+          "citation": "[1969] RPC 41",
+          "relation": "applied"
+        },
+        {
+          "name": "Roger Bullivant Ltd v Ellis",
+          "citation": "[1987] RPC 172",
+          "relation": "cited"
+        },
+        {
+          "name": "Jewson v Kelly",
+          "citation": "[2003] EWCA Civ 1030",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Complete preliminary issue judgment; party names anonymised in source but legal holdings clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1964.json",
+    "status": "done",
+    "notes": "Complete Commercial Court Part 24 judgment on bulk oil sale contract.",
+    "enrichment": {
+      "short_title": "Seller granted summary judgment where loadport inspector certificate was final and binding",
+      "area_of_law": [
+        "Sale of goods",
+        "Commercial law",
+        "Oil and commodities trading",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Sale of Goods Act 1979",
+          "provisions": ["section 50", "section 51"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Part 24"]
+        }
+      ],
+      "key_facts": [
+        "Exxonmobil sold 15,000 mt ultra low sulphur diesel cif Cardiff to Texaco under a contract making SGS loadport certificates final and binding save fraud or manifest error.",
+        "SGS certified compliance at Gravenchon including minimum 58°C flashpoint, but discharge-port testing led Texaco to reject the cargo as off-specification.",
+        "Exxonmobil treated rejection as repudiatory, resold the cargo, and sought damages exceeding US$785,000 plus demurrage."
+      ],
+      "procedural_posture": "Part 24 application for summary judgment in Commercial Court proceedings on buyer's rejection of oil cargo.",
+      "outcome": "Summary judgment for Exxonmobil on liability; no permission to defend; declaration that clause 20 did not exclude section 50 damages; judgment for US$60,100 demurrage.",
+      "ratio": "Part I clause 6's independent-inspector regime prevailed over conflicting Part II clause 2.4 sampling provisions so Texaco could not rely on an express/implied obligation to retain sample portions from the superseded procedure; the entire agreement clause excluded implied terms based on usage or custom; loss of prospective profits wording in clause 20 did not bar section 50 market-price damages.",
+      "legal_issues": [
+        "Conflict between Part I clause 6 and Part II clause 2.4 on quality determination",
+        "Whether failure to retain sample portions invalidated the SGS certificate",
+        "Implied term/custom as to sample retention",
+        "Effect of entire agreement clause on usage-based implied terms",
+        "Construction of exclusion of loss of prospective profits"
+      ],
+      "catchwords": [
+        "summary judgment",
+        "cif sale",
+        "quality certificate",
+        "manifest error",
+        "Veba Oil v Petrotrade",
+        "entire agreement clause",
+        "Ulsado",
+        "flashpoint specification"
+      ],
+      "index_terms": [
+        "Exxonmobil",
+        "Texaco",
+        "HELENE KNUTSEN",
+        "Cardiff discharge",
+        "SGS Gravenchon",
+        "Esso terms",
+        "bulk oil contract"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Veba Oil Supply & Trading GmbH v Petrotrade Inc",
+          "citation": "[2002] 1 Lloyd's Rep 295",
+          "relation": "applied"
+        },
+        {
+          "name": "Heald Foods Ltd v Hyde Dairies Ltd",
+          "citation": "6 December 1996 (unreported)",
+          "relation": "considered"
+        },
+        {
+          "name": "Deepak Fertilisers and Petrochemical Corporation v ICI Chemicals and Polymers Ltd",
+          "citation": "[1998] 2 Lloyd's Rep 139",
+          "relation": "cited"
+        },
+        {
+          "name": "Inntrepreneur Pub Co v East Crown Ltd",
+          "citation": "[2000] 2 Lloyd's Rep 611",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment with detailed contractual analysis and clear summary judgment outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2003/2011.json",
+    "status": "done",
+    "notes": "Complete family appeal on threshold and procedural fairness.",
+    "enrichment": {
+      "short_title": "Care threshold upheld where mother declined to give evidence; child witness refusal within discretion",
+      "area_of_law": [
+        "Family law",
+        "Child protection",
+        "Public law children proceedings",
+        "Human rights",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": ["section 31", "section 96"]
+        },
+        {
+          "title": "Family Proceedings Rules 1991",
+          "provisions": ["Rule 9.2A", "Rule 4.16"]
+        },
+        {
+          "title": "Children and Young Persons Act 1933",
+          "provisions": ["section 44"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Care proceedings concerned Michael (born 1988) and Lola (born 1990) after alleged assaults by their mother, including a July 2002 electric flex injury to Lola's hand.",
+        "The mother had a 1998 conviction for assaulting both children with an electric flex; supervision orders had previously returned the children to her care.",
+        "The mother filed written denials but declined to give oral evidence; Michael, separately represented, was refused permission to give oral evidence supporting the mother's account."
+      ],
+      "procedural_posture": "Appeal to the High Court (Family Division) from a district judge's threshold findings under section 31 Children Act 1989 in care proceedings.",
+      "outcome": "Appeal dismissed; threshold criteria upheld.",
+      "ratio": "In care proceedings a parent who declines to give evidence should usually be taken as unable to rebut allegations proved on other evidence; separately, refusal to permit a 14-year-old separately represented child to give oral evidence was within the district judge's welfare-based discretion where trauma and conflict with his sister's account outweighed potential benefit.",
+      "legal_issues": [
+        "Inference from parent's failure to give oral evidence in care cases",
+        "Whether Michael should have been permitted to give evidence",
+        "Compatibility with Article 6 of refusing child witness while relying on hearsay",
+        "Whether section 31 threshold was met on alleged assaults"
+      ],
+      "catchwords": [
+        "section 31 threshold",
+        "care proceedings",
+        "failure to give evidence",
+        "child witness",
+        "separate representation",
+        "hearsay evidence",
+        "electric flex assault"
+      ],
+      "index_terms": [
+        "London Borough of Southwark",
+        "Principal Registry Family Division",
+        "District Judge Million",
+        "preserved supervision order history",
+        "Michael and Lola",
+        "Re P (Witness Summons)"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re W (Minors) (Wardship: Evidence)",
+          "citation": "[1990] 1 FLR 203",
+          "relation": "cited"
+        },
+        {
+          "name": "R v B County Council, ex parte P",
+          "citation": "[1991] 1 FLR 470",
+          "relation": "cited"
+        },
+        {
+          "name": "Re P (Witness Summons)",
+          "citation": "[1997] 2 FLR 447",
+          "relation": "applied"
+        },
+        {
+          "name": "Re A (Care: Discharge Application by Child)",
+          "citation": "[1995] 1 FLR 599",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full appeal judgment with clear procedural and evidential holdings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1956.json",
+    "status": "done",
+    "notes": "Very long judgment; source summary truncated but full_text complete and outcome clear.",
+    "enrichment": {
+      "short_title": "No binding Formula One title sponsorship deal on alleged Vodafone phone call",
+      "area_of_law": [
+        "Contract law",
+        "Agency",
+        "Misrepresentation",
+        "Sports and sponsorship law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Jordan Grand Prix claimed that in a 10–15 minute telephone call on 22 March 2001 Eddie Jordan and Vodafone global brand director David Haines orally agreed a US$150m title sponsorship for seasons 2002–2004.",
+        "Complex written negotiations were ongoing; key terms including livery, bonuses, intellectual property and renewal options remained unresolved and both sides expected board approval and written contracts.",
+        "Vodafone ultimately sponsored Ferrari instead; Jordan also pursued an alternative misrepresentation claim relating to its negotiations with Gallaher."
+      ],
+      "procedural_posture": "High Court Commercial Court trial of breach of contract and misrepresentation claims arising from alleged oral sponsorship agreement.",
+      "outcome": "Claim dismissed in full; no binding contract and alternative misrepresentation claim failed.",
+      "ratio": "A contract of this magnitude cannot be formed on a brief telephone conversation where essential commercial terms were unsettled and both parties understood any agreement required written board-approved documentation; Haines had neither actual nor ostensible authority to bind Vodafone Group, and the alleged representation was not acted upon nor shown to have caused loss.",
+      "legal_issues": [
+        "Whether an oral telephone agreement was complete and certain",
+        "Actual and ostensible authority of brand director to bind parent company",
+        "Application of First Energy principles to communication of board decisions",
+        "Alternative negligent or innocent misrepresentation claim and causation of loss"
+      ],
+      "catchwords": [
+        "oral contract",
+        "subject to contract",
+        "authority of agent",
+        "ostensible authority",
+        "Formula One sponsorship",
+        "title sponsor",
+        "uncertainty",
+        "misrepresentation"
+      ],
+      "index_terms": [
+        "Jordan Grand Prix",
+        "Vodafone Group",
+        "David Haines",
+        "Eddie Jordan",
+        "Gallaher",
+        "Ferrari sponsorship",
+        "Heads of Agreement",
+        "22 March 2001 telephone call"
+      ],
+      "linked_authorities": [
+        {
+          "name": "First Energy (UK) Ltd v Hungarian International Bank Ltd",
+          "citation": "[1993] 2 Lloyd's Rep 194",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Extremely long judgment read in full via extraction; source summary field truncated but conclusions at paragraphs 190–195 are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1975.json",
+    "status": "done",
+    "notes": "Complete admin JR on preserved rights grant determination.",
+    "enrichment": {
+      "short_title": "Judicial review dismissed over preserved rights community care grant allocation",
+      "area_of_law": [
+        "Administrative law",
+        "Local government finance",
+        "Community care",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government Act 2000",
+          "provisions": ["section 93"]
+        },
+        {
+          "title": "Health and Social Care Act 2001",
+          "provisions": ["section 50", "section 52"]
+        },
+        {
+          "title": "National Health Service and Community Care Act 1990",
+          "provisions": ["section 47"]
+        },
+        {
+          "title": "National Assistance Act 1948",
+          "provisions": ["section 21", "section 26", "section 26A"]
+        },
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": ["section 117"]
+        }
+      ],
+      "key_facts": [
+        "From April 2002 funding and care responsibility for residents with preserved rights to enhanced income support in independent care homes transferred from central government to local authorities.",
+        "The Secretary of State determined a fixed national pot (about £614m for England in 2002/03) and allocated grants by formula rather than reimbursing actual local authority expenditure.",
+        "Liverpool City Council received £8,640,683 but estimated a shortfall of about £1.45–2m against its additional costs and challenged inadequate consultation and irrationality."
+      ],
+      "procedural_posture": "High Court judicial review of the Secretary of State for Health's section 93 Local Government Act 2000 determination of preserved-rights grants for 2002/03.",
+      "outcome": "Claim dismissed; Determination upheld in relation to Liverpool's grant.",
+      "ratio": "Section 93(11) permits consultation with representative bodies such as the LGA and ADSS rather than every authority, and the consultation undertaken was genuine; determining fixed grants from estimated central savings to achieve broadly cost-neutral transfer was a rational policy choice and not rendered irrational by use of estimates or refusal to reimburse actual expenditure.",
+      "legal_issues": [
+        "Adequacy of consultation under section 93(11) before determining grants",
+        "Whether failure to consult on size of national pot invalidated the Determination",
+        "Rationality of fixed-grant formula versus reimbursement mechanism",
+        "Whether Liverpool's shortfall demonstrated material miscalculation"
+      ],
+      "catchwords": [
+        "judicial review",
+        "preserved rights",
+        "section 93 grant",
+        "consultation",
+        "irrationality",
+        "local authority funding",
+        "community care transfer",
+        "cost neutral"
+      ],
+      "index_terms": [
+        "Liverpool City Council",
+        "Secretary of State for Health",
+        "Department of Health",
+        "Joseph Rowntree report",
+        "Barnett formula",
+        "nursing home residents",
+        "Income Support preserved rights"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (Coughlan) v North and East Devon Health Authority",
+          "citation": "[2001] QB 213",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Brent London Borough Council, ex p Gunning",
+          "citation": "(1985) 84 LGR 168",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment with detailed consultation and rationality analysis; legitimate expectation ground abandoned."
+      }
+    }
+  }
+]

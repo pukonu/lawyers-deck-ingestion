@@ -1,0 +1,715 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1831.json",
+    "status": "done",
+    "notes": "Interim procedural judgment on limitation preliminary issue; full reasoning present.",
+    "enrichment": {
+      "short_title": "Contribution claim time limit runs from settlement agreement date, not later consent order",
+      "area_of_law": [
+        "Civil procedure",
+        "Limitation of actions",
+        "Contribution between tortfeasors"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Liability (Contributions) Act 1978",
+          "provisions": ["section 1(4)", "section 1(5)", "Schedule 1 paragraph 6"]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": ["section 10"]
+        },
+        {
+          "title": "Limitation Act 1963",
+          "provisions": ["section 4(2)"]
+        },
+        {
+          "title": "Administration of Justice Act 1920",
+          "provisions": ["section 12(1)"]
+        }
+      ],
+      "key_facts": [
+        "A consultant orthopaedic surgeon sought indemnity from NHS defendants after settling a patient's negligence claim for £700,000 plus costs on 24 October 2000; a consent order was made on 8 November 2000.",
+        "The contribution claim under the 1978 Act was issued on 1 November 2002, within two years of the consent order but outside two years of the settlement agreement.",
+        "The parties agreed to try as a preliminary issue whether the claim was barred by section 10 of the Limitation Act 1980.",
+        "The claim against the second defendant for a declaration on NHS indemnity interpretation was struck out under CPR 3.4(2)(a) as disclosing no reasonable cause of action."
+      ],
+      "procedural_posture": "High Court applications to amend particulars, strike out part of the claim, and determine a preliminary limitation issue under the Civil Liability (Contributions) Act 1978.",
+      "outcome": "Preliminary issue decided for defendants: the relevant date under section 10 was 24 October 2000 (date of agreement), so the contribution claim was time-barred; claim against second defendants struck out.",
+      "ratio": "Under section 10(4) of the Limitation Act 1980, where liability arises from an agreed payment rather than a judgment under subsection (3), the two-year limitation period runs from the earliest date the amount to be paid is agreed; a firm settlement letter accepting an offer starts time running even if a consent order is made later, and subsections (3) and (4) are mutually exclusive categories rather than overlapping routes.",
+      "legal_issues": [
+        "Whether a consent order settling damages is a 'judgment' within section 10(3) Limitation Act 1980",
+        "Whether the relevant date under section 10(4) is the settlement agreement or the consent order",
+        "Whether a declaration against NHS indemnity arrangers disclosed a reasonable cause of action"
+      ],
+      "catchwords": [
+        "contribution",
+        "limitation",
+        "consent order",
+        "settlement agreement",
+        "preliminary issue",
+        "Civil Liability (Contributions) Act 1978",
+        "strike out"
+      ],
+      "index_terms": [
+        "indemnity contribution",
+        "bona fide settlement",
+        "relevant date",
+        "two-year time limit",
+        "NHS indemnity",
+        "clinical negligence settlement"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Onslow v Commissioners of Inland Revenue",
+          "citation": "(1890) 25 QBD 465",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Clear interim ruling on a discrete statutory construction point; source metadata lists an incorrect historical judge name but the substantive judgment is complete."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1827.json",
+    "status": "done",
+    "notes": "Full trial judgment on oral contract and warranty of authority; complete reasoning.",
+    "enrichment": {
+      "short_title": "Consultant fails to prove oral fee agreement for Pakistan privatisation joint venture work",
+      "area_of_law": [
+        "Contract law",
+        "Agency",
+        "Commercial litigation"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Enterprise Plus Ltd claimed daily fees from Dr Wagenmann for consultancy work on The Privatisation Group venture to bid for Pakistan government privatisation projects in late 1997.",
+        "The case shifted from claims against UBK and IBJI to breach of warranty of authority and, alternatively, personal guarantee by Dr Wagenmann.",
+        "Contemporaneous notes recorded that payment would depend on obtaining a first mandate; defence witnesses said Dr Muth would have first call on funds if a mandate was awarded, not upfront fees.",
+        "Dr Muth invoiced only in April 1998 and did not pursue the claim until 2001."
+      ],
+      "procedural_posture": "High Court trial of a claim for breach of warranty of authority and/or personal contractual commitment to pay consultancy fees.",
+      "outcome": "Claim dismissed; the court found no contractual commitment on behalf of IBJI, UBK, or Dr Wagenmann personally and therefore no breach of warranty of authority.",
+      "ratio": "Where a speculative joint venture was understood by all principal witnesses to involve shared risk and payment only if a mandate was obtained, contemporaneous notes and inherent probabilities outweigh later reinterpretation of oral discussions; the burden on the claimant to prove an unconditional fee commitment on the balance of probabilities was not discharged.",
+      "legal_issues": [
+        "Whether Dr Wagenmann warranted authority to bind IBJI or UBK to pay fees irrespective of project success",
+        "Whether an oral personal guarantee to pay fees was made",
+        "Assessment of conflicting oral evidence against contemporaneous notes and commercial probabilities"
+      ],
+      "catchwords": [
+        "warranty of authority",
+        "oral contract",
+        "joint venture",
+        "consultancy fees",
+        "balance of probabilities",
+        "contemporaneous documents"
+      ],
+      "index_terms": [
+        "privatisation consultancy",
+        "The Privatisation Group",
+        "Enterprise Plus",
+        "IBJI",
+        "United Bank of Kuwait",
+        "expressions of interest",
+        "first mandate"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Long fact-intensive first-instance judgment with clear outcome and reasoning on liability."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2186.json",
+    "status": "done",
+    "notes": "Full disciplinary appeal judgment applying Bolton principles.",
+    "enrichment": {
+      "short_title": "Striking off upheld where solicitor facilitated mortgage fraud through de Serville without dishonesty",
+      "area_of_law": [
+        "Professional discipline",
+        "Solicitors regulation",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Solicitors Act 1974",
+          "provisions": ["section 49(1)"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Gurmit Singh Nahal appealed under section 49(1) of the Solicitors Act 1974 against a Disciplinary Tribunal decision striking him off the roll in July 2002.",
+        "He had previously been reprimanded and fined in 1996 for account breaches and failure to disclose material information in conveyancing transactions involving de Serville.",
+        "Later charges arose from allowing de Serville and an unqualified associate to conduct conveyancing using his client account and firm stationery, facilitating a 'little earner' mortgage fraud; JFB and the Solicitors Indemnity Fund suffered substantial losses.",
+        "The Tribunal accepted Nahal was not complicit in dishonesty but found his naivety and abdication of professional responsibility rendered him unfit to practise."
+      ],
+      "procedural_posture": "Appeal to the Administrative Court under section 49(1) of the Solicitors Act 1974 from a Solicitors Disciplinary Tribunal striking-off order.",
+      "outcome": "Appeal dismissed; striking off was a proportionate sanction. The Law Society's costs of £7,264.43 were ordered.",
+      "ratio": "Following Bolton v Law Society, even where dishonesty is not proved, serious lapses below the standards of integrity, probity and trustworthiness may warrant striking off rather than suspension; facilitating large-scale fraud by abandoning supervision and allowing misuse of client accounts and stationery is sufficiently serious that delay and lack of dishonesty do not make removal disproportionate.",
+      "legal_issues": [
+        "Appropriate sanction for conduct unbefitting a solicitor falling short of proven dishonesty",
+        "Application of Bolton v Law Society principles after the Human Rights Act 1998",
+        "Whether delay and sequential disciplinary proceedings rendered striking off disproportionate"
+      ],
+      "catchwords": [
+        "solicitors discipline",
+        "striking off",
+        "conduct unbefitting",
+        "mortgage fraud",
+        "client account",
+        "Bolton principles",
+        "fitness to practise"
+      ],
+      "index_terms": [
+        "de Serville",
+        "JFB",
+        "Solicitors Indemnity Fund",
+        "conveyancing fraud",
+        "professional stationery",
+        "naivety",
+        "Langford v Law Society"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bolton v Law Society",
+          "citation": "[1994] 1 WLR 512",
+          "relation": "applied"
+        },
+        {
+          "name": "Langford v Law Society",
+          "citation": "[2002] EWHC 2802 Admin",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete appellate judgment with detailed factual findings and clear application of leading authority."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1108.json",
+    "status": "done",
+    "notes": "Full Court of Appeal judgment on franchise termination and continuing client-care duties.",
+    "enrichment": {
+      "short_title": "Franchisees could terminate interim agreement at will but remained bound to provide client care to existing claimants",
+      "area_of_law": [
+        "Contract law",
+        "Franchise law",
+        "Commercial litigation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Three Kent franchisees of Compensation Claims Service Ltd formed Compensation Specialists Ltd from April 2000 after the Access to Justice Act 1999 ended commission-from-damages remuneration; an interim £550-per-client fee applied pending new franchise terms.",
+        "Relations broke down in February 2001 when the claimants ceased working for CCSL; CCSL counterclaimed for loss of profits and client-care costs.",
+        "The judge held the February 2001 letter lawfully terminated an interim contract terminable when a new franchise agreement was rejected, but dismissed CCSL's loss-of-profits counterclaim.",
+        "The operating manual and client letters required franchisees to provide local client care throughout the life of each claim."
+      ],
+      "procedural_posture": "Appeal with permission on two points from a trial judgment on liability for unpaid franchise fees and CCSL's counterclaim for post-termination losses.",
+      "outcome": "Appeal dismissed on termination/loss-of-profits point; appeal allowed on client-care point with judgment for CCSL on paragraph 21(2) of the counterclaim and damages to be assessed.",
+      "ratio": "Where individual franchise agreements were impliedly replaced from April 2000 by an interim agreement with the company, the interim arrangement could be impliedly terminable when proposed new terms were rejected; however, franchisees remained contractually bound to provide continuing client care to existing clients until claims concluded, and CCSL could recover or set off substitute client-care costs if they failed to do so.",
+      "legal_issues": [
+        "Whether the interim franchise relationship after April 2000 was terminable at will in February 2001",
+        "Whether CCSL could recover loss of profits after lawful termination",
+        "Whether continuing client-care obligations survived termination of the franchise agreement"
+      ],
+      "catchwords": [
+        "franchise agreement",
+        "interim contract",
+        "repudiatory breach",
+        "client care",
+        "conditional fee",
+        "Access to Justice Act 1999",
+        "loss of chance"
+      ],
+      "index_terms": [
+        "personal injury franchise",
+        "Compensation Claims Service",
+        "operating manual",
+        "no win no fee",
+        "Kent franchise territory",
+        "set-off"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete appellate judgment with detailed contract analysis on both appeal points."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1104.json",
+    "status": "done",
+    "notes": "Full appellate judgment on misrepresentation and Misrepresentation Act 1967 remedies.",
+    "enrichment": {
+      "short_title": "Misrepresentation on sesame seed storage location induced sale terms but court would keep sale agreement subsisting",
+      "area_of_law": [
+        "Contract law",
+        "Sale of goods",
+        "Misrepresentation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Misrepresentation Act 1967",
+          "provisions": ["section 2(2)"]
+        }
+      ],
+      "key_facts": [
+        "Huyton and Dipasa entered a joint venture to import Ethiopian sesame seeds stored under an enabling agreement at Dipasa's warehouse while Huyton believed goods were at Acosa's warehouse.",
+        "They later cancelled the JVA and entered a sale agreement (SA) describing goods as stored at Acosa Celaya with payment before warehouse release.",
+        "Dipasa processed the seeds, found them rancid/old crop, and sold them without paying Huyton; each party alleged dishonesty.",
+        "The trial judge found no misrepresentation or reliance; Huyton appealed on non-fraudulent misrepresentation."
+      ],
+      "procedural_posture": "Court of Appeal appeal from a High Court trial on whether the sale agreement was induced by misrepresentation or unilateral mistake and whether rescission of the JVA was available.",
+      "outcome": "Appeal allowed on misrepresentation and reliance findings, but the court would declare the sale agreement subsisting under section 2(2) of the Misrepresentation Act 1967 and leave parties to remedies under that agreement; costs order made with stay pending arbitration.",
+      "ratio": "A joint-venture partner who represented goods would be stored with Acosa, knew Huyton remained under that misapprehension when the sale agreement was drafted, and failed to correct it owed a duty to speak; reliance is shown where knowledge of the true storage location would likely have led to renegotiation of payment-before-release terms, but rescission is inappropriate where monetary compensation under the sale agreement adequately addresses the loss.",
+      "legal_issues": [
+        "Whether Dipasa made a continuing misrepresentation about storage location inducing the sale agreement",
+        "Whether Huyton relied on location in agreeing the sale terms",
+        "Whether the court should rescind the sale agreement or declare it subsisting under section 2(2) Misrepresentation Act 1967"
+      ],
+      "catchwords": [
+        "misrepresentation",
+        "duty to speak",
+        "joint venture",
+        "warehouse storage",
+        "rescission",
+        "sale agreement",
+        "FOSFA arbitration"
+      ],
+      "index_terms": [
+        "sesame seeds",
+        "enabling agreement",
+        "Acosa",
+        "paroxetine",
+        "payment before release",
+        "reliance",
+        "The Larissa"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Assicurazioni Generali SpA v Arab Insurance Group (BSC)",
+          "citation": "[2003] Lloyd's Rep IR 131",
+          "relation": "considered"
+        },
+        {
+          "name": "The Larissa",
+          "citation": "[1983] 2 Lloyd's Rep 325",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete judgment including detailed findings on misrepresentation and practical disposal under section 2(2)."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1070.json",
+    "status": "done",
+    "notes": "Complete judgment on LRA 1925 implied covenant and Part 24 summary judgment.",
+    "enrichment": {
+      "short_title": "Assignee's section 24 LRA 1925 covenant is indemnity not guarantee; summary judgment for pre-support rent",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Property law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Land Registration Act 1925",
+          "provisions": ["section 24(1)(b)"]
+        },
+        {
+          "title": "Landlord and Tenant (Covenants) Act 1995",
+          "provisions": ["section 17"]
+        },
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": ["section 89"]
+        },
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": ["section 77(1)(C)", "Schedule II Part IX"]
+        }
+      ],
+      "key_facts": [
+        "Scottish & Newcastle Breweries assigned hotel underleases to Mr Raguz in 1982; the tenant later defaulted and the original tenant paid £346,313.05 to the landlord after section 17 notices.",
+        "Mr Raguz defended on the basis the implied covenant was a guarantee dischargeable by the assignor's misconduct, including a 2000 Support Agreement underwriting the tenant's losses.",
+        "HH Judge Norris granted partial summary judgment for rent accrued before the Support Agreement and held the covenant was an indemnity.",
+        "Rent reviews completed in 2000-2001 increased the rent payable from review dates."
+      ],
+      "procedural_posture": "Appeal from summary judgment under CPR Part 24 following amendment permission and a three-day amendment hearing before the same deputy judge.",
+      "outcome": "Appeal dismissed on all substantive grounds; assignee's implied covenant held to be indemnity; VAT on rent recoverable; payment by assignor established; 40% costs order on Part 24 application upheld.",
+      "ratio": "The covenant implied by section 24(1)(b) of the Land Registration Act 1925 is a contract of indemnity, not guarantee, and is not discharged by assignor conduct that would discharge a surety; liability for rent under section 17 notices relating to quarters before the Support Agreement accrued independently of later assignor involvement in rent reviews or marketing, and section 89 VAT Act 1994 adds VAT to rent consideration after the lessor opts to tax.",
+      "legal_issues": [
+        "Whether the section 24(1)(b) covenant is a guarantee or indemnity",
+        "Whether assignor conduct procured or prolonged tenant default so as to limit indemnity liability",
+        "Whether VAT on rent falls within the implied indemnity covenant",
+        "Whether payment by the original tenant was sufficiently proved for summary judgment"
+      ],
+      "catchwords": [
+        "original tenant liability",
+        "implied covenant",
+        "indemnity",
+        "assignment of lease",
+        "section 17 notice",
+        "summary judgment",
+        "VAT on rent"
+      ],
+      "index_terms": [
+        "Abbey Motor Hotel Leicester",
+        "Hotel St James",
+        "administrative receiver",
+        "rent review",
+        "Support Agreement",
+        "chain of indemnities"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Harris v Boots Cash Chemists (Southern) Ltd",
+          "citation": "[1904] 2 Ch 376",
+          "relation": "applied"
+        },
+        {
+          "name": "Allied London Investments Ltd v Hambro Life Assurance Ltd",
+          "citation": "[1984] 1 EGLR 16",
+          "relation": "applied"
+        },
+        {
+          "name": "RPH Ltd v Mirror Group (Holdings) Ltd",
+          "citation": "[1993] 1 EGLR 74",
+          "relation": "considered"
+        },
+        {
+          "name": "Yeoman Credit Ltd v Latter",
+          "citation": "[1961] 1 WLR 828",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed appellate treatment of established conveyancing principles and Part 24 procedure."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1308.json",
+    "status": "done",
+    "notes": "Complete limitation appeal with clear ratio on sections 11 and 14 Limitation Act 1980.",
+    "enrichment": {
+      "short_title": "Employer's limitation defence succeeds where claimant had knowledge of significant attributable shoulder injury by January 1998",
+      "area_of_law": [
+        "Personal injury",
+        "Employment law",
+        "Limitation of actions"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": ["section 11", "section 14"]
+        },
+        {
+          "title": "Manual Handling Operations Regulations 1992",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mrs Collins, a Tesco petrol kiosk assistant, developed right shoulder symptoms from moving heavy stock cages over 100-150 yards.",
+        "She consulted her GP in August 1997 and rheumatologist Dr Chakravarty on 14 January 1998, who diagnosed acromioclavicular joint arthritis/overuse and injected the joint.",
+        "She continued working until 26 June 1998 when a physiotherapist advised the injury was caused by heavy lifting; proceedings were issued on 26 January 2001.",
+        "The recorder found knowledge arose only on 26 June 1998; Tesco appealed on limitation."
+      ],
+      "procedural_posture": "Appeal from a county court recorder's judgment on liability and damages in a personal injury claim with a limitation defence under section 11 Limitation Act 1980.",
+      "outcome": "Appeal allowed on limitation; claim held time-barred because the claimant had section 14 knowledge of a significant injury attributable to work by 14 January 1998 at the latest.",
+      "ratio": "Section 14(2) requires a commonsense objective assessment of whether the injury was sufficiently serious to justify proceedings; where symptoms had persisted for over a year, caused absence from work, and were linked by a consultant to overuse at work, the claimant had both significance and attributability knowledge before the three-year period expired, and a 'wait and see' attitude does not defer statutory knowledge.",
+      "legal_issues": [
+        "Date of knowledge that the injury was significant under section 14(1)(a) Limitation Act 1980",
+        "Date of knowledge of attributability to employment under section 14(1)(b)",
+        "Whether stoicism or wait-and-see defer limitation"
+      ],
+      "catchwords": [
+        "limitation",
+        "date of knowledge",
+        "personal injury",
+        "manual handling",
+        "significant injury",
+        "attributability",
+        "employer's liability"
+      ],
+      "index_terms": [
+        "shoulder tendonitis",
+        "stock cages",
+        "rheumatologist",
+        "overuse injury",
+        "McCafferty",
+        "Spargo"
+      ],
+      "linked_authorities": [
+        {
+          "name": "McCafferty v Metropolitan Police District Receiver",
+          "citation": "[1997] 2 All ER 756",
+          "relation": "applied"
+        },
+        {
+          "name": "North Essex District Health Authority v Spargo",
+          "citation": "[1997] 8 Med LR 125",
+          "relation": "applied"
+        },
+        {
+          "name": "Chaplin v Hicks",
+          "citation": "[1911] 2 KB 786",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full appellate reasoning on limitation with detailed analysis of witness evidence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1187.json",
+    "status": "done",
+    "notes": "Partial appeal allowed and remitted on Article 8 only; Refugee Convention analysis complete.",
+    "enrichment": {
+      "short_title": "Kosovo internal relocation to Pristina allowed under Refugee Convention but Article 8 claim remitted",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Human rights",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Januzi, an ethnic Albanian from Mitrovica in Kosovo, claimed asylum in the UK in May 1998 based on persecution in a Serb-majority area.",
+        "The Secretary of State accepted internal relocation to Pristina was available; the adjudicator allowed the appeal but the Immigration Appeal Tribunal reversed on 'unduly harsh' internal flight grounds.",
+        "Dr Barrett's psychiatric evidence said moderate depression would likely worsen on return to any part of Kosovo, with risk of severe depression and suicide.",
+        "UNHCR guidance indicated chronic mental illness could not yet be satisfactorily treated in Kosovo."
+      ],
+      "procedural_posture": "Court of Appeal appeal from an Immigration Appeal Tribunal decision allowing the Secretary of State's appeal against an adjudicator's grant of asylum.",
+      "outcome": "Appeal allowed in part only; Refugee Convention/internal relocation claim fails, but the case remitted to the IAT to determine afresh whether return would breach Article 8 of the ECHR; costs to appellant.",
+      "ratio": "Following AE and FE, internal relocation under the Refugee Convention requires comparing conditions in the place of feared persecution with the proposed safe haven for a person with the claimant's characteristics; psychiatric treatment deficiencies affecting both Mitrovica and Pristina are neutral and cannot establish undue harshness, but Article 8 engages where return may materially worsen mental health compared with treatment in the UK and the IAT must apply the Razgar test including a real-risk threshold.",
+      "legal_issues": [
+        "Whether internal relocation to Pristina was unreasonable or unduly harsh under the Refugee Convention",
+        "Interaction between Refugee Convention internal flight analysis and Human Rights Act claims",
+        "Whether return to Kosovo would breach Article 8 given psychiatric evidence"
+      ],
+      "catchwords": [
+        "asylum",
+        "internal relocation",
+        "internal flight alternative",
+        "Kosovo",
+        "Article 8",
+        "unduly harsh",
+        "psychiatric evidence"
+      ],
+      "index_terms": [
+        "Mitrovica",
+        "Pristina",
+        "ethnic Albanian",
+        "UNHCR",
+        "moderate depressive episode",
+        "safe haven"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Secretary of State for the Home Department, ex parte Robinson",
+          "citation": "[1998] QB 929",
+          "relation": "applied"
+        },
+        {
+          "name": "AE and FE v Secretary of State for the Home Department",
+          "citation": "[2003] EWCA Civ (decided 16 July 2003)",
+          "relation": "applied"
+        },
+        {
+          "name": "Razgar v Secretary of State for the Home Department",
+          "citation": "[2003] EWCA Civ 840",
+          "relation": "applied"
+        },
+        {
+          "name": "Bensaid v United Kingdom",
+          "citation": "[2001] INLR 325",
+          "relation": "considered"
+        },
+        {
+          "name": "D v United Kingdom",
+          "citation": "24 EHRR 423",
+          "relation": "considered"
+        },
+        {
+          "name": "Karanakaran v Secretary of State for the Home Department",
+          "citation": "[2000] 3 All ER 449",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Refugee Convention disposition is definitive; Article 8 outcome intentionally remitted and not finally decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1109.json",
+    "status": "done",
+    "notes": "Complete dual appeal on CPR 31.22 disclosure in patent litigation.",
+    "enrichment": {
+      "short_title": "Patent litigant permanently restricted from general use of experiment documents but may deploy them in related proceedings",
+      "area_of_law": [
+        "Civil procedure",
+        "Intellectual property",
+        "Patent litigation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 31.2", "CPR 31.14", "CPR 31.17", "CPR 31.22"]
+        }
+      ],
+      "key_facts": [
+        "In validity proceedings over SB's paroxetine patent, Generics disclosed Sumika and Darmstadt experimental documents referred to in Professor Mullin's expert report under a confidentiality club.",
+        "Pumfrey J initially allowed SB to use the documents in consolidated BASF proceedings with private hearing protections, then permanently restricted their use under CPR 31.22(2).",
+        "SB sought to use the same documents in separate Apotex infringement/validity proceedings, arguing they were voluntarily produced and outside CPR 31.22.",
+        "The documents concerned experiments on producing paroxetine anhydrate from example 1 of application 407."
+      ],
+      "procedural_posture": "Two Court of Appeal appeals against High Court orders restricting use of disclosed experimental documents in ongoing and related patent proceedings.",
+      "outcome": "First appeal dismissed: permanent CPR 31.22(2) restriction upheld applying Lilly Icos principles; second appeal allowed: documents released for use in Apotex proceedings subject to confidentiality protections similar to the BASF trial.",
+      "ratio": "A reference to documents in an expert report constitutes disclosure under CPR 31.2, so CPR 31.22(2) may restrict use even after a public trial; Lilly Icos requires strong reasons to depart from publicity, but where documents are peripherally relevant, originate with third parties, and justice requires deployment in closely related patent proceedings, modification of the restriction for that action is permissible without undermining confidentiality protections.",
+      "legal_issues": [
+        "Whether documents referred to in an expert report are 'disclosed' for CPR 31.22 purposes",
+        "Appropriate permanent restriction on use of confidential experimental documents after trial",
+        "Whether disclosed documents may be used in separate related patent proceedings"
+      ],
+      "catchwords": [
+        "disclosure",
+        "CPR 31.22",
+        "confidentiality club",
+        "patent validity",
+        "expert report",
+        "Lilly Icos",
+        "abuse of process"
+      ],
+      "index_terms": [
+        "paroxetine hydrochloride anhydrate",
+        "Generics UK",
+        "Apotex",
+        "Sumika documents",
+        "Darmstadt documents",
+        "implied undertaking"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Lilly Icos LLC v Pfizer Ltd",
+          "citation": "[2002] EWCA Civ 2",
+          "relation": "applied"
+        },
+        {
+          "name": "Smithkline Beecham Biologicals SA v Connaught Laboratories Inc",
+          "citation": "[1999] 4 All ER 498",
+          "relation": "applied"
+        },
+        {
+          "name": "Halcon International Inc v Shell Transport and Trading Co",
+          "citation": "[1979] RPC 97",
+          "relation": "considered"
+        },
+        {
+          "name": "Crest Homes Plc v Marks",
+          "citation": "[1987] AC 829",
+          "relation": "applied"
+        },
+        {
+          "name": "Cobra Golf Inc v Rata",
+          "citation": "[1996] FSR 819",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete appellate judgment on both disclosure appeals with clear CPR analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1038.json",
+    "status": "done",
+    "notes": "Complete loss-of-chance damages appeal on contract valuation only.",
+    "enrichment": {
+      "short_title": "Loss-of-chance damages upheld where dishonest tender manipulation cost Centro bus-shelter contract",
+      "area_of_law": [
+        "Employment law",
+        "Commercial litigation",
+        "Damages"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Barron Industrial Services' general manager Mr Hargreaves secretly supplied Nu Weld with tender figures for Centro's 1996 bus-shelter maintenance contract while inflating Barron's own tender.",
+        "Centro awarded Nu Weld the contract in January 1996 but later suspended both tenderers and awarded the work to a third party after discovering the scam.",
+        "The judge found breach of fiduciary duty and inducing breach of contract; liability and a 40% chance of winning the contract were not appealed.",
+        "The judge valued the two-year contract profit at £47,500 using a top-down approach and awarded £19,000 (40%)."
+      ],
+      "procedural_posture": "Appeal against quantum only from a High Court judgment on breach of duty of fidelity, inducing breach, and conspiracy in relation to a public tender.",
+      "outcome": "Appeal dismissed; contract valuation of £47,500 and damages of £19,000 upheld.",
+      "ratio": "In loss-of-chance claims for a public maintenance contract priced by round-figure tender rates plus a 25% overhead uplift, a trial judge may reject a detailed bottom-up cost schedule inconsistent with contemporaneous tender calculations and estimate profit by adjusting proven 1994 contract performance for revised tender rates and expected volume increase; additional manager and variable cost heads need not be deducted where they were covered by the uplift and not established on the evidence.",
+      "legal_issues": [
+        "Valuation methodology for loss of a chance to obtain the Centro 1996 contract",
+        "Whether additional management and variable costs should reduce estimated contract profit",
+        "Consistency between findings that Nu Weld's tender was unprofitable and that Barron's adjusted tender would have been profitable"
+      ],
+      "catchwords": [
+        "loss of chance",
+        "breach of fiduciary duty",
+        "inducing breach of contract",
+        "public tender",
+        "quantum of damages",
+        "Chaplin v Hicks"
+      ],
+      "index_terms": [
+        "Centro",
+        "bus shelter maintenance",
+        "Lexan sheets",
+        "Nu Weld",
+        "tender fraud",
+        "25% uplift",
+        "Scott Schedule"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Chaplin v Hicks",
+          "citation": "[1911] 2 KB 786",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Appeal limited to valuation; full factual background and judge's reasoning are present."
+      }
+    }
+  }
+]

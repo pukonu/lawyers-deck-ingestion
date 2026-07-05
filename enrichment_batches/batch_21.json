@@ -1,0 +1,718 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/203.json",
+    "status": "done",
+    "notes": "Batch 21 enrichment",
+    "enrichment": {
+      "short_title": "Transit cargo cover for mobile phones held on warehouse before onward delivery",
+      "area_of_law": [
+        "Insurance law",
+        "Commercial law",
+        "Contract law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Eurodale ordered mobile telephones from Frontline, delivered them to Hawk's warehouse on 26 May 2000 with instructions to hold them in a secure cage pending onward delivery to customers.",
+        "A ram raid over the Spring Bank Holiday weekend stole telephones worth £340,060 while the goods remained at the warehouse before division into customer consignments.",
+        "Eurodale held an open marine cargo/transit policy with Ecclesiastical Insurance including typed UK-to-UK voyage wording and incorporated Institute Cargo Clauses (A).",
+        "The insurers contended that transit cover did not attach while goods were warehoused on hold; the judge held they were covered and the Court of Appeal dismissed the insurers' appeal."
+      ],
+      "procedural_posture": "Insurers' appeal to the Court of Appeal against a first-instance judgment that the loss was covered under a transit/marine cargo policy.",
+      "outcome": "Appeal dismissed with costs; the insurers were held liable for the warehouse theft.",
+      "ratio": "Where a typed voyages clause in a transit policy provides that cover attaches from the time the assured accept delivery of insured goods and continues during the ordinary course of transit, that bespoke clause takes precedence over printed Institute Cargo Clauses and can extend cover to goods at an intermediate warehouse awaiting onward delivery, even if held on hold and even over a bank holiday, provided the overall arrangement constitutes a single transit venture rather than indefinite storage.",
+      "legal_issues": [
+        "When transit insurance attaches to goods delivered to an intermediate warehouse",
+        "Construction of typed voyage clauses against incorporated Institute Cargo Clauses (A)",
+        "Whether goods held on hold before division into customer consignments were in transit",
+        "Application of Crows Transport v Phoenix Assurance to warehouse storage as an incident of transit"
+      ],
+      "catchwords": [
+        "transit insurance",
+        "marine cargo policy",
+        "Institute Cargo Clauses",
+        "warehouse theft",
+        "cover attachment",
+        "typed clause precedence",
+        "on hold"
+      ],
+      "index_terms": [
+        "Eurodale Manufacturing",
+        "Ecclesiastical Insurance",
+        "Hawk Precision Logistics",
+        "mobile telephones",
+        "Colnbrook warehouse",
+        "Crows Transport v Phoenix Assurance",
+        "UK to UK sending"
+      ],
+      "linked_authorities": [
+        "Crows Transport v Phoenix Assurance Co Ltd"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Outcome, policy construction, and ratio are explicit. Source judge metadata appears unreliable (lists Lord Denning rather than Longmore, Clarke and Ward LJJ)."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/240.json",
+    "status": "done",
+    "notes": "Batch 21 enrichment",
+    "enrichment": {
+      "short_title": "Admissibility of draft environmental report in surveyor negligence claim",
+      "area_of_law": [
+        "Professional negligence",
+        "Civil evidence",
+        "Property law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Evidence Act 1995",
+          "provisions": [
+            "section 1"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 32.19",
+            "rule 33.1",
+            "rule 33.2",
+            "Practice Direction 32 paragraph 27.2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Claimants bought a petrol filling station relying on a mortgage valuation of about £162,500 and alleged the surveyors should have advised further investigation for underground contamination.",
+        "On the first day of trial the recorder ruled a draft October 1996 RPS soil report inadmissible; the claimants then submitted to judgment and were ordered to pay costs.",
+        "The claimants intended to use the RPS report to show that, if proper advice had been given, an environmental survey would have been commissioned before exchange and would have reduced the valuation by about £35,000, not primarily to prove contamination as fact.",
+        "Both parties had pleaded to and prepared expert evidence on the RPS report without prior objection to admissibility."
+      ],
+      "procedural_posture": "Claimants' appeal to the Court of Appeal against an interlocutory evidential ruling and the resulting judgment after submission.",
+      "outcome": "Appeal allowed; the ruling and judgment were set aside and a new trial before a circuit judge was directed, with costs in the case.",
+      "ratio": "A draft environmental report may be admissible without a Civil Evidence Act notice where the claimant relies on the fact that the report was made and on its contents for a causation argument about what valuers would have done, rather than for the truth of every statement within it; where parties have treated a document as part of the trial bundle and neither has objected, Practice Direction 32 paragraph 27.2 and the interests of justice support admission, with weight rather than admissibility determined at trial.",
+      "legal_issues": [
+        "Whether an unsigned draft expert report was admissible for causation and quantum",
+        "Distinction between relying on a document as evidence of fact and relying on it for the truth of its contents",
+        "Effect of Civil Evidence Act 1995 section 1 and CPR Part 33 notice requirements",
+        "Whether the recorder erred in treating absence of the report as fatal to quantum"
+      ],
+      "catchwords": [
+        "admissibility",
+        "draft expert report",
+        "surveyor negligence",
+        "contamination",
+        "hearsay",
+        "Civil Evidence Act 1995",
+        "causation",
+        "new trial"
+      ],
+      "index_terms": [
+        "Sunley",
+        "RPS Technology",
+        "petrol station valuation",
+        "Stockton on Tees",
+        "mortgage valuation",
+        "volatile organic compounds",
+        "recorder's ruling"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Clarke LJ's reasoning on admissibility, outcome, and permission to resile from trial concessions is detailed and unambiguous."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/383.json",
+    "status": "needs_review",
+    "notes": "Batch 21 enrichment; interlocutory disclosure judgment only — final merits outcome not determined",
+    "enrichment": {
+      "short_title": "Computer disclosure for disputed email delivery of completion accounts",
+      "area_of_law": [
+        "Commercial litigation",
+        "Contract law",
+        "Civil procedure",
+        "Company acquisitions"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 31.4",
+            "standard disclosure"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Marlton claimed about £590,000 deferred consideration under a share sale agreement for Adherence Systems Limited; payability turned on clause 4.2 completion accounts delivered within 180 days.",
+        "Tectronix contended completion accounts were emailed within the deadline; Marlton disputed receipt timing and his mail server records suggested incoming emails were bounced before a later message.",
+        "Initial Belgian ISP records did not resolve when Marlton first accessed the emails; the defendants sought inspection of hard disks, backups and mail servers.",
+        "Pumfrey J held standard disclosure required computer records relating to receipt of the Belgian e-mail address but deferred final form of expert inspection after further submissions."
+      ],
+      "procedural_posture": "Interlocutory High Court (Chancery) application for disclosure and inspection of computer records in a pending share purchase price adjustment claim due for trial.",
+      "outcome": "Partial disclosure ordered in principle for materials relating to the claimant's Belgian e-mail address; further submissions invited on expert imaging and inspection safeguards.",
+      "ratio": "Where a commercial dispute turns on when completion accounts sent by e-mail were received, computer databases and word-processing files containing receipt information are documents within CPR 31.4 and must be disclosed under standard disclosure if they adversely affect a party's case; where a claimant's electronic evidence is unsatisfactory and privileged material may be present, inspection should be by an independent expert rather than the opposing party.",
+      "legal_issues": [
+        "Scope of document disclosure under CPR 31.4 for computer and e-mail records",
+        "Whether hard-disk imaging and expert inspection were appropriate",
+        "Construction and operation of clause 4.2 completion accounts delivery in a share sale agreement",
+        "Adequacy of disclosure where e-mail bounce configuration is in issue"
+      ],
+      "catchwords": [
+        "standard disclosure",
+        "electronic disclosure",
+        "e-mail receipt",
+        "completion accounts",
+        "share purchase agreement",
+        "hard disk inspection",
+        "deferred consideration"
+      ],
+      "index_terms": [
+        "Marlton",
+        "Tectronix UK Holdings",
+        "Adherence Systems",
+        "clause 4.2",
+        "Belgian e-mail",
+        "White Book 31.4.1",
+        "Microsoft Exchange"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.84,
+        "level": "high",
+        "notes": "Disclosure ratio and procedural outcome are clear, but this is an interim ruling without final determination of the underlying £590,000 claim or whether e-mail delivery satisfied clause 4.2."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/386.json",
+    "status": "done",
+    "notes": "Batch 21 enrichment",
+    "enrichment": {
+      "short_title": "Asylum judicial review after undisclosed successful appeal by claimant's mother",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Appeals (Procedure) Rules 2000",
+          "provisions": [
+            "rule 30(2)",
+            "rule 42(a)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Kosovan/Albanian claimant sought asylum in the United Kingdom, was refused, and lost before an adjudicator on 25 March 2002 after the IAT refused leave to appeal on 27 May 2002.",
+        "Weeks earlier his mother's separate asylum appeal had succeeded before a different adjudicator, but the claimant did not disclose that outcome or its reasoning at his own hearing.",
+        "The adjudicator found the claimant credible as to past persecution but held he could safely return to Kosovo and rejected an Article 8 claim based on his wife and child.",
+        "On judicial review the claimant argued inadequate weight was given to a 2000 KLA visit, the 1996 family holiday, UNHCR material, and a new Article 8 claim based on family life with his mother."
+      ],
+      "procedural_posture": "High Court judicial review of the Immigration Appeal Tribunal's refusal of leave to appeal against an adjudicator's asylum refusal.",
+      "outcome": "Application dismissed; the IAT's refusal of leave and the underlying asylum refusal were upheld.",
+      "ratio": "Failure to disclose a related family member's successful asylum appeal does not make an IAT refusal of leave irrational where the two appeals rested on different evidence and findings; weight-of-evidence grounds are difficult in judicial review; and a married adult claimant cannot establish Article 8 family life with his mother without evidence of dependency beyond normal emotional ties.",
+      "legal_issues": [
+        "Whether non-disclosure of the mother's successful appeal rendered the IAT decision unlawful",
+        "Adequacy of the adjudicator's treatment of country evidence and the 1996 Kosovo visit",
+        "Scope of Article 8 family life between an adult son and his mother",
+        "Whether a new human rights ground raised on appeal to the IAT was arguable"
+      ],
+      "catchwords": [
+        "judicial review",
+        "asylum appeal",
+        "Immigration Appeal Tribunal",
+        "Kosovo",
+        "Article 8",
+        "family life",
+        "Rule 42",
+        "non-disclosure"
+      ],
+      "index_terms": [
+        "Mulhaxha",
+        "Kosovo Albanian",
+        "UNHCR position paper",
+        "KLA threat",
+        "Ahmut v Netherlands",
+        "R v Duka",
+        "related appeals"
+      ],
+      "linked_authorities": [
+        "Ahmut v Netherlands",
+        "R v Duka and the Secretary of State for the Home Department"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome and principal grounds of refusal are clearly reasoned. Source metadata lists Gage and Pitchford JJ but the judgment is delivered by Mackay J."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/270.json",
+    "status": "done",
+    "notes": "Batch 21 enrichment",
+    "enrichment": {
+      "short_title": "MHRT constitution challenge to deferred conditional discharge review",
+      "area_of_law": [
+        "Mental health law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 71(1)",
+            "conditional discharge"
+          ]
+        },
+        {
+          "title": "Mental Health Review Tribunal Rules 1983",
+          "provisions": [
+            "rule 8",
+            "rule 17"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 5(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A restricted patient obtained a deferred conditional discharge in September 2001, but suitable accommodation was never identified and the discharge never took effect.",
+        "The Secretary of State later referred the case under section 71 but withdrew that referral in February 2003; a tribunal hearing was listed for 14 February 2003 with a wholly new membership.",
+        "The patient had transferred from Hampshire to Berkshire, moving between tribunal areas, and the original chairman and other members were unavailable.",
+        "The claimant sought a stay and permission to argue she had a right to the same tribunal members where possible."
+      ],
+      "procedural_posture": "Urgent High Court application for permission and a stay before a pending Mental Health Review Tribunal hearing on implementation of a deferred conditional discharge.",
+      "outcome": "Stay refused and permission refused; the February 2003 tribunal hearing was permitted to proceed with a new constitution.",
+      "ratio": "Proceedings to monitor a deferred conditional discharge are continuing proceedings not finally disposed of, so MHRT Rule 17(1) permits replacement members where original members cannot sit without undue delay; Rule 17(2) governs transfer between tribunal areas on patient movement; and although continuity of membership is desirable, after substantial delay and unavailable original members there is no arguable right to the same panel sufficient to justify staying the hearing.",
+      "legal_issues": [
+        "Whether a patient has a right to the same MHRT membership on review of a deferred conditional discharge",
+        "Interaction of MHRT Rules 8, 17(1) and 17(2) on transfer between areas",
+        "Effect of withdrawal of a section 71 Secretary of State reference",
+        "Whether a stay should be granted before an imminent tribunal hearing"
+      ],
+      "catchwords": [
+        "Mental Health Review Tribunal",
+        "deferred conditional discharge",
+        "tribunal constitution",
+        "Rule 17",
+        "section 71",
+        "restricted patient",
+        "stay application"
+      ],
+      "index_terms": [
+        "R(C) v Secretary of State for the Home Department",
+        "R(IH) v Secretary of State for the Home Department",
+        "London North Tribunal",
+        "London South Tribunal",
+        "Article 5(4)",
+        "Richard Jones Mental Health Acts Manual"
+      ],
+      "linked_authorities": [
+        "R(C) v Secretary of State for the Home Department",
+        "R(IH) v Secretary of State for the Home Department and another"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Procedural ruling and reasoning on Rules 8 and 17 are detailed. Final tribunal decision on discharge is outside this judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/212.json",
+    "status": "done",
+    "notes": "Batch 21 enrichment",
+    "enrichment": {
+      "short_title": "Sri Lankan asylum appeal on speculative airport detention risk",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigrants and Emigrants Act (Sri Lanka)",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant, a Tamil Muslim, claimed asylum after allegedly being forced by the LTTE to make uniforms and fleeing when Sri Lankan forces killed staff and searched for him.",
+        "The adjudicator found him credible but rejected LTTE and religious persecution risks, yet held return exposed him to likely airport detention, intensive interrogation and torture based partly on an unsupported assumption that Hindu Tamils pose as Muslims.",
+        "The Immigration Appeal Tribunal held those airport-risk findings flawed and speculative and restored the Secretary of State's refusal.",
+        "The appellant had left Sri Lanka on forged or another person's travel documents about May 2000."
+      ],
+      "procedural_posture": "Appellant's appeal to the Court of Appeal with permission against an Immigration Appeal Tribunal decision allowing the Secretary of State's appeal.",
+      "outcome": "Appeal dismissed; the IAT's restoration of the refusal of asylum was upheld.",
+      "ratio": "An adjudicator's airport-risk finding based on the unsupported proposition that many Hindu Tamils disguise themselves as Muslims is insubstantial; where returned failed asylum seekers are issued genuine travel documents by the Sri Lankan High Commission and do not admit illegal departure, Pathmanathan establishes they are not generally at risk of prosecution under the Immigrants and Emigrants Act; the IAT need not engage with speculative reasoning that lacks evidential foundation.",
+      "legal_issues": [
+        "Whether the adjudicator's airport detention and torture findings were sustainable",
+        "Risk on return for Sri Lankan Tamil asylum seekers under the Immigrants and Emigrants Act",
+        "Imputed political opinion and Article 3 minimum severity",
+        "Standard of appellate review of IAT fact findings"
+      ],
+      "catchwords": [
+        "asylum appeal",
+        "Sri Lanka",
+        "LTTE",
+        "airport detention",
+        "Immigrants and Emigrants Act",
+        "Article 3",
+        "refugee convention",
+        "Pathmanathan"
+      ],
+      "index_terms": [
+        "Ashraff",
+        "Tamil Muslim",
+        "CIPU report April 2001",
+        "Sivakumar",
+        "returned asylum seeker",
+        "forged passport",
+        "Immigration Appeal Tribunal"
+      ],
+      "linked_authorities": [
+        "Pathmanathan v Secretary of State for the Home Department",
+        "Sivakumar"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Laws LJ's analysis of paragraph 28 deficiencies and Pathmanathan is explicit. Appellant conceded the Hindu-Tamil disguise point lacked evidence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/299.json",
+    "status": "done",
+    "notes": "Batch 21 enrichment",
+    "enrichment": {
+      "short_title": "Prospective CPR extension for late particulars in personal injury claim",
+      "area_of_law": [
+        "Civil procedure",
+        "Personal injury",
+        "Professional negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 1.1",
+            "rule 3.1(2)(a)",
+            "rule 3.4(2)",
+            "rule 3.9",
+            "rule 7.4",
+            "rule 7.5",
+            "rule 7.6",
+            "rule 24.2",
+            "rule 52.11(1)",
+            "Practice Direction 16 paragraph 4.3"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant, a Eurostar stewardess, issued a personal injury claim on 1 March 2001 after a 1998 accident allegedly caused by unsafe uniform shoes supplied by Momentum Services Ltd.",
+        "She served the claim form in time but applied on 13 June 2001, before the 1 July deadline, to extend time for particulars because a joint orthopaedic report was not yet available.",
+        "A district judge granted extension to 17 October 2001; HHJ Collins reheard the appeal, applied CPR 3.9 by analogy, considered merits, and dismissed the action.",
+        "The Court of Appeal held the district judge's approach was correct and restored the extension."
+      ],
+      "procedural_posture": "Claimant's appeal to the Court of Appeal against a county court decision dismissing her action after refusing a prospective extension of time for service of particulars of claim.",
+      "outcome": "Appeal allowed; HHJ Collins's order was discharged and the district judge's extension restored, with costs subject to detailed assessment.",
+      "ratio": "An application under CPR 3.1(2)(a) made before the time for compliance expires is not relief from sanctions and the CPR 3.9 checklist does not apply by analogy; the court should focus on prejudice caused by the failure to serve in time rather than earlier pre-issue delay, and should rarely refuse extension on merits grounds unless strike-out under rule 3.4 or summary judgment under rule 24.2 would succeed, particularly where the defendant had no adequate notice that merits would be relied on.",
+      "legal_issues": [
+        "How to exercise discretion under CPR 3.1(2)(a) before expiry of the compliance period",
+        "Whether CPR 3.9 applies by analogy to prospective extensions",
+        "Relevance of pre-issue delay and defendant prejudice",
+        "Whether appellate courts may rehear rather than review district judges on extension applications"
+      ],
+      "catchwords": [
+        "extension of time",
+        "particulars of claim",
+        "CPR 3.1(2)(a)",
+        "CPR 3.9",
+        "overriding objective",
+        "personal injury",
+        "medical report",
+        "pre-issue delay"
+      ],
+      "index_terms": [
+        "Robert",
+        "Momentum Services",
+        "Cross Channel Catering",
+        "Eurostar stewardess",
+        "Totty v Snowden",
+        "Sayers v Clarke Walker",
+        "Chapple v Williams",
+        "District Judge Wigfield"
+      ],
+      "linked_authorities": [
+        "Totty v Snowden",
+        "Sayers v Clarke Walker (a firm)",
+        "Chapple v Williams",
+        "Bansal v Cheema",
+        "Donovan v Gwentoys Limited"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Dyson LJ's leading judgment sets out clear ratio on CPR 3.1(2)(a) versus 3.9 and prejudice. Outcome and procedural history are fully reported."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/387.json",
+    "status": "done",
+    "notes": "Batch 21 enrichment",
+    "enrichment": {
+      "short_title": "Curfew tag removal breach despite incomplete written order",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 36B",
+            "section 37(10)",
+            "section 37(11)",
+            "Schedule 3 Part II"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant was sentenced on 25 January 2002 to a curfew order with electronic monitoring under section 36B PCC(S)A 2000, but the written curfew form did not mention tagging.",
+        "He was prosecuted for removing the monitoring tag without just cause on 2 February 2002; the absence-from-curfew allegation failed for lack of evidence.",
+        "Premier Monitoring Services inducted him into tagging on the day of sentence; compliance evidence showed a damaged tag not on his ankle at 23:49 during curfew hours.",
+        "The deputy district judge fined him £50; the High Court answered yes to a case stated question on breach despite the written order's silence on tagging."
+      ],
+      "procedural_posture": "Appeal by way of case stated from the magistrates' court to the High Court on law and fact.",
+      "outcome": "Appeal dismissed; the deputy district judge was entitled to find a breach of the curfew order by removing the tag.",
+      "ratio": "Where a court makes a section 36B curfew order requiring electronic monitoring, breach by removing or damaging the tag during the currency of the order may be proved even if the written order served under section 37(11) omits tagging, provided section 37(10) requirements were met by explaining the full order including monitoring and the consequences of breach; the tag must be worn throughout the order, not only during curfew hours, to maintain the monitoring regime.",
+      "legal_issues": [
+        "Whether removal of a tag outside curfew hours could constitute breach",
+        "Effect of incomplete written curfew order under section 37(11)",
+        "Whether section 37(10) notice requirements were satisfied",
+        "Construction of electronic monitoring as an implicit condition of a section 36B order"
+      ],
+      "catchwords": [
+        "curfew order",
+        "electronic monitoring",
+        "tag removal",
+        "case stated",
+        "section 36B",
+        "section 37",
+        "youth court",
+        "breach proceedings"
+      ],
+      "index_terms": [
+        "Ovenell",
+        "Premier Monitoring Services",
+        "Camberwell Green",
+        "electronic tag",
+        "Responsible Officer",
+        "re Bramblevale Ltd",
+        "R v City of London Magistrates' Court ex parte Green"
+      ],
+      "linked_authorities": [
+        "re Bramblevale Ltd",
+        "R v City of London Magistrates' Court ex parte Green",
+        "Churchman and Others v Joint Shop Stewards' Committee of the Workers of the Port of London"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Case stated question and affirmative answer are explicit. Some sub-issues on timing at 6.40 pm were left undetermined as unnecessary on the facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/113.json",
+    "status": "done",
+    "notes": "Batch 21 enrichment",
+    "enrichment": {
+      "short_title": "CMR liability for lost Spanish whisky tax seals and guarantee payment",
+      "area_of_law": [
+        "Carriage of goods",
+        "Commercial law",
+        "Bailment",
+        "International conventions"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Carriage of Goods by Road Act 1965",
+          "provisions": []
+        },
+        {
+          "title": "Convention on the Contract for the International Carriage of Goods by Road (CMR)",
+          "provisions": [
+            "Article 1",
+            "Article 4",
+            "Article 23",
+            "Article 28",
+            "Article 34",
+            "Article 36",
+            "Article 38"
+          ]
+        },
+        {
+          "title": "Torts (Interference with Goods) Act 1977",
+          "provisions": [
+            "section 2(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Seagram contracted with TTI to carry 456,000 Spanish excise tax seals (precintas) from Madrid to Paisley; TTI did not issue a CMR consignment note but sub-contracted through Spain-TIR and BCT.",
+        "Nine cartons were lost at Bradford Cargo Terminal after consolidation and sub-contracting without a single successive-carrier chain under Article 34.",
+        "Loss triggered a guarantee payment of about £420,000 to Spanish tax authorities; TTI was insolvent and the claim pursued Spain-TIR and BCT.",
+        "The judge held sub-bailees liable for carriage charges but not the guarantee payment as too remote; the Court of Appeal dismissed Seagram's appeal and allowed Spain-TIR's cross-appeal on Article 36."
+      ],
+      "procedural_posture": "Appeal and cross-appeal to the Court of Appeal against a lengthy first-instance judgment on international road carriage and bailment liability.",
+      "outcome": "Appeal dismissed and cross-appeal allowed; Spain-TIR held not liable to Seagram for the guarantee payment and, under Article 36 CMR, not sueable as an intermediate carrier in the circumstances.",
+      "ratio": "A guarantee payment to Spanish tax authorities for unaccounted precintas is too remote at common law for sub-bailees who did not know their nature and is not recoverable as other charges under Article 23.4 CMR, distinguishable from Buchanan v Babco; where the bailor impliedly authorised sub-bailment on CMR terms, intermediate carriers are bound by the whole Convention including Article 36, which bars suit against a carrier who is not the first, last, or performing carrier at the time of loss.",
+      "legal_issues": [
+        "Measure of damages for loss of tax seals with no intrinsic value",
+        "Whether guarantee payments are other charges under Article 23.4 CMR",
+        "Remoteness at common law for sub-bailees BCT and Spain-TIR",
+        "Sub-bailment on CMR terms and application of Article 36",
+        "Whether Article 28.2 permits election to limit liability"
+      ],
+      "catchwords": [
+        "CMR",
+        "international carriage by road",
+        "sub-bailment on terms",
+        "Article 23",
+        "Article 36",
+        "tax seals",
+        "remoteness",
+        "successive carrier",
+        "conversion"
+      ],
+      "index_terms": [
+        "Sandeman Coprimar",
+        "Seagram Espana",
+        "Transitos y Transportes Integrales",
+        "Bradford Cargo Terminal",
+        "precintas",
+        "Buchanan v Babco",
+        "The Pioneer Container",
+        "Morris v Martin"
+      ],
+      "linked_authorities": [
+        "Buchanan & Co v Babco Ltd",
+        "Overseas Tankship (UK) Limited v Morts Docks and Engineering Co Ltd (The Wagon Mound)",
+        "Kuwait Airways Corporation v Iraq Airways Co (Nos 4 and 5)",
+        "Morris v C W Martin & Sons Ltd",
+        "The Pioneer Container",
+        "Gilchrist Watt and Sanderson Pty Ltd v York Products Ltd",
+        "Johnson Matthey & Co Ltd v Constantine Terminals"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complex judgment but appeal outcomes and core CMR/bailment ratio are clearly stated. Source judge metadata lists multiple historical Law Lords not sitting on this 2003 appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/319.json",
+    "status": "done",
+    "notes": "Batch 21 enrichment",
+    "enrichment": {
+      "short_title": "Historical indecent assault conviction quashed after 30-year delay",
+      "area_of_law": [
+        "Criminal law",
+        "Sexual offences",
+        "Appellate practice",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Sexual Offences Act 1956",
+          "provisions": [
+            "indecent assault on female under 16"
+          ]
+        },
+        {
+          "title": "Criminal Justice and Public Order Act 1994",
+          "provisions": [
+            "section 33"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant was convicted of ten counts of indecent assault on his stepdaughter between September 1969 and September 1972, when she was aged 7 to 11, receiving a total four-year sentence.",
+        "The complainant did not report to police until August 2001, about 30 years after the alleged conduct; key witnesses including the mother were dead and records unavailable.",
+        "The trial judge refused a stay for abuse of process but gave careful delay warnings; the jury convicted on the complainant's evidence against the appellant's denial.",
+        "The Court of Appeal held that despite a fair trial process, the delay left the appellant in an impossible position to defend himself and quashed the conviction as unsafe."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Criminal Division) with leave against conviction after refusal of a pre-trial stay.",
+      "outcome": "Appeal allowed; all convictions quashed on residual unfairness grounds despite no identifiable trial misdirection.",
+      "ratio": "There is no criminal statute of limitations and a stay should be granted only in exceptional circumstances where the defendant proves on the balance of probabilities that a fair trial is impossible, taking into account judicial control of evidence and jury directions; nevertheless the Court of Appeal retains a residual discretion to quash a conviction as unsafe where very long delay, loss of witnesses and absence of corroboration put the defendant in an impossible position to test the allegation, even if the summing-up was fair and Parliament has abolished the corroboration requirement for sexual offences.",
+      "legal_issues": [
+        "Test for staying historic sexual offence prosecutions as an abuse of process",
+        "Effect of delay on ability to cross-examine and obtain documentary evidence",
+        "Whether jury directions adequately addressed delay prejudice",
+        "Impact of abolition of corroboration requirements under the 1994 Act",
+        "Residual appellate discretion to quash despite fair trial process"
+      ],
+      "catchwords": [
+        "historical sexual offences",
+        "abuse of process",
+        "delay",
+        "stay application",
+        "indecent assault",
+        "unsafe conviction",
+        "corroboration abolished",
+        "stepdaughter"
+      ],
+      "index_terms": [
+        "R v B",
+        "Merthyr Tydfil Crown Court",
+        "Attorney General's Reference No 1 of 1990",
+        "R v Dutton",
+        "R v Jenkins",
+        "indecent assault",
+        "30-year delay"
+      ],
+      "linked_authorities": [
+        "Attorney General's Reference No 1 of 1990",
+        "R v Dutton",
+        "R v Jenkins"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Appellate reasoning on stay test, residual discretion, and quashing is extensive and explicit. Anonymised reporting; case name given as R v B."
+      }
+    }
+  }
+]

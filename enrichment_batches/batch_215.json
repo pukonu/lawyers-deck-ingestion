@@ -1,0 +1,678 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/71.json",
+    "status": "done",
+    "notes": "Long interlocutory judgment on Lloyd's Names' amendment applications; Cooke J identified from full text.",
+    "enrichment": {
+      "short_title": "Lloyd's Names' permission to plead negligent misrepresentation",
+      "area_of_law": [
+        "Insurance and reinsurance",
+        "Misrepresentation and negligent misstatement",
+        "Civil procedure and amendment",
+        "Limitation of actions",
+        "Bankruptcy and insolvency"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": ["section 14A", "section 14B"]
+        },
+        {
+          "title": "Misrepresentation Act 1967",
+          "provisions": []
+        },
+        {
+          "title": "Insurance Companies Act 1982",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Various Lloyd's Names sought permission to amend claims against Lloyd's to plead negligent misstatement and statutory misrepresentation relating to pre-1982 underwriting.",
+        "Most Names had previously been refused permission to amend; a narrowed group remained who relied on post-11 October 1981 brochure representations before 23 July 1982.",
+        "Lloyd's challenged the applications partly by reference to statutory demands and bankruptcy proceedings based on Equitas premium judgments.",
+        "The court assessed whether each Name had realistic prospects and whether any counterclaim could equal or exceed the statutory demand amount.",
+        "Only seven Names (Allard, Garrow, Hardman, Ranald, Remillard, Wilkinson and Woyka) were granted permission to amend."
+      ],
+      "procedural_posture": "Further interlocutory application following an earlier April 2003 judgment on permission to amend, with contested bankruptcy/set-off arguments.",
+      "outcome": "Permission to amend granted to seven Names only; refused for all other applicants, subject to costs following the event.",
+      "ratio": "Names may pursue negligent misrepresentation claims based on post-1981 Lloyd's brochure representations only if limitation under sections 14A and 14B of the Limitation Act 1980 permits and the proposed claim has realistic prospects, including on the figures where a counterclaim is relied on to defeat a statutory demand.",
+      "legal_issues": [
+        "Whether Misrepresentation Act 1967 claims fall within section 14A Limitation Act 1980",
+        "Date of knowledge for limitation purposes in Lloyd's litigation",
+        "Whether counterclaims could exceed statutory demands based on Equitas premium judgments",
+        "Realistic prospects test for amendment in group litigation"
+      ],
+      "catchwords": [
+        "Lloyd's Names",
+        "negligent misstatement",
+        "misrepresentation",
+        "Limitation Act 1980",
+        "permission to amend",
+        "statutory demand",
+        "Equitas"
+      ],
+      "index_terms": [
+        "Society of Lloyd's",
+        "Names litigation",
+        "brochure representations",
+        "section 14A knowledge",
+        "bankruptcy set-off",
+        "1982 underwriting year"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome and seven successful Names are explicit; some limitation reasoning is case-specific and the judgment is lengthy."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/323.json",
+    "status": "done",
+    "notes": "Single-judge Court of Appeal judgment (Laws LJ); Charles J agreeing.",
+    "enrichment": {
+      "short_title": "Judicial review of IAT remittal in Turkish asylum appeal",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law and judicial review",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A Turkish Kurdish Alevi applicant claimed asylum based on persecution linked to Newroz celebrations, PKK association and coerced village guard service.",
+        "An adjudicator allowed the appeal on a reasonable-degree-of-likelihood basis, finding risk of arrest and torture on return.",
+        "The IAT allowed the Secretary of State's appeal and remitted for rehearing, citing the Home Office's absence before the adjudicator and failure to consider internal relocation.",
+        "The High Court refused permission for judicial review of the remittal.",
+        "Laws LJ held the adjudicator failed to reconcile expert evidence (McDowall) with country information (CIPU), justifying IAT interference."
+      ],
+      "procedural_posture": "Court of Appeal judicial review of refusal of permission to challenge an Immigration Appeal Tribunal remittal order.",
+      "outcome": "Application for judicial review dismissed.",
+      "ratio": "An adjudicator's asylum decision may properly be interfered with where there is a defect of reasoning, such as failing to explain a conclusion on risk of return in light of conflicting country information and expert evidence; a party who did not appear before the adjudicator cannot ordinarily obtain remittal simply to ventilate matters that could have been raised there.",
+      "legal_issues": [
+        "Whether the IAT had a proper basis to interfere with the adjudicator's determination",
+        "Effect of the Secretary of State's non-representation before the adjudicator",
+        "Internal relocation and village guard desertion in Turkish asylum cases",
+        "Standard and quality of reasoning required in asylum credibility findings"
+      ],
+      "catchwords": [
+        "asylum",
+        "judicial review",
+        "Immigration Appeal Tribunal",
+        "adjudicator",
+        "internal relocation",
+        "village guard",
+        "country information"
+      ],
+      "index_terms": [
+        "Kelangin",
+        "Turkey Kurdish Alevi",
+        "McDowall expert evidence",
+        "CIPU report",
+        "Bilal Koten",
+        "IAT remittal"
+      ],
+      "linked_authorities": [
+        "Bilal Koten [2002] UKIAT 04639"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Core reasoning and outcome are clearly stated by Laws LJ."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/23.json",
+    "status": "done",
+    "notes": "Products liability insurance appeal; Potter, Mustill and Jonathan Parker LJJ.",
+    "enrichment": {
+      "short_title": "Products liability cover for defective Eurostar glass panels",
+      "area_of_law": [
+        "Insurance law",
+        "Contract construction",
+        "Product liability"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Liability (Contribution) Act 1978",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Pilkington supplied heat-soaked toughened glass installed at the Eurostar terminal at Waterloo; a small number of panels later fractured in situ.",
+        "Eurostar incurred investigation and safety-remediation costs without removing the panels; Tarmac sought indemnity from Pilkington.",
+        "Pilkington claimed under a CGU Global Liability Policy covering physical damage to third-party property caused by supplied products.",
+        "The judge held installation of potentially defective panels did not itself constitute physical damage and that late notice breached a condition precedent.",
+        "The Court of Appeal upheld both conclusions and dismissed the appeal."
+      ],
+      "procedural_posture": "Appeal from a Commercial Court judgment on coverage and notice under a products liability policy.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Under standard products liability wording, incorporation of a product that may fail in future does not amount to physical damage to the insured's property unless harmful physical alteration has occurred; notice-of-claim provisions may operate as conditions precedent to insurer liability even without prejudice to the insurer.",
+      "legal_issues": [
+        "Whether installation of defective glass panels constituted physical damage to the terminal",
+        "Construction of Particular Clause 16 (damage to goods supplied exclusion)",
+        "Whether notice of claims provisions were conditions precedent",
+        "Application of Rodan and related English product-liability insurance authorities"
+      ],
+      "catchwords": [
+        "products liability insurance",
+        "physical damage",
+        "policy construction",
+        "notice of claim",
+        "condition precedent",
+        "defective product"
+      ],
+      "index_terms": [
+        "Pilkington",
+        "CGU Insurance",
+        "Eurostar terminal",
+        "Global Liability Policy",
+        "Particular Clause 16",
+        "Pioneer Concrete"
+      ],
+      "linked_authorities": [
+        "Rodan International Ltd v Commercial Union [1999] Lloyds Rep 495",
+        "James Budgett Sugars Ltd v Norwich Union Insurance [2003] Lloyds Rep 110",
+        "A.S. Screenprint Ltd v British Reserve Insurance Ltd [1999] Lloyds Rep IR 430",
+        "Pioneer Concrete (UK) Ltd v National Employers Mutual General Insurance Association Ltd [1985] 1 Lloyds Rep 274",
+        "Re Bradley and Essex and Suffolk Accident Indemnity Society [1912] 1 KB 415"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed judgment with clear ratio on coverage and notice; American authorities discussed but not determinative."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/259.json",
+    "status": "done",
+    "notes": "Source judges array empty; Newman J identified from full text.",
+    "enrichment": {
+      "short_title": "Section 55 asylum support and delay in claiming asylum",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law and judicial review",
+        "Social security and asylum support"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": ["section 55"]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Wembo, a Congolese national, entered the UK on 4 May 2003 and claimed asylum in Liverpool on 8 May 2003.",
+        "The Secretary of State refused asylum support because the claim was not made as soon as reasonably practicable after arrival.",
+        "The claimant relied on agent instructions and on R (Q) v SSHD on the relevance of facilitators.",
+        "The decision letter challenged the credibility of his account of entry, passport use and failure to claim at the airport.",
+        "Newman J held the decision-maker was entitled to focus on credibility and that the agent factor did not require explicit mention on these facts."
+      ],
+      "procedural_posture": "High Court judicial review of refusal of asylum support under section 55.",
+      "outcome": "Claim dismissed; claimant failed to discharge burden of showing asylum claimed at first reasonable opportunity.",
+      "ratio": "Under section 55 the burden rests on the applicant to show a claim was made as soon as reasonably practicable; while agent influence is a relevant factor under R (Q), it need not be expressly addressed where the interview and decision letter show the case turned on credibility of the claimant's own account.",
+      "legal_issues": [
+        "Burden of proof under section 55 Nationality, Immigration and Asylum Act 2002",
+        "Relevance of agent or facilitator instructions to timeliness of asylum claims",
+        "Whether failure to reference agents in the decision letter was a legal error",
+        "Credibility assessment at port of entry"
+      ],
+      "catchwords": [
+        "section 55",
+        "asylum support",
+        "as soon as reasonably practicable",
+        "judicial review",
+        "agent",
+        "credibility"
+      ],
+      "index_terms": [
+        "Wembo",
+        "NASS",
+        "R (Q) v SSHD",
+        "facilitator",
+        "port of entry",
+        "72-hour policy"
+      ],
+      "linked_authorities": [
+        "R (on the application of Q) v Secretary of State for the Home Department [2003] EWCA Civ 364",
+        "S, D and T v Secretary of State for the Home Department [2003] EWHC 1941"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Outcome and section 55 reasoning are clear; some policy context on 72-hour flexibility noted but not decisive."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/19.json",
+    "status": "needs_review",
+    "notes": "Source judges metadata includes anachronistic names; enrichment relies on judgment text (Potter, Morison and Arden LJJ).",
+    "enrichment": {
+      "short_title": "Sharia proviso in English-law Islamic finance agreements",
+      "area_of_law": [
+        "Banking and finance",
+        "Conflict of laws",
+        "Contract construction",
+        "Islamic finance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Contracts (Applicable Law) Act 1990",
+          "provisions": ["section 2(1)"]
+        },
+        {
+          "title": "Rome Convention on the Law Applicable to Contractual Obligations",
+          "provisions": ["Article 1.1", "Article 3.1", "Article 3.3"]
+        }
+      ],
+      "key_facts": [
+        "Shamil Bank of Bahrain advanced funds to Beximco group companies under Morabaha and later Ijarah-style restructuring agreements totalling about US$49.7 million.",
+        "The agreements contained a governing law clause: subject to the principles of the Glorious Sharia'a, governed by English law.",
+        "Defendants argued transactions were disguised interest-bearing loans (Riba) and void under Sharia, defeating summary judgment.",
+        "Morison J held English law alone governed and granted summary judgment; permission to appeal was limited to the governing law clause.",
+        "The Court of Appeal held the Sharia reference did not incorporate Sharia as a parallel governing law or condition precedent and dismissed the appeal."
+      ],
+      "procedural_posture": "Appeal from summary judgment on debt and guarantee claims in Islamic finance litigation.",
+      "outcome": "Appeal dismissed; principal debtors and guarantors liable under English law.",
+      "ratio": "A clause making an agreement subject to the principles of Sharia but governed by English law does not incorporate Sharia as governing law or as a freestanding enforceability condition; under the Rome Convention parties may choose only the law of a country, and general Sharia references are insufficiently certain for incorporation by reference.",
+      "legal_issues": [
+        "Construction of dual Sharia and English governing law clauses",
+        "Whether Sharia principles can be chosen as governing law under the Rome Convention",
+        "Validity of Morabaha and Ijarah structures where commercial reality alleged to be interest-bearing loans",
+        "Guarantors' common mistake and discharge arguments"
+      ],
+      "catchwords": [
+        "Islamic finance",
+        "Sharia",
+        "Morabaha",
+        "Ijarah",
+        "Riba",
+        "governing law clause",
+        "Rome Convention"
+      ],
+      "index_terms": [
+        "Shamil Bank of Bahrain",
+        "Beximco",
+        "incorporation by reference",
+        "Religious Supervisory Board",
+        "Nea Agrex v Baltic Shipping",
+        "summary judgment"
+      ],
+      "linked_authorities": [
+        "Nea Agrex SA v Baltic Shipping Co Ltd [1976] 1 QB 933",
+        "Glencore International AG v Metro Trading International Inc [2001] 1 Lloyds Law Rep 284",
+        "Al-Bassam v Al-Bassam [2002] EWHC 2281 (Ch)",
+        "Kleinwort Benson Ltd v Lincoln City Council [1999] 1 AC 153",
+        "Associated Japanese Bank (International Ltd) v Crédit du Nord SA [1989] 1 WLR 255"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Central governing law point clearly decided; expert evidence on Sharia validity was treated as requiring full trial if Sharia had governed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/15.json",
+    "status": "needs_review",
+    "notes": "Source judges metadata lists HHJ Rubin rather than Arden LJ; enrichment from judgment text.",
+    "enrichment": {
+      "short_title": "School Sites Act reverter when trust purpose changed",
+      "area_of_law": [
+        "Charity and trust law",
+        "Real property",
+        "Education law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "School Sites Act 1841",
+          "provisions": ["section 2", "section 10"]
+        },
+        {
+          "title": "Reverter of Sites Act 1987",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Land at St Philip's School, Maidstone was conveyed in 1866 on trust to educate poorer classes in the ecclesiastical district of St Philip and for no other purpose.",
+        "From the 1930s onward the school admitted many pupils outside the district and from other social classes, with no admissions restriction.",
+        "The first-instance judge found the school purpose had widened to educating all comers but held reverter had not occurred because two purposes coexisted.",
+        "The Court of Appeal held that finding was inconsistent: the original stipulated purpose had ceased long before 17 August 1975.",
+        "Automatic reverter under section 2 therefore occurred; trustees held proceeds as trustees of the 1866 deed."
+      ],
+      "procedural_posture": "Appeal from a Chancery Division declaration on whether land reverted under the School Sites Act 1841.",
+      "outcome": "Appeal allowed; reverter held to have occurred automatically and irrevocably before the Reverter of Sites Act 1987 cut-off for adverse possession.",
+      "ratio": "Under section 2 of the School Sites Act 1841, where land granted for a specified educational purpose is used for a materially different purpose—such as a general open-admission school rather than education of qualifying poor persons in the named district—the authorised purpose ceases and reverter is triggered, even if the institution continues operating as a school.",
+      "legal_issues": [
+        "Meaning of cessation of purpose under section 2 School Sites Act 1841",
+        "Whether educating non-qualifying pupils alongside qualifying pupils prevents reverter",
+        "Interaction with Reverter of Sites Act 1987 and adverse possession",
+        "Construction of 'and for no other purpose' in Victorian school trust deeds"
+      ],
+      "catchwords": [
+        "School Sites Act 1841",
+        "reverter",
+        "charitable trust",
+        "school site",
+        "purpose cessation",
+        "adverse possession"
+      ],
+      "index_terms": [
+        "St Philip's School Maidstone",
+        "Herbert Monckton",
+        "qualifying persons",
+        "Fraser v Canterbury Diocesan Board of Finance (No.1)",
+        "Re Bathurst",
+        "Attorney-General v Shadwell"
+      ],
+      "linked_authorities": [
+        "Fraser v Canterbury Diocesan Board of Finance (No.1) [2001] Ch 669",
+        "Attorney-General v Shadwell [1910] 1 Ch 92",
+        "Habermehl v Attorney-General [1996] EGCS 148",
+        "Re Ingleton Charity [1956] Ch 585"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Arden LJ's reasoning is explicit; some statutory construction points left open at paragraph 27."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/93.json",
+    "status": "done",
+    "notes": "Complex ECHR and HRA analysis; Silber J identified from full text despite crowded judges metadata.",
+    "enrichment": {
+      "short_title": "Article 5(5) compensation after unlawful continued detention",
+      "area_of_law": [
+        "Human rights",
+        "Public law and judicial review",
+        "Sentencing and parole",
+        "Damages"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["section 6", "section 8", "section 11"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 5(1)", "Article 5(4)", "Article 5(5)"]
+        },
+        {
+          "title": "Crime (Sentences) Act 1997",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Richards, a mandatory life prisoner, was not released until 12 August 2002 although his tariff expired on 19 September 2001 and the Parole Board recommended release on 16 November 2001.",
+        "He sought compensation for detention from November 2001 under Article 5(5) ECHR after the Secretary of State refused his claim.",
+        "Silber J held Article 5(5) can give a domestic right to compensation even where section 6 HRA does not, and that Stafford v UK could have retrospective effect.",
+        "Despite succeeding on those legal issues, the claim failed because the claimant could not establish loss: he would likely have remained detained in any event due to disability, behaviour and accommodation difficulties.",
+        "Judicial review of the refusal decision was dismissed with costs."
+      ],
+      "procedural_posture": "High Court judicial review and damages claim following refusal of compensation for post-tariff detention.",
+      "outcome": "Claim dismissed; no compensation awarded despite favourable rulings on Article 5(5) and Stafford retrospectivity.",
+      "ratio": "Article 5(5) ECHR may provide a freestanding domestic right to compensation for unlawful detention not limited by section 6 HRA, and Strasbourg jurisprudence such as Stafford may apply retrospectively; however a claimant must still prove causation of loss and the court retains discretion to refuse compensation where detention would have continued in any event.",
+      "legal_issues": [
+        "Retrospective effect of European Court of Human Rights decisions",
+        "Whether Article 5(5) creates an enforceable domestic compensation right",
+        "Relationship between Article 5(5) and sections 6 and 8 Human Rights Act 1998",
+        "Causation and discretion where Parole Board recommended release but prisoner remained detained"
+      ],
+      "catchwords": [
+        "Article 5",
+        "Article 5(5)",
+        "wrongful detention",
+        "mandatory life sentence",
+        "Parole Board",
+        "Stafford",
+        "Human Rights Act 1998"
+      ],
+      "index_terms": [
+        "Colin Richards",
+        "tariff expiry",
+        "retrospective effect",
+        "section 6 HRA",
+        "compensation for detention",
+        "judicial review"
+      ],
+      "linked_authorities": [
+        "Stafford v United Kingdom (2002) 35 EHRR 1121",
+        "R v Secretary of State for the Home Department ex p Anderson [2002] EWCA Civ 1855"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Legal holdings and ultimate dismissal are clear; causation analysis is fact-heavy."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/83.json",
+    "status": "needs_review",
+    "notes": "Source judges metadata includes anachronistic names; Nelson J identified from full text.",
+    "enrichment": {
+      "short_title": "Drink-driving blood sample continuity and late analyst evidence",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal procedure",
+        "Evidence",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": ["section 5(1)"]
+        },
+        {
+          "title": "Road Traffic Offenders Act 1988",
+          "provisions": ["Schedule 2"]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["section 24", "section 26"]
+        },
+        {
+          "title": "Criminal Justice Act 1967",
+          "provisions": ["section 9"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Mrs Khatibi was convicted by City of London magistrates of driving with excess alcohol after a blood sample showed 84 mg per 100 ml.",
+        "Defence challenged continuity of the blood sample, admissibility of the forensic analyst's evidence, and a five-month adjournment to call his assistant Debbie Kirkham.",
+        "Magistrates first retired on the continuity point only, then adjourned part-heard to hear Kirkham's evidence after R v Tate was cited.",
+        "Nelson J held the retirement was on a discrete issue, not a final verdict, so further prosecution evidence could be admitted.",
+        "The court upheld the conviction, finding sufficient inferential evidence linking the analysed sample to the defendant."
+      ],
+      "procedural_posture": "Case stated appeal to the Divisional Court from magistrates' drink-driving conviction.",
+      "outcome": "Appeal dismissed on all three stated questions.",
+      "ratio": "Magistrates may exercise discretion to reopen and adjourn before retiring on the whole case to call further straightforward forensic evidence; where label details align with police and medical evidence, continuity of a blood sample may be established by reasonable inference, including via sections 24 and 26 Criminal Justice Act 1988 if admissibility had been raised.",
+      "legal_issues": [
+        "Whether magistrates could adjourn after partial retirement to call an assistant analyst",
+        "Fair trial and Article 6 implications of a five-month adjournment",
+        "Continuity and labelling of blood specimens in drink-driving prosecutions",
+        "Admissibility of hearsay on specimen labels under Criminal Justice Act 1988"
+      ],
+      "catchwords": [
+        "excess alcohol",
+        "blood sample",
+        "continuity",
+        "case stated",
+        "adjournment",
+        "forensic analyst",
+        "magistrates"
+      ],
+      "index_terms": [
+        "Khatibi",
+        "Paterson v DPP",
+        "R v Tate",
+        "R v Jackson",
+        "Webb v Leadbetter",
+        "Debbie Kirkham"
+      ],
+      "linked_authorities": [
+        "Paterson v DPP [1990] RTR 329",
+        "R v Tate [1997] RTR 17",
+        "R v Jackson [1996] 2 Cr App Rep 175",
+        "Webb v Leadbetter [1996] 1 WLR 245",
+        "Patel v Comptroller of Customs & Excise [1966] AC 356"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Three case-stated questions answered explicitly; sections 24/26 analysis is contingent on objections not taken below."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/83.json",
+    "status": "needs_review",
+    "notes": "Source judges metadata includes deceased Law Lords; Thomas LJ identified from full text.",
+    "enrichment": {
+      "short_title": "Kidnapping convictions quashed over co-accused lie and identification",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Sentencing",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice and Public Order Act 1994",
+          "provisions": ["section 34", "section 35", "section 37"]
+        }
+      ],
+      "key_facts": [
+        "Collins and Keep were convicted of kidnapping Hutchinson and firearms offences linked to recovering stolen cannabis.",
+        "Hutchinson escaped to Dartford police station after being beaten and forced into car boots at gunpoint.",
+        "Collins appealed against admission of £10,300 cash found in the Audi and against use of a lie told by co-accused Burt to police.",
+        "The court quashed Collins' convictions because mere silence when Burt lied was insufficient and the Lucas direction was inadequate.",
+        "Keep's convictions were quashed because PC Parlour's 'looked like Keep' evidence required a Turnbull direction when used as supporting identification."
+      ],
+      "procedural_posture": "Crown Court appeal against conviction with leave of the single judge.",
+      "outcome": "Collins convictions on counts 1 and 2 quashed; Keep convictions on counts 1 and 2 quashed; other grounds dismissed.",
+      "ratio": "A defendant's silence when a companion answers a police question with a lie cannot, without more, amount to adopting that lie as his own, particularly where parties are not on equal terms; where ostensibly non-identification evidence that someone looked like the accused is relied on to place him at the scene, a Turnbull warning is required.",
+      "legal_issues": [
+        "Admissibility and use of cash evidence as corroboration in kidnapping prosecution",
+        "Whether silence can adopt a co-accused's lie to police (Christie, Hall, Chandler principles)",
+        "Adequacy of Lucas directions",
+        "Turnbull directions where witness says accused 'looked like' a known person"
+      ],
+      "catchwords": [
+        "kidnapping",
+        "firearms",
+        "co-accused lie",
+        "right to silence",
+        "Lucas direction",
+        "Turnbull direction",
+        "identification evidence"
+      ],
+      "index_terms": [
+        "Collins",
+        "Keep",
+        "Hutchinson",
+        "cannabis theft",
+        "Dartford police station",
+        "PC Parlour"
+      ],
+      "linked_authorities": [
+        "R v Christie [1914] AC 545",
+        "Hall v R (1970) 55 Cr App 108",
+        "Chandler (1975) 63 Cr App R 1",
+        "R v Gayle [1999] 2 Cr App Rep 131",
+        "R v Doldur [2000] Crim LR 178"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Quashed convictions and reasoning are explicit; cash-evidence ground failed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/108.json",
+    "status": "needs_review",
+    "notes": "Source judges metadata lists Hobhouse and Woolf rather than Kennedy, Clarke and Jacob LJJ; enrichment from full text.",
+    "enrichment": {
+      "short_title": "Homelessness vulnerability test after Pereira",
+      "area_of_law": [
+        "Housing law",
+        "Public law",
+        "Social welfare"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1996",
+          "provisions": ["section 189(1)(c)", "section 182(1)", "section 182(2)", "section 202", "section 204"]
+        },
+        {
+          "title": "Housing Act 1985",
+          "provisions": ["section 59(1)(c)"]
+        }
+      ],
+      "key_facts": [
+        "Mr Griffin, aged 33, applied to Westminster as homeless with reactive depression and alcohol problems after leaving his mother's home.",
+        "The housing review officer applied the Pereira vulnerability test and decided he was not in priority need.",
+        "The county court judge held the officer applied too high a threshold by omitting a 'likely to suffer injury' formulation from the Code of Guidance.",
+        "Kennedy LJ held the review officer correctly applied Pereira and that introducing 'likely' from the code would wrongly dilute the statutory test.",
+        "The Secretary of State's appeal was allowed and the review decision restored."
+      ],
+      "procedural_posture": "Appeal to Court of Appeal from a county court appeal under section 204 Housing Act 1996 on a point of law.",
+      "outcome": "Appeal allowed; review officer's decision that applicant lacked priority need restored.",
+      "ratio": "The vulnerability test under section 189(1)(c) Housing Act 1996 is whether, when homeless, the applicant would be less able to fend for himself than an ordinary homeless person so that injury or detriment will result; the Pereira formulation governs and the Code of Guidance's addition of 'likely to' does not alter the statutory test.",
+      "legal_issues": [
+        "Correct legal test for vulnerability under section 189(1)(c)",
+        "Status of Homelessness Code of Guidance paragraph 8.13 versus Pereira",
+        "Whether housing authorities must assess degree of risk using a 'likely' standard",
+        "Appellate restraint in reviewing vulnerability assessments"
+      ],
+      "catchwords": [
+        "homelessness",
+        "priority need",
+        "vulnerability",
+        "Pereira test",
+        "Housing Act 1996",
+        "code of guidance"
+      ],
+      "index_terms": [
+        "Griffin",
+        "City of Westminster",
+        "reactive depression",
+        "section 204 appeal",
+        "R v Camden ex p Pereira",
+        "fend for himself"
+      ],
+      "linked_authorities": [
+        "R v Camden London Borough Council ex p Pereira (1998) 31 HLR 317",
+        "R v Waveney District Council ex p Bowers (1983) 1 QB 238",
+        "R v Secretary of State for the Environment ex p Tower Hamlets (1993) QB 632",
+        "Puhlhofer v Hillingdon London Borough Council (1986) AC 484"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Point of law clearly decided; underlying factual vulnerability assessment not reopened."
+      }
+    }
+  }
+]

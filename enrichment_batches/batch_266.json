@@ -1,0 +1,704 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/780.json",
+    "status": "needs_review",
+    "notes": "Full clinical negligence trial judgment with clear outcome, but judges metadata lists Lord Browne-Wilkinson alongside Gross J (likely ingestion artefact).",
+    "enrichment": {
+      "short_title": "Medical negligence claim after fatal cardiac arrest",
+      "area_of_law": [
+        "Clinical negligence",
+        "Tort law",
+        "Medical law",
+        "Personal injury"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Susan Mellor died aged 43 on 1 January 1998 from cardiac arrest en route to hospital after a history of hypertension and ischaemic heart disease.",
+        "Her widower claimed GPs failed to diagnose ischaemic heart disease in time and that cardiologist Dr West negligently discharged her on 13 January 1997.",
+        "Post mortem showed pulmonary oedema secondary to hypertensive and ischaemic heart disease with significant coronary artery disease.",
+        "The trial examined multiple consultations from 1992 to 1997 and expert cardiology evidence on diagnosis, referral and treatment pathways."
+      ],
+      "procedural_posture": "Clinical negligence trial in the Queen's Bench Division against GPs and Sheffield Teaching Hospitals NHS Trust.",
+      "outcome": "Claim dismissed against all defendants; no breach or causation proved against Dr Groves or Dr Richards; Dr West found negligent in discharging Mrs Mellor but causation not established against the NHS trust.",
+      "ratio": "Even where a cardiologist breached duty by discharging a patient prematurely, the claimant must still prove on the balance of probabilities that timely diagnosis and treatment within the routine NHS timetable would have prevented death; here Mrs Mellor's underlying cardiac disease meant no defendant could have avoided the tragedy by due diligence.",
+      "legal_issues": [
+        "Whether GPs breached duty in failing to diagnose ischaemic heart disease and refer to cardiology",
+        "Whether Dr West negligently discharged Mrs Mellor in January 1997",
+        "Whether any breach caused Mrs Mellor's death",
+        "Assessment of nervous shock and bereavement damages had liability been established"
+      ],
+      "catchwords": [
+        "clinical negligence",
+        "ischaemic heart disease",
+        "causation",
+        "cardiology discharge",
+        "GP referral",
+        "fatal cardiac arrest"
+      ],
+      "index_terms": [
+        "Sheffield Teaching Hospitals NHS Trust",
+        "Royal Hallamshire Hospital",
+        "Rotherham District General Hospital",
+        "left ventricular hypertrophy",
+        "thallium scan",
+        "angioplasty waiting list",
+        "nervous shock"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Final liability and causation conclusions are explicit. Very long judgment; judges metadata appears corrupted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/803.json",
+    "status": "needs_review",
+    "notes": "Substantive reinsurance construction judgment is complete, but judges metadata incorrectly includes Lord Hoffmann.",
+    "enrichment": {
+      "short_title": "Coca-Cola D&O reinsurance claims control clause",
+      "area_of_law": [
+        "Insurance law",
+        "Reinsurance",
+        "Commercial contract",
+        "Construction of contracts"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "RSA reinsured its 21.5% participation in Coca-Cola's directors and officers liability cover under Lloyd's slip policies incorporating a standard Claims Control Clause.",
+        "Two US securities class actions were notified to RSA on 30 December 2000 but RSA did not advise reinsurers until 19 January 2001, outside the 72-hour cable notice period.",
+        "Reinsurers argued 'loss' in the CCC meant actual losses of third-party claimants against Coca-Cola, triggering the notice obligation when RSA received the complaints.",
+        "RSA argued 'loss' meant loss to Coca-Cola and its D&Os, and that complaints alleging inflated share prices did not give knowledge of actual loss."
+      ],
+      "procedural_posture": "One-day Commercial Court trial for declarations on reinsurers' indemnity obligations under D&O reinsurance contracts.",
+      "outcome": "RSA entitled to reinsurance indemnity; 'loss or losses' in the CCC refers to actual losses of third-party claimants, but RSA did not have actual knowledge of such losses before 19 January 2001 and was not in breach of the notice condition.",
+      "ratio": "In a liability reinsurance with a Claims Control Clause, 'loss or losses which may give rise to a claim under this policy' refers to actual (not alleged) financial losses of third-party claimants against the original insured; however, where loss depends on disputed underlying facts—such as whether share prices were artificially inflated—receipt of pleadings alone does not give the reinsured actual knowledge of actual loss.",
+      "legal_issues": [
+        "Whose 'loss or losses' triggers the 72-hour notice obligation in the Claims Control Clause",
+        "What constitutes actual knowledge of loss as opposed to alleged loss",
+        "Whether the contra proferentem rule applies to standard CCC wording",
+        "Interaction of Full Reinsurance Clause and Daugava/Gan limitation principles"
+      ],
+      "catchwords": [
+        "reinsurance",
+        "claims control clause",
+        "directors and officers liability",
+        "notice condition precedent",
+        "securities class action",
+        "contract construction"
+      ],
+      "index_terms": [
+        "Royal & Sun Alliance",
+        "Coca Cola Company",
+        "Lloyd's syndicates",
+        "Master Subscription Policy",
+        "securities fraud class action",
+        "ICS v West Bromwich",
+        "Versicherungs und Transport AG Daugava v Henderson"
+      ],
+      "linked_authorities": [
+        "Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896",
+        "Post Office v Norwich Union Fire Insurance Society Ltd",
+        "Gan Insurance Company Ltd v Tai Ping Insurance Company Ltd (Nos 2 and 3)",
+        "George Hunt Cranes Ltd v Scottish Boiler and General Insurance Co Ltd"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Both construction issues and overall outcome are clearly reasoned. Judges metadata unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1025.json",
+    "status": "needs_review",
+    "notes": "Substantive judicial review on recall detention is clear, but judges array is empty in source metadata.",
+    "enrichment": {
+      "short_title": "Restricted patient recall and mental disorder classification",
+      "area_of_law": [
+        "Mental health law",
+        "Administrative law",
+        "Human rights",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 2",
+            "section 37",
+            "section 41",
+            "section 42",
+            "section 63",
+            "section 72",
+            "section 73",
+            "section 75"
+          ]
+        },
+        {
+          "title": "Criminal Procedure (Insanity) Act 1964",
+          "provisions": [
+            "section 5(1)(a)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 5(1)",
+            "Article 5(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant killed his girlfriend in 1991, was found not guilty by reason of insanity, and was later conditionally discharged from Ashworth Hospital in March 2001.",
+        "He was recalled in February 2004 after concerns about drug abuse, a concealed relationship with a vulnerable 17-year-old, and behaviour mirroring pre-offence patterns.",
+        "Psychiatrist Dr Croy reported he no longer had mental illness but did have psychopathic disorder warranting inpatient treatment.",
+        "The claimant argued continued detention was unlawful because recall and prior tribunal classification had been on the basis of mental illness, not psychopathic disorder."
+      ],
+      "procedural_posture": "Judicial review and habeas corpus application heard substantively by Collins J after permission granted at an interim listing.",
+      "outcome": "Claim dismissed; continued detention after Dr Croy's report was lawful pending Mental Health Review Tribunal reclassification; stay on tribunal hearing lifted.",
+      "ratio": "R(B) v Ashworth on section 63 classification does not require automatic discharge when a recalled restricted patient is found to suffer a different form of mental disorder; where an emergency recall is followed by a proper psychiatric report and speedy tribunal referral, continued detention pending reclassification under section 72(5) is lawful.",
+      "legal_issues": [
+        "Whether continued detention after recall is lawful when RMO diagnoses a different mental disorder from that previously classified",
+        "Application of R(B) v Ashworth Hospital Authority to detention as well as compulsory treatment",
+        "Winterwerp/Kay v United Kingdom minimum conditions for lawful recall",
+        "Whether reclassification under section 72(5) must precede any continued detention"
+      ],
+      "catchwords": [
+        "restricted patient",
+        "conditional discharge",
+        "recall to hospital",
+        "psychopathic disorder",
+        "mental illness classification",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Ashworth Hospital",
+        "Mental Health Review Tribunal",
+        "section 42(3) recall",
+        "section 72(5) reclassification",
+        "R(B) v Ashworth Hospital Authority",
+        "Kay v United Kingdom"
+      ],
+      "linked_authorities": [
+        "R(B) v Ashworth Hospital Authority [2003] EWCA Civ 547",
+        "Kay v United Kingdom (2000) 40 BMLR 20",
+        "Winterwerp v The Netherlands",
+        "R v Anglia and Oxfordshire Mental Health Review Tribunal ex p Hagan [2001] LLR Med 119"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome and mental health classification reasoning are clear. Empty judges metadata and anonymised claimant limit metadata confidence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/983.json",
+    "status": "needs_review",
+    "notes": "Appeal judgment on striking out is complete, but judges metadata lists numerous historical Law Lords and is clearly corrupted.",
+    "enrichment": {
+      "short_title": "Illegality defence to wrongful dismissal claim after tribunal finding",
+      "area_of_law": [
+        "Employment law",
+        "Contract law",
+        "Illegality",
+        "Human rights",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6",
+            "Article 14",
+            "Protocol 1 Article 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Soteriou worked for Ultrachem from 1987 to 2000, maintaining he was self-employed while later claiming employee status for unfair dismissal.",
+        "An Employment Tribunal found his contract unenforceable due to illegality after he had represented to the Inland Revenue that he was self-employed.",
+        "He brought High Court claims for wrongful dismissal and sought to amend to add tortious conspiracy and interference claims.",
+        "Master Leslie struck out the claim and refused amendment; the claimant appealed on res judicata, illegality, and ECHR grounds."
+      ],
+      "procedural_posture": "Appeal from Master Leslie's striking-out order and refusal of permission to amend particulars of claim.",
+      "outcome": "Appeal dismissed; High Court bound by tribunal illegality finding; no arguable ECHR breach; no permission to appeal refusal to amend tort claims.",
+      "ratio": "Where an Employment Tribunal has finally determined that an employment contract is unenforceable for illegality, that finding operates as an issue estoppel in subsequent High Court proceedings for wrongful dismissal; Article 6 and Protocol 1 rights are not engaged so as to override the illegality doctrine on these facts.",
+      "legal_issues": [
+        "Issue estoppel and res judicata effect of Employment Tribunal illegality finding",
+        "Whether illegality doctrine violates Article 6, Article 14 or Protocol 1 Article 1 ECHR",
+        "Whether tortious conspiracy and interference claims were arguable if contract claim failed",
+        "Application of Hall v Woolston illegality principles"
+      ],
+      "catchwords": [
+        "illegality",
+        "wrongful dismissal",
+        "issue estoppel",
+        "striking out",
+        "self-employment",
+        "European Convention on Human Rights"
+      ],
+      "index_terms": [
+        "Ultrachem Ltd",
+        "Employment Tribunal",
+        "Inland Revenue",
+        "unfair dismissal",
+        "tortious conspiracy",
+        "Hall v Woolston",
+        "Osman v United Kingdom"
+      ],
+      "linked_authorities": [
+        "Hall v Woolston Hall Leisure Ltd",
+        "Osman v United Kingdom"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Core striking-out and ECHR conclusions are explicit. Corrupted judges metadata and very long judgment warrant review."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/469.json",
+    "status": "needs_review",
+    "notes": "Working Time Regulations worker-status appeal is fully reasoned, but judges metadata duplicates Lord Hoffmann and lists a High Court judge among Court of Appeal members.",
+    "enrichment": {
+      "short_title": "Housebuilding bricklayers as Working Time Regulations workers",
+      "area_of_law": [
+        "Employment law",
+        "Working time",
+        "Contract law",
+        "Construction industry"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Working Time Regulations 1998",
+          "provisions": [
+            "Regulation 2(1)",
+            "Regulation 14"
+          ]
+        },
+        {
+          "title": "Council Directive 93/104/EC",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Redrow engaged bricklayers Wright and Roberts under standard 'Official Order' subcontract terms for residential housebuilding sites.",
+        "The tribunals found they were 'workers' under Regulation 2(1)(b) entitled to paid holiday under Regulation 14.",
+        "Redrow argued Condition 6 of its standard terms contemplated delegated labour and negated any personal obligation to perform work.",
+        "In practice each bricklayer performed work personally and was paid individually rather than through a gang leader."
+      ],
+      "procedural_posture": "Court of Appeal appeal from Employment Appeal Tribunal dismissals of Redrow's appeals against two Employment Tribunal decisions.",
+      "outcome": "Appeals dismissed; bricklayers were workers because, on the facts, Condition 6 did not apply and the parties intended a personal obligation to perform bricklaying work.",
+      "ratio": "Under Regulation 2(1)(b), whether an individual is a 'worker' depends on contractual obligation to perform work personally; where standard terms are a 'menu' governed by an 'insofar as applicable' clause, tribunals may exclude inapplicable conditions by reference to the factual matrix, and payment to individual bricklayers strongly indicates personal service obligations.",
+      "legal_issues": [
+        "Meaning of 'worker' and personal performance requirement in Regulation 2(1)(b)",
+        "Whether Condition 6 of Redrow's standard subcontract terms applied to individual bricklayers",
+        "Admissibility of subsequent performance in construing contractual intention",
+        "Application of Byrne Brothers guidance on limb (b) workers"
+      ],
+      "catchwords": [
+        "working time",
+        "worker status",
+        "personal service",
+        "construction subcontract",
+        "bricklayer",
+        "Regulation 2(1)(b)"
+      ],
+      "index_terms": [
+        "Redrow Homes",
+        "Official Order",
+        "Condition 6 labour clause",
+        "CIS4 certificate",
+        "Byrne Brothers v Baird",
+        "Carmichael v National Power"
+      ],
+      "linked_authorities": [
+        "Byrne Brothers (Formwork) Ltd v Baird [2002] IRLR 96",
+        "Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896",
+        "Carmichael v National Power [2000] IRLR 43"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Outcome and contractual analysis are clear across two conjoined appeals. Judges metadata corrupted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/862.json",
+    "status": "needs_review",
+    "notes": "Public interest winding-up appeal fully decided, but judges metadata lists Victorian-era and retired judges not sitting in 2004.",
+    "enrichment": {
+      "short_title": "Contributory locus to oppose public interest winding-up petitions",
+      "area_of_law": [
+        "Company law",
+        "Insolvency law",
+        "Public interest winding up"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 124A",
+            "section 195(1)(a)"
+          ]
+        },
+        {
+          "title": "Insolvency Rules 1986",
+          "provisions": [
+            "Rule 4.13",
+            "Rule 4.16",
+            "Rule 4.17",
+            "Rule 4.18"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Secretary of State petitioned to wind up Rodencroft Ltd, W G Birch Developments Ltd and H-M Birch Ltd on public interest grounds alleging asset-stripping fraud by disqualified director Simon Allso.",
+        "Mrs Registrar Derrett made winding-up orders without hearing Allso's evidence, holding he lacked locus standi to oppose.",
+        "Allso controlled Rodencroft but was not a shareholder of the other two companies, whose shares were held by his associates or nominees.",
+        "The petitions alleged use of companies to acquire distressed targets, extract management fees, and leave creditors unpaid."
+      ],
+      "procedural_posture": "Appeal from registrar's ex parte public interest winding-up orders under section 124A Insolvency Act 1986.",
+      "outcome": "Appeals dismissed for Birch Developments and H-M Birch; appeal allowed for Rodencroft with petition remitted for full hearing on merits; Allso must demonstrate solvency to oppose as contributory.",
+      "ratio": "A contributory may appear and oppose a Secretary of State section 124A petition even where the company itself does not oppose, but only if he demonstrates the company is solvent or that a contingent surplus would be available; a shareholder of a parent company has no standing to oppose petitions against subsidiaries in which he holds no shares.",
+      "legal_issues": [
+        "Whether a contributory may oppose a section 124A petition without company opposition",
+        "Whether a shareholder must prove solvency or surplus to resist winding up",
+        "Locus standi of a controlling shareholder of a parent but not of subsidiary companies",
+        "Court's balancing exercise on public interest petitions per Re Walter L Jacob"
+      ],
+      "catchwords": [
+        "public interest winding up",
+        "section 124A",
+        "contributory",
+        "locus standi",
+        "phoenix company",
+        "director disqualification"
+      ],
+      "index_terms": [
+        "Rodencroft Ltd",
+        "Simon Allso",
+        "Secretary of State for Trade and Industry",
+        "Re Camburn Petroleum Products Ltd",
+        "Re Walter L Jacob Ltd",
+        "Re Rica Gold Washing Co"
+      ],
+      "linked_authorities": [
+        "Re Camburn Petroleum Products Ltd [1979] 3 All ER 297",
+        "Re Walter L Jacob Ltd [1989] BCLC 345",
+        "Re Rica Gold Washing Co (1879) 11 Ch D 36",
+        "Re Xyllyx PLC (No 1) [1992] BCLC 376"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Locus standi analysis and differentiated outcomes for three companies are explicit. Judges metadata corrupted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/565.json",
+    "status": "done",
+    "notes": "Race Relations Act victimisation remedies appeal; causation analysis and outcome are clear.",
+    "enrichment": {
+      "short_title": "Victimisation compensation where fair dismissal dominated",
+      "area_of_law": [
+        "Employment law",
+        "Discrimination law",
+        "Race relations",
+        "Remedies"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Race Relations Act 1976",
+          "provisions": [
+            "section 2(1)",
+            "section 2(2)",
+            "section 57"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Birmingham City Council dismissed Mr Lisk-Carew for gross misconduct after repeated failure to comply with management directions and sickness management policy.",
+        "An Employment Tribunal found victimisation under section 2 because protected race discrimination allegations had a significant influence on dismissal, but also found the dismissal fair.",
+        "At the remedies hearing the tribunal awarded £5,000 for injury to feelings but no loss of earnings, holding employment loss was caused by the fair dismissal not the victimisation.",
+        "Permission to appeal was limited to the tension between victimisation and fair dismissal findings."
+      ],
+      "procedural_posture": "Court of Appeal appeal from Employment Appeal Tribunal dismissal of remedies appeal following earlier merits finding of victimisation.",
+      "outcome": "Appeal dismissed; £5,000 injury to feelings award upheld; no compensation for loss of employment because fair dismissal was the effective and dominant cause.",
+      "ratio": "Where a tribunal finds both victimisation and a fair dismissal for separate misconduct, compensation under section 57 Race Relations Act 1976 requires causation of the loss claimed; if the claimant would have been fairly dismissed absent the protected acts, loss of employment is not attributable to victimisation.",
+      "legal_issues": [
+        "Causation of financial loss where victimisation and fair dismissal coexist",
+        "Reconciling 'significant influence' on dismissal with principal reason of misconduct",
+        "Scope of just and equitable compensation under section 57",
+        "Whether loss of earnings should be awarded when victimisation is established"
+      ],
+      "catchwords": [
+        "victimisation",
+        "race discrimination",
+        "fair dismissal",
+        "compensation",
+        "causation",
+        "injury to feelings"
+      ],
+      "index_terms": [
+        "Birmingham City Council",
+        "protected acts",
+        "sickness management policy",
+        "section 2 Race Relations Act 1976",
+        "Employment Tribunal remedies"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Limited permission appeal with clear causation reasoning. Merits finding not under appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1243.json",
+    "status": "needs_review",
+    "notes": "Pre-trial RIPA admissibility ruling is substantively complete, but judges metadata lists deceased Law Lords rather than Hughes J who delivered the judgment.",
+    "enrichment": {
+      "short_title": "Car surveillance recordings and RIPA interception definition",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Surveillance law",
+        "Drugs offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Regulation of Investigatory Powers Act 2000",
+          "provisions": [
+            "section 1(1)",
+            "section 2",
+            "section 17",
+            "section 48"
+          ]
+        },
+        {
+          "title": "Police Act 1997",
+          "provisions": [
+            "section 91(5)",
+            "section 92",
+            "section 97(1)"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78"
+          ]
+        },
+        {
+          "title": "Criminal Procedure and Investigations Act 1996",
+          "provisions": [
+            "section 29",
+            "section 35"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Police placed an authorised listening device in the accused's car during a drugs conspiracy investigation, recording conversations over several weeks.",
+        "Recordings included speech between occupants and the accused's side of mobile telephone calls while in the car.",
+        "The accused argued mobile call recordings were unlawful interceptions under RIPA section 1, rendering all device evidence inadmissible under section 17.",
+        "The trial judge had ruled the evidence admissible at a section 29 preparatory hearing."
+      ],
+      "procedural_posture": "Interlocutory appeal under section 35 CPIA 1996 before trial on admissibility of surveillance recordings.",
+      "outcome": "Appeal dismissed; recording the accused's spoken words into a mobile telephone from sound waves in the car is not 'interception' under RIPA; section 78 exclusion refused.",
+      "ratio": "Under RIPA section 2, interception requires making the contents of a communication available during transmission through a telecommunications system; a device that records the speaker's voice in the car captures sound waves independently of the system and is not interception even when words are simultaneously transmitted by mobile phone.",
+      "legal_issues": [
+        "Whether one-sided mobile telephone speech recorded in a car constitutes interception under RIPA",
+        "Application of section 17 RIPA exclusion to surveillance device evidence",
+        "Relevance of EU Telecommunications Data Protection Directive 97/66",
+        "Whether police failure to flag telephone recording possibility invalidated authorisation"
+      ],
+      "catchwords": [
+        "RIPA",
+        "interception",
+        "surveillance device",
+        "mobile telephone",
+        "admissibility",
+        "drugs conspiracy"
+      ],
+      "index_terms": [
+        "intrusive surveillance",
+        "Police Act 1997 authorisation",
+        "section 17 exclusion",
+        "R v Effik",
+        "R v Smart & Beard",
+        "participant monitoring"
+      ],
+      "linked_authorities": [
+        "R v Effik [1995] 1 AC 309",
+        "R v Smart & Beard [2002] EWCA Crim 772",
+        "DPP v Morgans [2000] 2 Cr App R 113",
+        "R v Ahmed (29 March 1994, unreported)",
+        "Attorney-General's Reference No 5 of 2002 [2004] 1 Cr App R(S) 11"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "RIPA construction and section 78 analysis are detailed and conclusive. Pre-trial interlocutory status and corrupted judges metadata noted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/880.json",
+    "status": "needs_review",
+    "notes": "Long GMC judicial review with detailed obiter on medical confidentiality, but judges metadata is corrupted and the published text ends with schedules rather than a formal dispositive order paragraph.",
+    "enrichment": {
+      "short_title": "GMC challenge over paediatrician child protection conduct",
+      "area_of_law": [
+        "Medical law",
+        "Professional discipline",
+        "Administrative law",
+        "Children law",
+        "Confidentiality"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 31",
+            "section 38",
+            "section 47"
+          ]
+        },
+        {
+          "title": "Medical Act 1983",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Dr Cheetham, a consultant paediatrician, gave a second opinion on Miss A, a seriously ill child with ME, but parents later withdrew consent to his involvement.",
+        "The GMC Professional Conduct Committee found Dr Cheetham not guilty of serious professional misconduct for continuing to raise concerns about her treatment and management.",
+        "Miss A's parents, who had effectively prosecuted through the GMC, sought judicial review arguing the PCC erred in law on confidentiality and parental consent.",
+        "Competing medical views existed between Dr Cheetham and Dr Speight over whether Miss A should be gradually reintroduced to activity."
+      ],
+      "procedural_posture": "Judicial review of GMC Professional Conduct Committee decision acquitting Dr Cheetham of serious professional misconduct.",
+      "outcome": "Application effectively fails; no quashing order sought at hearing; declaration refused; PCC did not err in law and breach-of-confidence arguments were not before the committee.",
+      "ratio": "Judicial review of a GMC misconduct acquittal cannot succeed on breach-of-confidence grounds that were not put to the Professional Conduct Committee; where a paediatrician reasonably suspects significant harm to a child, proportionate steps to raise concerns with other professionals and authorities may be justified in the overall public interest despite parental objections.",
+      "legal_issues": [
+        "Whether the PCC erred in law in acquitting Dr Cheetham",
+        "Whether breach of medical confidence arguments were before the PCC",
+        "Doctors' duties when parents refuse further involvement but welfare concerns persist",
+        "Appropriate test under Children Act section 47 for disclosure to protect children"
+      ],
+      "catchwords": [
+        "GMC",
+        "serious professional misconduct",
+        "medical confidentiality",
+        "child protection",
+        "ME/CFS",
+        "judicial review"
+      ],
+      "index_terms": [
+        "General Medical Council",
+        "Professional Conduct Committee",
+        "Dr Cheetham",
+        "Children Act 1989",
+        "section 47 investigation",
+        "Cleveland child abuse inquiry"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.82,
+        "level": "medium",
+        "notes": "Substantive reasoning on PCC jurisdiction and public interest is extensive, but dispositive order wording may be truncated and judges metadata is unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/924.json",
+    "status": "needs_review",
+    "notes": "Scheme of arrangement class-composition ruling is complete at convening stage, but judges metadata incorrectly lists Lord Millett and Lord Hoffmann.",
+    "enrichment": {
+      "short_title": "Telewest bondholder scheme class composition and FX rate",
+      "area_of_law": [
+        "Company law",
+        "Insolvency and restructuring",
+        "Schemes of arrangement",
+        "Financial services"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 425(1)",
+            "section 428(5)"
+          ]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 247(2)"
+          ]
+        },
+        {
+          "title": "Insolvency Rules 1986",
+          "provisions": [
+            "Rule 4.91"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Telewest Communications PLC and subsidiary Telewest Finance (Jersey) Ltd sought creditor schemes to restructure about $4.5 billion of defaulted bond debt through a debt-for-equity swap into Telewest Global Inc.",
+        "Sterling and dollar bondholders would receive new shares pro rata after converting all claims to US dollars using an Average Exchange Rate from October 2002 to the explanatory statement date.",
+        "A minority committee of sterling bondholders objected that the Average Exchange Rate disadvantaged them relative to a spot rate on the valuation date.",
+        "Telewest was heavily insolvent and the scheme was proposed as an alternative to liquidation following a stayed winding-up petition."
+      ],
+      "procedural_posture": "Section 425(1) application for leave to convene creditor scheme meetings under the Practice Statement following Re Hawk Insurance.",
+      "outcome": "Leave granted to convene single creditor class meetings for both schemes; sterling and dollar bondholders held to form one class despite FX conversion dispute; fairness of Average Exchange Rate reserved for sanction hearing.",
+      "ratio": "At the convening stage the court determines class composition by comparing creditors' rights under the scheme with rights in the relevant insolvency counterfactual; currency conversion at a valuation date is part of the pari passu distribution mechanism in liquidation, but differences in financial outcome from an average versus spot rate do not automatically require separate scheme classes unless rights are so dissimilar that creditors cannot consult together.",
+      "legal_issues": [
+        "Whether sterling and dollar bondholders constitute separate scheme classes",
+        "Whether Average Exchange Rate departs from creditors' liquidation rights materially enough to require separate meetings",
+        "Composition of class including subsidiary creditor Telewest Jersey",
+        "Validity of bondholder voting agreements at scheme meeting stage"
+      ],
+      "catchwords": [
+        "scheme of arrangement",
+        "class composition",
+        "bondholder restructuring",
+        "debt for equity",
+        "currency conversion",
+        "Telewest"
+      ],
+      "index_terms": [
+        "Telewest Communications PLC",
+        "Telewest Global Inc",
+        "Re Hawk Insurance Co Ltd",
+        "Sovereign Life Assurance v Dodd",
+        "re Dynamics Corporation of America",
+        "Wight v Eckhardt Marine GmbH"
+      ],
+      "linked_authorities": [
+        "Re Hawk Insurance Co Ltd [2001] 2 BCLC 480",
+        "Sovereign Life Assurance Co v Dodd [1892] 2 QB 573",
+        "Re Dynamics Corporation of America [1976] 1 WLR 757",
+        "Re Lines Bros Ltd [1983] Ch 1",
+        "Wight v Eckhardt Marine GmbH [2004] 1 AC 147",
+        "Re UDL Holding Ltd [2002] 1 HKC 172"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Class composition decision and FX reasoning are thorough. Convening-stage only; sanction fairness not decided. Judges metadata corrupted."
+      }
+    }
+  }
+]

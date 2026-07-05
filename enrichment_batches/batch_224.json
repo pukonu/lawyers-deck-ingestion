@@ -1,0 +1,681 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/84.json",
+    "status": "done",
+    "notes": "2-1 Court of Appeal on unfair dismissal compensation; Evans-Lombe and Sedley LJJ in majority.",
+    "enrichment": {
+      "short_title": "Non-pecuniary compensation for unfair dismissal after Johnson",
+      "area_of_law": [
+        "Employment law",
+        "Unfair dismissal",
+        "Damages and compensation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": ["section 123"]
+        },
+        {
+          "title": "Industrial Relations Act 1971",
+          "provisions": ["section 116"]
+        }
+      ],
+      "key_facts": [
+        "Mr Dunnachie, an environmental health officer, resigned after sustained bullying by a colleague and management's failure to act.",
+        "An employment tribunal found constructive unfair dismissal and awarded £10,000 under Johnson v Unisys for non-economic harm, capped with other losses.",
+        "The Employment Appeal Tribunal held Norton Tool Co Ltd v Tewson remained good law and struck out the Johnson award.",
+        "The issue was whether ERA 1996 s.123 permitted compensatory awards beyond quantifiable financial loss."
+      ],
+      "procedural_posture": "Employee's appeal to the Court of Appeal against the Employment Appeal Tribunal's decision on the Johnson award.",
+      "outcome": "Appeal allowed; Norton Tool held wrongly decided and tribunals held able to award non-pecuniary compensation under section 123.",
+      "ratio": "The word 'loss' in the unfair dismissal compensatory award formula is not confined to financial loss, so employment tribunals may award just and equitable compensation for non-pecuniary harm flowing from the circumstances of dismissal; Lord Hoffmann's comments in Johnson v Unisys on that point were obiter and not binding.",
+      "legal_issues": [
+        "Whether Norton Tool's restriction to pecuniary loss remains good law",
+        "Whether Johnson v Unisys binds tribunals to award non-economic compensation",
+        "Construction of 'loss' in ERA 1996 s.123(1)"
+      ],
+      "catchwords": [
+        "unfair dismissal",
+        "compensatory award",
+        "non-pecuniary loss",
+        "Norton Tool",
+        "Johnson v Unisys",
+        "workplace bullying",
+        "constructive dismissal"
+      ],
+      "index_terms": [
+        "Dunnachie",
+        "Hull City Council",
+        "injury to feelings",
+        "employment tribunal jurisdiction",
+        "mutual trust and confidence"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Norton Tool Co Ltd v Tewson [1972] ICR 501",
+          "relationship": "considered"
+        },
+        {
+          "citation": "Johnson v Unisys Ltd [2003] 1 AC 518",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Addis v Gramophone Co Ltd [1909] AC 488",
+          "relationship": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome and 2-1 split are explicit; ratio summarises the majority reasoning on s.123 construction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/196.json",
+    "status": "done",
+    "notes": "Eady J; strike-out and summary judgment application in slander claim.",
+    "enrichment": {
+      "short_title": "Strike-out refused in recorded workplace slander claim",
+      "area_of_law": [
+        "Defamation",
+        "Civil procedure",
+        "Employment-related disputes"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Howe & Co sued former employee Mrs Burden for slander over recorded telephone conversations alleging serious public funding impropriety.",
+        "The defendant applied to strike out the claim as an abuse of process and for summary judgment on qualified privilege and consent.",
+        "Anna Pavlow, at the claimants' direction, recorded calls in which the defendant repeated the allegations.",
+        "The allegations were serious, had not been determined on the merits, and there was no plea of justification."
+      ],
+      "procedural_posture": "High Court hearing of appeal from a master's refusal to strike out and of the defendant's summary judgment application.",
+      "outcome": "Appeal and summary judgment application dismissed; plea of malice struck out for re-pleading.",
+      "ratio": "A libel claim is not an abuse of process merely because the defendant is impecunious or vindication may yield little money; summary judgment is inappropriate where qualified privilege, malice and consent turn on disputed facts requiring trial, and the consent defence needs clear evidence of the claimant's authority for recording.",
+      "legal_issues": [
+        "Whether the slander claim was an abuse of process",
+        "Whether qualified privilege was bound to succeed",
+        "Whether leave and licence/consent provided a complete defence",
+        "Whether the malice plea should be struck out"
+      ],
+      "catchwords": [
+        "slander",
+        "qualified privilege",
+        "malice",
+        "consent",
+        "leave and licence",
+        "summary judgment",
+        "abuse of process",
+        "whistleblowing"
+      ],
+      "index_terms": [
+        "Howe & Co",
+        "recorded telephone conversation",
+        "Schellenberg v BBC",
+        "public funding allegations",
+        "jury trial"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Schellenberg v BBC [2000] EMLR 296",
+          "relationship": "distinguished"
+        },
+        {
+          "citation": "Kearns v General Council of the Bar [2003] 1 WLR 1357",
+          "relationship": "considered"
+        },
+        {
+          "citation": "Alexander v Arts Council of Wales [2001] 1 WLR 1840",
+          "relationship": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Single-judge interlocutory decision with clear outcomes on each ground."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/223.json",
+    "status": "done",
+    "notes": "Phillips MR giving lead judgment; family property resulting trust appeal.",
+    "enrichment": {
+      "short_title": "Father retained beneficial interest in flat conveyed to daughter",
+      "area_of_law": [
+        "Equity and trusts",
+        "Property law",
+        "Tax planning"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Finance Act 1986",
+          "provisions": ["section 102"]
+        }
+      ],
+      "key_facts": [
+        "George Lavelle bought a Manchester flat but, on his signed instructions, it was conveyed into his daughter Tracy's name.",
+        "George claimed Tracy forged or tricked him into signing; Tracy and son Craig claimed he intended an inheritance tax gift to them.",
+        "Accountants had advised that putting property in children's names could save inheritance tax if genuinely given away.",
+        "The judge found George did not intend to gift the flat and declared Tracy held it on trust for him."
+      ],
+      "procedural_posture": "Court of Appeal appeal against a High Court judge's declaration on beneficial ownership and a costs order.",
+      "outcome": "Appeal dismissed on both ownership and costs.",
+      "ratio": "Where a father purchases property for his own use but conveys legal title to his child, the presumption of advancement is rebutted by evidence of subjective intention; subsequent inheritance tax advice does not necessarily show an immediate gift, and a child holding as nominee for siblings does not fit a gift to both children when only one is registered proprietor.",
+      "legal_issues": [
+        "Whether the presumption of advancement applied and was rebutted",
+        "Effect of inheritance tax planning advice on transferor intention",
+        "Whether George intended a gift to Tracy and Craig",
+        "Appropriateness of the costs order"
+      ],
+      "catchwords": [
+        "presumption of advancement",
+        "resulting trust",
+        "beneficial ownership",
+        "inheritance tax",
+        "family property dispute",
+        "nominee"
+      ],
+      "index_terms": [
+        "Lavelle family",
+        "Churchill Place Monton",
+        "Pettitt v Pettitt",
+        "Shephard v Cartwright",
+        "Tribe v Tribe"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Pettitt v Pettitt [1970] AC 777",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Shephard v Cartwright [1955] AC 431",
+          "relationship": "considered"
+        },
+        {
+          "citation": "Tribe v Tribe [1996] Ch 107",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Collier v Collier [2002] EWCA Civ 1095",
+          "relationship": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Fact-heavy family dispute but appeal outcome and trust principles are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/99.json",
+    "status": "needs_review",
+    "notes": "Long joint judgment on detention during Her Majesty's pleasure tariffs; transitional cases.",
+    "enrichment": {
+      "short_title": "Continuing tariff review for HM pleasure murder detainees",
+      "area_of_law": [
+        "Criminal law and sentencing",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": ["section 82A"]
+        },
+        {
+          "title": "Criminal Justice and Courts Services Act 2000",
+          "provisions": ["section 60"]
+        },
+        {
+          "title": "Children and Young Persons Act 1933",
+          "provisions": ["section 53"]
+        },
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": ["section 34", "section 35"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 5", "Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Maria Smith and Jon Venables co-defendant Lee Dudson were young persons sentenced to detention during Her Majesty's pleasure for murder.",
+        "After 2000 legislative and policy changes, the Lord Chief Justice reviewed their tariffs but the Secretary of State declined further periodic review.",
+        "The Divisional Court held Venables required continuing Secretary of State review of tariffs in transitional cases.",
+        "Dudson also challenged the tariff-setting procedure and whether welfare was adequately considered."
+      ],
+      "procedural_posture": "Secretary of State's appeals to the Court of Appeal from two related judicial review decisions on HM pleasure tariffs.",
+      "outcome": "Both appeals dismissed; Secretary of State remains under a continuing obligation to review tariffs in transitional cases.",
+      "ratio": "Despite the 2000 regime and one-off judicial tariff reviews for transitional detainees, the Venables principle requiring periodic review of young persons' murder tariffs during the tariff period still applies; challenges to Dudson's tariff procedure and welfare assessment failed.",
+      "legal_issues": [
+        "Whether Venables continuing review survives 2000 legislation and policy",
+        "Whether the Lord Chief Justice's tariff review process was flawed",
+        "Whether Dudson was entitled to an oral hearing",
+        "Whether welfare considerations required a lower minimum tariff"
+      ],
+      "catchwords": [
+        "detention during Her Majesty's pleasure",
+        "murder tariff",
+        "transitional cases",
+        "Venables",
+        "young offenders",
+        "judicial review",
+        "Parole Board"
+      ],
+      "index_terms": [
+        "Maria Smith",
+        "Lee Dudson",
+        "Secretary of State tariff",
+        "Lord Chief Justice review",
+        "life sentence minors"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v Secretary of State for the Home Department, Ex p Venables [1998] AC 407",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Thynne, Wilson and Gunnell v United Kingdom (1990) 13 EHRR 666",
+          "relationship": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.85,
+        "level": "high",
+        "notes": "Very long judgment on a complex sentencing regime; core Venables review holding is clear but wider unresolved issues are noted in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/64.json",
+    "status": "done",
+    "notes": "Court of Appeal on joint account mandate and bank duty of care; Hart J at first instance.",
+    "enrichment": {
+      "short_title": "Wife liable on joint account after husband's overdraft",
+      "area_of_law": [
+        "Banking law",
+        "Contract law",
+        "Equity and trusts"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr and Mrs Fielding operated a joint RBS account under a standard mandate authorising either to overdraw jointly and severally.",
+        "Mr Fielding ran up a large overdraft without Mrs Fielding's knowledge while she remained financially unsophisticated and did not read statements.",
+        "Mrs Fielding challenged liability after separation, relying on a 1988 £200,000 facility, breach of duty, and Etridge undue influence.",
+        "The bank applied sale proceeds of Hanover Terrace to the joint and loan account balances."
+      ],
+      "procedural_posture": "Court of Appeal against Hart J's judgment ordering Mrs Fielding to pay the overdrawn joint account balance.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "A standard joint account mandate authorises unlimited sole overdrafts without further consent; a separate facility letter does not impliedly cap that authority, and the bank owed no actionable duty to refuse further sole borrowings where statements were sent home and there was no reason to suspect mandate abuse.",
+      "legal_issues": [
+        "Construction of the joint account mandate",
+        "Whether the 1988 facility limited sole borrowing authority",
+        "Whether the bank breached a duty of care to Mrs Fielding",
+        "Whether sale proceeds were properly applied to the accounts"
+      ],
+      "catchwords": [
+        "joint bank account",
+        "mandate",
+        "overdraft",
+        "joint and several liability",
+        "bank duty of care",
+        "husband and wife",
+        "Etridge"
+      ],
+      "index_terms": [
+        "Royal Bank of Scotland",
+        "Hanover Terrace",
+        "Gage v King",
+        "implied authority",
+        "financial deception"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Royal Bank of Scotland v Etridge (No 2) [2002] AC 773",
+          "relationship": "considered"
+        },
+        {
+          "citation": "Gage v King [1961] 1 QB 188",
+          "relationship": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed first-instance findings preserved on appeal; court's legal conclusions are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/342.json",
+    "status": "done",
+    "notes": "Unanimous Court of Appeal on housing benefit regulation 65(2).",
+    "enrichment": {
+      "short_title": "Housing benefit start date when tenancy precedes occupation",
+      "area_of_law": [
+        "Social security and welfare benefits",
+        "Housing benefit",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Social Security Contributions and Benefits Act 1992",
+          "provisions": ["section 130"]
+        },
+        {
+          "title": "Housing Benefit (General) Regulations 1987",
+          "provisions": ["regulation 2", "regulation 5", "regulation 65", "regulation 72"]
+        }
+      ],
+      "key_facts": [
+        "Michelle Robinson took a tenancy on 11 March 2002 but could not move in until 20 March because a crisis loan cheque went to the wrong address.",
+        "She claimed housing benefit on 11 March; the local authority paid from the week commencing 18 March.",
+        "A Commissioner held regulation 65(2) entitled her from 18 March, but the Secretary of State appealed.",
+        "Regulation 5(6)(c)(ii) did not apply because she had no young children or relevant premium."
+      ],
+      "procedural_posture": "Secretary of State's appeal against a Social Security Commissioner's housing benefit decision.",
+      "outcome": "Appeal allowed; entitlement held to commence from 25 March 2002 under regulation 65(1).",
+      "ratio": "Regulation 65(2) applies only where liability to pay rent for the occupied dwelling first arises in the same benefit week as the claimant becomes otherwise entitled; where liability began before occupation, the general rule in regulation 65(1) applies and benefit starts the week after the claim is treated as made when all eligibility conditions are satisfied.",
+      "legal_issues": [
+        "Construction of regulation 65(1) and 65(2)",
+        "When a housing benefit claim is 'treated as made'",
+        "Whether delayed occupation due to a misdirected crisis loan affects entitlement"
+      ],
+      "catchwords": [
+        "housing benefit",
+        "regulation 65",
+        "benefit week",
+        "tenancy before occupation",
+        "crisis loan",
+        "entitlement date"
+      ],
+      "index_terms": [
+        "Robinson",
+        "Sunderland",
+        "Social Security Commissioner",
+        "jobseeker's allowance claimant"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Short unanimous point of statutory construction with clear agreed facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/407.json",
+    "status": "done",
+    "notes": "Kay LJ; quantum-only appeal in RTA personal injury claim.",
+    "enrichment": {
+      "short_title": "Reduced loss of earnings award for GP after RTA",
+      "area_of_law": [
+        "Personal injury",
+        "Road traffic accidents",
+        "Damages and compensation"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Dr Chang suffered cervical soft tissue and psychological injuries in a rear-end collision in December 1997; liability was admitted.",
+        "He continued private GP practice but limited active work to three days a week with two admin days at home.",
+        "The judge found no loss of income until mid-2001, then a 10% turnover increase over 15 months that he could have achieved but for the injuries.",
+        "General damages of £9,000 and initial four weeks' loss were not appealed."
+      ],
+      "procedural_posture": "Court of Appeal appeal against assessment of loss of earnings following county court trial.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Where a claimant reorganised a thriving practice so that three long clinical days matched previous five-day output and admin filled the remaining days, a trial judge was entitled to find no net loss of earnings until improved software freed capacity, warranting only a modest additional award for missed growth.",
+      "legal_issues": [
+        "Whether the judge erred in rejecting ongoing loss of earnings",
+        "Mitigation and reorganisation of medical practice",
+        "Assessment of future earning capacity after whiplash-type injuries"
+      ],
+      "catchwords": [
+        "loss of earnings",
+        "whiplash",
+        "soft tissue injury",
+        "GP practice",
+        "quantum appeal",
+        "mitigation",
+        "road traffic accident"
+      ],
+      "index_terms": [
+        "Dr Chang",
+        "Milton Keynes medical practice",
+        "joint medical report",
+        "fact-finding appeal"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Quantum-only appeal turning on judge's fact findings upheld as open on the evidence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/69.json",
+    "status": "done",
+    "notes": "Potter LJ lead judgment; remittal to IAT on Chechnya conscientious objection.",
+    "enrichment": {
+      "short_title": "Chechnya desertion asylum test after Sepet and Bulbul",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Public international law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Convention Relating to the Status of Refugees 1951",
+          "provisions": ["Article 1A(2)", "Article 1F"]
+        },
+        {
+          "title": "Geneva Conventions 1949",
+          "provisions": ["Common Article 3", "Article 147"]
+        },
+        {
+          "title": "Protocol Additional to the Geneva Conventions (Protocol II)",
+          "provisions": ["Article IV"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 3"]
+        }
+      ],
+      "key_facts": [
+        "Mr Krotov deserted from Russian military service after being sent to fight in Chechnya and claimed asylum in the UK.",
+        "The adjudicator found no general conscientious objection and no international condemnation of the Chechnya conflict.",
+        "The Immigration Appeal Tribunal required specific international condemnation under UNHCR Handbook paragraph 171.",
+        "The court was asked to choose between the Krotov and Foughali approaches after Sepet and Bulbul."
+      ],
+      "procedural_posture": "Court of Appeal appeal with permission on the correct test for partial conscientious objection in a repugnant war.",
+      "outcome": "Appeal allowed; case remitted to a differently constituted Immigration Appeal Tribunal.",
+      "ratio": "Punishment for refusing military service may amount to persecution where service would require participation in acts contrary to basic humanitarian norms recognised in international law; specific international condemnation of a conflict is evidence but not a prerequisite, and the objector must show a genuine fear of being required personally to participate in such acts pursuant to systemic policy or official indifference.",
+      "legal_issues": [
+        "Whether international condemnation of Chechnya is required under Handbook paragraph 171",
+        "Conflict between Foughali and Krotov IAT approaches",
+        "Application of Sepet and Bulbul to partial conscientious objectors",
+        "Whether return would breach Article 3 ECHR"
+      ],
+      "catchwords": [
+        "asylum",
+        "conscientious objection",
+        "military desertion",
+        "Chechnya",
+        "Refugee Convention",
+        "UNHCR Handbook",
+        "humanitarian law"
+      ],
+      "index_terms": [
+        "Krotov",
+        "Russian army",
+        "Foughali",
+        "Sepet and Bulbul",
+        "draft evasion",
+        "political opinion"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Sepet and Bulbul v Secretary of State for the Home Department [2001] EWCA Civ 681",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Sepet and Bulbul v Secretary of State for the Home Department [2003] UKHL 15",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Foughali v Secretary of State for the Home Department [2000] UKIAT",
+          "relationship": "applied"
+        },
+        {
+          "citation": "B v Secretary of State for the Home Department [2003] UKIAT 20",
+          "relationship": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Important legal test clarified but individual refugee status remitted; long judgment with extensive international law discussion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/355.json",
+    "status": "done",
+    "notes": "Divisional Court case stated appeal; Rose LJ and David Clarke J.",
+    "enrichment": {
+      "short_title": "Railway station car park not a road for RTA offences",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": ["section 5", "section 103"]
+        },
+        {
+          "title": "Road Traffic Offenders Act 1988",
+          "provisions": ["Schedule 2"]
+        }
+      ],
+      "key_facts": [
+        "The defendant was convicted of driving with excess alcohol and while disqualified in Peterborough railway station car park.",
+        "Justices found the car park was a road because vehicles and pedestrians used it as a through route to platforms and a staff car park.",
+        "The prosecution did not seek to amend the charge to 'road or other public place'.",
+        "Lord Clyde in Cutter v Eagle Star held car parks are ordinarily not roads unless exceptional."
+      ],
+      "procedural_posture": "Case stated appeal to the Divisional Court from magistrates' convictions.",
+      "outcome": "Appeal allowed; convictions quashed; costs from central funds.",
+      "ratio": "A railway station car park whose primary function is parking, with only incidental vehicular through-traffic to a staff area, is not a 'road' within the Road Traffic Act 1988 on the facts found; staff driving through does not suffice where the justices made no findings on definable route, edges or access function required by Cutter v Eagle Star.",
+      "legal_issues": [
+        "Whether a pay-and-display railway car park is a road under the RTA 1988",
+        "Application of Cutter v Eagle Star to car parks",
+        "Sufficiency of magistrates' findings of fact"
+      ],
+      "catchwords": [
+        "road traffic",
+        "excess alcohol",
+        "driving while disqualified",
+        "car park",
+        "case stated",
+        "Cutter v Eagle Star"
+      ],
+      "index_terms": [
+        "Brewer",
+        "Peterborough railway station",
+        "Mayors Walk car park",
+        "road definition"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Cutter v Eagle Star Insurance Co Ltd [1998] 4 All ER 417",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Griffin v Squires [1958] 1 WLR 1106",
+          "relationship": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Short unanimous case stated with clear negative answer to the legal question."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/276.json",
+    "status": "done",
+    "notes": "Pitchford J; judicial review of Legal Services Commission funding refusal.",
+    "enrichment": {
+      "short_title": "Legal aid scope for negligent social services failure",
+      "area_of_law": [
+        "Legal aid and access to justice",
+        "Administrative law and judicial review",
+        "Child welfare",
+        "Negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": ["section 1", "section 4", "section 6", "Schedule 2 paragraph 1"]
+        },
+        {
+          "title": "Children Act 1989",
+          "provisions": ["section 17", "section 20"]
+        }
+      ],
+      "key_facts": [
+        "A child claimant proposed to sue a local authority for failing to place him in secure accommodation despite repeated warnings he was dangerous to himself and others.",
+        "He suffered serious injuries in a stolen-car crash while absconding after the authority's inaction.",
+        "The Legal Services Commission refused community legal service funding as excluded personal injury negligence outside section 8 'serious wrongdoing'.",
+        "The Funding Review Committee had initially disagreed with the regional office but the director maintained the refusal."
+      ],
+      "procedural_posture": "High Court judicial review of the Legal Services Commission's refusal of public funding.",
+      "outcome": "Decision quashed; funding application to be reconsidered; permission to appeal granted.",
+      "ratio": "Negligence by omission by a public authority can amount to 'serious wrongdoing' for section 8 of the Funding Code without deliberate malice; the Commission misdirected itself by treating the claim as simple negligence comparable to a police road traffic accident rather than applying criteria including the nature of the child protection duty, the quality of the omissions, and the harm risked.",
+      "legal_issues": [
+        "Meaning of 'serious wrongdoing' in the Lord Chancellor's direction and Funding Code section 8",
+        "Whether negligently caused personal injury claims against public authorities are excluded by Schedule 2",
+        "Whether omission-based negligence can qualify for CLS funding",
+        "Whether the Commission changed its reasons unlawfully"
+      ],
+      "catchwords": [
+        "legal aid",
+        "Community Legal Service",
+        "serious wrongdoing",
+        "public authority",
+        "social services",
+        "secure accommodation",
+        "Schedule 2 exclusion",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Legal Services Commission",
+        "Funding Code section 8",
+        "Barrett v Enfield",
+        "children in need",
+        "conditional fee agreements"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Barrett v Enfield London Borough Council [1999] 3 All ER 193",
+          "relationship": "cited"
+        },
+        {
+          "citation": "R v Westminster City Council, ex p Ermakov [1996] 2 All ER 302",
+          "relationship": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Funding scope issue clearly resolved on misdirection; merits of underlying negligence claim expressly not decided."
+      }
+    }
+  }
+]

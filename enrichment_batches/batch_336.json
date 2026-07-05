@@ -1,0 +1,682 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1069.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists historical Law Lords (Atkin, Russell) alongside Gibson and Sedley; actual panel was Gibson, Sedley and Newman.",
+    "enrichment": {
+      "short_title": "EIC bonus share issue void for common mistake",
+      "area_of_law": [
+        "Company law",
+        "Equity",
+        "Contract"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 35A",
+            "section 130(2)"
+          ]
+        },
+        {
+          "title": "Companies Act 1947",
+          "provisions": []
+        },
+        {
+          "title": "Companies Act 1989",
+          "provisions": [
+            "section 108"
+          ]
+        }
+      ],
+      "key_facts": [
+        "EIC Services made a December 1999 bonus issue capitalising share premium to allot 99 bonus shares per ordinary share.",
+        "Neuberger J held many November 1999 shares were unpaid and shareholder approval was missing, but that s 35A could validate the issue.",
+        "Shareholder Jeremy Lee Barber appealed, arguing the bonus issue was void for common mistake and that s 35A did not apply.",
+        "The bonus resolution assumed all 137,555 shares were equally entitled and fully paid; in fact most November shares were nil paid."
+      ],
+      "procedural_posture": "Court of Appeal appeal with permission from Neuberger J on preliminary issues as to validity of a bonus share issue.",
+      "outcome": "Appeal allowed; the 15 December 1999 bonus issue was declared void because the interlinked defects made the assumed subject matter radically different, and s 35A did not apply as shareholders receiving bonus shares were not persons dealing with the company.",
+      "ratio": "Where a bonus issue proceeds on the mistaken footing that all shares are paid up and equally entitled, the cumulative defects can render the entire issue void for common mistake by analogy with contract law; a member receiving an internal bonus issue is not a person dealing with the company for s 35A purposes.",
+      "legal_issues": [
+        "Whether defects in authorisation and unpaid shares voided the bonus issue for common mistake",
+        "Whether partial validity could be preserved for shareholders with paid-up shares only",
+        "Whether s 35A(1) validated the issue by treating shareholders as persons dealing in good faith",
+        "Whether Reg 110 Table A limitations were constitutional limits within s 35A"
+      ],
+      "catchwords": [
+        "bonus issue",
+        "common mistake",
+        "share premium",
+        "section 35A",
+        "Table A",
+        "nil paid shares"
+      ],
+      "index_terms": [
+        "Re Cleveland Trust plc",
+        "capitalisation of reserves",
+        "ordinary resolution",
+        "First Company Law Directive Article 9",
+        "Bell v Lever Bros"
+      ],
+      "linked_authorities": [
+        "Re Cleveland Trust plc [1991] BCLC 424",
+        "Great Peace Shipping Ltd v Tsavliris Salvage (International) Ltd [2003] QB 279",
+        "Smith v Henniker-Major [2003] Ch 182"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full appellate reasoning and order are present despite corrupted judges metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1071.json",
+    "status": "done",
+    "notes": "Landfill tax site restoration exemption construction and outcome are clear.",
+    "enrichment": {
+      "short_title": "Landfill tax: re-contouring below cap is not site restoration",
+      "area_of_law": [
+        "Tax law",
+        "Environmental law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Finance Act 1996",
+          "provisions": [
+            "section 40",
+            "section 41",
+            "section 42",
+            "section 43C",
+            "section 44A",
+            "section 62",
+            "section 64",
+            "section 65",
+            "section 66",
+            "section 67"
+          ]
+        },
+        {
+          "title": "Environmental Protection Act 1990",
+          "provisions": [
+            "Part II"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ebbcliff operated a former quarry landfill at Mardyke Farm under 1995 planning consent and a waste licence requiring clay capping and topsoil restoration.",
+        "The VAT and Duties Tribunal held inert waste deposited below the cap qualified for the s 43C restoration exemption.",
+        "Etherton J allowed the Commissioners' appeal, construing restoration narrowly as work after operational filling on a licensed site.",
+        "Large-scale re-contouring with inert waste was the operational landfill phase, not restoration."
+      ],
+      "procedural_posture": "Taxpayer's appeal to the Court of Appeal from Etherton J's decision allowing HMRC's appeal from the VAT and Duties Tribunal.",
+      "outcome": "Appeal dismissed; qualifying material deposited beneath the engineered cap to re-contour the site was not restoration within Finance Act 1996 s 43C(2).",
+      "ratio": "Restoration under s 43C means work required after waste disposal operations on an operational licensed landfill site to restore the site to non-landfill use; industry practice treats filling and capping separately from final restoration layers above the cap, and Parliament's exclusion of capping waste supports a narrow construction.",
+      "legal_issues": [
+        "Meaning of restoration in Finance Act 1996 s 43C(2)",
+        "Whether deposits below the capping layer could qualify for the exemption",
+        "Relationship between s 43C and the quarry exemption in s 44A",
+        "Whether pre-licence historical filling could be treated as completed restoration"
+      ],
+      "catchwords": [
+        "landfill tax",
+        "site restoration",
+        "capping waste",
+        "qualifying material",
+        "quarry exemption",
+        "inert waste"
+      ],
+      "index_terms": [
+        "Harley v Commissioners of Customs and Excise",
+        "Dispit Ltd v Commissioners of Customs and Excise",
+        "Waste Management Paper 26B",
+        "re-contouring",
+        "Harmondsworth"
+      ],
+      "linked_authorities": [
+        "Harley v Commissioners of Customs and Excise (VAT and Duties Tribunal, 7 December 2001)",
+        "Dispit Ltd v Commissioners of Customs and Excise (VAT and Duties Tribunal, 25 February 2004)"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Statutory analysis, facts and dismissal are fully recorded with consistent judges metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1246.json",
+    "status": "needs_review",
+    "notes": "Judges field lists Sedley LJ but the judgment is a permission application refused by Lord Justice Wall.",
+    "enrichment": {
+      "short_title": "Moyo: permission refused on direct race discrimination appeal",
+      "area_of_law": [
+        "Employment law",
+        "Discrimination law",
+        "Appellate procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Race Relations Act 1976",
+          "provisions": [
+            "section 1(1)(a)",
+            "section 2",
+            "section 4(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Moyo's employment tribunal claim for direct race discrimination and victimisation against Tower Hamlets Consortium was dismissed in June 2003.",
+        "Rimer J filtered her EAT appeal to one legal issue: whether the tribunal failed to direct itself that discrimination may be unconscious.",
+        "The EAT allowed her victimisation appeal for remittal but dismissed the direct discrimination appeal.",
+        "She sought permission to appeal to the Court of Appeal only on the direct discrimination point."
+      ],
+      "procedural_posture": "Oral application for permission to appeal to the Court of Appeal from the Employment Appeal Tribunal's partial allowance of appeal.",
+      "outcome": "Permission refused; no reasonable prospect of success because the tribunal found no less favourable treatment in seven of eight incidents and accepted the employer's explanation where differential treatment existed.",
+      "ratio": "Where a tribunal lawfully finds no less favourable treatment, or accepts a non-discriminatory explanation after applying King, Anya and Zafar, a further appeal on unconscious motivation cannot succeed; factual challenges were barred by Rimer J's preliminary filtering except on the identified legal point.",
+      "legal_issues": [
+        "Whether the employment tribunal misdirected itself on unconscious race discrimination",
+        "Whether permission should extend to factual findings already excluded at the EAT preliminary hearing",
+        "Proper application of King v Great China Centre and Zafar v Glasgow City Council",
+        "Relationship between victimisation findings and the direct discrimination permission application"
+      ],
+      "catchwords": [
+        "permission to appeal",
+        "direct race discrimination",
+        "unconscious motivation",
+        "Employment Appeal Tribunal",
+        "less favourable treatment",
+        "victimisation"
+      ],
+      "index_terms": [
+        "King v Great China Centre",
+        "Anya v University of Oxford",
+        "Zafar v Glasgow City Council",
+        "Tower Hamlets Consortium",
+        "preliminary hearing filter"
+      ],
+      "linked_authorities": [
+        "King v Great China Centre [1991] IRLR 513",
+        "Anya v University of Oxford [2001] IRLR 377",
+        "Zafar v Glasgow City Council [1998] IRLR 36"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Permission refusal and reasoning are complete; judges metadata is inconsistent with the text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/2357.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists deceased Law Lords quoted in the judgment, not HHJ Toulmin CMG QC who presided.",
+    "enrichment": {
+      "short_title": "City Connect: no binding agreement to pay abortive costs",
+      "area_of_law": [
+        "Contract law",
+        "Construction and property",
+        "Estoppel"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "City Connect assisted Telia from 2001 on financing and developing a Westferry Road data centre before the project collapsed in 2002.",
+        "City Connect claimed about £300,000 plus professional abortive costs, relying on October 2001 correspondence and meeting minutes.",
+        "Telia contended all arrangements remained subject to contract and that Hilcourt, not Telia, caused the deal to fail.",
+        "Solicitors negotiated a draft undertaking but never agreed final terms."
+      ],
+      "procedural_posture": "Technology and Construction Court trial of agreed liability issues on whether Telia was bound to pay City Connect's abortive fees and expenses.",
+      "outcome": "Claim dismissed for Telia; no concluded agreement to pay City Connect's own fees or all professional abortive costs, and any conditional understanding was not triggered because Hilcourt rejected third-party participation.",
+      "ratio": "Abortive-cost proposals in October 2001 letters and meeting notes remained part of negotiations subject to contract; even if partly agreed, liability was conditional on Telia alone withdrawing from a viable scheme, which did not occur when Hilcourt vetoed City Connect's involvement.",
+      "legal_issues": [
+        "Whether abortive-cost terms were binding despite subject-to-contract correspondence",
+        "Construction of the 26 October 2001 meeting minute",
+        "Whether estoppel by representation or convention created payment obligations",
+        "Whether project failure was caused by Telia's unwillingness or Hilcourt's refusal"
+      ],
+      "catchwords": [
+        "subject to contract",
+        "abortive costs",
+        "estoppel",
+        "data centre",
+        "development agreement",
+        "meeting minutes"
+      ],
+      "index_terms": [
+        "Investors Compensation Scheme v West Bromwich Building Society",
+        "Cohen v Nessdale",
+        "Westferry Road",
+        "Hilcourt Docklands",
+        "DLA",
+        "Trowers and Hamlins"
+      ],
+      "linked_authorities": [
+        "Investors Compensation Scheme v West Bromwich Building Society [1998] 1 All ER 98",
+        "Cohen v Nessdale [1982] 2 All ER 97",
+        "Amalgamated Investment & Property Company v Texas Commerce International Bank [1982] QB 84"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed findings and conclusions are complete; presiding judge omitted from source metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1065.json",
+    "status": "needs_review",
+    "notes": "Judges metadata includes Lord Rodger and Lord Slynn with Mummery and Brooke; judgment is Mummery, Slynn and Brooke.",
+    "enrichment": {
+      "short_title": "Illegal worker barred from race discrimination claim",
+      "area_of_law": [
+        "Employment law",
+        "Discrimination law",
+        "Public policy"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Race Relations Act 1976",
+          "provisions": [
+            "section 2",
+            "section 4(2)(b)",
+            "section 4(2)(c)"
+          ]
+        },
+        {
+          "title": "Immigration Act 1971",
+          "provisions": [
+            "section 24"
+          ]
+        },
+        {
+          "title": "Asylum and Immigration Act 1996",
+          "provisions": [
+            "section 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr V, a Croatian asylum seeker, falsely claimed he needed no work permit and worked as a trainee teacher while receiving benefits.",
+        "He complained of race discrimination and victimisation at Addey and Stanhope School after dismissal in July 2000.",
+        "An employment tribunal had first rejected, then on remittal upheld, the school's illegality defence under Hall v Woolston Hall.",
+        "The EAT and Court of Appeal considered whether his criminal illegal employment barred all discrimination claims."
+      ],
+      "procedural_posture": "Court of Appeal appeal from the Employment Appeal Tribunal upholding a preliminary ruling barring the claimant's race discrimination claim for illegality.",
+      "outcome": "Appeal dismissed with costs; the claimant's discrimination complaints were so inextricably bound up with his illegal obtaining and continuation of employment that allowing recovery would appear to condone his conduct.",
+      "ratio": "The Hall test applies to race discrimination claims: where the applicant's own serious criminal illegality created the unlawful employment situation on which the claim depends, the tribunal may bar the claim entirely, unlike cases where only the employer's illegal performance of an otherwise lawful contract is involved.",
+      "legal_issues": [
+        "Application of Hall v Woolston Hall to Race Relations Act claims",
+        "Whether illegality completely bars discrimination claims",
+        "Whether EU Race Directive 2000/43 could apply retrospectively on appeal",
+        "Distinction between applicant's illegality and employer's tax evasion cases"
+      ],
+      "catchwords": [
+        "illegality defence",
+        "race discrimination",
+        "work permit",
+        "Hall v Woolston Hall",
+        "employment tribunal",
+        "public policy"
+      ],
+      "index_terms": [
+        "Addey and Stanhope School",
+        "Standard Acknowledgement Letter",
+        "Council Directive 2000/43/EC",
+        "Leighton v Michael",
+        "access to justice"
+      ],
+      "linked_authorities": [
+        "Hall v Woolston Hall Leisure Ltd [2001] ICR 99",
+        "Leighton v Michael [1995] ICR 1091",
+        "Rhys Harper v Relaxation Group [2003] IRLR 484"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Merits decision and Hall analysis are clear despite implausible judges list."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1030.json",
+    "status": "needs_review",
+    "notes": "Judges metadata mixes historical Lords Merrivale and Nicholls with Thorpe, May and Arden who actually sat.",
+    "enrichment": {
+      "short_title": "English court jurisdiction to vary Jersey Hickory Trust",
+      "area_of_law": [
+        "Family law",
+        "Trusts",
+        "Conflict of laws",
+        "Matrimonial finance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Matrimonial Causes Act 1973",
+          "provisions": [
+            "section 24",
+            "section 24(1)(c)"
+          ]
+        },
+        {
+          "title": "Recognition of Trusts Act 1987",
+          "provisions": [
+            "section 1",
+            "section 2(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "During divorce and bankruptcy proceedings the wife sought to vary the Jersey Hickory Trust as a post-nuptial settlement under Matrimonial Causes Act 1973 s 24.",
+        "The trust deed chose Jersey law and exclusive Jersey jurisdiction; the husband and wife were removed as beneficiaries in January 2001.",
+        "Wilson J held the English court had jurisdiction; the husband appealed on Hague Convention and nuptial-settlement grounds.",
+        "Substantial disputed assets included proceeds from sale of an estate agency targeted by the wife's s 24 application."
+      ],
+      "procedural_posture": "Court of Appeal permission-to-appeal hearing on jurisdiction to vary a Jersey discretionary trust in ancillary relief proceedings.",
+      "outcome": "Permission granted but appeal dismissed; the English divorce court could apply s 24 despite Jersey proper-law and forum clauses, and removing the spouses as beneficiaries did not erase the settlement's post-nuptial character.",
+      "ratio": "Article 15 of the Hague Trusts Convention preserves mandatory forum conflict rules on the personal and proprietary effects of marriage, so s 24 variation powers are not ousted by trust exclusive-jurisdiction clauses; a settlement can remain post-nuptial where spouses retain protector powers and children remain beneficiaries.",
+      "legal_issues": [
+        "Whether the Recognition of Trusts Act 1987 and Hague Convention oust s 24 jurisdiction",
+        "Construction of Article 15(b) personal and proprietary effects of marriage",
+        "Whether removal from the beneficial class ended the trust's post-nuptial status",
+        "Interaction between English ancillary relief and Jersey trust law"
+      ],
+      "catchwords": [
+        "post-nuptial settlement",
+        "section 24",
+        "Hague Trusts Convention",
+        "Article 15",
+        "Jersey trust",
+        "conflict of laws"
+      ],
+      "index_terms": [
+        "Nunneley v Nunneley",
+        "Forsyth v Forsyth",
+        "Brooks v Brooks",
+        "Compass Trustees v McBarnett",
+        "Hickory Trust",
+        "ancillary relief"
+      ],
+      "linked_authorities": [
+        "Nunneley v Nunneley [1890] 15 App Cas 186",
+        "Brooks v Brooks [1996] 1 AC 375",
+        "Compass Trustees v McBarnett [2002] JLR 321"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed conflict-of-laws reasoning is intact; judges metadata corrupted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1887.json",
+    "status": "done",
+    "notes": "Capacity trial issues and Peter Smith J's conclusions are fully stated.",
+    "enrichment": {
+      "short_title": "Symes retained litigation capacity despite frontal lobe injury",
+      "area_of_law": [
+        "Civil procedure",
+        "Mental capacity",
+        "Trusts and estates",
+        "Partnership"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": [
+            "Part 21",
+            "rule 21.1",
+            "Part 35"
+          ]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 127"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Robin Symes faced partnership and asset-tracing claims after Christo Michailidis died in 1999.",
+        "He admitted contempt over misrepresenting the sale of a granodiorite statue but later argued frontal lobe damage from 1979 strokes impaired capacity.",
+        "Dr Zamar opined he had lacked capacity for decades; lay witnesses, solicitors and documentary instructions contradicted that.",
+        "The Official Solicitor participated because Symes did not instruct solicitors at the capacity hearing."
+      ],
+      "procedural_posture": "Private Chancery trial of preliminary issues under Masterman-Lister as to whether Symes was a CPR Part 21 patient and could participate in litigation.",
+      "outcome": "Issues 1, 2 and most of 4 decided against Symes; he was not a patient, could fairly participate and give evidence, including at the April-May 2003 contempt hearing, subject only to ordinary trial safeguards.",
+      "ratio": "Capacity is issue-specific; the presumption of capacity was not displaced where decades of complex business and litigation conduct, solicitor observations and documentary instructions showed understanding, and expert opinions based on incomplete material were withdrawn when confronted with the full file.",
+      "legal_issues": [
+        "Application of Masterman-Lister v Brutton to retrospective capacity review",
+        "Whether frontal lobe syndrome prevented managing affairs or giving evidence",
+        "Weight of lay and solicitor evidence versus expert neuropsychology",
+        "Effect on prior contempt findings and bankruptcy if capacity had been lacking"
+      ],
+      "catchwords": [
+        "mental capacity",
+        "CPR Part 21",
+        "Masterman-Lister",
+        "frontal lobe syndrome",
+        "Official Solicitor",
+        "contempt"
+      ],
+      "index_terms": [
+        "Masterman-Lister v Brutton & Co",
+        "Robin Symes",
+        "Christo Michailidis",
+        "granodiorite statue",
+        "Dr Zamar",
+        "partnership assets"
+      ],
+      "linked_authorities": [
+        "Masterman-Lister v Brutton & Co [2003] 1 WLR 1511",
+        "The Ikarian Reefer [1993] 2 Lloyd's Rep 68"
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Long reserved judgment with explicit issue-by-issue conclusions; judge metadata correct."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1063.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists Herschell LC and HHJs among the Court of Appeal panel; actual judges were Mummery, Jonathan Parker and Dyson.",
+    "enrichment": {
+      "short_title": "Mortgage shortfall claim time-barred after instalment default",
+      "area_of_law": [
+        "Land law",
+        "Banking and finance",
+        "Limitation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 5",
+            "section 8",
+            "section 20(1)"
+          ]
+        },
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": [
+            "section 101",
+            "section 103",
+            "section 105"
+          ]
+        },
+        {
+          "title": "County Courts Act 1984",
+          "provisions": [
+            "section 69"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Wilkinsons defaulted on monthly repayments under a 1988 legal charge; last payment was 31 July 1989.",
+        "West Bromwich sold the charged house in November 1990 leaving a shortfall of about £23,922.",
+        "It did not sue personally for the deficit until November 2002, more than twelve years later.",
+        "The deed covenant to pay by instalments did not expressly accelerate on default, but implied remedies existed."
+      ],
+      "procedural_posture": "Second appeal to the Court of Appeal on whether a county court shortfall claim was statute-barred under the Limitation Act 1980.",
+      "outcome": "Appeal allowed and cross-appeal dismissed; the personal shortfall claim was barred twelve years after the cause of action accrued on instalment default, not from the later sale date.",
+      "ratio": "A mortgage shortfall remains the same debt secured by covenant and mortgage; the right to receive the principal accrued when instalments were defaulted and enforcement remedies arose, so ss 8 and 20(1) bar recovery more than twelve years later even after the security was sold.",
+      "legal_issues": [
+        "When the cause of action accrued for a mortgage shortfall claim",
+        "Whether instalment-only covenants generate fresh monthly causes of action",
+        "Implied covenant to repay principal on default",
+        "Interaction of Limitation Act 1980 ss 5, 8 and 20 after sale of charged property"
+      ],
+      "catchwords": [
+        "limitation",
+        "mortgage shortfall",
+        "instalment default",
+        "section 20",
+        "building society",
+        "legal charge"
+      ],
+      "index_terms": [
+        "Bristol and West plc v Bartlett",
+        "Scottish Equitable plc v Thompson",
+        "Sutton v Sutton",
+        "Re McHenry",
+        "West Bromwich Building Society"
+      ],
+      "linked_authorities": [
+        "Bristol and West plc v Bartlett [2003] 1 WLR 284",
+        "Scottish Equitable plc v Thompson [2003] HLR 48",
+        "Sutton v Sutton (1882) 22 Ch D 511"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Appellate limitation analysis is complete despite corrupted judges metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/2258.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists multiple Law Lords; presiding judge Edward Bartley Jones QC is absent from source metadata though full text is complete.",
+    "enrichment": {
+      "short_title": "Nephew's gifts to brother set aside for undue influence",
+      "area_of_law": [
+        "Equity",
+        "Wills and probate",
+        "Land law",
+        "Undue influence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Madeleine Taylor, a childless aunt, made several substantial land and cash gifts to her nephew Philip Randall while frail and reliant on him.",
+        "Her younger nephew Geoffrey sought to set aside four gifts made between 1992 and 2000 as presumed undue influence.",
+        "Philip had managed her affairs and benefited from transfers including joint tenancy of land and cash for his business interests.",
+        "Geoffrey's alternative trust and unconscionable bargain claims failed or were unnecessary."
+      ],
+      "procedural_posture": "Chancery trial of claim to set aside inter vivos gifts between disputing brothers following earlier probate proceedings.",
+      "outcome": "Claim succeeded; the first to fourth gifts were set aside because the evidential presumption of undue influence arose and Philip failed to rebut it, the deceased having lacked independent and informed advice.",
+      "ratio": "Large gifts by a vulnerable elderly aunt to a nephew who managed her property and stood in a relationship of trust, without effective independent legal advice, raise a presumption of undue influence that is not rebutted where the transaction was not the product of full, free and informed thought.",
+      "legal_issues": [
+        "Presumed undue influence in donor-donee family relationships",
+        "Whether independent solicitor advice emancipated the deceased",
+        "Rebuttal under Royal Bank of Scotland v Etridge principles",
+        "Alternative unconscionable bargain and express trust claims"
+      ],
+      "catchwords": [
+        "undue influence",
+        "presumed undue influence",
+        "inter vivos gift",
+        "independent advice",
+        "Etridge",
+        "Whitstable land"
+      ],
+      "index_terms": [
+        "Royal Bank of Scotland v Etridge",
+        "Allcard v Skinner",
+        "Langton v Langton",
+        "Madeleine Taylor",
+        "Golden Hill Whitstable",
+        "Drumfin"
+      ],
+      "linked_authorities": [
+        "Royal Bank of Scotland v Etridge (No 2) [2002] 2 AC 773",
+        "Allcard v Skinner (1887) 36 Ch D 145",
+        "Langton v Langton [1995] 2 FLR 890"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Full trial judgment with clear set-aside order; judge name missing from ingested metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2130.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists Bennett, Collins and House of Lords names but judgment is McCombe J on judicial review.",
+    "enrichment": {
+      "short_title": "Harmondsworth fast-track detention lawful for Togo asylum seeker",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Act 1971",
+          "provisions": [
+            "section 4(2)",
+            "Schedule 2 paragraph 16"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Kpandang, a Togolese national, claimed asylum in April 2004 after arrest as an illegal entrant in Liverpool where he had a partner and newborn child.",
+        "The Home Office allocated his claim to Harmondsworth fast-track processing for nationals of listed generally unfounded countries.",
+        "He challenged fast-track allocation and argued detention from March to May 2004 breached policy and Article 8 ECHR.",
+        "Bennett J had suspended the asylum process; McCombe J heard the lawfulness challenge after release."
+      ],
+      "procedural_posture": "Judicial review of Harmondsworth fast-track allocation and lawfulness of immigration detention pending asylum determination.",
+      "outcome": "Claim dismissed; detention was within Schedule 2 powers and published fast-track policy, and short detention for speedy asylum processing was a proportionate Article 8 interference on the facts.",
+      "ratio": "Harmondsworth fast-track use of single-male accommodation does not exclude claimants with UK family ties as a matter of policy; where detention is for efficient examination rather than absconding risk, Saadi principles support proportionate short detention even if Article 8 separation from family occurs.",
+      "legal_issues": [
+        "Lawfulness of detention under Immigration Act 1971 Schedule 2 paragraph 16",
+        "Whether family ties excluded claimants from Harmondsworth fast-track policy",
+        "Article 8 proportionality of detention separating claimant from partner and child",
+        "Effect of ministerial statements versus internal guidance and counsel comments in other cases"
+      ],
+      "catchwords": [
+        "fast track",
+        "Harmondsworth",
+        "judicial review",
+        "Article 8",
+        "asylum detention",
+        "false imprisonment"
+      ],
+      "index_terms": [
+        "R (Saadi) v Secretary of State for the Home Department",
+        "R (Daly) v Secretary of State for the Home Department",
+        "R (Refugee Legal Centre) v Secretary of State",
+        "Oakington",
+        "Togo"
+      ],
+      "linked_authorities": [
+        "R (Saadi) v Secretary of State for the Home Department [2002] UKHL 41",
+        "R (Daly) v Secretary of State for the Home Department [2001] 2 AC 532",
+        "R (Refugee Legal Centre) v Secretary of State for the Home Department [2004] EWHC 684 (Admin)"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Final judicial review decision on detention lawfulness is complete; judges metadata corrupted."
+      }
+    }
+  }
+]

@@ -1,0 +1,635 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/qb/2005/192.json",
+    "status": "done",
+    "notes": "Major personal injury quantum judgment; section 117 aftercare analysis and £3.1m award are fully reasoned.",
+    "enrichment": {
+      "short_title": "Tinsley v Sarkar: brain injury care costs and section 117 aftercare",
+      "area_of_law": [
+        "Personal injury",
+        "Damages",
+        "Mental health law",
+        "Healthcare law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 117",
+            "section 3"
+          ]
+        },
+        {
+          "title": "National Health Service and Community Care Act 1990",
+          "provisions": [
+            "section 47"
+          ]
+        },
+        {
+          "title": "National Assistance Act 1948",
+          "provisions": [
+            "section 21"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Damien Tinsley suffered severe brain injury when knocked from his bicycle in May 1998; liability was compromised at 90%.",
+        "The defendant argued future care should not be awarded because Manchester Health and Social Care Trust owed section 117 aftercare after compulsory detention.",
+        "Mr Tinsley had a troubled pre-accident history of alcohol and drug misuse but had stabilised before the accident; post-injury behaviour remained highly challenging.",
+        "Experts agreed Redford Court (BIRT) could meet his needs, but the Trust was unlikely to fund that level of provision and Mr Tinsley resisted Trust assessment."
+      ],
+      "procedural_posture": "Trial on quantum in the High Court after compromised liability.",
+      "outcome": "Full future care and other losses were awarded; the court rejected deducting damages for possible section 117 funding and ordered £3,127,205 exclusive of interest (90% of £3,474,672).",
+      "ratio": "Section 117 aftercare is a mandatory but resource-sensitive duty distinct from National Assistance Act accommodation rights; where a tort victim is unlikely to accept or receive Trust-funded care at the level reasonably required, and there is no top-up mechanism, Hodgson v Trapp does not require the court to offset damages for a fanciful chance of public funding.",
+      "legal_issues": [
+        "Whether section 117 aftercare obligations displaced the defendant's liability for private future care costs",
+        "Whether damages for care should be discounted for the chance the Trust might fund Redford Court or a cheaper placement",
+        "Appropriate care regime, multiplier and reasonable support hours for a brain-injured claimant with high-risk behaviour",
+        "Whether the claimant's preference for own accommodation should determine the care award"
+      ],
+      "catchwords": [
+        "section 117 aftercare",
+        "brain injury",
+        "future care costs",
+        "Hodgson v Trapp",
+        "Redford Court",
+        "personal injury quantum"
+      ],
+      "index_terms": [
+        "Manchester Health and Social Care Trust",
+        "Harnham House",
+        "BIRT",
+        "Ogden multiplier",
+        "means testing",
+        "compulsory detention"
+      ],
+      "linked_authorities": [
+        "Hodgson v Trapp [1989] AC 807",
+        "Firth v Geo Ackroyd Junior Ltd [2001] Lloyd's Rep Med 312",
+        "Sowden v Lodge, Drury v Crookdale",
+        "R v Camden and Islington Health Authority ex parte K [2001] EWCA Civ 240",
+        "R v Manchester City Council ex parte Stennett [2002] UKHL 34"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed findings on care, statutory analysis and final award figures are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/338.json",
+    "status": "done",
+    "notes": "Case stated appeal on RSPCA summons particularity; full reasoning and answers to questions.",
+    "enrichment": {
+      "short_title": "Nash: defective RSPCA animal cruelty summons and Crown Court appeal",
+      "area_of_law": [
+        "Criminal law",
+        "Animal welfare",
+        "Magistrates' courts",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Protection of Animals Act 1911",
+          "provisions": [
+            "section 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Elsie Nash was convicted of causing unnecessary suffering to 75 domestic cats at her Sutton and Erdington Cat Rescue home.",
+        "RSPCA inspectors removed 74 live cats and mummified remains of a fifth; conditions included ammonia from urine affecting cats with respiratory disease.",
+        "On Crown Court appeal, duplicity and lack of particularity in the summons were argued; prosecution confined its case to inappropriate housing conditions.",
+        "The Crown Court dismissed the appeal after finding several housing-related allegations proved; Nash received a conditional discharge limiting future cat numbers."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Birmingham Crown Court to the High Court.",
+      "outcome": "Appeal dismissed; the summons was defective for lack of particularity but the defect was cured by information given before trial and appeal; Crown Court findings on proved conduct were upheld.",
+      "ratio": "A Protection of Animals Act summons must identify the act or omission alleged to cause unnecessary suffering; vague wording is defective but curable if the defendant receives reasonable information to meet the case; identified conduct causing suffering to multiple animals may be charged in a single summons without duplicity per cat.",
+      "legal_issues": [
+        "Whether the information afforded reasonable particulars of the charge",
+        "Whether lack of particularity rendered the information a nullity or only required further particulars",
+        "Whether Crown Court findings on ammonia and housing conditions exceeded the prosecution case after duplicity concession",
+        "Whether separate summonses were required for conduct affecting specific cats only"
+      ],
+      "catchwords": [
+        "unnecessary suffering",
+        "Protection of Animals Act 1911",
+        "summons particularity",
+        "duplicity",
+        "RSPCA prosecution",
+        "case stated"
+      ],
+      "index_terms": [
+        "Magistrates' Courts Rules 1981 rule 100",
+        "cat rescue",
+        "Crown Court appeal",
+        "conditional discharge",
+        "ammonia irritation",
+        "rabbit hutches"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory construction, case stated questions and answers are clearly recorded."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/142.json",
+    "status": "done",
+    "notes": "Landmark burden-of-proof guidance in direct discrimination appeals; revised Barton guidance annexed.",
+    "enrichment": {
+      "short_title": "Igen v Wong: burden of proof in direct discrimination claims",
+      "area_of_law": [
+        "Employment law",
+        "Discrimination law",
+        "European Union law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Sex Discrimination Act 1975",
+          "provisions": [
+            "section 63A"
+          ]
+        },
+        {
+          "title": "Race Relations Act 1976",
+          "provisions": [
+            "section 54A"
+          ]
+        },
+        {
+          "title": "Disability Discrimination Act 1995",
+          "provisions": [
+            "section 17A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Three appeals raised interpretation of new burden-of-proof provisions in sex, race and disability discrimination legislation.",
+        "In Wong v Igen Ltd, an Afro-Caribbean employee's race discrimination claim over disciplinary proceedings succeeded before the employment tribunal.",
+        "In Emokpae v Chamberlin Solicitors, dismissal because of rumours of a relationship with a male manager was held not sex discrimination.",
+        "In Webster v Brunel University, the EAT had wrongly held the claimant need only prove the employer could have committed discriminatory acts."
+      ],
+      "procedural_posture": "Consolidated Court of Appeal appeals from the Employment Appeal Tribunal on section 63A/54A burden-of-proof provisions.",
+      "outcome": "Igen/Wong appeal dismissed; Emokpae and Webster appeals allowed with tribunal decisions set aside; revised Barton guidance approved in the annex.",
+      "ratio": "The statutory amendments shifted the evidential burden at a two-stage process: the claimant must prove facts from which the tribunal could conclude unlawful discrimination in the absence of an adequate explanation, assuming no adequate explanation at stage one; the respondent must then prove the act was not committed or was not on the prohibited ground; 'could' does not mean the claimant need only show the respondent could have committed the act.",
+      "legal_issues": [
+        "Whether section 63A codified or altered pre-King v Great Britain-China Centre law on direct discrimination",
+        "Whether respondent explanations may be considered at the first stage",
+        "Construction of 'could' and whether the claimant must prove the respondent committed the discriminatory act",
+        "Appropriate comparator analysis and revision of Barton guidance paragraph 10"
+      ],
+      "catchwords": [
+        "burden of proof",
+        "direct discrimination",
+        "section 63A",
+        "section 54A",
+        "Barton guidance",
+        "less favourable treatment"
+      ],
+      "index_terms": [
+        "Burden of Proof Directive 97/80/EC",
+        "Race Directive 2000/43/EC",
+        "employment tribunal two-stage test",
+        "hypothetical comparator",
+        "King v Great Britain-China Centre",
+        "Nagarajan"
+      ],
+      "linked_authorities": [
+        "King v Great Britain-China Centre [1992] ICR 516",
+        "Barton v Investec Securities Ltd [2003] ICR 1205",
+        "Webster v Brunel University",
+        "Martin v Lancehawk Ltd",
+        "Nagarajan v London Regional Transport [2000] 1 AC 501"
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Authoritative guidance on statutory construction and outcomes in all three appeals are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/20.json",
+    "status": "done",
+    "notes": "Extensive airports White Paper judicial review; partial success on Stansted and Luton process grounds only.",
+    "enrichment": {
+      "short_title": "Wandsworth v SoS: judicial review of Future of Air Transport White Paper",
+      "area_of_law": [
+        "Planning law",
+        "Transport law",
+        "Administrative law",
+        "Judicial review",
+        "Environmental law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Local authorities and residents challenged Chapter 11 of the December 2003 White Paper on South East airport expansion.",
+        "Policies included a first new runway at Stansted around 2011-2012, endorsement of a wide-spaced Stansted runway option, and Luton runway extension support.",
+        "Claimants alleged unfair consultation, irrational commercial viability analysis and unlawful support for options not consulted upon.",
+        "The court held the overall SERAS consultation process was lawful but identified limited unfairness on Stansted runway specification and Luton extension."
+      ],
+      "procedural_posture": "Two linked judicial review applications challenging airport policy in the Future of Air Transport White Paper.",
+      "outcome": "Challenges succeeded only on Stansted and Luton process grounds; Heathrow and commercial viability challenges failed; relief was declaratory rather than quashing Chapter 11.",
+      "ratio": "White Paper airport policies are amenable to judicial review but political and economic planning judgments attract a heavy irrationality threshold; prescriptive endorsement of the wide-spaced Stansted runway option and implied policy support for an unconsulted Luton runway extension were procedurally unfair, though quashing the whole chapter would be disproportionate.",
+      "legal_issues": [
+        "Amenability of White Paper policies to judicial review",
+        "Fairness of consultation on Stansted runway options and SERAS Stage Two",
+        "Rationality of commercial viability conclusions for a Stansted first runway",
+        "Whether Luton runway extension could receive policy support without consultation"
+      ],
+      "catchwords": [
+        "Future of Air Transport",
+        "airport expansion",
+        "judicial review",
+        "Stansted runway",
+        "consultation fairness",
+        "commercial viability"
+      ],
+      "index_terms": [
+        "SERAS",
+        "Chapter 11 White Paper",
+        "LLAOL",
+        "PPG 6",
+        "RPG North West",
+        "South East airports policy"
+      ],
+      "linked_authorities": [
+        "Tesco Stores v Secretary of State for the Environment [1995] 1 WLR 759",
+        "South Bucks DC v Porter (No 2) [2004] 1 WLR 1953",
+        "R (Javed) v Secretary of State for the Home Department [2001] EWCA Civ 789"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Very long judgment but overall conclusions and limited relief are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/208.json",
+    "status": "done",
+    "notes": "IKEA Stockport planning s.288 challenge comprehensively dismissed by Elias J.",
+    "enrichment": {
+      "short_title": "IKEA v SoS: challenge to refusal of Stockport out-of-town store",
+      "area_of_law": [
+        "Planning law",
+        "Retail development",
+        "Administrative law",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "IKEA sought permission for a 28,000 sq.m store on the former Thomas Storey site in Stockport after a long call-in inquiry process.",
+        "A first inspector recommended approval; the Secretary of State refused, was quashed on decision-letter errors, and after a reopened inquiry refused again following a second inspector's recommendation.",
+        "The Secretary of State found the store would draw customers beyond the Stockport sub-region, making IKEA's sequential site search inadequate.",
+        "Benefits including regeneration were outweighed by conflicts with the adopted UDP and PPG 6 sequential approach."
+      ],
+      "procedural_posture": "Section 288 statutory challenge to the Secretary of State's refusal of planning permission after reopened public inquiry.",
+      "outcome": "Challenge dismissed; the Secretary of State's refusal and reasoning on catchment area, sequential analysis and development plan compliance were upheld.",
+      "ratio": "Catchment area determines need and sequential analysis under PPG 6 and the McNulty statement; where a proposed store would serve a wider market than claimed, limiting the sequential search to Stockport town centre is inadequate; reasons challenges succeed only if the decision letter leaves a genuine doubt as to what was decided and why.",
+      "legal_issues": [
+        "Whether the Secretary of State adequately addressed the first inspector's report",
+        "Correct catchment area and sub-regional versus regional classification of the proposal",
+        "Adequacy of IKEA's sequential site analysis and flexibility on scale and design",
+        "Weight given to linked trips, reduced car mileage and UDP versus emerging plan policies"
+      ],
+      "catchwords": [
+        "out-of-town retail",
+        "sequential test",
+        "catchment area",
+        "section 288",
+        "UDP policy US3",
+        "planning reasons"
+      ],
+      "index_terms": [
+        "Stockport MBC",
+        "Thomas Storey site",
+        "McNulty statement",
+        "PPG 6",
+        "linked trips",
+        "Tiviot Way"
+      ],
+      "linked_authorities": [
+        "Tesco Stores v Secretary of State for the Environment [1995] 1 WLR 759",
+        "South Bucks DC v Porter (No 2) [2004] 1 WLR 1953",
+        "Clarke Homes v Secretary of State for the Environment (1993) 66 P&CR 263"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Multiple grounds considered and dismissed with detailed reasoning on catchment and sequential issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/179.json",
+    "status": "done",
+    "notes": "Mannai break-clause notice appeal; Master Moncaster's decision upheld on appeal.",
+    "enrichment": {
+      "short_title": "Peer Freeholds v Clean Wash: Mannai break notice with wrong date",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Commercial property",
+        "Contract law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Clean Wash held a six-year lease of business premises in Thetford with a tenant break option at the end of the third year of the term (7 November 2004).",
+        "The tenant's 5 January 2004 notice stated an intention to exercise the break on 22 August 2004, coinciding with a rent review date but not the permitted break date.",
+        "The landlord declined to accept the notice as valid; the tenant vacated and litigation followed on whether the lease ended.",
+        "Master Moncaster held the notice effective despite the wrong date; the landlord appealed."
+      ],
+      "procedural_posture": "Appeal from Master Moncaster's decision refusing summary judgment and striking out the landlord's claim.",
+      "outcome": "Appeal dismissed; the break notice was valid and the lease terminated on 7 November 2004, the only date permitted by clause 6.8.",
+      "ratio": "A break notice with a wrong termination date may be valid under Mannai if a reasonable recipient with knowledge of the lease would be left in no reasonable doubt that the tenant intended to exercise the break at the permitted date; reference to 22 August explained the mistake rather than creating genuine ambiguity.",
+      "legal_issues": [
+        "Construction of tenant break notice under clause 6.8 of the underlease",
+        "Application of Mannai and Garston principles to mistaken break dates",
+        "Whether a reasonable landlord could think the tenant only wanted to break on the rent review date",
+        "Objective interpretation of unilateral contractual notices"
+      ],
+      "catchwords": [
+        "break clause",
+        "Mannai notice",
+        "lease termination",
+        "wrong date",
+        "reasonable recipient",
+        "surrender by notice"
+      ],
+      "index_terms": [
+        "Thetford",
+        "tenant break option",
+        "Garston v Scottish Widows",
+        "Delta Vale Properties v Mills",
+        "rent review date",
+        "third year of term"
+      ],
+      "linked_authorities": [
+        "Mannai Investment Co Ltd v Eagle Star Life Assurance Co Ltd [1997] AC 749",
+        "Garston v Scottish Widows Fund [1998] 1 WLR 1583",
+        "Fernandez v McDonald [2004] 1 WLR 1027"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Clear application of established Mannai principles to agreed lease construction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/392.json",
+    "status": "done",
+    "notes": "Life sentence appeal; psychiatric evidence dispute resolved in favour of sentencing judge.",
+    "enrichment": {
+      "short_title": "R v R: life sentence rather than Hospital Order for rape",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Mental health law",
+        "Public protection"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 37",
+            "section 41",
+            "section 48"
+          ]
+        }
+      ],
+      "key_facts": [
+        "S.R. pleaded guilty to rape of a stranger at a bus stop and attempted kidnapping of a 14-year-old girl the same day.",
+        "He used a stun gun and cosh, caused severe physical and psychological harm, and had a history of violence and schizophrenia with intermittent hospital admissions.",
+        "The sentencing judge imposed life imprisonment with a seven-year minimum term rather than a section 37/41 Hospital Order.",
+        "Psychiatrists disagreed whether paranoid schizophrenia made hospital disposal more suitable than prison."
+      ],
+      "procedural_posture": "Court of Appeal criminal appeal against life sentence and minimum term by leave of the single judge.",
+      "outcome": "Appeal dismissed; the judge was entitled to prefer Dr Browne's view that the appellant was faking symptoms and to impose life imprisonment for public protection.",
+      "ratio": "Where consultant psychiatrists disagree on suitability of a Hospital Order under section 37, the sentencing judge who heard oral evidence is entitled to prefer one opinion; unanimous medical opinion and bed availability in Howell do not apply; prison transfer to hospital remains available under section 48 if needed.",
+      "legal_issues": [
+        "Whether a Hospital Order with restriction under sections 37 and 41 was the appropriate disposal",
+        "Whether the judge erred in preferring prosecution psychiatric evidence over treating psychiatrist Dr Sarkar",
+        "Assessment of dangerousness and risk to women following rape and attempted kidnapping",
+        "Application of R v Howell where medical opinions are not unanimous"
+      ],
+      "catchwords": [
+        "life imprisonment",
+        "Hospital Order",
+        "section 37",
+        "paranoid schizophrenia",
+        "public protection",
+        "rape sentencing"
+      ],
+      "index_terms": [
+        "Shaftesbury Clinic",
+        "stun gun",
+        "minimum term",
+        "Dr Browne",
+        "section 48 transfer",
+        "attempted kidnapping"
+      ],
+      "linked_authorities": [
+        "R v Howell (7 Cr App R(S) 360)"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Single issue appeal with clear appellate endorsement of the judge's psychiatric findings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/208.json",
+    "status": "done",
+    "notes": "Surrender by operation of law appeal; landlord omissions insufficient for implied surrender.",
+    "enrichment": {
+      "short_title": "Bellcourt v Adesina: rent arrears after alleged tenancy surrender",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Property law",
+        "Contract law",
+        "Debt recovery"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mrs Adesina took a lease of dilapidated Plumstead High Street premises in August 2000 but paid no rent and only half the deposit.",
+        "She left in November 2000 after complaining of misrepresentation; the landlord did not demand December quarter rent or seek re-entry until forfeiture in November 2001.",
+        "The trial judge held conduct of both parties showed surrender by operation of law around mid-December 2000.",
+        "The landlord appealed, arguing mere omission to demand rent could not amount to acceptance of surrender."
+      ],
+      "procedural_posture": "Court of Appeal appeal from county court judgment limiting rent arrears to one quarter after implied surrender.",
+      "outcome": "Appeal allowed; no surrender by operation of law was established; the landlord remained entitled to arrears accruing until forfeiture on 12 November 2001.",
+      "ratio": "Surrender by operation of law requires unequivocal conduct by both parties inconsistent with the tenancy continuing; tenant abandonment and landlord silence, including failure to demand rent, are insufficient; telling the council the tenant remained liable for rates is inconsistent with accepted surrender.",
+      "legal_issues": [
+        "Whether tenant departure and landlord inaction constituted surrender by operation of law",
+        "Whether Brent v Sharma and Vyas supported implied surrender on similar facts",
+        "Onus on tenant to prove lease termination when disputing rent liability",
+        "Whether acts of omission alone can be unequivocal landlord acceptance of surrender"
+      ],
+      "catchwords": [
+        "surrender by operation of law",
+        "rent arrears",
+        "abandonment",
+        "forfeiture",
+        "unequivocal conduct",
+        "implied surrender"
+      ],
+      "index_terms": [
+        "Plumstead High Street",
+        "Mr Teitelbaum",
+        "quarter day rent",
+        "business rates",
+        "Relvok Properties v Dixon",
+        "Preston Borough Council v Fairclough"
+      ],
+      "linked_authorities": [
+        "London Borough of Brent v Sharma and Vyas (1995) 25 HLR 257",
+        "Preston Borough Council v Fairclough (1982) 8 HLR 70",
+        "Relvok Properties Ltd v Dixon (1973) 25 P&CR 1",
+        "Barrett v Morgan [2000] 2 AC 264",
+        "Tarjomani v Panther Securities Ltd (1983) 46 P&CR 32"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Central legal issue and reversal of the trial judge are clearly reasoned with authority analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/172.json",
+    "status": "done",
+    "notes": "Post-judgment costs and permission order in OBG receivers case; procedural but complete.",
+    "enrichment": {
+      "short_title": "OBG v Allan: costs and permission after receivers judgment",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Torts",
+        "Commercial law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Following the Court of Appeal's substantive judgment in OBG Ltd v Allan on receivers' liability, further issues arose as to form of order and costs.",
+        "Damages were agreed at £244,000 plus interest of £140,527.02, replacing the trial judge's higher figure.",
+        "The court ordered OBG to pay 80% of receivers' appeal and cross-appeal costs in the Court of Appeal, with costs below remitted to the trial judge.",
+        "Permission to appeal to the House of Lords was refused, leaving important issues for possible further appeal."
+      ],
+      "procedural_posture": "Post-judgment hearing in the Court of Appeal on order form, costs and permission to appeal after OBG v Allan.",
+      "outcome": "Agreed damages and interest substituted; OBG to pay 80% of appellate costs; below-trial costs remitted to the judge; permission to appeal refused.",
+      "ratio": "Where a party succeeds on the bulk of appellate issues, an 80% costs order against the unsuccessful party is appropriate; costs below should reflect the court's substantive judgments and be determined by the trial judge unless agreed.",
+      "legal_issues": [
+        "Form of order reflecting agreed quantum and interest after appellate decision",
+        "Apportionment of Court of Appeal costs between successful appellants and partial winners",
+        "Whether permission to appeal should be granted on receivers' tort issues",
+        "Allocation of costs below pending fresh costs determination"
+      ],
+      "catchwords": [
+        "costs order",
+        "permission to appeal",
+        "receivers",
+        "OBG v Allan",
+        "damages assessment",
+        "cross-appeal"
+      ],
+      "index_terms": [
+        "Bellcourt Estates",
+        "indemnity costs argument",
+        "Part 36 offer",
+        "interest above base rate",
+        "House of Lords permission",
+        "proviso of order"
+      ],
+      "linked_authorities": [
+        "OBG Ltd v Allan"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Procedural follow-up only but orders and reasoning on costs split are explicit; substantive tort issues are in the main judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/468.json",
+    "status": "done",
+    "notes": "Attorney General reference; unduly lenient snooker club robbery sentences increased.",
+    "enrichment": {
+      "short_title": "AG Ref: unduly lenient armed snooker club robbery sentences",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Robbery",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Three young offenders robbed a Deptford snooker club at night using a stun gun and cosh after waiting until only one staff member remained.",
+        "Victim Mr Yaldiz was repeatedly stunned, beaten and kicked; CCTV tapes were stolen; about £1,600 was taken.",
+        "Dervishi and Sejdial pleaded guilty on the day of trial; Kalemi was convicted after trial; sentences ranged from four to five-and-a-half years.",
+        "The victim suffered lasting psychological harm including depression and inability to work."
+      ],
+      "procedural_posture": "Attorney General's reference under section 36 of the Criminal Justice Act 1988 alleging unduly lenient sentences.",
+      "outcome": "Reference upheld; sentences quashed and replaced with 7 years' detention for Dervishi and Sejdial and 8 years for Kalemi, reflecting double jeopardy reduction from expected post-trial levels.",
+      "ratio": "Carefully planned night-time robbery of vulnerable premises with weapons and gratuitous violence against an incapacitated victim warrants substantially higher youth custody than four to five-and-a-half years; troubled Kosovo backgrounds explain conduct but do not significantly mitigate serious joint enterprise robbery.",
+      "legal_issues": [
+        "Whether four to five-and-a-half year terms were unduly lenient for armed robbery with stun gun and cosh",
+        "Appropriate starting points after late guilty pleas versus trial conviction",
+        "Weight of aggravating features including planning, weapons and psychological harm",
+        "Mitigation from age, late pleas and difficult personal histories"
+      ],
+      "catchwords": [
+        "unduly lenient sentence",
+        "section 36 reference",
+        "armed robbery",
+        "stun gun",
+        "young offender institution",
+        "snooker club"
+      ],
+      "index_terms": [
+        "Shades Snooker Club",
+        "Deptford",
+        "Dervishi",
+        "Sejdial",
+        "Kalemi",
+        "double jeopardy",
+        "Attorney General's Reference"
+      ],
+      "linked_authorities": [
+        "Attorney-General's Reference No 29 of 1995 (R v Mighty)",
+        "R v Evans [2001] 1 Cr App R(S) 454",
+        "R v Hooley [2001] 2 Cr App R(S) 105"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Facts, aggravating features and substituted sentences are fully set out."
+      }
+    }
+  }
+]

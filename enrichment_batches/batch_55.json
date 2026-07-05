@@ -1,0 +1,784 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/902.json",
+    "status": "done",
+    "notes": "Batch 55 enrichment",
+    "enrichment": {
+      "short_title": "Section 73 time extension and section 106 bargain",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 73",
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Kebbell Development acquired land subject to outline permission and a section 106 agreement transferring land to Harrogate Borough Council for £1, with conditions requiring reserved matters approval by March 2001.",
+        "No reserved matters application was made in time; after expiry the claimants applied under section 73 to extend time, but the council and Inspector refused having regard to changed planning policy.",
+        "The claimants argued the Inspector failed to weigh continuing owner obligations under the section 106 agreement, including drainage works, against policy changes.",
+        "Sir Richard Tucker quashed the Inspector's decision for inadequate consideration of those continuing obligations and granted permission to appeal."
+      ],
+      "procedural_posture": "Judicial review under section 288 of the Town and Country Planning Act 1990 of an Inspector's dismissal of a section 73 appeal against refusal to extend time for reserved matters.",
+      "outcome": "Inspector's decision quashed; claimants awarded costs (reduced by £2,000); permission to appeal granted.",
+      "ratio": "On a section 73 application to extend time for reserved matters, an Inspector must give proper weight to material considerations arising from a section 106 agreement, including continuing obligations on the landowner; failure to consider continuing drainage obligations when balancing policy change against the parties' bargain renders the decision flawed.",
+      "legal_issues": [
+        "Whether the Inspector lawfully balanced changed planning policy against section 106 obligations",
+        "Materiality of continuing drainage obligations under the agreement",
+        "Whether legitimate expectation or bargain considerations affect section 73 discretion",
+        "Costs of dual counsel on a half-day hearing"
+      ],
+      "catchwords": [
+        "section 73",
+        "section 106",
+        "reserved matters",
+        "time extension",
+        "planning permission",
+        "legitimate expectation",
+        "section 288"
+      ],
+      "index_terms": [
+        "Kebbell Development",
+        "Harrogate Borough Council",
+        "Bishop Monkton",
+        "outline planning permission",
+        "planning inspector",
+        "drainage works"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Leicester City Council ex parte Powergen United Kingdom Ltd",
+          "citation": "81 POCR 47",
+          "relation": "cited"
+        },
+        {
+          "name": "Pye v Secretary of State for the Environment",
+          "citation": "[1998] 3 PLR 72",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Full judgment on section 73/106 interaction with clear quashing decision; metadata lists incorrect judge."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/383.json",
+    "status": "done",
+    "notes": "Batch 55 enrichment",
+    "enrichment": {
+      "short_title": "Part 36.21 interest date and costs interest",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": [
+            "CPR 36.21",
+            "CPR 40.8",
+            "CPR 44.3(c)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "After the main appeal in abuse claims against Bryn Alyn insurers, Connell J applied CPR 36.21 where claimants beat Part 36 offers, ordering 8% over base rate interest on damages and indemnity costs but refusing interest on costs.",
+        "The parties agreed to vary the interest period but disputed whether 'judgment' meant the trial judge's date or the Court of Appeal judgment date.",
+        "The Court of Appeal held Part 36 at trial and on appeal are separate proceedings; pre-trial offers cannot extend Part 36 protection to appeal costs.",
+        "Interest on indemnity costs was re-exercised at 4% over base from when work was done to the judge's order date."
+      ],
+      "procedural_posture": "Reserved judgment of the Court of Appeal on Part 36.21 consequences following the main appeal in group litigation against second-defendant insurers.",
+      "outcome": "Second defendants succeeded on the judgment-date point; claimants succeeded on interest on indemnity costs; costs ordered to reflect split outcome.",
+      "ratio": "Where a first-instance order under CPR 36.21(2) awards interest on damages to the date of judgment, that date is the trial judge's judgment; Part 36 machinery does not apply on appeal unless a fresh Part 36 offer is made in the appeal, and interest on indemnity costs under 36.21(3)(b) should generally run at about 4% over base from when work was done to judgment.",
+      "legal_issues": [
+        "Correct end date for Part 36.21(2) interest on damages",
+        "Whether pre-trial Part 36 offers protect against appeal costs",
+        "Whether compromise precluded challenge to refusal of interest on costs",
+        "Appropriate rate and period for interest on indemnity costs in publicly funded litigation"
+      ],
+      "catchwords": [
+        "Part 36",
+        "CPR 36.21",
+        "indemnity costs",
+        "interest on costs",
+        "interest on damages",
+        "judgment date",
+        "appeal costs"
+      ],
+      "index_terms": [
+        "Rowlands",
+        "Bryn Alyn",
+        "Connell J",
+        "P&O Nedlloyd",
+        "McPhilemy",
+        "Petrotrade"
+      ],
+      "linked_authorities": [
+        {
+          "name": "P&O Nedlloyd BV and Utaniko Ltd",
+          "citation": "[2003] EWCA Civ 174",
+          "relation": "applied"
+        },
+        {
+          "name": "McPhilemy v Times Newspapers Ltd (No 2)",
+          "citation": "[2002] 1 WLR 934",
+          "relation": "applied"
+        },
+        {
+          "name": "Hunt v RM Douglas (Roofing) Ltd",
+          "citation": "[1990] 1 AC 398",
+          "relation": "cited"
+        },
+        {
+          "name": "Petrotrade Inc v Texaco Ltd",
+          "citation": null,
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed reserved judgment on discrete Part 36 issues with clear orders."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/521.json",
+    "status": "done",
+    "notes": "Batch 55 enrichment",
+    "enrichment": {
+      "short_title": "Unfair dismissal for letter about suspended nurse",
+      "area_of_law": [
+        "Employment law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 98"
+          ]
+        },
+        {
+          "title": "Public Interest Disclosure Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Dr Meizoso-Gonzalez, an NHS psychologist, wrote a confidential letter to a parent praising a suspended nurse under media scrutiny and offering undisclosed evidence of wrongful accusation.",
+        "The Trust suspended and summarily dismissed him for gross misconduct, including breach of confidentiality and lack of qualifications.",
+        "The Employment Tribunal found the principal reason was sending the letter and that dismissal was within the range of reasonable responses, though not a breach of the patient-confidentiality contract term.",
+        "The EAT dismissed his appeal; the Court of Appeal held the Tribunal's stated reason aligned with the employer's."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal with permission of Sedley LJ against an Employment Appeal Tribunal order dismissing an unfair-dismissal appeal at a preliminary hearing.",
+      "outcome": "Appeal dismissed with costs.",
+      "ratio": "Under section 98 ERA 1996 the employer must prove the reason or principal reason for dismissal; where the disciplinary manager treated the letter as serious misconduct for making grave accusations about colleagues to an outsider, the Tribunal may lawfully find that reason even if labels such as 'breach of confidentiality' were imprecise, provided it reflects the employer's actual reason.",
+      "legal_issues": [
+        "Whether the Tribunal substituted its own reason for dismissal",
+        "Principal reason for dismissal under section 98(1) ERA 1996",
+        "Whether writing the letter amounted to breach of contractual confidentiality",
+        "Applicability of the Public Interest Disclosure Act 1998",
+        "Band of reasonable responses on conduct dismissal"
+      ],
+      "catchwords": [
+        "unfair dismissal",
+        "gross misconduct",
+        "confidentiality",
+        "Employment Rights Act 1996",
+        "Burchell",
+        "NHS Trust",
+        "whistleblowing"
+      ],
+      "index_terms": [
+        "Meizoso-Gonzalez",
+        "South East Essex Mental Health",
+        "clinical psychologist",
+        "disciplinary hearing",
+        "Employment Tribunal",
+        "summary dismissal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "British Home Stores v Burchell",
+          "citation": "[1978] IRLR 379",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment on reason-for-dismissal analysis with clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/791.json",
+    "status": "done",
+    "notes": "Batch 55 enrichment",
+    "enrichment": {
+      "short_title": "Asylum certification under Schedule 4 paragraph 9",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "Schedule 4, paragraph 9"
+          ]
+        },
+        {
+          "title": "Immigration & Asylum Appeals (Procedure) Rules 2000",
+          "provisions": [
+            "rule 18(7)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Feruzi, a Congolese asylum seeker, claimed persecution linked to Rwandan appearance and alleged work for Colonel Kabango; the Secretary of State certified the claim under paragraph 9(4)(a).",
+        "The adjudicator upheld the certificate and rejected the account as incredible, but did not separately address torture under paragraph 9(7).",
+        "Maurice Kay J held the adjudicator erred on paragraph 9(4)(a) because the claim materials on their face showed Convention-ground persecution, regardless of credibility findings.",
+        "Relief was not refused as discretionary: a failed-asylum-seeker risk issue gave a real prospect of success before the IAT."
+      ],
+      "procedural_posture": "Judicial review of an adjudicator's upholding of a paragraph 9 Schedule 4 certificate removing rights of appeal to the Immigration Appeal Tribunal.",
+      "outcome": "Upholding of the certificate quashed; adjudicator's substantive determination not quashed; claimant's costs limited from the hearing before Dyson LJ.",
+      "ratio": "For paragraph 9(4)(a) certification the test is what the claim shows on the face of the material submitted, not the adjudicator's credibility conclusions; where certification is legally flawed, relief should not be refused unless it is plain and obvious that any IAT appeal would fail.",
+      "legal_issues": [
+        "Construction of paragraph 9(4)(a) 'shows a fear of persecution'",
+        "Whether paragraph 9(7) torture threshold was addressed",
+        "Discretion to refuse relief despite flawed certification",
+        "Risk to failed asylum seekers on return to DRC"
+      ],
+      "catchwords": [
+        "asylum certification",
+        "Schedule 4 paragraph 9",
+        "Refugee Convention",
+        "judicial review",
+        "credibility",
+        "plain and obvious case",
+        "IAT leave"
+      ],
+      "index_terms": [
+        "Feruzi",
+        "Democratic Republic of Congo",
+        "Colonel Kabango",
+        "Gavira",
+        "Atabaky",
+        "failed asylum seeker"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (Gavira) v Secretary of State for the Home Department",
+          "citation": null,
+          "relation": "applied"
+        },
+        {
+          "name": "R (Atabaky) v Secretary of State for the Home Department",
+          "citation": "[2002] EWCA Civ 234",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Secretary of State for the Home Department, ex parte Sarbjit Singh",
+          "citation": "[1999] INLR 632",
+          "relation": "cited"
+        },
+        {
+          "name": "Jayachandran v Secretary of State for the Home Department",
+          "citation": "[2002] UKIAT 01869",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed administrative judgment on certification law with clear quashing limited to certificate."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/593.json",
+    "status": "done",
+    "notes": "Batch 55 enrichment",
+    "enrichment": {
+      "short_title": "Contempt appeal on missed evidential opportunities",
+      "area_of_law": [
+        "Family law",
+        "Contempt of court",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Ian Evans was committed for six weeks for breaching an injunction by posting an obscene video through Diane Evans's letterbox to cause distress.",
+        "On appeal he argued trial counsel missed opportunities to explain a false engagement affidavit and to cross-examine on inconsistent paternity statements.",
+        "The judge had focused on witness credibility and a midnight alibi, not merely the subsidiary credit point.",
+        "Thorpe and Sedley LJJ dismissed the appeal, finding no catastrophic departure from instructions warranting setting aside the committal."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against committal for contempt following a without-notice directions hearing on timeliness of the notice.",
+      "outcome": "Appeal dismissed; no order for costs save detailed assessment of the applicant's publicly funded costs.",
+      "ratio": "An appeal against committal based on counsel's tactical litigation choices fails unless there is an explicable and catastrophic departure from instructions akin to R v Clinton; hindsight disagreement with counsel's judgment on evidence and cross-examination is insufficient to reopen a committal founded on the trial judge's assessment of witness credibility.",
+      "legal_issues": [
+        "Whether committal should be set aside for counsel's missed evidential opportunities",
+        "Application of R v Clinton to civil contempt proceedings",
+        "Relevance of Ladd v Marshall where no new evidence emerged",
+        "Whether further adjournment was required to avoid injustice"
+      ],
+      "catchwords": [
+        "contempt of court",
+        "committal",
+        "injunction breach",
+        "counsel's conduct",
+        "missed opportunity",
+        "Ladd v Marshall",
+        "credit"
+      ],
+      "index_terms": [
+        "Evans v Evans",
+        "Chester County Court",
+        "non-molestation",
+        "quasi-criminal",
+        "alibi",
+        "witness credibility"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Clinton",
+          "citation": "[1993] 1 WLR 1181",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Ladd v Marshall",
+          "citation": null,
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Short procedural/contempt judgment with clear dismissal; summary truncated in source metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/605.json",
+    "status": "done",
+    "notes": "Batch 55 enrichment",
+    "enrichment": {
+      "short_title": "Letter of intent as acceptance for slab contract",
+      "area_of_law": [
+        "Construction law",
+        "Contract law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Twintec quoted £637,897.46 to GSE for external concrete slab work at a B&Q site; after a 2 August 2001 meeting Parker chose a fixed-price lump sum and GSE sent a 13 August 'letter of intent'.",
+        "Twintec performed design work and mobilised; GSE later engaged Isotec, formed by Twintec's former commercial director David Martin, to do the work instead.",
+        "GSE conceded repudiation if a binding contract existed; the court found Parker and Martin agreed essential terms at the August meeting.",
+        "The letter of intent, despite its label, amounted to acceptance of Twintec's modified offer on a fixed-price, all-risks basis."
+      ],
+      "procedural_posture": "Technology and Construction Court trial of liability only on whether a binding subcontract was formed in August 2001, with quantum meruit fallback agreed.",
+      "outcome": "Twintec succeeded on liability; binding contract found at latest on 13 August 2001.",
+      "ratio": "A letter described as a letter of intent may constitute contractual acceptance where parties have agreed price, scope and risk allocation at prior meetings and proceed on that basis; retention and credit insurance were not material terms preventing contract formation once a fixed lump sum and all-risks basis were chosen.",
+      "legal_issues": [
+        "Whether GSE's 13 August 2001 letter amounted to acceptance",
+        "Effect of 2 August meeting modifying Twintec's 31 July quotation",
+        "Whether unresolved retention and credit insurance prevented contract formation",
+        "Legal effect of 'letter of intent' labels in construction contracts"
+      ],
+      "catchwords": [
+        "letter of intent",
+        "construction contract",
+        "offer and acceptance",
+        "lump sum",
+        "subcontract",
+        "repudiation",
+        "quantum meruit"
+      ],
+      "index_terms": [
+        "Twintec",
+        "GSE Building and Civil Engineering",
+        "B&Q Belvedere",
+        "concrete flooring",
+        "Isotec",
+        "David Martin"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Chitty on Contracts",
+          "citation": null,
+          "relation": "cited"
+        },
+        {
+          "name": "Hudson's Building and Engineering Contracts",
+          "citation": null,
+          "relation": "cited"
+        },
+        {
+          "name": "Keating on Building Contracts",
+          "citation": null,
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long liability judgment with detailed findings on contract formation and clear conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/392.json",
+    "status": "done",
+    "notes": "Batch 55 enrichment",
+    "enrichment": {
+      "short_title": "Registration of US external confiscation order",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation",
+        "International enforcement",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 97"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6",
+            "Protocol 1 Article 1"
+          ]
+        },
+        {
+          "title": "Racketeer Influenced and Corrupt Organisations Act",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The US sought registration in England of a November 1995 forfeiture order for US$7,876,207.60 against Kathleen Montgomery relating to fraud proceeds linked to Larry Barnette's government laundry contracts.",
+        "Mrs Montgomery, resident in England, was held in contempt for failing to comply with US discovery orders regarding Old Dominion shares she received from Barnette.",
+        "The US Court of Appeals dismissed her appeal under the fugitive disentitlement doctrine because enforcement against her abroad was difficult.",
+        "Burnton J registered the order; the Court of Appeal held registration was not contrary to the interests of justice despite arguable Article 6 concerns."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against High Court registration of an external confiscation order under section 97 of the Criminal Justice Act 1988.",
+      "outcome": "Appeal dismissed; registration upheld.",
+      "ratio": "Registration of a foreign confiscation order under section 97(1)(c) turns on English notions of the interests of justice, with comity favouring enforcement against crime proceeds; application of the US fugitive disentitlement doctrine to a non-party who aided concealment of forfeited property does not necessarily make registration unjust, especially where merits were largely determined at first instance.",
+      "legal_issues": [
+        "Whether registration would be contrary to the interests of justice",
+        "Relevance of Article 6 and Protocol 1 Article 1 via section 6 HRA 1998",
+        "Effect of the US fugitive disentitlement doctrine",
+        "Whether US proceedings were criminal for Article 6 purposes"
+      ],
+      "catchwords": [
+        "external confiscation order",
+        "section 97",
+        "fugitive disentitlement",
+        "forfeiture",
+        "international enforcement",
+        "interests of justice",
+        "Article 6"
+      ],
+      "index_terms": [
+        "Barnette",
+        "Montgomery",
+        "United States",
+        "Old Dominion",
+        "RICO",
+        "Florida District Court"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Government of United States of America v Montgomery",
+          "citation": "[2001] 1 WLR 196",
+          "relation": "applied"
+        },
+        {
+          "name": "Soering v United Kingdom",
+          "citation": "[1989] 11 EHRR 439",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Hadkinson v Hadkinson",
+          "citation": "[1952] P 288",
+          "relation": "cited"
+        },
+        {
+          "name": "Maronier v Larmer",
+          "citation": "[2002] EWCA Civ 774",
+          "relation": "cited"
+        },
+        {
+          "name": "Waite v Waite",
+          "citation": null,
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment by Lord Chief Justice on section 97 registration with detailed Soering analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/753.json",
+    "status": "done",
+    "notes": "Batch 55 enrichment",
+    "enrichment": {
+      "short_title": "Article 8 judicial review after Ullah",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 2",
+            "Article 3",
+            "Article 8"
+          ]
+        },
+        {
+          "title": "Immigration & Asylum Appeals (Procedure) Rules 2000",
+          "provisions": [
+            "rule 18(6)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Abad, an Iranian practising homosexual aged 24, claimed asylum fearing persecution and stoning if returned; the adjudicator rejected credibility and dismissed human rights grounds.",
+        "Article 8 was mentioned only alongside Articles 2 and 3 in grounds and witness statements, not as an independent claim.",
+        "Goldring J granted permission limited to the Article 8 ground; the IAT had refused leave to appeal.",
+        "Sir Richard Tucker refused judicial review, applying Ullah/Do that Articles other than 3 are not engaged on expulsion where anticipated treatment is insufficiently severe."
+      ],
+      "procedural_posture": "Judicial review of the Immigration Appeal Tribunal's refusal of leave to appeal from an adjudicator's dismissal of asylum and human rights claims, permission limited to Article 8.",
+      "outcome": "Application refused; publicly funded costs ordered.",
+      "ratio": "Following Ullah and Thi Lien Do, where removal is challenged solely on anticipated treatment in the receiving state that does not reach Article 3 severity, Article 8 is not engaged; moreover Article 8 was not independently raised before the adjudicator and there was no evidence of past Article 8 interference in Iran.",
+      "legal_issues": [
+        "Whether Article 8 was independently raised before the adjudicator",
+        "Application of Ullah to homosexuality asylum claims from Iran",
+        "Whether IAT erred in refusing leave on Article 8",
+        "Rule 18(6) limitation to grounds in the leave application"
+      ],
+      "catchwords": [
+        "Article 8",
+        "asylum",
+        "homosexuality",
+        "Iran",
+        "Ullah",
+        "expulsion",
+        "judicial review",
+        "IAT leave"
+      ],
+      "index_terms": [
+        "Abad",
+        "Immigration Appeal Tribunal",
+        "particular social group",
+        "Refugee Convention",
+        "Goldring J",
+        "exceptional leave"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ahsan Ullah v Special Adjudicator",
+          "citation": null,
+          "relation": "applied"
+        },
+        {
+          "name": "Thi Lien Do v Secretary of State for the Home Department",
+          "citation": null,
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Clear administrative judgment applying binding Court of Appeal authority; case name anonymised as Abad in citation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/447.json",
+    "status": "done",
+    "notes": "Batch 55 enrichment",
+    "enrichment": {
+      "short_title": "Late withdrawal of asylum permission application",
+      "area_of_law": [
+        "Civil procedure",
+        "Immigration and asylum"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": [
+            "CPR 1.3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Tasyurdu's renewed oral application for permission to appeal was listed before Sedley LJ after a paper refusal on 14 February 2003.",
+        "Counsel and solicitors concluded after further review that prospects were too poor to justify continued pursuit and decided on 4 March to withdraw.",
+        "The solicitor failed to notify the Civil Appeals Office until the morning of the hearing, after Sedley LJ had spent two hours preparing.",
+        "The court accepted the oversight was a one-off by a conscientious solicitor and confirmed LSC costs did not extend beyond the paper refusal."
+      ],
+      "procedural_posture": "Court-initiated hearing before the Master of the Rolls and Sedley LJ to investigate late withdrawal of a renewed permission application in asylum litigation.",
+      "outcome": "Apologies accepted; court emphasised duty under CPR 1.3 to notify promptly when a listed hearing will not proceed.",
+      "ratio": "Parties and their lawyers owe a duty under CPR 1.3 to inform the Civil Appeals Office as soon as it is known that a listed application or appeal will not proceed, to avoid wasted judicial preparation; a late withdrawal without merit does not extend publicly funded costs beyond the point when pursuit was abandoned.",
+      "legal_issues": [
+        "Duty to notify court of withdrawal under CPR 1.3",
+        "Impact of late withdrawal on publicly funded costs",
+        "Appropriate use of court listing resources in immigration appeals"
+      ],
+      "catchwords": [
+        "permission to appeal",
+        "withdrawal",
+        "CPR 1.3",
+        "overriding objective",
+        "court notification",
+        "legal aid costs",
+        "immigration appeal"
+      ],
+      "index_terms": [
+        "Tasyurdu",
+        "Wilson and Co",
+        "Civil Appeals Office",
+        "renewed application",
+        "Turkey asylum",
+        "Sedley LJ"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Procedural judgment without substantive asylum merits determination; clear guidance on notification duties."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2003/551.json",
+    "status": "done",
+    "notes": "Batch 55 enrichment",
+    "enrichment": {
+      "short_title": "Article 8 fairness before care-plan removal",
+      "area_of_law": [
+        "Family law",
+        "Children law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 33",
+            "section 39"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6",
+            "section 7",
+            "section 8"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6",
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Four children under care orders were rehabilitated to their parents in 2000; in September 2002 Authority X decided at a Pre Admission Panel to remove them again without inviting the parents to that meeting.",
+        "Parents were told after the event; the authority failed to disclose panel minutes and social-work notes despite repeated requests.",
+        "Parents applied under section 39 Children Act 1989 and section 7 HRA 1998; before Munby J the authority agreed revised care plans continuing rehabilitation.",
+        "Munby J gave guidance that post-care-order removal decisions require Article 8 procedural fairness, parental involvement, and disclosure."
+      ],
+      "procedural_posture": "High Court hearing on parents' applications to discharge care orders and for HRA injunctions preventing removal; applications withdrawn after agreed care plans.",
+      "outcome": "Care plans approving continued rehabilitation approved; applications withdrawn with leave; judgment published for guidance on Article 8 procedural duties.",
+      "ratio": "After a final care order, a local authority exercising section 33 parental responsibility must involve parents fairly in decisions to remove children, including written reasons, opportunity to respond, attendance at critical meetings, and disclosure of key records; breach of Article 8 procedural requirements is unlawful under section 6 HRA 1998 and remediable by section 7 proceedings notwithstanding Re S limits on court supervision of care-plan implementation.",
+      "legal_issues": [
+        "Article 8 procedural requirements after final care orders",
+        "Local authority disclosure obligations in child protection",
+        "Whether courts may intervene under HRA section 7 post Re S",
+        "Fairness of Pre Admission Panel decisions excluding parents"
+      ],
+      "catchwords": [
+        "care order",
+        "Article 8",
+        "procedural fairness",
+        "parental involvement",
+        "local authority",
+        "disclosure",
+        "Re M",
+        "removal"
+      ],
+      "index_terms": [
+        "G v Local Authority",
+        "looked after children",
+        "Pre Admission Panel",
+        "section 39",
+        "Human Rights Act",
+        "rehabilitation"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re M (Care: Challenging Decisions by Local Authority)",
+          "citation": "[2001] 2 FLR 1300",
+          "relation": "applied"
+        },
+        {
+          "name": "In re S (Minors) (Care Order: Implementation of Care Plan)",
+          "citation": "[2002] UKHL 10",
+          "relation": "applied"
+        },
+        {
+          "name": "Re L (Care: Assessment: Fair Trial)",
+          "citation": "[2002] EWHC 1379 (Fam)",
+          "relation": "applied"
+        },
+        {
+          "name": "C v Bury Metropolitan Borough Council",
+          "citation": "[2002] EWHC 1438 (Fam)",
+          "relation": "cited"
+        },
+        {
+          "name": "McMichael v United Kingdom",
+          "citation": "(1995) 20 EHRR 205",
+          "relation": "cited"
+        },
+        {
+          "name": "W v United Kingdom",
+          "citation": "(1988) 10 EHRR 29",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Substantive guidance judgment by Munby J with detailed Article 8 analysis; parties anonymised."
+      }
+    }
+  }
+]

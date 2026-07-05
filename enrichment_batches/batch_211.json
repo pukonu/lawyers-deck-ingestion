@@ -1,0 +1,680 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/32.json",
+    "status": "done",
+    "notes": "Full liability and damages judgment on bailee duties and late disclosure; judge identified from text as Stanley Burnton J.",
+    "enrichment": {
+      "short_title": "Pinewood bailee liability for lost film stills",
+      "area_of_law": [
+        "Bailment",
+        "Contract and tort damages",
+        "Civil procedure and disclosure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Part 22"]
+        }
+      ],
+      "key_facts": [
+        "Arlington acquired Tyburn horror-film negatives and transparencies stored free at Pinewood Studios.",
+        "In 2002 Pinewood located most but not all of the claimants' stills and disputes arose over delivery-up terms.",
+        "Pinewood accepted it had been bailee of all material but contended missing items had been returned earlier.",
+        "The claimants sought damages including verification costs, replacement transparencies, polishing, and lost licence fees.",
+        "Burnton J found Pinewood liable for missing material but awarded only £2,545.19 of a much larger damages claim."
+      ],
+      "procedural_posture": "Trial of liability and quantum in a claim for delivery up and damages after interlocutory orders for return of stored film material.",
+      "outcome": "Judgment for the claimants for £2,545.19 damages; most heads of loss rejected for lack of proof or legal basis.",
+      "ratio": "A bailee who cannot prove earlier return of goods bears liability for missing items; damages for verification, investigation, and speculative licence losses require proper documentary proof and cannot be established by statements of truth or late disclosed documents.",
+      "legal_issues": [
+        "Burden of proof on a bailee to show return of bailed goods",
+        "Recoverability of verification and inspection costs as damages",
+        "Admissibility of documents disclosed after close of evidence",
+        "Proof of consequential licence and revenue losses"
+      ],
+      "catchwords": [
+        "bailment",
+        "bailee",
+        "delivery up",
+        "film negatives",
+        "damages",
+        "disclosure",
+        "statement of truth"
+      ],
+      "index_terms": [
+        "Pinewood Studios",
+        "Tyburn Productions",
+        "bailee burden of proof",
+        "CPR Part 22",
+        "late document application",
+        "quantum of damages"
+      ],
+      "linked_authorities": [
+        "Admiral Management Ltd v Para-Protect Europe Ltd"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Outcome, liability reasoning, and damages breakdown are explicit in the judgment. Source judges array is empty; Stanley Burnton J identified from full text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/12.json",
+    "status": "needs_review",
+    "notes": "Source judges metadata includes anachronistic names; enrichment relies on judgment text (Pill LJ).",
+    "enrichment": {
+      "short_title": "Territorial scope of unfair dismissal rights abroad",
+      "area_of_law": [
+        "Employment law",
+        "Statutory interpretation",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": ["section 94", "section 196", "section 199", "section 201", "section 204", "section 215", "section 244"]
+        },
+        {
+          "title": "Employment Relations Act 1999",
+          "provisions": ["section 32"]
+        },
+        {
+          "title": "Industrial Relations Act 1971",
+          "provisions": ["section 22"]
+        },
+        {
+          "title": "Trade Union and Labour Relations Act 1974",
+          "provisions": ["Schedule 1 paragraph 9"]
+        },
+        {
+          "title": "Contracts (Applicable Law) Act 1990",
+          "provisions": ["Schedule 1"]
+        },
+        {
+          "title": "Employment Tribunals (Constitution and Rules of Procedure) Regulations 2001",
+          "provisions": ["Regulation 11"]
+        }
+      ],
+      "key_facts": [
+        "Mr Lawson, a British employee of Serco, worked as a security supervisor on Ascension Island.",
+        "He claimed constructive unfair dismissal but had not completed the qualifying period unless a health and safety exception applied.",
+        "The employment tribunal held it had no jurisdiction because he ordinarily worked outside Great Britain.",
+        "The EAT allowed Lawson's appeal using a proximity test based on the employer's presence in England.",
+        "The Court of Appeal held ERA unfair dismissal rights apply to employment in Great Britain, not globally."
+      ],
+      "procedural_posture": "Employer appeal to the Court of Appeal against an Employment Appeal Tribunal decision restoring jurisdiction over an unfair dismissal claim.",
+      "outcome": "Appeal allowed; the claim was dismissed for lack of jurisdiction.",
+      "ratio": "Section 94 of the Employment Rights Act 1996 confers the right not to be unfairly dismissed in respect of employment in Great Britain; repeal of section 196 did not extend that right to all employees worldwide, and jurisdiction is not determined merely by the employer's residence or by a substantial connection test.",
+      "legal_issues": [
+        "Territorial scope of section 94 ERA 1996 after repeal of section 196",
+        "Whether jurisdiction depends on employer proximity or substantial connection",
+        "Applicability of the Posting of Workers Directive to non-posted workers",
+        "Effect of Rome Convention on construction of domestic employment rights"
+      ],
+      "catchwords": [
+        "unfair dismissal",
+        "jurisdiction",
+        "territoriality",
+        "Ascension Island",
+        "Employment Rights Act 1996",
+        "substantial connection",
+        "base test"
+      ],
+      "index_terms": [
+        "Serco Ltd",
+        "employment tribunal jurisdiction",
+        "section 196 repeal",
+        "Posting of Workers Directive",
+        "Carver v Saudi Arabian Airlines",
+        "Todd v British Midland Airways"
+      ],
+      "linked_authorities": [
+        "Carver v Saudi Arabian Airlines",
+        "Tomalin v S Pearson and Son Ltd",
+        "Clark (Inspector of Taxes) v Oceanic Contractors Inc",
+        "Todd v British Midland Airways",
+        "The Financial Times Ltd v Bishop",
+        "Jackson v Ghost Ltd",
+        "Re Paramount"
+      ],
+      "confidence": {
+        "score": 0.84,
+        "level": "high",
+        "notes": "Core ratio and outcome are clear from Pill LJ's judgment. Source judges field contains unreliable historical names and should not be treated as metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2004/53.json",
+    "status": "needs_review",
+    "notes": "Anonymised footballer divorce; complex income structures and extensive authority discussion; judge is Charles J from text not source metadata.",
+    "enrichment": {
+      "short_title": "Footballer divorce periodical payments after capital split",
+      "area_of_law": [
+        "Family law",
+        "Financial remedies",
+        "Matrimonial finance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Matrimonial Causes Act 1973",
+          "provisions": ["section 23", "section 25", "section 31"]
+        },
+        {
+          "title": "Matrimonial Family Proceedings Act 1984",
+          "provisions": ["section 25"]
+        }
+      ],
+      "key_facts": [
+        "After an FDR the wife received about 37% of roughly £3 million capital but periodical payments remained in dispute.",
+        "The husband was a professional footballer earning about £1.2 million net per year under contract until June 2005.",
+        "The wife sought global periodical payments of £444,000 per annum linked to the capital percentage; the husband offered £120,000.",
+        "Disclosure disputes concerned employee benefit trust payments and other off-contract income.",
+        "Charles J awarded global periodical payments of £250,000 backdated to March 2003."
+      ],
+      "procedural_posture": "Contested hearing on periodical payments for wife and three children following a consent capital order at an FDR.",
+      "outcome": "Periodical payments ordered at £250,000 per annum globally for wife and children, backdated to 24 March 2003 with credits.",
+      "ratio": "Where capital claims have been finally compromised, periodical payments should generally serve maintenance rather than further capital accumulation; needs alone is not determinative where the payer can afford more, but awards must not subvert capital finality by effectively paying lump sums by instalments.",
+      "legal_issues": [
+        "Whether periodical payments should mirror the capital sharing percentage",
+        "Relationship between needs, compensation, and sharing principles after White v White",
+        "Whether periodical payments may fund future capital savings",
+        "Effect of incomplete disclosure on quantum",
+        "Capital finality after Pearce v Pearce"
+      ],
+      "catchwords": [
+        "periodical payments",
+        "section 25",
+        "clean break",
+        "White v White",
+        "footballer income",
+        "Form E disclosure",
+        "capital finality"
+      ],
+      "index_terms": [
+        "Lambert v Lambert",
+        "Pearce v Pearce",
+        "Cornick v Cornick",
+        "M v M",
+        "employee benefit trust",
+        "financial remedy order"
+      ],
+      "linked_authorities": [
+        "White v White",
+        "Lambert v Lambert",
+        "Pearce v Pearce",
+        "Cornick v Cornick (No 2)",
+        "Cornick v Cornick (No 3)",
+        "M v M",
+        "Moge v Moge",
+        "Bracklow v Bracklow"
+      ],
+      "confidence": {
+        "score": 0.82,
+        "level": "high",
+        "notes": "Outcome and legal principles are clear, but parties are anonymised, income structures are intricate, and source judge metadata does not match the judgment author."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/121.json",
+    "status": "done",
+    "notes": "Partnership property and CPR appeal time extension; Arden LJ principal judgment.",
+    "enrichment": {
+      "short_title": "Partnership mills property and CPR appeal time",
+      "area_of_law": [
+        "Partnership law",
+        "Property and trusts",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 52.4", "CPR 52.6", "CPR 3.9"]
+        }
+      ],
+      "key_facts": [
+        "Aujla sought removal of Sanghera's caution on New Normanton Mills in Derby.",
+        "The recorder found a garment partnership and that Sanghera had bought Aujla's share; the mills were held beneficially in equal shares.",
+        "Paragraph 3 of the June 2002 order imposed trust obligations relating to third-party lenders not pleaded before the recorder.",
+        "Sanghera appealed out of time; the recorder had extended time to file an appellant's notice.",
+        "The Court of Appeal set aside paragraph 3, upheld the recorder's jurisdiction to extend time, and ordered transfer into joint names."
+      ],
+      "procedural_posture": "Appeal with permission from a county court recorder's order following a multi-day trial on partnership ownership and a caution on registered land.",
+      "outcome": "Appeal allowed in part: paragraph 3 set aside; extension of time upheld; property ordered transferred into joint names subject to Barclays' mortgage.",
+      "ratio": "A lower court may extend time for filing an appellant's notice even after 14 days, but must exercise caution consistent with CPR policy; orders must relate to pleaded issues, and where equal beneficial ownership is found a transfer into joint names should normally follow on dissolution.",
+      "legal_issues": [
+        "Whether orders on unpleaded lender interests were valid",
+        "Whether a recorder could extend appeal time after 14 days",
+        "Proper exercise of discretion under CPR 52.4 and 52.6",
+        "Entitlement to an order transferring property into joint names"
+      ],
+      "catchwords": [
+        "partnership property",
+        "beneficial ownership",
+        "Land Registry caution",
+        "extension of time",
+        "appellant's notice",
+        "unpleaded issues"
+      ],
+      "index_terms": [
+        "A & G Garments",
+        "New Normanton Mills",
+        "tenants in common",
+        "Sayers v Clark",
+        "CPR Part 52"
+      ],
+      "linked_authorities": [
+        "Sayers v Clark"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Arden LJ's reasoning on CPR jurisdiction and paragraph 3 is explicit. Thorpe and Park LJJ agreed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/205.json",
+    "status": "done",
+    "notes": "GMC professional conduct statutory appeal; Stanley Burnton J.",
+    "enrichment": {
+      "short_title": "GMC erasure appeal for psychiatrist patient misconduct",
+      "area_of_law": [
+        "Medical regulation",
+        "Professional discipline",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Medical Act 1983",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Dr Razak, a Hull psychiatrist, faced GMC charges of improper emotional and sexual conduct towards psychiatric patient Miss A in 2001.",
+        "The Professional Conduct Committee found several charges proved, including indecent assault and sexual intercourse, and directed erasure.",
+        "Dr Razak appealed on grounds including inconsistent acceptance of Miss A's evidence and a no-case-to-answer submission.",
+        "Burnton J reviewed the regulatory standard akin to criminal appeal review and rejected challenges to key findings.",
+        "Erasure was held not excessive despite Dr Razak's otherwise good career; GMC costs of £7,868 summarily assessed."
+      ],
+      "procedural_posture": "Statutory appeal to the High Court against a General Medical Council Professional Conduct Committee erasure direction.",
+      "outcome": "Appeal dismissed on findings and sanction; GMC awarded costs summarily assessed at £7,868.",
+      "ratio": "On a GMC appeal the court asks whether a reasonable committee properly directed could have reached the findings on the evidence; selective rejection of a vulnerable witness's evidence does not necessarily invalidate other proved charges, and erasure may be appropriate for serious sexual misconduct with a psychiatric patient.",
+      "legal_issues": [
+        "Standard of review on a GMC statutory appeal",
+        "Whether the case should have been stopped at half-time",
+        "Consistency of findings on Miss A's evidence",
+        "Whether erasure was excessive for isolated misconduct"
+      ],
+      "catchwords": [
+        "General Medical Council",
+        "serious professional misconduct",
+        "erasure",
+        "psychiatric patient",
+        "regulatory appeal",
+        "credibility",
+        "inconsistent verdicts"
+      ],
+      "index_terms": [
+        "Professional Conduct Committee",
+        "Medical Register",
+        "R v Durante",
+        "patient boundary violations",
+        "indicative sanctions guidance"
+      ],
+      "linked_authorities": [
+        "R v Durante"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Charges, findings, legal test, and outcome are fully set out. Medical Act referenced in charges; specific sections not identified in judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/132.json",
+    "status": "done",
+    "notes": "Rights of way modification order challenge; Deputy Judge.",
+    "enrichment": {
+      "short_title": "Howley Mill Lane bridleway modification challenge",
+      "area_of_law": [
+        "Public rights of way",
+        "Administrative law",
+        "Property and land"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Wildlife and Countryside Act 1981",
+          "provisions": ["section 53", "section 56", "Schedule 15 paragraph 12"]
+        },
+        {
+          "title": "Highways Act 1980",
+          "provisions": ["section 31"]
+        },
+        {
+          "title": "National Parks and Access to the Countryside Act 1949",
+          "provisions": ["section 32", "section 33"]
+        },
+        {
+          "title": "Rights of Way Act 1932",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Howley Mill Lane in Morley, Leeds was shown on the definitive map as a footpath about six feet wide.",
+        "A modification order redesignated it as a bridleway and altered the stated width to between 1.8 and 3 metres.",
+        "The inspector confirmed the order based on 1950s status and 20 years' bridleway user from 1963 to 1983.",
+        "The claimant challenged the 'Private Road – Access Only' notice and the historic-evidence route to modification.",
+        "The claim failed on prescription grounds; historic re-designation route was legally flawed but not decisive."
+      ],
+      "procedural_posture": "High Court application under Schedule 15 paragraph 12 Wildlife and Countryside Act 1981 to question validity of a confirmed modification order.",
+      "outcome": "Claim dismissed; 20-year user basis upheld; inspector lawfully modified width particulars; permission to appeal refused.",
+      "ratio": "A landowner notice under Highways Act 1980 section 31 must be erected by the fee simple owner and maintained sufficiently to negative dedication; an inspector's interpretation of notice meaning is reviewable only for legal error or irrationality, and section 53(3)(c) requires newly discovered evidence rather than mere re-examination of old inquiry material.",
+      "legal_issues": [
+        "Whether a 'Private Road – Access Only' notice prevented prescriptive bridleway rights",
+        "Whether the notice was erected and maintained by an owner under section 31(7)",
+        "Whether historic 1950s evidence satisfied section 53(3)(c) discovery requirement",
+        "Power to modify stated path width under section 53 and section 56"
+      ],
+      "catchwords": [
+        "definitive map",
+        "modification order",
+        "bridleway",
+        "20 years user",
+        "section 31 notice",
+        "prescription",
+        "Wildlife and Countryside Act"
+      ],
+      "index_terms": [
+        "Howley Mill Lane",
+        "Leeds City Council",
+        "public path",
+        "R v Secretary of State for the Environment ex parte Simms",
+        "Fairey v Southampton County Council",
+        "Cotton v Secretary of State for the Environment"
+      ],
+      "linked_authorities": [
+        "Rafique v Trustees of the Walton Estate",
+        "Smith v Brudenell-Bruce",
+        "R v Secretary of State for the Environment ex parte Simms",
+        "Fairey v Southampton County Council",
+        "Cotton v Secretary of State for the Environment"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Statutory framework and dispositive reasoning on prescription and width modification are detailed in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/358.json",
+    "status": "needs_review",
+    "notes": "Source judges metadata unreliable; Ward LJ gives lead judgment.",
+    "enrichment": {
+      "short_title": "Refusal to set aside default judgment in business dispute",
+      "area_of_law": [
+        "Civil procedure",
+        "Partnership and business disputes",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 39.3"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Miss Cole Morgan and Mr Smalley litigated consolidated claims over their former personal and gym business relationship.",
+        "She failed to attend a trial listed for May 2001; default judgment totalled about £93,643 plus interest.",
+        "Her solicitors came off the record on the morning of trial after an unsuccessful adjournment application.",
+        "An application to set aside made in August 2002 was refused for delay and weak prospects; legal aid difficulties followed.",
+        "Ferris J refused a further adjournment in November 2002; the Court of Appeal dismissed her appeal."
+      ],
+      "procedural_posture": "Appeal against refusal of adjournment and dismissal of an application under CPR 39.3 to set aside judgment entered in absence.",
+      "outcome": "Appeal dismissed with costs.",
+      "ratio": "CPR 39.3 requires prompt action, a good reason for non-attendance, and a reasonable prospect of success; a 15-month delay before seeking to set aside default judgment was excessive, and Article 6 is not engaged by refusal of legal aid to pursue a weak set-aside application.",
+      "legal_issues": [
+        "Whether the applicant acted promptly under CPR 39.3(5)(a)",
+        "Good reason for failure to attend trial",
+        "Reasonable prospect of success on the underlying partnership and fraud claims",
+        "Whether refusal of legal aid violated Article 6"
+      ],
+      "catchwords": [
+        "set aside judgment",
+        "CPR 39.3",
+        "default judgment",
+        "non-attendance",
+        "adjournment",
+        "legal aid",
+        "Article 6"
+      ],
+      "index_terms": [
+        "trial in absence",
+        "solicitors coming off record",
+        "charging order",
+        "partnership claim",
+        "Milton Keynes gym"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.86,
+        "level": "high",
+        "notes": "CPR analysis and outcome are clear from Ward LJ. Source judges array lists trial judges rather than Court of Appeal constitution."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/323.json",
+    "status": "done",
+    "notes": "Damages assessment judgment following Tedd QC liability decision; Geoffrey Vos QC (as he then was).",
+    "enrichment": {
+      "short_title": "Auction misrepresentation damages for protected tenancy",
+      "area_of_law": [
+        "Misrepresentation",
+        "Damages",
+        "Commercial property",
+        "Landlord and tenant"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Misrepresentation Act 1967",
+          "provisions": ["section 2(1)"]
+        },
+        {
+          "title": "Landlord and Tenant Act 1954",
+          "provisions": ["Part II", "section 25", "section 30(1)(f)"]
+        }
+      ],
+      "key_facts": [
+        "Hackney and the MPA auctioned the Chocolate Factory and adjoining Car Park in Shoreditch for £3.925 million to Mr Pankhania.",
+        "Auction materials represented NCP's occupation as a terminable licence; NCP in fact had a 1954 Act protected tenancy.",
+        "Tedd QC held the vendors liable under section 2(1) Misrepresentation Act 1967 for deliberate misrepresentation.",
+        "Mr Pankhania paid £78,931.25 to secure NCP's departure and incurred delayed development costs.",
+        "Damages were assessed at £500,000 using the normal measure of value difference at purchase."
+      ],
+      "procedural_posture": "Assessment of damages following a liability trial finding negligent/fraudulent misrepresentation under section 2(1) Misrepresentation Act 1967.",
+      "outcome": "Damages assessed at £500,000 under the normal measure.",
+      "ratio": "Where misrepresentation is treated as fraudulent under Royscott Trust, the normal transaction-date valuation measure applies if it gives a fair result reflecting overriding compensatory principle; the claimant was not locked into the purchase and consequential losses from NCP's tenancy were already embedded in the valuation differential.",
+      "legal_issues": [
+        "Whether the normal measure or actual consequential losses should govern damages",
+        "Interaction of mitigation principles with the transaction-date rule",
+        "Whether retaining the property broke the chain of causation",
+        "Residual valuation methodology for development land with a protected tenant"
+      ],
+      "catchwords": [
+        "misrepresentation",
+        "Misrepresentation Act 1967",
+        "damages assessment",
+        "1954 Act tenancy",
+        "normal measure",
+        "Smith New Court",
+        "residual valuation"
+      ],
+      "index_terms": [
+        "Nile Street",
+        "Westland Place",
+        "National Car Parks",
+        "Royscott Trust v Rogerson",
+        "transaction date rule",
+        "protected tenancy"
+      ],
+      "linked_authorities": [
+        "Royscott Trust Ltd v Rogerson",
+        "Smith New Court Securities Ltd v Citibank NA",
+        "British Westinghouse Electric and Manufacturing Co Ltd v Underground Electric Railways Co of London Ltd",
+        "Banco de Portugal v Waterlow",
+        "Hussey v Eels",
+        "Gardner v Marsh & Parsons",
+        "Needler Financial Services Ltd v Taber",
+        "Burdis v Livsey",
+        "Diamond v Lovell"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Detailed damages reasoning and final figure are explicit. Source judges metadata is corrupted with unrelated Law Lords."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/99.json",
+    "status": "done",
+    "notes": "Section 288 planning challenge by litigant in person; Richards J.",
+    "enrichment": {
+      "short_title": "Stable conversion refused in conservation area",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Heritage and conservation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 78", "section 288"]
+        }
+      ],
+      "key_facts": [
+        "Mr Ludlam appealed against refusal of planning permission to convert stables at Montgomery House, Somersal Herbert, into a dwelling.",
+        "The inspector identified issues of conservation area character and sustainability of location.",
+        "She found the conversion would harm the agricultural-rural character and add car journeys to an isolated hamlet.",
+        "The claimant challenged factual descriptions and sustainability reasoning as irrational.",
+        "Richards J dismissed the section 288 challenge; conservation area harm alone sufficed to uphold refusal."
+      ],
+      "procedural_posture": "Section 288 Town and Country Planning Act 1990 challenge to an inspector's dismissal of a section 78 planning appeal.",
+      "outcome": "Claim dismissed; inspector's conservation area conclusion upheld as lawful.",
+      "ratio": "Factual misdescriptions in a planning decision letter do not warrant interference unless the inspector's planning judgments are irrational; assessment of conservation area harm and sustainability are classic planning matters for the inspector, and conflict with the development plan alone can justify refusal.",
+      "legal_issues": [
+        "Whether inspector had adequate information for conservation area assessment",
+        "Rationality of findings on character, appearance, and sustainability",
+        "Whether sustainability reasoning was necessary to the decision",
+        "Standard of review for planning judgments under section 288"
+      ],
+      "catchwords": [
+        "planning appeal",
+        "conservation area",
+        "stable conversion",
+        "sustainability",
+        "section 288",
+        "listed building setting",
+        "development plan conflict"
+      ],
+      "index_terms": [
+        "Somersal Herbert",
+        "Derbyshire Dales",
+        "Montgomery House",
+        "inspector decision letter",
+        "Wednesbury unreasonableness",
+        "Tesco v Secretary of State for the Environment"
+      ],
+      "linked_authorities": [
+        "South Somerset District Council v Secretary of State for the Environment",
+        "Tesco Stores Ltd v Secretary of State for the Environment",
+        "Newsmith Stainless Ltd v Secretary of State for the Environment, Transport and the Regions"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Inspector's reasoning and Richards J's review standard are clearly articulated; outcome is unambiguous."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/224.json",
+    "status": "done",
+    "notes": "Green Belt occupancy condition appeal; Forbes J.",
+    "enrichment": {
+      "short_title": "Green Belt agricultural occupancy condition retained",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 54A", "section 70", "section 78", "section 284", "section 288"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 3", "Article 5", "Article 6", "Article 14", "Protocol 1 Article 1"]
+        }
+      ],
+      "key_facts": [
+        "Mr Donovan sought removal of an occupancy condition limiting his Corley nursery dwelling to him and thereafter nursery employees.",
+        "The dwelling was permitted in the Green Belt in recognition of special circumstances tied to the nursery business.",
+        "The council refused removal; a mistaken grant letter was corrected the same day by a refusal.",
+        "The inspector found no planning justification, no discounted marketing evidence, and no proof the business lacked long-term viability.",
+        "Forbes J dismissed the section 288 challenge and rejected ECHR arguments."
+      ],
+      "procedural_posture": "Section 288 challenge to an inspector's dismissal of an appeal against refusal to discharge a planning occupancy condition.",
+      "outcome": "Claim dismissed; occupancy condition upheld; Secretary of State awarded costs summarily assessed at £5,020.",
+      "ratio": "Removal of a Green Belt occupancy condition requires planning justification supported by evidence such as discounted marketing and lack of agricultural need; personal financial hardship and human rights arguments do not override development plan policies where the appellant failed to meet policy HSG9 requirements.",
+      "legal_issues": [
+        "Material considerations for discharging an agricultural occupancy condition",
+        "Application of section 54A and Green Belt policies",
+        "Whether mistaken grant letter created estoppel or affected the appeal",
+        "Engagement of Articles 3, 5, 6, 14 and Protocol 1 Article 1 ECHR"
+      ],
+      "catchwords": [
+        "occupancy condition",
+        "Green Belt",
+        "planning permission",
+        "section 288",
+        "agricultural dwelling",
+        "policy HSG9",
+        "human rights"
+      ],
+      "index_terms": [
+        "Corley Nursery",
+        "North Warwickshire",
+        "section 54A",
+        "R (Alconbury Developments Ltd) v Secretary of State",
+        "discounted sale evidence",
+        "special circumstances"
+      ],
+      "linked_authorities": [
+        "R (Alconbury Developments Ltd) v Secretary of State for the Environment, Transport and the Regions",
+        "Pine Valley Developments Ltd v Ireland",
+        "Chassagnou v France",
+        "Lundquist v Sweden"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Inspector's reasons and Forbes J's rejection of all grounds, including ECHR, are explicit throughout the judgment."
+      }
+    }
+  }
+]

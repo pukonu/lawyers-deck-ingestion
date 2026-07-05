@@ -1,0 +1,693 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/103.json",
+    "status": "done",
+    "notes": "Batch 14 enrichment",
+    "enrichment": {
+      "short_title": "Whether a debt qualifies as a specified fund under CPR 25.1(1)(l)",
+      "area_of_law": [
+        "Civil procedure",
+        "Interim remedies",
+        "Debt recovery",
+        "Insolvency and asset preservation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 25.1(1)(f)(ii)",
+            "CPR 25.1(1)(l)",
+            "CPR 24"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant obtained a without-notice order requiring the defendant to pay £900,000 into court as an alleged debt owed to the personal representatives of the deceased lenders.",
+        "The defendant had already spent most or all of the loan proceeds and raised defences to the repayment claim.",
+        "The claimant sought mandatory payment into court under CPR 25.1(1)(l) rather than a freezing injunction.",
+        "Lightman J held that an ordinary debt owed to a creditor is not a specified fund within the rule."
+      ],
+      "procedural_posture": "Application to set aside a without-notice interim order for payment of an alleged debt into court.",
+      "outcome": "Application to set aside granted; the order requiring payment into court was set aside.",
+      "ratio": "CPR 25.1(1)(l) requires an actual identifiable fund in the debtor's possession or control over which there is a proprietary dispute; a chose in action such as an ordinary debt is not a specified fund, and creditors seeking to protect assets should use a freezing order instead.",
+      "legal_issues": [
+        "Meaning of 'specified fund' in CPR 25.1(1)(l)",
+        "Whether an alleged debt can be secured by mandatory payment into court",
+        "Relationship between CPR 25.1(1)(l) and freezing injunction remedies"
+      ],
+      "catchwords": [
+        "interim remedies",
+        "payment into court",
+        "specified fund",
+        "freezing order",
+        "debt",
+        "CPR 25.1"
+      ],
+      "index_terms": [
+        "Myers v Design Inc",
+        "debt recovery",
+        "asset preservation",
+        "proprietary dispute",
+        "chose in action"
+      ],
+      "linked_authorities": [
+        "Allchin v Coulthard",
+        "Shamia v Joory",
+        "Flightline Ltd v Edwards"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Single clear issue of construction with explicit holding; judge metadata in source file appears unreliable but was not altered."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/64.json",
+    "status": "done",
+    "notes": "Batch 14 enrichment",
+    "enrichment": {
+      "short_title": "Loss of good repute after abusive conduct at a traffic commissioner inquiry",
+      "area_of_law": [
+        "Road transport regulation",
+        "Administrative law",
+        "Human rights",
+        "Licensing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Goods Vehicles (Licensing of Operators) Act 1995",
+          "provisions": [
+            "section 27",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Transport Act 1985",
+          "provisions": [
+            "Schedule 4 paragraph 14"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3",
+            "section 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "David Crompton's operator's licence had earlier been revoked after tachograph offences but that decision was overturned on appeal.",
+        "After a further public inquiry he was abusive and threatening towards a traffic examiner and a journalist in the court building.",
+        "The Traffic Commissioner revoked his licence again for loss of good repute, and the Transport Tribunal upheld that decision.",
+        "The Court of Appeal held the Commissioner failed properly to apply proportionality before finding loss of good repute."
+      ],
+      "procedural_posture": "Operator's appeal to the Court of Appeal from a decision of the Transport Tribunal upholding revocation of an operating licence.",
+      "outcome": "Appeal allowed; decisions of the Transport Tribunal and Traffic Commissioner set aside; no order as to costs.",
+      "ratio": "Post-inquiry loutish conduct may relate to fitness to hold a licence, but where revocation is the inevitable sanction for loss of good repute the Commissioner must assess proportionality and cannot treat unacceptable behaviour as automatically depriving an operator of good repute without weighing subsequent remorse and context.",
+      "legal_issues": [
+        "Meaning of good repute under section 27 of the 1995 Act",
+        "Whether post-inquiry misconduct can justify revocation of an operator's licence",
+        "Role of proportionality and Article 1 of the First Protocol",
+        "Scope of appeal from the Transport Tribunal on questions of fact"
+      ],
+      "catchwords": [
+        "operator's licence",
+        "good repute",
+        "traffic commissioner",
+        "proportionality",
+        "road haulage",
+        "Human Rights Act"
+      ],
+      "index_terms": [
+        "David Crompton Haulage",
+        "Transport Tribunal",
+        "Schedule 3 good repute",
+        "licence revocation",
+        "ECHR Article 1 Protocol"
+      ],
+      "linked_authorities": [
+        "Traktorer Aktiebolag v Sweden",
+        "Sporrong and Lonnroth v Sweden"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome, statutory framework, and proportionality ratio are clearly stated; detailed factual findings are summarised at high level only."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/17.json",
+    "status": "done",
+    "notes": "Batch 14 enrichment",
+    "enrichment": {
+      "short_title": "Effect of landlord's written refusal under the Landlord and Tenant Act 1988",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Licensing and consent",
+        "Statutory duty"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Landlord and Tenant Act 1988",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Go West Ltd sought licence to assign leases of Camden premises to Fleetmill Ltd.",
+        "The landlords' solicitors refused consent by letter dated 30 May 2001 on grounds relating to sureties.",
+        "The county court judge held the refusal premature but that consent was not unreasonably withheld by 10 July 2001 because negotiations continued.",
+        "The Court of Appeal held the 30 May refusal was a valid section 1(3)(b) notice that ended the reasonable time and could not be revived by later correspondence."
+      ],
+      "procedural_posture": "Cross-appeals to the Court of Appeal from a county court judgment on a claim for unreasonable withholding of consent to assign.",
+      "outcome": "Tenant's appeal allowed; landlord's cross-appeal dismissed; tenant entitled to declaration and damages assessment.",
+      "ratio": "Once a landlord serves written notice refusing consent under section 1(3)(b) of the Landlord and Tenant Act 1988, the reasonable time for decision ends and the landlord cannot rely on a continuing or renewed application; subsequent negotiations do not waive the tenant's accrued right to sue for breach of statutory duty unless there is clear and unequivocal release.",
+      "legal_issues": [
+        "Whether a premature written refusal ends the reasonable time under section 1(3)",
+        "Whether correspondence after refusal creates a continuing or renewed application",
+        "Whether the tenant waived its right to sue by continuing to negotiate",
+        "Which reasons a landlord may rely on after serving a section 1(3)(b) notice"
+      ],
+      "catchwords": [
+        "consent to assign",
+        "Landlord and Tenant Act 1988",
+        "reasonable time",
+        "written notice",
+        "breach of statutory duty",
+        "waiver"
+      ],
+      "index_terms": [
+        "Go West Ltd",
+        "licence to assign",
+        "sureties",
+        "Fleetmill",
+        "assignment consent"
+      ],
+      "linked_authorities": [
+        "Norwich Union Life Insurance Society v Shopmoor Ltd",
+        "Footwear Corporation Ltd v Amplight Properties Ltd",
+        "Flacker Shipping Ltd v Glencore Grain Ltd",
+        "Bromley Park Garden Estates Ltd v Moss"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Novel but clearly reasoned point of statutory construction with explicit outcome on both main issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/costs/2003/9007.json",
+    "status": "done",
+    "notes": "Batch 14 enrichment",
+    "enrichment": {
+      "short_title": "Validity of collective conditional fee agreement and success fee recovery",
+      "area_of_law": [
+        "Costs",
+        "Conditional fee agreements",
+        "Personal injury",
+        "Legal profession regulation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": [
+            "section 30",
+            "section 31",
+            "section 58"
+          ]
+        },
+        {
+          "title": "Collective Conditional Fee Agreements Regulations 2000",
+          "provisions": [
+            "Regulation 1(2)",
+            "Regulation 4(2)"
+          ]
+        },
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": [
+            "section 58"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A trade union-funded personal injury claimant succeeded at trial with 40% contributory negligence.",
+        "The defendant challenged recovery of a 100% success fee under a collective conditional fee agreement between the union and Bond Pearce.",
+        "The Costs Office held the indemnity principle still applies to CCFA work and that client-care documents did not mislead the claimant.",
+        "After initially finding a genuine doubt about CCFA validity, the judge provisionally upheld the agreement once a redacted copy was produced."
+      ],
+      "procedural_posture": "Preliminary detailed assessment hearing on indemnity principle, Regulation 4 compliance, and validity of a collective conditional fee agreement.",
+      "outcome": "Claimant entitled to recover success fees subject to quantification; defendants awarded 50% of costs of the preliminary assessment.",
+      "ratio": "CCFA regulations do not create a standalone exception to the indemnity principle; the litigant must remain liable in principle for costs informed under Regulation 4, but emphasising a costs-free position to a union-funded claimant can still satisfy the disclosure duty where indemnity arrangements exist.",
+      "legal_issues": [
+        "Whether CCFAs abrogate the indemnity principle",
+        "Compliance with Regulation 4 information duties",
+        "Whether the defendant raised a genuine issue as to CCFA validity",
+        "Recoverability of success fees on detailed assessment"
+      ],
+      "catchwords": [
+        "conditional fee agreement",
+        "collective CFA",
+        "success fee",
+        "indemnity principle",
+        "detailed assessment",
+        "trade union funding"
+      ],
+      "index_terms": [
+        "Gliddon",
+        "Lloyd Maunder",
+        "Bond Pearce",
+        "TGWU",
+        "costs assessment"
+      ],
+      "linked_authorities": [
+        "Lewis v Averay (No 2)"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Core legal conclusions are explicit; final CCFA validity turned on later production of the agreement at a follow-up hearing."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/48.json",
+    "status": "done",
+    "notes": "Batch 14 enrichment",
+    "enrichment": {
+      "short_title": "Validity and partial revocation of Fuller's E.S.B. beer trade mark",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks",
+        "EU law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": [
+            "section 1",
+            "section 3",
+            "section 11",
+            "section 46",
+            "section 47"
+          ]
+        },
+        {
+          "title": "Trade Marks Act 1938",
+          "provisions": []
+        },
+        {
+          "title": "Council Directive 89/104/EEC",
+          "provisions": [
+            "Article 2",
+            "Article 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Fuller's had used E.S.B. for Extra Special Bitter since the 1970s and registered UK mark 1341510 in 1988 for beers in class 32.",
+        "West challenged validity under section 3(1)(b)-(d) and sought partial revocation for non-use outside bitter beer.",
+        "The judge upheld validity but revoked the mark except for bitter beers from September 1995.",
+        "The Court of Appeal held the mark had acquired distinctive character and that restriction to bitter beer was a fair specification."
+      ],
+      "procedural_posture": "Appeal and cross-appeal to the Court of Appeal from a Chancery Division decision on trade mark invalidity and partial revocation for non-use.",
+      "outcome": "Appeal dismissed; cross-appeal dismissed; registration remained valid but limited to bitter beer.",
+      "ratio": "Under section 3(1)(c) of the Trade Marks Act 1994 a mark is objectionable only if it consists exclusively of descriptive signs; E.S.B. could function as an indication of origin despite descriptive connotations, and partial revocation under section 46 should reflect the fair consumer description of the use actually made, here bitter beer rather than all beer.",
+      "legal_issues": [
+        "Whether E.S.B. was devoid of distinctive character or exclusively descriptive",
+        "Effect of Philips v Remington on Bach Flower Remedies approach",
+        "Whether the mark had become customary in the trade",
+        "Scope of partial revocation under section 46 for non-use"
+      ],
+      "catchwords": [
+        "trade mark",
+        "distinctive character",
+        "descriptive signs",
+        "partial revocation",
+        "non-use",
+        "beer",
+        "ESB"
+      ],
+      "index_terms": [
+        "Fuller's",
+        "Extra Special Bitter",
+        "section 3 Trade Marks Act",
+        "section 46 revocation",
+        "OHIM Baby-Dry"
+      ],
+      "linked_authorities": [
+        "Healing Herbs Ltd v Bach Flower Remedies Ltd",
+        "Procter & Gamble v OHIM (Baby-Dry)",
+        "Koninklijke Philips Electronics NV v Remington Consumer Products Ltd",
+        "Wm Wrigley Jr Company v OHIM (Doublemint)",
+        "Thomson Holidays Ltd v Norwegian Cruise Line Ltd"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed judgment with clear holdings on validity and non-use; judge metadata in source file appears unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/180.json",
+    "status": "done",
+    "notes": "Batch 14 enrichment",
+    "enrichment": {
+      "short_title": "Court-ordered meeting under section 371 where minority threatens inquorum",
+      "area_of_law": [
+        "Company law",
+        "Shareholders' agreements",
+        "Corporate governance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 14",
+            "section 368",
+            "section 371",
+            "section 459"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Union Music held 51% and Russell Watson 49% of Arias Ltd, a company managing an opera singer's career.",
+        "A shareholders' agreement required both shareholders to be present for any general meeting and restricted many corporate actions.",
+        "Watson threatened not to attend meetings, creating deadlock after Mrs Watson resigned as a director.",
+        "Union sought a section 371 order to appoint an additional director; the judge refused, but the Court of Appeal allowed the appeal."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against refusal of a section 371 order and against dismissal of related Part 8 proceedings as an abuse of process.",
+      "outcome": "Section 371 appeal allowed and meeting ordered; permission to appeal in respect of Part 8 proceedings refused.",
+      "ratio": "Section 371 can be used to break deadlock where a minority shareholder's quorum clause would otherwise frustrate a majority's ordinary power to appoint a director; such a clause is a quorum provision, not a class right, and Harman v BML and Ross v Telford do not prevent the court exercising its discretion in unequal shareholding cases.",
+      "legal_issues": [
+        "When it is impracticable to call a company meeting under section 371",
+        "Whether a shareholders' quorum clause is a veto or class right",
+        "Proper exercise of discretion to order a one-member deemed quorum",
+        "Whether parallel Part 8 proceedings were an abuse of process"
+      ],
+      "catchwords": [
+        "section 371",
+        "company meeting",
+        "quorum",
+        "shareholders agreement",
+        "deadlock",
+        "director appointment"
+      ],
+      "index_terms": [
+        "Arias Ltd",
+        "Union Music",
+        "Russell Watson",
+        "Foss v Harbottle",
+        "shareholder deadlock"
+      ],
+      "linked_authorities": [
+        "Re El Sombrero Ltd",
+        "Re Opera Photographic Ltd",
+        "Harman v BML Group Ltd",
+        "Ross v Telford",
+        "Re H R Paul & Son Ltd"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Complex facts but clear appellate reasoning on section 371; judges array empty in source metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/32.json",
+    "status": "done",
+    "notes": "Batch 14 enrichment",
+    "enrichment": {
+      "short_title": "DLA care component and immediate clean-up after faecal incontinence",
+      "area_of_law": [
+        "Social security",
+        "Disability benefits",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Social Security Contributions and Benefits Act 1992",
+          "provisions": [
+            "section 72"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Gregory Ramsden, aged almost 12, had faecal incontinence due to spina bifida and denied using pads.",
+        "His mother provided showering and clothing care once or twice daily, usually for about 30 minutes.",
+        "The tribunal excluded broader cleaning and laundry following Cockburn v Chief Adjudication Officer.",
+        "The Court of Appeal held Cockburn should be applied flexibly to immediate hygiene clean-up and remitted the appeal."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from a Social Security Commissioner's decision upholding a Disability Appeal Tribunal refusal of the care component of Disability Living Allowance.",
+      "outcome": "Appeal allowed; case remitted to a differently constituted Disability Appeal Tribunal for rehearing.",
+      "ratio": "Attention in connection with bodily functions under section 72 may include immediate cleaning-up after faecal incontinence performed in the claimant's presence or vicinity; Cockburn does not justify a rigid exclusion of hygiene tasks such as cleaning the toilet, shower area, bedding, or nearby surfaces when assessing whether attention lasts for a significant portion of the day.",
+      "legal_issues": [
+        "Meaning of attention in connection with bodily functions under section 72(1)(a)(i)",
+        "Application of Cockburn to faecal incontinence and immediate clean-up tasks",
+        "Whether excluded cleaning time could affect the significant portion of the day test",
+        "Adequacy of tribunal reasoning on bedding and surfaces issues"
+      ],
+      "catchwords": [
+        "Disability Living Allowance",
+        "care component",
+        "attention",
+        "bodily functions",
+        "incontinence",
+        "Cockburn"
+      ],
+      "index_terms": [
+        "Gregory Ramsden",
+        "spina bifida",
+        "section 72",
+        "significant portion of the day",
+        "social security appeal"
+      ],
+      "linked_authorities": [
+        "Cockburn v Chief Adjudication Officer",
+        "In re Woodling",
+        "R v National Insurance Commissioner ex parte Secretary of State for Social Services"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Appellate court remitted on inadequately reasoned tribunal decision; exact quantum on remittal not determined."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/23.json",
+    "status": "done",
+    "notes": "Batch 14 enrichment",
+    "enrichment": {
+      "short_title": "Commercial agent compensation after fixed-term agency expiry",
+      "area_of_law": [
+        "Commercial agency",
+        "Contract law",
+        "EU law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Commercial Agents (Council Directive) Regulations 1993",
+          "provisions": [
+            "Regulation 7",
+            "Regulation 8",
+            "Regulation 14",
+            "Regulation 17",
+            "Regulation 18",
+            "Regulation 19"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Decoro appointed Tigana as its UK and Ireland sales agent for leather furniture for a one-year term expiring on 31 December 1999.",
+        "Stuart Coleman, through Tigana, introduced major retailers and generated substantial sales for Decoro.",
+        "After expiry, Tigana claimed contractual commission and compensation under Regulations 8(a) and 17.",
+        "The court held Regulation 17 applies to contracts expiring by effluxion of time and awarded compensation based on net remuneration."
+      ],
+      "procedural_posture": "Trial of remaining issues after partial admissions and a failed summary judgment application in a commercial agent commission and compensation claim.",
+      "outcome": "Decoro ordered to pay agreed commission of $350,000, Regulation 8(a) commission of at least $606,836.64, and Regulation 17 compensation of $452,346.",
+      "ratio": "Termination of the agency contract in Regulation 17 includes expiry by effluxion of time, so a commercial agent may recover compensation notwithstanding a fixed-term contract ending by agreement; compensation should be assessed by reference to net remuneration over the effective agency period rather than by an automatic two-year gross formula.",
+      "legal_issues": [
+        "Whether Regulation 17 applies where a fixed-term agency contract expires by effluxion of time",
+        "Assessment methodology for compensation under Regulation 17",
+        "Entitlement to post-termination commission under Regulation 8(a)",
+        "Whether the agent's termination/default excluded compensation under Regulation 18"
+      ],
+      "catchwords": [
+        "commercial agent",
+        "Regulation 17",
+        "Regulation 8",
+        "commission",
+        "compensation",
+        "effluxion of time",
+        "furniture agency"
+      ],
+      "index_terms": [
+        "Tigana Ltd",
+        "Decoro Ltd",
+        "Stuart Coleman",
+        "Commercial Agents Regulations 1993",
+        "Ingmar GB Ltd"
+      ],
+      "linked_authorities": [
+        "Ingmar GB Ltd v Eaton Leonard Inc",
+        "King v Tunnock"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Long trial judgment but principal statutory issues and monetary awards are clearly recorded."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/167.json",
+    "status": "done",
+    "notes": "Batch 14 enrichment",
+    "enrichment": {
+      "short_title": "Court of Appeal jurisdiction after late IAT permission application",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Appellate procedure",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "Schedule 4 paragraph 23"
+          ]
+        },
+        {
+          "title": "Immigration and Asylum Appeals (Procedure) Rules 2000",
+          "provisions": [
+            "Rule 26",
+            "Rule 27.1",
+            "Rule 48"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 52.4",
+            "CPR 52.6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ozdemir, a Turkish Kurd asylum seeker, failed before a Special Adjudicator and the Immigration Appeal Tribunal.",
+        "Her former solicitors did not lodge a timely application for permission to appeal to the Court of Appeal.",
+        "The IAT declined jurisdiction because the application was out of time, and new solicitors applied to the Court of Appeal.",
+        "Mance LJ held the IAT's procedural refusal counted as a refusal of leave, giving the Court of Appeal jurisdiction."
+      ],
+      "procedural_posture": "Application for extension of time and permission to appeal to the Court of Appeal after an out-of-time IAT permission application.",
+      "outcome": "Extension of time granted; permission to appeal granted on credibility grounds.",
+      "ratio": "For Schedule 4 paragraph 23(2) of the Immigration and Asylum Act 1999, an Immigration Appeal Tribunal decision that it lacks jurisdiction to entertain an out-of-time permission application constitutes a refusal of leave, enabling the Court of Appeal to consider permission even though CPR time limits require a separate extension.",
+      "legal_issues": [
+        "Whether the Court of Appeal may hear a permission application when the IAT did not decide the application on its merits",
+        "Construction of 'if such leave is refused' in Schedule 4 paragraph 23(2)",
+        "Whether Rule 27.1 creates an unlawful fetter on the statutory appeal route",
+        "Whether extension of time should be granted for solicitor delay"
+      ],
+      "catchwords": [
+        "immigration appeal",
+        "permission to appeal",
+        "Immigration Appeal Tribunal",
+        "time limits",
+        "Schedule 4",
+        "asylum"
+      ],
+      "index_terms": [
+        "Ozdemir",
+        "Turkish Kurd asylum",
+        "IAT jurisdiction",
+        "CPR 52.4",
+        "credibility finding"
+      ],
+      "linked_authorities": [
+        "Saleem v Secretary of State for the Home Department",
+        "R v Immigration Appeal Tribunal ex parte Armstrong",
+        "Ashrafi v Immigration Appeal Tribunal",
+        "Sivasubramaniam v Wandsworth County Court"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Procedural holding is the main ratio; permission granted on arguable credibility challenge rather than final merits decision."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/109.json",
+    "status": "done",
+    "notes": "Batch 14 enrichment",
+    "enrichment": {
+      "short_title": "Insurer contribution claim after non-disclosure and double motor insurance",
+      "area_of_law": [
+        "Insurance law",
+        "Non-disclosure and misrepresentation",
+        "Contribution",
+        "Motor insurance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 151"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Kaur drove her husband's car insured by Provident when she had her own policy with Drake including a driving-other-vehicles extension.",
+        "Provident avoided its policy after Dr Singh failed to disclose an SP30 conviction on renewal, treating a prior accident as fault.",
+        "Drake settled the injured motorcyclist's claim and sought an equitable contribution from Provident.",
+        "The court held Provident was entitled to avoid and Drake had paid beyond its rateable share as a volunteer."
+      ],
+      "procedural_posture": "Commercial court claim for equitable contribution between insurers after settlement of a third-party motor injury claim.",
+      "outcome": "Claim dismissed; Drake not entitled to recover contribution from Provident.",
+      "ratio": "An insurer may avoid for non-disclosure by reference to information actually before it at renewal, and subsequent discovery that a prior accident could be reclassified does not retrospectively defeat a valid avoidance; where a rateable proportion clause limits liability to half, an insurer paying more without judgment compulsion is a volunteer and cannot recover the excess under Legal & General v Drake.",
+      "legal_issues": [
+        "Whether non-disclosure of a speeding conviction induced renewal on more favourable terms",
+        "Whether subsequent facts can defeat an insurer's exercised right of avoidance",
+        "Effect of rateable proportion clauses on contribution claims",
+        "Whether Drake acted as a volunteer by settling the full claim"
+      ],
+      "catchwords": [
+        "double insurance",
+        "non-disclosure",
+        "avoidance",
+        "contribution",
+        "rateable proportion",
+        "motor insurance",
+        "driving other vehicles"
+      ],
+      "index_terms": [
+        "Drake Insurance",
+        "Provident Insurance",
+        "Pan Atlantic",
+        "Legal & General v Drake",
+        "indemnity principle"
+      ],
+      "linked_authorities": [
+        "Pan Atlantic Insurance Co Ltd v Pine Top Insurance Co Ltd",
+        "Legal & General Assurance Society Ltd v Drake Insurance Co Ltd",
+        "Eagle Star Ltd v Provincial Insurance Plc",
+        "Strive Shipping Corporation v Hellenic Mutual War Risks Association (The Grecia Express)",
+        "Insurance Corporation of the Channel Islands v The Royal Hotel Ltd"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed fact-finding on underwriting and avoidance with clear dispositive conclusions on contribution and waiver."
+      }
+    }
+  }
+]

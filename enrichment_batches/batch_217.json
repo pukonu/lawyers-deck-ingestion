@@ -1,0 +1,722 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/250.json",
+    "status": "done",
+    "notes": "Highway authority appeal on skid resistance; Judge LJ with Laws and Charles JJ agreeing.",
+    "enrichment": {
+      "short_title": "Highway authority liability for dangerous wet skid resistance",
+      "area_of_law": [
+        "Highways and road maintenance",
+        "Personal injury and negligence",
+        "Tort and statutory duty",
+        "Civil procedure and appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Highways Act 1980",
+          "provisions": ["section 41", "section 58", "section 329"]
+        }
+      ],
+      "key_facts": [
+        "Stephen Rogers lost control on a damp stretch of the A447 in Carmarthenshire and collided head-on with an oncoming car, killing his wife and injuring himself.",
+        "Andrew Smith J held the National Assembly for Wales liable under section 41 for a road surface with dangerously low skid resistance in wet conditions and rejected the section 58 defence.",
+        "SCRIM and other tests after resurfacing in 1995 showed investigatory-level skid resistance; a cluster of wet-weather accidents followed in 1997 before planned resurfacing was delayed by weather.",
+        "Slippery-road warning signs were erected before the accident, but resurfacing scheduled for mid-September 1997 had not started when the collision occurred on 19 September.",
+        "The Highway Authority appealed, arguing the judge misread expert evidence and that low skid resistance alone did not establish dangerous maintenance."
+      ],
+      "procedural_posture": "Court of Appeal appeal against a High Court finding of primary liability after trial before Andrew Smith J.",
+      "outcome": "Appeal dismissed; National Assembly remained liable.",
+      "ratio": "Where an experienced driver suddenly crosses the carriageway on a damp road with unusually low skid resistance and a history of wet skidding incidents, a trial judge may properly find section 41 liability and reject section 58 where the highway authority unreasonably delayed remedial resurfacing after investigatory test results and subsequent serious accidents.",
+      "legal_issues": [
+        "Whether low skid resistance made the road dangerous for section 41 purposes",
+        "Whether the highway authority took reasonable care under section 58",
+        "Causation between road surface condition and loss of control",
+        "Effect of Design Manual for Roads and Bridges guidance on liability"
+      ],
+      "catchwords": [
+        "Highways Act 1980",
+        "section 41",
+        "section 58",
+        "skid resistance",
+        "SCRIM test",
+        "highway authority",
+        "road traffic accident",
+        "maintenance duty"
+      ],
+      "index_terms": [
+        "A447 Carmarthenshire",
+        "National Assembly for Wales",
+        "wet skidding",
+        "road resurfacing delay",
+        "Andrew Smith J",
+        "coefficient of friction"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Fact-specific highway maintenance appeal; outcome and statutory framework are clear from the full judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/182.json",
+    "status": "done",
+    "notes": "Post-Hoverspeed tobacco forfeiture JR; Henriques J; litigant in person.",
+    "enrichment": {
+      "short_title": "Tobacco forfeiture remitted after Hoverspeed burden-of-proof error",
+      "area_of_law": [
+        "Customs and excise",
+        "Administrative law and judicial review",
+        "Criminal procedure and forfeiture",
+        "European Union law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Customs and Excise Management Act 1979",
+          "provisions": ["Schedule 3", "section 141"]
+        },
+        {
+          "title": "Excise Duties (Personal Reliefs) Order 1992",
+          "provisions": ["Article 5", "Article 9"]
+        }
+      ],
+      "key_facts": [
+        "Mr Boxall imported about 19,780 cigarettes and rolling tobacco from Spain; HM Customs seized the goods as above indicative levels for personal reliefs.",
+        "Portsmouth magistrates ordered forfeiture and the Crown Court dismissed his appeal, applying a persuasive burden on him to rebut commercial importation.",
+        "After Hoverspeed, Laws LJ granted limited judicial review permission on the basis both courts had proceeded on the wrong burden of proof.",
+        "Customs argued the outcome would necessarily be the same even if the correct civil burden applied to the Commissioners.",
+        "Boxall indicated he would give oral evidence on remittal; the court found the case was not borderline on volume alone."
+      ],
+      "procedural_posture": "High Court judicial review of a Crown Court forfeiture appeal, permission granted on a single Hoverspeed-related point.",
+      "outcome": "Judicial review granted; Crown Court decision quashed and case remitted to Portsmouth magistrates for retrial according to law.",
+      "ratio": "Where magistrates and the Crown Court determine a tobacco forfeiture case on an erroneous persuasive burden after Hoverspeed, judicial review should quash the decision and remit for retrial unless it is clear on the evidence that the result must necessarily be the same under the correct burden, which requires the claimant's explanation to have been heard and tested.",
+      "legal_issues": [
+        "Effect of Hoverspeed on the burden of proof in personal reliefs cases",
+        "Whether the Crown Court decision must necessarily be the same on remittal",
+        "Whether sheer volume of cigarettes precludes a personal-use finding",
+        "Scope of permission limited to the erroneous legal basis"
+      ],
+      "catchwords": [
+        "Hoverspeed",
+        "tobacco forfeiture",
+        "personal reliefs",
+        "burden of proof",
+        "judicial review",
+        "Customs and Excise",
+        "commercial importation"
+      ],
+      "index_terms": [
+        "Boxall",
+        "Portsmouth Crown Court",
+        "indicative levels",
+        "Goldsmith v Customs",
+        "condemnation proceedings",
+        "litigant in person"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hoverspeed Ltd v Customs and Excise Commissioners",
+          "citation": "[2002] EWHC 1630 (Admin)",
+          "role": "applied"
+        },
+        {
+          "name": "Goldsmith v Customs and Excise Commissioners",
+          "citation": "[2001] 1 WLR 1673",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Limited permission point and remittal outcome are explicit; linked Hoverspeed principles are clearly described."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/106.json",
+    "status": "done",
+    "notes": "Second trial conviction appeal; Thomas LJ; judge's questions to defence expert.",
+    "enrichment": {
+      "short_title": "Admissibility of circumstantial evidence in armed post office robbery retrial",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence and procedure",
+        "Appeals against conviction"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Bowden was convicted after a retrial of attempted robbery and possessing a firearm with intent following a masked raid on a Droylesden post office in March 2001.",
+        "The Crown relied on a balaclava with matching glass fragments and possible gunshot residue, a diary entry with a false Polo registration, and a tow rope linked to a getaway car.",
+        "At an earlier joint trial with his father the judge had directed acquittal on the diary and rope evidence, but the prosecution relied on them again alongside balaclava evidence at the retrial.",
+        "The trial judge asked the defence expert cumulative-effect questions after prosecution cross-examination, then acknowledged that intervention was unwise.",
+        "Bowden was sentenced to 18 years comprising 16 years custody plus a 2-year extension period."
+      ],
+      "procedural_posture": "Court of Appeal (Criminal Division) appeal by leave against conviction after a retrial at Manchester Crown Court.",
+      "outcome": "Appeal dismissed; conviction held safe.",
+      "ratio": "Circumstantial items such as a diary entry and tow rope may be admissible against a defendant at retrial even if insufficient against a co-defendant at an earlier trial, and a trial judge's neutral but unwise questions to a defence expert about cumulative forensic support do not render a conviction unsafe where the jury would inevitably have considered the same obvious inferences.",
+      "legal_issues": [
+        "Admissibility and weight of the diary entry and tow rope evidence",
+        "Effect of an earlier directed acquittal of a co-defendant on retrial evidence",
+        "Whether the judge improperly entered the arena by questioning the defence expert",
+        "Safety of conviction where cumulative forensic evidence was moderate not conclusive"
+      ],
+      "catchwords": [
+        "attempted robbery",
+        "firearm with intent",
+        "circumstantial evidence",
+        "balaclava",
+        "forensic glass evidence",
+        "judge's questions",
+        "unsafe conviction",
+        "retrial"
+      ],
+      "index_terms": [
+        "Droylesden post office",
+        "joint enterprise",
+        "gunshot residue",
+        "Judge Lever",
+        "second trial",
+        "prejudice and probative value"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Grounds of appeal and disposal are clearly stated; no statute-centred issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/831.json",
+    "status": "done",
+    "notes": "Section 459 petition stay application; Rimer J; football club CVA super-creditor rule.",
+    "enrichment": {
+      "short_title": "Football club unfair prejudice petition not stayed for arbitration",
+      "area_of_law": [
+        "Company law",
+        "Sports law",
+        "Arbitration",
+        "Insolvency and restructuring"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": ["section 459"]
+        },
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": ["section 9"]
+        },
+        {
+          "title": "Enterprise Act 2002",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Exeter City AFC, in a creditors' voluntary arrangement, petitioned under section 459 alleging Football Conference rules unfairly required football creditors to be paid in full.",
+        "Conference sought to stay the petition under section 9 Arbitration Act or the court's inherent jurisdiction, relying on FA Rule K and Conference Rule 15.",
+        "Conference Rule 15 provided internal board determination with FA appeal, which the judge held was not an arbitration agreement.",
+        "Exeter faced expulsion and a 12-point deduction if its CVA did not prefer football creditors, while the Inland Revenue sought to revoke the CVA.",
+        "The judge held a shareholder's statutory unfair prejudice remedy could not be ousted by contractual arbitration clauses."
+      ],
+      "procedural_posture": "High Court (Companies Court) interlocutory application to stay a section 459 petition pending arbitration.",
+      "outcome": "Stay application dismissed.",
+      "ratio": "A section 459 unfair prejudice petition is a statutory shareholder remedy that cannot be compulsorily stayed under section 9 of the Arbitration Act 1996, even where related sub-issues might fall within separate FA arbitration or internal Conference procedures, because the court retains jurisdiction over the company's affairs during a midlife crisis.",
+      "legal_issues": [
+        "Whether FA Rule K constitutes an arbitration agreement covering Articles of Association disputes",
+        "Whether section 9 applies to section 459 petitions",
+        "Construction of Conference Rule 15 protest and appeal procedure",
+        "Whether the court should exercise inherent jurisdiction to stay for a split tribunal"
+      ],
+      "catchwords": [
+        "section 459",
+        "unfair prejudice",
+        "arbitration stay",
+        "Football Conference",
+        "CVA",
+        "super-creditor rule",
+        "Football Association Rule K"
+      ],
+      "index_terms": [
+        "Exeter City AFC",
+        "Nationwide Conference",
+        "football creditors",
+        "Inland Revenue revocation",
+        "Wade v NSW Rugby League",
+        "Re Vocam Europe"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Wade v The New South Wales Rugby League Limited",
+          "citation": "[1985] ALR 225",
+          "role": "cited"
+        },
+        {
+          "name": "Ashville Investments Ltd v Elmer Contractors Ltd",
+          "citation": "[1989] 1 QB 488",
+          "role": "cited"
+        },
+        {
+          "name": "A Best Floor Sanding Party Ltd v Skyer Australia Party Ltd",
+          "citation": "[1999] VSC 170",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Stay decision and arbitration analysis are clear; judge metadata lists Bingham though he is cited rather than sitting."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/106.json",
+    "status": "done",
+    "notes": "Iranian adultery asylum appeal; Kennedy LJ; concession scope before IAT.",
+    "enrichment": {
+      "short_title": "Scope of Home Office concessions in Iranian adultery asylum appeal",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Convention relating to the Status of Refugees 1951",
+          "provisions": ["Article 1A(2)"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 3"]
+        }
+      ],
+      "key_facts": [
+        "An Iranian nurse claimed asylum after fleeing suspected adultery following her husband discovered her with another man at hospital.",
+        "The adjudicator allowed the appeal after the Home Office Presenting Officer conceded membership of a social group and possible stoning if the account were credible.",
+        "The IAT allowed the Secretary of State's appeal on witness requirements and lack of findings on risk from the husband, treating the concession as limited to social group membership.",
+        "Kennedy LJ held the adjudicator's determination showed a wider concession that risk assessment was settled if credibility were accepted.",
+        "The IAT had not ruled on whether the risk concession could be withdrawn."
+      ],
+      "procedural_posture": "Court of Appeal appeal from an Immigration Appeal Tribunal decision restoring the Secretary of State's refusal.",
+      "outcome": "Appeal allowed; case remitted to the IAT to decide whether the risk concession may be withdrawn.",
+      "ratio": "Where a Home Office Presenting Officer before an adjudicator concedes both social group membership and that a credible account would establish a well-founded fear, the IAT must first determine whether that wider concession may be withdrawn before reassessing risk; withdrawal is not automatic and depends on fairness, timing and prejudice.",
+      "legal_issues": [
+        "Extent of concessions made before the adjudicator",
+        "Whether risk of stoning required independent proof where credibility was conceded",
+        "IAT power to permit withdrawal of concessions",
+        "Risk from husband versus risk from Iranian authorities"
+      ],
+      "catchwords": [
+        "asylum",
+        "Iran",
+        "adultery",
+        "social group",
+        "stoning",
+        "IAT concession",
+        "credibility",
+        "Refugee Convention"
+      ],
+      "index_terms": [
+        "Davoodipanah",
+        "Immigration Appeal Tribunal",
+        "Home Office Presenting Officer",
+        "Ivanauskieine",
+        "Carrabuk",
+        "Article 3 ECHR"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ivanauskieine v Secretary of State for the Home Department",
+          "citation": "[2001] EWCA Civ 1271",
+          "role": "applied"
+        },
+        {
+          "name": "Bensaid v United Kingdom",
+          "citation": "[2001] 33 EHRR 205",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Remittal order and concession analysis are explicit in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/199.json",
+    "status": "needs_review",
+    "notes": "Jurisdiction appeal on police cautions; source judges metadata appears unreliable; Maurice Kay LJ with Longmore and Waller LJJ.",
+    "enrichment": {
+      "short_title": "No Court of Appeal jurisdiction over judicial review of police caution",
+      "area_of_law": [
+        "Administrative law and judicial review",
+        "Criminal procedure",
+        "Civil procedure and jurisdiction",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["section 18(1)"]
+        },
+        {
+          "title": "Administration of Justice Act 1960",
+          "provisions": ["section 1"]
+        },
+        {
+          "title": "Public Order Act 1986",
+          "provisions": ["section 5"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Charlie Aru received a police caution for a section 5 Public Order Act offence and sought judicial review alleging it was unlawfully administered contrary to Home Office Circular 18/1994.",
+        "Elias J heard oral evidence and rejected Aru's factual case that an improper inducement had been used to obtain his consent.",
+        "Aru sought permission to appeal the refusal of his judicial review, but Master Venne ruled the matter was a criminal cause or matter with no Court of Appeal jurisdiction.",
+        "Simon Brown LJ granted permission to appeal only on the jurisdiction point.",
+        "The court held a formal caution is a criminal matter disposal with lasting adverse consequences, unlike civil ASBO proceedings."
+      ],
+      "procedural_posture": "Court of Appeal appeal against a Civil Appeals Office ruling that there is no jurisdiction to hear an appeal from judicial review of a police caution.",
+      "outcome": "Appeal dismissed; Court of Appeal held it had no jurisdiction and Elias J's decision was for practical purposes unappealable.",
+      "ratio": "Judicial review challenging the lawfulness of a police caution is a proceeding in a criminal cause or matter within section 18(1) of the Supreme Court Act 1981, so no appeal lies to the Court of Appeal; the nature and consequences of a formal caution place it on the criminal side of the line rather than with civil preventive orders such as ASBOs.",
+      "legal_issues": [
+        "Whether judicial review of a police caution is a criminal cause or matter",
+        "Application of Amand and related authorities to caution challenges",
+        "Whether Article 6 ECHR requires an appeal route",
+        "Effect of Home Office cautioning standards on judicial review"
+      ],
+      "catchwords": [
+        "police caution",
+        "criminal cause or matter",
+        "section 18 Supreme Court Act",
+        "judicial review",
+        "Public Order Act 1986",
+        "Home Office Circular 18/1994",
+        "appellate jurisdiction"
+      ],
+      "index_terms": [
+        "Charlie Aru",
+        "Merseyside Police",
+        "Elias J",
+        "Amand v Home Secretary",
+        "Clingham v Kensington and Chelsea",
+        "formal caution records"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Amand v Home Secretary",
+          "citation": "[1943] AC 147",
+          "role": "applied"
+        },
+        {
+          "name": "R v Commissioner of Police of the Metropolis, ex parte Thompson",
+          "citation": "[1997] 1 WLR 1519",
+          "role": "cited"
+        },
+        {
+          "name": "Clingham v Royal Borough of Kensington and Chelsea",
+          "citation": "[2002] UKHL 39",
+          "role": "applied"
+        },
+        {
+          "name": "R (South West Yorkshire Mental Health NHS Trust) v Bradford Crown Court",
+          "citation": "[2003] EWCA Civ 1857",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.86,
+        "level": "high",
+        "notes": "Jurisdiction reasoning is detailed and clear; source judges field lists historical names not reflected in the judgment text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/45.json",
+    "status": "done",
+    "notes": "Section 19 Education Act JR; excluded pupil and bullying; lengthy statutory construction judgment.",
+    "enrichment": {
+      "short_title": "Local authority not obliged to fund alternative school after unreasonable withdrawal",
+      "area_of_law": [
+        "Education law",
+        "Administrative law and judicial review",
+        "Children and families"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Education Act 1996",
+          "provisions": ["section 7", "section 19", "section 437", "section 444"]
+        },
+        {
+          "title": "Children Act 1989",
+          "provisions": ["section 36"]
+        }
+      ],
+      "key_facts": [
+        "G, a 15-year-old excluded from St George's School Westminster after bullying incidents, was kept out of school by his father who refused reintegration.",
+        "Westminster Council maintained a section 19 place remained available at St George's and declined to arrange alternative education elsewhere.",
+        "Medical evidence showed stress and vulnerability but not that G was physically unable to attend school.",
+        "The court found the father acted unreasonably in withdrawing G when no alternative placement existed and in refusing the school's reintegration plan.",
+        "Efforts to place G elsewhere, including a later Quintin Kynaston phased re-integration offer, post-dated the judicial review decision."
+      ],
+      "procedural_posture": "Court of Appeal judicial review of Westminster Council's refusal to provide alternative education under section 19 Education Act 1996.",
+      "outcome": "Appeal dismissed; Council not in breach of section 19.",
+      "ratio": "Section 19 requires a local education authority to arrange suitable alternative education only where a child cannot reasonably attend existing suitable schooling; where a place at a suitable school remains available and a parent's refusal to send the child back is unreasonable, the authority discharges section 19 and enforcement falls under the school attendance regime rather than a duty to fund alternative provision.",
+      "legal_issues": [
+        "Meaning of 'otherwise' in section 19(1) Education Act 1996",
+        "Whether bullying and breakdown of relations trigger section 19",
+        "Interaction between section 19 and sections 437-444 attendance powers",
+        "Whether illness prevented attendance at the registered school"
+      ],
+      "catchwords": [
+        "section 19 Education Act",
+        "suitable education",
+        "school exclusion",
+        "bullying",
+        "local education authority",
+        "school attendance order",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Westminster City Council",
+        "St George's School Westminster",
+        "pupil referral unit",
+        "parental unreasonable refusal",
+        "Pepper v Hart",
+        "Circular 11/99"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Pepper (Inspector of Taxes) v Hart",
+          "citation": "[1993] AC 593",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Statutory construction and outcome are fully reasoned; post-hearing placement developments noted but do not affect the ratio."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/464.json",
+    "status": "done",
+    "notes": "Case stated appeal; Nelson J and May LJ; racially aggravated public order arrest warning.",
+    "enrichment": {
+      "short_title": "Racially aggravated section 5 warning required for arrest not conviction",
+      "area_of_law": [
+        "Criminal law",
+        "Public order offences",
+        "Race and religious hatred",
+        "Administrative law and case stated appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Public Order Act 1986",
+          "provisions": ["section 5"]
+        },
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": ["section 28", "section 31"]
+        }
+      ],
+      "key_facts": [
+        "Chippendale, intoxicated in Pwllheli, sang an abusive anti-Turkish song outside a Turkish takeaway after an earlier general behaviour warning.",
+        "He was arrested for racially aggravated disorderly behaviour under section 31 Crime and Disorder Act 1998 but had not received a section 31(3) warning about racially aggravated conduct.",
+        "Magistrates acquitted on submission, holding the arrest unlawful and proceedings invalid.",
+        "The Divisional Court held the section 31(3) warning relates to the power of arrest, not an element of the offence itself.",
+        "A lawful arrest could have been made under section 5(4) Public Order Act 1986 after the first warning."
+      ],
+      "procedural_posture": "Divisional Court appeal by case stated by the DPP against magistrates' acquittal on submission of no case to answer.",
+      "outcome": "Appeal allowed; case remitted to magistrates for rehearing.",
+      "ratio": "Under section 31(3) Crime and Disorder Act 1998 a constable must give a warning specifically relating to racially or religiously aggravated section 5 conduct before arrest under that subsection, but the warning is not an ingredient of the offence; unlawful arrest under section 31(3) does not prevent conviction if the offence is otherwise established.",
+      "legal_issues": [
+        "Whether a general section 5 warning suffices for section 31(3) arrest",
+        "Whether section 31(3) warning is an element of the offence",
+        "Effect of unlawful arrest on subsequent prosecution",
+        "Whether Turkish staff were persons likely to suffer harassment, alarm or distress"
+      ],
+      "catchwords": [
+        "racially aggravated public order",
+        "section 31 Crime and Disorder Act",
+        "section 5 Public Order Act",
+        "arrest warning",
+        "case stated",
+        "no case to answer"
+      ],
+      "index_terms": [
+        "Pwllheli magistrates",
+        "Turkish takeaway",
+        "Groom v DPP",
+        "offensive song",
+        "DPP appeal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Groom v DPP",
+          "citation": "[1991] Crim LR",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Short case stated with clear statutory symmetry analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2004/111.json",
+    "status": "needs_review",
+    "notes": "Very long Munby J judgment on prison mother-and-baby unit removal; procedural defect ground succeeded on merits challenge failed.",
+    "enrichment": {
+      "short_title": "Prison mother-and-baby removal quashed for procedural defects",
+      "area_of_law": [
+        "Prison law",
+        "Family law and child welfare",
+        "Administrative law and judicial review",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Prisons Act 1952",
+          "provisions": ["section 12", "section 47"]
+        },
+        {
+          "title": "Prison Rules 1999",
+          "provisions": ["rule 12"]
+        },
+        {
+          "title": "Children Act 1989",
+          "provisions": ["section 3", "section 47"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Claire F, serving five years for aggravated burglary, gave birth to Lia-Jade in HMP New Hall mother and baby unit.",
+        "The Prison Service decided Lia-Jade should leave the MBU when she reached nine months, consistent with New Hall policy.",
+        "Claire and the Official Solicitor for Lia-Jade challenged the decision by judicial review, alleging breach of policy, Article 8 and failure to treat the child's best interests as primary.",
+        "Munby J conducted a Daly-type intense scrutiny review rather than a full best-interests welfare determination.",
+        "The judge upheld the merits of the decision but quashed it because procedural defects at a 9 September 2003 meeting vitiated subsequent steps."
+      ],
+      "procedural_posture": "High Court (Family Division) judicial review of the Secretary of State's decision to remove a baby from a prison mother and baby unit.",
+      "outcome": "Decision quashed and remitted for urgent reconsideration with proper representation of the child's interests; no mandatory return order made.",
+      "ratio": "Removal of a baby from a prison mother and baby unit engages the child's best interests as a primary consideration subject to prison order and discipline, and a Daly-type judicial review will quash a decision vitiated by procedural defects even where intense scrutiny does not show the substantive outcome was wrong, remitting reconsideration to the Prison Service rather than ordering immediate restoration.",
+      "legal_issues": [
+        "Whether the court should conduct a full best-interests investigation or Daly review",
+        "Balancing Article 8 rights of mother and child against prison discipline",
+        "Procedural fairness of the Prison Service decision-making meeting",
+        "Appropriate use of expert psychiatric evidence in judicial review"
+      ],
+      "catchwords": [
+        "mother and baby unit",
+        "prison",
+        "judicial review",
+        "best interests",
+        "Article 8",
+        "Daly review",
+        "Official Solicitor",
+        "removal decision"
+      ],
+      "index_terms": [
+        "HMP New Hall",
+        "Lia-Jade",
+        "Prison Service policy",
+        "nine-month limit",
+        "R (D) v SSHD",
+        "proportionality"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (D) v Secretary of State for the Home Department",
+          "citation": "[2003] EWHC 155 (Admin)",
+          "role": "applied"
+        },
+        {
+          "name": "R (P) v Secretary of State for the Home Department",
+          "citation": null,
+          "role": "cited"
+        },
+        {
+          "name": "R (Q and another) v Secretary of State for the Home Department",
+          "citation": null,
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.84,
+        "level": "medium",
+        "notes": "Very long judgment; outcome turns on procedural defects rather than merits, and linked authority names in the closing sections were not all fully verified."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/90.json",
+    "status": "done",
+    "notes": "Side-letter construction appeal; Chadwick LJ; 30% share of Grimleys settlement.",
+    "enrichment": {
+      "short_title": "Developer entitled to 30% of full negligent valuation settlement",
+      "area_of_law": [
+        "Banking and finance",
+        "Contract interpretation",
+        "Professional negligence",
+        "Civil procedure and summary judgment"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Barclays Bank lent about £2.4m to property developer Leser Landau against East Quayside, Newcastle, relying on three Grimleys valuation reports.",
+        "After compulsory purchase left a large shortfall, the Bank sued Grimleys and assigned Landau's rights in the second report addressed to him.",
+        "A side letter of 28 October 1997 covenanted that Landau would receive 30% of net recoveries from any Bank claim by reference to that report.",
+        "Grimleys paid £1.3 million under a Tomlin compromise covering all three reports.",
+        "Neuberger J held Landau was entitled only to a proportion attributable to the second report; the Court of Appeal held he shared in the whole net recovery."
+      ],
+      "procedural_posture": "Court of Appeal appeal and cross-appeal from summary judgment and account directions in contract claim for share of surveyor settlement.",
+      "outcome": "Bank's appeal dismissed and Landau's cross-appeal allowed; account based on 30% of net recoveries under the Tomlin order.",
+      "ratio": "Where a developer assigns his claim under a valuation report to his bank in return for a side letter sharing 30% of net recoveries from any proceedings brought by reference to that report, the natural commercial construction gives him 30% of the whole net settlement when the bank's compromise proceedings rely on that report among others, without apportioning damages between reports.",
+      "legal_issues": [
+        "Construction of 'claim' and 'by reference to the Report' in the side letter",
+        "Whether recoveries must be apportioned between three valuation reports",
+        "Commercial purpose of the assignment and revenue-sharing arrangement",
+        "Whether summary judgment was appropriate without further inquiry"
+      ],
+      "catchwords": [
+        "contract construction",
+        "negligent valuation",
+        "side letter",
+        "Tomlin order",
+        "equitable assignment",
+        "net recoveries",
+        "summary judgment"
+      ],
+      "index_terms": [
+        "Barclays Bank",
+        "Grimleys",
+        "East Quayside Newcastle",
+        "Investors Compensation Scheme",
+        "Neuberger J",
+        "property development loan"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Investors Compensation Scheme Ltd v West Bromwich Building Society",
+          "citation": "[1998] 1 WLR 896",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Contract construction issue and appellate outcome are clearly resolved in the judgment."
+      }
+    }
+  }
+]

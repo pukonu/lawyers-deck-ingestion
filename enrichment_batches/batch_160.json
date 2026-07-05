@@ -1,0 +1,755 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1613.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment upholding summary judgment in sale of goods dispute.",
+    "enrichment": {
+      "short_title": "Finance company entitled to reject trucks sold by invoice without fitted bodies",
+      "area_of_law": [
+        "Contract law",
+        "Sale of goods",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Iveco Finance paid Man Truck over £474,000 for six refrigerated trucks after receiving invoices describing complete trucks with Gray & Adams fridge bodies fitted.",
+        "The chassis had been delivered to Gray & Adams for bodywork but the bodies had not been fitted when Iveco paid and leased the vehicles to City Truck Group, which later entered administration.",
+        "Man contended it had no contract with Iveco and, if it did, had only contracted to supply chassis to City's order rather than complete trucks."
+      ],
+      "procedural_posture": "Appeal against Gray J's summary judgment for Iveco for over £1 million.",
+      "outcome": "Appeal dismissed with costs; summary judgment upheld.",
+      "ratio": "Where a supplier invoices a finance company for trucks 'supplied and fitted' with specified equipment and the finance company pays, an objective analysis shows a contract of sale by description between supplier and finance company; rejection is available where goods do not correspond with that description, and neither a prior arrangement with the end customer nor alleged agency displaces the contract formed by invoice and payment.",
+      "legal_issues": [
+        "Whether Man's invoices to Iveco constituted an offer capable of acceptance by payment",
+        "Whether an earlier contract between Man and City displaced the finance-company sale",
+        "Whether Man was in breach where chassis were supplied but fridge bodies were not fitted",
+        "Whether City acted as Iveco's agent so that its knowledge was imputed to Iveco"
+      ],
+      "catchwords": [
+        "sale of goods",
+        "sale by description",
+        "finance company purchase",
+        "rejection of goods",
+        "summary judgment",
+        "triangular transaction",
+        "agency"
+      ],
+      "index_terms": [
+        "Iveco Finance",
+        "Man Truck & Bus",
+        "City Truck Group",
+        "Gray & Adams",
+        "invoice as offer",
+        "lease purchase",
+        "refrigerated trucks"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full appellate judgment with clear reasoning on contract formation and breach."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1779.json",
+    "status": "done",
+    "notes": "Full Court of Appeal judgment; source summary field is truncated but full_text is complete.",
+    "enrichment": {
+      "short_title": "Hospital doctor not liable for failing to re-warn of chickenpox fetal risk",
+      "area_of_law": [
+        "Clinical negligence",
+        "Medical law",
+        "Tort law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Dr Curtis, a locum GP, negligently failed to warn Miss Wyatt about risks to her unborn child from chickenpox at 13–14 weeks; causation against her was established at trial.",
+        "Four and a half weeks later, at an antenatal appointment, Dr Howarth discussed chickenpox but did not expressly warn of serious fetal abnormality risks; the child was born with serious abnormalities.",
+        "Dr Curtis brought Part 20 proceedings against the hospital authority for contribution; the trial judge dismissed them on liability and causation grounds."
+      ],
+      "procedural_posture": "Appeal by Dr Curtis against dismissal of her Part 20 contribution claim; permission to appeal against primary liability finding had already been refused.",
+      "outcome": "Appeal dismissed; Dr Howarth held not negligent and permission to appeal to the House of Lords refused.",
+      "ratio": "On the facts found, a hospital doctor who gently raised chickenpox in antenatal consultation and was reassured that advice had already been given by another doctor was not negligent for failing to probe or re-state fetal abnormality risks; under Sidaway the Bolam threshold applied where the patient had not solicited advice, and the judge's flawed causation reasoning did not assist Dr Curtis once liability failed.",
+      "legal_issues": [
+        "Whether Dr Howarth breached his duty of care in antenatal consultation",
+        "Whether Sidaway or Pearce governed the duty to volunteer risk information",
+        "Whether failure to warn Dr Howarth's negligence caused Miss Wyatt not to terminate at 18 weeks",
+        "Whether a second doctor must investigate prior advice given by another doctor"
+      ],
+      "catchwords": [
+        "clinical negligence",
+        "failure to warn",
+        "chickenpox in pregnancy",
+        "Sidaway",
+        "Pearce",
+        "Bolam",
+        "Part 20 contribution",
+        "causation"
+      ],
+      "index_terms": [
+        "Wyatt v Curtis",
+        "Kings Mill Hospital",
+        "antenatal care",
+        "congenital abnormality",
+        "termination of pregnancy",
+        "informed consent",
+        "contribution proceedings"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Sidaway v Board of Governors of the Bethlem Royal Hospital [1985] AC 871",
+          "relation": "applied"
+        },
+        {
+          "citation": "Pearce v United Bristol Healthcare NHS Trust [1999] PIQR P53",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete judgment; summary metadata truncated but full reasoning available in full_text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2518.json",
+    "status": "done",
+    "notes": "Full administrative court judgment including post-judgment permission to appeal.",
+    "enrichment": {
+      "short_title": "Anglesey housing benefit subsidy recovery upheld under Paragraph 6",
+      "area_of_law": [
+        "Administrative law",
+        "Social security",
+        "Housing benefit",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Social Security Contributions and Benefits Act 1992",
+          "provisions": ["s 123", "s 130"]
+        },
+        {
+          "name": "Social Security Administration Act 1992",
+          "provisions": ["s 139A", "s 139D", "s 139F", "s 139G", "s 140B", "s 140C", "s 176", "s 189(8)"]
+        },
+        {
+          "name": "Housing Benefit (General) Regulations 1987",
+          "provisions": ["reg 12A", "reg 12C", "reg 66"]
+        },
+        {
+          "name": "Income-related Benefits (Subsidy to Authorities) Order 1998",
+          "provisions": ["art 3", "art 4", "art 5", "art 6", "art 7", "art 12", "art 13", "art 16", "Sch 4 Pt II para 6"]
+        },
+        {
+          "name": "Rent Act 1977",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Anglesey paid about £2.2 million housing benefit on renewed claims without fresh Rent Officer determinations and received subsidy it was not entitled to.",
+        "The Secretary of State exercised discretion under section 140C(3) to recover only 20% (£444,661) using a percentage banding policy after earlier Bridgnorth/West Oxfordshire litigation.",
+        "Anglesey challenged both the lawfulness of Schedule 4 paragraph 6 (nil subsidy where renewal referrals omitted) and the reasonableness of the recovery decision."
+      ],
+      "procedural_posture": "Judicial review of the Secretary of State's decision to recover overpaid housing benefit subsidy; permission to appeal granted on compelling reasons.",
+      "outcome": "Claim dismissed; paragraph 6 held lawful and the 20% recovery decision Wednesbury reasonable; permission to appeal granted.",
+      "ratio": "Paragraph 6 of Schedule 4 to the 1998 Subsidy Order, providing nil subsidy where required Rent Officer referrals on renewal claims were omitted, is not an unlawful or disproportionate legislative sanction especially where section 140C(3) allows partial recovery; a banded percentage recovery reflecting systemic administrative failure can be a lawful exercise of discretion even where there was no net loss to the public purse.",
+      "legal_issues": [
+        "Whether Paragraph 6 of Schedule 4 to the 1998 Order is Wednesbury irrational or disproportionate",
+        "Whether recovery of 20% subsidy was a lawful exercise of section 140C(3) discretion",
+        "Whether failure to distinguish initial and renewal claim referrals invalidated the decision",
+        "Whether the sanction amounted to an unlawful penalty"
+      ],
+      "catchwords": [
+        "housing benefit subsidy",
+        "Rent Officer determination",
+        "judicial review",
+        "section 140C",
+        "Wednesbury unreasonableness",
+        "proportionality",
+        "local authority maladministration"
+      ],
+      "index_terms": [
+        "Isle of Anglesey",
+        "DWP recovery",
+        "renewed housing benefit claims",
+        "subsidy nil",
+        "percentage banding",
+        "Wilson v Secretary of State for Trade and Industry",
+        "Carson"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Wilson v Secretary of State for Trade and Industry [2003] UKHL 40",
+          "relation": "applied"
+        },
+        {
+          "citation": "R (Carson) v Secretary of State for Work and Pensions [2002] 3 All ER 994",
+          "relation": "applied"
+        },
+        {
+          "citation": "R v Brent LBC, ex parte Assegai (1987) 151 LGR 891",
+          "relation": "considered"
+        },
+        {
+          "citation": "R v Barnsley MBC, ex parte Hook [1976] 1 WLR 1052",
+          "relation": "considered"
+        },
+        {
+          "citation": "R (Association of British Civilian Internees: Far East Region) v Secretary of State for Defence [2003] 3 WLR 80",
+          "relation": "applied"
+        },
+        {
+          "citation": "R v Minister of Agriculture, Fisheries and Food, ex parte National Farmers' Union [1997] ECR I-4559",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Very full first-instance judgment with detailed statutory analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/2493.json",
+    "status": "done",
+    "notes": "Complete High Court judgment on common mistake of law in compromise agreement.",
+    "enrichment": {
+      "short_title": "Compromise to discontinue void for common mistake on claim form service",
+      "area_of_law": [
+        "Contract law",
+        "Civil procedure",
+        "Professional negligence",
+        "Personal injury"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Miss Brennan alleged carbon monoxide exposure from a faulty boiler in an Islington Council flat over many years; multiple firms of solicitors handled her claim with severe delay.",
+        "After a Recorder held the claim form was not validly served within four months, the Council's solicitor and Miss Brennan's solicitor orally agreed to discontinue the claim against the Council on a no-costs basis.",
+        "The Court of Appeal later reversed McCombe J in Anderton v Clwyd, establishing valid service; Miss Brennan sought to set aside the compromise as based on a common mistake of law."
+      ],
+      "procedural_posture": "Appeal by Miss Brennan against Deputy Master Eastman's refusal to stay the Council action on the ground the compromise was void for common mistake of law.",
+      "outcome": "Appeal allowed; compromise held void ab initio for common fundamental mistake that the claim form had not been validly served.",
+      "ratio": "A compromise agreement may be void for common mistake of law where both parties shared the fundamental assumption that the claim form had not been validly served and the action was doomed; following Kleinwort Benson, the mistake-of-law bar should not survive in contract/compromise cases, and this was not a give-and-take settlement but a agreement whose only springboard was the mistaken legal assumption.",
+      "legal_issues": [
+        "Whether common mistake of law can vitiate a compromise agreement",
+        "Whether the Unibank v Laib action remained extant after mortgagee sale satisfied the debt",
+        "Whether CSI International v Archway Personnel applied",
+        "Whether the settlement was a compromise of doubtful rights or agreement on a shared legal precondition"
+      ],
+      "catchwords": [
+        "common mistake of law",
+        "compromise agreement",
+        "consent order",
+        "CPR service of claim form",
+        "professional negligence",
+        "Kleinwort Benson",
+        "limitation"
+      ],
+      "index_terms": [
+        "Brennan v Burdon",
+        "Islington Council",
+        "carbon monoxide poisoning",
+        "Anderton v Clwyd",
+        "Godwin v Swindon",
+        "CSI International",
+        "Associated Japanese Bank v Credit du Nord"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Kleinwort Benson Ltd v Lincoln City Council [1999] 2 AC 349",
+          "relation": "applied"
+        },
+        {
+          "citation": "Anderton v Clwyd County Council [2002] 3 All ER 813",
+          "relation": "applied"
+        },
+        {
+          "citation": "CSI International v Archway Personnel [1980] 1 WLR 1069",
+          "relation": "distinguished"
+        },
+        {
+          "citation": "Rahman v Sterling Credit Ltd [2001] 1 WLR 496",
+          "relation": "applied"
+        },
+        {
+          "citation": "Associated Japanese Bank v Credit du Nord [1989] 1 WLR 255",
+          "relation": "applied"
+        },
+        {
+          "citation": "Huddersfield Banking Co v Henry Lister & Son Ltd [1895] 2 Ch 273",
+          "relation": "applied"
+        },
+        {
+          "citation": "Pankhania v London Borough of Hackney [2002] EWHC 2441 (Ch)",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment with detailed analysis of mistake of law in compromise context."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2659.json",
+    "status": "done",
+    "notes": "Complete judicial review judgment quashing custody time limit extension.",
+    "enrichment": {
+      "short_title": "Custody time limit extension quashed for inadequate listing inquiry",
+      "area_of_law": [
+        "Criminal procedure",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Prosecution of Offences Act 1985",
+          "provisions": ["s 22(3)"]
+        }
+      ],
+      "key_facts": [
+        "Khan was charged with two counts of wounding with intent, remanded in custody from March 2003, with trial fixed for 5 August 2003.",
+        "On 4 August the listing office removed the fixture after unexpected trials occupied the court on the preceding Monday; custody time limits were due to expire on 5 September.",
+        "On 4 September HHJ McCahill extended custody time limits to 17 January 2004 without rigorous inquiry into why the competing case took priority or alternative listing options."
+      ],
+      "procedural_posture": "Judicial review of Wolverhampton Crown Court decision extending custody time limits under section 22(3).",
+      "outcome": "Extension decision quashed as Wednesbury unreasonable for failure to conduct sufficiently rigorous inquiry; bail conditions subsequently negotiated.",
+      "ratio": "Although court unavailability can be good and sufficient cause to extend custody time limits, a judge must rigorously examine why an earlier trial date could not be maintained and why competing cases prevailed; extending limits without adequate information about the case that displaced the fixture or realistic earlier listing alternatives is susceptible to judicial review.",
+      "legal_issues": [
+        "Whether unavailability of court constituted good and sufficient cause under section 22(3)",
+        "Whether the Crown Court judge conducted a sufficiently rigorous inquiry",
+        "Whether listing office administrative error could justify extension",
+        "Scope of High Court supervision of custody time limit decisions"
+      ],
+      "catchwords": [
+        "custody time limits",
+        "section 22(3)",
+        "good and sufficient cause",
+        "listing difficulties",
+        "judicial review",
+        "Wednesbury unreasonableness",
+        "Crown Court"
+      ],
+      "index_terms": [
+        "Khan v Wolverhampton Crown Court",
+        "wounding with intent",
+        "trial fixture",
+        "listing office",
+        "ex parte McDonald",
+        "ex parte Marsden",
+        "ex parte Barraclough"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v Manchester Crown Court, ex parte McDonald [1999] 1 Cr App R 409",
+          "relation": "applied"
+        },
+        {
+          "citation": "R v Stoke on Trent Crown Court, ex parte Marsden (24 September 1998)",
+          "relation": "applied"
+        },
+        {
+          "citation": "R v Preston Crown Court, ex parte Barraclough [1999] Cr App R",
+          "relation": "applied"
+        },
+        {
+          "citation": "R v Crown Court at Minshull Street, ex parte S",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete judgment; bail discussion at end does not affect core ratio."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3123.json",
+    "status": "done",
+    "notes": "Complete strike-out judgment on joint tortfeasance pleading in patent action.",
+    "enrichment": {
+      "short_title": "Joint tortfeasor pleading struck out unless further particulars supplied",
+      "area_of_law": [
+        "Intellectual property",
+        "Patents",
+        "Civil procedure",
+        "Tort law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Ablaise sued Nettec Plc and Nettec Solutions for patent infringement relating to interactive website services; Nettec Plc claimed to be non-trading since January 2001.",
+        "Direct infringement allegations were accepted as arguable, but paragraph 6 pleaded joint tortfeasance by common design in sparse terms relying on common directors, corporate presentation as Nettec Plc, consolidated accounts, and parent-subsidiary relationship.",
+        "Claimant refused to amend despite substantial evidence suggesting Nettec Plc involvement, insisting on deficient pleading supplemented by evidence."
+      ],
+      "procedural_posture": "Application to strike out joint tortfeasance allegation against first defendant in patent infringement proceedings.",
+      "outcome": "Paragraph 6 ordered struck out unless claimant provided full particulars of joint tortfeasance by 14 November; direct infringement claims to continue.",
+      "ratio": "Joint tortfeasance requires conspiracy, procurement or inducement and some taking part in furtherance of a common design, not mere common directorship, subsidiary status, or outward corporate presentation; sparse pleading cannot survive even where evidence might support an arguable case if the claimant refuses to particularise properly.",
+      "legal_issues": [
+        "Whether paragraph 6 adequately pleaded joint tortfeasance by common design",
+        "Whether common directors and parent-subsidiary relationship suffice for joint liability",
+        "Whether evidence on strike-out application can substitute for deficient pleading",
+        "Proper approach to further information in patent infringement claims"
+      ],
+      "catchwords": [
+        "joint tortfeasor",
+        "common design",
+        "patent infringement",
+        "strike out",
+        "particulars of claim",
+        "procurement",
+        "knowing assistance"
+      ],
+      "index_terms": [
+        "Ablaise v Nettec",
+        "interactive websites",
+        "Sepracor v Hoechst Marion Roussel",
+        "Credit Lyonnais v ECGD",
+        "Unilever v Gillette",
+        "Unilever v Chefaro",
+        "dormant company"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Sepracor Inc v Hoechst Marion Roussel Ltd [1990] FSR 746",
+          "relation": "applied"
+        },
+        {
+          "citation": "Credit Lyonnais Bank Nederland NV v Export Credits Guarantee Department [1998] 1 Lloyd's Rep 19",
+          "relation": "applied"
+        },
+        {
+          "citation": "Unilever Plc v Gillette (UK) Ltd [1989] RPC 583",
+          "relation": "applied"
+        },
+        {
+          "citation": "Unilever Plc v Chefaro [1994] FSR 135",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete interlocutory judgment with clear pleading principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/2521.json",
+    "status": "done",
+    "notes": "Complete appeal judgment distinguishing CSI International on extant proceedings.",
+    "enrichment": {
+      "short_title": "Mortgagee sale does not end action so solicitor negligence claim survives",
+      "area_of_law": [
+        "Civil procedure",
+        "Professional negligence",
+        "Limitation",
+        "Mortgages"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Limitation Act 1980",
+          "provisions": ["s 35"]
+        },
+        {
+          "name": "Limitation Act 1939",
+          "provisions": ["s 28"]
+        }
+      ],
+      "key_facts": [
+        "Mr Laib borrowed in Deutschmarks from Unibank secured on his London flat; Unibank obtained possession in 1996 while the money claim stood over with liberty to restore.",
+        "After solicitor Mr Kalim died, new solicitors agreed with the Council to discontinue the first action believing the claim form had not been validly served within four months.",
+        "The property was sold in November 1996 and the mortgage debt satisfied with a surplus to Mr Laib; Master Foster struck out the solicitor negligence claim applying CSI International."
+      ],
+      "procedural_posture": "Appeal by Mr Laib against Master Foster's summary judgment/strike-out of professional negligence claim against solicitors who succeeded Mr Kalim.",
+      "outcome": "Appeal allowed; CSI International distinguished and negligence claim after 26 November 1996 held arguable.",
+      "ratio": "CSI International applies where a money judgment has been fully satisfied and no counterclaim was pleaded before satisfaction; where only a possession order has been enforced and the money claim remains extant with liberty to restore, satisfaction of the secured debt by mortgagee sale does not terminate the action, so a counterclaim against the mortgagee and related solicitor negligence claims are not barred by that principle.",
+      "legal_issues": [
+        "Whether the Unibank v Laib action remained extant after mortgagee sale",
+        "Whether CSI International v Archway Personnel applies to satisfied claims versus satisfied judgments",
+        "Whether solicitors were negligent after 26 November 1996",
+        "Whether section 35 Limitation Act 1980 applies to equitable set-off"
+      ],
+      "catchwords": [
+        "CSI International",
+        "extant proceedings",
+        "counterclaim",
+        "mortgagee sale",
+        "solicitor negligence",
+        "summary judgment",
+        "Limitation Act 1980"
+      ],
+      "index_terms": [
+        "Laib v Aravindan",
+        "Unibank",
+        "Master Dyson",
+        "possession order",
+        "money claim stood over",
+        "Rahman v Sterling Credit",
+        "HKH Partnership"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "CSI International v Archway Personnel [1980] 1 WLR 1069",
+          "relation": "distinguished"
+        },
+        {
+          "citation": "Rahman v Sterling Credit Ltd [2001] 1 WLR 496",
+          "relation": "applied"
+        },
+        {
+          "citation": "The Brede [1974] QB 233",
+          "relation": "considered"
+        },
+        {
+          "citation": "Philip Collins Ltd v Davis [2000] 3 All ER 808",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment with detailed procedural history and clear distinction from CSI."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3121.json",
+    "status": "done",
+    "notes": "Complete security for costs judgment in patent infringement action.",
+    "enrichment": {
+      "short_title": "Patent claimant ordered to provide £320,000 security for costs",
+      "area_of_law": [
+        "Civil procedure",
+        "Intellectual property",
+        "Patents",
+        "Costs"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Ablaise Ltd, an impecunious company, brought High Court patent infringement proceedings with a five-to-seven-day trial estimate; defendants estimated future costs from CMC to trial at about £490,000.",
+        "An earlier £60,000 security order had been paid; defendants now sought about £320,000 (two-thirds of future costs) for the post-CMC period.",
+        "Claimant failed to demonstrate litigation would be stifled: shareholders including Mark Bernstein had substantial undisclosed assets and incomplete financial disclosure undermined stifling argument."
+      ],
+      "procedural_posture": "Application for security for costs from case management conference through trial in patent infringement action.",
+      "outcome": "Security for costs ordered in the sum of £320,000 for period from CMC to trial.",
+      "ratio": "Under Keary Developments, a claimant must prove it is probable the claim would be stifled by an order for security, including showing inability to raise funds from directors, shareholders or backers; incomplete disclosure of shareholder resources and neutral prospects of success do not justify refusing security where defendants face certain irrecoverable costs if successful.",
+      "legal_issues": [
+        "Whether security for costs would stifle the patent claim",
+        "Whether defendants' estimated costs of £490,000 were reasonable",
+        "Whether claimant discharged burden to disclose resources of shareholders and backers",
+        "Whether impecuniosity caused by defendants' conduct or strong merits justified refusing security"
+      ],
+      "catchwords": [
+        "security for costs",
+        "patent litigation",
+        "stifling litigation",
+        "Keary Developments",
+        "impecunious company",
+        "corporate veil",
+        "costs estimate"
+      ],
+      "index_terms": [
+        "Ablaise v Nettec",
+        "Peter Gibson LJ",
+        "Flender Werft",
+        "Trident International",
+        "third party funding",
+        "High Court patent action"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Keary Developments Ltd v Tarmac Construction Ltd [1995] 3 All ER 534",
+          "relation": "applied"
+        },
+        {
+          "citation": "Trident International Freight Services Ltd v Manchester Ship Canal Co [1990] BCLC 263",
+          "relation": "considered"
+        },
+        {
+          "citation": "Flender Werft AG v Aegean Maritime Ltd [1990] 2 Lloyd's Rep 27",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete security for costs judgment with detailed fact findings on assets."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/2450.json",
+    "status": "done",
+    "notes": "Full trial judgment on Selby rail crash contribution claim.",
+    "enrichment": {
+      "short_title": "No negligence in M62 safety fence length after Selby rail crash",
+      "area_of_law": [
+        "Tort law",
+        "Negligence",
+        "Highways",
+        "Personal injury",
+        "Contribution"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Civil Liability (Contribution) Act 1978",
+          "provisions": ["s 1(1)", "s 2", "s 6"]
+        },
+        {
+          "name": "Highways Act 1959",
+          "provisions": ["s 67"]
+        },
+        {
+          "name": "Highways Act 1980",
+          "provisions": ["s 66"]
+        },
+        {
+          "name": "Road Traffic Act 1988",
+          "provisions": ["s 39"]
+        }
+      ],
+      "key_facts": [
+        "On 28 February 2001 Hart fell asleep driving on the M62; his Land Rover and trailer left the carriageway, descended an embankment and fouled the East Coast Main Line, causing a derailment in which ten people died.",
+        "Hart's insurers, by subrogation, sought contribution from the Secretary of State for Transport alleging the approach safety fence at Little Heck Bridge was negligently too short by about 7 metres.",
+        "Expert evidence showed the 33.5-metre full-height fence met TD 19/85 and BE5 minimum standards and post-accident risk ranking scored the site as low risk."
+      ],
+      "procedural_posture": "Trial of contribution claim under the 1978 Act following Hart's admitted liability in Selby disaster litigation.",
+      "outcome": "Contribution claim dismissed; Department of Transport not negligent in 1974 design or 1993/1995 maintenance of safety fence.",
+      "ratio": "A highway authority owes a duty to take reasonable care to users of the highway and foreseeable victims on neighbouring land when creating bridge approaches over railways, but the length of approach safety fencing is a site-specific exercise of professional judgment judged by Bolam; meeting long-standing minimum standards and low ex post risk assessment can defeat negligence even where a longer fence might have prevented a particular incursion.",
+      "legal_issues": [
+        "Whether the Department owed a duty of care to persons on the railway line",
+        "Whether the approach safety fence length was negligently short in 1974",
+        "Whether Bolam or hindsight negligence standard applied to fence design",
+        "Whether 1993/1995 reconstruction created fresh negligence",
+        "Whether ex turpi causa barred Hart's contribution claim"
+      ],
+      "catchwords": [
+        "Selby rail crash",
+        "contribution",
+        "highway authority negligence",
+        "safety fence",
+        "motorway bridge",
+        "Bolam test",
+        "Stovin v Wise",
+        "ex turpi causa"
+      ],
+      "index_terms": [
+        "Great North Eastern Railway v Hart",
+        "Little Heck Bridge",
+        "M62",
+        "errant vehicle",
+        "TD 19/85",
+        "Open Box Beam",
+        "Caparo",
+        "Harbinson"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Baxter v Stockton-on-Tees Corporation [1959] 1 QB 441",
+          "relation": "applied"
+        },
+        {
+          "citation": "Stovin v Wise [1996] AC 923",
+          "relation": "distinguished"
+        },
+        {
+          "citation": "Caparo Industries Plc v Dickman [1990] 2 AC 605",
+          "relation": "applied"
+        },
+        {
+          "citation": "Harbinson v Department of the Environment for Northern Ireland [1983] 9 NIJB",
+          "relation": "applied"
+        },
+        {
+          "citation": "Levine v Morris [1970] 1 WLR 71",
+          "relation": "applied"
+        },
+        {
+          "citation": "K v P [1993] Ch 140",
+          "relation": "applied"
+        },
+        {
+          "citation": "Kane v New Forest District Council [2002] 1 WLR 312",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Very full trial judgment with extensive expert and documentary evidence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1614.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on structure plan Gypsy site policy.",
+    "enrichment": {
+      "short_title": "Gypsy site structure plan policy quashed for panel departure procedure breach",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Gypsy and traveller accommodation"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Town and Country Planning (Development Plan) (England) Regulations 1999",
+          "provisions": ["reg 15(4)"]
+        },
+        {
+          "name": "Caravan Sites Act 1968",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Four Avon-area unitary authorities jointly adopted a replacement structure plan including Policy 37 on Gypsy and traveller site provision.",
+        "The examination panel recommended that local plans 'identify suitable locations' for Gypsy sites, reflecting failure of existing criteria-only policies.",
+        "Adopted Policy 37 required local plans only to 'set out policies' with criteria, not to identify specific locations; appellant Romany Gypsy challenged the legality of that departure."
+      ],
+      "procedural_posture": "Appeal against refusal of application to quash Policy 37 of joint structure plan under six-week statutory challenge procedure.",
+      "outcome": "Appeal allowed; Policy 37 quashed for breach of regulation 15(4) failure to follow departure procedure from panel recommendation.",
+      "ratio": "Where an examination panel recommends that local plans identify suitable Gypsy site locations rather than merely set criteria, adopting a structure plan policy that only requires criteria-based local plan policies is a departure from the recommendation triggering regulation 15(4); authorities may depart but must list non-accepted recommendations and invite objections before adoption.",
+      "legal_issues": [
+        "Whether Policy 37 departed from panel recommendation R21",
+        "Meaning of 'identified in local plans' versus criteria-based policies",
+        "Whether regulation 15(4) procedure was required",
+        "Interpretation of Circular 1/94 national Gypsy site planning policy"
+      ],
+      "catchwords": [
+        "structure plan",
+        "Gypsy sites",
+        "travellers",
+        "examination in public",
+        "regulation 15",
+        "panel recommendation",
+        "development plan",
+        "Circular 1/94"
+      ],
+      "index_terms": [
+        "Butler v Bath and North East Somerset",
+        "Policy 37",
+        "South Gloucestershire",
+        "site identification",
+        "criteria-based policy",
+        "Joint Strategic Planning Committee",
+        "unauthorised encampments"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Minister of Home Affairs v Fisher [1980] AC 319",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete Court of Appeal judgment with clear procedural ruling."
+      }
+    }
+  }
+]

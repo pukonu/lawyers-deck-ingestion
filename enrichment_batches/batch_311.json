@@ -1,0 +1,657 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/1660.json",
+    "status": "needs_review",
+    "notes": "Very large TCC trial judgment on sewage works performance; source full_text ends mid-sentence at paragraph 524 so final disposition is unavailable.",
+    "enrichment": {
+      "short_title": "Knostrop sewage works SBR performance dispute",
+      "area_of_law": [
+        "Construction and engineering",
+        "Contract law",
+        "Environmental law",
+        "Expert evidence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Yorkshire Water engaged Taylor Woodrow under an IChemE Red Book design-and-build contract to upgrade the Knostrop sewage treatment works serving Leeds.",
+        "The dispute centred on a sequencing batch reactor (SBR) supplied and installed by Taylor Woodrow, with Biwater as process sub-contractor.",
+        "Yorkshire Water alleged the SBR could not meet contractual capacity and effluent quality requirements, citing solids carry-over, selector capacity and nitrification failures.",
+        "Extensive expert evidence addressed sludge age, SSVI, microthrix parvicella control, industrial pollution in influent and Phase 1 remedial works."
+      ],
+      "procedural_posture": "High Court Technology and Construction Court trial of a design-and-build performance claim.",
+      "outcome": "Source judgment text is truncated before any final order or overall claim disposition is recorded.",
+      "ratio": "Unavailable in source: the stored judgment ends while the judge is explaining Yorkshire Water's burden to prove Taylor Woodrow could not meet performance requirements.",
+      "legal_issues": [
+        "Whether the SBR met contractual performance and effluent quality requirements",
+        "Treatment and selector capacity, solids carry-over and nitrification",
+        "Causation of operational failures including industrial pollution and operator strategy",
+        "Expert methodology on sludge age, SSVI and winter nitrification"
+      ],
+      "catchwords": [
+        "sequencing batch reactor",
+        "sewage treatment",
+        "IChemE Red Book",
+        "design and build",
+        "nitrification",
+        "solids carry-over",
+        "performance specification"
+      ],
+      "index_terms": [
+        "Yorkshire Water",
+        "Taylor Woodrow",
+        "Biwater",
+        "Knostrop",
+        "River Aire",
+        "wastewater treatment",
+        "process engineering",
+        "expert evidence"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.55,
+        "level": "medium",
+        "notes": "Core subject matter and late reasoning on nitrification are clear, but the missing conclusion prevents reliable outcome or ratio extraction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1596.json",
+    "status": "done",
+    "notes": "CGT qualifying loan appeal on case stated; s.253 TCGA 1992 analysis and Edwards v Bairstow review are clear.",
+    "enrichment": {
+      "short_title": "CGT relief refused on non-qualifying refinance loan",
+      "area_of_law": [
+        "Tax law",
+        "Capital gains tax",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Taxation of Chargeable Gains Act 1992",
+          "provisions": [
+            "section 253"
+          ]
+        },
+        {
+          "title": "Income and Corporation Taxes Act 1988",
+          "provisions": [
+            "section 74"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Robson appealed by case stated against an estimated CGT assessment on the 1994-95 disposal of High Yedmandale Farm for a gain of about £148,950.",
+        "He claimed s.253(4) relief after paying £151,000 from the sale proceeds to Barclays in reduction of a company term loan he had guaranteed.",
+        "The General Commissioners found the 1993 refinance loan was not a qualifying loan because prior borrowing had funded work on Mr Robson's Queen Street property rather than the company's trade.",
+        "Records were poor, with no invoices or contracts for substantial company work done for the controlling shareholder."
+      ],
+      "procedural_posture": "High Court appeal by way of case stated from the General Commissioners on TCGA 1992 s.253.",
+      "outcome": "Taxpayer's appeal dismissed; the 1993 loan was not a qualifying loan and, although the Commissioners could accept the guarantee payment point, that issue did not arise once the loan failed s.253(1).",
+      "ratio": "Under s.253(1) TCGA 1992 the inquiry is to the use made of the loan; a refinance loan does not become qualifying merely by consolidating existing borrowing unless the replaced indebtedness was itself used wholly to serve the borrower's trade, and refinancing non-qualifying personal borrowing on improved terms does not convert it into a qualifying loan.",
+      "legal_issues": [
+        "Meaning of 'qualifying loan' in s.253(1) TCGA 1992",
+        "Whether a refinance loan must be judged by the use of the replaced borrowing",
+        "Whether s.253(4) guarantee relief was available on the facts found",
+        "Appropriateness of Edwards v Bairstow review of General Commissioners' findings"
+      ],
+      "catchwords": [
+        "capital gains tax",
+        "qualifying loan",
+        "guarantee relief",
+        "refinance",
+        "case stated",
+        "trade purpose"
+      ],
+      "index_terms": [
+        "Robson Developments",
+        "Barclays Bank",
+        "Queen Street property",
+        "General Commissioners",
+        "director's loan account",
+        "Edwards v Bairstow"
+      ],
+      "linked_authorities": [
+        "Morgan v Tate & Lyle Ltd [1955] AC 21",
+        "Strong & Co of Romsey Ltd v Woodifield [1906] AC 448",
+        "Bentleys, Stokes & Lowless v Beeson (HMIT) [1952] 33 TC 491",
+        "Mallalieu v Drummond [1983] 2 AC 861",
+        "Vodafone Cellular Ltd v Shaw (HMIT) [1997] STC 734"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Outcome, statutory reasoning and key facts are explicit throughout the case stated appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1763.json",
+    "status": "done",
+    "notes": "Unfair prejudice petition on secret property acquisition; buy-out relief in principle though form of order deferred.",
+    "enrichment": {
+      "short_title": "Unfair prejudice over secret landlord property purchase",
+      "area_of_law": [
+        "Company law",
+        "Shareholders' remedies",
+        "Equity and trusts",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 461"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Baumler (UK) Limited was an equal two-director company importing Hans Baumler clothing, with Mr Gerrard holding 490 shares and Mr Koby 510 shares.",
+        "The company operated from Geko House under leases from landlord Sarena Limited and had opportunities from 1999 to buy the surrounding Property.",
+        "Mr Koby secretly procured purchase of the Property by Howard Ronson's Vermeer Properties for £1.35m, excluding Mr Gerrard and the company from the transaction.",
+        "Relations broke down and Mr Gerrard petitioned for unfair prejudice, seeking a buy-out order."
+      ],
+      "procedural_posture": "Section 461 unfair prejudice petition in the Companies Court.",
+      "outcome": "Petition succeeded in principle; Mr Gerrard's interests were unfairly prejudiced and relief should include a buy-out order, with the precise form of buy-out left for further argument.",
+      "ratio": "Where a quasi-partnership company required unanimity on major decisions, a majority director's secret arrangement for an associate to acquire property the company was seeking to buy, for his own benefit and contrary to the relationship of mutual confidence, amounted to unfair prejudice warranting buy-out relief.",
+      "legal_issues": [
+        "Whether Mr Koby's conduct amounted to unfair prejudice under section 461",
+        "Whether secret procurement of the Property purchase breached fiduciary duties and quasi-partnership expectations",
+        "What buy-out order was appropriate between minority and majority shareholders"
+      ],
+      "catchwords": [
+        "unfair prejudice",
+        "quasi-partnership",
+        "buy-out order",
+        "breach of fiduciary duty",
+        "secret profit",
+        "shareholder dispute"
+      ],
+      "index_terms": [
+        "Baumler UK",
+        "Geko House",
+        "Sarena",
+        "Howard Ronson",
+        "Vermeer Properties",
+        "clothing agency",
+        "section 461 petition"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Findings of unfair prejudice and provisional buy-out relief are clear; only the final form of the buy-out order was deferred."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2530.json",
+    "status": "needs_review",
+    "notes": "Theft appeal; inadequate good character direction quashed conviction; no retrial in public interest. Judges metadata lists historical Law Lords.",
+    "enrichment": {
+      "short_title": "Theft conviction quashed for inadequate good character direction",
+      "area_of_law": [
+        "Criminal law",
+        "Theft",
+        "Trial procedure",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Theft Act 1968",
+          "provisions": [
+            "section 2(1)(a)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Bailey removed nickel belonging to Western Mining Corporation after a shortfall in metal owed to him by AMA.",
+        "He sold the nickel despite police advice that it belonged to Western Mining; the jury had to decide dishonesty.",
+        "The Recorder gave a brief good character direction near the end of a two-day summing-up without linking character to propensity to dishonesty.",
+        "CPS accepted a retrial was not in the public interest after the community order was served and compensation was settled via insurers."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal after Gage J refused leave; renewed permission granted.",
+      "outcome": "Appeal allowed; conviction quashed; no retrial ordered; defendants costs order made for permission application costs.",
+      "ratio": "Where dishonesty is the central issue, a good character direction must adequately explain how absence of previous convictions bears on the defendant's propensity to act dishonestly; an inadequate direction renders the conviction unsafe.",
+      "legal_issues": [
+        "Adequacy of good character direction in a dishonesty theft trial",
+        "Whether conviction is unsafe without a retrial",
+        "Defendants costs order for privately funded permission application"
+      ],
+      "catchwords": [
+        "good character direction",
+        "dishonesty",
+        "theft",
+        "unsafe conviction",
+        "no retrial"
+      ],
+      "index_terms": [
+        "Western Mining Corporation",
+        "nickel",
+        "community punishment order",
+        "summings-up",
+        "Vye direction"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Outcome and direction defect are clear; judges metadata corrupted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/944.json",
+    "status": "done",
+    "notes": "Permission to appeal on samosa production line warranties, implied fitness and damages; costs stay conditions are clear.",
+    "enrichment": {
+      "short_title": "Permission to appeal on samosa pastry line warranties",
+      "area_of_law": [
+        "Sale of goods and supply of services",
+        "Contract law",
+        "Commercial litigation",
+        "Damages"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Sale of Goods Act 1979",
+          "provisions": []
+        },
+        {
+          "title": "Supply of Goods and Services Act 1982",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Filobake bought a divided production line from Rondo and Frampton to extrude, bake and cool filo pastry for commercial samosa production.",
+        "Each supplier gave performance warranties, but HHJ Seymour QC construed the first defendant's warranty narrowly and did not fully analyse implied fitness for purpose or damages.",
+        "Expert evidence showed the line could not produce pastry with sufficient longitudinal strength or target moisture for acceptable samosas.",
+        "Filobake had failed to pay a £30,000 costs-on-account order while seeking permission to appeal."
+      ],
+      "procedural_posture": "Single Lord Justice permission to appeal application after trial on breach and quantum.",
+      "outcome": "Permission to appeal granted generally; further £30,000 costs-on-account payment stayed unless second defendant's solicitors undertake to repay it if the appeal succeeds.",
+      "ratio": "It is arguable that performance warranties requiring production of samosa pastry to an attached recipe, together with implied fitness-for-purpose obligations on divided equipment, were construed too narrowly and that damages for lost profits or wasted expenditure warrant review if breach is established.",
+      "legal_issues": [
+        "Construction of express performance warranties for samosa pastry production",
+        "Implied fitness for purpose where equipment from two suppliers was intended to operate together",
+        "Allocation of risk where moisture content assumptions differed between suppliers",
+        "Whether damages for lost profits or wasted expenditure were wrongly rejected"
+      ],
+      "catchwords": [
+        "performance warranty",
+        "fitness for purpose",
+        "food machinery",
+        "lost profits",
+        "wasted expenditure",
+        "permission to appeal"
+      ],
+      "index_terms": [
+        "Filobake",
+        "Rondo",
+        "Frampton International",
+        "filo pastry",
+        "samosa production",
+        "expert evidence",
+        "costs on account"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Permission reasoning and interim costs order are explicit, though full trial findings were not reviewed on the merits."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/1625.json",
+    "status": "done",
+    "notes": "Arbitration Act 1996 challenge to interest award; jurisdiction and issue estoppel analysis is detailed and outcome clear.",
+    "enrichment": {
+      "short_title": "Partial set-aside of arbitrator's pre-1995 interest award",
+      "area_of_law": [
+        "Arbitration",
+        "Commercial law",
+        "Restitution and quantum meruit",
+        "Legal profession"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 49",
+            "section 57",
+            "section 67",
+            "section 68",
+            "section 70",
+            "section 73"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Westland retained Saudi lawyer Al-Hejailan under a 1985 engagement letter with a success fee for settling claims against Saudi Arabia over the Arab Organisation for Industrialisation dispute.",
+        "After Kerr J's interim award rejected a success fee but reserved quantum meruit on hourly rates, Tackaberry QC valued work by a notional annual retainer of US $450,000 and awarded substantial interest.",
+        "Westland challenged interest under sections 67 and 68, having not earlier challenged jurisdiction over the retainer methodology for commercial reasons.",
+        "Interest had been expressly abandoned before Kerr but partially revived in a 2001 letter and at the 2001 hearing."
+      ],
+      "procedural_posture": "Commercial Court applications under sections 67 and 68 of the Arbitration Act 1996 to set aside parts of a second interim arbitral award.",
+      "outcome": "Interest for the period before January 1995 was set aside for want of jurisdiction; interest from 1995 was within jurisdiction and not affected by serious irregularity under section 68.",
+      "ratio": "Where a claimant withdraws an interest claim from the reference it may be reinstated only if clearly revived and not objected to; an arbitrator could award interest from 1995 but not for an earlier period never referred, and Westland was estopped from challenging the capital award methodology it had failed to challenge within section 70(3).",
+      "legal_issues": [
+        "Whether the arbitrator had jurisdiction to award interest after an earlier abandonment",
+        "Whether issue estoppel prevented challenging the retainer-based capital award when attacking interest",
+        "Whether failure to allow submissions amounted to serious irregularity under section 68",
+        "Scope of section 73 where jurisdiction could have been raised at the 2001 hearing"
+      ],
+      "catchwords": [
+        "arbitral interest",
+        "quantum meruit",
+        "issue estoppel",
+        "section 67",
+        "section 68",
+        "success fee",
+        "jurisdiction challenge"
+      ],
+      "index_terms": [
+        "Westland Helicopters",
+        "Al-Hejailan",
+        "Sir Michael Kerr",
+        "John Tackaberry QC",
+        "AOI arbitration",
+        "annual retainer",
+        "section 49 interest"
+      ],
+      "linked_authorities": [
+        "Fidelitas Shipping Ltd v V/o Exportchleb [1966] QB 630",
+        "JSC Zestafoni G Nikoladze Ferroalloy Plant v Ronly Holdings Ltd [2004] EWHC 245 (Comm)",
+        "Westland Helicopters Ltd v Arab Organisation for Industrialisation [1994] 2 Lloyd's Rep 608",
+        "Way v Latilla [1937] 3 All ER 759"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed reasoning on jurisdiction, estoppel and section 68 is explicit with a clear split outcome on interest periods."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/865.json",
+    "status": "done",
+    "notes": "Race Relations Act s.11 organisation classification appeal; MPS held to be an organisation of workers.",
+    "enrichment": {
+      "short_title": "Medical defence society is organisation of workers under RRA",
+      "area_of_law": [
+        "Discrimination law",
+        "Employment law",
+        "Professional regulation",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Race Relations Act 1976",
+          "provisions": [
+            "section 11",
+            "section 25",
+            "section 57",
+            "section 78"
+          ]
+        },
+        {
+          "title": "Trade Union and Labour Relations (Consolidation) Act 1992",
+          "provisions": [
+            "section 1",
+            "section 296"
+          ]
+        },
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 230"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Sadek, an NHS doctor and MPS member, claimed race discrimination after the Medical Protection Society stopped funding employment tribunal advice.",
+        "The employment tribunal and EAT held the MPS was an organisation within section 11(1), giving the tribunal jurisdiction.",
+        "The MPS is a mutual medical defence organisation providing advice, representation and indemnities to medical and allied professionals.",
+        "The Court of Appeal had to decide whether the MPS was an 'organisation of workers' and/or an 'other organisation' whose members carry on a profession."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal on a preliminary jurisdiction issue in an employment tribunal race discrimination claim.",
+      "outcome": "Appeal dismissed; the MPS is an organisation of workers within section 11(1) so the employment tribunal had jurisdiction.",
+      "ratio": "Profession is widely defined in the Race Relations Act and medical practitioners may be workers; the MPS, whose members practise professions and receive membership benefits, falls within the first category of section 11(1), and the third 'any other organisation' category is unavailable where the first category applies.",
+      "legal_issues": [
+        "Whether the MPS is an 'organisation of workers' under section 11(1) RRA 1976",
+        "Relationship between the first and third categories in section 11(1)",
+        "Whether professional/client exclusions in other employment statutes apply",
+        "Whether alternative remedies under section 25 in the county court were sufficient"
+      ],
+      "catchwords": [
+        "race discrimination",
+        "medical defence organisation",
+        "section 11",
+        "organisation of workers",
+        "employment tribunal jurisdiction",
+        "professional membership"
+      ],
+      "index_terms": [
+        "Medical Protection Society",
+        "Dr Sadek",
+        "Birmingham Heartlands NHS Trust",
+        "Medical Defence Union",
+        "British Medical Association",
+        "professional indemnity"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory construction, facts about the MPS and appeal outcome are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1003.json",
+    "status": "done",
+    "notes": "Slip rule permission appeal with immediate disposal; remittal for quantum rehearing is clearly ordered.",
+    "enrichment": {
+      "short_title": "Slip rule correction set aside and damages remitted",
+      "area_of_law": [
+        "Contract law",
+        "Damages",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 1.1",
+            "rule 40.12"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Heather sued Mr Greenacre and Mr Griffiths over a 1994 agreement to employ him in Nene Packaging Ltd and grant him 30% of the shares.",
+        "After settlement with Greenacre for £15,000, Griffiths was absent at the liability trial and judgment for damages to be assessed followed.",
+        "HHJ Metcalf awarded £6,758 for lost salary but no share loss, then corrected the order to nil under the slip rule after omitting the £15,000 settlement credit.",
+        "Both litigants acted in person and disputed whether the later correction was a permissible slip correction."
+      ],
+      "procedural_posture": "Single Lord Justice permission to appeal application treated as an immediate appeal on CPR 40.12 slip rule correction.",
+      "outcome": "Permission granted; appeals allowed; orders of 2 and 9 October 2003 set aside and the case remitted to Northampton County Court to determine whether total damages exceed £15,000.",
+      "ratio": "Where a judge plainly failed to deduct an agreed settlement payment from assessed damages, it is arguable whether post-sealing correction under CPR 40.12 was within power; on appeal the proper course was to set aside both orders and remit quantum rather than leave conflicting orders in place.",
+      "legal_issues": [
+        "Scope of CPR 40.12 slip rule after an order has been sealed and issued",
+        "Whether correction of a major deduction was a slip or a change of mind",
+        "Appropriate disposal where both parties sought permission to appeal",
+        "Assessment of loss of salary and share value in a packaging business venture"
+      ],
+      "catchwords": [
+        "slip rule",
+        "CPR 40.12",
+        "damages assessment",
+        "settlement credit",
+        "litigant in person",
+        "remittal"
+      ],
+      "index_terms": [
+        "Nene Packaging",
+        "Northampton County Court",
+        "share allocation",
+        "lost salary",
+        "Bristol-Myers Squibb v Baker Norton",
+        "Markos v Goodfellow"
+      ],
+      "linked_authorities": [
+        "Bristol-Myers Squibb Company v Baker Norton Pharmaceuticals Inc [2001] EWCA Civ 414",
+        "Markos v Goodfellow [2002] EWCA Civ 1542"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Procedural history, slip rule issue and remittal order are all explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1905.json",
+    "status": "done",
+    "notes": "CITES condemnation JR on CEMA s.141 ejusdem generis and proportionality; scope narrowed to 39 birds.",
+    "enrichment": {
+      "short_title": "Endangered parrot condemnation upheld under section 141 CEMA",
+      "area_of_law": [
+        "Administrative law",
+        "Customs and excise",
+        "Environmental and wildlife law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Customs and Excise Management Act 1979",
+          "provisions": [
+            "section 141",
+            "section 154",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Control of Trade in Endangered Species (Enforcement) Regulations 1997",
+          "provisions": [
+            "Regulation 5"
+          ]
+        },
+        {
+          "title": "European Communities Act 1972",
+          "provisions": [
+            "section 2"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Customs seized 144 endangered parrots from Mr Sissen's Cornhill Conservation Centre after convictions for smuggling Lear's and Blue-Headed Macaws.",
+        "A magistrate would have returned 100 birds, but the Crown Court condemned more; on review the challenge was narrowed to 39 birds of specified species.",
+        "The Crown Court found Mr Sissen was a serial smuggler who kept poor records, mixed flocks and could conceal illegally imported birds among lawfully bred stock.",
+        "Mr Sissen argued section 141 required species-by-species linkage and that birds in separate aviaries were not 'found with' unlawfully imported birds."
+      ],
+      "procedural_posture": "Judicial review of Crown Court condemnation proceedings that should have proceeded by case stated.",
+      "outcome": "Judicial review dismissed; condemnation of the 39 birds upheld, with proportionality balancing personal mitigation against enforcement of CITES obligations; Customs costs reduced to £13,000.",
+      "ratio": "Section 141(1)(b) CEMA applies disjunctively and, in enforcing CITES trade controls, endangered birds of like kind kept on the same premises may be treated as found with unlawfully imported specimens without requiring identical species or common aviaries; proportionality did not favour return given repeated offending and deliberate concealment.",
+      "legal_issues": [
+        "Meaning of 'mixed, packed or found' in section 141(1)(b) CEMA",
+        "Whether ejusdem generis requires species-specific matching of seized birds",
+        "Reverse burden of proof under section 154 and Regulation 5",
+        "Whether condemnation was disproportionate given prior sentence and confiscation"
+      ],
+      "catchwords": [
+        "CITES",
+        "endangered species",
+        "condemnation",
+        "forfeiture",
+        "ejusdem generis",
+        "proportionality",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Cornhill Conservation Centre",
+        "Lear's Macaw",
+        "Blue-Headed Macaw",
+        "Customs and Excise",
+        "parrot smuggling",
+        "Council Regulation 338/97",
+        "case stated"
+      ],
+      "linked_authorities": [
+        "R v Uxbridge Justices ex parte Webb [1993] 162 JP 198",
+        "Travell v Commissioners of Customs and Excise [1997] 162 JP 181",
+        "Lindsay v Customs and Excise Commissioners [2002] 1 WLR 1766",
+        "Customs and Excise Commissioners v Air Canada [1991] 2 QB 446"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Grounds, factual findings, narrowed bird count and outcome are clear despite an opaque Crown Court judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1198.json",
+    "status": "done",
+    "notes": "Permission to appeal refused on liquidator misfeasance findings; Park J's insolvency and fiduciary duty analysis treated as unassailable.",
+    "enrichment": {
+      "short_title": "Permission refused on director misfeasance over sale proceeds",
+      "area_of_law": [
+        "Company law",
+        "Insolvency law",
+        "Directors' duties",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 212",
+            "section 727"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The liquidator of MDA Investment Management Ltd challenged Mr Doney for misfeasance and breach of fiduciary duty over a July 1998 business sale.",
+        "About £1 million cash went to the company but over half the £2.4 million total consideration was diverted to the MDA partnership in which Mr Doney was the largest partner.",
+        "Park J found the company was cash-flow insolvent and Mr Doney had diverted sale value to himself while creditors remained unpaid.",
+        "Mr Doney also failed to obtain relief under section 727 and the judge refused to exercise discretion in his favour."
+      ],
+      "procedural_posture": "Application for permission to appeal to the Court of Appeal against Park J's trial and supplementary judgments.",
+      "outcome": "Permission to appeal refused with costs assessed at £5,000.",
+      "ratio": "Where a trial judge has made detailed findings that an insolvent company's director diverted more than half the proceeds of a business sale to a partnership he controlled, an appellate court will not interfere with misfeasance and breach of fiduciary duty conclusions or the refusal of section 727 relief on a mere disagreement with fact-finding.",
+      "legal_issues": [
+        "Whether misfeasance required proof of balance sheet insolvency or only cash-flow insolvency",
+        "Whether diverted sale proceeds were surplus rather than creditor property",
+        "Correct approach to section 727 relief from liability for misfeasance",
+        "Whether Park J's exercise of discretion on section 727 was open to appeal"
+      ],
+      "catchwords": [
+        "misfeasance",
+        "breach of fiduciary duty",
+        "liquidator",
+        "sale of business",
+        "section 727",
+        "permission to appeal",
+        "insolvency"
+      ],
+      "index_terms": [
+        "MDA Investment Management",
+        "Malcolm Doney",
+        "Farlake",
+        "loan stock",
+        "director diversion",
+        "Park J"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Permission refusal reasoning and core findings relied on are clearly summarised, though the full trial judgment is not reproduced."
+      }
+    }
+  }
+]

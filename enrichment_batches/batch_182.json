@@ -1,0 +1,778 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2977.json",
+    "status": "done",
+    "notes": "Full judgment available. Planning JR with detailed procedural fairness analysis.",
+    "enrichment": {
+      "short_title": "Planning approval quashed where council failed to consider its own safety objections in reserved matters decision",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government Act 1972",
+          "provisions": ["s.100A", "s.100B", "Sch 12A para 12"]
+        },
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Tendring District Council refused planning permission in February 2003 for 77 dwellings at Parkeston near a Carless refinery within HSE consultation distance, citing safety/evacuation and highway environmental capacity concerns.",
+        "After a confidential report summarising counsel's advice on costs risk, a differently composed committee approved reserved matters and full permission in June 2003 without adequately addressing those objections in the public report.",
+        "An inspector later dismissed the developer's appeal on safety grounds; local residents challenged the June approvals by judicial review."
+      ],
+      "procedural_posture": "High Court judicial review of two linked planning decisions: approval of reserved matters for 77 dwellings and grant of full permission for ancillary parking and pumping station.",
+      "outcome": "Both June 2003 approvals quashed; defendant ordered to pay claimant's costs on the standard basis subject to detailed assessment.",
+      "ratio": "A local planning authority's own earlier reasons for refusing development remain material when determining reserved matters where outline permission did not cap dwelling numbers; it is procedurally unfair and misleading to omit those objections from the public committee report and address their merits only in closed session via counsel's advice.",
+      "legal_issues": [
+        "Whether February refusal grounds were material to June reserved matters applications",
+        "Whether the authority could control dwelling numbers at the reserved matters stage under a bare outline permission",
+        "Whether dealing with safety objections in a confidential report breached procedural fairness",
+        "Whether counsel's advice and costs risk were irrelevant considerations"
+      ],
+      "catchwords": [
+        "planning judicial review",
+        "reserved matters",
+        "material considerations",
+        "major hazard installation",
+        "consultation distance",
+        "HSE",
+        "environmental capacity",
+        "exempt information",
+        "procedural fairness"
+      ],
+      "index_terms": [
+        "Tendring District Council",
+        "Parkeston",
+        "Brickfield site",
+        "Carless Solvents",
+        "Barrett Homes",
+        "outline planning permission",
+        "Development Control Committee"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Newbury District Council ex p Chieveley Parish Council",
+          "citation": "[1999] PLCR 51"
+        },
+        {
+          "name": "NJ Stoop v Royal Borough of Kensington and Chelsea",
+          "citation": "[1991] JPL 1129"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment with clear outcome and ratio on reserved matters and fairness."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/2844.json",
+    "status": "done",
+    "notes": "Landmark pre-Arkin judgment on third-party costs against professional litigation funders.",
+    "enrichment": {
+      "short_title": "Professional litigation funder MPC not liable for defendants' costs after failed Arkin competition claim",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Litigation funding",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": ["s.58"]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": ["s.27"]
+        },
+        {
+          "title": "Senior Courts Act 1981",
+          "provisions": ["s.51(3)"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["r.25.14(2)(b)"]
+        }
+      ],
+      "key_facts": [
+        "Managers and Processors of Claims (MPC) funded expert and disbursement costs for impecunious claimant Mr Arkin's large commercial competition claim under a contingent fee agreement taking 25%/23% of recoveries.",
+        "Arkin's claim failed at trial; defendants sought third-party costs orders against MPC, emphasising MPC's profit share and lack of ATE insurance.",
+        "MPC's agreement gave conduct of proceedings to Arkin and leading counsel, with MPC unable to control litigation strategy or settlement without counsel's overriding decision."
+      ],
+      "procedural_posture": "Commercial Court application by successful defendants for non-party costs orders under section 51(3) against the claimant's professional litigation funder.",
+      "outcome": "Application refused; court declined to exercise discretion to order MPC to pay defendants' costs.",
+      "ratio": "Where a professional funder is structurally insulated from control over litigation conduct and does not interfere with its proper administration, access-to-justice policy may outweigh deterrence of weak claims; absence of an undertaking to pay adverse costs or ATE cover does not automatically justify a section 51 order, especially in high-exposure complex litigation.",
+      "legal_issues": [
+        "When a third-party costs order should be made against a professional litigation funder",
+        "Balance between access to justice, deterrence of weak claims, and protection of due administration of justice",
+        "Effect of contingent profit share and lack of ATE insurance",
+        "Distinction between pure funders and professional funders"
+      ],
+      "catchwords": [
+        "third party costs order",
+        "litigation funding",
+        "section 51",
+        "professional funder",
+        "conditional fee agreement",
+        "access to justice",
+        "ATE insurance",
+        "maintenance",
+        "Arkin"
+      ],
+      "index_terms": [
+        "Managers and Processors of Claims",
+        "MPC",
+        "Mr Arkin",
+        "Ernst & Young",
+        "Mark Merrill",
+        "commercial litigation funding",
+        "non-party costs"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hamilton v Mohamed Al Fayed (No 2)",
+          "citation": "[2003] 3 All ER 641"
+        },
+        {
+          "name": "R (Factortame Ltd) v Secretary of State for Transport (No 8)",
+          "citation": "[2003] QB 381"
+        },
+        {
+          "name": "Giles v Thompson",
+          "citation": "[1994] AC 142"
+        },
+        {
+          "name": "The Kommunar",
+          "citation": "[1997] 1 Lloyd's Rep 22"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Very detailed judgment establishing principles later associated with Arkin funding."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2003/2746.json",
+    "status": "done",
+    "notes": "Long judgment on publication of ACPC-style review; full text complete.",
+    "enrichment": {
+      "short_title": "Publication of extended child protection review report restrained to protect children and vulnerable adults",
+      "area_of_law": [
+        "Family law",
+        "Child protection",
+        "Human rights",
+        "Local government"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": ["Part IV"]
+        },
+        {
+          "title": "Local Authority Social Services Act 1970",
+          "provisions": ["s.7", "s.7A"]
+        },
+        {
+          "title": "Local Government Act 1972",
+          "provisions": ["s.111", "s.137"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["s.6", "s.12", "Sch 1 Arts 8 and 10"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Pt 21"]
+        }
+      ],
+      "key_facts": [
+        "Following lengthy care proceedings concerning Ms A's large fostering/adoption household, the local ACPC commissioned a two-volume review extending to vulnerable adults as well as children.",
+        "Volume 1, described as an extended executive summary of some 600 pages, was sought for general publication; Ms A, the Official Solicitor and others objected.",
+        "Children and vulnerable adults with learning disabilities had returned to the Home after traumatic removal; Hughes J had previously published an anonymised judgment."
+      ],
+      "procedural_posture": "High Court application under inherent jurisdiction for permission to publish Volume 1 of an ACPC-commissioned serious case review, opposed by affected family members and the Official Solicitor.",
+      "outcome": "Publication of Volume 1 in its present form refused; injunctions continued for children and granted for vulnerable adults under disability.",
+      "ratio": "The court may restrain publication of an intrusive case review where disclosure would likely harm children and adults lacking capacity, balancing Article 8 against Article 10; the inherent jurisdiction protects those under disability but does not extend to protect competent adults such as Ms A from publication based on privacy alone.",
+      "legal_issues": [
+        "Whether the local authority had vires to commission a review including vulnerable adults",
+        "Scope of the High Court's inherent jurisdiction over publication",
+        "Article 8 versus Article 10 balancing for children and vulnerable adults",
+        "Whether the report should have been a conventional Part 8 executive summary"
+      ],
+      "catchwords": [
+        "serious case review",
+        "Part 8 review",
+        "publication",
+        "inherent jurisdiction",
+        "Article 8",
+        "Article 10",
+        "vulnerable adults",
+        "child protection",
+        "Working Together"
+      ],
+      "index_terms": [
+        "Area Child Protection Committee",
+        "Official Solicitor",
+        "foster care",
+        "care proceedings",
+        "Hughes J",
+        "anonymisation",
+        "executive summary"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Kelly v British Broadcasting Corporation",
+          "citation": "[2001] 1 FLR 197"
+        },
+        {
+          "name": "Re S (A Child) (Identification: Restrictions on Publication)",
+          "citation": "[2003] 2 FCR 577"
+        },
+        {
+          "name": "Re F (Mental Patient: Sterilisation)",
+          "citation": "[1990] 2 AC 1"
+        },
+        {
+          "name": "Thompson v News Group Newspapers Ltd",
+          "citation": "[2001] 1 FLR 791"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Comprehensive judgment with clear holdings on jurisdiction and balancing exercise."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2847.json",
+    "status": "done",
+    "notes": "Prosecutor's appeal on Food Safety Act liability of pub owner.",
+    "enrichment": {
+      "short_title": "Pub owner may be prosecuted under Food Safety Act for selling under-strength spirits, not only licensee",
+      "area_of_law": [
+        "Food safety",
+        "Licensing law",
+        "Criminal law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Food Safety Act 1990",
+          "provisions": ["s.1", "s.2", "s.14", "s.21"]
+        },
+        {
+          "title": "Licensing Act 1964",
+          "provisions": ["s.160", "s.169"]
+        },
+        {
+          "title": "Licensing (Young Persons) Act 2001",
+          "provisions": []
+        },
+        {
+          "title": "Administration of Justice Act 1960",
+          "provisions": ["s.1(2)"]
+        }
+      ],
+      "key_facts": [
+        "Trading standards officers tested whisky and gin bottles at the Slug and Fiddle, Nottingham, finding alcohol content below permitted tolerances.",
+        "Nottingham City Council prosecuted brewery owner Wolverhampton and Dudley Breweries; the magistrates held only the licensee could be liable for selling alcohol.",
+        "The owner employed the licensee and owned the stock and premises; no test purchases were made."
+      ],
+      "procedural_posture": "Prosecutor's appeal by way of case stated from Nottingham Magistrates' Court to the Divisional Court on a point of law under section 14 Food Safety Act 1990.",
+      "outcome": "Appeal allowed; question answered that the owner may be prosecuted; case remitted; certified question of general public importance; leave to appeal to House of Lords refused.",
+      "ratio": "Section 14 Food Safety Act 1990 should bear its ordinary meaning for all food including alcoholic drink; licensing-law restrictions on who may sell intoxicating liquor do not immunise the pre-sale owner who authorises the sale from food-safety prosecution, and Goodfellow v Johnson is not binding where based on a misreading of Hotchin v Hindmarsh.",
+      "legal_issues": [
+        "Whether only a licensee or servant can 'sell' alcohol for section 14 purposes",
+        "Interaction between Food Safety Act 1990 and licensing legislation",
+        "Whether Goodfellow v Johnson precludes prosecution of the brewery owner",
+        "Whether sampling by trading standards constituted a deemed sale"
+      ],
+      "catchwords": [
+        "Food Safety Act",
+        "section 14",
+        "adulterated food",
+        "public house",
+        "licensee",
+        "owner liability",
+        "Goodfellow v Johnson",
+        "case stated"
+      ],
+      "index_terms": [
+        "Nottingham City Council",
+        "Wolverhampton and Dudley Breweries",
+        "Slug and Fiddle",
+        "trading standards",
+        "under-strength spirits",
+        "due diligence defence"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Goodfellow v Johnson",
+          "citation": "[1966] 1 QB 83"
+        },
+        {
+          "name": "Hotchin v Hindmarsh",
+          "citation": "(1891) 2 KB 181"
+        },
+        {
+          "name": "Coppen v Moore (No 2)",
+          "citation": "(1898) 2 QB 306"
+        },
+        {
+          "name": "Mellor v Lydiate",
+          "citation": "(1914) 3 KB 1141"
+        },
+        {
+          "name": "Holt Brewery Co Ltd v Thompson",
+          "citation": "(1920) 84 JP 127"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed statutory construction analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1814.json",
+    "status": "done",
+    "notes": "Costs appeal in confiscation interpleader proceedings.",
+    "enrichment": {
+      "short_title": "CPS ordered to pay costs after losing dispute over matrimonial home proceeds subject to confiscation",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Confiscation",
+        "Family property"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["r.44.3", "r.1.3"]
+        },
+        {
+          "title": "Drug Trafficking Act 1994",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mrs Grimes claimed a 50% beneficial interest in net proceeds of sale of the matrimonial home held on a joint deposit account after a Crown Court confiscation order against her ex-husband for counterfeiting.",
+        "Wilson J found she was beneficially entitled to half the £54,265 fund but made no order as to costs, emphasising the CPS's public role and evidential difficulties.",
+        "The CPS had made no settlement offer and largely ignored correspondence asserting Mrs Grimes' claim."
+      ],
+      "procedural_posture": "Court of Appeal appeal by Mrs Grimes against the no-order-as-to-costs decision in concurrent Administrative Court and Family Division proceedings between the CPS and an intervener.",
+      "outcome": "Appeal allowed; CPS ordered to pay Mrs Grimes' costs before Wilson J, subject to detailed assessment.",
+      "ratio": "The CPS litigates as an ordinary party for costs purposes; where it loses after a contested hearing and made no offer to settle, CPR 44.3 requires costs to follow the event unless specific factors justify departure—the judge erred by starting from the CPS's special public status rather than the general rule.",
+      "legal_issues": [
+        "Whether the CPS enjoys special immunity from the usual costs-follow-the-event rule",
+        "Proper application of CPR 44.3 in confiscation-related interpleader proceedings",
+        "Whether Mrs Grimes acted unreasonably in litigating without full documentary proof"
+      ],
+      "catchwords": [
+        "costs follow the event",
+        "CPS costs",
+        "confiscation order",
+        "beneficial interest",
+        "matrimonial home",
+        "interpleader",
+        "CPR 44.3"
+      ],
+      "index_terms": [
+        "Anthony Grimes",
+        "restraint order",
+        "counterfeiting",
+        "Wilson J",
+        "Legal Services Commission",
+        "joint deposit account"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Clear Court of Appeal guidance on CPS costs discretion; full judgment available."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2832.json",
+    "status": "done",
+    "notes": "VAT assessment period construction appeal.",
+    "enrichment": {
+      "short_title": "VAT section 73(2) assessment must relate to period of original credit, not disclosure period",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "Revenue law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": ["s.25", "s.73(2)", "s.73(6)", "s.77(1)", "s.80"]
+        },
+        {
+          "title": "Value Added Tax Regulations 1995",
+          "provisions": ["reg.34", "reg.35"]
+        }
+      ],
+      "key_facts": [
+        "Laura Ashley accounted for VAT on full retail prices for interest-free credit sales; after Primback it claimed repayments for overpaid output tax from October 1996 to July 1999.",
+        "Credits for October 1996 and October 1997 repayment periods were paid in March 2000 following voluntary disclosure.",
+        "Customs issued a section 73(2) assessment in October 2000 for the October 1999 period (when disclosure was received) to recover those credits if Primback was reversed."
+      ],
+      "procedural_posture": "High Court appeal on a point of law from a VAT and Duties Tribunal decision favouring the taxpayer on the validity of a section 73(2) assessment.",
+      "outcome": "Commissioners' appeal dismissed; assessment for October 1999 period held invalid as made for wrong accounting periods.",
+      "ratio": "Under section 73(2) VATA 1994 the prescribed accounting period is that to which the wrongly paid VAT credit relates—here the original over-declaration periods—not the period in which a voluntary disclosure is made; Croydon Hotels is distinguishable where credit could only be claimed in a later return.",
+      "legal_issues": [
+        "Which prescribed accounting period triggers section 73(2) assessment time limits",
+        "Construction of 'paid or credited' in section 73(2)",
+        "Application of Croydon Hotel and Leisure Co Ltd",
+        "Practical consequences for delayed repayment claims"
+      ],
+      "catchwords": [
+        "VAT",
+        "section 73(2)",
+        "prescribed accounting period",
+        "voluntary disclosure",
+        "VAT credit",
+        "Primback",
+        "retail credit sales"
+      ],
+      "index_terms": [
+        "Laura Ashley",
+        "Customs and Excise",
+        "interest-free credit",
+        "repayment trader",
+        "VAT Tribunal",
+        "output tax"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Primback Ltd v Customs and Excise Commissioners",
+          "citation": "[1996] STC 757"
+        },
+        {
+          "name": "Customs and Excise Commissioners v Croydon Hotel and Leisure Co Ltd",
+          "citation": "[1996] STC 1105"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Focused statutory construction judgment with complete reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3933.json",
+    "status": "done",
+    "notes": "CCRC reference; conviction quashed on Pendleton unsafe test.",
+    "enrichment": {
+      "short_title": "Robbery conviction quashed after West Midlands Serious Crime Squad misconduct affected interview evidence",
+      "area_of_law": [
+        "Criminal law",
+        "Appeal",
+        "Evidence",
+        "Police misconduct"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": ["s.17"]
+        },
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": ["s.9"]
+        }
+      ],
+      "key_facts": [
+        "Cummiskey was convicted in 1985 of robbery and firearms offences after a Post Office security van robbery in Coventry; co-defendant Meads' conviction was later quashed due to Serious Crime Squad misconduct.",
+        "The case rested on arrest near the getaway car, disputed interview remarks, and forensic links; interview evidence was challenged at trial as fabricated.",
+        "Fresh material showed interviewing officers' integrity could have been impeached as in Meads' successful appeal."
+      ],
+      "procedural_posture": "Court of Appeal criminal division reference by the Criminal Cases Review Commission under section 9 Criminal Appeal Act 1995.",
+      "outcome": "Appeal allowed; conviction quashed as unsafe; defendant's costs order made; no retrial ordered given elapsed time and completed sentence.",
+      "ratio": "Applying Pendleton, where newly available evidence of Serious Crime Squad misconduct could reasonably have affected the jury's verdict by undermining interview evidence integral to a multi-strand case, the conviction must be treated as unsafe even without a finding of impropriety in this specific case.",
+      "legal_issues": [
+        "Whether West Midlands Serious Crime Squad disclosure rendered the conviction unsafe",
+        "Impact of abandoning interview evidence on remaining scientific and identification evidence",
+        "Application of the Pendleton test for fresh evidence on appeal"
+      ],
+      "catchwords": [
+        "unsafe conviction",
+        "CCRC reference",
+        "West Midlands Serious Crime Squad",
+        "police interviews",
+        "robbery",
+        "Pendleton",
+        "fresh evidence"
+      ],
+      "index_terms": [
+        "Roy Meads",
+        "Post Office security van",
+        "Coventry",
+        "forensic evidence",
+        "exhibits book",
+        "McCullough J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Pendleton",
+          "citation": "[2002] 1 Cr App R (S) 34"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear quashing judgment with explicit Pendleton application; no detailed ratio on squad findings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2837.json",
+    "status": "done",
+    "notes": "Introductory tenancy possession judicial review dismissed.",
+    "enrichment": {
+      "short_title": "Introductory tenancy possession upheld where tenants failed to pay rent and pursue housing benefit",
+      "area_of_law": [
+        "Housing law",
+        "Administrative law",
+        "Social housing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1996",
+          "provisions": ["Part V", "s.127", "s.128", "s.129"]
+        },
+        {
+          "title": "Introductory Tenants (Review) Regulations 1997",
+          "provisions": ["reg.7"]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": ["s.11"]
+        }
+      ],
+      "key_facts": [
+        "Newham granted the Chowdhurys an introductory tenancy in October 2001; housing benefit applications were incomplete and initially refused, causing substantial rent arrears.",
+        "The council served notice to terminate, held a review without tenant attendance, and issued county court possession proceedings despite later backdated benefit and partial payments.",
+        "Tenants argued council officer error and that arrears were minimal once benefit was backdated; they had ignored reminder letters and the termination notice."
+      ],
+      "procedural_posture": "High Court judicial review of Newham's review decision, issue of possession proceedings, and refusal to adjourn or discontinue those proceedings.",
+      "outcome": "Claims dismissed; permission to appeal refused; costs to defendants subject to detailed assessment and Access to Justice Act constraints.",
+      "ratio": "Introductory tenants must actively understand and meet payment obligations; a housing authority reasonably may pursue possession for persistent rent default during the probationary year where the tenant failed to respond to correspondence or engage with housing benefit, even if council officers contributed to initial benefit delay.",
+      "legal_issues": [
+        "Reasonableness of terminating an introductory tenancy for rent arrears",
+        "Whether the section 129 review must reconsider merits afresh",
+        "Tenant passivity and responsibility for housing benefit claims",
+        "Whether council housing benefit failures preclude possession"
+      ],
+      "catchwords": [
+        "introductory tenancy",
+        "possession",
+        "rent arrears",
+        "housing benefit",
+        "section 129 review",
+        "social housing",
+        "probationary tenancy"
+      ],
+      "index_terms": [
+        "London Borough of Newham",
+        "Chowdhury",
+        "water rates",
+        "notice to terminate",
+        "County Court possession"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Mayor and Burgesses of the London Borough of Merton v Williams",
+          "citation": "[2002] EWCA Civ 980"
+        },
+        {
+          "name": "Anne McDonagh v Salisbury District Council",
+          "citation": "[2001] EWHC Admin 567"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Fact-heavy reasonableness review with clear dismissal; some tenant language ability disputed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/2874.json",
+    "status": "done",
+    "notes": "Important arbitration third-party disclosure ruling.",
+    "enrichment": {
+      "short_title": "Court has no power under Arbitration Act to order third-party disclosure in aid of ICC arbitration",
+      "area_of_law": [
+        "Arbitration",
+        "Civil procedure",
+        "Commercial law",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": ["s.1", "s.33", "s.34", "s.43", "s.103"]
+        },
+        {
+          "title": "Arbitration Act 1950",
+          "provisions": ["s.12(4)", "s.12(6)"]
+        },
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": ["s.103"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["r.31.14", "r.31.17", "r.34.4", "Pt 62 PD para 7.1"]
+        }
+      ],
+      "key_facts": [
+        "BNP Paribas sued Avis in ICC arbitration in London alleging fraudulent misrepresentation in a US$ hundreds-of-millions acquisition; Avis relied on audited accounts signed by Deloitte & Touche.",
+        "BNP sought witness summons requiring D&T to produce broad classes of audit working papers to undermine Avis's audit defence; arbitrators permitted parties to seek section 43 court assistance.",
+        "D&T was not a party to the arbitration and no allegations were made against it."
+      ],
+      "procedural_posture": "Commercial Court application under section 43 Arbitration Act 1996 and CPR for permission to issue a witness summons for document production against a non-party auditor.",
+      "outcome": "Application dismissed; court held section 43 permits only attendance to give oral testimony or produce specific documents in evidence, not third-party disclosure.",
+      "ratio": "Section 43(1) Arbitration Act 1996 replicates the old subpoena duces tecum power and does not authorise CPR 31.17-style third-party disclosure; party autonomy and repeal of the 1950 Act discovery powers mean arbitration participants cannot invoke general document-hunting procedures against non-parties.",
+      "legal_issues": [
+        "Whether section 43 extends to third-party disclosure orders",
+        "Distinction between production of specified documents and class disclosure",
+        "Interaction between Arbitration Act 1996 and CPR disclosure provisions",
+        "Scope of court assistance under UNCITRAL Model Law Article 27"
+      ],
+      "catchwords": [
+        "arbitration",
+        "section 43",
+        "third party disclosure",
+        "witness summons",
+        "subpoena duces tecum",
+        "ICC arbitration",
+        "party autonomy"
+      ],
+      "index_terms": [
+        "BNP Paribas",
+        "Avis",
+        "Deloitte & Touche",
+        "audit working papers",
+        "Joint Defence Agreement",
+        "due diligence"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Panayiotou v Sony Music Entertainment (UK) Ltd",
+          "citation": "[1994] Ch 142"
+        },
+        {
+          "name": "The Lorenzo Halcoussi",
+          "citation": "[1988] 1 Lloyd's Rep 180"
+        },
+        {
+          "name": "Wakefield v Outhwaite",
+          "citation": "[1990] 2 Lloyd's Rep 157"
+        },
+        {
+          "name": "In re Asbestos Insurance",
+          "citation": "[1985] 1 WLR 331"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Authoritative Commercial Court ruling with complete statutory analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3428.json",
+    "status": "done",
+    "notes": "Rent review arbitration challenge under Arbitration Act 1996 ss 68 and 69.",
+    "enrichment": {
+      "short_title": "Rent review arbitrator upheld on overall valuation method and rejection of landlord subdivision threat",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Property valuation",
+        "Arbitration"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": ["s.68", "s.69"]
+        },
+        {
+          "title": "Arbitration Act 1979",
+          "provisions": ["s.1(2)"]
+        }
+      ],
+      "key_facts": [
+        "Virgin Retail held a 25-year lease of a large Liverpool shopping-centre unit (~21,000 sq ft) with upwards-only rent review requiring overall per sq ft valuation and excluding zoning comparables under 5,000 sq ft.",
+        "Arbitrator Mr Cheetham fixed open market rent at £425,000 pa between landlord Marklands' £680,000 and tenant's £360,500.",
+        "Landlord challenged the award for discounting zoning-based comparables and for ignoring an argument that the landlord could threaten to subdivide the unit."
+      ],
+      "procedural_posture": "High Court applications under sections 68 and 69 Arbitration Act 1996 to set aside or appeal the rent review arbitrator's award.",
+      "outcome": "Both applications refused; no serious irregularity or appealable error of law found.",
+      "ratio": "Attribution of weight between overall and zoning valuation methods is an arbitral valuation judgment not reviewable as error of law; a hypothetical willing landlord in rent review cannot deploy a threat to enter a different transaction (subdividing the unit) outside the lease's prescribed letting framework.",
+      "legal_issues": [
+        "Whether rejecting zoning comparables was a serious irregularity or legal error",
+        "Whether overall and zoning methods must produce identical results",
+        "Whether landlord could rely on subdivision as a negotiating tactic in hypothetical negotiations",
+        "Scope of section 69 appeal where alleged error not addressed in the award"
+      ],
+      "catchwords": [
+        "rent review",
+        "commercial lease",
+        "arbitration challenge",
+        "zoning method",
+        "overall valuation",
+        "comparable evidence",
+        "hypothetical letting",
+        "Clayton Square"
+      ],
+      "index_terms": [
+        "Virgin Retail",
+        "Marklands Ltd",
+        "Liverpool",
+        "ITZA",
+        "Zone A rate",
+        "chartered surveyor arbitrator",
+        "department store valuation"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Lewisham Investment Partnership Ltd v Morgan",
+          "citation": "[1997] 2 EGLR 150"
+        },
+        {
+          "name": "FR Evans (Leeds) Ltd v English Electric Co Ltd",
+          "citation": "[1978] 1 EGLR 93"
+        },
+        {
+          "name": "Northern Electric plc v Addison",
+          "citation": "[1997] 2 EGLR 111"
+        },
+        {
+          "name": "Universal Petroleum Co Ltd v Handels und Transport GmbH",
+          "citation": "[1987] 1 WLR 1187"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete Lewison J judgment on valuation arbitration with clear legal conclusions."
+      }
+    }
+  }
+]

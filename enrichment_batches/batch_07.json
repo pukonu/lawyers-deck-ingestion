@@ -1,0 +1,691 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/130.json",
+    "status": "done",
+    "notes": "Batch 07 enrichment",
+    "enrichment": {
+      "short_title": "Roadside breath test upheld despite 20-minute rule argument",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal procedure",
+        "Case stated appeals",
+        "Evidence and intoximeter approval"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 5(1)(a)",
+            "section 6(4)",
+            "section 6(1)",
+            "section 7(1)(a)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Steven Grant was convicted of drink-driving and failing to provide a breath specimen after being stopped on the A12 near Chelmsford.",
+        "PC Lucas required a breath test at the roadside; Grant claimed he had drunk within the previous five minutes, which the Crown Court found was untrue.",
+        "The Crown Court dismissed Grant's appeal and stated a case on whether the breath test requirement was lawful and whether EC/IR approval could be challenged.",
+        "Grant argued the officer breached manufacturer instructions by not waiting 20 minutes after the last drink and that the intoximeter should not have been approved."
+      ],
+      "procedural_posture": "Appeal by way of case stated from the Crown Court to the Administrative Court following dismissal of Grant's appeal against magistrates' convictions.",
+      "outcome": "Both questions answered in favour of the prosecution; appeal dismissed and conviction upheld.",
+      "ratio": "Where a police officer has no reasonable cause to suspect alcohol consumption within the preceding 20 minutes, requiring an immediate breath test under section 6 of the Road Traffic Act 1988 is lawful notwithstanding DPP v Carey; challenges to the Secretary of State's approval of an intoximeter or to device modifications are not matters for individual criminal proceedings, following DPP v Brown, DPP v Texeira and DPP v Memery.",
+      "legal_issues": [
+        "Whether PC Lucas acted bona fide in requiring a breath test without waiting 20 minutes",
+        "Application of DPP v Carey to manufacturer instructions on recent alcohol consumption",
+        "Whether defendants may challenge EC/IR type approval in individual prosecutions",
+        "Whether device modifications can invalidate an approved intoximeter"
+      ],
+      "catchwords": [
+        "breath test",
+        "road traffic",
+        "DPP v Carey",
+        "intoximeter approval",
+        "case stated",
+        "20 minute rule"
+      ],
+      "index_terms": [
+        "Road Traffic Act 1988",
+        "section 6",
+        "EC/IR",
+        "DPP v Memery",
+        "Boddington v British Transport Police",
+        "drink driving"
+      ],
+      "linked_authorities": [
+        "DPP v Carey",
+        "DPP v Brown",
+        "DPP v Texeira",
+        "DPP v Memery",
+        "R v Skegness Magistrates' Court ex parte Cardy",
+        "Young v Flint",
+        "Boddington v British Transport Police",
+        "Woolmington v DPP"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Statutory framework, factual findings, and both stated questions are clearly resolved in the judgment. Linked authorities and the Memery follow-on point are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/281.json",
+    "status": "done",
+    "notes": "Batch 07 enrichment",
+    "enrichment": {
+      "short_title": "Section 20 Form 7 valid despite missing landlord details",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Housing law",
+        "Assured shorthold tenancies",
+        "Possession proceedings"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1988",
+          "provisions": [
+            "section 20"
+          ]
+        },
+        {
+          "title": "Landlord and Tenant Act 1985",
+          "provisions": [
+            "section 1"
+          ]
+        },
+        {
+          "title": "Landlord and Tenant Act 1987",
+          "provisions": [
+            "section 47",
+            "section 48"
+          ]
+        },
+        {
+          "title": "Assured Tenancies and Agricultural Occupancies (Forms) Regulations 1988",
+          "provisions": [
+            "regulation 2",
+            "Form 7"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Two conjoined appeals concerned possession of assured shorthold tenancies where section 20 Housing Act 1988 notices in Form 7 omitted or misstated the landlord's name and address.",
+        "In Osborn v Dior the agent signed Form 7 and gave agent particulars but left the landlord's details blank.",
+        "In Marito Holdings v Deneche the landlord's details were completed but incorrectly named a company that was not the true landlord.",
+        "The Court of Appeal applied the Ravenseft test of whether notices were substantially to the same effect as the prescribed form."
+      ],
+      "procedural_posture": "Conjoined appeals from county court possession orders granting landlords possession on the basis of valid assured shorthold tenancies.",
+      "outcome": "Both appeals dismissed on the section 20 point by a majority; Osborn appeal dismissed unanimously; Marito appeal dismissed by majority with Sedley LJ dissenting on the misstatement point.",
+      "ratio": "A section 20 notice that omits the landlord's particulars where the agent has signed and given full agent particulars can still be a form substantially to the same effect as Form 7 because the statutory purpose is to inform the tenant that the tenancy is an assured shorthold, not primarily to identify the landlord; objective prejudice to the tenant is irrelevant under the Mannai approach.",
+      "legal_issues": [
+        "Whether Form 7 requires landlord particulars when an agent signs",
+        "Application of Ravenseft Properties v Hall and Mannai Investment to section 20 notices",
+        "Whether incorrect landlord particulars invalidate a notice",
+        "Relevance of special notes for existing tenants on Form 7"
+      ],
+      "catchwords": [
+        "assured shorthold tenancy",
+        "section 20 notice",
+        "Form 7",
+        "substantially to the same effect",
+        "possession",
+        "Ravenseft"
+      ],
+      "index_terms": [
+        "Housing Act 1988",
+        "section 20",
+        "Form 7",
+        "Ravenseft Properties v Hall",
+        "Mannai Investment",
+        "Manel v Memon"
+      ],
+      "linked_authorities": [
+        "Ravenseft Properties Ltd v Hall",
+        "Mannai Investment Ltd v Eagle Star Life Assurance Co Ltd",
+        "Manel v Memon",
+        "York v Casey",
+        "White v Chubb",
+        "Freeman v Kasseer",
+        "Morrow v Nadeem",
+        "Yenula Properties Ltd v Naidu"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Core ratio, statutory framework, and split reasoning on the two appeals are fully set out. Judge metadata in source data appears unreliable and was not corrected."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/120.json",
+    "status": "done",
+    "notes": "Batch 07 enrichment",
+    "enrichment": {
+      "short_title": "Speeding conviction on police estimate upheld on review",
+      "area_of_law": [
+        "Road traffic law",
+        "Judicial review",
+        "Criminal appeals",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Regulation Act 1984",
+          "provisions": [
+            "section 89(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mark Graham was convicted in his absence by Worthing magistrates of exceeding a 30 mph speed limit on Broadwater Road, Worthing.",
+        "Two experienced traffic officers estimated his speed at not less than 45 mph after he overtook another car on the A12 approach to Langton Road.",
+        "Graham appealed to the Crown Court, which dismissed the appeal as hopeless; his father then sought judicial review when a transcript became available.",
+        "No mechanical or electronic speed-measuring device was used; prosecution rested on visual estimation by two officers."
+      ],
+      "procedural_posture": "Application for judicial review of the Crown Court's dismissal of an appeal against a magistrates' speeding conviction, following renewed permission on 8 October 2002.",
+      "outcome": "Application dismissed; Crown Court conclusion held not Wednesbury unreasonable; claimant ordered to pay £250 costs.",
+      "ratio": "A prosecution for speeding may succeed on the opinion evidence of two witnesses who observed the vehicle, provided section 89(2) of the Road Traffic Regulation Act 1984 is satisfied; on judicial review the High Court will not substitute its own view of the facts where the Crown Court was sure on the evidence and its conclusion was within the range of reasonable decisions.",
+      "legal_issues": [
+        "Whether visual speed estimation by police officers can support a speeding conviction",
+        "Application of section 89(2) Road Traffic Regulation Act 1984",
+        "Wednesbury unreasonableness of Crown Court factual findings",
+        "Scope of judicial review of Crown Court criminal appeals"
+      ],
+      "catchwords": [
+        "speeding",
+        "visual estimate",
+        "judicial review",
+        "Crown Court appeal",
+        "section 89",
+        "Wednesbury"
+      ],
+      "index_terms": [
+        "Road Traffic Regulation Act 1984",
+        "section 89(2)",
+        "speed limit",
+        "police evidence",
+        "judicial review"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome, facts, section 89(2) analysis, and Wednesbury standard are clear. No linked cases are cited in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/11.json",
+    "status": "done",
+    "notes": "Batch 07 enrichment",
+    "enrichment": {
+      "short_title": "Adjudicator payment enforced despite contract termination",
+      "area_of_law": [
+        "Construction law",
+        "Adjudication",
+        "Contract law",
+        "Summary judgment"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Grants Construction and Regeneration Act 1996",
+          "provisions": [
+            "section 108",
+            "section 111"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Levolux subcontracted to Fersons for brise soleil work at Filton; Fersons withheld interim payment and purported to terminate the sub-contract.",
+        "An adjudicator found Levolux entitled to £51,659.42 because Fersons' withholding notice did not specify grounds as required by section 111.",
+        "Fersons resisted summary enforcement, arguing that post-termination clauses 29.8 and 29.9 extinguished sums due under the adjudicator's decision.",
+        "The TCC granted summary judgment enforcing the adjudicator's decision."
+      ],
+      "procedural_posture": "Appeal from summary judgment enforcing an adjudicator's decision in ongoing construction contract proceedings.",
+      "outcome": "Appeal dismissed; adjudicator's decision enforceable pending final resolution.",
+      "ratio": "Under section 108 of the Housing Grants Construction and Regeneration Act 1996 an adjudicator's decision is binding and enforceable pending final determination; contractual termination clauses such as clause 29.8 do not override the obligation to pay sums adjudged due where the adjudicator acted within jurisdiction, and Parliament's purpose would be defeated if such clauses prevailed.",
+      "legal_issues": [
+        "Whether contractual termination clauses override adjudicator payment decisions",
+        "Enforcement of adjudicator decisions pending arbitration",
+        "Interaction of section 108 HGCRA with sub-contract termination provisions",
+        "Application of Bouygues v Dahl-Jensen and Nikko Hotels test on jurisdiction"
+      ],
+      "catchwords": [
+        "construction adjudication",
+        "section 108",
+        "summary judgment",
+        "pay when paid",
+        "withholding notice",
+        "contract termination"
+      ],
+      "index_terms": [
+        "Housing Grants Construction and Regeneration Act 1996",
+        "section 108",
+        "section 111",
+        "adjudication enforcement",
+        "Macob Civil Engineering",
+        "Bouygues v Dahl-Jensen"
+      ],
+      "linked_authorities": [
+        "Macob Civil Engineering Ltd v Morrison Construction Ltd",
+        "Bouygues UK Ltd v Dahl-Jensen UK Ltd",
+        "CB Scene Concept Design Ltd v Isobars Ltd",
+        "Nikko Hotels (UK) Ltd v MEPC Plc",
+        "K & S Industrial Services (Birmingham) Ltd v Sindall Ltd",
+        "Parsons Plastics (Research and Development) Ltd v Purac Ltd",
+        "Bovis Lend Lease v Triangle Developments Ltd"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory scheme, facts, and enforcement reasoning are extensively explained. Outcome and ratio follow clearly from the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/4.json",
+    "status": "done",
+    "notes": "Batch 07 enrichment",
+    "enrichment": {
+      "short_title": "Police discipline allowed after committal discharge",
+      "area_of_law": [
+        "Police discipline",
+        "Public law",
+        "Double jeopardy",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 104"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 6"
+          ]
+        },
+        {
+          "title": "Police (Discipline) Regulations 1985",
+          "provisions": [
+            "regulation 7",
+            "regulation 8",
+            "regulation 23(2)"
+          ]
+        },
+        {
+          "title": "Police (Conduct) Regulations 1999",
+          "provisions": [
+            "regulation 2(2)",
+            "regulation 23(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Detective Sergeant Redgrave was discharged at committal for conspiring to pervert the course of justice over disclosure of a confidential interview document.",
+        "After repeal of section 104 PACE 1984 he was charged with discreditable conduct in police disciplinary proceedings based on substantially the same facts.",
+        "The disciplinary board and Moses J held the criminal and disciplinary charges were not the same in substance.",
+        "The Attorney-General intervened on whether committal discharge equates to acquittal and whether double jeopardy applies to disciplinary tribunals."
+      ],
+      "procedural_posture": "Appeal from judicial review dismissal of challenge to Police Disciplinary Board rulings on delay and double jeopardy/res judicata.",
+      "outcome": "Appeal dismissed; disciplinary proceedings may continue.",
+      "ratio": "Discharge at committal under section 6 of the Magistrates' Courts Act 1980 is not equivalent to acquittal and does not engage double jeopardy; the double jeopardy rule does not apply to disciplinary tribunals even where the criminal standard of proof applies, because disciplinary proceedings serve a different purpose and section 104 PACE was a special statutory protection now repealed without creating a lacuna.",
+      "legal_issues": [
+        "Whether committal discharge is tantamount to acquittal for double jeopardy purposes",
+        "Whether double jeopardy or res judicata bars police disciplinary proceedings",
+        "Effect of repeal of section 104 PACE 1984",
+        "Whether criminal and disciplinary charges are the same in substance"
+      ],
+      "catchwords": [
+        "police discipline",
+        "double jeopardy",
+        "res judicata",
+        "committal discharge",
+        "section 104 PACE",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Police and Criminal Evidence Act 1984",
+        "section 104",
+        "Magistrates' Courts Act 1980",
+        "section 6",
+        "Ziderman v General Dental Council",
+        "Saeed v Greater London Council"
+      ],
+      "linked_authorities": [
+        "R v Manchester City Stipendiary Magistrate ex parte Snelson",
+        "Brooks v DPP",
+        "Ziderman v General Dental Council",
+        "R v Statutory Committee of Pharmaceutical Society of Great Britain",
+        "Saeed v Greater London Council (Inner London Education Authority)",
+        "Connelly v DPP",
+        "DPP v Nasralla",
+        "R v Police Complaints Board ex parte Madden and Rhone",
+        "R (Whitehead and Daglish) v Chief Constable of Avon & Somerset"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Principles on committal discharge and disciplinary double jeopardy are stated comprehensively with Attorney-General intervention. Outcome is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/28.json",
+    "status": "done",
+    "notes": "Batch 07 enrichment",
+    "enrichment": {
+      "short_title": "LUL development costs invoice partly recoverable",
+      "area_of_law": [
+        "Construction and development",
+        "Contract law",
+        "Commercial litigation",
+        "Invoice and cost recovery"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "London Underground and Pillar Broadway entered a Development Agreement for retail and leisure works at Fulham Broadway station.",
+        "LUL invoiced Pillar £510,247.85 under clause 19 for project costs; Pillar disputed many line items and adequacy of supporting documentation.",
+        "Pillar argued clause 19.3 required a compliant invoice with full breakdown as a condition precedent to any payment.",
+        "The court found several invoice items unproved as properly incurred but awarded LUL a further £244,776.55."
+      ],
+      "procedural_posture": "Technology and Construction Court trial of LUL's claim for unpaid development costs under clause 19 of the Fulham Broadway Development Agreement.",
+      "outcome": "Judgment for LUL in the sum of £244,776.55; partial recovery only where costs were proved properly incurred.",
+      "ratio": "Under clause 19 of the Development Agreement Pillar's obligation is to pay sums properly incurred under clause 19.1, not whatever aggregate figure appears on an invoice; clause 19.3 governs invoicing frequency and requires a breakdown sufficient to show how the total is calculated but is not a condition precedent requiring documentary proof of every cost or perfection of every line item before any sum becomes payable.",
+      "legal_issues": [
+        "Construction of clauses 19.1 and 19.3 of the Development Agreement",
+        "Whether invoice defects bar recovery of properly incurred costs",
+        "What breakdown satisfies clause 19.3",
+        "Burden of proving costs were properly incurred"
+      ],
+      "catchwords": [
+        "development agreement",
+        "cost recovery",
+        "invoice",
+        "breakdown",
+        "condition precedent",
+        "Fulham Broadway"
+      ],
+      "index_terms": [
+        "London Underground",
+        "Development Agreement",
+        "clause 19",
+        "properly incurred costs",
+        "TCC",
+        "project costs"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Contractual construction, factual findings on individual cost items, and final award are detailed in the judgment. No case citations appear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/119.json",
+    "status": "done",
+    "notes": "Batch 07 enrichment",
+    "enrichment": {
+      "short_title": "Prison officer unfair dismissal and failure to redeploy",
+      "area_of_law": [
+        "Employment law",
+        "Disability discrimination",
+        "Unfair dismissal",
+        "Public sector employment"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Disability Discrimination Act 1995",
+          "provisions": [
+            "section 5(2)",
+            "section 5(4)",
+            "section 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Jacqueline Beart, a prison administrative officer at Swaleside, went on long-term sick leave after a dispute with her line manager over part-time working.",
+        "Dr Harvey recommended relocation or redeployment but HM Prison Service never acted on that recommendation.",
+        "Private investigators observed Beart at her clothes shop; she was dismissed for outside work while on sick pay after a flawed disciplinary process.",
+        "The employment tribunal found unfair dismissal and failure to make a reasonable adjustment; the EAT dismissed the employer's appeal."
+      ],
+      "procedural_posture": "Employer appeal to the Court of Appeal from the Employment Appeal Tribunal upholding tribunal findings of disability discrimination and unfair dismissal.",
+      "outcome": "Appeal dismissed; tribunal findings on reasonable adjustment and unfair dismissal upheld.",
+      "ratio": "Failure to relocate an disabled employee as recommended by occupational health can amount to unlawful discrimination under section 5(2) of the Disability Discrimination Act 1995 where section 6 required assignment to a different place of work and the employer led no evidence that redeployment was unreasonable or justified; a disciplinary investigation may be so inadequate that dismissal falls outside the range of reasonable responses.",
+      "legal_issues": [
+        "Whether failure to redeploy was a reasonable adjustment under section 6 DDA 1995",
+        "Application of Morse v Wiltshire County Council sequential test",
+        "Whether failure to comply with section 6 duty was justified",
+        "Whether dismissal was fair under Burchell"
+      ],
+      "catchwords": [
+        "disability discrimination",
+        "reasonable adjustment",
+        "redeployment",
+        "unfair dismissal",
+        "Burchell",
+        "prison service"
+      ],
+      "index_terms": [
+        "Disability Discrimination Act 1995",
+        "section 6",
+        "Morse v Wiltshire County Council",
+        "British Home Stores v Burchell",
+        "long-term sickness",
+        "relocation"
+      ],
+      "linked_authorities": [
+        "Morse v Wiltshire County Council",
+        "British Home Stores Ltd v Burchell",
+        "British Gas Services Ltd v McCaull"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Statutory analysis, tribunal findings, and EAT reasoning are fully reviewed. Outcome on both heads of appeal is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/61.json",
+    "status": "done",
+    "notes": "Batch 07 enrichment",
+    "enrichment": {
+      "short_title": "Three-month notice must expire on anniversary date",
+      "area_of_law": [
+        "Contract law",
+        "Commercial contracts",
+        "Termination",
+        "Waste management services"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Allscan supplied sanitary waste services to Dougland at Bristol Airport under an informal August 1999 contract terminable on three months' notice at any time.",
+        "In January 2000 Allscan sent a standard healthcare quotation with a termination clause requiring at least three months' notice prior to the anniversary date.",
+        "Dougland performed and paid under the revised quotation but gave only one month's notice terminating on 9 April 2001.",
+        "The district judge held three months' notice at any time applied; the circuit judge held the anniversary-date clause in the quotation was accepted by conduct."
+      ],
+      "procedural_posture": "Appeal from county court decision allowing Allscan's appeal and holding wrongful termination for insufficient notice.",
+      "outcome": "Appeal dismissed; contract terminable only on at least three months' notice expiring on the anniversary date of 19 January.",
+      "ratio": "Where a party sends a standard-form quotation setting out all contractual terms including a new termination clause and the other party performs the contract on those terms, the quotation is accepted by conduct objectively judged; subsequent correspondence about three months' notice cannot be used to construe the original contract contrary to Whitworth Street Estates v Miller.",
+      "legal_issues": [
+        "Whether Allscan's January 2000 quotation varied only price and scope or the entire contract",
+        "Acceptance of contractual terms by conduct",
+        "Admissibility of post-contract correspondence to construe contract formation",
+        "Distinction between three months' notice at any time and notice prior to anniversary date"
+      ],
+      "catchwords": [
+        "termination notice",
+        "acceptance by conduct",
+        "standard form quotation",
+        "anniversary date",
+        "contract variation",
+        "wrongful termination"
+      ],
+      "index_terms": [
+        "termination clause",
+        "acceptance by conduct",
+        "Whitworth Street Estates v Miller",
+        "Tanfern Ltd v Cameron-MacDonald",
+        "sub-contract",
+        "waste services"
+      ],
+      "linked_authorities": [
+        "Whitworth Street Estates (Manchester) Ltd v Miller",
+        "Tanfern Ltd v Cameron-MacDonald"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Contract formation, termination clause construction, and appellate reasoning on district judge error are clearly explained."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/46.json",
+    "status": "done",
+    "notes": "Batch 07 enrichment",
+    "enrichment": {
+      "short_title": "Charterer liable for demurrage after tank rejection delay",
+      "area_of_law": [
+        "Shipping and maritime law",
+        "Charterparties",
+        "Demurrage",
+        "Laytime"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The Nikmary was chartered on Asbatankvoy terms to load gasoil at Sikka; her tanks were rejected as unclean on arrival and passed fit only on 5 December 2000.",
+        "Laytime expired on 9 December but the vessel did not berth to load until 2 January 2001 because Reliance had no export cargo commitment for her.",
+        "Vitol argued clauses 6, 7 and 30(c) excluded waiting time; owners claimed US$291,691.75 demurrage.",
+        "The vessel also called at Limassol for additives and discharged slowly at Thessalonika below the required pumping pressure."
+      ],
+      "procedural_posture": "Commercial Court trial of owners' demurrage and related claims under an amended Asbatankvoy charter.",
+      "outcome": "Owners awarded demurrage at Sikka of US$291,691.75; reduced demurrage at Thessalonika; Limassol diesel oil claim rejected; partial disbursement recovery.",
+      "ratio": "Delay after a valid notice of readiness was caused by the charterer's failure to have cargo available within laytime, not by congestion or the vessel's prior unclean condition; clause 6 protects against delay getting into berth over which the charterer has no control but does not excuse failure to supply cargo, and clause 30(c)(v) did not apply because no jointly appointed inspector procedure was invoked.",
+      "legal_issues": [
+        "Whether waiting time at anchorage counted as laytime or demurrage",
+        "Construction of clauses 6, 7 and 30(c) of the amended Asbatankvoy charter",
+        "Cause of delay after tanks passed fit for loading",
+        "Pumping clause breach at discharge port"
+      ],
+      "catchwords": [
+        "demurrage",
+        "laytime",
+        "tank cleaning",
+        "notice of readiness",
+        "Asbatankvoy",
+        "cargo availability"
+      ],
+      "index_terms": [
+        "Asbatankvoy",
+        "clause 6",
+        "clause 30(c)",
+        "demurrage",
+        "The Laura Prima",
+        "The Notos",
+        "pumping clause"
+      ],
+      "linked_authorities": [
+        "Nereide S.p.A. di Navigazione v Bulk Oil International Ltd (The Laura Prima)",
+        "Société Anonyme Marocaine de L'Industrie du Raffinage v Notos Maritime Corporation (The Notos)",
+        "Postlethwaite v Freeland",
+        "Ardan Steamship Co v Andrew Weir & Co",
+        "Sociedad Financiera de Bienes Raices S.A. v Agrimpex (The Aello)",
+        "Vergottis v William Cory & Son Ltd",
+        "Universal Cargo Carriers Corporation v Pedro Citati",
+        "Bunge y Born Co v H A Brightman & Co",
+        "Gem Shipping Co of Monrovia v Babanaft (The Fontevivo)"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Laytime analysis, cargo availability findings, and clause construction are detailed. Multiple sub-claims resolved with specific figures."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/11.json",
+    "status": "done",
+    "notes": "Batch 07 enrichment",
+    "enrichment": {
+      "short_title": "English jurisdiction clause enforced on mis-delivery claim",
+      "area_of_law": [
+        "Shipping and maritime law",
+        "Conflict of laws",
+        "Jurisdiction",
+        "Bills of lading",
+        "Forum non conveniens"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Contracts (Applicable Law) Act 1990",
+          "provisions": [
+            "section 2"
+          ]
+        },
+        {
+          "title": "Private International Law (Miscellaneous Provisions) Act 1995",
+          "provisions": [
+            "section 11(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Metro claimed CSAV mis-delivered goods at Iquique, Chile without production of original bills of lading.",
+        "CSAV bills of lading contained clause 24 providing for English law and non-exclusive English High Court jurisdiction.",
+        "CSAV applied to stay English proceedings in favour of Chilean arbitration, arguing Chilean law issues and parallel proceedings in Chile.",
+        "Metro had separately commenced related claims in Chile after missing the English Hague Rules time bar."
+      ],
+      "procedural_posture": "Application to set aside service out of the jurisdiction and for a declaration that the English court should not exercise jurisdiction, or alternatively a stay.",
+      "outcome": "Application dismissed; English proceedings to continue under the non-exclusive jurisdiction clause.",
+      "ratio": "Parties should ordinarily be held to a freely agreed non-exclusive English jurisdiction clause unless strong reasons appear; foreseeable matters of convenience including foreign law at the place of performance, evidential difficulties, and parallel proceedings in Chile do not outweigh the contractual choice of a neutral forum where the claims fall within the clause and no third-party interests are involved.",
+      "legal_issues": [
+        "When strong reasons justify departing from a non-exclusive jurisdiction clause",
+        "Relevance of Chilean law as law of place of performance under Rome Convention Article 10(2)",
+        "Whether parallel Chilean arbitration proceedings warrant a stay",
+        "Application of Donohue v Armco and BAE v Dee Howard principles"
+      ],
+      "catchwords": [
+        "jurisdiction clause",
+        "forum non conveniens",
+        "bills of lading",
+        "mis-delivery",
+        "Chilean arbitration",
+        "stay application"
+      ],
+      "index_terms": [
+        "Donohue v Armco",
+        "BAE v Dee Howard",
+        "Rome Convention Article 10",
+        "non-exclusive jurisdiction",
+        "East West Corp v DKBS 1912",
+        "The El Amria"
+      ],
+      "linked_authorities": [
+        "Donohue v Armco",
+        "British Aerospace plc v Dee Howard Co",
+        "Mercury Communications Ltd v Communication Telesystems International",
+        "Sinochem International Oil Co v Mobil Sales Corp",
+        "Attock Cement Co Ltd v Romanian Bank for Foreign Trade",
+        "Ace Insurance Ltd v Zurich Insurance Co",
+        "JP Morgan Securities Asia Ltd v Malaysian Newsprint Industries",
+        "The El Amria",
+        "The Eleftheria",
+        "East West Corp v DKBS 1912 A/S",
+        "Akai Pty Ltd v People's Insurance Co Ltd",
+        "Citi-March Ltd v Neptune Orient Lines Ltd"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Jurisdiction principles and their application to the three CSAV arguments are comprehensively reasoned. Outcome is clear."
+      }
+    }
+  }
+]

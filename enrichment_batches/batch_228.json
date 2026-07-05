@@ -1,0 +1,668 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/147.json",
+    "status": "done",
+    "notes": "Split VWF appeal outcome for four claimants; woodworking industry trigger date reasoning is detailed but Hale LJ limits precedent value.",
+    "enrichment": {
+      "short_title": "VWF woodworking industry duty to assess and monitor",
+      "area_of_law": [
+        "Personal injury",
+        "Employers' liability",
+        "Occupational health",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Social Security Act 1975",
+          "provisions": [
+            "section 76"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Eight female factory workers at Rugby Joinery in Doncaster claimed vibration white finger from hand-held vibratory tools used between 1970 and 1999.",
+        "The orbital sander introduced in 1983 was the most dangerous tool, but the trial judge held duties to assess and monitor arose only in 1991/92.",
+        "The parties agreed the employer had no actual knowledge of VWF risk before the factories closed in 1999.",
+        "None of the claimants complained of tingling or numbness to the employer, factory nurse, union or GP during employment."
+      ],
+      "procedural_posture": "Appeal from consolidated county court negligence trials on when an employer's duty to assess and monitor for VWF was triggered.",
+      "outcome": "Appeals allowed for four claimants whose condition worsened after 1991/92 and remitted for damages; remaining four appeals dismissed.",
+      "ratio": "For the woodworking industry, publication of BS DD43:1975 or BS 6842:1987 alone, without employee complaints or other trigger, did not require assessment and monitoring; but once duties arose from about 1991/92, failure to warn and monitor all employees was negligent and removal from vibratory work was required once symptoms were known.",
+      "legal_issues": [
+        "When constructive knowledge of VWF risk triggered duties to assess and monitor",
+        "Whether woodworking employers should have reacted to BS DD43 and BS 6842",
+        "Whether employee silence prevented a duty to warn and monitor",
+        "Whether limiting checks to orbital sander users was sufficient after 1991/92"
+      ],
+      "catchwords": [
+        "vibration white finger",
+        "hand-arm vibration",
+        "employers' liability",
+        "occupational disease",
+        "woodworking industry",
+        "medical surveillance"
+      ],
+      "index_terms": [
+        "BS DD43 1975",
+        "BS 6842 1987",
+        "orbital sander",
+        "Stokes v GKN",
+        "Armstrong v British Coal",
+        "constructive knowledge",
+        "Doncaster factory"
+      ],
+      "linked_authorities": [
+        "Stokes v GKN (Bolts and Nuts) Ltd [1968] 1 WLR 1776",
+        "Thompson v Smiths Shiprepairers (North Shields) Ltd [1984] 1 QB 405",
+        "Armstrong v British Coal Corporation (No.1) 28 November 1996",
+        "Armstrong v British Coal Corporation (No.2) 31 July 1998",
+        "Heyes v Pilkington Glass Ltd [1998] PIQR 303"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Split appeal outcome and duties analysis are explicit. Hale LJ cautions against treating 1991/92 as a general woodworking industry date of knowledge."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/143.json",
+    "status": "done",
+    "notes": "Effective date of termination cannot be fixed by retrospective agreement; Crank overruled on s.203 grounds.",
+    "enrichment": {
+      "short_title": "Effective date of termination not fixed by agreement",
+      "area_of_law": [
+        "Employment law",
+        "Unfair dismissal",
+        "Statutory interpretation",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 97",
+            "section 108",
+            "section 109",
+            "section 111",
+            "section 119",
+            "section 203",
+            "section 211",
+            "section 212"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ms Fitzgerald applied for ill-health retirement from the University of Kent and accepted retirement retrospectively from 28 February 2001.",
+        "She issued tribunal proceedings within three months of 2 March 2001 but more than three months after the agreed retirement date.",
+        "The employment tribunal found the effective date of termination was the retrospectively agreed 28 February 2001.",
+        "The university contended the claim was out of time and that the employee had voluntarily retired rather than been dismissed."
+      ],
+      "procedural_posture": "Appeal from an employment tribunal preliminary hearing on time limits for an unfair dismissal claim.",
+      "outcome": "Appeal allowed; effective date of termination was not earlier than 2 March 2001; claim remitted to the employment tribunal.",
+      "ratio": "The effective date of termination is a statutory construct determined by what happened between the parties over time, not by retrospective agreement; allowing parties to fix the EDT by agreement would subvert qualifying periods, continuity, age limits and limitation under the Employment Rights Act 1996 and such agreements are void under section 203.",
+      "legal_issues": [
+        "Whether the effective date of termination can be fixed by employer-employee agreement",
+        "Effect of retrospective retirement dates on tribunal time limits",
+        "Whether Crank v HMSO was correctly decided",
+        "Whether agreed backdating constitutes contracting out under section 203"
+      ],
+      "catchwords": [
+        "effective date of termination",
+        "employment tribunal time limit",
+        "ill-health retirement",
+        "contracting out",
+        "unfair dismissal",
+        "continuity of employment"
+      ],
+      "index_terms": [
+        "Employment Rights Act 1996",
+        "Crank v HMSO",
+        "Lambert v Croydon College",
+        "Caines v Hamon-Lummus Ltd",
+        "Wood v York City Council",
+        "preliminary issue",
+        "disability discrimination"
+      ],
+      "linked_authorities": [
+        "Crank v HMSO [1985] ICR 1",
+        "Lambert v Croydon College [1999] ICR 409",
+        "Wood v York City Council [1978] IRLR 228",
+        "Caines v Hamon-Lummus Ltd 11 January 1996"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Statutory analysis, outcome and remittal order are clearly reasoned. Underlying dismissal merits were not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/254.json",
+    "status": "needs_review",
+    "notes": "Complex VAT judicial review with ECJ reference on vires; other Community law and ECHR grounds rejected at permission stage.",
+    "enrichment": {
+      "short_title": "VAT joint liability and security provisions challenged",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "European Union law",
+        "Judicial review",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": [
+            "Schedule 11 paragraph 4",
+            "section 77A",
+            "section 72",
+            "section 83",
+            "section 84"
+          ]
+        },
+        {
+          "title": "Finance Act 2003",
+          "provisions": [
+            "section 17",
+            "section 18"
+          ]
+        },
+        {
+          "title": "Sixth VAT Directive (77/388/EEC)",
+          "provisions": [
+            "Article 4",
+            "Article 11",
+            "Article 21",
+            "Article 22"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 1 Protocol 1",
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Fifty-three mobile phone and computer traders challenged Finance Act 2003 provisions requiring security for third-party VAT and joint and several liability for VAT fraud in phone and computer supply chains.",
+        "The provisions were enacted to counter VAT fraud costing over £1.5 billion annually.",
+        "Claimants sought declarations of incompatibility with Community law and the Convention and a reference to the European Court of Justice.",
+        "The Commissioners were not then applying the provisions to the claimants."
+      ],
+      "procedural_posture": "Application for permission to apply for judicial review and for a reference to the European Court of Justice on VAT anti-fraud legislation.",
+      "outcome": "Permission granted and reference directed on whether Articles 21(3) and 22(8) authorised the provisions; other Community law and ECHR challenges rejected.",
+      "ratio": "Article 21(3) likely confines joint and several liability to specified situations in Article 21(1) and (2), and Article 22(8) likely does not authorise security for third-party VAT liabilities or unrestricted joint liability; those vires issues warrant an expedited ECJ reference, while alleged breaches of fiscal neutrality, single taxable person rules, proportionality and Convention rights were rejected.",
+      "legal_issues": [
+        "Whether Article 21(3) of the Sixth Directive authorised section 77A joint liability",
+        "Whether Article 22(8) authorised Schedule 11 security for third-party VAT",
+        "Whether the provisions breached fiscal neutrality or treated traders as a single taxable person",
+        "Whether the provisions were incompatible with Article 1 Protocol 1 or Article 6 ECHR"
+      ],
+      "catchwords": [
+        "VAT fraud",
+        "joint and several liability",
+        "security for tax",
+        "Sixth Directive",
+        "judicial review",
+        "ECJ reference"
+      ],
+      "index_terms": [
+        "mobile telephones",
+        "computer processing units",
+        "Finance Act 2003",
+        "missing trader fraud",
+        "Customs and Excise",
+        "Article 22(8)",
+        "expedited reference"
+      ],
+      "linked_authorities": [
+        "R v International Stock Exchange ex p Else [1993] QB 534",
+        "CEC v Littlewoods [2001] STC 1568",
+        "Eismann v Ufficio Iva [1996] STC 1374",
+        "Hentrich v France (1994) 18 EHRR 440",
+        "Ferrazzini v Italy [2001] STC 1314"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Permission and reference outcome are explicit. Final validity turns on ECJ determination not yet reflected in this judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/341.json",
+    "status": "done",
+    "notes": "Cycle collision negligence upheld; Part 36 disclosure breach held not serious where judge unaware.",
+    "enrichment": {
+      "short_title": "Cyclist collision and Part 36 disclosure breach",
+      "area_of_law": [
+        "Personal injury",
+        "Road traffic",
+        "Negligence",
+        "Civil procedure",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 36 rule 19(2)",
+            "Part 52 rule 11(3)(b)",
+            "Part 52 rule 12(1)",
+            "rule 1.1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Garratt collided with Mr Saxby's Ford Transit tipper while cycling through a junction between Morrell Avenue and Glebe Street in Oxford.",
+        "The county court judge found no negligence; Cox J allowed the appeal and found 40% contributory negligence.",
+        "The trial transcript disclosed to the appeal judge contained a reference to a Part 36 offer in breach of CPR 52.12(1).",
+        "Cyclists had right of way across the junction but the driver's view was obstructed by stationary traffic."
+      ],
+      "procedural_posture": "Appeal against a High Court judge's reversal of a county court finding of no negligence in a fast track road traffic claim.",
+      "outcome": "Appeal dismissed; primary liability and 40% contributory negligence upheld; Part 36 disclosure irregularity held not serious.",
+      "ratio": "A driver turning right across a cycle lane obstructed by stationary traffic must proceed slowly and keep a careful repeated lookout for cyclists with right of way; breach of CPR 52.12(1) is not serious where the appeal judge was unaware of the Part 36 offer and justice does not require allowing the appeal.",
+      "legal_issues": [
+        "Whether the defendant breached his duty of care to an oncoming cyclist",
+        "Whether the county court judge's findings of fact should be reversed",
+        "Effect of improper disclosure of a Part 36 offer to an appeal judge",
+        "Appropriate response where a judge becomes aware of a forbidden Part 36 payment"
+      ],
+      "catchwords": [
+        "cyclist collision",
+        "contributory negligence",
+        "Part 36 offer",
+        "proper lookout",
+        "CPR 52.12",
+        "fast track"
+      ],
+      "index_terms": [
+        "Oxford road accident",
+        "cycle lane",
+        "Millensted v Grosvenor House",
+        "Berg v IML London",
+        "Assicurazioni Generali v Arab Insurance Group",
+        "High Court appeal",
+        "proportionate costs"
+      ],
+      "linked_authorities": [
+        "Millensted v Grosvenor House (Park Lane) Ltd [1937] 1 KB 717",
+        "Gaskins v British Aluminium Company Ltd [1976] QB 524",
+        "Berg v IML London Ltd [2002] 1 WLR 3271",
+        "Assicurazioni Generali SPA v Arab Insurance Group [2003] 1 WLR 177"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Liability reasoning and appeal dismissal are clear. Contributory negligence percentage was not challenged on appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/158.json",
+    "status": "done",
+    "notes": "Gratuitous parental care awards upheld in holiday gastroenteritis lead cases; £50/week guideline suggested.",
+    "enrichment": {
+      "short_title": "Holiday illness gratuitous care damages upheld",
+      "area_of_law": [
+        "Personal injury",
+        "Travel and tourism",
+        "Damages",
+        "Contract law",
+        "Appeals"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Six lead cases arose from gastro-enteritis at Club Aquamar in Majorca following Sunworld Holidays' admitted breach of contract.",
+        "652 claimants were managed as a group action; judgment was entered by consent for damages to be assessed.",
+        "Parents claimed the value of gratuitous care given to ill children after returning home, using local authority home help rates.",
+        "Awards ranged from £120 to £275 in the six lead cases after the judge applied a broad-brush approach."
+      ],
+      "procedural_posture": "Appeal against High Court assessment of damages for gratuitous parental care in holiday illness group litigation.",
+      "outcome": "Appeal dismissed; awards for value of gratuitous care upheld in principle and in amount.",
+      "ratio": "Damages for gratuitous family care may be awarded where illness requires care distinctly beyond the ordinary regime of family life; Mills does not restrict such awards to uniquely serious cases, though awards above £50 per week at 2004 values for child gastroenteritis without substitute care costs should be reserved for more serious illness.",
+      "legal_issues": [
+        "Whether gratuitous parental care damages are recoverable for holiday gastroenteritis",
+        "Whether Mills v British Rail limits awards to very serious cases",
+        "Whether care must go beyond the ordinary call of duty in family life",
+        "Appropriate method of assessing modest gratuitous care claims"
+      ],
+      "catchwords": [
+        "package holiday",
+        "gastroenteritis",
+        "gratuitous care",
+        "damages assessment",
+        "group litigation",
+        "parental nursing"
+      ],
+      "index_terms": [
+        "Club Aquamar Majorca",
+        "Sunworld Holidays",
+        "Housecroft v Burnett",
+        "Evans v Pontypridd Roofing",
+        "Hunt v Severs",
+        "Mills v British Rail Engineering",
+        "lead cases"
+      ],
+      "linked_authorities": [
+        "Housecroft v Burnett [1986] 1 All ER 332",
+        "Evans v Pontypridd Roofing Ltd [2001] EWCA Civ 1157",
+        "Hunt v Severs [1994] 2 AC 350",
+        "Mills v British Rail Engineering Ltd [1992] 1 PIQR Q130"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Appeal issue, governing principles and dismissal are clearly articulated. Guideline tariff suggestion is obiter."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/246.json",
+    "status": "done",
+    "notes": "Council tax becomes due on demand not on setting; six-year limitation runs from demand service.",
+    "enrichment": {
+      "short_title": "Council tax due date for liability orders",
+      "area_of_law": [
+        "Local government finance",
+        "Tax law",
+        "Administrative law",
+        "Magistrates' courts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government Finance Act 1992",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 4",
+            "section 6",
+            "section 8",
+            "section 16",
+            "section 30",
+            "Schedule 2",
+            "Schedule 4"
+          ]
+        },
+        {
+          "title": "Council Tax (Administration and Enforcement) Regulations 1992",
+          "provisions": [
+            "regulation 17",
+            "regulation 18",
+            "regulation 19",
+            "regulation 20",
+            "regulation 22",
+            "regulation 33",
+            "regulation 34"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Regentford Ltd owned two Margate properties and faced liability orders for seven years of unpaid council tax applied for in January 2003.",
+        "The magistrates held the application included tax due on 22 February 1996, more than six years before the application.",
+        "The council had not served demand notices until 2 October 2002.",
+        "Regentford did not attend the magistrates' hearing and allowed the proceedings to go by default."
+      ],
+      "procedural_posture": "Appeal by way of case stated from magistrates' liability orders for unpaid council tax.",
+      "outcome": "Council tax became due when demanded on 2 October 2002; justices had jurisdiction to make the liability orders; late-service defence refused.",
+      "ratio": "Liability to council tax is not transformed into a sum due and payable until a demand notice is served under Part V of the 1992 Regulations; the six-year limitation period for a liability order runs from that date, not from when the billing authority sets the tax.",
+      "legal_issues": [
+        "When council tax becomes due under the 1992 Act and Regulations",
+        "Whether tax was due on setting in February 1996 or on demand in October 2002",
+        "Whether failure to serve demand notices promptly bars recovery",
+        "Construction of regulation 34 six-year limitation period"
+      ],
+      "catchwords": [
+        "council tax",
+        "liability order",
+        "demand notice",
+        "limitation period",
+        "case stated",
+        "billing authority"
+      ],
+      "index_terms": [
+        "Thanet District Council",
+        "Margate property",
+        "Local Government Finance Act 1992",
+        "Encon Insulation v Nottingham City Council",
+        "magistrates court",
+        "multiple occupation",
+        "six-year rule"
+      ],
+      "linked_authorities": [
+        "Encon Insulation Ltd v Nottingham City Council [1999] RA 382",
+        "LCC v Farren [1956] 1 WLR 1297"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Statutory scheme analysis and holding on due date are direct. Late-service prejudice issue was not remitted because of default."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/270.json",
+    "status": "done",
+    "notes": "Bond trustee may certify material prejudice without further investigation on total repudiation of director appointment right.",
+    "enrichment": {
+      "short_title": "Bond events of default and material prejudice",
+      "area_of_law": [
+        "Banking and finance",
+        "Debt securities",
+        "Trust law",
+        "Contract interpretation",
+        "Company law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Law Debenture, trustee of €510 million Elektrim bonds, sought construction of Condition 12 of the bond trust deed.",
+        "Bondholders holding over 30% of the bonds complained that Elektrim suspended the bondholder-nominated director in breach of Condition 10(d).",
+        "The bondholder director had veto power over material decisions above €25,000; suspension excluded bondholders from board decisions.",
+        "Further asset disposals were proposed while the bondholder director remained suspended."
+      ],
+      "procedural_posture": "Part 8 claim for directions on construction of an events-of-default proviso requiring material prejudice to bondholders.",
+      "outcome": "Suspension of the bondholder-nominated director was materially prejudicial; trustee may certify accordingly without further investigation.",
+      "ratio": "Bondholders' interests in the proviso mean contractual payment rights and ancillary protective rights including board representation; the trustee must be satisfied present material prejudice before certifying, but total repudiation of Condition 10(d) by suspending the bondholder-nominated director is self-evidently materially prejudicial without investigating whether individual transactions benefited bondholders economically.",
+      "legal_issues": [
+        "Meaning of 'materially prejudicial to the interests of the Bondholders' in Condition 12",
+        "Whether every breach of Condition 10(d) automatically constitutes an event of default",
+        "Scope of bondholders' interests beyond pure payment rights",
+        "Whether the trustee must investigate economic effect of transactions before certifying"
+      ],
+      "catchwords": [
+        "bond trust deed",
+        "events of default",
+        "bondholder director",
+        "material prejudice",
+        "trustee certificate",
+        "Eurobonds"
+      ],
+      "index_terms": [
+        "Elektrim Finance",
+        "Acciona",
+        "Condition 10(d)",
+        "Condition 12",
+        "Part 8 claim",
+        "Polish telecom group",
+        "bondholder representation"
+      ],
+      "linked_authorities": [
+        "Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896",
+        "The Football Association Premier League Ltd v Panini UK Ltd [2002] EWCA Civ 995"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Construction answer and order terms are explicit. Decision on other Condition 10(d) breaches remains fact-specific."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/248.json",
+    "status": "needs_review",
+    "notes": "Divided Court of Appeal on consent order construction; reported order allows appeal on final remuneration issue.",
+    "enrichment": {
+      "short_title": "Pension claim final remuneration preliminary issue",
+      "area_of_law": [
+        "Pensions",
+        "Contract law",
+        "Employment law",
+        "Civil procedure",
+        "Appeals"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Kenneth Burley claimed Joseph Burley and Partners contractually promised a pension at least equal to his forfeited AA two-thirds final salary pension.",
+        "Summary judgment on the main pension claim was set aside on appeal; remaining heads were compromised subject to two preliminary issues.",
+        "The claimant contended final remuneration was £25,995.83; the defendants argued £18,616.65 based on pension scheme rules.",
+        "A consent order of 27 November 2001 dismissed part of the claim while summary judgment was given on paragraphs 11 and 12."
+      ],
+      "procedural_posture": "Appeal on preliminary issues before trial of remaining pension damages after earlier summary judgment was overturned.",
+      "outcome": "Appeal allowed on the first preliminary issue; claimant not precluded from arguing final remuneration other than £18,616.65; second issue compromised.",
+      "ratio": "On the true construction of the November 2001 consent order read with the pleadings, the issue of final remuneration for calculating a two-thirds pension was part of the dismissed paragraphs 11 and 12 claim and was not compromised as one of the remaining elements; the amount of final salary remains live to quantify contractual pension damages.",
+      "legal_issues": [
+        "Construction of a consent order dismissing part of a pension claim",
+        "Whether final remuneration was compromised with other remaining claim elements",
+        "Relationship between paragraphs 9, 11 and 12 of the amended statement of claim",
+        "Appropriateness of preliminary issues in pension litigation"
+      ],
+      "catchwords": [
+        "contractual pension",
+        "final remuneration",
+        "consent order",
+        "preliminary issue",
+        "summary judgment",
+        "professional partnership"
+      ],
+      "index_terms": [
+        "Joseph Burley and Partners",
+        "Norwich Union pension scheme",
+        "Automobile Association pension",
+        "two-thirds pension",
+        "consent order construction",
+        "IR12 guidance",
+        "actuarial evidence"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.84,
+        "level": "medium",
+        "notes": "Reported order allows the appeal, but Chadwick LJ's reasoning reaches the opposite conclusion on construction; underlying quantum remains undecided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/209.json",
+    "status": "done",
+    "notes": "Parallel English partnership and Lebanese winding-up actions; election to proceed first in England upheld.",
+    "enrichment": {
+      "short_title": "Parallel English and Lebanese business dispute",
+      "area_of_law": [
+        "Civil procedure",
+        "Conflict of laws",
+        "Partnership law",
+        "Company law",
+        "Case management"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Racy brought English proceedings against Mr Hawila alleging a worldwide 2:1 partnership and fiduciary claims over the Midmac Group from 1985.",
+        "Mr Racy also commenced Lebanese proceedings seeking liquidation of Midmac SARL, a Midmac subsidiary.",
+        "Blackburne J required Mr Racy to elect which action to pursue first; Mr Racy elected the English action.",
+        "The judge found substantial factual overlap though the legal claims and remedies differed between jurisdictions."
+      ],
+      "procedural_posture": "Appeal against case management order requiring election between concurrent English partnership claims and Lebanese winding-up proceedings.",
+      "outcome": "Appeal dismissed; election to pursue the English action first upheld with undertakings to stay the Lebanese action.",
+      "ratio": "Where parallel proceedings in different jurisdictions involve substantial factual overlap but different remedies, Spiliada forum non conveniens principles do not apply; the court may manage the case by requiring the claimant to elect which action proceeds first to avoid oppressive simultaneous defences.",
+      "legal_issues": [
+        "Whether Spiliada principles apply to related proceedings in different jurisdictions",
+        "Whether concurrent English and Lebanese actions should proceed simultaneously",
+        "Extent of factual overlap between partnership claims and SARL winding-up",
+        "Appropriate case management where remedies differ but facts overlap"
+      ],
+      "catchwords": [
+        "parallel proceedings",
+        "case management",
+        "partnership dispute",
+        "winding up",
+        "election of forum",
+        "Midmac Group"
+      ],
+      "index_terms": [
+        "Racy v Hawila",
+        "Lebanese liquidation",
+        "Reichhold Norway v Goldman Sachs",
+        "ANZ McCaughan",
+        "The Spiliada",
+        "freezing order",
+        "business partnership"
+      ],
+      "linked_authorities": [
+        "The Spiliada [1986] AC 460",
+        "Australian Commercial Research and Development Ltd v ANZ McCaughan Merchant Bank Ltd [1989] 3 All ER 65",
+        "Reichhold Norway ASA v Goldman Sachs International [2000] 1 WLR 173"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Appeal dismissal and case management reasoning are clear. Underlying partnership merits were not tried."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/208.json",
+    "status": "needs_review",
+    "notes": "Litigant-in-person assault claim with rejected exaggerated psychiatric evidence; nominal damages and GMC referral.",
+    "enrichment": {
+      "short_title": "Bookmaker assault claim with nominal damages",
+      "area_of_law": [
+        "Personal injury",
+        "Tort law",
+        "Assault and battery",
+        "Civil evidence",
+        "Professional discipline"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Hussein, a litigant in person, was assaulted by a William Hill deputy manager with a cardboard poster tube at a Streatham branch in September 2001.",
+        "CCTV showed a heated argument; the claimant admitted using the phrase 'monkey faces' during the dispute.",
+        "The claimant claimed three blows including head injuries, PTSD, loss of earnings and a £7,500 watch; medical evidence from his GP and psychiatrist was rejected.",
+        "The trial judge preferred the manager's account of one or two blows to the upper arm and found the claim grossly exaggerated."
+      ],
+      "procedural_posture": "Trial of a fast-track personal injury and slander claim against an employer for an employee's assault.",
+      "outcome": "Judgment for the claimant on liability but nominal damages of £50; judge indicated referral of medical witnesses to the GMC and possible DPP referral.",
+      "ratio": "An employer is liable for an employee's assault on a customer, but where witness evidence shows at most one or two glancing blows to the arm leaving no credible injury or psychiatric disorder, and the claimant has deliberately exaggerated the claim with unreliable medical evidence, only nominal damages are appropriate.",
+      "legal_issues": [
+        "What force was used in the assault and where blows landed",
+        "Whether the claimant suffered physical or psychiatric injury",
+        "Credibility of lay and medical witness evidence",
+        "Quantum of damages where liability for assault is admitted but injury is unproved"
+      ],
+      "catchwords": [
+        "employer's vicarious liability",
+        "assault",
+        "nominal damages",
+        "exaggerated claim",
+        "PTSD diagnosis",
+        "litigant in person"
+      ],
+      "index_terms": [
+        "William Hill",
+        "bookmakers",
+        "CCTV evidence",
+        "adjustment reaction",
+        "Dr Fry psychiatrist",
+        "General Medical Council",
+        "Streatham Locarno"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Liability concession, credibility findings and £50 award are explicit. Slander and aggravated damages applications were not finally ruled on."
+      }
+    }
+  }
+]

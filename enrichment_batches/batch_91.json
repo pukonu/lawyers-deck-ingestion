@@ -1,0 +1,764 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1659.json",
+    "status": "done",
+    "notes": "Batch 91 enrichment",
+    "enrichment": {
+      "short_title": "Council tax committal without lawful distress procedure",
+      "area_of_law": [
+        "Administrative law",
+        "Local government finance",
+        "Magistrates' court procedure",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government Finance Act 1992",
+          "provisions": [
+            "Schedule 4 paragraph 8"
+          ]
+        },
+        {
+          "title": "Council Tax (Administration and Enforcement) Regulations 1992 (SI 1992/613)",
+          "provisions": [
+            "regulation 34",
+            "regulation 45",
+            "regulation 47"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Kate Nwankwo was committed to 14 days' imprisonment unless she paid £892.04 in council tax arrears after attending Hendon Magistrates' Court on 20 November 2002.",
+        "She disputed liability beyond March 2001, had not received summons papers sent to a former address, and offered to pay by instalments.",
+        "The magistrates proceeded to committal without evidence that distress had been attempted or that proper inquiries into means and wilful refusal had been conducted.",
+        "Hendon Magistrates' Court did not appear to contest the claimant's account of the hearing."
+      ],
+      "procedural_posture": "Judicial review with permission to quash a magistrates' court suspended committal order for non-payment of council tax.",
+      "outcome": "Committal order quashed; costs ordered in the sum of £1,724.81, subject to liberty to apply within 14 days.",
+      "ratio": "A magistrates' court may commit a council tax debtor to prison only after the billing authority has followed the statutory enforcement sequence—including liability order, attempted distress, and an in-person inquiry into means and wilful refusal or culpable neglect under regulation 47—and where none of those prerequisites was satisfied, the committal order had no lawful basis and must be quashed.",
+      "legal_issues": [
+        "Whether the statutory council tax enforcement and committal procedure was complied with",
+        "Whether the claimant received a fair hearing before committal",
+        "Whether costs should be awarded against the magistrates' court"
+      ],
+      "catchwords": [
+        "council tax",
+        "committal to prison",
+        "distress",
+        "regulation 47",
+        "wilful refusal",
+        "judicial review",
+        "magistrates"
+      ],
+      "index_terms": [
+        "Nwankwo",
+        "Hendon Magistrates' Court",
+        "Barnet",
+        "Council Tax Regulations 1992",
+        "suspended committal"
+      ],
+      "linked_authorities": [
+        "R v Newcastle upon Tyne Justices ex parte Devine"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Outcome, statutory framework, and ratio on committal procedure are explicit; judge metadata in source data was not independently verified."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1275.json",
+    "status": "done",
+    "notes": "Batch 91 enrichment",
+    "enrichment": {
+      "short_title": "Solicitor negligence in failing to secure overage",
+      "area_of_law": [
+        "Professional negligence",
+        "Conveyancing",
+        "Property development",
+        "Damages"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": [
+            "section 58",
+            "section 78",
+            "section 79"
+          ]
+        },
+        {
+          "title": "Land Registration Act 1925",
+          "provisions": []
+        },
+        {
+          "title": "Rent Charges Act 1977",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Akasuc sold contaminated land at Banstead to Mansard under a conditional contract with minimum price and overage, while under financial pressure from NatWest.",
+        "The defendants' solicitor negotiated the agreement but failed to insert mechanisms binding successors in title to pay overage when Mansard sold undeveloped to Charles Church.",
+        "Mansard completed for £619,500; Church later developed the site and received over £5 million in sales proceeds from which Akasuc received no overage.",
+        "The court found the solicitor negligent in draftsmanship and assessed loss as a lost chance rather than the full Church sale value."
+      ],
+      "procedural_posture": "Trial of a professional negligence claim against solicitors for failure to protect overage payments on a conditional land sale.",
+      "outcome": "Claim succeeded; damages of £250,000 awarded plus interest; contributory negligence rejected.",
+      "ratio": "A conveyancing solicitor instructed to secure overage must use available devices—such as a land registry restriction or appropriately drafted contractual obligations supported by security—to prevent the buyer from evading overage by selling on undeveloped; where such mechanisms were available and would likely have been accepted, failure to include them is negligent, and damages are measured as the lost chance of obtaining a better sale price rather than the full hypothetical overage on the downstream development.",
+      "legal_issues": [
+        "Whether the solicitor breached duty by failing to protect overage against assignment",
+        "What conveyancing mechanisms could lawfully have secured overage",
+        "Whether Mansard would have accepted protective provisions",
+        "How to quantify the lost chance of a better 1997 sale"
+      ],
+      "catchwords": [
+        "solicitor negligence",
+        "overage",
+        "clawback",
+        "conditional sale",
+        "lost chance",
+        "Allied Maples",
+        "land registry restriction"
+      ],
+      "index_terms": [
+        "Akasuc",
+        "Mansard Country Homes",
+        "Charles Church Developments",
+        "Farmar & Shirreff",
+        "Banstead",
+        "development land"
+      ],
+      "linked_authorities": [
+        "Rhone Trust v Stephens",
+        "Shiloh Spinners v Harding",
+        "Allied Maples v Simmons and Simmons",
+        "Stokes v Cambridge"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed trial judgment with clear findings on negligence, causation, and quantum; long factual background supports enrichment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1377.json",
+    "status": "done",
+    "notes": "Batch 91 enrichment",
+    "enrichment": {
+      "short_title": "Privacy of arbitration claim judgments under CPR 62.10",
+      "area_of_law": [
+        "Arbitration",
+        "Civil procedure",
+        "Open justice",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 1",
+            "section 33",
+            "section 45",
+            "section 68",
+            "section 69"
+          ]
+        },
+        {
+          "title": "Civil Procedure Act 1997",
+          "provisions": [
+            "section 2"
+          ]
+        },
+        {
+          "title": "Administration of Justice Act 1960",
+          "provisions": [
+            "section 12"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 1"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Following rejection of section 68 challenges to a confidential UNCITRAL arbitration award, Moscow sought publication of the earlier judgment while Bankers Trust and IIB opposed it.",
+        "The section 68 hearing had been in private under CPR 62.10(3)(b) with no application for a public hearing.",
+        "The dispute concerned highly sensitive political and commercial material relating to a Moscow Eurobond loan.",
+        "Lawtel briefly published a summary of the earlier judgment before the publication dispute was resolved."
+      ],
+      "procedural_posture": "Further hearing on whether a judgment given after a private arbitration claim under section 68 of the Arbitration Act 1996 should be published.",
+      "outcome": "Earlier judgment on the section 68 challenge to remain private; the present judgment on publication may be published.",
+      "ratio": "For arbitration claims heard in private under CPR 62.10, the presumption of open publication of judgments in ordinary civil proceedings does not apply with full force; where the claim involves no point of law, raises highly sensitive confidential material, and reflects the parties' choice of private arbitration, the court may properly treat the judgment as private in the interests of justice, although a separate judgment addressing only legal issues of wider interest may be published.",
+      "legal_issues": [
+        "Whether CPR 62.10 requires private judgments in arbitration claims",
+        "Whether Article 6 ECHR requires public pronouncement of all judgments",
+        "Whether prior disclosure by a party forfeited confidentiality",
+        "Whether the Lawtel publication put the judgment in the public domain"
+      ],
+      "catchwords": [
+        "arbitration privacy",
+        "CPR 62.10",
+        "section 68",
+        "confidentiality",
+        "open justice",
+        "Article 6",
+        "publication of judgments"
+      ],
+      "index_terms": [
+        "Moscow",
+        "Bankers Trust",
+        "UNCITRAL",
+        "Commercial Court",
+        "serious irregularity",
+        "private hearing"
+      ],
+      "linked_authorities": [
+        "Scott v Scott",
+        "Hodgson v Imperial Tobacco Ltd",
+        "Clibbery v Allen",
+        "Forbes v Smith",
+        "Hassneh Insurance v Mew",
+        "Ali Shipping Corporation v Shipyard Trogir",
+        "B v United Kingdom"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Focused procedural judgment with explicit ratio on privacy of arbitration-related court judgments."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1388.json",
+    "status": "done",
+    "notes": "Batch 91 enrichment",
+    "enrichment": {
+      "short_title": "Schedule 3 support for unlawfully present mother and child",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Children law",
+        "Local authority duties",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 54",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Withholding and Withdrawal of Support (Travel Assistance and Temporary Accommodation) Regulations 2002 (SI 2002/3078)",
+          "provisions": [
+            "regulation 3",
+            "regulation 4"
+          ]
+        },
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 17"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 3",
+            "Article 8"
+          ]
+        },
+        {
+          "title": "Child Abduction Act 1984",
+          "provisions": []
+        },
+        {
+          "title": "Child Abduction and Custody Act 1985",
+          "provisions": [
+            "Schedule 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Guyanese mother unlawfully present in the UK cared for her British child in an Islington council flat after marital breakdown.",
+        "Islington offered one-way tickets to Guyana under section 17 and 21 days' temporary accommodation under Regulation 3(3), but refused ongoing support in the UK.",
+        "The authority failed adequately to consider the child's relationship with her separated British father and the evidential basis for life in Guyana.",
+        "The court upheld Islington's construction of Regulation 3(3) as permitting only short-term temporary accommodation pending departure."
+      ],
+      "procedural_posture": "Judicial review of Islington's decision on support for an unlawfully present adult carer of a British child under Schedule 3 and section 17 Children Act 1989.",
+      "outcome": "Decision to offer travel tickets under section 17 quashed; Islington succeeded on the lawfulness of limiting Regulation 3(3) accommodation to about 21 days; no order as to costs.",
+      "ratio": "Where an adult unlawfully present with a dependent British child falls within Schedule 3 of the 2002 Act, a local authority may offer voluntary return travel under section 17 only if that offer is rationally based on a proper welfare and Article 8 assessment, including the non-residential parent's family life and realistic prospects abroad; separately, Regulation 3(3) empowers only temporary accommodation pending departure and, having regard to the guidance, does not require indefinite accommodation until removal directions are issued.",
+      "legal_issues": [
+        "Construction of Regulation 3(3) temporary accommodation power for persons unlawfully present",
+        "Lawfulness of a section 17 offer of tickets to Guyana",
+        "Whether Schedule 3 paragraph 3 'necessary' test was satisfied",
+        "Impact of the father's parental responsibility and contact on welfare and Article 8"
+      ],
+      "catchwords": [
+        "Schedule 3",
+        "section 17",
+        "temporary accommodation",
+        "unlawfully present",
+        "British child",
+        "Article 8",
+        "travel assistance"
+      ],
+      "index_terms": [
+        "Islington",
+        "Guyana",
+        "Nationality Immigration and Asylum Act 2002",
+        "Regulation 3(3)",
+        "failed asylum support"
+      ],
+      "linked_authorities": [
+        "R v Islington LBC ex p Rixon",
+        "R on the application of G v Barnet LBC",
+        "R on the application of W v Lambeth LBC",
+        "Ciliz v The Netherlands",
+        "R v Brent LBC ex p Awua"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complex but clearly reasoned judgment on both Regulation 3(3) and section 17 assessment flaws."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1840.json",
+    "status": "done",
+    "notes": "Batch 91 enrichment",
+    "enrichment": {
+      "short_title": "Murder retrial after prison informer disclosure failure",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Appeal against conviction",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": []
+        },
+        {
+          "title": "Criminal Procedure and Investigations Act 1996",
+          "provisions": [
+            "Code of Practice paragraph 3.4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Russell Packman (Causley) was convicted in 1996 of murdering his wife Carole, who disappeared in June 1985.",
+        "At trial the Crown relied heavily on cell confession evidence from Andrew Murphy, supported by Lomond and Briggs.",
+        "After CCRC referral, fresh evidence showed Murphy had given similar confession evidence in an Irish manslaughter trial decades earlier.",
+        "The Crown accepted the conviction was unsafe but sought retrial on circumstantial evidence alone."
+      ],
+      "procedural_posture": "Second appeal following CCRC referral under the Criminal Appeal Act 1995, with contested application for retrial after quashing a murder conviction.",
+      "outcome": "Conviction quashed as unsafe; retrial ordered; bail refused; limited reporting restrictions imposed.",
+      "ratio": "Undisclosed evidence that a prison informer witness had previously given materially similar cell-confession evidence is capable of rendering a murder conviction unsafe because juries must treat such evidence with special caution; however, where the remaining circumstantial case remains strong, the public interest in determining guilt may justify ordering a retrial without calling the discredited informer witnesses.",
+      "legal_issues": [
+        "Whether Murphy's undisclosed prior confession evidence made the conviction unsafe",
+        "Whether police/CPS handling of Lomond and Briggs affected safety of conviction",
+        "Whether a retrial should proceed on circumstantial evidence only",
+        "Whether delay, age, and alleged police misconduct preclude retrial"
+      ],
+      "catchwords": [
+        "cell confession",
+        "prison informer",
+        "CCRC referral",
+        "unsafe conviction",
+        "retrial",
+        "disclosure",
+        "murder"
+      ],
+      "index_terms": [
+        "Causley",
+        "Packman",
+        "Veronica Mary Packman",
+        "Murphy",
+        "Lomond",
+        "Briggs",
+        "Benedetto v The Queen"
+      ],
+      "linked_authorities": [
+        "Benedetto v The Queen",
+        "R v Bailey",
+        "Immigration Appeal Tribunal v Carcabuk"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long judgment but outcome and ratio on unsafe conviction and retrial are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/902.json",
+    "status": "done",
+    "notes": "Batch 91 enrichment",
+    "enrichment": {
+      "short_title": "Employment tribunal dismissal in absence and review",
+      "area_of_law": [
+        "Employment law",
+        "Discrimination",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Tribunals (Constitution and Rules of Procedure) Regulations 1993",
+          "provisions": [
+            "regulation 9",
+            "regulation 11",
+            "regulation 20"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Miss Kyamanywa, a Hackney social worker, brought race and sex discrimination claims that had been pending since September 1998.",
+        "When she failed to attend a hearing on 6 September 2000, the tribunal dismissed her claim under rule 9(3), deeming notice served on her solicitors sufficient.",
+        "Her review application failed because the tribunal treated absence as dependent on non-receipt of notice, ignoring wider justice grounds.",
+        "She had actively pressed for an early hearing and remained unaware of the September 2000 listing."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against dismissal of an employment tribunal review refusing to reinstate discrimination claims struck out in the claimant's absence.",
+      "outcome": "Appeal allowed; case remitted to a freshly constituted employment tribunal for rehearing on the merits; no order as to costs.",
+      "ratio": "Although notice of an employment tribunal hearing sent to a claimant's authorised representative is deemed good service, a tribunal exercising its review discretion under regulation 11 must separately consider grounds based on the claimant's absence and the interests of justice; where the claimant did not know of the hearing, had not abandoned the claim, and would lose any merits adjudication if review were refused, failure to grant review is an error of law.",
+      "legal_issues": [
+        "Whether notice to solicitors was effective service on the applicant",
+        "Whether the review tribunal erred by treating the absence ground as dependent on non-receipt of notice",
+        "Whether interests-of-justice review should have been granted",
+        "Whether the tribunal could adjourn of its own motion under rule 9(3)"
+      ],
+      "catchwords": [
+        "employment tribunal",
+        "review",
+        "dismissal in absence",
+        "rule 9(3)",
+        "authorised representative",
+        "race discrimination",
+        "interests of justice"
+      ],
+      "index_terms": [
+        "Kyamanywa",
+        "Hackney",
+        "Balogun Kirvan",
+        "Employment Appeal Tribunal",
+        "representation confusion"
+      ],
+      "linked_authorities": [
+        "Lindsay v Ironsides Ray & Vials"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Clear procedural ratio from Mummery LJ with agreed outcome in the Court of Appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1456.json",
+    "status": "done",
+    "notes": "Batch 91 enrichment",
+    "enrichment": {
+      "short_title": "Binding effect of HOPO credibility concessions",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "A Sri Lankan asylum seeker appealed after the Secretary of State rejected her account of army detention, torture, and escape.",
+        "The adjudicator disbelieved the arrest-and-escape narrative and found she was not an exceptional case under Jeyachandran.",
+        "The judicial review ground depended on an alleged Home Office presenting officer concession that the appellant was a credible witness.",
+        "The HOPO had opened by relying on the refusal letter and said inconsistencies may have arisen from misunderstanding rather than deceit."
+      ],
+      "procedural_posture": "Judicial review of an immigration adjudicator's credibility finding, limited to whether a HOPO concession bound the tribunal.",
+      "outcome": "Application dismissed; no real prospect of success on the alleged concession.",
+      "ratio": "A Home Office presenting officer's statement that inconsistencies in an asylum account may reflect misunderstanding rather than deliberate deception is not a clear and unambiguous concession of overall credibility; where the HOPO continues to rely on the refusal letter and credibility is actively debated, the adjudicator is not bound to accept the appellant's story as true.",
+      "legal_issues": [
+        "Whether the HOPO made a binding concession on credibility",
+        "The effect of a concession on the adjudicator's duty",
+        "Whether the IAT erred in its treatment of credibility"
+      ],
+      "catchwords": [
+        "asylum appeal",
+        "credibility concession",
+        "HOPO",
+        "adjudicator",
+        "Jeyachandran",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Kantharajah",
+        "Sri Lanka",
+        "LTTE",
+        "Immigration Appeal Tribunal v Carcabuk"
+      ],
+      "linked_authorities": [
+        "Immigration Appeal Tribunal v Carcabuk"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Short, focused judgment on a single conceded legal issue with clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1364.json",
+    "status": "done",
+    "notes": "Batch 91 enrichment",
+    "enrichment": {
+      "short_title": "Default judgment on defaulted aircraft mortgage",
+      "area_of_law": [
+        "Commercial law",
+        "Aviation finance",
+        "Civil procedure",
+        "Security and mortgages"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": [
+            "rule 12.3.1(a)",
+            "Practice Direction 12.4.1(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Boeing Capital lent about US$38m to Melissa Aircraft LLC to finance a Boeing 737, secured by a mortgage granted by Wells Fargo as registered owner.",
+        "After default and a failed settlement, Boeing obtained a worldwide freezing injunction and served English proceedings out of jurisdiction.",
+        "Neither defendant acknowledged service within 22 days; Melissa belatedly sought to file a late acknowledgment on the day of the default judgment hearing.",
+        "A separate freezing order obtained by Jet Aviation did not defeat Boeing's mortgage security."
+      ],
+      "procedural_posture": "Application for default judgment and possession/delivery-up orders against aircraft mortgagees who failed to acknowledge service.",
+      "outcome": "Default judgment granted with declarations, delivery up of aircraft and FAA documentation, and costs of the action; adjournment refused.",
+      "ratio": "A late acknowledgment of service filed after an application for default judgment does not automatically defeat judgment under CPR 12.3 unless it indicates a credible defence; where borrowers have defaulted under an aircraft mortgage, repudiated a settlement, and offer no arguable defence, the court may grant possession and delivery-up relief notwithstanding a third-party freezing order, provided enforcement respects that injunction until varied.",
+      "legal_issues": [
+        "Whether a late acknowledgment of service prevents default judgment",
+        "Whether the settlement agreement invalidated the notice of default",
+        "Whether Jet Aviation's freezing order prevented Boeing taking possession",
+        "Scope of the order for delivery up of aircraft documentation"
+      ],
+      "catchwords": [
+        "default judgment",
+        "aircraft mortgage",
+        "CPR 12.3",
+        "acknowledgment of service",
+        "freezing order",
+        "delivery up",
+        "aviation finance"
+      ],
+      "index_terms": [
+        "Boeing Capital",
+        "Melissa Aircraft",
+        "Wells Fargo Bank Northwest",
+        "Boeing 737",
+        "Kaleefer Airways",
+        "Jet Aviation"
+      ],
+      "linked_authorities": [
+        "Flightline Ltd v Edwards",
+        "Neuberger J judgment 21 November 2001 on CPR 12.3"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Commercial default judgment with straightforward outcome and ratio on procedure and security priority."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1311.json",
+    "status": "done",
+    "notes": "Batch 91 enrichment",
+    "enrichment": {
+      "short_title": "EIA adequacy for quarry landfill permission",
+      "area_of_law": [
+        "Planning law",
+        "Environmental law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999",
+          "provisions": [
+            "regulation 2",
+            "regulation 3",
+            "regulation 19",
+            "Schedule 4 Part II"
+          ]
+        },
+        {
+          "title": "Council Directive 85/337/EEC",
+          "provisions": [
+            "Article 2"
+          ]
+        },
+        {
+          "title": "Conservation (Natural Habitats, &c.) Regulations 1994",
+          "provisions": [
+            "regulation 3(4)",
+            "regulation 39",
+            "regulation 44"
+          ]
+        },
+        {
+          "title": "Council Directive 92/43/EEC",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Viridor sought planning permission to use Trigon Hill clay quarry in Dorset as a landfill site for about 20 years.",
+        "D Dorset granted permission subject to conditions requiring further surveys for protected reptiles and habitat management.",
+        "PPG11 challenged the environmental statement on the basis that mitigation measures were wrongly taken into account before finding no significant adverse effects.",
+        "Protected species at issue included sand lizards, smooth snakes, and bats."
+      ],
+      "procedural_posture": "Judicial review of a county council planning permission for landfill at a quarry, alleging defective environmental impact assessment and breach of habitats protection duties.",
+      "outcome": "Claim dismissed on both grounds; costs summarily assessed at £22,000.",
+      "ratio": "A planning authority may lawfully conclude that an EIA development will not have significant adverse environmental effects where existing survey material supports that conclusion and proposed mitigation measures are modest, well-established, and uncontroversial; imposing post-grant survey and translocation conditions does not necessarily indicate that the authority failed to take environmental information into account, and regard to European protected species licensing through DEFRA does not require the planning authority itself to replicate strict licensing functions.",
+      "legal_issues": [
+        "Whether Dorset unlawfully conflated mitigation with the assessment of significant adverse effects",
+        "Whether pre-grant reptile surveys were required before permission could lawfully be granted",
+        "Whether the authority failed to have regard to European protected species requirements",
+        "Effect of the Court of Appeal decision in Gillespie on the Lebus approach"
+      ],
+      "catchwords": [
+        "environmental impact assessment",
+        "planning permission",
+        "landfill",
+        "Schedule 4",
+        "mitigation measures",
+        "European protected species",
+        "Lebus trap"
+      ],
+      "index_terms": [
+        "Trigon Hill Quarry",
+        "Dorset",
+        "Viridor",
+        "PPG11",
+        "sand lizard",
+        "smooth snake",
+        "Gillespie"
+      ],
+      "linked_authorities": [
+        "R v Cornwall County Council ex p Hardy",
+        "R v Rochdale MBC ex p Tew",
+        "R v Rochdale MBC ex p Milne",
+        "British Telecommunications Plc v Gloucester City Council",
+        "R (Lebus) v South Cambridgeshire DC",
+        "Gillespie v First Secretary of State",
+        "R (Jones) v Mansfield DC",
+        "R v North Yorkshire CC ex p Brown",
+        "Smith v Secretary of State for the Environment Transport and Regions"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed planning judgment with extensive authority review; ratio synthesised from Gillespie-aligned conclusions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1256.json",
+    "status": "done",
+    "notes": "Batch 91 enrichment",
+    "enrichment": {
+      "short_title": "Passing off versus registered trade mark priority",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks",
+        "Passing off"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": [
+            "section 2",
+            "section 9",
+            "section 10",
+            "section 11",
+            "section 22",
+            "section 27",
+            "section 30",
+            "section 48"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Inter Lotto promoted charity lotteries under HOT PICK from August 2001; Camelot applied to register HOTPICKS on 17 October 2001 and began using it in July 2002 under licence from the National Lottery Commission.",
+        "Camelot argued Inter Lotto's post-registration use was unlawful trade mark infringement and could not support passing off.",
+        "The parties agreed a preliminary issue on whether goodwill fell to be assessed at the registration date or later.",
+        "Inter Lotto alleged confusion between HOT PICK and HOTPICKS in the lottery market."
+      ],
+      "procedural_posture": "Trial of a preliminary issue in passing off and trade mark proceedings as to the date for assessing the claimant's reputation and goodwill.",
+      "outcome": "Preliminary issue answered in the negative; goodwill is assessed as at the date Camelot started using HOTPICKS, not 17 October 2001.",
+      "ratio": "Registration of a trade mark confers exclusive rights to prevent infringement, not an entitlement to use the mark regardless of earlier common law rights; section 2(2) preserves passing off, so a later registered mark does not automatically extinguish or override goodwill built up by prior honest use, and a claimant may rely on reputation accrued until the defendant's confusing use begins even if that later use would infringe the registration.",
+      "legal_issues": [
+        "Whether a registered trade mark gives the proprietor an entitlement to use overriding passing off rights",
+        "Whether post-registration use by the claimant is ex turpi and incapable of generating goodwill",
+        "The correct date for assessing goodwill in a passing off claim where registration intervenes"
+      ],
+      "catchwords": [
+        "passing off",
+        "registered trade mark",
+        "goodwill",
+        "section 2(2)",
+        "section 9",
+        "ex turpi causa",
+        "lottery"
+      ],
+      "index_terms": [
+        "Inter Lotto",
+        "Camelot",
+        "HOT PICK",
+        "HOTPICKS",
+        "National Lottery Commission",
+        "preliminary issue"
+      ],
+      "linked_authorities": [
+        "Perry v Truefitt",
+        "Montgomery v Thompson",
+        "Saville Perfumery Ltd v June Perfect Ltd",
+        "Re Lyle & Kinahan Ltd's Application",
+        "Millington v Fox",
+        "Burberry's v Cording",
+        "ICI v Berk"
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Preliminary issue judgment with explicit answer and clear ratio on interaction of passing off and registered trade mark rights."
+      }
+    }
+  }
+]

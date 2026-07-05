@@ -1,0 +1,798 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/pat/2003/533.json",
+    "status": "done",
+    "notes": "Interlocutory case management judgment; outcome and ratio are clear.",
+    "enrichment": {
+      "short_title": "Paroxetine patent trial experiment timetable dispute",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent litigation",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Apotex challenged validity and alleged infringement of SmithKline Beecham's paroxetine hydrochloride patent; an interlocutory injunction was already in place.",
+        "The defendants asked the claimants to repeat three of seven pre-trial experiments; the parties disagreed whether repeats should run sequentially or wholly in parallel.",
+        "The defendants applied for an order requiring fully parallel repetition, which would save about two days compared with the claimants' proposed timetable.",
+        "Mr Justice Laddie refused the application as wholly unreasonable and disproportionate given the modest time difference."
+      ],
+      "procedural_posture": "Interlocutory application in pending patent infringement and validity proceedings shortly before trial.",
+      "outcome": "Application refused; the court declined to order parallel repetition of the experiments.",
+      "ratio": "Parties in High Court patent litigation are expected to cooperate and should not invoke the court over minor timetable disagreements; where a two-day difference in repeating experiments could be addressed on costs at trial, forcing parallel repetition is disproportionate.",
+      "legal_issues": [
+        "Whether the court should compel claimants to repeat patent experiments in parallel",
+        "Appropriate case management where parties disagree on pre-trial experimental timetables"
+      ],
+      "catchwords": [
+        "patent infringement",
+        "validity",
+        "experiments",
+        "case management",
+        "disproportionate application",
+        "interlocutory"
+      ],
+      "index_terms": [
+        "Apotex",
+        "SmithKline Beecham",
+        "GlaxoSmithKline",
+        "paroxetine hydrochloride",
+        "Stanley experiments",
+        "parallel timetable"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Short procedural judgment with explicit refusal and clear reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/320.json",
+    "status": "done",
+    "notes": "Full appeal on Sale of Goods Act satisfactory quality and acceptance.",
+    "enrichment": {
+      "short_title": "Defective Malo yacht keel and right to reject",
+      "area_of_law": [
+        "Sale of goods",
+        "Consumer sales",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Sale of Goods Act 1979",
+          "provisions": [
+            "section 13",
+            "section 14(2)",
+            "section 14(2A)",
+            "section 14(2B)",
+            "section 35",
+            "section 35(4)",
+            "section 35(6)"
+          ]
+        },
+        {
+          "title": "Sale and Supply of Goods Act 1994",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr and Mrs Clegg bought a new £236,000 Malo 42 yacht with a shoal draught keel; the delivered keel was about 607 kg overweight.",
+        "The overweight keel adversely affected rig safety and required remedial work; the sellers offered to shave lead from the keel but the buyers sought information and professional advice.",
+        "The buyers rejected the yacht by solicitors' letter on 6 March 2001 after receiving stability calculations in February 2001.",
+        "The trial judge held there was no breach of satisfactory quality and that the buyers had accepted the yacht; the Court of Appeal reversed both findings."
+      ],
+      "procedural_posture": "Buyers' appeal from a deputy High Court judge's dismissal of a breach of contract claim.",
+      "outcome": "Appeal allowed; breach of condition under section 14(2) established, rejection held valid, and damages referred to a Master.",
+      "ratio": "A nearly new high-value yacht delivered with an overweight keel that made rig loads unacceptable to the manufacturers was not of satisfactory quality under section 14(2); a buyer who seeks information to choose between acceptance, rejection or cure does not lose the right to reject merely by sailing the goods, insuring them, or declining interim remedial work before the seller supplies promised calculations.",
+      "legal_issues": [
+        "Whether an overweight keel breached section 14(2) satisfactory quality",
+        "Whether the buyers lost the right to reject under section 35",
+        "Interaction of expert evidence and trial judge fact-finding on appeal",
+        "Measure of damages after valid rejection"
+      ],
+      "catchwords": [
+        "satisfactory quality",
+        "yacht sale",
+        "rejection",
+        "section 35 acceptance",
+        "overweight keel",
+        "Sale of Goods Act"
+      ],
+      "index_terms": [
+        "Malo 42",
+        "Clegg",
+        "Nordic Marine",
+        "shoal draught keel",
+        "rig safety",
+        "consumer sale"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bernstein v Pamson Motors (Golders Green) Ltd",
+          "citation": "[1987] 2 All ER 220",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Kwei Tek Chao v British Traders and Shippers Ltd",
+          "citation": "[1954] 2 QB 459",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed Court of Appeal judgment with explicit conclusions on liability and rejection."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/318.json",
+    "status": "done",
+    "notes": "Sports negligence appeal with clear duty, breach and causation findings.",
+    "enrichment": {
+      "short_title": "Amateur rugby referee liability for scrum injury",
+      "area_of_law": [
+        "Negligence",
+        "Sports law",
+        "Personal injury"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Vowles, playing hooker for Llanharan 2nd XV, suffered tetraplegia during a muddy amateur rugby match in January 1998.",
+        "After an injured loose-head prop left the field, the team had no trained front-row replacement; the referee allowed a flanker to play prop rather than ordering non-contestable scrums.",
+        "Scrummaging deteriorated after the replacement; in injury time a mistimed engagement caused the scrum collapse and injury.",
+        "Morland J held the referee breached Law 3(12); the Court of Appeal upheld duty of care, breach and causation."
+      ],
+      "procedural_posture": "Appeal by referee and Welsh Rugby Union against liability judgment in a personal injury claim.",
+      "outcome": "Appeal dismissed; the referee and WRU remained liable.",
+      "ratio": "An amateur rugby referee owes players a duty to exercise reasonable care in applying the Laws of the Game, with a high threshold of liability; where no suitably trained front-row replacement exists, permitting an untrained player in the front row instead of mandating non-contestable scrums under Law 3(12) can breach that duty and cause injury.",
+      "legal_issues": [
+        "Whether it is fair, just and reasonable to impose a duty of care on an amateur referee",
+        "Standard of care and application of Law 3(12) International Rugby Board Laws",
+        "Whether the referee's decision caused the hooker's scrum injury",
+        "Appropriate test following Caparo and Smoldon v Whitworth"
+      ],
+      "catchwords": [
+        "rugby referee",
+        "duty of care",
+        "scrummage safety",
+        "Law 3(12)",
+        "vicarious liability",
+        "amateur sport"
+      ],
+      "index_terms": [
+        "Vowles",
+        "Evans",
+        "Welsh Rugby Union",
+        "front row forward",
+        "non-contestable scrums",
+        "tetraplegia"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Caparo Industries Plc v Dickman",
+          "citation": "[1990] 2 AC 605",
+          "relation": "applied"
+        },
+        {
+          "name": "Smoldon v Whitworth",
+          "citation": "[1997] PIQR 133",
+          "relation": "followed"
+        },
+        {
+          "name": "Agar v Hyde",
+          "citation": "[2001] HCA 41",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Assicurazioni Generali SpA v Arab Insurance Group",
+          "citation": "[2002] EWCA Civ 1642",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full appellate treatment of duty, breach and causation with detailed fact findings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/655.json",
+    "status": "done",
+    "notes": "Procedural judicial review hearing only; substantive merits not determined.",
+    "enrichment": {
+      "short_title": "Immigration JR adjournment refused and claim withdrawn",
+      "area_of_law": [
+        "Administrative law",
+        "Immigration law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 54",
+            "rule 54.20"
+          ]
+        },
+        {
+          "title": "Legal Aid Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The applicant obtained an urgent injunction in January 2002 restraining removal to Portugal while detained pending removal.",
+        "After permission was eventually granted, a substantive hearing was listed in January 2003; late disclosure of about 300 documents followed.",
+        "Counsel sought adjournment for expert medical evidence from Dr Turner; Mr Justice Davis refused, finding sufficient time to prepare.",
+        "After refusal of adjournment and transfer to the Queen's Bench Division, the applicant withdrew the claim; costs were awarded to the Secretary of State."
+      ],
+      "procedural_posture": "Substantive judicial review hearing at which the applicant sought adjournment, transfer, and ultimately withdrawal.",
+      "outcome": "Adjournment and transfer applications refused; claim withdrawn by consent with costs to the defendant.",
+      "ratio": "Where judicial review has been on foot for over 14 months and late-disclosed material has been available for weeks, the overriding objective may require refusal of a further adjournment for speculative expert evidence; withdrawal rather than dismissal may be permitted, but the court may record that the claimant had materials to advance the case.",
+      "legal_issues": [
+        "Whether to adjourn an expedited judicial review for further medical evidence",
+        "Whether to transfer proceedings to the Queen's Bench Division under CPR 54.20",
+        "Withdrawal versus dismissal and potential abuse of process in later proceedings"
+      ],
+      "catchwords": [
+        "judicial review",
+        "adjournment",
+        "overriding objective",
+        "withdrawal",
+        "immigration detention",
+        "late disclosure"
+      ],
+      "index_terms": [
+        "removal to Portugal",
+        "section 65 appeal",
+        "Dr Turner",
+        "Dr Seltzer",
+        "false imprisonment claim",
+        "Human Rights Act damages"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome is procedural and explicit; substantive immigration and medical-treatment claims were not adjudicated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/412.json",
+    "status": "done",
+    "notes": "Employers' liability appeal and cross-appeal on risk assessment causation.",
+    "enrichment": {
+      "short_title": "Torque gun kickback and missing risk assessment",
+      "area_of_law": [
+        "Employers' liability",
+        "Health and safety at work",
+        "Personal injury"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Provision and Use of Work Equipment Regulations 1998",
+          "provisions": [
+            "regulation 4",
+            "regulation 5",
+            "regulation 8",
+            "regulation 9"
+          ]
+        },
+        {
+          "title": "Management of Health and Safety at Work Regulations 1992",
+          "provisions": [
+            "regulation 3",
+            "regulation 15"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Griffiths fractured his scaphoid when a Stanley QCOS torque gun kicked back at Vauxhall's Ellesmere Port plant in May 2000.",
+        "Previous kickbacks had been reported; post-accident investigations found no mechanical defect within manufacturer parameters.",
+        "No pre-accident risk assessment had been carried out despite known kickback risk; operators were told only to watch indicator lights.",
+        "The recorder found liability for failure to assess risk but apportioned fault 50% to the claimant; both appeal and cross-appeal were dismissed."
+      ],
+      "procedural_posture": "Employer's appeal against liability and employee's cross-appeal against 50% contributory negligence.",
+      "outcome": "Appeal and cross-appeal dismissed; judgment for £2,000 after contributory negligence stood.",
+      "ratio": "Regulations 4 and 5 of PUWER 1998 address suitability and maintenance of equipment assuming proper operation, not kickback caused by inadequate grip; a failure to carry out a suitable risk assessment can causally expose operators to injury where warning and instruction to hold the tool firmly would probably have prevented the accident, while an experienced operator who knew of kickback may share responsibility.",
+      "legal_issues": [
+        "Whether the torque gun was unsuitable or inadequately maintained under PUWER regulations 4 and 5",
+        "Whether absence of a risk assessment was causative of injury",
+        "Contributory negligence of an experienced operator aware of kickback",
+        "Use of Management of Health and Safety at Work Regulations 1992 regulation 3 as standard of care"
+      ],
+      "catchwords": [
+        "work equipment",
+        "risk assessment",
+        "kickback",
+        "contributory negligence",
+        "PUWER",
+        "factory injury"
+      ],
+      "index_terms": [
+        "Griffiths",
+        "Vauxhall Motors",
+        "Stanley torque gun",
+        "QCOS",
+        "Ellesmere Port",
+        "scaphoid fracture"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Caswell v Powell Duffryn Associated Collieries Ltd",
+          "citation": "[1940] AC 152",
+          "relation": "applied"
+        },
+        {
+          "name": "Bolam v Friern Hospital Management Committee",
+          "citation": "[1957] 1 WLR 582",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Clear split between equipment-defect and risk-assessment causation issues with definite appellate outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/297.json",
+    "status": "done",
+    "notes": "Major election-law and defamation justification appeal.",
+    "enrichment": {
+      "short_title": "Uncounted postal votes and rule 47 recount procedure",
+      "area_of_law": [
+        "Election law",
+        "Defamation",
+        "Local government"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Representation of the People Act 1983",
+          "provisions": [
+            "section 48",
+            "section 127",
+            "section 146"
+          ]
+        },
+        {
+          "title": "Local Elections (Principal Areas) Rules 1986",
+          "provisions": [
+            "rule 39",
+            "rule 45",
+            "rule 46",
+            "rule 47"
+          ]
+        }
+      ],
+      "key_facts": [
+        "After the Brickhill ward result was declared in Bedford's May 2000 borough election, 86 postal ballot papers were discovered uncounted; the Conservative majority was nine, later informally recounted as six.",
+        "The borough solicitor advised a rule 47 county court application for inspection and recount; the application failed and was discontinued.",
+        "Local Conservative election agent Mr Lister published statements calling council lawyers grossly incompetent; Gray J held the defamation substantially justified.",
+        "The Court of Appeal held informal counts impermissible but rule 47 could be used before an election petition where a real doubt existed, and reversed the incompetence finding."
+      ],
+      "procedural_posture": "Appeal from a judge-alone libel trial on justification, limited to borough solicitor Mr Gough.",
+      "outcome": "Appeal allowed; justification finding set aside and damages to be assessed.",
+      "ratio": "Where counted ballot papers are overlooked after declaration, rule 47(1)(b) permits a county court application before any election petition if there is a real doubt about the result and a real likelihood of petitioning; informal recounts without candidates present should not occur, but a returning officer may properly bring such an application and incompetence is not made out where that construction is correct.",
+      "legal_issues": [
+        "Proper procedure when ballot papers are discovered uncounted after declaration",
+        "Whether rule 47 requires an existing election petition",
+        "Who may apply under rule 47 and who must be joined",
+        "Whether informal recounts breach ballot secrecy rules",
+        "Defamation meaning and justification of 'gross incompetence'"
+      ],
+      "catchwords": [
+        "local election",
+        "postal votes",
+        "rule 47",
+        "election petition",
+        "returning officer",
+        "defamation justification"
+      ],
+      "index_terms": [
+        "Bedford Borough Council",
+        "Brickhill ward",
+        "Gough",
+        "Stewart Lister",
+        "uncounted ballots",
+        "county court recount"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re Lancashire Darwen Division Case",
+          "citation": "(1885) 2 TLR 220",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Macmanomy v Westley",
+          "citation": "Walsall 1986",
+          "relation": "considered"
+        },
+        {
+          "name": "Marshall v Gibson",
+          "citation": "St Cuthbert's Ward 1995",
+          "relation": "considered"
+        },
+        {
+          "name": "Ullah v Pagel",
+          "citation": "[2002] EWCA Civ 1793",
+          "relation": "distinguished"
+        },
+        {
+          "name": "In re Rapier (Deceased)",
+          "citation": "[1988] 1 QB 26",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Lengthy appellate judgment resolving multiple election-law issues and reversing justification."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/327.json",
+    "status": "done",
+    "notes": "Trade mark jurisdiction appeal with detailed CTM and Brussels Convention analysis.",
+    "enrichment": {
+      "short_title": "Prudential mark jurisdiction after French opposition",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Community Trade Mark Regulation (Council Regulation 40/94/EEC)",
+          "provisions": [
+            "Article 90",
+            "Article 92",
+            "Article 94",
+            "Article 105"
+          ]
+        },
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": []
+        },
+        {
+          "title": "Trade Marks Act 1938",
+          "provisions": []
+        },
+        {
+          "title": "Brussels Convention on Jurisdiction and Enforcement of Judgments in Civil and Commercial Matters 1968",
+          "provisions": [
+            "Article 16(4)",
+            "Article 19",
+            "Article 21",
+            "Article 26",
+            "Article 28"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Prudential Assurance Company Ltd and Prudential Insurance Company of America long coexisted under informal 1974 territorial arrangements disputed in ongoing proceedings.",
+        "Prudential (USA) registered PRUMERICA in Europe despite Prudential (UK) opposition; the Cour d'Appel upheld French registration.",
+        "Prudential (UK) sued in England for breach of the 1974 arrangements and trade mark infringement of PRU and PRUDENTIAL marks.",
+        "Laddie J refused to strike out the PRUMERICA infringement claim; the Court of Appeal held article 105(2) did not bar it because the marks were not identical."
+      ],
+      "procedural_posture": "Appeal from a jurisdiction and strike-out application in concurrent trade mark and contract proceedings.",
+      "outcome": "Appeal dismissed; the PRUMERICA infringement claim may proceed to trial alongside the contract claim.",
+      "ratio": "Article 105(2) of the Community Trade Mark Regulation applies only in dual-identity cases where the earlier final judgment and later infringement action concern identical marks for identical goods or services; a French opposition judgment on PRUMERICA does not preclude English proceedings alleging infringement of PRU/PRUDENTIAL Community and UK marks, and article 26 of the Brussels Convention cannot assist unless article 16(4) exclusive jurisdiction is excluded.",
+      "legal_issues": [
+        "Effect of a foreign opposition judgment under article 105(2) CTM Regulation",
+        "Whether opposition proceedings are actions for infringement for article 105 purposes",
+        "Jurisdiction over Community and national trade mark infringement claims",
+        "Application of Brussels Convention articles 16, 21 and 26 to successive proceedings"
+      ],
+      "catchwords": [
+        "Community trade mark",
+        "article 105",
+        "PRUMERICA",
+        "jurisdiction",
+        "Brussels Convention",
+        "confusing similarity"
+      ],
+      "index_terms": [
+        "Prudential Assurance",
+        "Prudential Insurance Company of America",
+        "service out of jurisdiction",
+        "Cour d'Appel Paris",
+        "1974 arrangements"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Coin Controls Ltd v Suzo International (UK) Ltd",
+          "citation": "[1997] FSR 660",
+          "relation": "applied"
+        },
+        {
+          "name": "Gubisch Maschinenfabrik KG v Palumbo",
+          "citation": "Case 144/86",
+          "relation": "applied"
+        },
+        {
+          "name": "The Tatry",
+          "citation": "Case C-406/92",
+          "relation": "applied"
+        },
+        {
+          "name": "Lloyd Schuhfabrik Meyer & Co GmbH v Klijsen Handel BV",
+          "citation": "Case C-342/97",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed appellate reasoning on article 105(2) and jurisdiction with clear dismissal of appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/631.json",
+    "status": "done",
+    "notes": "Section 289 planning appeal on green belt enforcement notice.",
+    "enrichment": {
+      "short_title": "Garden centre storage use in Green Belt",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 55(2)(e)",
+            "section 174",
+            "section 289"
+          ]
+        },
+        {
+          "title": "Town and Country Planning General Permitted Development Order 1995",
+          "provisions": [
+            "Schedule 2 paragraph 2"
+          ]
+        },
+        {
+          "title": "Planning Policy Guidance Note 2 (PPG 2)",
+          "provisions": [
+            "paragraph 1.4",
+            "paragraph 3.12"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Hildreth's Garden Centre operated under 1993 permission limiting retail display areas; two small adjoining parcels were fenced into the centre and used to store goods.",
+        "Chiltern District Council issued an enforcement notice requiring cessation of storage use, removal of added hardstanding and reinstatement of boundaries.",
+        "An inspector upheld the notice, finding the storage inappropriate Green Belt development with no very special circumstances.",
+        "Mr Justice Elias dismissed the section 289 appeal, holding the inspector had substantively considered openness and special circumstances arguments."
+      ],
+      "procedural_posture": "Statutory appeal under section 289 Town and Country Planning Act 1990 against an inspector's enforcement appeal decision.",
+      "outcome": "Appeal dismissed; enforcement notice upheld with costs of £5,781.",
+      "ratio": "When assessing whether ancillary storage use is inappropriate Green Belt development, an inspector may treat undeveloped meadow enclosed into a garden centre as eroding openness even where hardstanding and fencing already exist; failure to recite the appellant's 'very special circumstances' argument in identical terms does not show inadequate consideration where the inspector has clearly rejected the underlying factors.",
+      "legal_issues": [
+        "Whether storage/display use on adjoining land was inappropriate Green Belt development",
+        "Whether the inspector failed to consider openness by reference to existing development",
+        "Whether very special circumstances were ignored",
+        "Whether enforcement notice wording unlawfully restricted lawful horticultural use"
+      ],
+      "catchwords": [
+        "enforcement notice",
+        "Green Belt",
+        "inappropriate development",
+        "very special circumstances",
+        "garden centre",
+        "section 289 appeal"
+      ],
+      "index_terms": [
+        "Hildreths Garden Centre",
+        "Chiltern District Council",
+        "Prestwood",
+        "AONB",
+        "planning permission 1993",
+        "storage and display"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Dyason v Secretary of State for the Environment",
+          "citation": "[1998] 2 PLR 54",
+          "relation": "applied"
+        },
+        {
+          "name": "Wandsworth LBC v Secretary of State for Transport, Local Government and the Regions",
+          "citation": "[2003] EWCA Civ 142",
+          "relation": "applied"
+        },
+        {
+          "name": "Clarke Homes Ltd v Secretary of State for the Environment",
+          "citation": "[1993] 66 P&CR 263",
+          "relation": "applied"
+        },
+        {
+          "name": "Duguid v Secretary of State for the Environment",
+          "citation": "[2001] 82 P&CR 52",
+          "relation": "applied"
+        },
+        {
+          "name": "Mansi v Elstree District Council",
+          "citation": "[1964] 16 P&CR 153",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Inspector findings and Elias J's reasons on all four grounds are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/319.json",
+    "status": "done",
+    "notes": "Statutory construction appeal on Housing Act referral deadline.",
+    "enrichment": {
+      "short_title": "Rent increase referral must be received in time",
+      "area_of_law": [
+        "Housing law",
+        "Landlord and tenant",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1988",
+          "provisions": [
+            "section 13(2)",
+            "section 13(4)",
+            "section 14"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3"
+          ]
+        },
+        {
+          "title": "Assured Tenancy etc (Forms) Regulations 1997",
+          "provisions": [
+            "Form 5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Assured tenant Ms Lester received a section 13 notice proposing rent increase from £58 to £150 per week effective 20 March 2002.",
+        "She posted the prescribed referral form on 18 March 2002, but the London Rent Assessment Committee received it on 20 March 2002.",
+        "The RAC and Sir Richard Tucker held 'refer' in section 13(4) required receipt before the new rent period began.",
+        "The Court of Appeal dismissed the appeal, criticising misleading notes on Form 5 that said 'sent' rather than received."
+      ],
+      "procedural_posture": "Tenant's appeal from judicial review upholding a rent assessment committee's jurisdiction decision.",
+      "outcome": "Appeal dismissed; the proposed landlord's rent took effect because referral was not received in time.",
+      "ratio": "In section 13(4) of the Housing Act 1988 'refers' the notice to a rent assessment committee means the committee must receive the prescribed application before the beginning of the new rent period; posting or dispatch is insufficient, and section 3 Human Rights Act 1998 cannot rewrite the statutory deadline because the tenant has no civil right to determination absent compliance with the procedure.",
+      "legal_issues": [
+        "Meaning of 'refers' in section 13(4) Housing Act 1988",
+        "Whether posting satisfies the referral deadline",
+        "Effect of notes on prescribed Form 5",
+        "Article 6 ECHR and section 3 Human Rights Act compatibility"
+      ],
+      "catchwords": [
+        "assured tenancy",
+        "section 13 notice",
+        "rent assessment committee",
+        "referral deadline",
+        "statutory construction",
+        "prescribed form"
+      ],
+      "index_terms": [
+        "Lester",
+        "London Rent Assessment Committee",
+        "Unistar Properties",
+        "rent increase",
+        "Form 4",
+        "Form 5"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Nash v Ryan Plant International Ltd",
+          "citation": "[1977] ICR 560",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Secretary of State for Employment v Banks",
+          "citation": "[1983] ICR 48",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Jackson v Hall",
+          "citation": "[1980] AC 854",
+          "relation": "applied"
+        },
+        {
+          "name": "Miragall Escolano v Spain",
+          "citation": "(2002) 34 EHRR 24",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Single statutory issue decided clearly by full Court of Appeal with agreed facts on receipt date."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/466.json",
+    "status": "needs_review",
+    "notes": "Liability and provisional damages figures are clear, but final quantum was expressly reserved for further argument on three heads and interest.",
+    "enrichment": {
+      "short_title": "Management buy-out conspiracy against tool manufacturer",
+      "area_of_law": [
+        "Company law",
+        "Torts",
+        "Intellectual property",
+        "Commercial litigation"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "British Midland Tool Ltd manufactured automotive cutting tools within Michael Allen's Allen Group after buying the business from receivership.",
+        "Directors and employees known as the 'Tamworth 4' planned and executed a move to Midland International Tooling Ltd, taking workforce, confidential drawings and business opportunities.",
+        "Mr Justice Hart found unlawful-means conspiracy, breaches of director and employee duties, misuse of confidential drawings and solicitation of customers.",
+        "He held several defendants liable and provisionally assessed damages of £290,817 for business value, £435,560 trading losses and £391,337 closure costs, subject to further submissions."
+      ],
+      "procedural_posture": "High Court trial of conspiracy, breach of duty, breach of confidence and conversion claims after search-order litigation.",
+      "outcome": "Claim largely succeeded on liability; provisional damages awarded subject to further argument on three quantum points and interest; exemplary damages refused.",
+      "ratio": "Directors and employees who combine to implement a competing business by resigning en masse, taking confidential tool drawings and soliciting customers commit unlawful-means conspiracy and breach fiduciary/contractual duties where the plan necessarily involves unlawful means; loss may be measured by destroyed business value, post-departure trading losses and closure costs, but punitive exemplary damages require conduct calculated to yield profit exceeding compensation.",
+      "legal_issues": [
+        "Elements of unlawful-means conspiracy under Kuwait Oil Tankers v Al Bader",
+        "Directors' duties on corporate opportunity and disclosure when leaving",
+        "Breach of confidence in engineering drawings and electronic copying",
+        "Assessment of business valuation multiples and mitigation of trading losses"
+      ],
+      "catchwords": [
+        "unlawful means conspiracy",
+        "directors' duties",
+        "breach of confidence",
+        "corporate opportunity",
+        "employee solicitation",
+        "business valuation"
+      ],
+      "index_terms": [
+        "British Midland Tool",
+        "Midland International Tooling",
+        "Tamworth 4",
+        "Donald Allen",
+        "automotive cutting tools",
+        "management buy-out"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Kuwait Oil Tankers Co v Al Bader",
+          "citation": "[2000] EWCA Civ 160",
+          "relation": "applied"
+        },
+        {
+          "name": "A v Bottrill",
+          "citation": "[2002] UKPC 44",
+          "relation": "considered"
+        },
+        {
+          "name": "Horcal Ltd v Gatland",
+          "citation": "[1983] BCLC 60",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.82,
+        "level": "high",
+        "notes": "Very long trial judgment; core liability ratio is clear but final damages sum remained expressly provisional."
+      }
+    }
+  }
+]

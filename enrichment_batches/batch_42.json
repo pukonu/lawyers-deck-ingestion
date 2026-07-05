@@ -1,0 +1,778 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/pat/2003/430.json",
+    "status": "done",
+    "notes": "Batch 42 enrichment",
+    "enrichment": {
+      "short_title": "Section 118 refusal of withdrawn patent application date",
+      "area_of_law": [
+        "Patent law",
+        "Intellectual property",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Patents Act 1977",
+          "provisions": [
+            "section 15",
+            "section 118",
+            "section 123(2)(d)"
+          ]
+        },
+        {
+          "title": "Patents Rules 1995",
+          "provisions": [
+            "Rule 92",
+            "Rule 95",
+            "Rule 103(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Haberman sought from the Comptroller the exact date on which patent application GB 9107381 was withdrawn, to support her European patent priority dispute.",
+        "The Patent Office no longer held records of the withdrawal date and refused the section 118 request.",
+        "The dispute arose from whether GB-1 was withdrawn before or after a later application GB-2, affecting priority under the Paris Convention.",
+        "The Comptroller argued section 118 does not require furnishing information not in official records and does not cover unpublished withdrawal dates."
+      ],
+      "procedural_posture": "Appeal from the Comptroller's refusal to provide patent information under section 118 of the Patents Act 1977.",
+      "outcome": "Appeal dismissed; the Comptroller was entitled to refuse the information and respondents awarded costs.",
+      "ratio": "Section 118 of the Patents Act 1977 requires the Comptroller to give information available from the Patent Office's official records in relation to published applications; it does not oblige the Comptroller to investigate or supply information not held, nor to provide withdrawal dates for unpublished applications, and subsection (5) concerns divisional applications rather than regenerated priority schemes.",
+      "legal_issues": [
+        "Scope of the Comptroller's duty under section 118",
+        "Whether unpublished patent withdrawal dates may be requested",
+        "Construction of section 118(5) and divisional applications",
+        "Relationship between the Act and the Patents Rules"
+      ],
+      "catchwords": [
+        "patents",
+        "section 118",
+        "Comptroller",
+        "priority date",
+        "withdrawn application",
+        "Paris Convention"
+      ],
+      "index_terms": [
+        "Patents Act 1977",
+        "patent application withdrawal",
+        "Haberman",
+        "Anywayup cup",
+        "European patent opposition",
+        "information request"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Haberman v Jackel International Ltd",
+          "citation": "[1999] EWHC 269",
+          "relation": "prior patent validity judgment involving same inventor"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long first-instance patent judgment with clear statutory construction and outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/576.json",
+    "status": "done",
+    "notes": "Batch 42 enrichment",
+    "enrichment": {
+      "short_title": "Alternative verdict under Forgery Act section 5",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Appeal"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Forgery and Counterfeiting Act 1981",
+          "provisions": [
+            "section 5(1)",
+            "section 5(2)"
+          ]
+        },
+        {
+          "title": "Criminal Law Act 1967",
+          "provisions": [
+            "section 6(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant was convicted of possessing a false passport under section 5(2) after acquittal on section 5(1) and handling stolen goods counts.",
+        "Police found a passport bearing another man's name and the appellant's photograph at his home.",
+        "The judge left section 5(2) as an alternative verdict under section 6(3) after the defence case closed; the appellant had been willing to plead guilty to section 5(2) in a separate count.",
+        "He was sentenced to six months' imprisonment, treated as an early guilty plea to the possession offence."
+      ],
+      "procedural_posture": "Crown Court conviction and sentence appeal by leave of the single judge.",
+      "outcome": "Appeals against conviction and sentence dismissed.",
+      "ratio": "Where a defendant is prepared to plead guilty to section 5(2) and the jury convicts on an alternative charge presented in written form like a separate count, the conviction may be treated as safe notwithstanding debate whether section 6(3) strictly permitted the alternative verdict; courts should prefer separate counts where either section 5(1) or 5(2) may be proved.",
+      "legal_issues": [
+        "Whether section 5(2) is an alternative offence within section 6(3) of the Criminal Law Act 1967",
+        "Fairness of introducing the alternative charge after the defence case",
+        "Appropriateness of a six-month sentence for passport offences"
+      ],
+      "catchwords": [
+        "false instrument",
+        "passport offence",
+        "alternative verdict",
+        "section 6(3)",
+        "section 5 Forgery Act",
+        "sentencing appeal"
+      ],
+      "index_terms": [
+        "Forgery and Counterfeiting Act 1981",
+        "possession of false document",
+        "Criminal Law Act 1967",
+        "R v Wilson",
+        "R v Wuyts"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Wilson",
+          "citation": "[1984] AC 242",
+          "relation": "applied on construction of section 6(3)"
+        },
+        {
+          "name": "R v Wuyts",
+          "citation": "[1969] 2 QB 476",
+          "relation": "considered on lawful authority or excuse"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Focused criminal appeal with clear statutory point and procedural context."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/262.json",
+    "status": "done",
+    "notes": "Batch 42 enrichment",
+    "enrichment": {
+      "short_title": "EIA planning conditions for quarry landfill extension",
+      "area_of_law": [
+        "Planning law",
+        "Environmental law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288",
+            "section 106"
+          ]
+        },
+        {
+          "title": "Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1988",
+          "provisions": [
+            "Regulation 4(2)",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Council Directive 85/337/EEC",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "An inspector allowed an appeal and granted planning permission to extend quarrying and landfill waste disposal at Buck Park Quarry, Denholme.",
+        "Local residents challenged the decision on whether environmental mitigation in the environmental statement was properly secured by planning conditions.",
+        "Conditions required approval of landscaping, landscape management and dust suppression schemes by the local planning authority rather than mandating ES mitigation measures directly.",
+        "Odour and vermin control were left to IPPC regulation while dust was addressed by a planning condition."
+      ],
+      "procedural_posture": "Appeal under section 288 of the Town and Country Planning Act 1990 from dismissal of the claimant's challenge to the inspector's decision.",
+      "outcome": "Appeal dismissed; the inspector's conditions were lawful when narrowly construed.",
+      "ratio": "Under the EIA regulations the decision-maker must take environmental information into account before granting permission, but may leave details of mitigation to later approved schemes if conditions cannot permit renegotiation of significant environmental elements; conditions leaving landscaping and dust details to the local authority were permissible where they operated within parameters fixed by the permission and approved plans.",
+      "legal_issues": [
+        "Whether conditions 3, 5, 6 and 9 unlawfully deferred ES mitigation measures",
+        "Construction of planning conditions permitting LPA approval of landscaping schemes",
+        "Whether odour and vermin should have been controlled by conditions rather than IPPC",
+        "Compliance with Directive 85/337/EEC and the 1988 EIA Regulations"
+      ],
+      "catchwords": [
+        "environmental impact assessment",
+        "planning permission",
+        "quarry landfill",
+        "planning conditions",
+        "mitigation measures",
+        "Green Belt"
+      ],
+      "index_terms": [
+        "Buck Park Quarry",
+        "environmental statement",
+        "landscaping condition",
+        "dust suppression",
+        "IPPC",
+        "Berkeley v Secretary of State"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Berkeley v Secretary of State for the Environment",
+          "citation": "[2001] EWCA Civ 603",
+          "relation": "applied on purpose of EIA Directive"
+        },
+        {
+          "name": "R v Rochdale Metropolitan Borough Council ex parte Tew",
+          "citation": "[1999] 3 PLR 74",
+          "relation": "applied on outline consent and mitigation timing"
+        },
+        {
+          "name": "R (Barker) v London Borough of Bromley",
+          "citation": "[2002] Env LR 631",
+          "relation": "approved Sullivan J's approach in Tew and Milne"
+        },
+        {
+          "name": "Gateshead Metropolitan Borough Council v Secretary of State for the Environment",
+          "citation": "[1994] 1 PLR",
+          "relation": "cited on leaving matters to statutory agencies such as IPPC"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Complex planning/EIA appeal with detailed condition construction analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/333.json",
+    "status": "done",
+    "notes": "Batch 42 enrichment",
+    "enrichment": {
+      "short_title": "Costs after mediation withdrawal in ink supply dispute",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Alternative dispute resolution"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 1.3",
+            "rule 1.4",
+            "rule 52.3(6)(b)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Coates succeeded on appeal and cross-appeal in a dispute over T4 solder-resist ink supplied to Leicester Circuits.",
+        "The court refused Leicester's application for a new trial and declined permission to appeal to the House of Lords.",
+        "Coates had agreed to mediation in January 2002 but withdrew on insurers' instructions the day before the scheduled mediation.",
+        "Leicester argued costs below should follow Dunnett v Railtrack because of Coates' withdrawal from agreed ADR."
+      ],
+      "procedural_posture": "Post-judgment applications on new trial, permission to the House of Lords, costs and instalment orders following the main appeal judgment.",
+      "outcome": "No new trial; permission to the House of Lords refused; Leicester to pay Coates' appeal costs; below, Leicester pays costs only up to 1 January 2002 with no order thereafter; judgment debts to Coates payable forthwith.",
+      "ratio": "Where a party agrees to mediation and withdraws without satisfactory explanation shortly before trial, the court may depart from the normal costs follow the event rule for the trial period; withdrawal from agreed mediation can justify no order for costs after the withdrawal date even when the withdrawing party ultimately wins at trial.",
+      "legal_issues": [
+        "Whether a new trial should be ordered after successful appeal",
+        "Effect of withdrawal from agreed mediation on costs",
+        "Instalment orders for judgment debts and assessed costs"
+      ],
+      "catchwords": [
+        "costs",
+        "mediation",
+        "ADR",
+        "overriding objective",
+        "new trial",
+        "instalment order"
+      ],
+      "index_terms": [
+        "Dunnett v Railtrack",
+        "Part 36 offer",
+        "without prejudice negotiations",
+        "solder resist ink",
+        "Leicester Circuits",
+        "Coates Brothers"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Dunnett v Railtrack Plc",
+          "citation": "[2002] 1 WLR 2434",
+          "relation": "applied on costs consequences of refusing ADR"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Supplementary procedural judgment following the main appeal in EWCA Civ 290."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/289.json",
+    "status": "done",
+    "notes": "Batch 42 enrichment",
+    "enrichment": {
+      "short_title": "Fraudulent trading appeal over landlord deception",
+      "area_of_law": [
+        "Company law",
+        "Insolvency",
+        "Director duties"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 213",
+            "section 214",
+            "section 216",
+            "section 238",
+            "section 239",
+            "section 240",
+            "section 178"
+          ]
+        },
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 458"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Former directors implemented a scheme to transfer haulage business from TMC Transport to a new company while leaving onerous lease liabilities with the old company.",
+        "During 1993 they stalled landlord Ramac with instalment promises, including a £10,000 payment on 23 December 1993 that was not intended to be made.",
+        "The company went into liquidation; Ramac proved for substantial future rent losses after lease disclaimer.",
+        "A deputy judge found fraudulent trading from 12 November 1993 and ordered £35,000 contribution including a punitive element, later treated as satisfied by solicitors' payment."
+      ],
+      "procedural_posture": "Liquidator's appeal and directors' cross-appeal from High Court declaration of liability under section 213 Insolvency Act 1986.",
+      "outcome": "Liquidator's appeal dismissed; directors' cross-appeal allowed; action against directors dismissed.",
+      "ratio": "A single deceptive promise to a creditor in the course of carrying on business does not necessarily mean the business was carried on with intent to defraud creditors under section 213; where the only fraud was misleading Ramac about a December instalment, that was insufficient to engage section 213 and the court has no power to add a punitive element to a contribution order.",
+      "legal_issues": [
+        "Whether misleading Ramac about a rent instalment constituted fraudulent trading",
+        "Measure of contribution under section 213(2)",
+        "Whether a punitive element may be included in a section 213 contribution",
+        "Whether solicitors' payment extinguished directors' liability"
+      ],
+      "catchwords": [
+        "fraudulent trading",
+        "section 213",
+        "director liability",
+        "lease liabilities",
+        "intent to defraud",
+        "liquidation"
+      ],
+      "index_terms": [
+        "TMC Transport",
+        "section 216 restriction on re-use of company names",
+        "Ramac Holdings",
+        "In re Gerald Cooper Chemicals Ltd",
+        "In re Sarflax Ltd",
+        "wrongful trading"
+      ],
+      "linked_authorities": [
+        {
+          "name": "In re Gerald Cooper Chemicals Ltd",
+          "citation": "[1978] Ch 262",
+          "relation": "considered on single-transaction fraudulent trading"
+        },
+        {
+          "name": "In re Sarflax Ltd",
+          "citation": "[1979] Ch 529",
+          "relation": "cited on carrying on business to defraud"
+        },
+        {
+          "name": "In re Murray-Watson Ltd",
+          "citation": "unreported, 6 April 1977",
+          "relation": "applied on distinction between business and individual transactions"
+        },
+        {
+          "name": "In re Cyona Distributors Ltd",
+          "citation": "[1967] Ch 889",
+          "relation": "discussed on scope of section 332 predecessor"
+        },
+        {
+          "name": "In re Park Air Services Plc",
+          "citation": "[2000] 2 AC 172",
+          "relation": "cited on lease disclaimer and creditor proofs"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Very long insolvency judgment; source case_name field mismatches party names but content is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/290.json",
+    "status": "done",
+    "notes": "Batch 42 enrichment",
+    "enrichment": {
+      "short_title": "Unfit solder-resist ink on ground-plane PCBs",
+      "area_of_law": [
+        "Contract law",
+        "Sale of goods",
+        "Product liability"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Leicester Circuits manufactured PCBs using Coates Brothers' T4 solder-resist ink from late 1997 to mid-1999.",
+        "Between May and July 1999 Leicester scrapped an unacceptable proportion of ground-plane PCBs with narrow channels due to blistering.",
+        "The trial judge held T4 was not reasonably fit for that application; Coates appealed.",
+        "Expert evidence could not identify a definitive cause of blistering; Leicester's scrap schedule showed intermittent failures."
+      ],
+      "procedural_posture": "Appeal from High Court judgment upholding Leicester's breach of contract claim for unfit ink; cross-appeal on loss of Tyco business.",
+      "outcome": "Appeal allowed; cross-appeal dismissed; T4 ink not proved unfit for purpose on the balance of probabilities.",
+      "ratio": "Fitness for purpose is an inferential question requiring proof on the balance of probabilities; intermittent scrapping over a few months, without proof the ink caused the defect and against expert doubt, does not establish that T4 was unfit for coating ground-plane PCBs with narrow channels.",
+      "legal_issues": [
+        "Whether T4 ink was reasonably fit for curtain coating ground-plane PCB designs",
+        "Causation of blistering and scrappage",
+        "Whether loss of Tyco business was caused by ink defects in 1998",
+        "Incorporation of Coates' terms excluding consequential loss"
+      ],
+      "catchwords": [
+        "sale of goods",
+        "unfitness for purpose",
+        "solder resist ink",
+        "printed circuit boards",
+        "product defect",
+        "breach of contract"
+      ],
+      "index_terms": [
+        "Imagecure T4",
+        "curtain coating",
+        "ground plane PCB",
+        "Hadley v Baxendale",
+        "Croudace Construction",
+        "expert evidence"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hadley v Baxendale",
+          "citation": "(1854) 9 Exch 341",
+          "relation": "applied on remoteness of consequential loss"
+        },
+        {
+          "name": "Croudace Construction Ltd v Cawoods Concrete Products Ltd",
+          "citation": "[1978] 2 Lloyd's Rep 55",
+          "relation": "applied on meaning of consequential loss exclusion"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed technical contract appeal with clear factual findings and outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/384.json",
+    "status": "done",
+    "notes": "Batch 42 enrichment",
+    "enrichment": {
+      "short_title": "Challenge to Nice Treaty ratification refused",
+      "area_of_law": [
+        "Constitutional law",
+        "European Union law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Communities (Amendment) Act 2002",
+          "provisions": []
+        },
+        {
+          "title": "European Communities Act 1972",
+          "provisions": [
+            "section 2(4)"
+          ]
+        },
+        {
+          "title": "Treaty of Nice",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Applicants sought judicial review of ratification of the Treaty of Nice and the bringing into effect of the European Communities (Amendment) Act 2002.",
+        "They argued the Treaty and Act unlawfully alienated United Kingdom sovereignty and governance to EU institutions.",
+        "Maurice Kay J refused permission, holding treaty-making powers non-justiciable and that courts cannot disapply primary legislation.",
+        "The Court of Appeal heard a renewed application for permission to appeal."
+      ],
+      "procedural_posture": "Application for permission to appeal from refusal of permission to seek judicial review.",
+      "outcome": "Permission to appeal refused; application dismissed.",
+      "ratio": "The exercise of the Crown's treaty-making power is not justiciable, and the court has no power to declare invalid primary legislation incorporating EU treaty changes; Parliament remains free to repeal the European Communities Act 1972 or the 2002 Amendment Act, and any challenge to particular EU measures must await their domestic legal effect.",
+      "legal_issues": [
+        "Justiciability of treaty ratification",
+        "Whether courts may strike down constitutional legislation transferring law-making power",
+        "Scope of parliamentary sovereignty and constitutional statutes",
+        "Relationship between Factortame principles and alleged fundamental rights"
+      ],
+      "catchwords": [
+        "judicial review",
+        "Treaty of Nice",
+        "parliamentary sovereignty",
+        "European Communities Act",
+        "non-justiciable",
+        "constitutional law"
+      ],
+      "index_terms": [
+        "ratification",
+        "qualified majority voting",
+        "McWhirter",
+        "Thorburn",
+        "Factortame",
+        "Pickin v British Railways Board"
+      ],
+      "linked_authorities": [
+        {
+          "name": "McWhirter v Attorney General",
+          "citation": "[1972] CMLR 882",
+          "relation": "cited on non-justiciability of treaty making"
+        },
+        {
+          "name": "CCSU v Minister for the Civil Service",
+          "citation": "[1985] AC 375",
+          "relation": "cited on prerogative and justiciability"
+        },
+        {
+          "name": "Abbasi",
+          "citation": "[2002] EWCA Civ 1598",
+          "relation": "cited on treaty making powers"
+        },
+        {
+          "name": "Pickin v British Railways Board",
+          "citation": "[1974] AC 765",
+          "relation": "cited on immunity of statute from judicial review"
+        },
+        {
+          "name": "R (Factortame Ltd) v Secretary of State for Transport",
+          "citation": "[1991] 1 AC 603",
+          "relation": "distinguished on EU law supremacy mechanism"
+        },
+        {
+          "name": "R (Thorburn) v Sunderland City Council",
+          "citation": "[2002] EWHC 195 (Admin)",
+          "relation": "cited on constitutional statutes"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Clear constitutional permission judgment with established authority citations."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/390.json",
+    "status": "done",
+    "notes": "Batch 42 enrichment",
+    "enrichment": {
+      "short_title": "Negligent nursing-home security valuations",
+      "area_of_law": [
+        "Professional negligence",
+        "Tort",
+        "Banking and finance"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Speshal Investments advanced £1.9m bridging finance to Cheyne Lodge on security of four nursing-home properties valued by Mr Kane at £2.99m ERRP.",
+        "Experts agreed the properties' ERRP was only £1.13m; the defendants conceded negligence and quantum of £1.38m if liable.",
+        "The lender relied on valuation reports after querying caveats about missing information; purchase prices were far below valuations.",
+        "Receivers sold the properties for about £875,000 after default."
+      ],
+      "procedural_posture": "High Court trial of valuer negligence claim after admitted breach of duty if reliance established.",
+      "outcome": "Defendants liable for negligence; damages reduced by 20% for claimant's contributory negligence.",
+      "ratio": "A lender who relies on valuations believing them reliable may recover where the valuer negligently overvalued security, but failing critically to analyse wild disparities between valuation and purchase price, and between rival valuations, is contributory negligence reducing recovery when those disparities indicated unreliable valuations.",
+      "legal_issues": [
+        "Whether the claimant relied on the valuations in the relevant sense",
+        "Construction of valuation report caveats",
+        "Contributory negligence in commercial property lending",
+        "Loan-to-value and loan-to-purchase-price analysis"
+      ],
+      "catchwords": [
+        "valuation negligence",
+        "mortgage security",
+        "bridging finance",
+        "contributory negligence",
+        "forced sale valuation",
+        "reliance"
+      ],
+      "index_terms": [
+        "ERRP",
+        "Foxearth Lodge",
+        "BBL SA v Eagle Star",
+        "nursing home properties",
+        "Blackpool hotel valuation",
+        "professional indemnity"
+      ],
+      "linked_authorities": [
+        {
+          "name": "BBL SA v Eagle Star Insurance Company Ltd",
+          "citation": "[1995] 2 All ER 769",
+          "relation": "applied on reliance requiring belief valuations are reliable"
+        },
+        {
+          "name": "Cavendish Funding v Henry Spencer",
+          "citation": "[1998] PNLR 122",
+          "relation": "cited on lender reliance on valuations"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Long Chancery negligence judgment with conceded breach and detailed reliance analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admlty/2003/320.json",
+    "status": "done",
+    "notes": "Batch 42 enrichment",
+    "enrichment": {
+      "short_title": "Brazil collision apportionment for failed lookout",
+      "area_of_law": [
+        "Admiralty law",
+        "Collision",
+        "Maritime negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Collision Regulations 1972",
+          "provisions": [
+            "Rule 15",
+            "Rule 16",
+            "Rule 17"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The bulk carrier Irapua collided with the ballast ore/oil carrier Topaz off Brazil in May 1991 in a crossing situation.",
+        "Irapua neither saw Topaz visually nor on radar and conceded serious fault as the give-way vessel.",
+        "Topaz altered course 10 degrees starboard then hard to starboard shortly before impact.",
+        "Collision angle was about 51 degrees with substantial blame disputed between stand-on and give-way vessels."
+      ],
+      "procedural_posture": "Admiralty collision action trial on liability apportionment after long-delayed proceedings.",
+      "outcome": "Liability apportioned 80% Irapua and 20% Topaz.",
+      "ratio": "Where the give-way vessel completely fails to keep lookout or take avoiding action, she is overwhelmingly to blame, but the stand-on vessel must still take bold avoiding action under Rule 17(a)(ii) when it is apparent the give-way vessel is not acting and must not delay the mandatory Rule 17(b) manoeuvre until too late; a 10-degree course alteration was inadequate and the final hard-to-starboard turn was too late.",
+      "legal_issues": [
+        "Whether Topaz maintained a proper lookout and appreciation",
+        "Lawfulness of Topaz's 10-degree starboard alteration under Rule 17(a)(i) and (ii)",
+        "Whether Topaz breached Rule 17(b) by delaying hard-to-starboard manoeuvre",
+        "Apportionment of blame between stand-on and give-way vessels"
+      ],
+      "catchwords": [
+        "collision",
+        "Collision Regulations",
+        "Rule 17",
+        "stand-on vessel",
+        "give-way vessel",
+        "apportionment of liability"
+      ],
+      "index_terms": [
+        "crossing situation",
+        "radar lookout",
+        "Brazil coast",
+        "The Aracelio Iglesias",
+        "The Koscierzyna",
+        "maritime assessors"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Aracelio Iglesias",
+          "citation": "[1968] 2 Lloyd's Rep 7",
+          "relation": "applied on ordinary course of navigation qualification to Rule 17(a)(i)"
+        },
+        {
+          "name": "The Koscierzyna",
+          "citation": "[1996] 2 Lloyd's Rep 124",
+          "relation": "applied on when stand-on vessel must act under Rule 17(a)(ii)"
+        },
+        {
+          "name": "The Sitarem",
+          "citation": "[2001] 2 Lloyd's Rep 107",
+          "relation": "cited on limits of collision plots as evidence"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear admiralty liability judgment with agreed collision mechanics and assessor advice."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/404.json",
+    "status": "done",
+    "notes": "Batch 42 enrichment",
+    "enrichment": {
+      "short_title": "VAT zero-rating for nursing-home annexe construction",
+      "area_of_law": [
+        "Tax law",
+        "VAT",
+        "Construction and property"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": [
+            "Schedule 8 Group 5",
+            "Item 2",
+            "Item 4",
+            "Note 16",
+            "Note 17"
+          ]
+        },
+        {
+          "title": "Registered Homes Act 1984",
+          "provisions": [
+            "section 25(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr and Mrs Cantrell constructed a new ESMI dementia-care unit at Foxearth nursing home in two phases, replacing Woodlands.",
+        "Builders were assessed to VAT at the standard rate; the Cantrells contended construction services and materials were zero-rated as a relevant residential purpose building.",
+        "The VAT Tribunal held the works were construction of an annexe to the existing New Barn building under Note 16(c) and not zero-rated.",
+        "The new unit was physically self-contained with separate utilities, entrances and staffing requirements from the EM unit."
+      ],
+      "procedural_posture": "Appeal on a question of law from the VAT and Duties Tribunal's second decision after remittal by Lightman J.",
+      "outcome": "Appeal allowed; works were zero-rated; assessment discharged.",
+      "ratio": "An annexe under Schedule 8 Group 5 Note 16(c) must be an adjunct or accessory to an existing building, not merely associated by contiguity, common ownership or inclusion in a complex; comparing physical characteristics before and after construction, a self-contained new residential-care unit abutting an existing barn at one corner was not an annexe to that building.",
+      "legal_issues": [
+        "Meaning of 'annexe' in VAT Group 5 Note 16(c)",
+        "Two-stage test comparing buildings before and after construction",
+        "Whether subjective use or planning permission determines zero-rating",
+        "Distinction between extension, enlargement and annexe"
+      ],
+      "catchwords": [
+        "VAT zero-rating",
+        "construction of buildings",
+        "relevant residential purpose",
+        "annexe",
+        "nursing home",
+        "Schedule 8 Group 5"
+      ],
+      "index_terms": [
+        "Foxearth Lodge",
+        "ESMI unit",
+        "Note 16(c)",
+        "Lightman J remittal",
+        "London Diocesan Fund",
+        "building materials zero-rating"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Commissioners of Customs & Excise v London Diocesan Fund",
+          "citation": "[1993] STC 369",
+          "relation": "cited on fact and degree in Note 16 cases"
+        },
+        {
+          "name": "Commissioners of Customs & Excise v Marchday Holdings Ltd",
+          "citation": "[1997] STC 279",
+          "relation": "cited on two-stage approach to Note 16"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Focused VAT construction appeal with detailed tribunal findings and clear legal error identified."
+      }
+    }
+  }
+]

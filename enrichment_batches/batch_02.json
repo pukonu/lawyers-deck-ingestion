@@ -1,0 +1,723 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/54.json",
+    "status": "done",
+    "notes": "Appeal by case stated on section 172 RTA 1988 and Article 6; outcome and authorities explicit.",
+    "enrichment": {
+      "short_title": "Section 172 driver identification and Article 6 for speeding offences",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal procedure",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 172(1)",
+            "section 172(2)",
+            "section 172(3)"
+          ]
+        },
+        {
+          "title": "Road Traffic Offenders Act 1988",
+          "provisions": [
+            "section 12(1)"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant was the registered keeper of a vehicle detected on three occasions by automatic cameras for speeding or failing to stop at a red light.",
+        "He received section 172 notices but refused to identify the driver on each occasion and was convicted of the section 172(2)(a) offence.",
+        "Before the Crown Court he argued that section 172(2) infringed his Article 6 fair trial rights by requiring self-incrimination.",
+        "The case was stated for the High Court on whether the Crown Court erred in ruling that he had a case to answer."
+      ],
+      "procedural_posture": "Appeal by way of case stated from the Crown Court to the Administrative Court.",
+      "outcome": "Appeal dismissed; the use of section 172(2) for speeding and red-light offences was held a proportionate legislative response to road safety.",
+      "ratio": "Compulsory driver identification under section 172(2) of the Road Traffic Act 1988 is a proportionate response to maintaining road safety even for regulatory offences such as speeding and failing to stop at a red light, and is consistent with Article 6 as explained in Brown v Stott and DPP v Wilson.",
+      "legal_issues": [
+        "Whether section 172(2) infringes Article 6 by requiring a keeper to identify the driver",
+        "Whether compulsory identification is a disproportionate response for non-serious traffic offences",
+        "Whether Brown v Stott applies to speeding and traffic-light offences"
+      ],
+      "catchwords": [
+        "section 172",
+        "driver identification",
+        "Article 6",
+        "speeding",
+        "proportionality",
+        "case stated"
+      ],
+      "index_terms": [
+        "Road Traffic Act 1988",
+        "Brown v Stott",
+        "DPP v Wilson",
+        "self-incrimination",
+        "registered keeper",
+        "automatic camera enforcement"
+      ],
+      "linked_authorities": [
+        "Brown v Stott",
+        "Director of Public Prosecutions v Wilson"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Issue, statutory framework, authorities, and outcome are clearly stated in a short judgment. Judge metadata in source JSON is empty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/40.json",
+    "status": "done",
+    "notes": "Interlocutory share-sale warranty appeal; Schedule 9 counsel opinion construction fully reasoned.",
+    "enrichment": {
+      "short_title": "Counsel opinion certificate for retention sum warranty claim",
+      "area_of_law": [
+        "Commercial contract",
+        "Share purchase agreements",
+        "Civil procedure",
+        "Professional negligence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Interleasing bought shares in Concept Automotive Services Ltd from Nicholas Morris under an agreement with a £4.5 million retention sum.",
+        "Schedule 9 required a counsel opinion of at least ten years' call before a warranty claim could withhold retention as a 'Good Claim'.",
+        "Counsel opined that a NAV warranty claim relating to overstated goodwill of the N&M Business had a reasonable chance of success, leading to retention of £3,369,000.",
+        "Morris challenged the opinion on interlocutory applications for disclosure, an implied term, and compliance with paragraph 10.4; Lightman J ruled for the buyer and Morris appealed."
+      ],
+      "procedural_posture": "Interlocutory appeal with permission from an order of Lightman J on applications relating to a pending warranty claim and counterclaim for release of the retention sum.",
+      "outcome": "Appeal dismissed with costs; the counsel opinion was held a binding contractual certificate if it met paragraph 10.4 on its face.",
+      "ratio": "Under Schedule 9 paragraph 10.4 of the share sale agreement, a counsel opinion operates as a contractual filter or certificate: provided it on its face states the required matters, the seller cannot go behind it to challenge the instructions or factual basis before trial, and no implied term requiring opinions to be based on true facts and proper instructions should be read into the agreement.",
+      "legal_issues": [
+        "Whether an implied term required counsel's opinion to be based on true facts and proper instructions",
+        "Whether privilege over instructions was waived by supplying the opinion",
+        "Whether the opinion sufficiently stated bona fides, reasonable prospect of success, and quantum",
+        "Whether the pleaded claim was the same claim vouched in the opinion"
+      ],
+      "catchwords": [
+        "share purchase agreement",
+        "warranty claim",
+        "retention sum",
+        "counsel opinion",
+        "Good Claim",
+        "legal professional privilege",
+        "interlocutory appeal"
+      ],
+      "index_terms": [
+        "net asset value warranty",
+        "Schedule 9",
+        "Lightman J",
+        "certificate",
+        "bona fide claim",
+        "Veba Oil v Petrotrade",
+        "British Shipbuilders v VSEL Consortium"
+      ],
+      "linked_authorities": [
+        "Jones v Sherwood Services Ltd",
+        "British Shipbuilders v VSEL Consortium Plc",
+        "Veba Oil v Petrotrade",
+        "R v Secretary of State for Transport ex parte Factortame",
+        "Nea Karteria Maritime Co Ltd v Atlantic and Great Lakes Steamship Corporation (No 2)",
+        "Senate Electrical Wholesalers Ltd v STC Submarine Systems Ltd"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Detailed interlocutory reasoning on six grounds of appeal; contract clauses and counsel opinion quoted extensively."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/63.json",
+    "status": "done",
+    "notes": "Mandamus to state case on drink-driving and section 172 issues; four final questions settled with counsel.",
+    "enrichment": {
+      "short_title": "Mandamus to state case after excess alcohol conviction",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal procedure",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 5(1)(a)",
+            "section 7",
+            "section 7(4)",
+            "section 7(5)",
+            "section 8(2)",
+            "section 172"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 111"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Eric Robertson was convicted of driving with excess alcohol after a collision and positive breath tests at Wandsworth police station on 5 August 2001.",
+        "He sought seven questions to be stated but the district judge refused as frivolous, holding the urine-sample procedure and breath evidence were sufficient.",
+        "He applied for judicial review of the refusal to state a case.",
+        "Fresh issues included admissibility of his admission that he was driving, timing of urine specimens under sections 7 and 8, and expert evidence that the breathalyser device had been altered."
+      ],
+      "procedural_posture": "Judicial review of a magistrates' court refusal under section 111(5) of the Magistrates' Courts Act 1980 to state a case after conviction for driving with excess alcohol.",
+      "outcome": "Judicial review allowed in part; mandatory order requiring the district judge to state a case on four specified questions, with disqualification suspended and costs from central funds.",
+      "ratio": "A refusal to state a case is Wednesbury reviewable and is frivolous only if no reasonable magistrate could regard the application as futile, misconceived, hopeless, or academic; here arguable points arose on section 172 admissibility, the urine-specimen timetable under sections 7 and 8, and whether reasons were required to reject uncontradicted expert evidence on device approval.",
+      "legal_issues": [
+        "Whether a section 172 admission of driving was admissible consistently with Article 6 and Brown v Stott",
+        "When the one-hour period for urine specimens begins under sections 7(5) and 8(2)",
+        "Whether the prosecution could rely on breath specimens if the replacement specimen procedure failed",
+        "Whether the district judge needed reasons to reject expert evidence that the breathalyser was not an approved device"
+      ],
+      "catchwords": [
+        "case stated",
+        "frivolous application",
+        "excess alcohol",
+        "urine specimen",
+        "section 172",
+        "mandamus",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Magistrates' Courts Act 1980 section 111",
+        "Mildenhall Magistrates",
+        "DPP v Wilson",
+        "Brown v Stott",
+        "DPP v Winstanley",
+        "Johnson v West Yorkshire Police",
+        "Rush v DPP"
+      ],
+      "linked_authorities": [
+        "R v Mildenhall Magistrates' Court ex parte Forest Heath District Council",
+        "Brown v Stott",
+        "Director of Public Prosecutions v Wilson",
+        "DPP v Winstanley",
+        "DPP v Warren",
+        "Johnson v West Yorkshire Police",
+        "Rush v DPP",
+        "Hobbs v Clerk",
+        "Heaney and McGuinness v Ireland",
+        "JB v Switzerland"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Procedural outcome and four stated questions are explicit; underlying guilt not finally determined. Judge metadata includes duplicate Lord Bingham entries inherited from source."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/92.json",
+    "status": "done",
+    "notes": "Section 288 planning challenge; inspector decision upheld on all five grounds.",
+    "enrichment": {
+      "short_title": "Refusal to vary section 106 electrical retail floorspace cap",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Property development"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 106",
+            "section 106A",
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Grantchester Retail Parks operated an out-of-centre retail park at Dallow Road, Luton subject to a 1993 section 106 agreement limiting electrical retail floorspace to 15,000 square feet.",
+        "It applied under section 106A to increase the limit, eventually seeking 35,000 square feet, but refused a council-proposed further restriction on non-bulky non-food retail.",
+        "Luton Borough Council refused the applications and the Secretary of State's inspector dismissed consolidated appeals in July 2002.",
+        "The claimant challenged the inspector's decision under section 288 on five grounds including failure to consider officer reports, sequential test logic, and town-centre impact reasoning."
+      ],
+      "procedural_posture": "High Court application under section 288(1) of the Town and Country Planning Act 1990 to quash an inspector's decision dismissing section 106A appeals.",
+      "outcome": "Application rejected; all five grounds of challenge failed and the inspector's decision was upheld.",
+      "ratio": "On a section 106A appeal the inspector lawfully exercised a planning judgment on whether a planning obligation continued to serve a useful purpose; failure to cite every officer report or a colleague inspector's decision does not invalidate the decision if relevant material was before the inspector and sequential-test and vitality-and-viability conclusions were adequately reasoned.",
+      "legal_issues": [
+        "Whether the inspector failed to consider Mr Blackley's July 2001 officer report",
+        "Whether the inspector should have considered the Matalan inspector decision",
+        "Whether the sequential test analysis of alternative town-centre sites was flawed",
+        "Whether conclusions on harm to Luton town centre were evidence-based and reasoned",
+        "Whether local plan policies were properly applied"
+      ],
+      "catchwords": [
+        "section 106 agreement",
+        "section 106A",
+        "planning obligation",
+        "sequential test",
+        "retail floorspace",
+        "town centre vitality",
+        "planning inspector"
+      ],
+      "index_terms": [
+        "Town and Country Planning Act 1990",
+        "PPG6",
+        "Luton Borough Council",
+        "out-of-centre retail",
+        "electrical goods",
+        "section 288 challenge"
+      ],
+      "linked_authorities": [
+        "Rockhold Ltd v Secretary of State for the Environment",
+        "Barnet Meeting Room Trust v Secretary of State for the Environment",
+        "North Wiltshire District Council v Secretary of State for the Environment",
+        "R v Secretary of State for the Environment, Chiltern District Council, ex parte David Baber",
+        "Hollis v Secretary of State for the Environment"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Structured six-part judgment with clear disposal of five grounds. Judge metadata empty in source JSON."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/41.json",
+    "status": "done",
+    "notes": "Arbitration Act jurisdiction and construction of community arbitration agreement; partial success on representation.",
+    "enrichment": {
+      "short_title": "Arbitration Act appeal jurisdiction and Sikh community arbitration",
+      "area_of_law": [
+        "Arbitration",
+        "Commercial dispute resolution",
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 18",
+            "section 18(5)",
+            "section 19",
+            "section 27(3)",
+            "section 36",
+            "section 61(1)",
+            "section 67",
+            "section 68",
+            "section 69"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Two solicitor brothers, Davinder Singh Virdee and Amritpal Singh Virdi, agreed in 1998 to arbitrate their disputes before a Sikh community tribunal.",
+        "An earlier arbitral award was set aside by consent and the county court reconstituted the tribunal under section 18, resolving disputed procedural terms.",
+        "Virdee appealed limited permission granted by Mance LJ on arbitrator qualifications, legal representation, costs, and section 69 exclusion.",
+        "The respondent did not appear at the hearing though notified."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from HHJ Hallgarten QC's directions on reconstituting an arbitral tribunal and interpreting a community arbitration agreement.",
+      "outcome": "Appeal allowed in part: no jurisdiction over arbitrator appointment under section 18(5); order varied to exclude unilateral legal representation and related costs declarations; permission to appeal on section 69 exclusion refused.",
+      "ratio": "Decisions under section 18(5) of the Arbitration Act 1996 on appointing or reconstituting an arbitral tribunal are final unless the judge grants permission to appeal; where the Act does not expressly bar appeal, the court may hear appeals on procedural directions such as legal representation, and the brothers' agreement impliedly excluded parties from instructing lawyers from the outset though the tribunal could permit legal argument on specific issues.",
+      "legal_issues": [
+        "Whether the Court of Appeal had jurisdiction to hear an appeal from section 18 appointment directions",
+        "Whether arbitrators had to be members of the Sikh community under section 19",
+        "Whether the agreement excluded legal representation under section 36",
+        "Whether each party was to bear own costs under section 61(1)",
+        "Whether section 69 appeals on questions of law were excluded"
+      ],
+      "catchwords": [
+        "Arbitration Act 1996",
+        "section 18",
+        "arbitrator appointment",
+        "legal representation",
+        "community arbitration",
+        "permission to appeal",
+        "section 69 exclusion"
+      ],
+      "index_terms": [
+        "Virdee v Virdi",
+        "Henry Boot Construction v Malmaison Hotel",
+        "Athletic Union of Constantinople v National Basketball Association",
+        "Inco Europe Ltd v First Choice Distribution",
+        "Sikh arbitration agreement"
+      ],
+      "linked_authorities": [
+        "Henry Boot Construction (UK) Ltd v Malmaison Hotel (Manchester) Ltd",
+        "Athletic Union of Constantinople v The National Basketball Association and Others",
+        "Inco Europe Ltd v First Choice Distribution"
+      ],
+      "confidence": {
+        "score": 0.86,
+        "level": "high",
+        "notes": "Court expressly cautioned that limited argument without counsel means reduced precedential weight on jurisdiction point; core holdings nonetheless clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/27.json",
+    "status": "done",
+    "notes": "Adjournment refused after Hoxha; Article 1C(5) cessation challenge dismissed.",
+    "enrichment": {
+      "short_title": "Refugee Convention cessation and adjournment after Hoxha",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Human rights",
+        "International refugee law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Convention Relating to the Status of Refugees (Geneva Convention)",
+          "provisions": [
+            "Article 1C(5)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant, a young man from Kosovo, arrived in the United Kingdom in June 1999 and claimed asylum and human rights protection.",
+        "An adjudicator dismissed his appeal in September 2001 after finding limited personal persecution but traumatic events in his village in July 1998.",
+        "The Immigration Appeal Tribunal refused leave to appeal on 1 November 2001.",
+        "He sought judicial review arguing Article 1C(5)'s 'compelling reasons' exception applied, and asked to adjourn pending possible House of Lords consideration of Hoxha and B."
+      ],
+      "procedural_posture": "Substantive judicial review of the Immigration Appeal Tribunal's refusal of leave to appeal, with an application to adjourn pending a petition to the House of Lords in Hoxha and B.",
+      "outcome": "Adjournment refused and judicial review application dismissed; leave to appeal refused.",
+      "ratio": "Where the Court of Appeal has unanimously rejected the Article 1C(5) compelling-reasons argument in Hoxha and B and refused leave to appeal, there is no present uncertainty in the law warranting adjournment of a similar challenge, and paragraph 136 of the UNHCR Handbook does not create a freestanding legal obligation beyond the Convention text.",
+      "legal_issues": [
+        "Whether Article 1C(5) permits refusal to return despite changed country conditions because of compelling reasons arising from past persecution",
+        "Whether paragraph 136 of the UNHCR Handbook creates an enforceable legal obligation",
+        "Whether proceedings should be adjourned pending a House of Lords petition in Hoxha and B"
+      ],
+      "catchwords": [
+        "refugee cessation",
+        "Article 1C(5)",
+        "compelling reasons",
+        "UNHCR Handbook",
+        "adjournment",
+        "judicial review",
+        "Kosovo"
+      ],
+      "index_terms": [
+        "R (Hoxha and B) v An Adjudicator and the IAT",
+        "Immigration Appeal Tribunal",
+        "asylum appeal",
+        "past persecution",
+        "Geneva Convention"
+      ],
+      "linked_authorities": [
+        "R (Hoxha and B) v An Adjudicator and The IAT"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Short procedural judgment with clear reliance on Hoxha and B; factual background taken from adjudicator findings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/4.json",
+    "status": "done",
+    "notes": "VAT rent-a-chair hairdressing appeal allowed; contract construction central to ratio.",
+    "enrichment": {
+      "short_title": "VAT supply by self-employed salon stylists under rent-a-chair",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "Commercial contract",
+        "Employment and self-employment"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": [
+            "section 1",
+            "section 2(1)(a)",
+            "section 19"
+          ]
+        },
+        {
+          "title": "Tribunals and Inquiries Act 1992",
+          "provisions": [
+            "section 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Kieran Mullin Ltd operated eight ladies' hairdressing salons using identical written Rent a Chair contracts with self-employed stylists.",
+        "Customs and Excise assessed KML for VAT on full customer receipts, treating stylists as supplying services to the salon rather than directly to customers.",
+        "The VAT Tribunal held two stylists supplied customers directly but the other 43 stylists supplied KML; KML appealed.",
+        "KML retained customer receipts, paid stylists the balance after chair rent and service charges, and invoiced stylists for VAT on those charges."
+      ],
+      "procedural_posture": "Appeal to the High Court on a point of law from a VAT and Duties Tribunal decision under section 11 of the Tribunals and Inquiries Act 1992.",
+      "outcome": "Appeal allowed; the Tribunal decision was reversed and Customs and Excise's April 1999 direction requiring VAT on customer receipts was set aside.",
+      "ratio": "For VAT purposes the critical question is the contractual relationship between salon and stylist: under KML's Rent a Chair agreements the stylists rented chairs and supplied hairdressing services directly to customers, so customer payments were not consideration for supplies made by KML; salon control over attendance, holidays, and standards did not convert the arrangement into a services-to-the-salon structure.",
+      "legal_issues": [
+        "Whether self-employed stylists under Rent a Chair contracts supplied hairdressing services to customers or to KML",
+        "Whether the Tribunal applied the wrong legal tests by focusing on control rather than contractual structure",
+        "Whether the Tribunal could distinguish between stylists on the same contract terms",
+        "Whether departure from National Hairdressing Federation VAT guidelines was fatal"
+      ],
+      "catchwords": [
+        "VAT",
+        "rent a chair",
+        "self-employed stylist",
+        "hairdressing salon",
+        "supply of services",
+        "services to customer structure",
+        "Tribunal appeal"
+      ],
+      "index_terms": [
+        "Value Added Tax Act 1994",
+        "MacHenrys (Hairdressers) Ltd",
+        "Edwards v Bairstow",
+        "Customs and Excise",
+        "chair rental",
+        "services to salon structure"
+      ],
+      "linked_authorities": [
+        "Commissioners of Customs and Excise v MacHenrys (Hairdressers) Ltd",
+        "Edwards v Bairstow",
+        "Customs and Excise Commissioners v Music and Video Exchange Ltd",
+        "Ransom v Higgs"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Long judgment with detailed contract analysis and clear declarations; judge metadata in source appears unreliable (Lord Simon listed)."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/88.json",
+    "status": "done",
+    "notes": "Millennium Commission grant refusal; reasons and misdirection grounds rejected.",
+    "enrichment": {
+      "short_title": "Adequacy of reasons for Millennium Commission grant refusal",
+      "area_of_law": [
+        "Administrative law",
+        "Public law",
+        "Charity and lottery funding",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "National Lottery Act 1993",
+          "provisions": [
+            "section 40",
+            "section 41"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Asha Foundation sought a £10 million capital grant from the Millennium Commission for a multicultural immigration and faith museum.",
+        "Asha had previously received and lost a conditional £10 million grant before applying successfully on eligibility but unsuccessfully on merit in the fifth funding round.",
+        "Twelve eligible applicants competed for about £19 million; the Commission's June 2001 letter said Asha's application was less attractive than others.",
+        "Asha challenged the refusal by judicial review for inadequate reasons and alleged misdirection."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from Lightman J's dismissal of an application for judicial review of the Millennium Commission's refusal of a fifth-round capital grant.",
+      "outcome": "Appeal dismissed with costs; leave to appeal refused.",
+      "ratio": "Where a grant-making body has promised reasons and must choose between eligible competing applications, fairness requires appropriate reasons but not detailed comparative analysis of every commissioner’s views; stating that other eligible applications were preferred is sufficient for a discretionary comparative allocation such as the Millennium Commission's fifth round.",
+      "legal_issues": [
+        "Whether the Commission gave adequate reasons for refusing Asha's grant application",
+        "Whether a promise in the application pack required fuller reasons than were given",
+        "Whether the Commission misdirected itself in applying appraisal criteria"
+      ],
+      "catchwords": [
+        "judicial review",
+        "reasons for decision",
+        "legitimate expectation",
+        "Millennium Commission",
+        "lottery grant",
+        "competitive allocation",
+        "misdirection"
+      ],
+      "index_terms": [
+        "National Lottery Act 1993",
+        "Asha Foundation",
+        "Lightman J",
+        "R v Higher Education Funding Council ex parte Institute of Dental Surgery",
+        "R v Civil Service Appeal Board ex parte Cunningham",
+        "R v Secretary of State for the Home Department ex parte Doody"
+      ],
+      "linked_authorities": [
+        "R v Higher Education Funding Council, Ex parte Institute of Dental Surgery",
+        "R v Civil Service Appeal Board, Ex parte Cunningham",
+        "R v Secretary of State for the Home Department, Ex parte Doody"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Primary issue and comparative grant context clearly explained; judge metadata lists Lord Mustill only."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/96.json",
+    "status": "needs_review",
+    "notes": "Procedural adjournment only; substantive coroner challenge not decided on merits.",
+    "enrichment": {
+      "short_title": "Adjournment of coroner judicial review for Divisional Court",
+      "area_of_law": [
+        "Coroners law",
+        "Administrative law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Coroners Act 1988",
+          "provisions": [
+            "section 13"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "RSC Order 94 rule 14"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimants sought judicial review of an inquest held on 23 November 2001 into the death of Mr Bunkor on 1 February 2001.",
+        "Criticisms included the deputy coroner's refusal to adjourn to hear Dr Gavaras, with later medical reports from Dr Gavaras and Dr Watkins.",
+        "After permission was granted, the Attorney General granted his fiat under section 13 of the Coroners Act for proceedings before a Divisional Court.",
+        "The claimant opposed adjournment but the court adjourned to avoid overlapping proceedings and costs."
+      ],
+      "procedural_posture": "Substantive judicial review listed for full hearing, adjourned after the Attorney General granted a section 13 fiat for Divisional Court proceedings.",
+      "outcome": "Judicial review adjourned to be listed with section 13 proceedings before the Divisional Court; costs reserved; claimant given 21 days to file a section 13 claim form.",
+      "ratio": "Where the Attorney General has granted a section 13 fiat enabling a Divisional Court to consider fresh evidence and order a new inquest, it is undesirable for a single judge on judicial review to determine overlapping issues that the Divisional Court can decide more fully, so adjournment and joint listing is appropriate.",
+      "legal_issues": [
+        "Whether judicial review should proceed before a single judge or be adjourned for consolidated Divisional Court hearing",
+        "Whether fresh medical evidence should be considered on judicial review or only under section 13",
+        "What claim form procedure applies to section 13 proceedings"
+      ],
+      "catchwords": [
+        "coroner",
+        "inquest",
+        "section 13 fiat",
+        "Attorney General",
+        "adjournment",
+        "judicial review",
+        "fresh evidence"
+      ],
+      "index_terms": [
+        "Coroners Act 1988",
+        "Divisional Court",
+        "Mulholland",
+        "deputy coroner",
+        "consolidation",
+        "RSC Order 94"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.72,
+        "level": "medium",
+        "notes": "Judgment resolves only case management and adjournment; substantive coroner criticisms and medical issues are identified but not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/3513.json",
+    "status": "done",
+    "notes": "Large TCC adjudication nullity judgment; declarations and Insolvency Act point explicit at end.",
+    "enrichment": {
+      "short_title": "Nullity of construction adjudication applying wrong subcontract",
+      "area_of_law": [
+        "Construction law",
+        "Adjudication",
+        "Insolvency",
+        "Commercial contract"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Grants, Construction and Regeneration Act 1996",
+          "provisions": []
+        },
+        {
+          "title": "Scheme for Construction Contracts",
+          "provisions": [
+            "paragraph 20"
+          ]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 11(3)(d)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Joinery Plus Ltd, in administration, performed DOM/2 subcontract joinery works for Laing at the Stakis London Metropole Hotel and a separate JCT subcontract at the Old Admiralty Building.",
+        "Joinery referred payment disputes to adjudication under the statutory Scheme; adjudicator Mr Hough awarded about £58,107 plus interest and VAT.",
+        "The decision erroneously applied Old Admiralty/JCT contractual material to the Stakis referral; the adjudicator acknowledged drafting errors but was not asked to correct them.",
+        "Laing paid £70,424.80; Joinery later sought Part 8 declarations that the decision was a nullity and that a fresh adjudication could be commenced."
+      ],
+      "procedural_posture": "Part 8 claim in the Technology and Construction Court for declarations as to the validity of a construction adjudication decision after the claimant entered administration.",
+      "outcome": "Declarations granted that the 6 August 2001 adjudication decision was a nullity, Joinery could commence a fresh adjudication, banking the cheque did not approbate the decision, and Laing's section 11(3)(d) Insolvency Act application to recover the payment was refused.",
+      "ratio": "An adjudicator who answers the referral by applying the wrong subcontract and wrong contractual documentation acts without jurisdiction, rendering the entire decision a nullity that cannot be cured by the court speculating on the outcome under the correct contract; accepting payment on account of general contractual entitlement does not approbate an invalid adjudication decision.",
+      "legal_issues": [
+        "Whether the adjudicator's decision was valid despite referencing the wrong subcontract",
+        "Whether fundamental jurisdictional error made the whole decision a nullity",
+        "Whether Joinery approbated the decision by banking Laing's payment",
+        "Whether Joinery could refer the same disputes to a second adjudication",
+        "Whether Laing could recover the payment from an company in administration under section 11(3)(d)"
+      ],
+      "catchwords": [
+        "construction adjudication",
+        "nullity",
+        "jurisdiction",
+        "wrong contract",
+        "approbation",
+        "second adjudication",
+        "Scheme for Construction Contracts"
+      ],
+      "index_terms": [
+        "Housing Grants Construction and Regeneration Act 1996",
+        "Joinery Plus",
+        "Laing",
+        "DOM/2 subcontract",
+        "Part 8 declaration",
+        "Insolvency Act 1986",
+        "Niko Hotels v MEPC"
+      ],
+      "linked_authorities": [
+        "Niko Hotels (UK) Ltd v MEPC plc",
+        "Bloor Construction (UK) Limited v Bowmer and Kirkland (London) Ltd",
+        "Shimizu Europe Ltd v Automajor Ltd",
+        "Discain Project Services Ltd v Opecprime Development Ltd",
+        "C and B Scene Concept Design Ltd v Isobars Ltd",
+        "Edmund Nuttall Ltd v RG Carter Ltd"
+      ],
+      "confidence": {
+        "score": 0.85,
+        "level": "high",
+        "notes": "Very long judgment but final declarations and reasoning on nullity and approbation are explicit; judge name not stated in source JSON."
+      }
+    }
+  }
+]

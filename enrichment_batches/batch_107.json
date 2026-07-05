@@ -1,0 +1,891 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1574.json",
+    "status": "done",
+    "notes": "Full Chancery judgment on valuer negligence; summary field truncated in source but full_text complete.",
+    "enrichment": {
+      "short_title": "Auditor share valuation negligence and margin of error",
+      "area_of_law": [
+        "Professional negligence",
+        "Company law",
+        "Share valuation",
+        "Damages"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 459"
+          ]
+        }
+      ],
+      "key_facts": [
+        "David Goldstein sold his Marchday Group plc shares at a price fixed by the company's auditors, Levy Gee partner Julian Synett, under article 14 of the articles of association.",
+        "Synett instructed property valuers to value the portfolio as a single transaction, deducted full contingent tax on investment properties, applied a 12.5% unlisted-company discount, and assumed 75% exercise of directors' share options.",
+        "Goldstein alleged negligent valuation; expert Tony Hindley valued the shares materially higher.",
+        "The trial turned on whether negligence could be established where the final figure fell within an acceptable valuation bracket."
+      ],
+      "procedural_posture": "High Court Chancery trial of a professional negligence claim against auditors who certified the prescribed price for compulsory share purchase under the company's articles.",
+      "outcome": "Claim dismissed: Synett's certified value fell within the permissible bracket once corrected variables were applied, so under Merivale Moore plc v Strutt & Parker no liability arose despite identifiable process errors.",
+      "ratio": "In negligent valuation claims where the complaint relates to the figures in a valuation, a figure outside the permissible margin of error is a necessary precondition of liability; process errors that do not move the final figure outside the bracket do not sound in damages, consistently with the ratio of Merivale Moore.",
+      "legal_issues": [
+        "Process versus outcome in professional valuer negligence",
+        "Application of the margin of error or bracket approach",
+        "Reconciliation of Lion Nathan, SAAMCO, and Merivale Moore authorities",
+        "Proper basis for valuing property-company shares under articles requiring willing buyer/willing seller valuation",
+        "Whether contingent tax and portfolio discounts were negligently applied"
+      ],
+      "catchwords": [
+        "valuer negligence",
+        "margin of error",
+        "share valuation",
+        "articles of association",
+        "prescribed price",
+        "Bolam",
+        "Merivale Moore",
+        "contingent tax",
+        "portfolio discount"
+      ],
+      "index_terms": [
+        "Goldstein v Levy Gee",
+        "Marchday Group plc",
+        "Julian Synett",
+        "Lewison J",
+        "unlisted company valuation",
+        "auditor as valuer",
+        "Whiteoak v Walker"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Merivale Moore plc v Strutt & Parker",
+          "citation": "[1999] 2 EGLR 171",
+          "relation": "applied"
+        },
+        {
+          "name": "Lion Nathan Ltd v C-C Bottlers Ltd",
+          "citation": "[1996] 1 WLR 1438",
+          "relation": "considered"
+        },
+        {
+          "name": "South Australia Asset Management Corporation v York Montagu (SAAMCO)",
+          "citation": "[1997] AC 191",
+          "relation": "considered"
+        },
+        {
+          "name": "Singer & Friedlander Ltd v John D Wood & Co",
+          "citation": "[1977] 2 EGLR 84",
+          "relation": "considered"
+        },
+        {
+          "name": "Zubaida v Hargreaves",
+          "citation": "[1995] 1 EGLR 127",
+          "relation": "cited"
+        },
+        {
+          "name": "Currys Group plc v Martin",
+          "citation": "[1999] 3 EGLR 165",
+          "relation": "applied"
+        },
+        {
+          "name": "Arab Bank plc v John D Wood Commercial Ltd",
+          "citation": "[2000] 1 WLR 857",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Very long approved judgment with detailed findings on each valuation component and explicit bracket calculations."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1565.json",
+    "status": "done",
+    "notes": "Interim libel ruling on fact/comment; source judges metadata appears erroneous but full text is complete.",
+    "enrichment": {
+      "short_title": "Observer libel article held to be comment not fact",
+      "area_of_law": [
+        "Defamation",
+        "Media law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 69"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Sara Keays brought libel proceedings over Carol Sarler's Observer comment piece criticising her media campaign with her daughter Flora after Flora turned 18.",
+        "Flora Keays, Lord Parkinson's daughter, had been subject to long-standing publicity restrictions during childhood.",
+        "Keays claimed the article bore meanings including cynical exploitation of Flora, lying about inevitable publicity, and a revenge-motivated kiss-and-tell to The Times.",
+        "The defendants applied for a ruling that the words were incapable of being factual and were comment only."
+      ],
+      "procedural_posture": "Interim Queen's Bench application in libel proceedings to determine whether the complained-of words are only capable of being regarded as comment rather than fact.",
+      "outcome": "Application upheld: a jury would be perverse to treat the defamatory imputations as factual statements requiring justification rather than comment defended as fair comment on a matter of public interest.",
+      "ratio": "Where a journalist in a comment section draws inferences about a person's motives from publicly available media coverage, especially states of mind that cannot be verified, reasonable readers will treat the imputations as opinion or value judgment rather than objective fact.",
+      "legal_issues": [
+        "Distinction between fact and comment in defamation",
+        "Whether allegations of lying and motive are capable of being comment",
+        "Application of Branson v Bower and Kemsley v Foot principles",
+        "Relevance of Article 10 ECHR and Nilsen & Johnsen v Norway",
+        "Effect of claimant entering the public arena"
+      ],
+      "catchwords": [
+        "fair comment",
+        "fact or comment",
+        "libel",
+        "public interest",
+        "motives",
+        "value judgment",
+        "Comment section",
+        "jury trial"
+      ],
+      "index_terms": [
+        "Keays v Guardian Newspapers",
+        "Carol Sarler",
+        "Flora Keays",
+        "Lord Parkinson",
+        "Observer",
+        "Daily Mail",
+        "Branson v Bower"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Branson v Bower",
+          "citation": "[2001] EMLR 32",
+          "relation": "applied"
+        },
+        {
+          "name": "Alexander v The Arts Council of Wales",
+          "citation": "[2001] 1 WLR 1840",
+          "relation": "applied"
+        },
+        {
+          "name": "Kemsley v Foot",
+          "citation": "[1952] AC 345",
+          "relation": "applied"
+        },
+        {
+          "name": "Telnikoff v Matusevitch",
+          "citation": "[1992] 2 AC 343",
+          "relation": "cited"
+        },
+        {
+          "name": "Nilsen & Johnsen v Norway",
+          "citation": "(2000) 30 EHRR 878",
+          "relation": "considered"
+        },
+        {
+          "name": "Albert Cheng v Tse Wai Chun Paul",
+          "citation": "[2001] EMLR 777",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Complete interim ruling; metadata judges list is inconsistent with the judgment but does not affect enrichment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/886.json",
+    "status": "done",
+    "notes": "Batch 107 enrichment",
+    "enrichment": {
+      "short_title": "Wasted costs order against estate solicitors reversed",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Wills and probate",
+        "Professional conduct"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 51"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 52.10"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Claudia Sherman challenged Len Woolnough's 1993 will after he left his Brighton house to charities instead of the family.",
+        "Executrix Mrs Perkins, advised by Fitzhugh Gates, issued an originating summons seeking an inquiry into Claudia's interest after years of threatened but unissued probate challenges.",
+        "Master Moncaster held severance had occurred and ordered costs from the sale proceeds; a deputy judge later made a wasted costs order against the solicitors on indemnity basis.",
+        "The judge criticised the proceedings' form, failure to notify Claudia of the Master's views, and conflict of interest between Emma's and Len's estates."
+      ],
+      "procedural_posture": "Court of Appeal appeal against a deputy High Court judge's wasted costs order made on a late appeal from a costs order in estate proceedings.",
+      "outcome": "Appeal allowed: Master's costs order restored; wasted costs and indemnity costs orders set aside; interim payments ordered by the deputy judge to be repaid.",
+      "ratio": "A wasted costs order requires improper, unreasonable or negligent conduct causing unnecessary costs and that it is just to compensate the applicant; solicitors who reasonably brought proceedings to resolve a beneficiary's prolonged vacillation, acting on counsel's advice, are not liable even if procedural form was imperfect.",
+      "legal_issues": [
+        "Jurisdiction to make wasted costs orders on appeal under CPR Part 52.10",
+        "Appropriate procedure where a will is proved in common form but challenged",
+        "Conflict of interest where solicitors act for one estate and partners are executors of another",
+        "Duty to inform litigants in person of interlocutory rulings",
+        "Exercise of discretion under Ridehalgh v Horsefield"
+      ],
+      "catchwords": [
+        "wasted costs",
+        "section 51",
+        "Ridehalgh",
+        "probate",
+        "originating summons",
+        "severance",
+        "litigant in person",
+        "conflict of interest"
+      ],
+      "index_terms": [
+        "Fitzhugh Gates v Sherman",
+        "Claudia Borden Sherman",
+        "Woolnough estate",
+        "Carnwath LJ",
+        "Master Moncaster",
+        "Re Jolley"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ridehalgh v Horsefield",
+          "citation": "[1994] Ch 205",
+          "relation": "applied"
+        },
+        {
+          "name": "Medcalf v Mardell",
+          "citation": "[2002] UKHL 27",
+          "relation": "cited"
+        },
+        {
+          "name": "Re Jolley",
+          "citation": "[1964] P 262",
+          "relation": "considered"
+        },
+        {
+          "name": "Re Beddoe",
+          "citation": "[1893] 1 Ch 547",
+          "relation": "considered"
+        },
+        {
+          "name": "Connolly-Martin v Davis",
+          "citation": "[1999] Lloyds Rep PN 790",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with detailed procedural history and clear order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/839.json",
+    "status": "done",
+    "notes": "Batch 107 enrichment",
+    "enrichment": {
+      "short_title": "Real possibility test for uncertain perpetrators in care cases",
+      "area_of_law": [
+        "Family law",
+        "Public law children",
+        "Child protection"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 1",
+            "section 31",
+            "section 31(2)(a)",
+            "section 31(2)(b)(i)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Eleven-week-old M suffered serious non-accidental injuries on two occasions, including fractures, retinal and subdural haemorrhages, and brain damage.",
+        "Care proceedings used a split trial; Charles J found threshold met but applied a 'no possibility' test and left parents, grandmother and night nanny in the pool of possible perpetrators.",
+        "The night nanny had not been a party at first instance; the grandmother was joined for the appeal.",
+        "All parties agreed the judge's perpetrator test was wrong following Re O and N; Re B."
+      ],
+      "procedural_posture": "Court of Appeal in public law care proceedings following the threshold stage of a split trial on identification of perpetrators of non-accidental injury.",
+      "outcome": "Appeal allowed: 'no possibility' test rejected; night nanny and maternal grandmother excluded as possible perpetrators; real possibility remains that one or both parents caused the injuries.",
+      "ratio": "Where the court cannot identify a perpetrator on the balance of probabilities, it should ask whether there is a real possibility or likelihood that a named carer was the perpetrator; exculpation requires absence of real possibility, not merely some theoretical opportunity.",
+      "legal_issues": [
+        "Correct test for identifying possible perpetrators of inflicted injury",
+        "Relationship between threshold findings and welfare stage in split trials",
+        "Procedural fairness to non-parties such as the night nanny and grandmother",
+        "Interpretation of section 31(2)(b) in shared-care cases",
+        "Effect of Lancashire County Council v B and Re O and N; Re B"
+      ],
+      "catchwords": [
+        "uncertain perpetrator",
+        "real possibility",
+        "threshold criteria",
+        "non-accidental injury",
+        "split trial",
+        "shaken baby",
+        "pool of possible perpetrators",
+        "care proceedings"
+      ],
+      "index_terms": [
+        "North Yorkshire County Council v SA",
+        "Butler-Sloss P",
+        "Charles J",
+        "Re B (Children: Non Accidental Injury)",
+        "Lancashire County Council v B",
+        "Re H (Minors)"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re O and N (Minors); Re B (Minors)",
+          "citation": "[2003] UKHL 18",
+          "relation": "applied"
+        },
+        {
+          "name": "Lancashire County Council v B",
+          "citation": "[2000] 2 AC 147",
+          "relation": "applied"
+        },
+        {
+          "name": "Re H (Minors) (Sexual Abuse: Standard of Proof)",
+          "citation": "[1996] AC 563",
+          "relation": "applied"
+        },
+        {
+          "name": "Re B (Children: Non Accidental Injury)",
+          "citation": "[2002] EWCA Civ 902",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Re G (Care proceedings: split trials)",
+          "citation": "[2001] 1 FLR 872",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.97,
+        "level": "high",
+        "notes": "Authoritative President's judgment with agreed legal error and substituted findings on key carers."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1007.json",
+    "status": "done",
+    "notes": "Batch 107 enrichment",
+    "enrichment": {
+      "short_title": "No Court of Appeal jurisdiction on licensing case stated",
+      "area_of_law": [
+        "Licensing law",
+        "Administrative law",
+        "Appellate jurisdiction",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 15",
+            "section 16",
+            "section 18",
+            "section 28A(4)"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 111"
+          ]
+        },
+        {
+          "title": "Licensing Act 1964",
+          "provisions": [
+            "section 77A(3)"
+          ]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": [
+            "section 54",
+            "section 55"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Westminster licensing magistrates had granted a Special Hours Certificate for part of on-licence premises without a music and dancing licence.",
+        "Mackay J, on case stated, held section 77A did not permit such a partial certificate and granted permission to appeal.",
+        "Licensees appealed to the Court of Appeal arguing the 1999 Act created a second appeal route.",
+        "The court noted Mendoza had proceeded without noticing the statutory finality bar."
+      ],
+      "procedural_posture": "Court of Appeal hearing on whether it had jurisdiction to hear an appeal from the High Court on a non-criminal case stated from magistrates in a licensing matter.",
+      "outcome": "Jurisdiction declined; no order on merits; respondents awarded costs; order drawing delayed 28 days to allow possible judicial review.",
+      "ratio": "A High Court decision on case stated under section 111 Magistrates' Courts Act 1980 in a non-criminal matter is final by section 28A(4) Supreme Court Act 1981, and section 18 bars any appeal to the Court of Appeal however expressed; the Access to Justice Act 1999 did not create a new right of appeal.",
+      "legal_issues": [
+        "Statutory finality of case stated decisions",
+        "Whether section 55 Access to Justice Act 1999 permits second appeals",
+        "Proper route to challenge licensing decisions after Maile v Manchester City Council",
+        "Whether fresh licensing application or judicial review is the appropriate remedy"
+      ],
+      "catchwords": [
+        "case stated",
+        "finality",
+        "licensing appeal",
+        "Special Hours Certificate",
+        "section 28A",
+        "section 18",
+        "jurisdiction",
+        "music and dancing licence"
+      ],
+      "index_terms": [
+        "Horseferry Road Justices v City of Westminster",
+        "Auld LJ",
+        "Maile v Manchester City Council",
+        "In Re Racal Communications Ltd",
+        "Mendoza"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Maile v Manchester City Council",
+          "citation": "16 October 1997, CA",
+          "relation": "applied"
+        },
+        {
+          "name": "In Re Racal Communications Ltd",
+          "citation": "[1981] AC 374",
+          "relation": "applied"
+        },
+        {
+          "name": "Westminster City Council v Mendoza",
+          "citation": "14 February 2001, CA",
+          "relation": "mentioned"
+        }
+      ],
+      "confidence": {
+        "score": 0.98,
+        "level": "high",
+        "notes": "Short, clear jurisdictional ruling with explicit statutory analysis and binding precedent."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/887.json",
+    "status": "done",
+    "notes": "Batch 107 enrichment",
+    "enrichment": {
+      "short_title": "Nightclub owner vicariously liable for doorman's stabbing",
+      "area_of_law": [
+        "Tort law",
+        "Vicarious liability",
+        "Personal injury",
+        "Occupiers' liability"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": [
+            "section 18"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Doorman Stephen Cranston, employed at Flamingo's nightclub in Woolwich, stabbed David Mattis in the back after an earlier violent ejection incident in the club.",
+        "Cranston left the club, armed himself at his flat, returned and stabbed Mattis who had briefly intervened to protect another customer.",
+        "Owner Gerard Pollock knew Cranston was unlicensed, aggressive and used as an intimidatory bouncer.",
+        "The trial judge held the stabbing was a separate incident after Cranston left employment and dismissed the claim."
+      ],
+      "procedural_posture": "Court of Appeal appeal from a High Court trial dismissing a personal injury claim against the nightclub operator for vicarious and direct negligence.",
+      "outcome": "Appeal allowed on vicarious liability and personal duty; leave to appeal to the House of Lords refused.",
+      "ratio": "An employer may be vicariously liable for a doorman's deliberate knife attack outside the club where the assault was closely connected to aggressive door supervision the employer authorised and expected, motivated by revenge for humiliation arising from the earlier incident at work.",
+      "legal_issues": [
+        "Close connection test after Lister v Hesley Hall and Dubai Aluminium",
+        "Whether intervening events broke the chain of employment",
+        "Personal duty of care in selecting and supervising doormen",
+        "Application of prior assault authorities to nightclub security"
+      ],
+      "catchwords": [
+        "vicarious liability",
+        "close connection",
+        "Lister",
+        "Dubai Aluminium",
+        "doorman",
+        "deliberate assault",
+        "nightclub",
+        "personal revenge"
+      ],
+      "index_terms": [
+        "Mattis v Pollock",
+        "Flamingo's Nightclub",
+        "Judge Seymour QC",
+        "Judge LJ",
+        "Basley v Curry",
+        "Daniels v Whetstone"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Lister v Hesley Hall Ltd",
+          "citation": "[2002] AC 215",
+          "relation": "applied"
+        },
+        {
+          "name": "Dubai Aluminium Co Ltd v Salaam",
+          "citation": "[2003] WLR 1913",
+          "relation": "applied"
+        },
+        {
+          "name": "Basley v Curry",
+          "citation": "[1999] 174 DLR (4th) 45",
+          "relation": "considered"
+        },
+        {
+          "name": "Daniels v Whetstone Entertainments Ltd",
+          "citation": "[1962] 2 Lloyd's Rep 1",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Deatons Pty Ltd v Flew",
+          "citation": "[1949] 79 CLR 370",
+          "relation": "considered"
+        },
+        {
+          "name": "Warren v Henlys Ltd",
+          "citation": "[1948] 2 All ER 935",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Approved Court of Appeal judgment applying post-Lister principles to detailed factual findings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1975.json",
+    "status": "done",
+    "notes": "Batch 107 enrichment",
+    "enrichment": {
+      "short_title": "Conviction quashed after informant witness lied on oath",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Public law",
+        "Drugs offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": [
+            "section 9",
+            "section 9(2)"
+          ]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 23"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Martindale was convicted of conspiring with Adrian Payne to supply heroin between September 1995 and January 1996.",
+        "Payne, the principal prosecution witness, denied under oath that he was a police informant or had received police money.",
+        "After trial it emerged Payne was a registered informant who had received an expenses payment and been recommended for incentive payment; this was not disclosed.",
+        "Police policy prevented passing informant status to the CPS; the judge summing up reinforced Payne's denials."
+      ],
+      "procedural_posture": "Court of Appeal criminal reference by the Criminal Cases Review Commission treated as an appeal against conviction.",
+      "outcome": "Appeal allowed; conviction quashed as unsafe; Crown indicated no retrial.",
+      "ratio": "A conviction is unsafe where a central accomplice witness lied on oath about being a police informant and receiving payments, and that material was not disclosed so the defence could not undermine his credibility at trial.",
+      "legal_issues": [
+        "Effect of non-disclosure of witness informant status",
+        "Distinction between out-of-court lies and lies under oath",
+        "Whether other police evidence could sustain conspiracy without Payne",
+        "Application of Pendleton fresh evidence test"
+      ],
+      "catchwords": [
+        "unsafe conviction",
+        "CCRC reference",
+        "non-disclosure",
+        "police informant",
+        "accomplice evidence",
+        "conspiracy to supply heroin",
+        "Keane principles",
+        "public interest immunity"
+      ],
+      "index_terms": [
+        "R v Martindale",
+        "Adrian Payne",
+        "Hampshire Constabulary",
+        "Andover",
+        "R v Rasheed",
+        "Pendleton"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Keane",
+          "citation": "[1994] 99 Cr App R 1",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Pendleton",
+          "citation": "[2002] 1 WLR 72",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Rasheed",
+          "citation": "TLR 20 May 1994",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.97,
+        "level": "high",
+        "notes": "Clear CCRC reference with Crown concession and unanimous unsafe verdict reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1861.json",
+    "status": "done",
+    "notes": "Batch 107 enrichment",
+    "enrichment": {
+      "short_title": "Withdrawn judicial review with costs for non-disclosure",
+      "area_of_law": [
+        "Administrative law",
+        "Judicial review",
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Claimants sought judicial review of Cambridgeshire County Council footpath/bridleway orders and interim injunctive relief.",
+        "Hooper J listed an oral hearing for interim relief, but claimants obtained ex parte interim injunction from Rafferty J before that hearing.",
+        "On 14 April Hooper J refused the injunction and ordered claimants to pay that hearing's costs.",
+        "Claimants later sought permission to withdraw the claim; the council sought costs including acknowledgment of service preparation."
+      ],
+      "procedural_posture": "Administrative Court application for permission to withdraw a judicial review claim with dispute over costs.",
+      "outcome": "Withdrawal permitted; claimants ordered to pay defendant's costs summarily assessed at £4,250 (£3,500 for acknowledgment of service and £750 for today's hearing).",
+      "ratio": "Even when withdrawal of judicial review is appropriate, costs should follow where the claim form materially failed to disclose relevant litigation history and statutory challenge routes and the claimants pursued ex parte relief after an oral hearing had been listed.",
+      "legal_issues": [
+        "Costs on withdrawal of judicial review",
+        "Material non-disclosure in claim forms",
+        "Propriety of ex parte relief after listing for inter partes hearing",
+        "Summary assessment of costs"
+      ],
+      "catchwords": [
+        "judicial review withdrawal",
+        "costs",
+        "non-disclosure",
+        "ex parte injunction",
+        "interim relief",
+        "footpath orders",
+        "summary assessment"
+      ],
+      "index_terms": [
+        "R (Mear) v Cambridgeshire County Council",
+        "Sullivan J",
+        "Hooper J",
+        "Rafferty J",
+        "public rights of way"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Short procedural judgment; limited ratio on substantive public law but clear costs ruling."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/905.json",
+    "status": "done",
+    "notes": "Batch 107 enrichment",
+    "enrichment": {
+      "short_title": "Broker negligence claim not estopped by coverage trial",
+      "area_of_law": [
+        "Insurance law",
+        "Professional negligence",
+        "Civil procedure",
+        "Res judicata"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Liability (Contribution) Act 1978",
+          "provisions": [
+            "section 1(5)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "KUCC and RTZ group companies lost cover for smelter modernisation plant after explosions in 1995 because FCF and acid plant had not met operational attachment requirements.",
+        "Langley J held in preliminary issues that plant had not been tested or commissioned by any criterion and dismissed claims against reinsurers and broker Minet.",
+        "Separate 2000 proceedings alleged Minet and US advisers failed to secure seamless CAR-to-operational reinsurance and warn of coverage gaps.",
+        "David Steel J struck out the Minet claim for issue estoppel and gave summary judgment for Jardine defendants."
+      ],
+      "procedural_posture": "Court of Appeal appeal against strike-out and summary judgment in professional negligence proceedings against reinsurance brokers and advisers.",
+      "outcome": "Appeal allowed; Minet strike-out and Jardine summary judgment set aside; costs orders and interim payments reversed.",
+      "ratio": "Findings in a preliminary coverage trial that plant did not attach under policy wording do not issue-estop a later broker negligence claim predicated on acceptance of non-attachment and alleging failure to warn and procure alternative cover; pursuing such claims later was not an abuse where parties had deferred broker claims by agreement.",
+      "legal_issues": [
+        "Issue estoppel after preliminary insurance coverage trial",
+        "Abuse of process under Johnson v Gore Wood",
+        "Whether broker negligence causation was decided by Langley J",
+        "Summary judgment against advisers not party to earlier action",
+        "Contribution prejudice under section 1(5) Civil Liability (Contribution) Act 1978"
+      ],
+      "catchwords": [
+        "issue estoppel",
+        "insurance broker negligence",
+        "reinsurance attachment",
+        "seamless cover",
+        "abuse of process",
+        "preliminary issues",
+        "Johnson v Gore Wood",
+        "summary judgment"
+      ],
+      "index_terms": [
+        "Kennecott Utah Copper Corporation v Minet Ltd",
+        "Langley J",
+        "David Steel J",
+        "TCI captive insurer",
+        "smelter modernisation project",
+        "Aneco Reinsurance v Johnson & Higgins"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Johnson v Gore Wood & Co",
+          "citation": "[2002] 2 AC 1",
+          "relation": "applied"
+        },
+        {
+          "name": "Arnold v National Westminster Bank plc",
+          "citation": "[1991] 2 AC 93",
+          "relation": "applied"
+        },
+        {
+          "name": "Aneco Reinsurance (Underwriting) Ltd v Johnson & Higgins Ltd",
+          "citation": "[1998] 1 Lloyd's Rep 565",
+          "relation": "considered"
+        },
+        {
+          "name": "Kennecott Utah Copper Corporation v Corrugated Paper Corp (Langley J)",
+          "citation": "[2000] Lloyd's Rep IR 179",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Long reasoned judgment distinguishing coverage findings from broker duty and causation issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1837.json",
+    "status": "done",
+    "notes": "Source judges metadata appears erroneous; full judgment by Davis J is complete.",
+    "enrichment": {
+      "short_title": "Rent assessment committee reduction upheld on appeal",
+      "area_of_law": [
+        "Housing law",
+        "Landlord and tenant",
+        "Administrative law",
+        "Tribunal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1988",
+          "provisions": [
+            "section 22",
+            "section 22(1)",
+            "section 22(3)",
+            "section 22(3)(a)",
+            "section 22(3)(b)"
+          ]
+        },
+        {
+          "title": "Tribunals and Inquiries Act 1992",
+          "provisions": [
+            "section 10",
+            "section 11",
+            "section 11(1)"
+          ]
+        },
+        {
+          "title": "Rent Assessment Committees (England and Wales) Regulations 1971",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Park Lane Properties let a five-bedroom Leeds student flat at £58.50 per person per week under an assured shorthold tenancy from July 2002.",
+        "Five tenants applied under section 22 Housing Act 1988 for a rent assessment.",
+        "The Northern Rent Assessment Committee inspected the property and reduced rent to £52.50 per week, finding the charged rent more than 10% above the reasonable market rent.",
+        "The landlord appealed on alleged misunderstanding of comparables, improper use of local knowledge, procedural unfairness and inadequate reasons."
+      ],
+      "procedural_posture": "High Court appeal on a point of law under section 11 Tribunals and Inquiries Act 1992 from a Rent Assessment Committee determination.",
+      "outcome": "Appeal dismissed; committee decision upheld; landlord ordered to pay respondent's costs of £4,437.50 within 28 days.",
+      "ratio": "A rent assessment committee may properly rely on its members' local market knowledge together with the evidence before it when fixing the rent a landlord might reasonably expect under section 22(3), provided it considers the totality of comparables and gives reasons showing how it reached the figure.",
+      "legal_issues": [
+        "Use of committee members' local knowledge under Crofton Investment Trust",
+        "Whether advertised comparables for a future academic year were properly treated",
+        "Significance threshold under section 22(3)(b)",
+        "Adequacy of reasons for a more than 10% reduction",
+        "Procedural fairness when challenging selective landlord comparables"
+      ],
+      "catchwords": [
+        "rent assessment committee",
+        "assured shorthold tenancy",
+        "section 22",
+        "significantly higher rent",
+        "student lettings",
+        "local knowledge",
+        "comparables",
+        "point of law appeal"
+      ],
+      "index_terms": [
+        "Park Lane Properties v Northern Rent Assessment Panel",
+        "Davis J",
+        "Winstanley Terrace Leeds",
+        "Crofton Investment Trust",
+        "Spath Holme Ltd v North Rent Assessment Committee"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Crofton Investment Trust Ltd v Greater London Rent Assessment Committee",
+          "citation": "[1967] 2 All ER 1103",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Brighton and Area Rent Tribunal, ex p Marine Parade Estates (1936) Ltd",
+          "citation": "[1951] 1 All ER 946",
+          "relation": "cited"
+        },
+        {
+          "name": "Northumberland and Durham Property Trust Ltd v Chairman of the London Rent Assessment Committee",
+          "citation": "(1998) 30 HLR 1091",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Spath Holme Ltd v Chairman of the North Rent Assessment Committee",
+          "citation": "[2003] HLR 13",
+          "relation": "considered"
+        },
+        {
+          "name": "Yeoman's Road Management Ltd v Chairman of the London Rent Assessment Committee",
+          "citation": "19 April 2002, Ouseley J",
+          "relation": "mentioned"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed administrative judgment addressing each ground; metadata judges field unreliable."
+      }
+    }
+  }
+]

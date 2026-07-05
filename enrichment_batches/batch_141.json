@@ -1,0 +1,824 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/pat/2003/2589.json",
+    "status": "done",
+    "notes": "Complete extempore costs judgment; metadata judge list appears unreliable (judgment delivered by Pumfrey J).",
+    "enrichment": {
+      "short_title": "Non-party costs order against patent litigation funder Princo under section 51",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Banking and finance",
+        "Intellectual property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["section 51"]
+        },
+        {
+          "title": "Third Parties (Rights against Insurers) Act 1930",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Philips sued Aventi for patent infringement over unlicensed CD-R discs; Princo GmbH funded Aventi's defence and gave a royalty indemnity but withdrew funding about six weeks before Aventi entered insolvent liquidation.",
+        "Jacob J permitted joinder of Princo and Mr Kuo so Philips could seek a non-party costs order under section 51 Supreme Court Act 1981.",
+        "Princo had a direct commercial interest in the English proceedings and causally funded Aventi's defence; Mr Kuo did not personally fund Aventi.",
+        "Philips sought costs of both the Aventi action and the section 51 application, including against Mr Kuo personally."
+      ],
+      "procedural_posture": "Application at the conclusion of patent infringement proceedings for a non-party costs order against the funder and its managing director, with leave to appeal granted on the Princo order.",
+      "outcome": "Princo ordered to pay Philips' costs of the Aventi action save insofar as increased by claims relating to Fornet/Fornex and other non-Princo discs; Mr Kuo's personal section 51 application failed and he was awarded his costs of that application; no interim costs order; permission to appeal granted on compelling grounds.",
+      "ratio": "A commercially interested funder who causally enables an impecunious defendant to defend litigation for its own benefit may be ordered to pay the successful party's costs under section 51, distinguishing pure/disinterested funders immune after Hamilton v Al Fayed; funding must be causative and the order remains exceptional and discretionary.",
+      "legal_issues": [
+        "Whether Princo was a pure or commercially interested funder",
+        "Whether Princo's funding was causative of Aventi's defence",
+        "Scope of a non-party costs order where only part of the claim related to third-party manufacturers' products",
+        "Personal liability of Mr Kuo where he did not provide funds",
+        "Costs of the section 51 application where joint representation was used"
+      ],
+      "catchwords": [
+        "section 51 costs",
+        "non-party costs",
+        "litigation funder",
+        "pure funder",
+        "commercial funder",
+        "causation",
+        "patent infringement",
+        "third party costs"
+      ],
+      "index_terms": [
+        "Philips",
+        "Princo GmbH",
+        "Aventi Limited",
+        "Hamilton v Al Fayed",
+        "Murphy v Young's",
+        "Symphony Group v Hodgson",
+        "litigation funding",
+        "CD-R patent"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Aiden Shipping Co Ltd v Interbulk Ltd",
+          "citation": "[1986] AC 965",
+          "relation": "applied"
+        },
+        {
+          "name": "Symphony Group plc v Hodgson",
+          "citation": "[1993] 4 All ER 143",
+          "relation": "applied"
+        },
+        {
+          "name": "Murphy v Young's Brewery plc",
+          "citation": "[1997] 1 WLR 1591",
+          "relation": "applied"
+        },
+        {
+          "name": "Hamilton v Mohammed Al Fayed",
+          "citation": "[2002] EWCA Civ 665",
+          "relation": "applied"
+        },
+        {
+          "name": "Globe Equities Ltd v Global Legal Services Ltd",
+          "citation": "[1999] BLR 232",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long complete extempore judgment with clear holdings on funder liability and costs allocation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2152.json",
+    "status": "needs_review",
+    "notes": "Source summary field is truncated mid-sentence; full judgment text appears complete.",
+    "enrichment": {
+      "short_title": "Section 73(8) certificate quashed but Article 8 removal claim refused",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Human rights law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": ["section 65", "section 73(2)", "section 73(7)", "section 73(8)", "section 73(9)", "sections 74-77", "section 76"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["section 6"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 8"]
+        },
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": ["section 96(2)"]
+        }
+      ],
+      "key_facts": [
+        "Indian asylum seeker married a British citizen and had a British child; his asylum appeal was treated as abandoned after non-attendance in August 2001.",
+        "In June 2002 he applied again on Article 8 grounds; the Secretary of State refused removal reconsideration and certified under section 73(8) that the application was made to delay removal with no other legitimate purpose.",
+        "His wife had learning disabilities and asthma; the Secretary of State considered she could accompany him to India or remain while he applied for entry clearance from abroad.",
+        "Judicial review challenged both the Article 8 refusal and the section 73(8) certificate."
+      ],
+      "procedural_posture": "Judicial review of Secretary of State decisions following refusal on the papers and renewed permission before Maurice Kay J; permission to appeal granted to the Secretary of State.",
+      "outcome": "Challenge to the Article 8 removal decision dismissed; section 73(8) certificate quashed; no order as to costs; permission to appeal granted.",
+      "ratio": "Section 73(8) requires the decision-maker to ask whether the application was in reality a delaying tactic, not merely whether the claim could have been raised earlier or is hopeless; on the facts the certificate was flawed because the Secretary of State applied the wrong legal test.",
+      "legal_issues": [
+        "Meaning of 'no other legitimate purpose' in section 73(8)(b)",
+        "Whether Article 8 was engaged by removal of a recently formed family",
+        "Whether temporary family separation for entry clearance was a proportionate Article 8(2) interference",
+        "Interaction between one-stop appeal procedure and post-determination applications",
+        "Correct approach following conflicting first-instance authorities (Vemenac, Balamurali, Ngamguem, Alia)"
+      ],
+      "catchwords": [
+        "section 73(8)",
+        "certification",
+        "Article 8",
+        "family life",
+        "delaying tactic",
+        "judicial review",
+        "immigration appeal",
+        "one-stop procedure"
+      ],
+      "index_terms": [
+        "Sandhu",
+        "removal directions",
+        "entry clearance",
+        "Balamurali",
+        "Vemenac",
+        "Kariharan",
+        "legitimate purpose"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (Vemenac) v Secretary of State for the Home Department",
+          "citation": "[2002] EWHC 1636 (Admin)",
+          "relation": "distinguished"
+        },
+        {
+          "name": "R (Balamurali) v Secretary of State for the Home Department",
+          "citation": "[2003] EWHC 1183 (Admin)",
+          "relation": "distinguished"
+        },
+        {
+          "name": "R (Alia) v Secretary of State for the Home Department",
+          "citation": "[2003] EWHC 1881 (Admin)",
+          "relation": "considered"
+        },
+        {
+          "name": "R (Kariharan) v Secretary of State for the Home Department",
+          "citation": "[2002] EWCA Civ 1102",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Mahmood) v Secretary of State for the Home Department",
+          "citation": "[2001] 1 WLR 840",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Full reserved judgment available despite truncated source summary; section 73 construction is the core ratio."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/2138.json",
+    "status": "done",
+    "notes": "Long Commercial Court trial judgment; metadata judge list includes cited Law Lords rather than deciding judge (Andrew Smith J).",
+    "enrichment": {
+      "short_title": "Lloyd's underwriters' negligent misstatement claim against Coutts over HMU client account letter dismissed",
+      "area_of_law": [
+        "Banking law",
+        "Professional negligence",
+        "Insurance law",
+        "Commercial law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Lloyd's syndicates gave binding authorities to Hilton Malcolm Underwriting Ltd (HMU), expecting a separate client account at Coutts for underwriting monies.",
+        "Coutts wrote an August 1995 'undated letter' confirming a client account; HMU in fact operated a sweeper arrangement from February 1996 and Coutts held debenture/set-off rights over the account.",
+        "Underwriters subscribed to a second binding authority in January 1996 and later suffered losses when HMU failed.",
+        "Harvey Bowring syndicate management received Whittington audit warnings about the client account but did not investigate before losses crystallised."
+      ],
+      "procedural_posture": "Trial of professional negligence and negligent misstatement claims in the Commercial Court after abandonment of the first binding authority claim.",
+      "outcome": "Claim dismissed.",
+      "ratio": "Coutts owed no relevant duty of care to potential subscribers to a second binding authority in respect of the undated letter or failure to disclose the sweeper arrangement; even if breach were established, Harvey Bowring's unreasonable failure to follow up Whittington's warnings broke the chain of causation.",
+      "legal_issues": [
+        "Whether the undated letter was misleading about a client account",
+        "Scope of Coutts' duty of care under Caparo/Hedley Byrne principles to second-authority subscribers",
+        "Causation and reliance on the undated letter",
+        "Duty to disclose the sweeper arrangement",
+        "Contributory negligence and break in chain of causation"
+      ],
+      "catchwords": [
+        "negligent misstatement",
+        "client account",
+        "binding authority",
+        "Lloyd's underwriter",
+        "duty of care",
+        "Caparo",
+        "chain of causation",
+        "bank set-off"
+      ],
+      "index_terms": [
+        "Coutts & Co",
+        "HMU",
+        "Harvey Bowring",
+        "sweeper arrangement",
+        "undated letter",
+        "Whittington audit",
+        "Banque Bruxelles"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Caparo Industries plc v Dickman",
+          "citation": "[1990] 2 AC 605",
+          "relation": "applied"
+        },
+        {
+          "name": "Henderson v Merrett Syndicates Ltd",
+          "citation": "[1995] 2 AC 145",
+          "relation": "applied"
+        },
+        {
+          "name": "Banque Bruxelles Lambert SA v Eagle Star Insurance Co Ltd",
+          "citation": "[1997] AC 191",
+          "relation": "applied"
+        },
+        {
+          "name": "Reeman v Department of Transport",
+          "citation": "[1997] PNLR 618",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Very long but complete judgment with detailed findings on duty, breach and causation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/costs/2003/9018.json",
+    "status": "done",
+    "notes": "Costs judge decision on preliminary assessment issues following Cresswell J; uplift quantum deferred to detailed assessment.",
+    "enrichment": {
+      "short_title": "Recoverability of marine recovery agent fees after Eurasian Dream fire judgment",
+      "area_of_law": [
+        "Costs",
+        "Admiralty and shipping law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 43.2(1)(a)", "CPR 44.3(1)(a)", "CPR 44.4(2)", "CPR 44.5", "CPR 47"]
+        },
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": ["section 58"]
+        }
+      ],
+      "key_facts": [
+        "After a fire on Eurasian Dream, Cresswell J held the vessel owners liable and ordered assessment of WK Webster & Co fees as recoverable costs.",
+        "Websters, marine recovery agents instructed by Allianz, charged on time-and-trouble and later no-cure-no-pay/contingency bases.",
+        "A second trial determined whether Websters' fees were recoverable as damages or costs; the costs judge then resolved preliminary assessment disputes on hourly rates, recoverability, duplication and uplift.",
+        "Websters claimed £175/hour plus a 100% uplift for risk under the contingency arrangement."
+      ],
+      "procedural_posture": "Detailed assessment hearing on preliminary issues following Cresswell J's October 2002 order after the main fire damage trial.",
+      "outcome": "Reasonable hourly rate for Mr Sharma fixed at £150 to judgment in the first trial; Websters' work held recoverable in principle under CPR; risk uplift recoverable in principle but 100% too high (quantum deferred); costs of the second trial excluded pending Cresswell J.",
+      "ratio": "Post-CPR costs recoverable by skilled non-solicitor marine recovery agents where their instruction reduced necessary legal work; contingency risk enhancement may be recoverable by analogy with CFA success fees, but assessment remains subject to reasonableness, proportionality and the Cresswell J costs order.",
+      "legal_issues": [
+        "Appropriate hourly rate for a marine claims manager compared with City solicitors",
+        "Whether Websters' work was recoverable or merely clients' work (Richards & Wallington/Nossens)",
+        "Duplication with Richards Butler solicitors",
+        "Recoverability of contingency/no-cure-no-pay uplift",
+        "Whether second-trial costs fell within the reserved costs order"
+      ],
+      "catchwords": [
+        "detailed assessment",
+        "marine recovery agent",
+        "hourly rate",
+        "contingency fee",
+        "uplift",
+        "recoverable costs",
+        "CPR 43.2",
+        "shipping fire claim"
+      ],
+      "index_terms": [
+        "Eurasian Dream",
+        "WK Webster & Co",
+        "Allianz",
+        "Cresswell J",
+        "Factortame",
+        "Amec Capital Projects",
+        "Richards & Wallington",
+        "no cure no pay"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Papera Traders Co Ltd v Hyundai Merchant Marine Co Ltd",
+          "citation": "[2003] EWHC (Comm) (Cresswell J)",
+          "relation": "applied"
+        },
+        {
+          "name": "Amec Capital Projects Ltd v Whitefriars City Estate Ltd",
+          "citation": "[2003] EWHC 757 (TCC)",
+          "relation": "applied"
+        },
+        {
+          "name": "Factortame Ltd v Secretary of State for Transport (No 8)",
+          "citation": "[2003] QB 381",
+          "relation": "applied"
+        },
+        {
+          "name": "Richards & Wallington Plant Hire Ltd v Richards & Wallington Plant Hire Ltd",
+          "citation": "[1983] 1 WLR 958",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Piper v Piper",
+          "citation": "[1996] 1 WLR 187",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Clear holdings on rates and recoverability; uplift percentage left for further assessment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1261.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment ordering retrial on procedural irregularity grounds.",
+    "enrichment": {
+      "short_title": "New trial ordered after county court excluded Transco evidence and curtailed cross-examination",
+      "area_of_law": [
+        "Employment law",
+        "Contract law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 1.1", "CPR 1.2", "CPR 3.2", "CPR 52.11(3)(b)"]
+        }
+      ],
+      "key_facts": [
+        "Transco service engineers claimed disturbance allowances under section O of a 1993 NJIC agreement after depot transfers following 1995 district/site start working changes.",
+        "At trial the claimants adduced late Transco documents without notice; Transco was refused permission to rely on witness statements excluded interlocutorily and cross-examination of key witness McDonald was limited to five minutes.",
+        "The judge fixed a strict timetable because the case could not continue part-heard until April 2003.",
+        "Similar multi-claimant cases were expected if the contractual construction point was resolved."
+      ],
+      "procedural_posture": "Appeal from county court judgment after permission granted on CPR 52.11(3)(b) serious procedural irregularity grounds; merits grounds not determined.",
+      "outcome": "Appeal allowed on procedural grounds; new trial ordered; costs below and of appeal to be costs in the case.",
+      "ratio": "It was unjust to admit the claimants' late documentary evidence while refusing Transco's excluded witness statements on the same core issue and drastically curtailing cross-examination without adequate notice, constituting a serious procedural irregularity warranting a retrial.",
+      "legal_issues": [
+        "Whether limiting cross-examination was within acceptable case management discretion",
+        "Whether material change of circumstances justified admitting previously excluded defence evidence",
+        "Fair balance when one party adduces late evidence at trial",
+        "Whether the county court decision was unjust under CPR 52.11(3)(b)"
+      ],
+      "catchwords": [
+        "serious procedural irregularity",
+        "case management",
+        "limiting cross-examination",
+        "late evidence",
+        "new trial",
+        "disturbance allowance",
+        "collective agreement"
+      ],
+      "index_terms": [
+        "Transco",
+        "British Gas",
+        "section O NJIC",
+        "normal depot",
+        "site start working",
+        "McDonald witness",
+        "Darren Watson v Chief Constable of Cleveland Police"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Darren Watson v Chief Constable of Cleveland Police",
+          "citation": "[2001] EWCA Civ 1547",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed procedural analysis with clear outcome; contractual merits expressly not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2148.json",
+    "status": "done",
+    "notes": "Complete Part 8 contract construction judgment on Milton Lane Allowance.",
+    "enrichment": {
+      "short_title": "Portsmouth FC option price reduced by full Milton Lane Allowance where Council consent price was nil",
+      "area_of_law": [
+        "Property law",
+        "Contract law",
+        "Planning law",
+        "Commercial property"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 106", "section 257"]
+        },
+        {
+          "title": "Highways Act 1980",
+          "provisions": ["section 263(1)", "section 278"]
+        }
+      ],
+      "key_facts": [
+        "Developer Sellar granted Portsmouth City Football Club an option to buy stadium expansion land for £2m less a Milton Lane Allowance of £1.1m minus X, where X was Council-identified consideration for consent to cross Milton Lane with the Spine Road.",
+        "The Council ultimately sold Barwood Land and Milton Lane freehold to the Developer for £4,255,000 in one conveyance without apportionment.",
+        "Both parties understood crossing Milton Lane required highway authority consent; counsel advised the Council could not demand a ransom for that consent.",
+        "The Club exercised the option and sought a declaration that the purchase price was £900,000."
+      ],
+      "procedural_posture": "Expedited Part 8 claim for declaratory relief on contractual purchase price before contractual completion date.",
+      "outcome": "Declaration that purchase price is £900,000.",
+      "ratio": "On the natural meaning of the amended option clause, X related to the Council's consent as highway authority to cross Milton Lane; where the Council effectively identified nil consideration for that consent, the full £1.1m Milton Lane Allowance applies, and the Developer cannot rely on its own breach of the joint negotiation obligation to defeat the deduction.",
+      "legal_issues": [
+        "Construction of 'consent for the Spine Road to cross Milton Lane'",
+        "Whether X could be nil or required apportionment of the £4.255m global price",
+        "Developer breach of clause 13 negotiation obligation",
+        "Whether the contract was frustrated or required Sudbrook-style gap-filling valuation",
+        "Apportionment methodology if consent had wider meaning"
+      ],
+      "catchwords": [
+        "option agreement",
+        "contract construction",
+        "Milton Lane Allowance",
+        "ransom strip",
+        "planning gain",
+        "highway consent",
+        "section 106",
+        "frustration"
+      ],
+      "index_terms": [
+        "Portsmouth City Football Club",
+        "Sellar Properties",
+        "Fratton Park",
+        "Spine Road",
+        "Barwood Land",
+        "Powergen",
+        "Sudbrook Trading v Eggleton"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Investors Compensation Scheme Ltd v West Bromwich Building Society",
+          "citation": "[1998] 1 WLR 896",
+          "relation": "applied"
+        },
+        {
+          "name": "Sudbrook Trading Estate Ltd v Eggleton",
+          "citation": "[1983] 1 AC 444",
+          "relation": "considered"
+        },
+        {
+          "name": "R v Warwickshire County Council, ex parte Powergen plc",
+          "citation": "(1997) 75 P & CR 89",
+          "relation": "applied"
+        },
+        {
+          "name": "Alghussein Establishment v Eton College",
+          "citation": "[1988] 1 WLR 587",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long but complete reserved judgment with clear primary conclusion on price."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1458.json",
+    "status": "done",
+    "notes": "Short renewed permission judgment; metadata judges field empty.",
+    "enrichment": {
+      "short_title": "Second-tier ancillary relief appeal refused under Access to Justice Act section 55",
+      "area_of_law": [
+        "Family law",
+        "Human rights law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": ["section 55"]
+        },
+        {
+          "title": "Matrimonial Causes Act 1973",
+          "provisions": ["section 25", "section 25(2)(b)"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 3", "Article 6", "Article 8"]
+        }
+      ],
+      "key_facts": [
+        "Affluent ancillary relief proceedings in the Principal Registry; the husband appeared in person and the wife was legally represented.",
+        "District Judge Million's orders were upheld on appeal to the President of the Family Division.",
+        "The husband sought permission for a further appeal arguing section 25 Matrimonial Causes Act 1973 was incompatible with the Convention and complaining about treatment of children from inside and outside the marriage and Calderbank costs.",
+        "Permission had already been refused on paper."
+      ],
+      "procedural_posture": "Renewed oral application for permission to appeal to the Court of Appeal after refusal on paper.",
+      "outcome": "Application for permission dismissed.",
+      "ratio": "Section 55 Access to Justice Act 1999 bars a second-tier appeal where there has already been an appeal within the court of trial unless exceptional grounds exist; arguments that domestic ancillary relief law breaches Articles 3, 6 or 8 or that capital division was unfair do not surmount that barrier.",
+      "legal_issues": [
+        "Application of section 55 to a second appeal in ancillary relief",
+        "Human rights compatibility of section 25 Matrimonial Causes Act 1973",
+        "Weight given to obligations to adult children of the marriage versus a child born outside marriage",
+        "Calderbank/FPR costs rules in ancillary relief"
+      ],
+      "catchwords": [
+        "permission to appeal",
+        "section 55",
+        "ancillary relief",
+        "second appeal",
+        "Human Rights Act",
+        "Calderbank offer",
+        "financial remedy"
+      ],
+      "index_terms": [
+        "Principal Registry",
+        "District Judge Million",
+        "section 25 factors",
+        "margin of appreciation",
+        "education fund"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Short but complete extempore permission judgment with clear ratio on section 55."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1342.json",
+    "status": "done",
+    "notes": "Complete limitation amendment appeal under CPR 17.4 and section 35 Limitation Act.",
+    "enrichment": {
+      "short_title": "Limitation amendment allowed for solicitors' duty to advise on commercial wisdom of business purchase",
+      "area_of_law": [
+        "Professional negligence",
+        "Civil procedure",
+        "Limitation of actions",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 17.4(1)", "CPR 17.4(2)"]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": ["section 35"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Claimants bought a business in March 1995 with solicitors Roddam acting; the business failed and they consulted Brysons from 1997 but did not issue until January 2001.",
+        "Original particulars alleged failure to advise against purchase and conveyancing-related negligence; proposed amendments pleaded a broader duty to advise on commercial wisdom, client vulnerability and specific warnings by Miss Smith.",
+        "The defence denied any duty to advise on wisdom of the transaction but pleaded warnings given in October 1994 and February 1995.",
+        "Judge Behrens allowed some amendments but refused others as raising new causes of action after limitation."
+      ],
+      "procedural_posture": "Appeal against refusal of late amendments under CPR 17.4(2) after expiry of limitation.",
+      "outcome": "Appeal allowed; specified amendments permitted; claimants 60% of costs below; appeal costs in the case.",
+      "ratio": "Amendments raising a duty to advise on commercial wisdom arose out of substantially the same facts already in issue on the original pleadings and defence (including pleaded warnings and denial of advisory duty), so CPR 17.4(2)/section 35 jurisdiction existed and discretion should be exercised to permit trial of the real issues despite delay.",
+      "legal_issues": [
+        "Whether proposed amendments added a new cause of action after limitation",
+        "Whether new claims arose from the same or substantially the same facts already in issue",
+        "Goode v Martin Human Rights Act-compliant reading of CPR 17.4(2)",
+        "Exercise of discretion where claim was already stale"
+      ],
+      "catchwords": [
+        "CPR 17.4",
+        "limitation",
+        "section 35",
+        "amendment",
+        "professional negligence",
+        "solicitors' duty",
+        "commercial wisdom",
+        "same facts test"
+      ],
+      "index_terms": [
+        "Goode v Martin",
+        "Henderson v Henderson",
+        "Miss Smith warnings",
+        "business purchase",
+        "particulars of claim",
+        "Reply not required"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Goode v Martin",
+          "citation": "[2002] All ER 620",
+          "relation": "applied"
+        },
+        {
+          "name": "Lloyds Bank plc v Rogers",
+          "citation": "(unreported, CA)",
+          "relation": "applied"
+        },
+        {
+          "name": "Henderson v Henderson",
+          "citation": "(1843) 3 Hare 100",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full Court of Appeal reasoning on CPR 17.4 jurisdiction and discretion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/2443.json",
+    "status": "done",
+    "notes": "Complete TCC judgment; metadata judges field empty (Humphrey Lloyd QC sitting as judge).",
+    "enrichment": {
+      "short_title": "Adjudication enforcement not stayed where dispute was identity of correct adjudicator under letter of intent",
+      "area_of_law": [
+        "Construction law",
+        "Arbitration",
+        "Adjudication",
+        "Civil procedure",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": ["section 9"]
+        },
+        {
+          "title": "Housing Grants, Construction and Regeneration Act 1996",
+          "provisions": ["section 108"]
+        }
+      ],
+      "key_facts": [
+        "Amec carried out Tudor Street works under a letter of intent pending an amended JCT Design and Build 1998 contract.",
+        "The letter said terms including the arbitration agreement would be as in the proposed JCT form with the employer's tender schedule amendments.",
+        "The schedule named George Ashworth as adjudicator; Amec obtained a decision from adjudicator Mr Biscoe and brought Part 8 enforcement proceedings.",
+        "Whitefriars applied under section 9 Arbitration Act 1996 to stay, arguing the real dispute was whether Mr Ashworth was the correct adjudicator."
+      ],
+      "procedural_posture": "Part 8 adjudication enforcement with section 9 stay application in the Technology and Construction Court.",
+      "outcome": "Stay application dismissed; enforcement proceedings to continue.",
+      "ratio": "Work under the letter of intent was governed by the employer's proposed JCT amendments including the named adjudicator; a dispute whether the adjudicator was properly appointed falls within Article 6A's exception for enforcement disputes and is for the court, not arbitration, under section 9.",
+      "legal_issues": [
+        "Construction and interpretation of the letter of intent",
+        "Whether amended JCT terms including adjudicator nomination were incorporated",
+        "Scope of Article 6A exception for adjudication enforcement disputes",
+        "Whether section 9 stay should halt enforcement pending arbitration"
+      ],
+      "catchwords": [
+        "adjudication enforcement",
+        "section 9 stay",
+        "letter of intent",
+        "JCT Design and Build",
+        "adjudicator appointment",
+        "Article 6A",
+        "Macob v Morrison"
+      ],
+      "index_terms": [
+        "Amec Capital Projects",
+        "Whitefriars City Estate",
+        "George Ashworth",
+        "Mr Biscoe",
+        "Tudor Street",
+        "Part 8 procedure"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Macob Civil Engineering Ltd v Morrison Construction Ltd",
+          "citation": "[1999] BLR 93",
+          "relation": "applied"
+        },
+        {
+          "name": "Bouygues UK Ltd v Dahl-Jensen UK Ltd",
+          "citation": "[2000] BLR 522",
+          "relation": "considered"
+        },
+        {
+          "name": "Absolute Rentals v Gencor",
+          "citation": "17 Con LR 322",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete reserved judgment resolving stay and contractual incorporation issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/2160.json",
+    "status": "needs_review",
+    "notes": "Source summary truncated; metadata judge list polluted with cited judges; full text appears complete.",
+    "enrichment": {
+      "short_title": "GP's strike-out application refused in parents' libel claim over surgery notice",
+      "area_of_law": [
+        "Defamation",
+        "Media and communications law",
+        "Civil procedure",
+        "Human rights law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 3.1", "CPR 3.4(2)(c)", "Rule 3.4(2)(c)"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Parents of Robert Powell, who died aged 10 from undiagnosed Addison's disease in 1990, sued GPs over a 6 November 1992 surgery notice calling their HTV allegations lies and fantasy.",
+        "The claim was issued in 1995-1996; only Dr Williams remained as defendant after others were discontinued.",
+        "Dr Williams applied to strike out for delay, abuse of process and Article 6 unreasonable time, conceding a triable issue on malice but not on qualified privilege alone.",
+        "Proceedings were repeatedly stayed pending police/CPS investigations; claimants acted in person with a non-compliant Reply raising serious dishonesty allegations."
+      ],
+      "procedural_posture": "Application to strike out or stay long-running Queen's Bench libel action.",
+      "outcome": "Strike-out application refused; parties invited to address further directions.",
+      "ratio": "Although delay was inordinate and a trial would not be within a reasonable time under Article 6, the delay was largely excusable because claimants reasonably awaited public investigations; a fair trial remained possible on documents and striking out would disproportionately interfere with the claimants' access to justice.",
+      "legal_issues": [
+        "Strike out for delay under CPR 3.4 and the overriding objective",
+        "Whether delay made a fair trial impossible",
+        "Article 6 reasonable time where both parties' Convention rights conflict",
+        "Abuse of process and proportionality in stale libel claims",
+        "Pleading requirements for malice and dishonesty against a litigant in person"
+      ],
+      "catchwords": [
+        "strike out",
+        "delay",
+        "libel",
+        "Article 6",
+        "fair trial",
+        "litigant in person",
+        "qualified privilege",
+        "malice"
+      ],
+      "index_terms": [
+        "Robert Powell",
+        "Ystradgynlais Group Practice",
+        "HTV Wales this Week",
+        "Dr Williams",
+        "Biguzzi v Rank Leisure",
+        "Alithia v Cyprus"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Biguzzi v Rank Leisure plc",
+          "citation": "[1999] 1 WLR 1926",
+          "relation": "applied"
+        },
+        {
+          "name": "Gleaner Company Ltd v Abrahams",
+          "citation": "[2003] UKHL 55",
+          "relation": "considered"
+        },
+        {
+          "name": "Alithia v Cyprus",
+          "citation": "(ECtHR)",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.86,
+        "level": "high",
+        "notes": "Full judgment available despite truncated summary; some pleading issues left for future case management."
+      }
+    }
+  }
+]

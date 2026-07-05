@@ -1,0 +1,777 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/823.json",
+    "status": "done",
+    "notes": "Batch 68 enrichment",
+    "enrichment": {
+      "short_title": "Tesco employee bribe and share option forfeiture",
+      "area_of_law": [
+        "Employment law",
+        "Equity and trusts",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Evidence Act 1995",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Tesco manager Simon Pook approved false invoices totalling over £512,000 for Universal Projects and was convicted of theft.",
+        "Tesco claimed £323,749.99 paid by Delta Computer Systems was a secret bribe used partly to fund a Bishop's Stortford property purchase.",
+        "Pook counterclaimed for £51,156.58 under an executive share option scheme exercised after suspension but before dismissal.",
+        "Peter Smith J held Pook received a bribe, must account including VAT, and could not exercise share options while in breach of fiduciary duty."
+      ],
+      "procedural_posture": "Trial of residual bribe claim and share option counterclaim in Chancery proceedings after consent judgment on false invoices.",
+      "outcome": "Tesco succeeded on bribe claim and counterclaim dismissed.",
+      "ratio": "A secret payment from a third party dealing with the employer is a bribe without proof of corrupt motive; the agent holds it on trust for the principal, and an employee in serious breach of fiduciary duty cannot exercise share options while that breach would justify summary dismissal.",
+      "legal_issues": [
+        "Whether proof of motive is required to establish a bribe",
+        "Quantum including VAT on bribes held on trust",
+        "Implied term preventing exercise of share options during gross misconduct",
+        "Positive duty of senior employees to disclose fiduciary breaches"
+      ],
+      "catchwords": [
+        "bribe",
+        "secret commission",
+        "fiduciary duty",
+        "share options",
+        "employee fraud",
+        "account of profits",
+        "Hovenden"
+      ],
+      "index_terms": [
+        "Tesco Stores Ltd",
+        "Simon Pook",
+        "Universal Projects",
+        "Delta Computer Systems",
+        "Attorney General for Hong Kong v Reid",
+        "Alghussein v Eton College"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hovenden & Sons v Millhoff",
+          "citation": "83 LT 41",
+          "relation": "applied"
+        },
+        {
+          "name": "Attorney General for Hong Kong v Reid",
+          "citation": "[1994] 1 AC 324",
+          "relation": "applied"
+        },
+        {
+          "name": "In re H (Minors)",
+          "citation": "[1996] AC 568",
+          "relation": "cited"
+        },
+        {
+          "name": "Alghussein Establishment v Eton College",
+          "citation": "[1988] 1 WLR 587",
+          "relation": "cited"
+        },
+        {
+          "name": "Armagas Ltd v Mundogas SA",
+          "citation": "[1985] 1 Lloyd's Rep 1",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full trial judgment with detailed findings on bribe law, VAT quantum, and share option counterclaim."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/797.json",
+    "status": "done",
+    "notes": "Batch 68 enrichment",
+    "enrichment": {
+      "short_title": "Maersk damages for fraudulent cargo shortage claims",
+      "area_of_law": [
+        "Shipping and carriage of goods",
+        "Contract law",
+        "Tort law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Maersk Sealand sought damages for costs defending fraudulent non-delivery and delay claims brought by the Akar family in Hong Kong and Guinea.",
+        "In the first claim, customs records indicated the consignees removed textiles from a container before falsely claiming theft and pursuing inflated claims ten times the declared value.",
+        "Bills of lading contained exclusive English jurisdiction and anti-suit clauses protecting Maersk and its agents.",
+        "At an uncontested trial Flaux J awarded US$130,941.48 plus interest, declarations of fraud, indemnities, and £140,000 costs."
+      ],
+      "procedural_posture": "Uncontested Commercial Court trial under CPR Part 39.3 following worldwide freezing orders.",
+      "outcome": "Claims largely succeeded with damages, declarations, indemnities, and apportioned costs.",
+      "ratio": "Where cargo consignees fraudulently abstract goods and pursue false claims in breach of exclusive jurisdiction and anti-suit clauses in Maersk bills of lading, the carrier may recover reasonable costs of defending foreign proceedings as damages for deceit and/or breach of contract.",
+      "legal_issues": [
+        "Proof of fraud on the balance of probabilities at uncontested trial",
+        "Enforcement value of reasoned judgment against absent defendants",
+        "Breach of exclusive English jurisdiction clause",
+        "Recoverability of foreign litigation costs as contractual damages"
+      ],
+      "catchwords": [
+        "deceit",
+        "bill of lading",
+        "exclusive jurisdiction",
+        "container fraud",
+        "freight forwarder",
+        "Maersk",
+        "Union Discount v Zoller"
+      ],
+      "index_terms": [
+        "Maersk Sealand",
+        "Akar family",
+        "Conakry Guinea",
+        "Svendborg v Wansa",
+        "Berliner Bank v Karageorgis"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Berliner Bank v Karageorgis",
+          "citation": "[1996] 1 Lloyd's Rep 426",
+          "relation": "cited"
+        },
+        {
+          "name": "A/S D/S Svendborg v Wansa",
+          "citation": "[1996] 2 Lloyd's Rep 559",
+          "relation": "cited"
+        },
+        {
+          "name": "Union Discount Ltd v Zoller",
+          "citation": "[2001] EWCA Civ 1755",
+          "relation": "applied"
+        },
+        {
+          "name": "East West Corporation v DKBS 1912 A/S",
+          "citation": "[2003] EWCA Civ 83",
+          "relation": "cited"
+        },
+        {
+          "name": "Hornal v Neuberger Products Ltd",
+          "citation": "[1957] 1 QB 247",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed uncontested trial with clear findings on deceit, jurisdiction clause breach, and quantum."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/726.json",
+    "status": "done",
+    "notes": "Batch 68 enrichment",
+    "enrichment": {
+      "short_title": "Tree root subsidence claims dismissed at Laburnum Grove",
+      "area_of_law": [
+        "Tort law",
+        "Property law",
+        "Construction and engineering"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Two homeowners at Laburnum Grove, Ruislip claimed remedial costs after structural damage to houses adjacent to Ruislip Wood owned by Hillingdon Council.",
+        "The council contended damage was caused by heave from re-hydration of desiccated London Clay after pre-development tree removal, not subsidence from woodland oak roots.",
+        "Expert evidence conflicted; the court preferred Dr Hope and Mr Billingham over the claimants' experts on causation.",
+        "Both the Siddiqui and Sohanpal actions were dismissed after findings that tree roots from the wood did not cause the damage."
+      ],
+      "procedural_posture": "Consolidated TCC trial of two nuisance claims for remedial works after subsidence damage.",
+      "outcome": "Both claims dismissed.",
+      "ratio": "Claimants alleging tree-root subsidence must prove causation on the balance of probabilities; where expert evidence shows damage was caused by heave from desiccated clay at construction rather than ongoing root moisture abstraction, nuisance liability does not arise even if foreseeability issues might otherwise be debated.",
+      "legal_issues": [
+        "Subsidence versus heave on London Clay",
+        "Proof of causation in tree root nuisance claims",
+        "Reasonable foreseeability under Delaware Mansions",
+        "Opportunity to abate nuisance before recovery of underpinning costs"
+      ],
+      "catchwords": [
+        "tree root subsidence",
+        "heave",
+        "London Clay",
+        "nuisance",
+        "Delaware Mansions",
+        "expert evidence",
+        "Popi M"
+      ],
+      "index_terms": [
+        "Laburnum Grove Ruislip",
+        "Ruislip Wood",
+        "London Borough of Hillingdon",
+        "Matthew Homes",
+        "Delaware Mansions Ltd v Westminster City Council"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Delaware Mansions Ltd v Westminster City Council",
+          "citation": "[2002] 1 AC 321",
+          "relation": "applied"
+        },
+        {
+          "name": "Compania Naviera General SA v Prudential Assurance Co Ltd (The Popi M)",
+          "citation": "[1985] 2 All ER 712",
+          "relation": "applied"
+        },
+        {
+          "name": "L E Jones (Insurance Brokers) Ltd v Portsmouth City Council",
+          "citation": "[2002] EWCA Civ 1723",
+          "relation": "cited"
+        },
+        {
+          "name": "Sedleigh-Denfield v O'Callaghan",
+          "citation": "[1940] AC 880",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Very long technical judgment; core causation holdings and dismissals are clear though trial judge is not named in metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/547.json",
+    "status": "done",
+    "notes": "Batch 68 enrichment",
+    "enrichment": {
+      "short_title": "Compulsory treatment limited to classified mental disorder",
+      "area_of_law": [
+        "Mental health law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 1(2)",
+            "section 3",
+            "section 16",
+            "section 20",
+            "section 37",
+            "section 41",
+            "section 57",
+            "section 58",
+            "section 62",
+            "section 63",
+            "section 72"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A restricted patient detained at Ashworth for manslaughter was classified by tribunal as suffering mental illness, not personality disorder.",
+        "Clinicians diagnosed comorbid personality disorder and treated him on a personality disorder ward despite the classification.",
+        "The patient sought judicial review of compulsory treatment for an unclassified disorder; Tucker J dismissed the claim.",
+        "The Court of Appeal held section 63 authorises compulsory treatment only for the classified mental disorder justifying detention."
+      ],
+      "procedural_posture": "Appeal from administrative court judicial review of Ashworth Hospital treatment and placement decisions.",
+      "outcome": "Appeal allowed; compulsory treatment for unclassified personality disorder held unlawful.",
+      "ratio": "Section 63 of the Mental Health Act 1983 permits treatment without consent only for the mental disorder classified in the hospital order or tribunal decision that justifies detention, not for any clinician-diagnosed disorder; emergency treatment for non-classified disorders may still be available at common law.",
+      "legal_issues": [
+        "Construction of section 63 MHA 1983",
+        "Relationship between classification, detention, and treatability",
+        "Comorbidity and ancillary treatment",
+        "Effect of R v Anglia and Oxfordshire MHRT ex p Hagan"
+      ],
+      "catchwords": [
+        "section 63",
+        "classified mental disorder",
+        "compulsory treatment",
+        "personality disorder",
+        "restricted patient",
+        "Ashworth Hospital",
+        "comorbidity"
+      ],
+      "index_terms": [
+        "Ashworth Hospital Authority",
+        "Mental Health Review Tribunal",
+        "R v Anglia and Oxfordshire MHRT ex p Hagan",
+        "R (Wilkinson) v Broadmoor"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Anglia and Oxfordshire Mental Health Review Tribunal, ex p Hagan",
+          "citation": "[2001] LLR Med 119",
+          "relation": "discussed"
+        },
+        {
+          "name": "R (Wilkinson) v Broadmoor Special Hospital Authority",
+          "citation": "[2001] EWCA Civ 1545",
+          "relation": "cited"
+        },
+        {
+          "name": "B v Croydon Health Authority",
+          "citation": "[1995] Fam 133",
+          "relation": "cited"
+        },
+        {
+          "name": "In re F (Mental Patient: Sterilisation)",
+          "citation": "[1990] 2 AC 1",
+          "relation": "cited"
+        },
+        {
+          "name": "B v Forsey",
+          "citation": "[1988] SLT 572",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Leading CA judgment on section 63 with detailed statutory analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/722.json",
+    "status": "done",
+    "notes": "Batch 68 enrichment",
+    "enrichment": {
+      "short_title": "Without prejudice payment letter creates no charge",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Equity"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Celtic Contractors sought to continue a freezing injunction over IES funds based on a without-prejudice SAS broker letter governing payments from a Barclays joint account.",
+        "The letter proposed monthly certified payments to Celtic from Canary Wharf project receipts but contemplated a formal legal agreement.",
+        "Parties had operated under the letter for months before a payment dispute arose.",
+        "Mantell LJ upheld refusal to continue the injunction, finding no equitable charge and balance of convenience against freezing."
+      ],
+      "procedural_posture": "Appeal from refusal to continue interim freezing injunction pending sub-contract debt trial.",
+      "outcome": "Appeal dismissed with costs summarily assessed.",
+      "ratio": "A without-prejudice broker letter contemplating a future formal agreement and limiting payment to mutually agreed monthly sums does not, even if binding, create an equitable charge over a third-party bank account sufficient to justify a freezing order; American Cyanamid balance of convenience may also oppose such relief.",
+      "legal_issues": [
+        "Whether August 2002 letter was a binding agreement",
+        "Equitable charge over joint bank account funds",
+        "Effect of without-prejudice heading and pending formal agreement",
+        "Balance of convenience for freezing injunction"
+      ],
+      "catchwords": [
+        "freezing injunction",
+        "equitable charge",
+        "without prejudice",
+        "construction sub-contract",
+        "American Cyanamid",
+        "payment mechanism"
+      ],
+      "index_terms": [
+        "Celtic Contractors Ltd",
+        "Infinite Environmental Services",
+        "SAS International",
+        "Clifford Chance Canary Wharf",
+        "American Cyanamid v Ethicon"
+      ],
+      "linked_authorities": [
+        {
+          "name": "American Cyanamid Co v Ethicon Ltd",
+          "citation": "[1975] AC 396",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Short CA judgment with clear holdings on agreement, equitable interest, and injunction discretion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/953.json",
+    "status": "done",
+    "notes": "Batch 68 enrichment",
+    "enrichment": {
+      "short_title": "Local authority cannot fund return to Jamaica",
+      "area_of_law": [
+        "Social care law",
+        "Administrative law",
+        "Children law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 17",
+            "section 20"
+          ]
+        },
+        {
+          "title": "National Assistance Act 1948",
+          "provisions": [
+            "section 21"
+          ]
+        },
+        {
+          "title": "National Health Service and Community Care Act 1990",
+          "provisions": [
+            "section 47"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Jamaican mother and two daughters sought support from Oxfordshire after fleeing domestic abuse and leaving a refuge.",
+        "Social Services assessed them under section 17 and offered fares to return to Jamaica, proposing the children rejoin their father and grandparents.",
+        "The mother challenged the decision as procedurally flawed and irrational given A's mental health history and lack of welfare evidence from the father.",
+        "Maurice Kay J quashed the section 17 decision and ordered continued interim accommodation pending reassessment."
+      ],
+      "procedural_posture": "Judicial review of local authority section 17 Children Act assessment and repatriation offer.",
+      "outcome": "Judicial review succeeded; repatriation decision quashed with interim support continued.",
+      "ratio": "A local authority may discharge section 17 duties by funding return to the home country only where assessment establishes that doing so meets the children's best interests with proper inquiry into family capacity and available support; deciding children should live with their father without contacting him vitiates the decision, and repatriation is inappropriate where Jamaica offers no equivalent welfare safety net.",
+      "legal_issues": [
+        "Lawfulness of section 17 repatriation as discharge of duty",
+        "Procedural fairness and consultation with children and family abroad",
+        "Rationality of accommodation and support assumptions in Jamaica",
+        "Interaction of section 17 with section 21 National Assistance Act"
+      ],
+      "catchwords": [
+        "section 17",
+        "children in need",
+        "judicial review",
+        "repatriation",
+        "local authority support",
+        "best interests",
+        "R (G) v Barnet"
+      ],
+      "index_terms": [
+        "Oxfordshire County Council",
+        "R (Ali, Mohammed and Mohamed) v Birmingham CC",
+        "R (G) v Barnet LBC"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (G) v Barnet London Borough Council",
+          "citation": "[2001] EWCA Civ 540",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Ali, Mohammed and Mohamed) v Birmingham City Council",
+          "citation": "[2002] EWHC 1511 Admin",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full admin judgment with clear findings on both grounds of challenge."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/676.json",
+    "status": "done",
+    "notes": "Batch 68 enrichment",
+    "enrichment": {
+      "short_title": "Employer lacked knowledge of psychiatric vulnerability",
+      "area_of_law": [
+        "Employment law",
+        "Personal injury",
+        "Tort law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Former town clerk Mrs Croft obtained £197,401 after a disciplinary warning letter triggered a depressive breakdown.",
+        "She had long-standing recurrent depression but presented as robust at work and had not pleaded that councillors knew of her psychiatric history.",
+        "The trial judge inferred council knowledge from a friend's belief she saw a counsellor, unsupported by witness evidence.",
+        "Potter LJ allowed the liability appeal, holding psychiatric vulnerability and foreseeability of breakdown were not established."
+      ],
+      "procedural_posture": "Appeal with renewed permission application on liability after single judge granted leave on quantum only.",
+      "outcome": "Liability appeal allowed; judgment set aside on breach of duty.",
+      "ratio": "An employer is liable for psychiatric injury from disciplinary action only if it knew the employee was psychiatrically vulnerable and breakdown was reasonably foreseeable; belief that a colleague knew the employee attended counselling, without more, cannot establish knowledge of vulnerability sufficient to meet the Hatton primary-victim test.",
+      "legal_issues": [
+        "Employer knowledge of psychiatric vulnerability",
+        "Foreseeability of nervous breakdown from unfair warning letter",
+        "Primary victim psychiatric harm after Hatton v Sutherland",
+        "Interference with trial judge's findings of fact"
+      ],
+      "catchwords": [
+        "psychiatric injury",
+        "employer liability",
+        "Hatton v Sutherland",
+        "disciplinary procedure",
+        "foreseeability",
+        "breach of trust and confidence"
+      ],
+      "index_terms": [
+        "Broadstairs & St Peter's Town Council",
+        "Hatton v Sutherland",
+        "Bell v Lever Bros"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hatton v Sutherland",
+          "citation": "[2002] 2 All ER 1",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed CA judgment overturning liability on knowledge/foreseeability."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/570.json",
+    "status": "done",
+    "notes": "Batch 68 enrichment",
+    "enrichment": {
+      "short_title": "BIFA nine-month time bar held reasonable",
+      "area_of_law": [
+        "Commercial law",
+        "Contract law",
+        "Carriage of goods"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Unfair Contract Terms Act 1977",
+          "provisions": [
+            "section 3",
+            "section 11",
+            "section 13",
+            "Schedule 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Granville Oil claimed against freight forwarder Davis Turner for transit damage to Kuwait paint and failure to obtain all-risks insurance.",
+        "BIFA Standard Trading Conditions clause 30(B) required suit and written notice within nine months.",
+        "Underwriters rejected the insurance claim late; the claimant issued proceedings after the nine-month period.",
+        "The Court of Appeal held clause 30(B) reasonable and effective to bar the claims."
+      ],
+      "procedural_posture": "Appeal from preliminary issue trial on UCTA reasonableness of BIFA clause 30(B).",
+      "outcome": "Appeal allowed; time bar effective to bar claims.",
+      "ratio": "Clause 30(B) of the BIFA Standard Trading Conditions, requiring suit and notice within nine months, is a fair and reasonable time bar between commercial parties of equal bargaining strength for freight forwarding contracts, including failure-to-insure claims, provided the forwarder promptly notifies the customer when cover is rejected.",
+      "legal_issues": [
+        "Reasonableness under Unfair Contract Terms Act 1977",
+        "Construction of BIFA clause 30(B)",
+        "Application to failure-to-insure and cargo damage claims",
+        "Practicability of nine-month limitation for insurance disputes"
+      ],
+      "catchwords": [
+        "BIFA conditions",
+        "time bar",
+        "Unfair Contract Terms Act",
+        "freight forwarder",
+        "failure to insure",
+        "George Mitchell",
+        "reasonableness"
+      ],
+      "index_terms": [
+        "Granville Oil & Chemicals Ltd",
+        "Davis Turner & Co",
+        "Overseas Medical Supplies v Orient Transport",
+        "George Mitchell v Finney Lock Seeds"
+      ],
+      "linked_authorities": [
+        {
+          "name": "George Mitchell (Chesterfield) Ltd v Finney Lock Seeds Ltd",
+          "citation": "[1983] AC 803",
+          "relation": "applied"
+        },
+        {
+          "name": "Overseas Medical Supplies Ltd v Orient Transport Services Ltd",
+          "citation": "[1999] 2 Lloyd's Law Rep 273",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Schenkers Ltd v Overland Shoes Ltd",
+          "citation": "[1998] 1 Lloyd's Rep 498",
+          "relation": "cited"
+        },
+        {
+          "name": "S Pearson & Son Ltd v Dublin Corporation",
+          "citation": "[1907] AC 351",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear CA decision correcting judge's construction and upholding reasonableness of time bar."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/835.json",
+    "status": "done",
+    "notes": "Batch 68 enrichment",
+    "enrichment": {
+      "short_title": "CCRC misdirected on provocation appeal test",
+      "area_of_law": [
+        "Criminal law",
+        "Administrative law",
+        "Mental health and psychiatry"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": [
+            "section 13"
+          ]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 2",
+            "section 23"
+          ]
+        },
+        {
+          "title": "Homicide Act 1957",
+          "provisions": [
+            "section 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Nicholas Farnell was convicted of murder after trial where defence disavowed provocation though the judge left it to the jury in limited terms.",
+        "Psychiatric evidence on depression was relevant to provocation but was directed only on diminished responsibility; R v Smith (Morgan) later clarified the law.",
+        "The CCRC refused referral, evaluating whether provocation was sufficiently excusable rather than whether the Court of Appeal might find the conviction unsafe.",
+        "Mitchell J quashed the CCRC decision and remitted for reconsideration of referral."
+      ],
+      "procedural_posture": "Judicial review of Criminal Cases Review Commission refusal to refer murder conviction.",
+      "outcome": "CCRC decision quashed; case remitted for reconsideration.",
+      "ratio": "The CCRC must apply the 'real possibility' test predictively by asking whether the Court of Appeal might find a conviction unsafe, not substitute its own evaluation of provocation merits; in section 3 Homicide Act cases the Court of Appeal must treat jury primacy with particular caution and cannot simply decide whether the defendant's conduct was excusable.",
+      "legal_issues": [
+        "CCRC real possibility test under section 13 Criminal Appeal Act 1995",
+        "Misdirection on provocation at trial",
+        "Impact of R v Smith (Morgan) on psychiatric characteristics",
+        "Jury primacy in section 3 Homicide Act appeals"
+      ],
+      "catchwords": [
+        "CCRC",
+        "provocation",
+        "section 3 Homicide Act",
+        "diminished responsibility",
+        "fresh evidence",
+        "unsafe conviction",
+        "Smith (Morgan)"
+      ],
+      "index_terms": [
+        "Criminal Cases Review Commission",
+        "R v Smith (Morgan)",
+        "R v Pendleton",
+        "Franco v R",
+        "R v Criminal Cases Review Commission ex p Pearson"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Criminal Cases Review Commission, ex p Pearson",
+          "citation": "[2000] 1 Cr App R 141",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Hunt) v Criminal Cases Review Commission",
+          "citation": "[2001] 2 Cr App R 76",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Smith (Morgan James)",
+          "citation": "[2001] AC 146",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Pendleton",
+          "citation": "[2002] 1 WLR 72",
+          "relation": "applied"
+        },
+        {
+          "name": "Franco v R",
+          "citation": "[2001] UKPC 38",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed admin judgment on CCRC approach to provocation and fresh psychiatric evidence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/764.json",
+    "status": "done",
+    "notes": "Batch 68 enrichment",
+    "enrichment": {
+      "short_title": "Quarry EIA reasons order but permission upheld",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Local government law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999",
+          "provisions": [
+            "regulation 3(2)",
+            "regulation 21(1)"
+          ]
+        },
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288"
+          ]
+        },
+        {
+          "title": "Local Government Act 2000",
+          "provisions": [
+            "section 49"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Local residents challenged North Yorkshire's grant of permission to extend sand and gravel quarrying at Ripon City Quarry.",
+        "Councillor Paul Richardson was excluded from the planning committee meeting because of a prejudicial interest under the members' code of conduct.",
+        "The claim also alleged breach of EIA Regulations for failure to publish main reasons for the decision.",
+        "Richards J ordered publication of reasons under reg 21(1) but dismissed the challenge to the permission and code of conduct exclusion."
+      ],
+      "procedural_posture": "Judicial review of quarry planning permission and councillor exclusion under Local Government Act 2000 code of conduct.",
+      "outcome": "Claim largely dismissed; mandatory order to publish main reasons for decision; permission to appeal granted.",
+      "ratio": "Failure to make a reg 21(1) EIA statement of main reasons available for public inspection is a procedural breach remediable by mandatory order without quashing permission where environmental information was substantively considered; a councillor with a direct personal interest in a nearby quarry proposal had a prejudicial interest requiring withdrawal even if not on the deciding committee.",
+      "legal_issues": [
+        "Compliance with EIA Regulations regs 3(2) and 21(1)",
+        "Whether procedural EIA defects require quashing under Berkeley",
+        "Prejudicial interest under local authority code of conduct",
+        "Article 6 and Article 8 Convention rights of excluded councillor"
+      ],
+      "catchwords": [
+        "environmental impact assessment",
+        "planning permission",
+        "quarry",
+        "prejudicial interest",
+        "code of conduct",
+        "reg 21 statement of reasons",
+        "Berkeley"
+      ],
+      "index_terms": [
+        "North Yorkshire County Council",
+        "Ripon City Quarry",
+        "Brown and Potter Ltd",
+        "Berkeley v Secretary of State",
+        "Paul Richardson"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Berkeley v Secretary of State for the Environment",
+          "citation": "[2001] 2 AC 603",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Carlton-Conway Ltd) v London Borough of Harrow",
+          "citation": "[2002] EWCA Civ 927",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Long judgment; core outcomes on EIA procedural remedy and code of conduct are clearly stated."
+      }
+    }
+  }
+]

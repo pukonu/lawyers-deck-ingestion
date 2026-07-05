@@ -1,0 +1,759 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1559.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on ship mortgage enforcement and guarantor defences.",
+    "enrichment": {
+      "short_title": "Ship mortgagee's Panama arrest not a breach of equitable duties or trading-contract obligation",
+      "area_of_law": [
+        "Banking and finance",
+        "Maritime law",
+        "Mortgage law",
+        "Guarantee law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Den Norske Bank lent US$6 million secured on three Cyprus-registered vessels and a guarantee governed by English law after repeated events of default.",
+        "The Bank arrested Tropical Reefer in Panama while laden with bananas; cargo disposal costs and a cargo claim reduced sale proceeds, and the Bank then pursued Acemex under the guarantee for about US$815,000.",
+        "Guarantors argued the Bank should have waited to arrest in Germany and that arrest interfered with the shipowner's contracts of carriage."
+      ],
+      "procedural_posture": "Appeal from summary judgment in the Commercial Court on a guarantee claim following vessel arrest and sale.",
+      "outcome": "Appeal dismissed; summary judgment for the Bank upheld.",
+      "ratio": "A mortgagee exercising contractual powers of arrest and sale after default is not bound to defer enforcement to maximise sale proceeds or to avoid cargo-related costs, and general equitable duties on sale require reasonable care to obtain a proper price at the date of sale rather than a duty to choose the most advantageous time or place; ship-mortgage authorities on non-interference with charterers' contracts do not assist guarantors where the loan and mortgage documents expressly authorise arrest and sale on default.",
+      "legal_issues": [
+        "Whether a mortgagee owed equitable duties when arresting and selling a laden ship in Panama rather than in Germany",
+        "Whether arrest breached an implied obligation not to interfere with the mortgagor's contracts of employment of the vessel",
+        "Whether any such breach discharged or reduced the guarantors' liability"
+      ],
+      "catchwords": [
+        "ship mortgage",
+        "guarantee",
+        "power of sale",
+        "equitable duties",
+        "vessel arrest",
+        "De Mattos v Gibson",
+        "Silven Properties"
+      ],
+      "index_terms": [
+        "Cyprus ship mortgage",
+        "Panama arrest",
+        "perishable cargo",
+        "maritime lien",
+        "loan facility default",
+        "summary judgment",
+        "Downsview Nominees"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Silven Properties Ltd v Royal Bank of Scotland",
+          "citation": "[2003] EWCA Civ 1409"
+        },
+        {
+          "name": "Downsview Nominees Ltd v First City Corporation",
+          "citation": "[1993] AC 295"
+        },
+        {
+          "name": "De Mattos v Gibson",
+          "citation": "(1859) 4 De G & J 276"
+        },
+        {
+          "name": "The Myrto",
+          "citation": "[1977] 2 Lloyd's Rep 243"
+        },
+        {
+          "name": "Johnson v Royal Mail Steam Packet Co",
+          "citation": "(1867) LR 3 CP 38"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full judgment text available with clear findings on both equitable and shipping arguments."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2775.json",
+    "status": "done",
+    "notes": "Very long but complete administrative court judgment; claim succeeded only on BPEO ground.",
+    "enrichment": {
+      "short_title": "Landfill planning permission quashed for failure to assess best practicable environmental option",
+      "area_of_law": [
+        "Planning law",
+        "Environmental law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Town and Country Planning Act 1990",
+          "provisions": ["s 70(2)", "s 54A"]
+        },
+        {
+          "name": "Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999",
+          "provisions": ["reg 2", "reg 3(2)", "Schedule 4"]
+        },
+        {
+          "name": "Waste Management Licensing Regulations 1994",
+          "provisions": ["Schedule 4"]
+        },
+        {
+          "name": "Council Directive 75/442/EEC (Waste Framework Directive)",
+          "provisions": ["Art 4"]
+        }
+      ],
+      "key_facts": [
+        "Derbyshire County Council granted planning permission in December 2002 for landfill of about 850,000 cubic metres of waste at Smith's void, former Glapwell Colliery, to reclaim a despoiled site.",
+        "Local resident Mr Blewett, who complained of dust, odour and noise from existing nearby landfills, challenged the decision by judicial review on environmental-statement, waste-objective and BPEO grounds.",
+        "The council's officer reports addressed noise and odour mitigation but did not carry out a proper BPEO analysis in line with Waste Strategy 2000."
+      ],
+      "procedural_posture": "Judicial review of grant of planning permission after permission granted on 29 April 2003.",
+      "outcome": "Claim succeeded on ground (3) only; planning permission quashed; permission to appeal granted on BPEO point of principle; council ordered to pay 50% of claimant's costs.",
+      "ratio": "A waste planning authority must treat BPEO policies in Waste Strategy 2000 as requiring development to be in line with BPEO assessment rather than as a discretionary material consideration, and failure to undertake a proper BPEO analysis can make landfill permission unlawful even where environmental-statement and waste-framework objective challenges fail; deficiencies in an environmental statement do not automatically deprive the authority of power to grant permission where the document reasonably meets Schedule 4 requirements.",
+      "legal_issues": [
+        "Whether the environmental statement unlawfully deferred groundwater and human-health assessment and mitigation",
+        "Whether the council failed to keep waste-framework objectives on noise and odour in mind",
+        "Whether permission was granted without the required BPEO assessment under Waste Strategy 2000"
+      ],
+      "catchwords": [
+        "judicial review",
+        "planning permission",
+        "landfill",
+        "environmental statement",
+        "BPEO",
+        "waste framework objectives",
+        "Waste Strategy 2000"
+      ],
+      "index_terms": [
+        "Glapwell Colliery",
+        "Derbyshire",
+        "EIA regulations",
+        "proximity principle",
+        "waste hierarchy",
+        "Thornby Farms",
+        "Murray v Derbyshire"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (Murray) v Derbyshire County Council",
+          "citation": "[2002] EWCA Civ 31"
+        },
+        {
+          "name": "R v Cornwall County Council ex parte Hardy",
+          "citation": "[2001] JPL 786"
+        },
+        {
+          "name": "Smith v Secretary of State for the Environment",
+          "citation": "[2003] EWCA Civ 262"
+        },
+        {
+          "name": "Gillespie v Secretary of State for the Environment",
+          "citation": "[2003] EWCA Civ 400"
+        },
+        {
+          "name": "R (Burkett) v Hammersmith & Fulham London Borough Council",
+          "citation": "[2002] 1 WLR 1593"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Extremely long judgment but complete; outcome and ratio on each ground clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1991.json",
+    "status": "done",
+    "notes": "Source summary field truncated; full_text appears complete through permission refusal.",
+    "enrichment": {
+      "short_title": "Permission refused to appeal fragmented UCL employment tribunal decisions",
+      "area_of_law": [
+        "Employment law",
+        "Discrimination law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Equal Pay Act 1970",
+          "provisions": ["s 2(4)"]
+        },
+        {
+          "name": "Sex Discrimination Act 1975",
+          "provisions": []
+        },
+        {
+          "name": "Limitation Act 1980",
+          "provisions": ["s 32(1)"]
+        },
+        {
+          "name": "Employment Tribunals Act 1996",
+          "provisions": ["s 37(1)"]
+        },
+        {
+          "name": "Human Rights Act 1998",
+          "provisions": ["Art 6"]
+        }
+      ],
+      "key_facts": [
+        "Miss Riniker, a German teacher at University College London for about 15 years, brought multiple separate tribunal claims from 1992 onwards alleging unfair dismissal, equal pay/pension discrimination and sex discrimination.",
+        "Tribunal case management split the claims; equal pay claim 8812/94 was struck out as out of time after Preston, sex discrimination in that claim was struck out as misconceived, and other claims failed on jurisdiction or merits.",
+        "The litigant in person sought permission to appeal four EAT decisions to the Court of Appeal after lengthy procedural history and a delayed EAT judgment."
+      ],
+      "procedural_posture": "Application for permission to appeal to the Court of Appeal from Employment Appeal Tribunal refusals.",
+      "outcome": "Permission to appeal refused on all four applications.",
+      "ratio": "The Court of Appeal on permission applications reviews only errors of law in the employment tribunal, not EAT procedure; fragmented tribunal claims must be treated as separate proceedings; section 32 Limitation Act 1980 does not apply to equal pay time limits; equal pay and sex discrimination claims are mutually exclusive; preliminary hearings and case-management splitting are Article 6 compliant; absence from hearings after deliberate non-attendance does not breach fair trial rights.",
+      "legal_issues": [
+        "Whether the Court of Appeal could review EAT procedure and human-rights points beyond tribunal error of law",
+        "Whether equal pay claim 8812/94 was in time and distinct from sex discrimination",
+        "Whether tribunal case management unlawfully fragmented the claimant's overall case",
+        "Whether unfair-dismissal jurisdiction and contract conclusions were legally flawed"
+      ],
+      "catchwords": [
+        "permission to appeal",
+        "employment tribunal",
+        "equal pay",
+        "sex discrimination",
+        "limitation",
+        "Article 6",
+        "case management"
+      ],
+      "index_terms": [
+        "University College London",
+        "litigant in person",
+        "Preston",
+        "Oliver v JP Malnick",
+        "Vento",
+        "continuous employment",
+        "pension scheme"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Vento v Chief Constable of West Yorkshire Police (No 2)",
+          "citation": "[2003] 1 IRLR 102"
+        },
+        {
+          "name": "Preston v Wolverhampton Healthcare NHS Trust",
+          "citation": "[2001] IRLR 237"
+        },
+        {
+          "name": "Oliver v JP Malnick & Co (No 2)",
+          "citation": "[1984] ICR 458"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Full judgment text present despite truncated summary metadata; complex procedural history synthesised from complete paragraphs."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1549.json",
+    "status": "done",
+    "notes": "Complete boundary appeal including post-judgment rulings on damages and costs.",
+    "enrichment": {
+      "short_title": "Neighbour boundary corrected where judge misaligned fence line with 1980 evidence",
+      "area_of_law": [
+        "Property law",
+        "Boundary disputes",
+        "Neighbour disputes",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Neighbours disputed the boundary between 8 and 6 Greystone Gardens over roughly 150mm affecting a planned extension; the county court judge ordered removal of fence posts and awarded £20,625 damages.",
+        "Evidence showed a 1980 fence marked the boundary, a 1992 brick planter was wholly south of that fence, and concrete post Datum B aligned with the former fence line.",
+        "The judge's credibility findings against the appellants did not justify placing the boundary south of Datum B."
+      ],
+      "procedural_posture": "Appeal from Willesden County Court boundary, injunction and damages judgment, with further rulings on damages and costs after appeal judgment.",
+      "outcome": "Appeal allowed on boundary line; mandatory injunction and damages award set aside; appellants awarded 30% of costs below and 60% of appeal costs; £500 recompense for fence removal.",
+      "ratio": "Boundary determination requires analysis of physical features and historical use, not automatic preference for one party's witnesses; where a 1980 fence was accepted as marking the boundary and a 1992 planter sat entirely south of it, the boundary should follow that fence alignment through Datum B; an interim injunction over brick piers was not an effective cause of delay damages where the central dispute was fence position at Datum B.",
+      "legal_issues": [
+        "Where the true boundary lay between Datum A and Datum B",
+        "Whether credibility findings against the Kupfers determined the boundary line",
+        "Whether an injunction over brick piers caused the respondent's building delay and damages",
+        "How costs should reflect success on the central boundary issue"
+      ],
+      "catchwords": [
+        "boundary dispute",
+        "residential neighbours",
+        "fence line",
+        "credibility findings",
+        "injunction causation",
+        "trespass",
+        "Alan Wibberley"
+      ],
+      "index_terms": [
+        "Greystone Gardens",
+        "Datum B",
+        "brick planter",
+        "1980 fence",
+        "County Ltd v Girozentrale",
+        "indemnity costs"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Alan Wibberley Building Ltd v Insley",
+          "citation": "[1998] 1 WLR 893"
+        },
+        {
+          "name": "County Ltd v Girozentrale Securities",
+          "citation": "[1996] 3 All ER 834"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Detailed factual judgment with clear appellate reasoning and supplementary costs/damages rulings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2940.json",
+    "status": "done",
+    "notes": "Complete confiscation appeal judgment on late-joining conspirator.",
+    "enrichment": {
+      "short_title": "Confiscation order quashed where late-joining conspirator obtained no benefit",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation",
+        "Sentencing and proceeds of crime"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Criminal Justice Act 1988",
+          "provisions": ["s 71"]
+        },
+        {
+          "name": "Theft Act 1968",
+          "provisions": ["s 15", "s 15(2)"]
+        }
+      ],
+      "key_facts": [
+        "Olubitan was convicted of conspiracy to defraud involving Silverbrook Ltd's mobile phone and computer equipment frauds in late 2000.",
+        "Successful consignments worth about £246,000 were obtained before Olubitan joined the conspiracy on 7 December 2000; his only involvement was a dummy consignment intercepted by police.",
+        "The trial judge ordered confiscation of £88,199.53 as half the conspirators' total benefit, but the realisable amount was not appealed."
+      ],
+      "procedural_posture": "Appeal to Court of Appeal (Criminal Division) against confiscation order by leave of the single judge.",
+      "outcome": "Appeal allowed; confiscation order quashed.",
+      "ratio": "Under section 71(4) of the Criminal Justice Act 1988 a defendant's benefit is the value of property he personally obtained or the pecuniary advantage he derived; joining an existing conspiracy makes a defendant guilty of the offence but does not automatically attribute earlier conspiratorial gains to him for confiscation, and where a late joiner obtained nothing from his own participation a confiscation order cannot be based on speculative sharing of earlier proceeds.",
+      "legal_issues": [
+        "Whether a conspirator who joins late is liable for confiscation based on total conspiracy proceeds",
+        "Proper construction of 'benefit' and 'obtains' in section 71(4)",
+        "Application of R v McKechnie to defendants with limited participation"
+      ],
+      "catchwords": [
+        "confiscation order",
+        "conspiracy to defraud",
+        "benefit obtained",
+        "section 71 CJA 1988",
+        "late joiner",
+        "McKechnie"
+      ],
+      "index_terms": [
+        "Silverbrook Ltd",
+        "proceeds of crime",
+        "dummy consignment",
+        "balance of probabilities",
+        "equal division inference"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v McKechnie",
+          "citation": "[2002] EWCA Crim 3161"
+        },
+        {
+          "name": "R v Gokal",
+          "citation": "unreported, Buxton J"
+        },
+        {
+          "name": "R v Rees",
+          "citation": "first instance, Auld J"
+        },
+        {
+          "name": "R v Patel",
+          "citation": "[2000] 2 Cr App R(S) 10"
+        }
+      ],
+      "confidence": {
+        "score": 0.97,
+        "level": "high",
+        "notes": "Clear statutory analysis with complete factual and authority review."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/2632.json",
+    "status": "done",
+    "notes": "Complete Commercial Court forum conveniens judgment on reinsurance declarations.",
+    "enrichment": {
+      "short_title": "English service out set aside for Venezuelan oil-pollution reinsurance disputes",
+      "area_of_law": [
+        "Insurance and reinsurance",
+        "Conflict of laws",
+        "Civil procedure",
+        "Commercial law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "London-market reinsurers sought declarations that they need not indemnify Bermudan/Venezuelan PDV Insurance in respect of two PDVSA pipeline pollution losses in Venezuela in 1998 and 2001.",
+        "Gross J had permitted service out on grounds including English law, London placing and alleged jurisdiction clauses in reinsurance slips.",
+        "Moore-Bick J held the attached dispute clause applied only to US/Canadian claims, not the whole contract, and Venezuela was the appropriate forum."
+      ],
+      "procedural_posture": "Application to set aside orders permitting service of English declaration proceedings out of the jurisdiction.",
+      "outcome": "Orders for service out set aside in both actions; proceedings in England not to continue.",
+      "ratio": "An agreement to submit to English jurisdiction is a strong factor favouring service out, but a disputes clause attached to a London-market slip may apply only to the US/Canadian jurisdiction condition it identifies rather than the whole reinsurance contract; where pollution losses, witnesses, documents and Venezuelan limitation and notification issues are centred in Venezuela, England is not clearly the appropriate forum despite English governing law on the reinsurance contract.",
+      "legal_issues": [
+        "Whether reinsurance slips contained an effective English jurisdiction clause for all disputes",
+        "Whether England was clearly the appropriate forum under Spiliada",
+        "Whether limitation, notification, causation and landowner-contract issues were better tried in Venezuela"
+      ],
+      "catchwords": [
+        "service out of jurisdiction",
+        "forum conveniens",
+        "reinsurance",
+        "jurisdiction clause",
+        "London market slip",
+        "pollution liability",
+        "Spiliada"
+      ],
+      "index_terms": [
+        "PDV Insurance",
+        "Mercantil Seguros",
+        "PDVSA",
+        "Rio Guanipa",
+        "Campo Limon",
+        "NMA 1684",
+        "anti-suit declarations"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Spiliada Maritime Corp v Cansulex Ltd",
+          "citation": "[1987] AC 460"
+        },
+        {
+          "name": "BAE plc v Dee Howard Co",
+          "citation": "[1993] 1 Lloyd's Rep 368"
+        },
+        {
+          "name": "Mercury Communications v Communications Telesystems International",
+          "citation": "[1999] 2 All ER 33"
+        },
+        {
+          "name": "The Abidin Daver",
+          "citation": "[1984] AC 398"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete first-instance judgment with detailed contractual and forum analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2807.json",
+    "status": "done",
+    "notes": "Complete Companies Court appeal on rescission time extension.",
+    "enrichment": {
+      "short_title": "Seven-day rescission period not extended after late discovery of VAT petition winding up",
+      "area_of_law": [
+        "Insolvency law",
+        "Company law",
+        "Tax law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Insolvency Rules 1986",
+          "provisions": ["r 4.83(c)", "r 7.47(4)"]
+        }
+      ],
+      "key_facts": [
+        "Oakwood Storage Services Ltd lost bonded-warehouse approval, was struck off and restored to the register, while Customs pursued a VAT assessment and presented a petition based on an estimated £18,304 liability.",
+        "The petition was served at the former registered office the directors no longer accessed; the company was wound up on 9 April 2003 before directors discovered the order in mid-April.",
+        "Directors applied to rescind the winding-up order in June 2003, over seven days late, while Customs owed substantial tribunal costs that likely exceeded the petition debt."
+      ],
+      "procedural_posture": "Appeal to High Court against registrar's refusal to extend time to apply to rescind a winding-up order.",
+      "outcome": "Appeal dismissed; refusal to extend time under rule 7.47(4) upheld.",
+      "ratio": "Rule 7.47(4) requires rescission applications within seven days for good reason; where directors learned of a winding-up order in mid-April but delayed until June without urgency, without adequate explanation and without evidence supporting extension, the registrar properly exercised discretion to refuse extension even though a timely application might have succeeded on the merits given a cross-claim to costs exceeding the petition debt.",
+      "legal_issues": [
+        "Whether the VAT petition was validly served at the registered office",
+        "Whether the registrar misdirected herself on service, bond security and proportionality",
+        "Whether there was sufficient excuse to extend time under rule 7.47(4)"
+      ],
+      "catchwords": [
+        "winding up order",
+        "rescission",
+        "Insolvency Rules 7.47",
+        "extension of time",
+        "petition service",
+        "Customs and Excise",
+        "bonded warehouse"
+      ],
+      "index_terms": [
+        "Oakwood Storage",
+        "VAT assessment",
+        "registered office",
+        "VAT Tribunal costs",
+        "restoration to register",
+        "public authority proportionality"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full chronology and discretion analysis available in approved judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2769.json",
+    "status": "done",
+    "notes": "Complete pre-trial Chancery judgment on late amendments and freezing relief.",
+    "enrichment": {
+      "short_title": "Sierra Leone allowed late contract claims after abandoning embassy fraud case",
+      "area_of_law": [
+        "Contract law",
+        "Property law",
+        "Company law",
+        "Civil procedure",
+        "Equitable remedies"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Law of Property (Miscellaneous Provisions) Act 1989",
+          "provisions": ["s 2"]
+        },
+        {
+          "name": "Land Registration Act 2002",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Sierra Leone assigned its London embassy lease at 33 Portland Place to Capricorn, a Nevis company controlled by Edward Davenport, for £50,000 under a 1999 agreement promising refurbishment and an underlease or alternative embassy accommodation.",
+        "After expert inspection in August 2003 showed the 1999 leasehold interest had negative value and no refurbishment had occurred, the government abandoned its £5 million fraud claim on the eve of trial.",
+        "It sought extensive amendments to plead uncertainty, section 2 invalidity, breach of contract and alter-ego liability against Davenport."
+      ],
+      "procedural_posture": "Pre-trial applications to amend pleadings, strike out alter-ego allegations, discharge a worldwide freezing order and grant property-preservation relief.",
+      "outcome": "Permission to amend granted; alter-ego/agency pleading allowed; freezing order against Davenport discharged; injunction granted restraining Capricorn from dealing with Portland Place.",
+      "ratio": "Late radical amendments may be permitted where a fraud claim is abandoned as groundless, the proposed uncertainty, section 2 and breach claims are seriously arguable, delay is partly attributable to the defendant obstructing inspection, and the defendant cannot show irremediable prejudice; a controlling shareholder may be sued on a company contract if pleaded facts could infer agency or nominee status, but a long-standing freezing order based on abandoned fraud should be discharged where substantial damages are not the primary remedy sought.",
+      "legal_issues": [
+        "Whether late amendments should be allowed after abandonment of the fraud claim",
+        "Whether Capricorn could be treated as Davenport's alter ego, agent or nominee",
+        "Whether the worldwide freezing order against Davenport should continue",
+        "Whether Capricorn should be restrained from disposing of Portland Place"
+      ],
+      "catchwords": [
+        "late amendment",
+        "freezing order",
+        "alter ego",
+        "agency",
+        "section 2 LP(MP)A 1989",
+        "embassy property",
+        "restitution"
+      ],
+      "index_terms": [
+        "33 Portland Place",
+        "Edward Davenport",
+        "Capricorn Financial Investments",
+        "Worldwide Corp v GPT",
+        "Salomon",
+        "Hyundai Engineering",
+        "Trustor v Smallbone"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Worldwide Corp Ltd v GPT Ltd",
+          "citation": "CA, 2 December 1998"
+        },
+        {
+          "name": "Salomon v A Salomon and Co Ltd",
+          "citation": "[1897] AC 22"
+        },
+        {
+          "name": "Hyundai Engineering and Construction Co Ltd v HRH Jefri Bolkiah",
+          "citation": "V-C, 9 March 2001"
+        },
+        {
+          "name": "Trustor AB v Smallbone",
+          "citation": "[2001] 1 WLR 1177"
+        },
+        {
+          "name": "Lloyds Bowmaker Ltd v Britannia Arrow Holdings plc",
+          "citation": "[1988] 1 WLR 1337"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long but complete interlocutory judgment with detailed procedural and pleading analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2612.json",
+    "status": "done",
+    "notes": "Complete administrative court judgment refusing coroner JR and fresh inquest.",
+    "enrichment": {
+      "short_title": "Coroner inquest verdict upheld despite fresh medical evidence on head injury delay",
+      "area_of_law": [
+        "Coroner law",
+        "Administrative law",
+        "Medical negligence",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Coroners Act 1988",
+          "provisions": ["s 13"]
+        },
+        {
+          "name": "Coroners Rules 1984",
+          "provisions": ["r 37"]
+        },
+        {
+          "name": "Human Rights Act 1998",
+          "provisions": ["Art 2", "Art 6"]
+        }
+      ],
+      "key_facts": [
+        "John Bunker suffered a head injury during a scuffle with a shop manager in February 2001, declined hospital transport after ambulance assessment, was arrested and later vomited at the police station before hospital treatment; he died the next day.",
+        "A jury inquest in November 2001 returned accidental death after Rule 37 statements were read for absent witnesses and an adjournment request was refused.",
+        "Post-inquest reports from consultants Gavalas and Watkins suggested earlier treatment might have improved survival chances."
+      ],
+      "procedural_posture": "Judicial review of inquest verdict and application under section 13 Coroners Act 1988 for a fresh inquest.",
+      "outcome": "Judicial review claim dismissed; application for fresh inquest refused.",
+      "ratio": "Rule 37 admission of witness statements is lawful where evidence is unlikely to be disputed and no timely objection is made; restriction of cross-examination to conduct rather than policy guidance is proper; alleged delay between police station departure and hospital treatment does not establish a large unexplained gap on the evidence; fresh medical opinion based on fuller treatment assumptions does not make a fresh inquest necessary where the inquest was not a death-in-custody neglect case and any clinical failings are better pursued in civil proceedings.",
+      "legal_issues": [
+        "Whether Rule 37 use of witness statements rendered the inquest unfair",
+        "Whether cross-examination was improperly restricted",
+        "Whether the coroner should have adjourned for new medical evidence",
+        "Whether fresh expert evidence required a fresh inquest under section 13"
+      ],
+      "catchwords": [
+        "coroner inquest",
+        "accidental death",
+        "Rule 37 statements",
+        "fresh inquest",
+        "section 13 Coroners Act",
+        "head injury",
+        "death in custody"
+      ],
+      "index_terms": [
+        "John Bunker",
+        "Richer Sounds",
+        "ambulance refusal",
+        "Glasgow coma scale",
+        "Jamieson neglect test",
+        "Amin Article 2"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v North Humberside Coroner ex parte Jamieson",
+          "citation": "[1995] QB 1"
+        },
+        {
+          "name": "R v HM Coroner ex parte Douglas-Williams",
+          "citation": "[1999] 1 All ER 344"
+        },
+        {
+          "name": "R (Amin) v Home Secretary",
+          "citation": "[2002] 3 WLR 505"
+        },
+        {
+          "name": "In re Rapier, deceased",
+          "citation": "[1988] 1 QB 26"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Comprehensive judgment covering all five JR grounds and section 13 test."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1574.json",
+    "status": "done",
+    "notes": "Complete procedural and substantive judgment on Consumer Credit Act enforcement appeal.",
+    "enrichment": {
+      "short_title": "Consumer credit enforceability point allowed after failure to seek extension of time",
+      "area_of_law": [
+        "Consumer credit",
+        "Mortgage possession",
+        "Civil procedure",
+        "Property finance"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Consumer Credit Act 1974",
+          "provisions": ["ss 60-65", "s 127(1)", "s 127(3)", "s 139"]
+        },
+        {
+          "name": "Consumer Credit (Agreements) Regulations 1983",
+          "provisions": ["reg 6", "Schedule 6"]
+        },
+        {
+          "name": "Supreme Court Act 1981",
+          "provisions": ["s 9(1)(a)"]
+        }
+      ],
+      "key_facts": [
+        "Mrs Turner borrowed in 1992 secured on her Formby home; possession proceedings began in 1993 and she later sought to counterclaim that the agreement was not properly executed under the Consumer Credit Act 1974.",
+        "District Judge Bryce limited the counterclaim in March 2001; permission to appeal was granted eight months late without an extension application or supporting evidence.",
+        "Judge Appleton dismissed the appeal for want of extension of time, though he considered the enforceability argument had merit."
+      ],
+      "procedural_posture": "Court of Appeal resolving appeal route, then allowing appeal from circuit judge's refusal to extend time to appeal a county court case-management order.",
+      "outcome": "Appeal allowed; defendant permitted to pursue enforceability declaration as a preliminary issue subject to no restitution of past payments; defendant to pay costs of appeals.",
+      "ratio": "Failure to apply for extension of time to appeal is an irregularity curable under CPR 3.10 and 3.9 where justice requires; a conditional order barring restitution can mitigate prejudice; a borrower should be allowed to try whether a regulated agreement was improperly executed under sections 60-65 and section 127(3) as a preliminary issue rather than leaving enforceability unresolved until possession enforcement.",
+      "legal_issues": [
+        "Correct appeal route from a circuit judge's time-limit decision",
+        "Whether CPR 3.10 permitted waiver of missing extension application and evidence",
+        "Whether the borrower should be allowed to plead improper execution and section 127(3) unenforceability",
+        "Appropriate costs and conditional orders"
+      ],
+      "catchwords": [
+        "Consumer Credit Act 1974",
+        "proper execution",
+        "section 127(3)",
+        "extension of time",
+        "CPR 3.9",
+        "CPR 3.10",
+        "possession proceedings"
+      ],
+      "index_terms": [
+        "regulated agreement",
+        "extortionate credit bargain",
+        "Sayers v Clarke Walker",
+        "Foenander v Bond Lewis",
+        "conditional order",
+        "Watchtower v Payne"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Sayers v Clarke Walker",
+          "citation": "[2002] EWCA Civ 645"
+        },
+        {
+          "name": "Foenander v Bond Lewis & Co",
+          "citation": "[2001] EWCA Civ 759"
+        },
+        {
+          "name": "Watchtower Investments Ltd v Payne",
+          "citation": "[2001] EWCA Civ 1159"
+        },
+        {
+          "name": "Price v Price",
+          "citation": "[2003] EWCA Civ 888"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full procedural history and substantive Consumer Credit analysis present."
+      }
+    }
+  }
+]

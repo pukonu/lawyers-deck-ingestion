@@ -1,0 +1,831 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1272.json",
+    "status": "done",
+    "notes": "Batch 80 enrichment",
+    "enrichment": {
+      "short_title": "MHRT adjournment to hear responsible medical officer",
+      "area_of_law": [
+        "Mental health law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 1(2)",
+            "section 37",
+            "section 41",
+            "section 72"
+          ]
+        },
+        {
+          "title": "Mental Health Review Tribunal Rules 1983 (SI 1983/946)",
+          "provisions": [
+            "rule 15",
+            "rule 16"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 5(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Patient X, detained under sections 37 and 41 after serious 1988 offences, applied to the Mental Health Review Tribunal for discharge.",
+        "Expert evidence conflicted on whether he still suffered a mental disorder within the meaning of the Act.",
+        "After a long hearing the Tribunal adjourned to require attendance and a report from the responsible medical officer, Dr T, who had not produced a report or given evidence.",
+        "X sought judicial review, arguing the late adjournment was procedurally unfair and that the Tribunal should decide on the material before it."
+      ],
+      "procedural_posture": "Judicial review of a Mental Health Review Tribunal decision to adjourn a discharge application.",
+      "outcome": "Claim dismissed; the Tribunal's adjournment was held lawful though procedurally flawed, and permission to appeal was refused.",
+      "ratio": "A Mental Health Review Tribunal may adjourn of its own motion under rule 16 to obtain further information where necessary to reach the correct decision, but must invite submissions before adjourning; a breach of procedural propriety does not automatically make the adjournment unlawful if the Tribunal reasonably regarded further evidence from the RMO as necessary in a serious public-interest case.",
+      "legal_issues": [
+        "Whether MHRT proceedings are adversarial or inquisitorial",
+        "Power to adjourn after evidence and submissions have concluded",
+        "Procedural fairness and Article 5(4) delay",
+        "Whether seeking evidence from the RMO was an improper attempt to bolster the hospital's case"
+      ],
+      "catchwords": [
+        "Mental Health Review Tribunal",
+        "section 41 restriction order",
+        "adjournment",
+        "responsible medical officer",
+        "Article 5",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Mental Health Act 1983",
+        "MHRT Rules 1983",
+        "psychopathic disorder",
+        "absolute discharge",
+        "W v Egdell",
+        "B v Mental Health Review Tribunal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "W v Egdell",
+          "citation": "[1990] Ch 359",
+          "relation": "cited"
+        },
+        {
+          "name": "B v Mental Health Review Tribunal and the Secretary of State",
+          "citation": "[2002] EWHC 1553 Admin",
+          "relation": "cited"
+        },
+        {
+          "name": "C v London & South West Mental Health Review Tribunal",
+          "citation": "[2002] 1 WLR 176",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full judgment text with clear reasoning on adjournment powers and procedural fairness."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1284.json",
+    "status": "done",
+    "notes": "Batch 80 enrichment",
+    "enrichment": {
+      "short_title": "Section 20B and advance service charge payments",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Landlord and Tenant Act 1985",
+          "provisions": [
+            "section 18",
+            "section 19",
+            "section 20B"
+          ]
+        },
+        {
+          "title": "Landlord and Tenant Act 1987",
+          "provisions": [
+            "section 20B (insertion into 1985 Act)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Tenants at 27 Lennox Gardens challenged service charge accounting for years ending March 1999 and 2000.",
+        "Final accounts were issued in October 2001, more than 18 months after some expenditure was incurred.",
+        "Actual expenditure was less than quarterly payments on account, so no balancing demand was made.",
+        "Master Price had declared section 20B inapplicable where expenditure was covered by advance service charges."
+      ],
+      "procedural_posture": "Appeal from a Chancery Master’s determination of a preliminary issue on section 20B of the Landlord and Tenant Act 1985.",
+      "outcome": "Appeal dismissed; Master Price’s construction of section 20B was upheld.",
+      "ratio": "Section 20B applies only where a further demand is required because actual expenditure exceeds payments on account; quarterly on-account payments are themselves service charges within section 18, and the issue of a final certificate and account is not a demand for payment where no balance is outstanding.",
+      "legal_issues": [
+        "Whether section 20B applies to expenditure covered by advance service charge payments",
+        "Whether final accounts constitute a demand for payment under section 20B(1)",
+        "Interaction of sections 19(2) and 20B",
+        "Policy behind the 18-month limitation"
+      ],
+      "catchwords": [
+        "service charge",
+        "section 20B",
+        "payments on account",
+        "landlord and tenant",
+        "18-month time limit",
+        "lease covenants"
+      ],
+      "index_terms": [
+        "Gilje",
+        "Charlegrove Securities",
+        "Lennox Gardens",
+        "Landlord and Tenant Act 1985",
+        "service charge accounting"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed statutory analysis with clear outcome on a discrete preliminary issue."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/709.json",
+    "status": "done",
+    "notes": "Batch 80 enrichment",
+    "enrichment": {
+      "short_title": "Freezing order against Congo refused on notice",
+      "area_of_law": [
+        "Civil procedure",
+        "Conflict of laws",
+        "Banking and finance"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Kensington held a summary judgment for about US$57m against the Republic of the Congo under a 1984 loan agreement with waived sovereign immunity.",
+        "Tomlinson J refused contractual injunctive relief; Kensington then applied ex parte for a Mareva-style freezing order covering Congo oil entities SNPC, SNPC UK and Olearius.",
+        "Morison J declined to hear the application without notice and directed inter partes hearing with notice to the Congo and related entities.",
+        "The Court of Appeal held Morison J’s discretionary decision could not be impugned on appeal."
+      ],
+      "procedural_posture": "Appeal against a refusal to grant a without-notice freezing injunction pending enforcement of a debt judgment.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Where a creditor seeks a wide freezing order against a foreign state and related oil-trading entities after prior enforcement steps and a contested injunction trial, an appellate court will not interfere with a judge’s decision that justice requires notice and an inter partes hearing unless the decision was one the judge could not reasonably reach.",
+      "legal_issues": [
+        "Whether Mareva relief should be granted ex parte against a foreign sovereign",
+        "Risk of asset dissipation in large-scale oil trading structures",
+        "Appropriate scope and notice requirements for freezing orders",
+        "Relationship between judgment debt enforcement and injunctive relief"
+      ],
+      "catchwords": [
+        "Mareva injunction",
+        "freezing order",
+        "sovereign immunity",
+        "debt enforcement",
+        "Republic of the Congo",
+        "without notice"
+      ],
+      "index_terms": [
+        "Kensington International",
+        "SNPC",
+        "Olearius",
+        "loan agreement",
+        "oil trading",
+        "summary judgment"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Appellate review of case management/discretion with substantial factual background recited."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1042.json",
+    "status": "done",
+    "notes": "Batch 80 enrichment",
+    "enrichment": {
+      "short_title": "OFT competition investigation warrants and human rights",
+      "area_of_law": [
+        "Competition law",
+        "Human rights",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Competition Act 1998",
+          "provisions": [
+            "section 25",
+            "section 28"
+          ]
+        },
+        {
+          "title": "Enterprise Act 2002",
+          "provisions": [
+            "sections 1-2",
+            "Schedule 1 paragraph 12"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "Article 6",
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Office of Fair Trading applied without notice for warrants to investigate suspected price-fixing cartel conduct.",
+        "Morison J was satisfied there were reasonable grounds to suspect Chapter 1 infringement and that documents might be concealed or destroyed.",
+        "The judgment addressed whether compulsory document production and questioning under the warrants infringed Article 6 and Article 8 rights.",
+        "Warrants had already been executed when the anonymised judgment was handed down."
+      ],
+      "procedural_posture": "Without-notice application for Competition Act 1998 investigation warrants with a published ruling on Human Rights Act compatibility.",
+      "outcome": "Warrants granted; the OFT’s powers were held compatible with Articles 6 and 8 as proportionate safeguards existed.",
+      "ratio": "Competition investigation powers to enter premises, seize documents and ask factual questions pursue a legitimate aim and are proportionate where a High Court judge supervises warrant issue, legal privilege is protected, and answers cannot be compelled where they would amount to an admission of infringement contrary to the Orkem principle.",
+      "legal_issues": [
+        "Article 6 fair trial and privilege against self-incrimination in competition investigations",
+        "Whether cartel penalties are criminal for Convention purposes",
+        "Article 8 interference with business premises",
+        "Comparison with EC Commission investigation guarantees"
+      ],
+      "catchwords": [
+        "Competition Act 1998",
+        "investigation warrant",
+        "price fixing",
+        "Article 6",
+        "Article 8",
+        "self-incrimination"
+      ],
+      "index_terms": [
+        "Office of Fair Trading",
+        "Chapter 1 prohibition",
+        "cartel",
+        "Orkem",
+        "Saunders v UK",
+        "Roquette Freres"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Orkem v The Commission",
+          "citation": "[1989] ECR 3283",
+          "relation": "applied"
+        },
+        {
+          "name": "Saunders v UK",
+          "citation": "[1997] 23 EHRR 313",
+          "relation": "cited"
+        },
+        {
+          "name": "Brown v Scott (Procurator Fiscal, Dunfermline)",
+          "citation": "[2001] 2 WLR 817",
+          "relation": "cited"
+        },
+        {
+          "name": "Roquette Freres SA v Commission",
+          "citation": "Case C-94/00 [2003] 4 CMLR 1",
+          "relation": "cited"
+        },
+        {
+          "name": "Montecatini v Commission",
+          "citation": "[1999] ECR I-4539",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Structured human rights analysis; defendant identities deliberately withheld in judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1075.json",
+    "status": "done",
+    "notes": "Batch 80 enrichment",
+    "enrichment": {
+      "short_title": "School Sites Act reverter at St Philips Maidstone",
+      "area_of_law": [
+        "Charity and trusts",
+        "Property law",
+        "Education law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "School Sites Act 1841",
+          "provisions": [
+            "section 2",
+            "section 7",
+            "section 10",
+            "section 14"
+          ]
+        },
+        {
+          "title": "Reverter of Sites Act 1987",
+          "provisions": [
+            "section 4",
+            "section 6(2)"
+          ]
+        },
+        {
+          "title": "Education Act 1944",
+          "provisions": [
+            "section 114"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Land at St Philips School, Maidstone was conveyed in 1866 under the School Sites Act 1841 for a National Society church school.",
+        "The school closed in 1995; claimants argued reverter occurred before 17 August 1975 so their title was statute-barred before the 1987 Act.",
+        "Evidence showed some pupils from outside the ecclesiastical district and from non-poorer social classes, but most remained qualifying pupils.",
+        "The diocesan board argued use had ceased for trust purposes because the school effectively educated all-comers."
+      ],
+      "procedural_posture": "Trial of preliminary issue on whether automatic reverter occurred more than twelve years before the Reverter of Sites Act 1987.",
+      "outcome": "Preliminary issue answered in the negative; no reverter before the 1987 Act.",
+      "ratio": "Reverter under section 2 of the School Sites Act 1841 occurs only if land ceases to be used for the purpose stated in the conveyance; educating some non-qualifying pupils alongside a majority of qualifying pupils does not mean the land ceased to be used for the stated purpose, and integration into the state education system did not of itself trigger reverter.",
+      "legal_issues": [
+        "Construction of National Society model trust wording",
+        "Whether residence in the ecclesiastical district was required",
+        "Distinction between breach of trust and cessation of use",
+        "Effect of educating non-poorer-class or out-of-district pupils"
+      ],
+      "catchwords": [
+        "School Sites Act 1841",
+        "reverter",
+        "Reverter of Sites Act 1987",
+        "charitable trust",
+        "National Society",
+        "school land"
+      ],
+      "index_terms": [
+        "St Philips Maidstone",
+        "Canterbury Diocesan Board of Finance",
+        "Fraser",
+        "ecclesiastical district",
+        "Re Bathurst",
+        "Habermehl v A-G"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re Rowhook Mission Hall, Horsham",
+          "citation": "[1985] Ch 62",
+          "relation": "cited"
+        },
+        {
+          "name": "A-G v Shadwell",
+          "citation": "[1910] 1 Ch 92",
+          "relation": "cited"
+        },
+        {
+          "name": "Fraser v Canterbury Diocesan Board of Finance",
+          "citation": "[2001] Ch 669",
+          "relation": "cited"
+        },
+        {
+          "name": "Re Ingleton Charity",
+          "citation": "[1956] Ch 585",
+          "relation": "cited"
+        },
+        {
+          "name": "National Society v School Board of London",
+          "citation": "(1874) LR 18 Eq 608",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long Chancery judgment with detailed historical and legal analysis on a single preliminary issue."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1196.json",
+    "status": "done",
+    "notes": "Batch 80 enrichment",
+    "enrichment": {
+      "short_title": "Green Belt time extension refused ignoring Barn restoration",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 73",
+            "section 288"
+          ]
+        },
+        {
+          "title": "Planning (Listed Buildings and Conservation Areas) Act 1990",
+          "provisions": [
+            "section 66"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Outline permission for a golf course, hotel and leisure development at St Clere's Farm in the Green Belt depended on enabling development to fund listed building works.",
+        "Section 106 works to St Clere's Hall and to arrest decline of the Barn were largely completed, but Barn restoration was intended as part of the hotel scheme.",
+        "The claimant sought under section 73 to extend time to submit reserved matters for the hotel after missing the deadline.",
+        "The inspector dismissed the appeal, treating completed section 106 works as removing very special circumstances for Green Belt development."
+      ],
+      "procedural_posture": "Section 288 challenge to an inspector’s dismissal of a section 73 appeal to extend time for reserved matters approval.",
+      "outcome": "Application allowed; the inspector’s decision was quashed for failure to consider Barn restoration as a material consideration.",
+      "ratio": "On a section 73 application to extend time limits, the potential cost and planning importance of restoring a listed Barn as part of an enabling hotel development in the Green Belt is a material consideration distinct from completed section 106 repair works; an inspector who reasons only from the latter may have failed to take into account a relevant factor warranting quashing.",
+      "legal_issues": [
+        "Material change in circumstances since 1995 outline permission",
+        "Very special circumstances for inappropriate Green Belt development",
+        "Enabling development under English Heritage policy",
+        "Whether partial implementation and legitimate expectation supported extension"
+      ],
+      "catchwords": [
+        "section 73",
+        "section 288",
+        "Green Belt",
+        "enabling development",
+        "listed buildings",
+        "reserved matters"
+      ],
+      "index_terms": [
+        "Valente",
+        "St Clere's Farm",
+        "Thurrock Borough Council",
+        "section 106 agreement",
+        "English Heritage enabling development",
+        "Barn restoration"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Primary ground of success clearly identified; numerous subsidiary grounds addressed briefly."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/799.json",
+    "status": "done",
+    "notes": "Batch 80 enrichment",
+    "enrichment": {
+      "short_title": "Persistent litigant’s strike-out appeal dismissed",
+      "area_of_law": [
+        "Civil procedure",
+        "Professional negligence",
+        "Planning law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": []
+        },
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": [
+            "section 22(7)"
+          ]
+        },
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 78",
+            "section 195"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Bhamjee lost planning and enforcement challenges over use of his yard for car washing and related activities from 1999 onwards.",
+        "He issued multiple Chancery claims against barristers and the Treasury Solicitor for negligence, human rights breaches and related relief.",
+        "Park J struck out the claims as incoherent and dismissed an appeal against Master Bowman’s strike-out of a related insolvency claim.",
+        "Brooke LJ granted an extension of time but dismissed the appeal and ordered a stay pending consideration of an injunction to control future litigation."
+      ],
+      "procedural_posture": "Application for permission to appeal out of time against strike-out of claims against lawyers and the Treasury Solicitor.",
+      "outcome": "Extension of time granted; appeal dismissed; stay on further applications to the Court of Appeal; judgment sent to civil justice stakeholders.",
+      "ratio": "Barristers conducting litigation owe no duty of care to the opposing litigant (Connolly-Martin v Davis), and repeatedly re-litigating finally determined planning issues through incoherent claims against lawyers is hopeless; the court may also highlight the resource cost of meritless fee-exempt appellate applications.",
+      "legal_issues": [
+        "Whether opposing counsel owe a duty of care after Hall v Simons",
+        "Strike-out of incoherent claims",
+        "Extension of time to appeal",
+        "Control of vexatious or persistent litigants in person"
+      ],
+      "catchwords": [
+        "strike out",
+        "litigant in person",
+        "professional negligence",
+        "planning enforcement",
+        "fee exemption",
+        "Connolly-Martin"
+      ],
+      "index_terms": [
+        "Bhamjee",
+        "Forest Gate",
+        "Barlow Lyde & Gilbert",
+        "Bowman Review",
+        "Taylor v Lawrence",
+        "Access to Justice Act 1999"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Connolly-Martin v Davis",
+          "citation": "[1999] PNLR 826",
+          "relation": "applied"
+        },
+        {
+          "name": "Hall v Simons",
+          "citation": "[2002] 1 AC 615",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Tanfern Ltd v Cameron-MacDonald",
+          "citation": "[2000] 1 WLR 1311",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Permission application with extensive procedural history; substantive ratio on duty of care is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/656.json",
+    "status": "done",
+    "notes": "Batch 80 enrichment",
+    "enrichment": {
+      "short_title": "CPR service rules: five consolidated appeals",
+      "area_of_law": [
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 6.2",
+            "CPR 6.4",
+            "CPR 6.5",
+            "CPR 6.7",
+            "CPR 6.8",
+            "CPR 6.9",
+            "CPR 6.11",
+            "CPR 6.14",
+            "CPR 7.5",
+            "CPR 7.6"
+          ]
+        },
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 725(1)"
+          ]
+        },
+        {
+          "title": "Interpretation Act 1978",
+          "provisions": [
+            "section 7"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Five pre-Anderton appeals raised recurring problems with serving claim forms within four months and with CPR 6.9 and 7.6.",
+        "In Cranfield the court failed to serve issued claim forms through oversight; the Court of Appeal held CPR 7.6(3)(a) covers court neglect.",
+        "McManus and Claussen concerned unsuccessful attempts to dispense with service; Murphy held service on a company’s registered office under section 725 was valid.",
+        "Smith held service at an individual’s last known residence under CPR 6.5(6) is good service even if the defendant may no longer live there."
+      ],
+      "procedural_posture": "Consolidated appeals on construction and exercise of CPR powers to extend time for service and dispense with service.",
+      "outcome": "Mixed: Cranfield and Smith appeals allowed; Claussen, McManus and Murphy appeals dismissed.",
+      "ratio": "CPR 7.6(3)(a) includes cases where the court failed to serve through neglect; CPR 6.9 may retrospectively dispense with service only in exceptional pre-Anderton category 2 cases where the issued claim form was received by the defendant or authorised solicitor by a permitted method within four months, without circumventing Godwin; service on a company’s registered office under section 725(1) remains an alternative to CPR service.",
+      "legal_issues": [
+        "Meaning of court ‘unable to serve’ under CPR 7.6(3)(a)",
+        "Scope of CPR 6.9 after Anderton and Wilkey",
+        "Service on insurers rather than defendant or authorised solicitor",
+        "Service at last known residence under CPR 6.5(6)",
+        "Interaction of Companies Act service and CPR 6.4(2)"
+      ],
+      "catchwords": [
+        "CPR 6.9",
+        "CPR 7.6",
+        "claim form",
+        "service",
+        "extension of time",
+        "Anderton",
+        "deemed service"
+      ],
+      "index_terms": [
+        "Cranfield v Bridgegrove",
+        "Claussen v Yeates",
+        "McManus v Sharif",
+        "Murphy v Staples",
+        "Smith v Hughes",
+        "Vinos v Marks & Spencer"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Vinos v Marks & Spencer",
+          "citation": "[2001] 3 All ER 784",
+          "relation": "applied"
+        },
+        {
+          "name": "Godwin v Swindon Borough Council",
+          "citation": "[2001] EWCA Civ 1478",
+          "relation": "applied"
+        },
+        {
+          "name": "Anderton v Clwyd County Council",
+          "citation": "[2002] EWCA Civ 933",
+          "relation": "applied"
+        },
+        {
+          "name": "Wilkey v BBC",
+          "citation": "[2002] EWCA Civ 1561",
+          "relation": "applied"
+        },
+        {
+          "name": "Elmes v Hygrade Food Products Plc",
+          "citation": "[2001] EWCA Civ 121",
+          "relation": "cited"
+        },
+        {
+          "name": "Nanglegan v Royal Free Hampstead NHS Trust",
+          "citation": "[2001] EWCA Civ 127",
+          "relation": "cited"
+        },
+        {
+          "name": "Kenneth Allison Ltd v AE Limehouse Ltd",
+          "citation": "[1992] 2 AC 105",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Leading consolidated CPR service judgment with detailed guidance across five appeals."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/760.json",
+    "status": "done",
+    "notes": "Batch 80 enrichment",
+    "enrichment": {
+      "short_title": "Park and Ride mitigation site planning condition",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Environmental law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 92"
+          ]
+        },
+        {
+          "title": "Town and Country Planning (General Development Procedure) Order 1995",
+          "provisions": [
+            "article 1",
+            "article 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Hampshire County Council obtained outline permission in 1998 for a Park and Ride on Bar End Meadows, restored grassland after the M3 extension at Twyford Down.",
+        "Condition 5 required approval of a mitigation scheme on one of five listed replacement chalk grassland sites before development.",
+        "The council approved site 7 at Magdalen Hill without reconsidering comparative merits of nearer sites, treating the Secretary of State’s decision as settling principle.",
+        "Murray, a nearby resident, judicially reviewed the approval of mitigation details."
+      ],
+      "procedural_posture": "Appeal against quashing of local planning authority decisions approving mitigation details under a planning condition.",
+      "outcome": "Appeal allowed; the authority had not erred in treating site choice as constrained by the condition, and section 92 did not limit submission of non-reserved-matter details.",
+      "ratio": "A planning condition requiring one of five named mitigation sites does not incorporate the inspector’s non-binding order of preference; the planning authority need not reopen comparative site merits at the details stage if any listed site can offset ecological loss, and off-site mitigation conditions are not reserved matters subject to section 92’s three-year limit.",
+      "legal_issues": [
+        "Material considerations when approving mitigation details",
+        "Whether inspector’s site preference bound the planning authority",
+        "Whether mitigation approval was a reserved matter under section 92",
+        "Public funding and prompt challenge to later reconsideration"
+      ],
+      "catchwords": [
+        "planning condition",
+        "mitigation site",
+        "Park and Ride",
+        "Twyford Down",
+        "reserved matters",
+        "section 92"
+      ],
+      "index_terms": [
+        "Murray",
+        "Hampshire County Council",
+        "Bar End Meadows",
+        "Magdalen Hill",
+        "chalk grassland",
+        "Winchester"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Queen on the Application of Cowl v Plymouth City Council",
+          "citation": "[2001] EWCA Civ 1935",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Two live grounds clearly resolved with extensive inspector and Secretary of State background."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/646.json",
+    "status": "done",
+    "notes": "Batch 80 enrichment",
+    "enrichment": {
+      "short_title": "CEO dismissal fair after takeover board removal",
+      "area_of_law": [
+        "Employment law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 95(1)(a)",
+            "section 98(1)(b)",
+            "section 98(2)(b)",
+            "section 98(4)"
+          ]
+        },
+        {
+          "title": "Companies Act 1985",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Cobley was chief executive and director of FTI for nearly 20 years and led a failed management buy-out against Crest’s successful takeover in January 2000.",
+        "Shareholders removed him as a director at an EGM; his contract automatically terminated when he ceased to be a director.",
+        "The employment tribunal found the reason was some other substantial reason: new owners replacing the board after a hostile takeover battle.",
+        "Cobley’s unpaid wages claim succeeded but his unfair dismissal appeal failed."
+      ],
+      "procedural_posture": "Appeal with permission on questions of law from employment tribunal and EAT decisions on unfair dismissal.",
+      "outcome": "Appeal dismissed; dismissal held fair for some other substantial reason.",
+      "ratio": "Where a chief executive’s contract terminates automatically on removal as director, the substantial reason for dismissal may be the change of control and replacement of the board following a hostile takeover, which can justify dismissal of the chief executive as a potentially fair some other substantial reason if dismissal was within the range of reasonable responses.",
+      "legal_issues": [
+        "Whether change of share ownership is some other substantial reason",
+        "Relationship between removal as director and termination of employment",
+        "Fairness under section 98(4) where employee anticipated departure",
+        "Whether manner of dismissal rendered dismissal unfair"
+      ],
+      "catchwords": [
+        "unfair dismissal",
+        "some other substantial reason",
+        "chief executive",
+        "takeover",
+        "automatic termination",
+        "section 98"
+      ],
+      "index_terms": [
+        "Cobley",
+        "Forward Technology Industries",
+        "Crest Group",
+        "management buy-out",
+        "director removal",
+        "Hollister v NFU"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Abernethy v Mott Hay & Anderson",
+          "citation": "[1974] ICR 323",
+          "relation": "cited"
+        },
+        {
+          "name": "Priddle v Dibble",
+          "citation": "[1978] ICR 149",
+          "relation": "cited"
+        },
+        {
+          "name": "Hollister v National Farmers Union",
+          "citation": "[1979] IRLR 238",
+          "relation": "cited"
+        },
+        {
+          "name": "Johnson v Unisys Ltd",
+          "citation": "[2001] ICR 480",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment on established employment law principles with clear facts."
+      }
+    }
+  }
+]

@@ -1,0 +1,748 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2003.json",
+    "status": "done",
+    "notes": "Complete planning appeal judgment; inspector decision largely upheld except on second-bite issue.",
+    "enrichment": {
+      "short_title": "Whether a replacement enforcement notice was a valid 'second bite' under section 171B",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 55", "section 57", "section 171A", "section 171B", "section 172", "section 173(11)", "section 174", "section 176", "section 191", "section 195", "section 288", "section 289"]
+        },
+        {
+          "title": "Town and Country Planning (Use Classes) Order 1987",
+          "provisions": ["Article 3(4)", "classes B1, B2, B8"]
+        },
+        {
+          "title": "Town and Country Planning (General Permitted Development) Order 1995",
+          "provisions": ["Schedule 2, Part 6, Class A"]
+        }
+      ],
+      "key_facts": [
+        "Mr Fidler appealed inspector and Secretary of State decisions upholding enforcement notices at Honeycrock Farm, Salfords, concerning unauthorised mixed commercial uses across multiple buildings and yards.",
+        "Earlier enforcement notices B, D and E alleging piecemeal changes of use were quashed as too vague; later Notice I alleged a composite mixed use of planning unit C.",
+        "The inspector treated Notice I as a valid second-bite notice under section 171B(4)(b), extending the enforcement time limit back to March 1991 rather than February 1992.",
+        "The site had evolved through building works, expanded storage, merged planning units and higher-traffic commercial occupiers between 1991 and 2001."
+      ],
+      "procedural_posture": "Statutory challenge under sections 288 and 289 of the Town and Country Planning Act 1990 against an inspector's decision following enforcement notice and certificate of lawful development appeals.",
+      "outcome": "Appeal allowed on the second-bite issue alone: the inspector erred in treating Notice I as relating to the same breach as the earlier notices; other grounds of challenge were rejected.",
+      "ratio": "Section 171B(4)(b) as interpreted in Jarmain applies only where a later enforcement notice relates to the same actual breach of planning control as an earlier notice, not where the later notice alleges a materially wider mixed use covering additional buildings, uses and users that could not be corrected into the earlier notices without injustice.",
+      "legal_issues": [
+        "Whether Notice I was a valid second-bite enforcement notice under section 171B(4)(b)",
+        "Whether there had been a material change of use of planning unit C",
+        "Whether commercial uses had become lawful by continuous use",
+        "Whether works to units 9 and 10 were operational development or permitted development",
+        "Whether section 173(11) conferred deemed planning permission following a 1996 enforcement notice"
+      ],
+      "catchwords": [
+        "planning enforcement",
+        "second bite notice",
+        "section 171B",
+        "material change of use",
+        "certificate of lawful development",
+        "deemed planning permission",
+        "mixed use",
+        "planning unit"
+      ],
+      "index_terms": [
+        "Honeycrock Farm",
+        "Reigate and Banstead Council",
+        "enforcement notice",
+        "Jarmain",
+        "Use Classes Order",
+        "Green Belt",
+        "under-enforcement"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Jarmain v Secretary of State for the Environment, Transport and the Regions",
+          "citation": "[2000] 2 PLR 126",
+          "relation": "applied"
+        },
+        {
+          "name": "Scott v Secretary of State for the Environment, Transport and the Regions",
+          "citation": "[2000] JPL 833",
+          "relation": "applied"
+        },
+        {
+          "name": "Jennings Motors Ltd v Secretary of State for the Environment",
+          "citation": "[1982] JPL 181",
+          "relation": "considered"
+        },
+        {
+          "name": "Royal Borough of Kensington and Chelsea v Secretary of State for the Environment and Mia Carla Ltd",
+          "citation": "[1981] JPL 50",
+          "relation": "considered"
+        },
+        {
+          "name": "Belmont Riding Centre v First Secretary of State",
+          "citation": "[2003] EWHC 1895 (Admin)",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long but complete reserved judgment with detailed reasoning on all five main issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/223.json",
+    "status": "needs_review",
+    "notes": "Full text appears truncated mid-sentence at paragraph 583 during damages quantification; final award and overall conclusion not captured in source file.",
+    "enrichment": {
+      "short_title": "Breach of offshore compression design contract for Hewett gas platform 52/5A",
+      "area_of_law": [
+        "Construction and engineering law",
+        "Contract law",
+        "Oil and gas"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Phillips (now ConocoPhillips) claimed damages for breach of contract UK 0601 with Snamprogetti over engineering design of offshore compression facilities on platform 52/5A in the Hewett field.",
+        "The claim concerned design defects in sour-gas compression, fuel gas, main compressor, drainage, blowdown and related systems requiring extensive remedial works after a Baker Jardine HAZOP.",
+        "Richards J found multiple breaches of the first-class contractor standard, including errors in compressor start-up sequencing, P&ID valve locking, ejector/blowdown design, turbine wash-water routing and poor pipework design.",
+        "Many major claimed items failed, including fuel gas heater and vibration-related expenditure, because Phillips could not show those costs were caused by relevant breaches."
+      ],
+      "procedural_posture": "Technology and Construction Court trial of a damages claim for breach of an offshore gas compression engineering contract.",
+      "outcome": "Partial success for Phillips on liability for several design breaches; damages were being quantified item-by-item through HAZOP nodes when the captured judgment text ends abruptly.",
+      "ratio": "An engineering designer under a first-class contractor standard is liable only for remedial costs and consequential losses directly caused by proven design breaches; poor engineering that did not affect operation or arise from admitted defects does not support recovery, and wasted expenditure driven by Phillips's own operational decisions is not recoverable.",
+      "legal_issues": [
+        "Whether Snamprogetti breached the contract standard of a recognised first-class contractor",
+        "Which HAZOP-related remedial works were caused by design breaches",
+        "How to apportion direct labour, vendor, materials and management costs to liable nodes",
+        "Whether gross negligence exclusion and consequential loss clauses limited recovery"
+      ],
+      "catchwords": [
+        "offshore compression",
+        "engineering design",
+        "breach of contract",
+        "HAZOP",
+        "quantum of damages",
+        "fuel gas system",
+        "main compressor",
+        "North Sea platform"
+      ],
+      "index_terms": [
+        "ConocoPhillips",
+        "Snamprogetti",
+        "Hewett field",
+        "platform 52/5A",
+        "Upper Bunter gas",
+        "contract UK 0601",
+        "Baker Jardine HAZOP",
+        "remedial works"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Tate & Lyle Food and Distribution Ltd v GLC",
+          "citation": "[1982] 1 WLR 149",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.62,
+        "level": "medium",
+        "notes": "Liability reasoning is extensive but the source file truncates before final damages total and formal order; outcome description is necessarily incomplete."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2228.json",
+    "status": "done",
+    "notes": "Complete Munby J judgment on NHS cross-border treatment rights; postscript references later [2003] EWHC 2401 (Admin).",
+    "enrichment": {
+      "short_title": "NHS reimbursement for hip surgery abroad after waiting-list delay",
+      "area_of_law": [
+        "EU law",
+        "Healthcare law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "EC Treaty",
+          "provisions": ["Article 49 (formerly Article 59)"]
+        },
+        {
+          "title": "Council Regulation (EEC) No 1408/71",
+          "provisions": ["Article 22"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["Article 3", "Article 8 ECHR (raised)"]
+        }
+      ],
+      "key_facts": [
+        "Mrs Yvonne Watts, 72, needed bilateral hip replacements for severe osteoarthritis but faced about a one-year NHS waiting list with constant pain and severely restricted mobility.",
+        "Her daughter applied to Bedford PCT for Form E112 authorisation for surgery in France/Belgium; the PCT declined support in November 2002 and February 2003.",
+        "Mrs Watts obtained treatment abroad at her own expense and sought judicial review requiring NHS reimbursement.",
+        "By February 2003 her consultant recategorised her as a 'soon' case with surgery expected in April or May 2003, overtaking her Article 49 claim on the facts."
+      ],
+      "procedural_posture": "Judicial review of PCT refusal to support overseas NHS-funded treatment, with the Secretary of State for Health as interested party.",
+      "outcome": "Claim dismissed on the facts despite significant success on the law: Article 49 applies to NHS hospital services and the Secretary of State's restrictive view was wrong, but no entitlement to reimbursement arose because timely NHS treatment became available.",
+      "ratio": "Article 49 EC applies to cross-border NHS hospital treatment and prior-authorisation schemes must satisfy ECJ procedural and substantive criteria; 'undue delay' under Article 49 is not the same as the Article 22 'normal waiting time' test, but a patient has no right to reimbursement if, by the time of decision, equivalent timely treatment is available domestically.",
+      "legal_issues": [
+        "Whether Article 49 applies to NHS patients seeking treatment in another Member State",
+        "Whether prior authorisation and E112 procedures unlawfully restrict freedom to provide services",
+        "The correct test of 'undue delay' under Article 49 versus Article 22",
+        "Whether the PCT's refusal letters were erroneous in law",
+        "How reimbursement should be calculated under Articles 22 and 49"
+      ],
+      "catchwords": [
+        "NHS waiting lists",
+        "cross-border healthcare",
+        "Article 49 EC",
+        "Article 22 Regulation 1408/71",
+        "Form E112",
+        "undue delay",
+        "prior authorisation",
+        "hip replacement"
+      ],
+      "index_terms": [
+        "Yvonne Watts",
+        "Bedford Primary Care Trust",
+        "Geraets-Smits",
+        "Muller-Faure",
+        "Vanbraekel",
+        "Kohll",
+        "medical treatment abroad",
+        "Department of Health"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Geraets-Smits v Stichtung Ziekenfonds VGZ; Peerbooms v Stichtung CZ Groep Zorgverzekeringen",
+          "citation": "Case C-157/99, [2002] QB 409",
+          "relation": "applied"
+        },
+        {
+          "name": "Muller-Faure v Onderlinge Ziektekostenverzekering",
+          "citation": "Case C-385/99",
+          "relation": "applied"
+        },
+        {
+          "name": "Kohll v Union des Caisses de Maladie",
+          "citation": "Case C-158/96",
+          "relation": "applied"
+        },
+        {
+          "name": "Vanbraekel v Alliance Nationale des Mutualités Chrétiennes",
+          "citation": "Case C-368/98, [2001] ECR I-5363",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Comprehensive reserved judgment with detailed ECJ analysis and clear conclusion at paragraph 195."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1282.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment reversing Elias J on qualified privilege at summary stage.",
+    "enrichment": {
+      "short_title": "Summary judgment in libel over creditor letters alleging Downtex insolvency",
+      "area_of_law": [
+        "Defamation law",
+        "Contract law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Defamation Act 1996",
+          "provisions": ["section 8", "section 9"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR Part 53", "CPR Part 24", "CPR Part 1"]
+        }
+      ],
+      "key_facts": [
+        "Downtex sued Mr Flatley and his company for defamation and breach of a business-sale covenant after letters to suppliers suggested Downtex was insolvent or near insolvency and its directors had mismanaged finances.",
+        "Defendants conceded two June 2002 letters were defamatory but relied on qualified privilege and denied sufficient reference to the Mond director claimants.",
+        "Elias J refused CPR Part 53 summary relief, holding the privilege defence was fact-sensitive and arguable.",
+        "Gray J later granted a contractual injunction against repetition; the Court of Appeal held the privilege defence was unsustainable on the pleaded material."
+      ],
+      "procedural_posture": "Appeal from an interlocutory refusal of summary judgment under CPR Part 53 in defamation and breach-of-contract proceedings.",
+      "outcome": "Appeal allowed for Downtex on qualified privilege; libel defence held bad in law and judgment entered with damages to be assessed; appeal by individual directors dismissed.",
+      "ratio": "Where defamatory creditor letters plainly impute insolvency or near insolvency, a qualified privilege defence fails unless that imputation is objectively warranted by the material relied on; subjective concern based on ordinary trading accounts does not justify circulating such allegations to suppliers who were being paid on normal terms.",
+      "legal_issues": [
+        "Whether the defendants had an arguable qualified privilege defence at summary stage",
+        "Whether the occasion was 'fairly warranted' and reciprocity of interest existed",
+        "Whether the letters referred sufficiently to the individual director claimants",
+        "Interaction of CPR Part 53 summary procedure with contractual injunctive relief"
+      ],
+      "catchwords": [
+        "defamation",
+        "qualified privilege",
+        "summary judgment",
+        "CPR Part 53",
+        "creditors' meeting",
+        "insolvency imputation",
+        "business sale covenant",
+        "identification of claimant"
+      ],
+      "index_terms": [
+        "Downtex Plc",
+        "Mr Flatley",
+        "Mond brothers",
+        "Toogood v Spyring",
+        "Adam v Wall",
+        "Kearns v General Council of the Bar",
+        "Swain v Hillman",
+        "supplier letters"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Toogood v Spyring",
+          "citation": "(1834) 1 CM&R 181",
+          "relation": "applied"
+        },
+        {
+          "name": "Adam v Wall",
+          "citation": "[1917] AC 309",
+          "relation": "applied"
+        },
+        {
+          "name": "Kearns v General Council of the Bar",
+          "citation": "[2003] EWCA Civ 331, [2003] 2 All ER 534",
+          "relation": "applied"
+        },
+        {
+          "name": "Swain v Hillman",
+          "citation": "[2001] 1 All ER 90",
+          "relation": "applied"
+        },
+        {
+          "name": "James Gilbert Ltd v MGN Ltd",
+          "citation": "[2000] EMLR 681",
+          "relation": "applied"
+        },
+        {
+          "name": "Hebditch v MacIlwaine",
+          "citation": "[1894] 2 QB 54",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed analysis and order; source judge metadata includes spurious historical names."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2328.json",
+    "status": "done",
+    "notes": "Complete Patents Court threats trial judgment; defendants unrepresented through Mr Frost.",
+    "enrichment": {
+      "short_title": "Patent threats against Cintec water-blast mitigation products",
+      "area_of_law": [
+        "Intellectual property law",
+        "Patent law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Patents Act 1977",
+          "provisions": ["section 70", "section 70(3)", "section 70(4)"]
+        }
+      ],
+      "key_facts": [
+        "Cintec developed Waterwall blast-mitigation bags filled with water for use near explosives; Mr Parkes claimed UK and US patents in the same field.",
+        "After meetings in June 2003, Parkes/Frost sent Cintec a demand letter threatening immediate proceedings unless £25,000 and royalties were paid, and contacted Transco and Qinetiq.",
+        "Defendants also began Scottish infringement proceedings seeking wide interdict and £25 million, but Cintec brought a Patents Court threats action with justification counterclaim.",
+        "At trial Cintec's dropstitch-fabric products were held not to infringe four relied-on UK patents; threats were actionable in respect of patents admitted not to be infringed."
+      ],
+      "procedural_posture": "Expedited Patents Court trial of a section 70 threats action with infringement counterclaim and jurisdiction challenges.",
+      "outcome": "Cintec succeeded on threats and failed the defendants' counterclaim: actionable threats were made and no product infringed the patents in issue.",
+      "ratio": "A communication reasonably conveying that patent proceedings will be commenced is an actionable threat under section 70 unless justified by actual or threatened infringement; justification failed here because Cintec's products did not use lay-flat tubing, rigid frames or rigid blocks required by the patent claims.",
+      "legal_issues": [
+        "Whether letters to Cintec, Transco and Qinetiq constituted actionable patent threats",
+        "Whether the English court had jurisdiction despite Scottish proceedings",
+        "Whether Cintec's products infringed claims of patents GB 2289750, 2335259, 2337805 and 2314614",
+        "Construction of 'lay-flat plastic tubing' and 'rigid' in the patent claims"
+      ],
+      "catchwords": [
+        "patent threats",
+        "section 70",
+        "justification",
+        "infringement",
+        "blast mitigation",
+        "claim construction",
+        "dropstitch fabric",
+        "lay-flat tubing"
+      ],
+      "index_terms": [
+        "Cintec International",
+        "John Parkes",
+        "Martin Frost",
+        "Waterwall",
+        "Navy Blast Mitigation Bag",
+        "Transco",
+        "Qinetiq",
+        "Patents Court"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Cavity Trays Ltd v RMC Panels Products Ltd",
+          "citation": "[1996] RPC 361",
+          "relation": "applied"
+        },
+        {
+          "name": "Unilever plc v Procter & Gamble Co",
+          "citation": "[2000] RPC 344",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full trial judgment with clear findings on threats and non-infringement across all products."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2382.json",
+    "status": "done",
+    "notes": "Complete ex tempore-style judgment on police disciplinary appeal costs; source judges field empty.",
+    "enrichment": {
+      "short_title": "Police misconduct appeal costs and alleged legitimate expectation",
+      "area_of_law": [
+        "Police law",
+        "Administrative law",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Act 1964",
+          "provisions": ["section 37(3)"]
+        }
+      ],
+      "key_facts": [
+        "Former Northumbria police constable Alan Thompson appealed unsuccessfully against dismissal for misconduct towards female colleagues.",
+        "An appeal tribunal recommended he pay his own costs, an exceptional order accepted by the Secretary of State in May 2002 and March 2003.",
+        "Force solicitor Miss Aubrey told his new solicitors the police authority would normally pay appeal costs whether or not he succeeded, but also that exceptional orders were possible.",
+        "After a consent order allowed fresh costs representations, the tribunal reaffirmed its costs recommendation; Thompson's judicial review then rested only on legitimate expectation."
+      ],
+      "procedural_posture": "Judicial review of the Secretary of State's decision ordering a police officer to pay his own disciplinary appeal costs.",
+      "outcome": "Application dismissed: no legitimate expectation that costs would be paid in any event, and the natural justice challenge had been resolved by the reconsideration process.",
+      "ratio": "A police appellant cannot establish a legitimate expectation of unconditional costs payment where he was told both that the authority would normally pay appeal costs and that the tribunal could exceptionally order otherwise; representations by the interested party's solicitor do not bind the Secretary of State if they do not create an expectation of payment regardless of outcome.",
+      "legal_issues": [
+        "Whether Miss Aubrey's telephone call created a legitimate expectation of costs payment",
+        "Whether the tribunal breached natural justice by not inviting submissions before recommending costs",
+        "Whether the Secretary of State was bound by the force solicitor's representations",
+        "Costs of the judicial review proceedings"
+      ],
+      "catchwords": [
+        "police discipline",
+        "appeal costs",
+        "legitimate expectation",
+        "Police Act 1964",
+        "natural justice",
+        "misconduct dismissal",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Alan Thompson",
+        "Northumbria Police",
+        "Miss Aubrey",
+        "appeal tribunal",
+        "Hindle Campbell",
+        "exceptional costs order"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Allason v Random House UK Ltd",
+          "citation": "Laddie J, February 2002 (CPR 44.3.13)",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full judgment including detailed costs ruling; judge identified in text as Mr Justice Wall though metadata judges array is empty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1397.json",
+    "status": "done",
+    "notes": "Short appellate judgment reversing 50/50 contributory negligence apportionment based on CCTV-only evidence.",
+    "enrichment": {
+      "short_title": "100% driver liability for reversing SUV injury where CCTV was sole evidence",
+      "area_of_law": [
+        "Personal injury law",
+        "Road traffic law",
+        "Negligence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "John Dickens, about 18, suffered a fractured skull and brain damage when a Mitsubishi Shogun driven by John Bearman reversed into him outside a Romford nightclub in December 1998.",
+        "Liability was decided solely from CCTV footage; the claimant could not remember the incident and no live witnesses gave evidence.",
+        "The judge found the driver failed to keep a proper lookout and reversed too briskly, but apportioned blame equally because the claimant returned to the nearside door shortly before the manoeuvre.",
+        "The Court of Appeal held there was no evidential basis to attribute negligence to the claimant."
+      ],
+      "procedural_posture": "Appeal against a 50/50 apportionment of liability in a running-down action tried on CCTV evidence alone.",
+      "outcome": "Appeal allowed; defendant held 100% liable. Renewed defendant cross-appeal refused.",
+      "ratio": "Approaching or standing by a vehicle's nearside door does not, without more, amount to contributory negligence; where CCTV shows only that the claimant returned to the door before a reversing driver struck him, primary liability rests wholly on the driver who failed to keep a proper lookout.",
+      "legal_issues": [
+        "Whether the claimant was contributorily negligent",
+        "Whether the appellate court could reassess liability from CCTV where no live witnesses appeared",
+        "Whether MacGregor principles on apportionment review applied"
+      ],
+      "catchwords": [
+        "running down",
+        "contributory negligence",
+        "CCTV evidence",
+        "reversing vehicle",
+        "apportionment of blame",
+        "road traffic accident"
+      ],
+      "index_terms": [
+        "John Dickens",
+        "John Bearman",
+        "Mitsubishi Shogun",
+        "Atlanta Boulevard Romford",
+        "nightclub",
+        "brain injury"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The MacGregor",
+          "citation": "[1943] AC 197",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Concise complete appellate judgment; source metadata lists only Davis J though court comprised Mantell, Clarke and Rimer LJJ."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2409.json",
+    "status": "done",
+    "notes": "Complete judgment on youth court video evidence editing and section 27 YJCEA 1999.",
+    "enrichment": {
+      "short_title": "Editing prior-incident references from child witness video evidence",
+      "area_of_law": [
+        "Criminal evidence",
+        "Youth justice",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Youth Justice and Criminal Evidence Act 1999",
+          "provisions": ["section 21", "section 27", "section 31(5)"]
+        }
+      ],
+      "key_facts": [
+        "Two 15-year-old school pupils were involved in youth court proceedings after AL alleged MG indecently assaulted her in a school corridor by digital penetration.",
+        "The Crown sought to play AL's video interview under section 21; the defence sought editing to exclude references to earlier alleged incidents of unwanted attention.",
+        "District Judge Day excluded the prior-incident material as neither similar-fact nor necessary background evidence and held section 27(3) did not make it admissible.",
+        "The Crown applied for judicial review of that ruling."
+      ],
+      "procedural_posture": "Judicial review on behalf of the CPS of a youth court decision excluding parts of a child witness's video-recorded evidence in chief.",
+      "outcome": "Application dismissed; the district judge's editing decision was within his lawful discretion and section 27(3) does not override ordinary admissibility rules.",
+      "ratio": "Background evidence is admissible only where omitting it would make the charged incident incomplete or incomprehensible; prior uncharged conduct between the same parties is not admissible merely to show persistence unless it passes that test, and section 27(3) YJCEA 1999 does not render otherwise inadmissible material admissible simply because evidence is given by video recording.",
+      "legal_issues": [
+        "Whether prior-incident allegations were admissible similar-fact or background evidence",
+        "Whether the district judge erred in balancing probative value against prejudice",
+        "The effect of section 27(2) and (3) on editing video-recorded child evidence",
+        "Whether section 31(5) preserves common-law admissibility rules"
+      ],
+      "catchwords": [
+        "youth court",
+        "video evidence",
+        "section 21 YJCEA 1999",
+        "section 27 editing",
+        "background evidence",
+        "similar fact",
+        "indecent assault",
+        "special measures"
+      ],
+      "index_terms": [
+        "Brentford Youth Court",
+        "CPS Harrow",
+        "Form E112 not applicable",
+        "child witness",
+        "school corridor assault",
+        "District Judge Day"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Sawoniuk",
+          "citation": "[2000] 2 Cr App R 220",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Pelleman",
+          "citation": "2 May 1985, unreported",
+          "relation": "applied"
+        },
+        {
+          "name": "R v M",
+          "citation": "",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete reserved judgment with clear statutory construction and deference to trial judge discretion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2383.json",
+    "status": "done",
+    "notes": "Complete High Court appeal on point of law from Employment Tribunal levy assessment.",
+    "enrichment": {
+      "short_title": "Construction industry training levy: activities test versus turnover test",
+      "area_of_law": [
+        "Employment law",
+        "Industrial training levy",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Industrial Training Act 1982",
+          "provisions": ["section 11", "section 12"]
+        },
+        {
+          "title": "Tribunals and Inquiries Act 1992",
+          "provisions": ["section 11(1)"]
+        },
+        {
+          "title": "Industrial Training (Construction Board) Order 1964 (Amendment) Order 1992",
+          "provisions": ["Schedule 1, paragraph 1(f)", "paragraph 1(h)(i)", "paragraph 3"]
+        },
+        {
+          "title": "Industrial Training Levy (Construction Board) Order 2002",
+          "provisions": ["paragraph 2(e)", "paragraph 3"]
+        }
+      ],
+      "key_facts": [
+        "Bobcat Plant Hire appealed an Employment Tribunal decision upholding a £381 Construction Industry Training Board levy assessment.",
+        "Bobcat argued it was mainly a plant sales business (about 85.5% turnover) rather than hire/repair, and so not mainly engaged in the construction industry.",
+        "The Board applied an 'activities approach' based on employee time in hire, repair and maintenance rather than the accountant's turnover-based apportionment.",
+        "Bobcat failed to appear at the tribunal hearing or provide workforce activity evidence after being invited to do so."
+      ],
+      "procedural_posture": "Appeal to the High Court on a point of law from an Employment Tribunal decision under section 11 Tribunals and Inquiries Act 1992.",
+      "outcome": "Appeal dismissed; the tribunal was entitled to find Bobcat had not discharged its burden of proving it was not a construction establishment mainly engaged in construction industry activities.",
+      "ratio": "Whether an employer is a 'construction establishment' for levy purposes is determined by the activities of the construction industry as defined in the scope order, assessed by employee activity/time rather than turnover; on appeal the High Court cannot receive fresh factual evidence and will not interfere with tribunal fact-finding where the appellant failed to prove its case.",
+      "legal_issues": [
+        "Whether the activities test or turnover test governs 'mainly engaged' in the construction industry",
+        "Whether plant sales, hire, repair and maintenance fell within scope order activities",
+        "Whether the tribunal erred in law or fact in upholding the levy",
+        "Whether fresh evidence was admissible on High Court appeal"
+      ],
+      "catchwords": [
+        "industrial training levy",
+        "Construction Industry Training Board",
+        "construction establishment",
+        "activities test",
+        "Employment Tribunal appeal",
+        "plant hire",
+        "scope order"
+      ],
+      "index_terms": [
+        "Bobcat Plant Hire",
+        "CITB",
+        "contractors' plant",
+        "assessment notice",
+        "H Churchill & Sons v Engineering Industry Training Board",
+        "Bristol Employment Tribunal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "H Churchill & Sons Ltd v Engineering Industry Training Board",
+          "citation": "2 ITR 314 (3 March 1967)",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete deputy judge judgment with clear legal analysis; minor alternative arguments on repair/sales left unresolved but not needed for disposition."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3180.json",
+    "status": "needs_review",
+    "notes": "Substantive CCRC reference judgment complete (appeal allowed) but text ends abruptly during post-appeal costs discussion at paragraph 31.",
+    "enrichment": {
+      "short_title": "Unsafe cannabis possession convictions after police credibility evidence emerged",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Drugs offences"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Lloyd George Fraser was convicted in November 1993 at Birmingham Crown Court of possessing cannabis and cannabis resin after 12 kg of drugs were found in a loft at a co-accused's house.",
+        "Police said Fraser's keys fitted the house and a matching twist of resin was found under his car seat; Fraser alleged a police plant.",
+        "Leave to appeal was refused in 1993; nearly ten years later the CCRC referred the case after disciplinary investigations undermined DC Brakewell, DC Battsford and DC Green.",
+        "Missing notebook entries and Brakewell's conduct in other drug cases, including R v Whelan, raised suspicion of perjury infecting the trial."
+      ],
+      "procedural_posture": "Appeal against conviction following CCRC reference under section 13 Criminal Appeal Act 1995 after original leave to appeal was refused.",
+      "outcome": "Appeal allowed; convictions quashed as unsafe. Crown conceded the appeal. Costs of representation were discussed but the judgment text ends before final costs orders.",
+      "ratio": "Convictions are unsafe where subsequent material shows key police witnesses would not have been regarded as witnesses of truth had the jury known of later disciplinary investigations and irregularities in related cases, following R v Twitchell on admissibility of such post-trial material.",
+      "legal_issues": [
+        "Whether new evidence about police officers' credibility made the 1993 convictions unsafe",
+        "Whether missing police notebooks and inconsistent evidence supported a plant allegation",
+        "Admissibility and effect of post-trial disciplinary findings under R v Twitchell"
+      ],
+      "catchwords": [
+        "unsafe conviction",
+        "CCRC reference",
+        "police credibility",
+        "drugs possession",
+        "planted evidence",
+        "disciplinary investigation",
+        "appeal allowed"
+      ],
+      "index_terms": [
+        "Lloyd George Fraser",
+        "DC Brakewell",
+        "DC Battsford",
+        "West Midlands drug squad",
+        "cannabis resin",
+        "R v Whelan",
+        "R v Twitchell"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Twitchell",
+          "citation": "[2000] 1 Cr App R 373",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Maxine Edwards",
+          "citation": "[1996] 2 Cr App R 345",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Whelan",
+          "citation": "[1997] Cr LR 353",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Core ratio and outcome are clear from paragraphs 1-24, but source summary is truncated and final costs paragraphs are incomplete."
+      }
+    }
+  }
+]

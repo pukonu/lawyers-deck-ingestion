@@ -1,0 +1,707 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1368.json",
+    "status": "done",
+    "notes": "Urgent interlocutory appeal on PII inadvertent disclosure; jurisdiction and lawyer-client restraint issues are clear despite sanitised reporting.",
+    "enrichment": {
+      "short_title": "PII inadvertent disclosure: restraint on defence lawyers quashed",
+      "area_of_law": [
+        "Criminal procedure",
+        "Public interest immunity",
+        "Legal professional privilege",
+        "Serious fraud trial management"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1987",
+          "provisions": [
+            "section 7",
+            "section 8",
+            "section 9",
+            "section 11(5)"
+          ]
+        },
+        {
+          "title": "Criminal Procedure and Investigation Act 1996",
+          "provisions": [
+            "section 3(6)",
+            "section 7(5)"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 45(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Five defendants faced a long serious fraud trial after the prosecution inadvertently disclosed highly sensitive PII material to some defence counsel after the jury had been sworn.",
+        "The trial judge made interim and final orders prohibiting lawyers who had seen the material from disclosing it to their clients or using it in the trial.",
+        "The Court of Appeal held it had jurisdiction under section 9 of the 1987 Act because the hearing after jury discharge was a preparatory hearing for trial management.",
+        "The court concluded restraint was unjust and inequable because it was too late to restore the status quo and would undermine lawyer-client relationships."
+      ],
+      "procedural_posture": "Interlocutory appeal with leave against a Crown Court order restraining defence lawyers from using or discussing inadvertently disclosed PII material with their clients.",
+      "outcome": "Appeal allowed; the 19 May order quashed subject to interim undertakings and further directions on certification for possible appeal to the House of Lords.",
+      "ratio": "Where sensitive material protected by PII is inadvertently disclosed to defence lawyers, a Crown Court may in principle make ancillary orders restraining use, but on these facts restraint was not just or equitable; compelling counsel silence would undermine the client relationship and could not be reconciled with Davis, Johnson and Rowe.",
+      "legal_issues": [
+        "Whether the Court of Appeal had jurisdiction over the Crown Court ruling",
+        "Whether the judge could restrain lawyers from disclosing or using inadvertently disclosed PII material",
+        "Whether restrained lawyers could properly continue to act",
+        "Whether criminal proceedings allow remedies comparable to CPR 31.20 in civil cases"
+      ],
+      "catchwords": [
+        "public interest immunity",
+        "inadvertent disclosure",
+        "Chinese wall",
+        "preparatory hearing",
+        "serious fraud",
+        "legal professional privilege"
+      ],
+      "index_terms": [
+        "Criminal Justice Act 1987",
+        "trial management",
+        "defence counsel",
+        "contempt of court",
+        "Article 6 ECHR",
+        "special counsel"
+      ],
+      "linked_authorities": [
+        "Davis, Johnson and Rowe 97 Cr App R 110",
+        "Al-Fayed v Commissioner of Police [2001] EWCA Civ 780",
+        "R (Morgan Grenfell) v Special Commissioners [2003] 1 AC 263",
+        "H and C [2004] 2 WLR 335",
+        "Attorney-General's Reference No 1 of 2004 [2004] EWCA Crim 1025"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Core jurisdictional and fairness conclusions are explicit. Underlying fraud allegations and sensitive material are deliberately sanitised in the public judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/664.json",
+    "status": "done",
+    "notes": "First Court of Appeal consideration of Defamation Act 1996 offer-of-amends regime; Eady J's section 4(3) construction upheld.",
+    "enrichment": {
+      "short_title": "Offer of amends defence: recklessness test under section 4(3)",
+      "area_of_law": [
+        "Defamation",
+        "Media law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Defamation Act 1996",
+          "provisions": [
+            "section 2",
+            "section 3",
+            "section 4",
+            "section 4(3)"
+          ]
+        },
+        {
+          "title": "Defamation Act 1952",
+          "provisions": [
+            "section 4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Andrew Milne sued Express Newspapers over a Sunday Express article suggesting he was reasonably suspected of giving false evidence to the Filkin inquiry into Keith Vaz.",
+        "The defendants made an unqualified offer to make amends under section 2, which Milne rejected, and pleaded the statutory defence under section 4.",
+        "Milne sought to rebut the defence under section 4(3) by alleging journalist Tim Shipman had reason to believe the statement was false.",
+        "Eady J struck out and refused amended particulars; the Court of Appeal upheld his construction that section 4(3) imports recklessness in Lord Diplock's sense."
+      ],
+      "procedural_posture": "Applications for permission to appeal against strike-out and refusal to amend in defamation proceedings.",
+      "outcome": "First application refused for want of extension of time; permission granted on narrowed grounds for the second application but appeal dismissed.",
+      "ratio": "Section 4(3) of the Defamation Act 1996 implements the Neill Committee recommendation and requires the claimant to prove the publisher knew or had reason to believe the statement was false in the sense of reckless indifference to truth, not negligence, constructive knowledge, or mere suspicion.",
+      "legal_issues": [
+        "Proper construction of 'had reason to believe' in section 4(3)",
+        "Whether the offer-of-amends defence can be defeated by journalistic carelessness",
+        "Whether amended particulars showed bad faith or recklessness by Mr Shipman",
+        "Relationship between section 4(3) and the Neill Committee report"
+      ],
+      "catchwords": [
+        "offer to make amends",
+        "Defamation Act 1996",
+        "recklessness",
+        "Filkin inquiry",
+        "strike out",
+        "bad faith"
+      ],
+      "index_terms": [
+        "Sunday Express",
+        "Keith Vaz",
+        "Sarosh Zaiwalla",
+        "Horrocks v Lowe",
+        "Neill Committee",
+        "jury trial"
+      ],
+      "linked_authorities": [
+        "Milne v Express Newspapers [2003] 1 WLR 927",
+        "Horrocks v Lowe [1975] AC 135",
+        "Broome v Cassell [1972] AC 1027",
+        "Swain v Matui Ram Puri [1996] PIQR 442",
+        "Abu v MGM Limited [2003] 1 WLR 2201"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Statutory analysis and outcome are detailed and authoritative. Some linked House of Lords authorities are historical context only."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/1485.json",
+    "status": "done",
+    "notes": "Summary judgment application largely failed; triable issues on Data Protection Act retention and Article 8 GMC health enquiries.",
+    "enrichment": {
+      "short_title": "Dr Pal v GMC: summary judgment refused on DPA and HRA claims",
+      "area_of_law": [
+        "Administrative law",
+        "Data protection",
+        "Human rights",
+        "Defamation",
+        "Medical regulation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": [
+            "Principle 5"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "Article 8"
+          ]
+        },
+        {
+          "title": "Defamation Act 1996",
+          "provisions": [
+            "section 2"
+          ]
+        },
+        {
+          "title": "GMC Rules 1987",
+          "provisions": [
+            "Rule 6.1",
+            "Rule 6.2",
+            "Rule 6.3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Pal, a doctor who complained to the GMC about treatment of the elderly, sued the GMC and employees for Data Protection Act breaches, Article 8 violations, and defamation.",
+        "Internal GMC memoranda suggested she might be mentally ill based largely on the tone of her correspondence and interview stipulations.",
+        "The GMC retained complaint files far beyond its six-month retention policy while reconsidering policy for years.",
+        "Judge Harris allowed amendment and refused summary judgment, finding triable issues on retention, Article 8 justification, and defamatory meaning."
+      ],
+      "procedural_posture": "Application for summary judgment under CPR 24 after a part-heard hearing was relisted before a different judge.",
+      "outcome": "Defendants' summary judgment application failed; Data Protection Act, Human Rights Act, and one defamation claim proceed to trial.",
+      "ratio": "A local authority or regulator cannot justify retaining personal data indefinitely while reviewing policy contrary to Principle 5; GMC officials' enquiries into a complainant's mental health raised arguable Article 8 issues where no formal health complaint existed; memoranda describing a doctor as extremely irrational could bear a defamatory meaning fit for a jury.",
+      "legal_issues": [
+        "Whether the claimant had real prospect of success on Data Protection Act retention",
+        "Whether Article 8.2 justification under GMC Rule 6 was established",
+        "Whether internal memoranda were capable of defamatory meaning",
+        "Proper test for summary disposal of defamation claims"
+      ],
+      "catchwords": [
+        "General Medical Council",
+        "summary judgment",
+        "data retention",
+        "Article 8",
+        "war pensions",
+        "defamation"
+      ],
+      "index_terms": [
+        "CPR 24",
+        "Principle 5",
+        "fitness to practise",
+        "mental illness stigma",
+        "Jamil v Wall Street Journal",
+        "litigant in person"
+      ],
+      "linked_authorities": [
+        "Alexander v Arts Council of Wales [2001] 1 WLR 1840",
+        "Jamil v The Wall Street Journal [2003] EWCA Civ 1694"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome and principal legal reasoning on each head of claim are clear. Full merits of DPA and HRA claims remain for trial."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1343.json",
+    "status": "done",
+    "notes": "Security for costs application largely dismissed; stifling genuine claim principle applied to offshore SPV claimant.",
+    "enrichment": {
+      "short_title": "Brimko v Kodak: security for costs limited to offered charge plus £15,000",
+      "area_of_law": [
+        "Civil procedure",
+        "Security for costs",
+        "Commercial litigation",
+        "Joint venture disputes"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 726"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Guernsey SPV Brimko Holdings sued Eastman Kodak for about US$52 million after Kodak terminated a Shanghai joint venture franchising business.",
+        "Kodak sought £2.5 million security for costs for a 25–30 day trial; BKH conceded it could not pay costs from its own resources.",
+        "Mr Brim, beneficiary of a Jersey settlement, offered charges over Richbourne Court flat equity and a contingent entitlement, but not Mrs Brim's equitable interest in Acacia Road.",
+        "Park J held ordering full security would stifle a genuine claim and limited security to what was offered plus £15,000 cash."
+      ],
+      "procedural_posture": "Application for security for costs under CPR 25.12–25.13 in high-value commercial claim.",
+      "outcome": "Application largely failed; security limited to offered charges and £15,000, with claim to be struck out if conditions not fulfilled.",
+      "ratio": "An order for security for costs should not stifle a genuine claim; the court may consider third-party resources but should not pressurise non-party family members to provide security, and a claimant's pension fund and solicitors' disbursement retainer are not realistically available for security.",
+      "legal_issues": [
+        "Whether security at Kodak's requested level would stifle the claim",
+        "Whether third-party assets of Mr Brim, the settlement, and family members should be treated as available",
+        "Whether Mrs Brim's negotiated equitable interest in Acacia Road could be charged",
+        "Proper exercise of discretion under CPR 25.13(1)(a)"
+      ],
+      "catchwords": [
+        "security for costs",
+        "stifling",
+        "offshore company",
+        "joint venture",
+        "Guernsey SPV",
+        "third party funding"
+      ],
+      "index_terms": [
+        "CPR 25.13",
+        "Keary Developments",
+        "Eastman Kodak",
+        "Shanghai franchising",
+        "Jersey settlement",
+        "Richbourne Court"
+      ],
+      "linked_authorities": [
+        "Keary Developments Ltd v Tarmac Construction Ltd [1995] 3 All ER 534",
+        "Anglo-Eastern Trust Ltd v Kermanshahchi [2002] EWCA Civ 198"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Discretionary analysis and asset-by-asset reasoning are comprehensive. Merits of the underlying joint venture claim were not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1246.json",
+    "status": "done",
+    "notes": "Section 42 civil proceedings order granted with limited permission to continue first non-vexatious claim with advocate representation.",
+    "enrichment": {
+      "short_title": "Attorney General v Pepin: civil proceedings order for vexatious litigant",
+      "area_of_law": [
+        "Civil procedure",
+        "Vexatious litigants",
+        "Administrative law",
+        "Police litigation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 42"
+          ]
+        },
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Pepin brought ten sets of proceedings over several years arising mainly from a 1997 police search and PC Watts' disclosure of CIS information to a head teacher.",
+        "Proceedings were characterised by serial re-litigation, aggressive interlocutory conduct, and failure to proceed to trial in good faith.",
+        "The Attorney General applied under section 42 for a civil proceedings order.",
+        "The court made an indefinite order but permitted Pepin to continue his first Data Protection claim only if represented by an advocate with higher rights."
+      ],
+      "procedural_posture": "Attorney General's application for a civil proceedings order under section 42 of the Supreme Court Act 1981.",
+      "outcome": "Civil proceedings order made without limit of time, save permission to continue the first claim with advocate representation; other proceedings require section 42 permission.",
+      "ratio": "A litigant who habitually and persistently institutes vexatious proceedings without reasonable ground may be restrained under section 42; Bhamjee does not require lesser orders before a section 42 order where the Attorney General's comprehensive investigation shows proportionate need, though merit in underlying complaints does not excuse oppressive conduct.",
+      "legal_issues": [
+        "Whether Mr Pepin habitually and persistently instituted vexatious proceedings",
+        "Whether recent regulatory criticism of police conduct prevented a section 42 order",
+        "Whether Bhamjee requires step-by-step lesser restraints before section 42",
+        "Whether the order should be proportionate under Article 6 ECHR"
+      ],
+      "catchwords": [
+        "vexatious litigant",
+        "section 42",
+        "civil proceedings order",
+        "serial litigation",
+        "police disclosure",
+        "Bhamjee"
+      ],
+      "index_terms": [
+        "Attorney General v Barker",
+        "Attorney General v Jones",
+        "PC Watts",
+        "Criminal Intelligence Service",
+        "Grepe v Loam",
+        "litigation abuse"
+      ],
+      "linked_authorities": [
+        "Attorney General v Barker [2001] 1 FLR 759",
+        "Attorney General v Jones [1990] 1 WLR 859",
+        "Bhamjee v Forsdick [2004] 1 WLR 88",
+        "Ebert v Official Receiver [2001] EWCA Civ 340"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Factual chronology of ten actions and section 42 discretion analysis are detailed. Court does not reconsider merits of underlying claims."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1313.json",
+    "status": "done",
+    "notes": "Section 41 YJCEA 1999 cross-examination appeal dismissed; R v T evidential basis requirement applied.",
+    "enrichment": {
+      "short_title": "Section 41 restriction on cross-examining child complainants upheld",
+      "area_of_law": [
+        "Criminal law",
+        "Sexual offences",
+        "Evidence",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Youth Justice and Criminal Evidence Act 1999",
+          "provisions": [
+            "section 41",
+            "section 41(1)",
+            "section 41(3)",
+            "section 41(4)"
+          ]
+        },
+        {
+          "title": "Children and Young Persons Act 1933",
+          "provisions": [
+            "section 39"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr E was convicted of indecent assaults on his daughters aged 4 and 6 based on video interviews.",
+        "Fifteen months later the girls made further video allegations of abuse by other family members which were never investigated.",
+        "Defence counsel sought section 41 leave to cross-examine on those later allegations to undermine credibility; the judge refused.",
+        "The Court of Appeal held the later abuse amounted to 'sexual experience' and cross-examination was properly excluded for lack of evidential basis under R v T."
+      ],
+      "procedural_posture": "Appeal against conviction on grounds that exclusion of cross-examination under section 41 rendered the trial unsafe.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Section 41 applies to child complainants' sexual experience regardless of their understanding; cross-examination about subsequent un investigated abuse allegations requires a proper evidential basis that they were made and untrue under R v T, and exclusion was proportionate under Article 6 where collateral enquiry would be speculative and intrusive.",
+      "legal_issues": [
+        "Whether later alleged abuse constituted 'sexual experience' under section 41",
+        "Application of R v T evidential basis requirement",
+        "Compatibility of section 41(4) with Article 6 fair trial rights",
+        "Admissibility of subsequent as opposed to prior false allegations"
+      ],
+      "catchwords": [
+        "section 41",
+        "sexual behaviour evidence",
+        "child complainants",
+        "cross-examination",
+        "R v T",
+        "indecent assault"
+      ],
+      "index_terms": [
+        "Youth Justice and Criminal Evidence Act 1999",
+        "video interview",
+        "credibility",
+        "Article 6",
+        "R v A (No 2)",
+        "special measures"
+      ],
+      "linked_authorities": [
+        "R v T [2002] 1 WLR 632",
+        "R v A (No 2) [2002] 1 AC 45",
+        "Seaboyer (1991) 83 DLR (4th) 193"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory construction and R v T application are clearly reasoned. Complainant identities protected by section 39 order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1495.json",
+    "status": "done",
+    "notes": "Section 288 planning appeal dismissed; Inspector's PPG3-based material considerations finding upheld.",
+    "enrichment": {
+      "short_title": "Chesham car showroom: planning appeal challenge dismissed",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Mixed-use development"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 54A",
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Try Homes appealed Chiltern District Council's refusal of permission to redevelop a car showroom and garage site in Chesham with offices, flats, and houses.",
+        "The site was allocated for business use under local plan policies E3 and E4; the existing business was likely to close.",
+        "The Inspector allowed the appeal, finding material considerations including PPG3 guidance on reusing poorly sited employment land outweighed plan policies.",
+        "The council challenged the decision under section 288 on PPG3 misapplication, inadequate reasons, and perversity grounds."
+      ],
+      "procedural_posture": "Statutory challenge under section 288 of the Town and Country Planning Act 1990 to quash a planning appeal decision.",
+      "outcome": "Claim dismissed; permission to appeal refused; Secretary of State's costs summarily assessed at £6,906.88.",
+      "ratio": "An inspector's reference to PPG3 paragraph 42 on reusing employment land does not show error of law where the decision reflects the broader PPG3 theme favouring housing on sites unlikely to remain in employment use; poorly sited employment land and no harm to business land supply were supported by uncontradicted evidence.",
+      "legal_issues": [
+        "Whether the Inspector misapplied PPG3 paragraphs 42 and 42A",
+        "Whether adequate reasons were given for 'poorly sited employment land'",
+        "Whether the finding of no harm to business land supply was perverse",
+        "Application of section 54A material considerations test"
+      ],
+      "catchwords": [
+        "planning appeal",
+        "section 288",
+        "PPG3",
+        "employment land",
+        "mixed use",
+        "material considerations"
+      ],
+      "index_terms": [
+        "Chiltern District Council",
+        "Chesham",
+        "Policy E3",
+        "Policy E4",
+        "South Somerset",
+        "housing need"
+      ],
+      "linked_authorities": [
+        "South Somerset District Council v Secretary of State [1995] PLR 83",
+        "Seddon Properties v Secretary of State (1981) 42 P&CR 26",
+        "Save Britain's Heritage v No.1 Poultry Ltd [1991] 1 WLR 167"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Three grounds of challenge and inspector reasoning are clearly addressed. Draft PPG3 consultation paragraph given limited weight."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/675.json",
+    "status": "done",
+    "notes": "All-risks policy construction appeal dismissed; Moffatt and Engel line on 'for which responsible' followed.",
+    "enrichment": {
+      "short_title": "Bailee all-risks cover restricted to goods for which legally responsible",
+      "area_of_law": [
+        "Insurance law",
+        "Commercial law",
+        "Bailment"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Contracts (Rights of Third Parties) Act 1999",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Ramco and RIL claimed under a combined all-risks policy after a fire at Skegness premises destroyed their stock and goods bailed by third parties including Mr Neville Murray.",
+        "The policy covered property 'held by the Insured in trust for which the Insured is responsible'.",
+        "Andrew Smith J held recovery for bailed goods required proof of legal liability for the damage.",
+        "The Court of Appeal affirmed Moffatt and Engel: the phrase restricts cover to goods for which the bailee is legally responsible."
+      ],
+      "procedural_posture": "Appeal from preliminary issue trial on construction of all-risks insurance policy wording.",
+      "outcome": "Appeal dismissed with costs; leave to appeal to the House of Lords refused.",
+      "ratio": "Where an all-risks policy insures contents 'held by the Insured in trust for which the Insured is responsible', longstanding authority treats those words as limiting indemnity to goods for which the bailee has legal liability; Moffatt and Engel should not be overruled given settled market usage over 80 years.",
+      "legal_issues": [
+        "Construction of 'for which the Insured is responsible' in bailee all-risks policies",
+        "Whether Moffatt and Engel should be followed or overruled",
+        "Relationship between liability insurance and full-value bailee insurance after Waters v Monarch",
+        "Extent of indemnity where liability is established"
+      ],
+      "catchwords": [
+        "all-risks insurance",
+        "bailee",
+        "trust goods",
+        "Moffatt",
+        "Engel",
+        "legal liability"
+      ],
+      "index_terms": [
+        "Waters v Monarch",
+        "Tomlinson v Hepburn",
+        "fire damage",
+        "Skegness",
+        "underinsurance",
+        "Petrofina v Magnaload"
+      ],
+      "linked_authorities": [
+        "Waters v Monarch Fire and Life Assurance Co (1856) 5 E&B 870",
+        "North British and Mercantile Insurance Co v Moffatt (1871) LR 7 CP 25",
+        "Engel v Lancashire & General Assurance Co (1925) 21 Ll L R 327",
+        "Tomlinson v Hepburn [1966] AC 451"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Issue was a pure question of construction with extensive authority review. Second preliminary issue on quantum was not appealed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1350.json",
+    "status": "done",
+    "notes": "NMC professional conduct appeal dismissed on all four grounds; Gupta deference to committee fact-finding applied.",
+    "enrichment": {
+      "short_title": "Nursing misconduct appeal: removal from register upheld",
+      "area_of_law": [
+        "Professional discipline",
+        "Healthcare regulation",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nurses, Midwives and Health Visitors Act 1997",
+          "provisions": [
+            "section 10",
+            "section 12"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Registered mental nurse Mr Clarke faced seven misconduct charges relating to verbal and physical abuse of vulnerable patients at Havelock Nursing Centre.",
+        "Four charges were proved on the uncorroborated evidence of care assistant Mrs Hall; three were not pursued after witness Mrs Haynes failed to attend.",
+        "The Professional Conduct Committee removed Clarke's name from the register indefinitely without specifying a period.",
+        "Richards J dismissed the statutory appeal on fact, reasons, procedural fairness, and penalty grounds."
+      ],
+      "procedural_posture": "Statutory appeal under section 12 of the 1997 Act against NMC Professional Conduct Committee findings and penalty.",
+      "outcome": "Appeal dismissed; respondent's costs summarily assessed at £6,293.30.",
+      "ratio": "On a professional discipline appeal the court accords respect to the committee's assessment of witness credibility and penalty where abuse of vulnerable patients was serious; Gupta does not require detailed reasons on credibility findings, and failure to adjourn for further mitigation references was not unfair where the appellant did not request adjournment.",
+      "legal_issues": [
+        "Whether findings on uncorroborated evidence were unreasonable",
+        "Whether adequate reasons were required for accepting Mrs Hall's evidence",
+        "Whether the committee should have adjourned before imposing penalty",
+        "Whether indefinite removal from the register was disproportionate"
+      ],
+      "catchwords": [
+        "Nursing and Midwifery Council",
+        "professional misconduct",
+        "register removal",
+        "patient abuse",
+        "credibility",
+        "Gupta"
+      ],
+      "index_terms": [
+        "Professional Conduct Rules 1993",
+        "CPR 52.11",
+        "Ghosh v GMC",
+        "mental health nursing",
+        "public protection",
+        "restoration application"
+      ],
+      "linked_authorities": [
+        "Gupta v General Medical Council [2002] 1 WLR 1691",
+        "Ghosh v General Medical Council [2001] 1 WLR 1915"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Four grounds of appeal and committee reasoning are fully addressed. Underlying factual dispute was resolved by committee on oral evidence not before the court."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1271.json",
+    "status": "done",
+    "notes": "War pensions paragraph 10 backdating appeal dismissed; duty to inform ex-service personnel abroad recognised.",
+    "enrichment": {
+      "short_title": "War pension backdating: duty to inform overseas veterans",
+      "area_of_law": [
+        "Pensions law",
+        "Military law",
+        "Administrative law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Naval, Military and Air Forces Etc. (Disablement and Death) Services Pensions Order 1983",
+          "provisions": [
+            "Article 3A",
+            "Article 3B",
+            "Schedule 3 paragraph 10"
+          ]
+        },
+        {
+          "title": "Social Security (Miscellaneous Provisions) Act 1977",
+          "provisions": [
+            "section 12(1)"
+          ]
+        },
+        {
+          "title": "Pension Appeal Tribunals Act 1943",
+          "provisions": [
+            "section 5A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Captain William Reid was wounded twice in Italy in 1945, emigrated to Canada in 1955, and did not learn of war disablement pension entitlement until 1997.",
+        "He claimed in 1998 and received a pension backdated only to the claim date; he appealed for earlier backdating to age 65 in 1989.",
+        "The Pensions Appeal Tribunal found the Secretary of State omitted to take reasonable steps to inform ex-service personnel abroad, causing delay.",
+        "Newman J held paragraph 10 Schedule 3 imposed a duty to inform and that uncontradicted evidence showed breach as to overseas veterans."
+      ],
+      "procedural_posture": "Appeal by the Secretary of State against a Pensions Appeal Tribunal decision applying Schedule 3 paragraph 10 to backdate pension entitlement.",
+      "outcome": "Appeal dismissed; PAT decision that Mr Reid would have claimed earlier but for the Secretary of State's omission upheld.",
+      "ratio": "Ex-service personnel have a special relationship with the Crown under the war pensions scheme; paragraph 10's 'omission' includes failure to take reasonable steps to inform personnel of entitlement even before any claim is made, and where no evidence showed reasonable overseas information steps were taken ignorance may support backdating.",
+      "legal_issues": [
+        "Whether paragraph 10 requires a duty to inform ex-service personnel of pension entitlement",
+        "Whether the duty extends to personnel living abroad",
+        "Whether the Secretary of State breached the duty in Mr Reid's case",
+        "Whether social security backdating rules provide an appropriate parallel"
+      ],
+      "catchwords": [
+        "war disablement pension",
+        "backdating",
+        "Schedule 3 paragraph 10",
+        "overseas veterans",
+        "administrative omission",
+        "armed forces"
+      ],
+      "index_terms": [
+        "War Pensions Agency",
+        "Pensions Appeal Tribunal",
+        "Royal Armoured Corps",
+        "Canada",
+        "Military Cross",
+        "Secretary of State for Defence v Hopkins"
+      ],
+      "linked_authorities": [
+        "Secretary of State for Defence v Hopkins [2004] EWHC 299 (Admin)",
+        "Coull v Secretary of State for Social Security (7 November 2000)"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Interpretation issue and factual findings are clearly explained. Duty identified as not legally enforceable but relevant to paragraph 10 omissions."
+      }
+    }
+  }
+]

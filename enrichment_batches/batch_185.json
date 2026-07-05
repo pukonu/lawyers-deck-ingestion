@@ -1,0 +1,770 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3735.json",
+    "status": "done",
+    "notes": "Complete EWCA Crim judgment on jury directions in two-party conspiracy cases.",
+    "enrichment": {
+      "short_title": "Two-party conspiracy appeal: differing verdicts wrongly permitted where evidence against both defendants was the same",
+      "area_of_law": [
+        "Criminal law",
+        "Conspiracy",
+        "Jury directions",
+        "Criminal appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Law Act 1977",
+          "provisions": ["s 5(8)"]
+        }
+      ],
+      "key_facts": [
+        "Testouri and council housing officer Gordon were tried for conspiracy to defraud Lambeth over inflated decorating/repair invoices on council properties.",
+        "The trial judge directed the jury that they could convict Testouri and acquit Gordon because their roles and dishonest intent differed.",
+        "The jury convicted Testouri but acquitted Gordon; Testouri appealed against conviction."
+      ],
+      "procedural_posture": "Appeal against conviction by leave of the Single Judge in the Court of Appeal (Criminal Division).",
+      "outcome": "Appeal allowed; conviction quashed.",
+      "ratio": "In a two-defendant conspiracy to defraud, the judge must first ask whether there is evidence of agreement and then whether there is evidence admissible only against one defendant that could be critical; where there is no such unequal evidence and the same evidence is equally admissible against both, the jury must be directed to return the same verdict for each defendant, and a conviction of one with acquittal of the other is inconsistent.",
+      "legal_issues": [
+        "Whether a jury may return different verdicts on a two-party conspiracy count",
+        "When a judge must direct 'both guilty or both not guilty' in conspiracy cases",
+        "Application of R v Longman, R v Roberts and R v Ashton to differing-verdict directions"
+      ],
+      "catchwords": [
+        "conspiracy to defraud",
+        "differing verdicts",
+        "jury direction",
+        "two accused",
+        "inconsistent verdicts",
+        "dishonest agreement"
+      ],
+      "index_terms": [
+        "Testouri",
+        "Lambeth housing fraud",
+        "subcontractor fraud",
+        "Longman direction",
+        "Yip Chieu-Chung",
+        "Criminal Law Act 1977 s 5(8)"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Longman & Cribben",
+          "citation": "[1981] 72 Cr App R 121"
+        },
+        {
+          "name": "R v Roberts",
+          "citation": "[1987] 78 Cr App R 41"
+        },
+        {
+          "name": "R v Ashton",
+          "citation": "[1992] Crim LR 667"
+        },
+        {
+          "name": "Yip Chieu-Chung v The Queen",
+          "citation": "[1995] 1 AC 111"
+        },
+        {
+          "name": "Blake and Tye",
+          "citation": "(1844) 6 QB 126"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full judgment text available; ratio clearly stated on the two-stage test for differing verdicts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/2913.json",
+    "status": "done",
+    "notes": "Complete Commercial Court judgment refusing anti-suit injunction in parallel English/New York swap litigation.",
+    "enrichment": {
+      "short_title": "RBC anti-suit injunction refused where Rabobank pursued parallel New York proceedings under non-exclusive English jurisdiction clause",
+      "area_of_law": [
+        "Commercial law",
+        "Conflict of laws",
+        "Financial services",
+        "Injunctions"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["s 37"]
+        }
+      ],
+      "key_facts": [
+        "Royal Bank of Canada and Rabobank disputed liability under a Total Return Swap forming part of an Enron-related structured finance transaction governed by an English-law ISDA Master Agreement with a non-exclusive English jurisdiction clause.",
+        "Parallel proceedings were brought in England and New York over the same issues; New York trial was listed for January 2004 and the English trial for March 2004.",
+        "RBC sought an injunction restraining Rabobank from obtaining any determination in New York save for completing factual discovery."
+      ],
+      "procedural_posture": "Application for an anti-suit injunction in the Commercial Court during concurrent English and New York litigation.",
+      "outcome": "Application dismissed; Rabobank not restrained from pursuing New York proceedings to determination.",
+      "ratio": "Concurrent litigation in two jurisdictions does not of itself make foreign proceedings vexatious or oppressive; a non-exclusive English jurisdiction clause may lighten the burden of showing oppressive conduct but does not convert England into an exclusive forum or deprive a party of a legitimate juridical advantage in litigating elsewhere, and it would not be just under section 37 to restrain Rabobank from pursuing duly commenced New York proceedings.",
+      "legal_issues": [
+        "Whether pursuit of parallel New York proceedings was vexatious or oppressive",
+        "Effect of a non-exclusive English jurisdiction clause in an ISDA agreement",
+        "Whether England was the natural or primary forum",
+        "Appropriate use of anti-suit injunctions where foreign courts have accepted jurisdiction"
+      ],
+      "catchwords": [
+        "anti-suit injunction",
+        "forum non conveniens",
+        "parallel proceedings",
+        "non-exclusive jurisdiction clause",
+        "ISDA Master Agreement",
+        "vexatious proceedings",
+        "comity"
+      ],
+      "index_terms": [
+        "Royal Bank of Canada v Rabobank",
+        "Total Return Swap",
+        "Enron structured finance",
+        "Turner v Grovit",
+        "Societe Aerospatiale v Lee Kui Jak",
+        "issue estoppel",
+        "summary judgment New York"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Turner v Grovit",
+          "citation": "[2001] UKHL 65"
+        },
+        {
+          "name": "Societe Nationale Industrielle Aerospatiale v Lee Kui Jak",
+          "citation": "[1987] AC 871"
+        },
+        {
+          "name": "National Westminster Bank v Utrecht-America Finance Company",
+          "citation": "[2001] EWCA Civ 658"
+        },
+        {
+          "name": "Sabah Shipyard (Pakistan) Ltd v Islamic Republic of Pakistan",
+          "citation": "[2002] EWCA Civ 1643"
+        },
+        {
+          "name": "Pathe Screen Entertainment Ltd v Homemade Films (Distributors) Ltd",
+          "citation": "unreported, 11 July 1989"
+        },
+        {
+          "name": "The Abidin Daver",
+          "citation": "[1984] AC 398"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long but complete judgment with detailed findings on jurisdiction clause and oppressive conduct."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2003/2927.json",
+    "status": "done",
+    "notes": "Complete Munby J judgment on media injunction variation and Article 8/10 balancing for competent teenager.",
+    "enrichment": {
+      "short_title": "Teenage mother permitted to tell care-system story while anonymity of child X and adopted daughter Y preserved",
+      "area_of_law": [
+        "Family law",
+        "Media and privacy",
+        "Human rights",
+        "Children law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["s 6", "s 12", "s 12(3)"]
+        },
+        {
+          "title": "Adoption Act 1976",
+          "provisions": ["consent dispensed with (background)"]
+        },
+        {
+          "title": "Administration of Justice Act 1960",
+          "provisions": ["s 12(2) (background)"]
+        }
+      ],
+      "key_facts": [
+        "Angela Roddy became pregnant at 12; care and adoption proceedings followed, with long-standing injunctions protecting the identities of Angela, the putative father X, and her daughter Y.",
+        "Associated Newspapers applied to vary the injunction so Angela, then nearly 17, could tell her story in the Mail on Sunday without identifying X or Y.",
+        "Torbay Borough Council sought wider protection, including to block publication of Angela's story on the ground it might destabilise Y's adoptive placement."
+      ],
+      "procedural_posture": "Application to vary or discharge contra mundum publication injunctions in the Family Division.",
+      "outcome": "Original injunction discharged; Angela permitted to publish with her consent; injunctions preserving anonymity of X and Y maintained; council's attempt to restrain publication of Angela's story rejected.",
+      "ratio": "After Re S, the court must conduct an independent Article 8 and Article 10 balancing exercise; a competent 16- or 17-year-old may decide whether to waive privacy and tell her own story, but third-party Article 8 rights justify anonymity orders for X and Y, and under section 12(3) the local authority failed to show a real prospect that wider restraints on Angela's publication were justified.",
+      "legal_issues": [
+        "Whether a competent teenager may exercise Article 8 and Article 10 rights to publish her own story",
+        "Balancing media freedom against anonymity of X and Y",
+        "Application of section 12(3) Human Rights Act 1998 to interlocutory injunctions",
+        "Extent of the court's inherent jurisdiction after Re S"
+      ],
+      "catchwords": [
+        "publication injunction",
+        "Article 8",
+        "Article 10",
+        "competent teenager",
+        "wardship jurisdiction",
+        "anonymity",
+        "adopted child",
+        "section 12(3)"
+      ],
+      "index_terms": [
+        "Torbay Borough Council v News Group",
+        "Angela Roddy",
+        "Mail on Sunday",
+        "Re S (A Child)",
+        "Kelly v BBC",
+        "Gillick competence",
+        "teenage pregnancy",
+        "care proceedings publicity"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re S (A Child)",
+          "citation": "[2003] EWCA Civ 963"
+        },
+        {
+          "name": "Kelly v British Broadcasting Corpn",
+          "citation": "[2001] Fam 59"
+        },
+        {
+          "name": "Gillick v West Norfolk and Wisbech Area Health Authority",
+          "citation": "[1986] AC 112"
+        },
+        {
+          "name": "Cream Holdings Ltd v Banerjee",
+          "citation": "[2003] EWCA Civ 103"
+        },
+        {
+          "name": "In re W (A Minor) (Wardship: Restrictions on Publication)",
+          "citation": "[1992] 1 WLR 100"
+        },
+        {
+          "name": "A v B plc",
+          "citation": "[2003] QB 195"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Very full judgment with detailed human rights analysis and final order terms."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1739.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment quashing prison death inquest for defective neglect directions.",
+    "enrichment": {
+      "short_title": "Prison inquest quashed where coroner failed to leave systemic neglect and nurse's gross failure to jury",
+      "area_of_law": [
+        "Coronial law",
+        "Administrative law",
+        "Human rights",
+        "Prison law",
+        "Clinical negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["Article 2 ECHR (procedural duty)", "s 6"]
+        },
+        {
+          "title": "Coroners Act 1988",
+          "provisions": ["s 8(1)(c)", "s 17A (background)"]
+        },
+        {
+          "title": "Coroners Rules 1984",
+          "provisions": ["Rule 42", "Rule 43"]
+        }
+      ],
+      "key_facts": [
+        "Darren Davies, aged 23, died in HMP Winson Green from cardiac arrest following dehydration and repeated vomiting during heroin withdrawal shortly after reception.",
+        "He missed detox medication after a wing move, received inadequate nursing and officer responses over the weekend, and was not referred to a doctor despite worsening symptoms.",
+        "After a five-day inquest the jury returned accidental death; the coroner excluded parts of Dr Ralli's evidence and gave confused directions on neglect."
+      ],
+      "procedural_posture": "Appeal by judicial review claimant (deceased's mother) against Moses J's refusal to quash the inquest and order a fresh hearing.",
+      "outcome": "Appeal allowed; inquisition quashed; fresh inquest ordered focused on whether systemic neglect contributed to death.",
+      "ratio": "Where a death in custody must be investigated through the inquest as the state's Article 2 procedural vehicle, the jury must be left to consider systemic neglect as well as individual gross failure to provide basic medical attention; a Rule 43 letter is not an adequate substitute for a public neglect verdict, and misdirection excluding that issue renders the inquest inadequate.",
+      "legal_issues": [
+        "Meaning of 'neglect' at an inquest after Jamieson and Middleton",
+        "Whether Nurse Spencer's clinical judgment could amount to gross failure",
+        "Whether systemic defects in prison healthcare should have been left to the jury",
+        "Whether a fresh inquest was necessary despite extensive earlier evidence"
+      ],
+      "catchwords": [
+        "death in custody",
+        "inquest",
+        "neglect verdict",
+        "Article 2",
+        "systemic neglect",
+        "drug withdrawal",
+        "coroner misdirection",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Davies v Birmingham coroner",
+        "Winson Green",
+        "Jamieson neglect test",
+        "Middleton",
+        "McGlinchey v UK",
+        "prison healthcare",
+        "Rule 43 letter"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v HM Coroner for North Humberside and Scunthorpe, ex parte Jamieson",
+          "citation": "[1995] QB 1"
+        },
+        {
+          "name": "R (Amin) v Home Secretary",
+          "citation": "[2003] UKHL 51"
+        },
+        {
+          "name": "R (Middleton) v West Somerset Coroner",
+          "citation": "[2003] EWCA Civ 390"
+        },
+        {
+          "name": "R (Sacker) v HM Coroner for West Yorkshire",
+          "citation": "[2003] EWCA Civ 217"
+        },
+        {
+          "name": "McGlinchey v United Kingdom",
+          "citation": "50390/99"
+        },
+        {
+          "name": "Cleo Scott v HM Coroner for Inner West London",
+          "citation": "[2001] EWHC Admin 105"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Comprehensive judgment with clear quashing order and guidance for fresh inquest."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3074.json",
+    "status": "done",
+    "notes": "Complete appeal by case stated on PACE Code D identification evidence and reporting restrictions.",
+    "enrichment": {
+      "short_title": "Youth court convictions upheld despite failure to hold identification parade for sole recognition witness",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Youth justice",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": ["s 78", "Code D (Identification of Persons)"]
+        },
+        {
+          "title": "Children and Young Persons Act 1933",
+          "provisions": ["s 49 (reporting restrictions, background)"]
+        }
+      ],
+      "key_facts": [
+        "Three young defendants were convicted after a street disturbance in Havant in which witness A was attacked and suffered a double arm fracture.",
+        "The sole identifying witness, 14-year-old B, knew the appellants well; no video identification procedure was held before trial despite a conceded breach of PACE Code D.",
+        "The district judge admitted B's recognition evidence, rejected no-case submissions, and convicted on violent disorder and wounding counts while acquitting on some charges and co-defendant H."
+      ],
+      "procedural_posture": "Appeal by way of case stated from South and South East Hampshire Youth Court to the Divisional Court.",
+      "outcome": "Appeal dismissed; case stated questions answered 'yes'; statutory reporting restrictions left in place for the appeal hearing.",
+      "ratio": "A breach of PACE Code D does not automatically exclude identification evidence; where a witness knew the defendants well and gave sustained recognition evidence, the youth court could properly exercise its section 78 discretion to admit the evidence and convict, and selective acquittals on some counts did not render the remaining convictions irrational.",
+      "legal_issues": [
+        "Admissibility of identification evidence despite Code D breach",
+        "Exercise of section 78 discretion in recognition cases",
+        "Whether no case to answer should have been upheld",
+        "Whether inconsistent verdicts between co-defendants vitiated convictions",
+        "Reporting restrictions under section 49 on appeal"
+      ],
+      "catchwords": [
+        "identification evidence",
+        "PACE Code D",
+        "section 78",
+        "recognition evidence",
+        "youth court",
+        "case stated",
+        "violent disorder",
+        "reporting restrictions"
+      ],
+      "index_terms": [
+        "R v DPP youth court appeal",
+        "video identification procedure",
+        "no case to answer",
+        "persistent young offenders",
+        "ASBO publicity",
+        "section 49 Children and Young Persons Act"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Gleeson",
+          "citation": "[2003] EWCA Crim 3357"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full judgment though case stated itself lacked detailed reasons; court relied on agreed solicitor notes."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3116.json",
+    "status": "done",
+    "notes": "Complete admin judgment on NASS dispersal and specialist PTSD treatment availability.",
+    "enrichment": {
+      "short_title": "NASS Swansea dispersal lawful initially but further medical reconsideration required after new PTSD evidence",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Healthcare",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": ["Part VI", "s 95", "s 97", "s 97(2)"]
+        },
+        {
+          "title": "Asylum Support Regulations 2000",
+          "provisions": ["reg 13(2)"]
+        }
+      ],
+      "key_facts": [
+        "Ms Wanjugu, a Kenyan asylum seeker with complex chronic PTSD, was receiving specialist treatment from Dr Robertson at the Traumatic Stress Clinic in London.",
+        "NASS dispersed her to Swansea in May 2003 despite medical representations that suitable specialist trauma services were unavailable there.",
+        "Further psychiatric reports in August and November 2003 indicated deterioration and urgent need for local psychological support."
+      ],
+      "procedural_posture": "Application for judicial review of NASS dispersal and subsequent refusal to return the claimant to London.",
+      "outcome": "Original May dispersal upheld; maintenance of Swansea placement after later evidence not adequately reasoned; no formal quashing order but NASS undertook to reconsider all medical material within 14 days; no order as to costs.",
+      "ratio": "NASS may disperse asylum seekers outside London as a general policy and is not obliged to treat Traumatic Stress Clinic patients like Medical Foundation torture victims, but once detailed medical evidence showed specialist PTSD services were unavailable in the dispersal area, a decision to maintain that placement required clear medical reasoning and fresh reconsideration of later reports.",
+      "legal_issues": [
+        "Lawfulness of NASS dispersal having regard to medical needs",
+        "Whether Medical Foundation exception must be extended to Traumatic Stress Clinic patients",
+        "Rationality of maintaining Swansea placement after Dr Robertson's August letter",
+        "Appropriate relief where Newcastle offer remained open"
+      ],
+      "catchwords": [
+        "NASS dispersal",
+        "asylum support",
+        "post-traumatic stress disorder",
+        "medical needs",
+        "specialist treatment",
+        "irrationality",
+        "policy exception"
+      ],
+      "index_terms": [
+        "Wanjugu v SSHD",
+        "Traumatic Stress Clinic",
+        "Medical Foundation policy",
+        "Policy Bulletin 31",
+        "Swansea accommodation",
+        "section 97 preference"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome nuanced between upholding original decision and requiring reconsideration; relief limited by undertakings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1729.json",
+    "status": "done",
+    "notes": "Complete TCC preliminary issues appeal on partial incorporation of FIDIC limitation terms.",
+    "enrichment": {
+      "short_title": "FIDIC liability cap incorporated in ground investigation agreement but not in main Sual power station design contract",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Engineering services",
+        "Limitation of liability"
+      ],
+      "statutes_considered": [
+        {
+          "title": "FIDIC Client/Consultant Model Services Agreement (1991)",
+          "provisions": ["Clause 5(i)", "Clause 16", "Clause 17", "Clause 18", "Clause 21", "Clause 43"]
+        }
+      ],
+      "key_facts": [
+        "CEPAS/Mirant engaged Ove Arup to design civil works for the Sual coal-fired power station in the Philippines; work began under a May 1995 letter of intent for £3.75m.",
+        "Arup proposed a FIDIC Model Services Agreement with a five-year liability period and £4m compensation cap, but the payment schedule was never agreed and no formal design contract was signed.",
+        "In March 1996 CEPAS accepted Arup's ground investigation proposal marked 'OK', clause 1 of which incorporated the FIDIC main agreement; boiler foundations later failed in 1997."
+      ],
+      "procedural_posture": "Defendants' appeal against Technology and Construction Court preliminary issue determinations on contract formation and incorporation of FIDIC terms.",
+      "outcome": "Appeal allowed on issue 4(d): ground investigation agreement held subject to FIDIC terms; appeal dismissed on issues 2 and 5: main design contract remained on letter of intent without FIDIC caps; formal claim letter sufficient if FIDIC applied.",
+      "ratio": "Acceptance of the ground investigation proposal objectively incorporated Revision B FIDIC terms despite the main design agreement not yet being concluded, but signing that side agreement did not by itself bring the main design contract onto FIDIC terms where an essential payment schedule had never been agreed and parties continued on the letter of intent.",
+      "legal_issues": [
+        "Whether FIDIC five-year limitation and £4m cap applied to the design contract",
+        "Construction of clause 1 of the ground investigation proposal",
+        "Whether acceptance of ancillary proposals could create the main FIDIC contract by estoppel or conduct",
+        "Meaning of 'formally made' claim under FIDIC clause 17"
+      ],
+      "catchwords": [
+        "FIDIC",
+        "limitation of liability",
+        "letter of intent",
+        "contract formation",
+        "ground investigation",
+        "power station design",
+        "payment schedule",
+        "incorporation by reference"
+      ],
+      "index_terms": [
+        "Ove Arup v Mirant",
+        "Sual power station",
+        "CEPAS",
+        "Model Services Agreement",
+        "The Pina",
+        "Carmichael v National Power",
+        "formal claim clause 17"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Pagnan v Feed Products Ltd",
+          "citation": "[1987] 2 Lloyd's Rep 601"
+        },
+        {
+          "name": "Atlantic Marine Transport Corporation v Coscol Petroleum Corporation (The Pina)",
+          "citation": "[1992] 2 Lloyd's Rep 103"
+        },
+        {
+          "name": "Carmichael v National Power plc",
+          "citation": "[1999] 4 All ER 896"
+        },
+        {
+          "name": "Nicolene v Simmonds",
+          "citation": "[1953] 2 All ER 822"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed contract-formation analysis; split outcome clearly explained."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1695.json",
+    "status": "done",
+    "notes": "Complete permission-to-appeal decision on Brussels Convention Art 18 and employment tribunal review.",
+    "enrichment": {
+      "short_title": "Employer could not avoid merits hearing by staying away: Article 18 posed no real submission-to-jurisdiction risk",
+      "area_of_law": [
+        "Employment law",
+        "Conflict of laws",
+        "Unfair dismissal",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Brussels Convention 1968",
+          "provisions": ["Article 18"]
+        },
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": ["s 196(2) (jurisdiction background)"]
+        },
+        {
+          "title": "Employment Appeal Tribunal Rules 1993",
+          "provisions": ["rule 34 (costs)"]
+        }
+      ],
+      "key_facts": [
+        "Mr Turner, Harada's in-house solicitor in Madrid, claimed constructive unfair and wrongful dismissal after being instructed to pursue improper tax litigation against HMRC.",
+        "Harada contested jurisdiction, then withdrew from the merits hearing before the Ryan tribunal in May 1999 fearing Article 18 Brussels Convention submission, and later sought review after jurisdiction was finally confirmed in 2001.",
+        "The Ansell EAT dismissed the review application as unnecessary and ordered costs of £3,158.50."
+      ],
+      "procedural_posture": "Applications for permission to appeal to the Court of Appeal against two EAT decisions refusing review and awarding costs.",
+      "outcome": "Both applications dismissed; no permission to appeal.",
+      "ratio": "Under Article 18 as interpreted in Elefanten Schuh and related ECJ authorities, a defendant who has raised jurisdiction at the outset does not submit to jurisdiction by defending on the merits when compelled to participate; Harada therefore had no realistic basis to absent itself from the employment tribunal merits hearing and its later review application was unnecessary and vexatious.",
+      "legal_issues": [
+        "Whether participating in an employment tribunal merits hearing while jurisdiction was under appeal constituted submission under Article 18",
+        "Whether Harada had good reason to boycott the Ryan tribunal hearing",
+        "Lawfulness of EAT costs order under rule 34",
+        "Availability of review after final jurisdiction determination"
+      ],
+      "catchwords": [
+        "Article 18 Brussels Convention",
+        "submission to jurisdiction",
+        "employment tribunal",
+        "constructive dismissal",
+        "review application",
+        "Elefanten",
+        "costs EAT"
+      ],
+      "index_terms": [
+        "Harada v Turner",
+        "Chequepoint",
+        "jurisdiction objection",
+        "Morison EAT",
+        "Ryan tribunal",
+        "Marc Rich",
+        "wrongful dismissal Madrid"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Elefanten Schuh GmbH v Pierre Jacqmain",
+          "citation": "[1981] ECR 1671"
+        },
+        {
+          "name": "Marc Rich & Co AG v Societa Italiana Impianti PA",
+          "citation": "[1992] 1 Lloyd's Rep 624"
+        },
+        {
+          "name": "Re Dulles' Settlement Trusts",
+          "citation": "[1951] 2 All ER 69"
+        },
+        {
+          "name": "Ets. A. Rohr SA v Dina Ossberger",
+          "citation": "[1981] ECR 2431"
+        },
+        {
+          "name": "Kongress Agentur Hagen GmbH v Zeehaghe BV",
+          "citation": "[1990] ECR I-1845"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complex procedural history but court's Article 18 conclusion is explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2003/2911.json",
+    "status": "done",
+    "notes": "Complete Brussels II jurisdiction ruling in cross-border child contact/residence dispute.",
+    "enrichment": {
+      "short_title": "Spanish jurisdiction over child ceased after final divorce order despite later enforcement and custody applications",
+      "area_of_law": [
+        "Family law",
+        "International child abduction and jurisdiction",
+        "Private international law",
+        "Children law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Council Regulation (EC) No 1347/2000 (Brussels II)",
+          "provisions": ["Article 1", "Article 2", "Article 3(3)", "Article 9", "Article 13", "Article 37"]
+        },
+        {
+          "title": "Children Act 1989",
+          "provisions": ["contact and residence orders (background)"]
+        }
+      ],
+      "key_facts": [
+        "Following a Spanish divorce in June 2001, the mother was permitted to relocate with Alejandro to England with fortnightly contact to the father in England or Spain.",
+        "The father's appeal against the relocation order was dismissed in June 2002, but he continued enforcement applications and later sought custody in Spain.",
+        "The mother applied in England to vary contact and for a residence order, arguing Brussels II had transferred jurisdiction once the Spanish judgment became final."
+      ],
+      "procedural_posture": "High Court Family Division application to determine jurisdiction as between Spanish and English courts under Brussels II.",
+      "outcome": "English court held it had jurisdiction; Spanish jurisdiction had ceased; monthly travel-to-Spain contact provision suspended pending further hearing; matter listed for directions.",
+      "ratio": "Under Brussels II Article 3(3), jurisdiction conferred on the divorce court for parental responsibility ceases once the matrimonial judgment becomes final, and subsequent applications to enforce contact or change residence do not revive or prolong that jurisdiction; a permanent relocation order is itself a final parental-responsibility judgment.",
+      "legal_issues": [
+        "Construction of Article 3(3) Brussels II and when jurisdiction 'ceases'",
+        "Whether post-final enforcement proceedings prevent loss of Spanish jurisdiction",
+        "Effect of father's May 2003 custody application",
+        "Interaction with Re G (Children) on permanent removal orders"
+      ],
+      "catchwords": [
+        "Brussels II",
+        "parental responsibility",
+        "international jurisdiction",
+        "final judgment",
+        "child relocation",
+        "contact enforcement",
+        "habitual residence"
+      ],
+      "index_terms": [
+        "A v L",
+        "Alejandro",
+        "Spanish divorce",
+        "Article 3(3) cessation",
+        "Re G (Children)",
+        "Brussels II Regulation 1347/2000",
+        "cross-border contact"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re G (Children)",
+          "citation": "[2003] EWCA Civ 1607"
+        },
+        {
+          "name": "A v L (Garner J)",
+          "citation": "[2002] 1 FLR 1042"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed Brussels II analysis with supportive Court of Appeal authority cited."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1787.json",
+    "status": "done",
+    "notes": "Complete Master of the Rolls appeal on scope of Law Society power to impose RFL conditions.",
+    "enrichment": {
+      "short_title": "Law Society could impose conditions only at initial RFL registration, not retrospectively after Mathis investigation",
+      "area_of_law": [
+        "Legal profession regulation",
+        "Statutory interpretation",
+        "Professional discipline"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": ["s 89", "Schedule 14 paras 2(3), 12, 13, 14"]
+        },
+        {
+          "title": "Solicitors Act 1974",
+          "provisions": ["ss 12, 13A (comparison background)", "s 31–37 (extended powers background)"]
+        }
+      ],
+      "key_facts": [
+        "Michael Shuman, a Texas attorney registered as a foreign lawyer in England, was associated with solicitor Mathialagan's firm Mathis.",
+        "Following a 2002 forensic investigation into high-yield investment scheme transactions, the OSS/Law Society imposed wide practice conditions on Shuman's registration.",
+        "Shuman had not renewed his registration but the Society kept it live pending SDT proceedings; he appealed under Schedule 14 paragraph 14."
+      ],
+      "procedural_posture": "Appeal to the Master of the Rolls against an Adjudication Panel decision imposing conditions on registered foreign lawyer status.",
+      "outcome": "Appeal allowed; conditions set aside for want of jurisdiction; costs assessed at £13,000 inclusive of VAT payable in 28 days.",
+      "ratio": "Schedule 14 paragraph 2(3) permits the Law Society to impose conditions only when registration is first made (or on reinstatement/revival under paragraphs 12 and 13), not at any later time during an existing registration, and the express later powers in paragraphs 12–13 indicate paragraph 2(3) was not intended as a general ongoing regulatory power.",
+      "legal_issues": [
+        "Construction of 'Any registration may be made subject to such conditions' in Schedule 14 para 2(3)",
+        "Whether conditions could be imposed after OSS investigation without renewal application",
+        "Relationship between RFL regime and Solicitors Act conditional certificate powers",
+        "Appellate jurisdiction under Schedule 14 paragraph 14"
+      ],
+      "catchwords": [
+        "registered foreign lawyer",
+        "Law Society conditions",
+        "Schedule 14",
+        "statutory construction",
+        "professional regulation",
+        "Mathis investigation",
+        "OSS"
+      ],
+      "index_terms": [
+        "Re Shuman",
+        "RFL registration",
+        "Courts and Legal Services Act 1990 s 89",
+        "Adjudication Panel",
+        "high yield investment schemes",
+        "paragraph 2(3) ambiguity"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Narrow statutory construction point clearly resolved; some lacuna noted for ongoing regulation of RFLs."
+      }
+    }
+  }
+]

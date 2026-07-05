@@ -1,0 +1,883 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1252.json",
+    "status": "done",
+    "notes": "Batch 78 enrichment",
+    "enrichment": {
+      "short_title": "Date of service of section 25 notice by recorded delivery",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Property law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Landlord and Tenant Act 1954",
+          "provisions": [
+            "Part II",
+            "section 23(1)",
+            "section 25",
+            "section 29(2)",
+            "section 66(4)"
+          ]
+        },
+        {
+          "title": "Landlord and Tenant Act 1927",
+          "provisions": [
+            "section 23"
+          ]
+        },
+        {
+          "title": "Interpretation Act 1978",
+          "provisions": [
+            "section 7"
+          ]
+        },
+        {
+          "title": "Recorded Delivery Service Act 1962",
+          "provisions": []
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The landlord served a section 25 notice by recorded delivery on 7 January 2002; the tenant received it on 9 January 2002.",
+        "The tenant served a counter-notice and applied for a new tenancy on 8 May 2002, within four months of actual receipt but arguably out of time if service was deemed on posting.",
+        "The parties agreed the deemed date of service should be determined as a preliminary issue.",
+        "Neuberger J held that service by recorded delivery under section 23 of the 1927 Act is irrebuttably deemed on the date of posting, not receipt."
+      ],
+      "procedural_posture": "Landlord's appeal from a county court preliminary issue decision that the tenant's new tenancy application was in time.",
+      "outcome": "Appeal allowed; the section 25 notice was deemed served on 7 January 2002 and the tenant's application was out of time.",
+      "ratio": "Where a notice under the 1954 Act is sent by recorded delivery to the addressee at his place of abode, section 23 of the 1927 Act (incorporated by section 66(4)) irrebuttably deems service on the date of posting; section 7 of the Interpretation Act 1978 does not displace that effect, and construing section 23 otherwise would not engage the Human Rights Act.",
+      "legal_issues": [
+        "Whether service by recorded delivery is deemed on posting or on receipt",
+        "Whether section 7 of the Interpretation Act 1978 applies to section 23 service",
+        "Whether Chiswell, Galinski, Railtrack and Mustapha or Lex Service governs",
+        "Whether irrebuttable deemed service infringes the tenant's human rights"
+      ],
+      "catchwords": [
+        "section 25 notice",
+        "recorded delivery",
+        "deemed service",
+        "new tenancy application",
+        "section 23",
+        "Landlord and Tenant Act 1954"
+      ],
+      "index_terms": [
+        "Beanby Estates",
+        "Egg Stores Stamford Hill",
+        "service of notices",
+        "postal rule",
+        "Chiswell v Griffon",
+        "Blunden v Frogmore"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Chiswell v Griffon Land and Estates Ltd",
+          "citation": "[1975] 1 WLR 1181",
+          "relation": "followed"
+        },
+        {
+          "name": "Galinski v McHugh",
+          "citation": "57 P & CR 359",
+          "relation": "followed"
+        },
+        {
+          "name": "Commercial Union Life Assurance Co Ltd v Mustapha",
+          "citation": "(1999) 2 EGLR 48",
+          "relation": "followed"
+        },
+        {
+          "name": "Blunden v Frogmore Investments Ltd",
+          "citation": "(2002) 2 EGLR 29",
+          "relation": "considered"
+        },
+        {
+          "name": "Lex Service Plc v Johns",
+          "citation": "(1990) 1 EGLR 92",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Anderton v Clwyd County Council (No 2)",
+          "citation": "[2002] 1 WLR 3174",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long, fully reasoned judgment on a discrete statutory construction point with extensive authority review."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/736.json",
+    "status": "done",
+    "notes": "Batch 78 enrichment",
+    "enrichment": {
+      "short_title": "Small claims costs where claim never allocated to track",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "County court practice"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 26",
+            "Part 27",
+            "rule 27.14(2)",
+            "rule 27.14(3)",
+            "rule 52.13"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant sued for return of a video card; the pleaded claim exceeded £5,000 but the true value was £2,502.43 after a dollars/pounds error was conceded.",
+        "Default judgments were entered and later set aside; the case proceeded to a disposal hearing without ever being allocated to a track.",
+        "The district judge awarded £6,000 costs, holding that the small claims regime did not apply because no allocation order had been made.",
+        "The Court of Appeal held that absence of allocation was not conclusive and remitted costs for assessment on the small claims basis."
+      ],
+      "procedural_posture": "Second appeal from Brentford County Court on the costs order made at a disposal hearing.",
+      "outcome": "Appeal allowed; costs up to 13 June 2001 remitted to the district judge for decision on the small claims regime unless agreed.",
+      "ratio": "Treating the absence of a track allocation order as conclusive is a misdirection; where a claim was in substance a small claim and would inevitably have been allocated to the small claims track, the normal rule is that the Part 27 costs limitations apply, consistent with the discretionary and proportionate approach to costs.",
+      "legal_issues": [
+        "Whether the small claims costs regime applies without a formal allocation order",
+        "Whether the district judge misdirected himself by treating lack of allocation as determinative",
+        "Whether the Court of Appeal should interfere with a costs discretion",
+        "Whether a second appeal was justified on a point of principle"
+      ],
+      "catchwords": [
+        "small claims track",
+        "costs cap",
+        "allocation",
+        "default judgment",
+        "proportionality",
+        "county court costs"
+      ],
+      "index_terms": [
+        "Voice and Script International",
+        "Alghafar",
+        "video card",
+        "Part 27",
+        "disposal hearing",
+        "Home Office v Lambs"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Home Office v Lambs",
+          "citation": "EWHC 365",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Clear procedural point of principle with detailed procedural history and unanimous Court of Appeal decision."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/682.json",
+    "status": "done",
+    "notes": "Batch 78 enrichment",
+    "enrichment": {
+      "short_title": "Asylum judicial review and expert report on Basij membership",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "An Iranian claimant sought asylum on the basis of unorthodox religious views and alleged Basij membership exposing him to persecution.",
+        "The adjudicator found the Basij account fabricated and that local difficulties with a religious teacher amounted to discrimination, not persecution.",
+        "The Immigration Appeal Tribunal refused permission to appeal; the claimant sought judicial review.",
+        "Mr Joffe's expert report assumed the claimant's account was true and did not corroborate the disputed Basij membership findings."
+      ],
+      "procedural_posture": "Application for judicial review of the adjudicator's asylum dismissal and the IAT's refusal of permission to appeal.",
+      "outcome": "Application dismissed; the adjudicator's credibility and persecution findings were unassailable.",
+      "ratio": "An expert country report that merely assumes the appellant's account and addresses risk on that counterfactual basis does not corroborate disputed primary facts; where the adjudicator has rejected the appellant's story as fabricated, failure expressly to accept or reject such a report does not constitute an error of law.",
+      "legal_issues": [
+        "Whether the adjudicator erred in failing to engage with Mr Joffe's expert report",
+        "Whether the report corroborated the claimant's Basij membership account",
+        "Whether risk on return as a failed asylum seeker was raised before the adjudicator",
+        "Standard of review of adjudicator credibility findings"
+      ],
+      "catchwords": [
+        "asylum",
+        "judicial review",
+        "expert evidence",
+        "Basij",
+        "Iran",
+        "credibility",
+        "persecution"
+      ],
+      "index_terms": [
+        "Ebrahim Shahdad",
+        "Immigration Appeal Tribunal",
+        "Mr Joffe",
+        "Virjon B v Special Adjudicator",
+        "failed asylum seeker"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Virjon B v Special Adjudicator",
+          "citation": "[2002] EWHC 1469 (Admin)",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Straightforward judicial review on expert evidence and fact-finding; grounds clearly addressed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1224.json",
+    "status": "done",
+    "notes": "Batch 78 enrichment",
+    "enrichment": {
+      "short_title": "Deemed consent for illuminated Coldharbour Lane hoarding",
+      "area_of_law": [
+        "Planning law",
+        "Advertisement control",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "London Local Authorities Act 1995",
+          "provisions": [
+            "section 11"
+          ]
+        },
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 220",
+            "section 336"
+          ]
+        },
+        {
+          "title": "Town and Country Planning (Control of Advertisements) Regulations 1992",
+          "provisions": [
+            "regulation 4",
+            "regulation 6",
+            "regulation 8",
+            "regulation 13",
+            "Schedule 3 Class 13",
+            "Schedule 3 Class 14"
+          ]
+        },
+        {
+          "title": "Town and Country Planning (Control of Advertisement) Regulations 1948",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Lambeth sought to remove an advertising hoarding at 220–224 Coldharbour Lane under section 11 of the 1995 Act, claiming no express or deemed consent.",
+        "Express consent granted in 1956 had expired in 1959; the site had been used continuously for advertisements since then.",
+        "Illumination bars were added in 1989; Lambeth's enforcement process was heavily criticised for improper demands and premature notices.",
+        "Collins J held Class 14 deemed consent applied because the 1956 consent, read with the statutory definition of advertisement, permitted illuminated use."
+      ],
+      "procedural_posture": "Judicial review challenge to section 11 removal notices served by Lambeth London Borough Council.",
+      "outcome": "Claim succeeded; the section 11 notices were quashed.",
+      "ratio": "Class 14 deemed consent continues where a site has been used continually for the purpose permitted by expired express consent; illumination added after expiry does not necessarily remove that consent if the original consent, construed with the wide definition of advertisement in the 1990 Act, did not restrict illumination, and a breach of a Class 13 condition may be remedied rather than permanently destroying deemed consent.",
+      "legal_issues": [
+        "Whether Class 14 deemed consent survived addition of illumination in 1989",
+        "Construction of 'used for the purpose' in Class 14(2)",
+        "Whether Class 13 deemed consent was lost by substantial alteration in manner of use",
+        "Lawfulness of Lambeth's section 11 enforcement procedure and burden of proof"
+      ],
+      "catchwords": [
+        "deemed consent",
+        "advertisement hoarding",
+        "section 11",
+        "Class 14",
+        "Class 13",
+        "illumination",
+        "planning enforcement"
+      ],
+      "index_terms": [
+        "Maiden Outdoor Advertising",
+        "Lambeth",
+        "Coldharbour Lane",
+        "Brixton",
+        "Wyre Forest District Council v Secretary of State",
+        "Khawaja v SSHD"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Khawaja v Secretary of State for the Home Department",
+          "citation": "[1984] AC 74",
+          "relation": "cited"
+        },
+        {
+          "name": "Wyre Forest District Council v Secretary of State for the Environment",
+          "citation": "[1990] 2 AC 357",
+          "relation": "cited"
+        },
+        {
+          "name": "Slough Borough Council v Secretary of State for the Environment",
+          "citation": "[1995] JPL 1128",
+          "relation": "cited"
+        },
+        {
+          "name": "British Steel Ltd v Commissioners of Customs and Excise",
+          "citation": "QB ENI 95/1741/E",
+          "relation": "cited"
+        },
+        {
+          "name": "Kingsley v Hammersmith and Fulham",
+          "citation": "62 P & CR 589",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed planning judgment with clear outcome on Class 14; Class 13 analysis partly obiter."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1184.json",
+    "status": "done",
+    "notes": "Batch 78 enrichment",
+    "enrichment": {
+      "short_title": "Stay of noise prosecution for late CPIA disclosure",
+      "area_of_law": [
+        "Criminal procedure",
+        "Environmental law",
+        "Case stated appeal"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Environmental Protection Act 1990",
+          "provisions": [
+            "section 80",
+            "section 80(3)",
+            "section 80(4)"
+          ]
+        },
+        {
+          "title": "Criminal Procedure and Investigations Act 1996",
+          "provisions": [
+            "section 7"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 9",
+            "section 10(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Warren Elias was prosecuted for breaching a noise abatement notice at 77 Laleham Road; his defence blamed noise from the neighbouring Dartmouth Hotel.",
+        "Lewisham failed to disclose until mid-trial material about prior pub noise complaints, an abatement notice and cautions.",
+        "The district judge stayed the prosecution as an abuse of process, finding actual prejudice after the prosecution case had closed.",
+        "The Divisional Court upheld the stay, though noting adjournment might sometimes cure late disclosure."
+      ],
+      "procedural_posture": "Prosecutor's appeal by way of case stated from Marylebone Magistrates' Court.",
+      "outcome": "Appeal dismissed; the stay for abuse of process was lawful.",
+      "ratio": "Material showing prior noise nuisance from a neighbouring pub was capable of assisting the defence and should have been disclosed under section 7 CPIA 1996 before trial; although the trial process can often cure late disclosure, a district judge may lawfully stay proceedings as an abuse where prejudice cannot now be remedied.",
+      "legal_issues": [
+        "Whether undisclosed pub noise material was capable of assisting the defence",
+        "Whether late secondary disclosure amounted to abuse of process",
+        "Whether the district judge should have adjourned rather than stayed",
+        "Appropriate use of the stay jurisdiction in summary trials"
+      ],
+      "catchwords": [
+        "abuse of process",
+        "secondary disclosure",
+        "noise abatement",
+        "environmental health",
+        "stay of proceedings",
+        "CPIA 1996"
+      ],
+      "index_terms": [
+        "Warren Elias",
+        "Lewisham Borough Council",
+        "Dartmouth Hotel",
+        "Laleham Road",
+        "Attorney-General's Reference No 1 of 1990"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Attorney-General's Reference No 1 of 1990",
+          "citation": "[1992] QB 630",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Derby Crown Court ex parte Brooks",
+          "citation": "[1985] 80 Cr App R 164",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.90,
+        "level": "high",
+        "notes": "Case stated appeal with clear findings on disclosure relevance and abuse of process discretion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1182.json",
+    "status": "done",
+    "notes": "Batch 78 enrichment",
+    "enrichment": {
+      "short_title": "Challenge to MHRT discharge of Ashworth patient",
+      "area_of_law": [
+        "Mental health law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 3"
+          ]
+        },
+        {
+          "title": "Mental Health Review Tribunal Rules 1983",
+          "provisions": [
+            "rule 10",
+            "rule 22"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Patient D, detained at Ashworth Hospital under section 3, was discharged by the Mental Health Review Tribunal with a one-month deferral for aftercare.",
+        "Mersey Care NHS Trust challenged the decision as irrational, inadequately reasoned and procedurally unfair.",
+        "Written reports favoured continued detention, but oral evidence showed substantial improvement and day-to-day staff supported community care with a package.",
+        "Sullivan J refused judicial review and declined to set aside the discharge; the stay was lifted in effect."
+      ],
+      "procedural_posture": "Urgent application for judicial review with interim stay of the Tribunal's discharge decision.",
+      "outcome": "Application refused; the Tribunal's decision to discharge was lawful.",
+      "ratio": "A Mental Health Review Tribunal exercising its original jurisdiction may rationally order discharge where up-to-date oral evidence, including from ward staff and the patient, supports community coping with medication compliance and a deferred aftercare package, even if earlier written reports recommended continued detention; brief reasons may be amplified by witness statements where liberty is at stake.",
+      "legal_issues": [
+        "Whether the Tribunal's discharge decision was irrational against unanimous medical evidence",
+        "Adequacy of the Tribunal's reasons for discharge",
+        "Procedural fairness regarding the RMO's ability to question witnesses and sum up",
+        "Whether an adequate community care package could be arranged within one month"
+      ],
+      "catchwords": [
+        "Mental Health Review Tribunal",
+        "section 3 detention",
+        "Ashworth Hospital",
+        "discharge",
+        "aftercare package",
+        "irrationality",
+        "schizophrenia"
+      ],
+      "index_terms": [
+        "Mersey Care NHS Trust",
+        "Ashworth",
+        "RMO",
+        "Reaside Clinic",
+        "Ardenleigh",
+        "R v London South and South West Region MHRT ex parte Moyle",
+        "R v Ashworth Special Hospital Authority ex parte H"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v London South and South West Region Mental Health Review Tribunal ex parte Moyle",
+          "citation": "[2000] Lloyd's Rep Med 143",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Ashworth Special Hospital Authority ex parte H",
+          "citation": "[2003] 1 WLR 127",
+          "relation": "cited"
+        },
+        {
+          "name": "English v Emery Reimbold & Strick Ltd",
+          "citation": "[2001] 1 WLR 2409",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Comprehensive urgent judicial review with detailed Tribunal reasoning analysis; patient anonymised as D."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2003/976.json",
+    "status": "done",
+    "notes": "Batch 78 enrichment",
+    "enrichment": {
+      "short_title": "Guardian's section 42 access after foster carer arrest",
+      "area_of_law": [
+        "Family law",
+        "Child protection",
+        "Local authority duties"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "Part IV",
+            "section 1(3)",
+            "section 20",
+            "section 41",
+            "section 42"
+          ]
+        },
+        {
+          "title": "Criminal Justice and Court Services Act 2000",
+          "provisions": []
+        },
+        {
+          "title": "Family Proceedings Rules 1991",
+          "provisions": [
+            "rule 4.11",
+            "rule 4.11A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Baby S was in foster care when his foster father was arrested in Operation Ore; the local authority removed S and misled the mother and magistrates about the reason.",
+        "On 17 October 2002 the authority told the justices S remained with the same foster carers and sought an interim care order on that basis.",
+        "The children's guardian later discovered the deception and sought full local authority records under section 42, including an independent inquiry report.",
+        "Wall J held the guardian was entitled to all section 42 documents and strongly criticised the authority's conduct."
+      ],
+      "procedural_posture": "High Court application in care proceedings for disclosure of local authority records under section 42 of the Children Act 1989.",
+      "outcome": "Guardian granted access to Mrs AH's report and all relevant section 42 records; local authority ordered to pay the guardian's disclosure costs.",
+      "ratio": "A CAFCASS officer appointed under section 41 has a broad statutory right under section 42 to examine local authority records relating to the child, including inquiry reports commissioned because of the authority's conduct in the proceedings; public interest immunity does not override section 42, and local authorities must cooperate fully and be frank with the court in care proceedings.",
+      "legal_issues": [
+        "Scope of section 42 rights to local authority records",
+        "Whether PII or foster-carer confidentiality limits guardian access",
+        "Whether Mrs AH's independent inquiry report 'relates to' the child",
+        "Local authority duty of frankness to the court in care proceedings"
+      ],
+      "catchwords": [
+        "section 42",
+        "children's guardian",
+        "care proceedings",
+        "disclosure",
+        "Operation Ore",
+        "foster carer",
+        "local authority misconduct"
+      ],
+      "index_terms": [
+        "CAFCASS",
+        "interim care order",
+        "strategy meeting",
+        "Re R (Care Proceedings: Disclosure)",
+        "Working Together",
+        "Parker LJ L v L"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re R (Care Proceedings: Disclosure)",
+          "citation": "[2000] 3 FCR 721",
+          "relation": "followed"
+        },
+        {
+          "name": "Re M (A Minor) (Disclosure of Material)",
+          "citation": "[1990] 2 FLR 36",
+          "relation": "cited"
+        },
+        {
+          "name": "Re C (Expert Evidence) (Disclosure: Practice)",
+          "citation": "[1995] 1 FLR 204",
+          "relation": "cited"
+        },
+        {
+          "name": "L v L (Child Abuse: Access)",
+          "citation": "[1989] 2 FLR 16",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Authoritative published judgment on section 42 with detailed factual background and clear legal ruling."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1034.json",
+    "status": "done",
+    "notes": "Batch 78 enrichment",
+    "enrichment": {
+      "short_title": "Retrospective costs cap in organ retention GLO",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Group litigation",
+        "Clinical negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 51"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 3",
+            "Part 19",
+            "Part 43",
+            "Part 44",
+            "Part 48",
+            "CPR 3.1(2)(m)",
+            "CPR 44.3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Nationwide Organ Group Litigation concerned claims over retention of organs by NHS hospitals, with about 369 registered claims and four lead cases.",
+        "Claimants' generic costs had already reached £1.45 million; further costs of about £1 million were estimated to trial.",
+        "The defendants sought a novel retrospective and prospective costs cap from 10 February 2003 through trial.",
+        "Gage J held the court had power to cap costs and set a global cap of £506,500 for claimants' generic costs."
+      ],
+      "procedural_posture": "Application in group litigation for a retrospective and prospective costs cap order at case management stage.",
+      "outcome": "Costs cap order made for £506,500 from 10 February 2003 to end of trial, based on a four-week trial estimate.",
+      "ratio": "The court has power under CPR case management provisions and section 51 to make a costs cap order in group litigation to keep costs proportionate; the cap should be assessed broadly by component parts—solicitors, counsel, experts and disbursements—and need not require exceptional circumstances in a GLO.",
+      "legal_issues": [
+        "Whether the court has jurisdiction to make a retrospective costs cap order",
+        "How to assess a proportionate global costs cap in a GLO",
+        "Appropriate hourly rates and hours for claimants' solicitors",
+        "Relationship between claimants' agreed LSC case plans and the court's cap"
+      ],
+      "catchwords": [
+        "costs cap",
+        "group litigation order",
+        "NOGL",
+        "organ retention",
+        "proportionality",
+        "case management",
+        "public funding"
+      ],
+      "index_terms": [
+        "Leeds Teaching Hospitals NHS Trust",
+        "Alder Hey",
+        "Woolf Report",
+        "Solutia UK Ltd v Griffiths",
+        "Lownds v Home Office",
+        "Joseph Owen Davies v Eli Lilly"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Solutia UK Ltd v Griffiths",
+          "citation": "[2001] EWCA Civ 736",
+          "relation": "cited"
+        },
+        {
+          "name": "Lownds v Home Office",
+          "citation": "[2002] EWCA Civ 365",
+          "relation": "cited"
+        },
+        {
+          "name": "Joseph Owen Davies v Eli Lilly & Co",
+          "citation": "[1987] 1 WLR 1136",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Prime Minister ex parte Campaign for Nuclear Disarmament",
+          "citation": "[2002] EWHC 271",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Novel but fully reasoned costs judgment with detailed figures and clear order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1260.json",
+    "status": "done",
+    "notes": "Batch 78 enrichment",
+    "enrichment": {
+      "short_title": "No English habeas corpus jurisdiction over Scottish extradition",
+      "area_of_law": [
+        "Extradition",
+        "Constitutional law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act 1989",
+          "provisions": [
+            "section 9",
+            "section 11",
+            "section 11(6)"
+          ]
+        },
+        {
+          "title": "Act of Union 1706",
+          "provisions": [
+            "Article XIX"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Wright and Mr Brown were in Scottish custody facing extradition to Estonia for drug trafficking offences.",
+        "They applied to the English Divisional Court for habeas corpus, arguing Scottish detainees lacked an equivalent remedy.",
+        "Authority to proceed was issued in March 2001 and Sheriff Bell committed them in custody pending ministerial decision.",
+        "The court held the English writ does not run in Scotland and section 11(6) provides review in the High Court of Justiciary instead."
+      ],
+      "procedural_posture": "Application to the Divisional Court for habeas corpus or equivalent relief concerning Scottish extradition committals.",
+      "outcome": "Application rejected as misconceived; no jurisdiction to review Sheriff Bell's committal.",
+      "ratio": "The Extradition Act 1989 applies throughout the United Kingdom but provides separate remedies: habeas corpus in England and review in the High Court of Justiciary in Scotland; Article XIX of the Act of Union 1706 prevents English courts reviewing or stopping execution of Scottish judicial acts.",
+      "legal_issues": [
+        "Whether the English writ of habeas corpus runs in Scotland",
+        "Effect of section 11(6) Extradition Act 1989 in Scotland",
+        "Whether a lacuna in Scottish remedies confers English jurisdiction",
+        "Whether committal by a Sheriff rather than Sheriff Principal was defective"
+      ],
+      "catchwords": [
+        "habeas corpus",
+        "extradition",
+        "Scotland",
+        "Act of Union",
+        "jurisdiction",
+        "High Court of Justiciary"
+      ],
+      "index_terms": [
+        "Wright",
+        "Brown",
+        "Estonia",
+        "Saughton",
+        "R v Commissioner of Metropolis ex parte Bennett",
+        "Rex v Cowle"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Commissioner of the Metropolis ex parte Bennett",
+          "citation": "[1995] 3 All ER 248",
+          "relation": "followed"
+        },
+        {
+          "name": "Rex v Cowle",
+          "citation": "9 Ch App 27",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Short, clear jurisdictional ruling with established authority."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1183.json",
+    "status": "done",
+    "notes": "Batch 78 enrichment",
+    "enrichment": {
+      "short_title": "Section 73 certification of late human rights claim",
+      "area_of_law": [
+        "Immigration law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 73",
+            "section 74",
+            "sections 74-77"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 2",
+            "Article 3",
+            "Article 8"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Sri Lankan claimant's asylum and human rights appeals were dismissed; he later relied on a fresh psychiatric report to resist removal.",
+        "Dr Coleman's 2002 report raised severe depression, PTSD and suicide risk if returned, supporting Article 3 and Article 8 claims.",
+        "The Secretary of State certified the appeal under section 73 as raising grounds that could have been made earlier and for delay.",
+        "Mitting J upheld the certification but granted permission to appeal on the proper construction of section 73."
+      ],
+      "procedural_posture": "Judicial review of the Secretary of State's section 73 certificate treating further human rights grounds as finally determined.",
+      "outcome": "Application dismissed; permission to appeal granted on interpretation of section 73.",
+      "ratio": "In section 73, 'claim' and 'grounds' mean the combined factual and legal basis for contending removal would breach human rights; 'no other legitimate purpose' is a long-stop safeguard and does not require the claim to be hopeless; certification is discretionary and the Secretary of State properly considered new psychiatric material when certifying Article 8 grounds that could reasonably have been raised in the original human rights appeal.",
+      "legal_issues": [
+        "Meaning of 'claim' and 'grounds' in section 73(2) and (5)",
+        "Construction of 'no other legitimate purpose' in section 73(2)(c)",
+        "Discretionary factors relevant to issuing a section 73 certificate",
+        "Whether Article 8 mental-health removal arguments were certifiable"
+      ],
+      "catchwords": [
+        "section 73",
+        "one-stop procedure",
+        "certification",
+        "Article 8",
+        "Article 3",
+        "exceptional leave",
+        "delay"
+      ],
+      "index_terms": [
+        "Balamurali",
+        "Sri Lanka",
+        "Dr Coleman",
+        "Dr Taghipour",
+        "Vemenac v SSHD",
+        "Ngamguem",
+        "Henderson v Henderson"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Vemenac v Secretary of State for the Home Department",
+          "citation": "[2002] EWHC 1636 (Admin)",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Ngamguem v Secretary of State for the Home Department",
+          "citation": "[2002] EWHC 156",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Henderson v Henderson",
+          "citation": "3 Hare 100",
+          "relation": "cited"
+        },
+        {
+          "name": "Soylemez v SSHD",
+          "citation": "[2003] EWHC 1056 (Admin)",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Important interpretative judgment with permission to appeal; departs from earlier first-instance approaches on section 73(2)(c)."
+      }
+    }
+  }
+]

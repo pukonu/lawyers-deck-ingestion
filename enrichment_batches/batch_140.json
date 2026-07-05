@@ -1,0 +1,672 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2787.json",
+    "status": "done",
+    "notes": "Very long Chancery summary judgment on patent ownership and insolvency-related divestiture; full text complete.",
+    "enrichment": {
+      "short_title": "Whether insolvency-triggered patent divestiture clause was void as against creditors",
+      "area_of_law": [
+        "Company law",
+        "Intellectual property law",
+        "Insolvency law",
+        "Equity",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 24.2"]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": ["section 123"]
+        },
+        {
+          "title": "Patents Act 1977",
+          "provisions": ["section 32(9)", "section 33", "section 34"]
+        }
+      ],
+      "key_facts": [
+        "Minority shareholders in Easyrad Limited brought a derivative action alleging UK patent No. 2314391 (the Oyster/BSP Converter) remained Easyrad's property because a 22 October 1998 assignment to Paul Davidson was ineffective.",
+        "The assignment was purportedly executed under the 16 October 1997 Easyrad Insolvency Agreement, which allowed Davidson to terminate and recover patents if Easyrad was unable to pay its debts within the meaning of section 123 Insolvency Act 1986.",
+        "Easyrad had acquired the patent from Lancashire Fittings for deferred consideration of about £60,000; the patent later underpinned Oystertec PLC's successful AIM flotation raising £30 million.",
+        "Claimants accepted Easyrad was balance-sheet insolvent for summary judgment purposes but argued the divestiture clause was void as contrary to public policy and in any event did not cover this patent."
+      ],
+      "procedural_posture": "Application for summary judgment in Chancery proceedings following a six-day hearing on the 'Void Transfer' issue in a derivative action permitted by Pumfrey J.",
+      "outcome": "Claimants succeeded on summary judgment that the Easyrad Assignment did not divest Easyrad of the patent, but the court would refuse a declaration of ownership because of laches/acquiescence; accord and satisfaction and remaining equitable defences reserved for further argument.",
+      "ratio": "An agreement allowing a company to be peremptorily stripped of a principal asset held out to the world as its own property, triggered by balance-sheet insolvency without court process, is to that extent null and void as contrary to the public policy rule in Money Markets Ltd v London Stock Exchange; separately, clause 1 of the Easyrad Insolvency Agreement required transfer for £1 and did not cover a patent acquired for £50,000 plus VAT.",
+      "legal_issues": [
+        "Whether clause 3 required a court determination of insolvency before exercise",
+        "Whether the deprivation provision was void as an attempt to contract out of insolvency law",
+        "Whether the patent fell within the scope of the Easyrad Insolvency Agreement",
+        "Whether laches or acquiescence barred declaratory relief despite voidness",
+        "Whether the alternative voidable/fiduciary breach claim could succeed on summary judgment"
+      ],
+      "catchwords": [
+        "summary judgment",
+        "derivative action",
+        "patent ownership",
+        "insolvency deprivation clause",
+        "public policy",
+        "Money Markets",
+        "laches",
+        "acquiescence",
+        "shareholders' agreement"
+      ],
+      "index_terms": [
+        "Easyrad Limited",
+        "Oystertec PLC",
+        "Paul Davidson",
+        "Oyster Converter",
+        "BSP Converter",
+        "AIM flotation",
+        "minority shareholders",
+        "Patent Office register"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Money Markets Ltd v London Stock Exchange",
+          "citation": "[2002] 1 WLR 1150",
+          "relation": "applied"
+        },
+        {
+          "name": "Swain v Hillman",
+          "citation": "[2001] 1 All ER 91",
+          "relation": "applied"
+        },
+        {
+          "name": "Three Rivers District Council v Bank of England",
+          "citation": "[2001] UKHL 16",
+          "relation": "applied"
+        },
+        {
+          "name": "Williams & Humbert Ltd v W & H Trade Marks",
+          "citation": "[1986] AC 368",
+          "relation": "applied"
+        },
+        {
+          "name": "Whitmore v Mason",
+          "citation": "(1861) 2 J & H 204",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Substantive reserved judgment with detailed reasoning on void transfer; metadata judge list appears unreliable but full text is complete."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2169.json",
+    "status": "done",
+    "notes": "Complete section 288 planning challenge; source summary truncated but full text complete.",
+    "enrichment": {
+      "short_title": "Inspector's refusal of garden retail use retention upheld on TPO and reasons grounds",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 288", "section 198"]
+        }
+      ],
+      "key_facts": [
+        "Mr Evans, acting in person, sought to quash an inspector's decision dismissing an appeal against refusal of permission to retain sale and display of retail A1/garden goods until 30 September 2007.",
+        "The site was already used for garden goods; protected trees were covered by a 1991 area Tree Preservation Order and a 1996 woodland order.",
+        "At the hearing the parties had negotiated draft landscaping and archaeological conditions that the council would want if permission were granted.",
+        "The inspector refused permission mainly because continued use would harm character and appearance and risk loss of important tree cover."
+      ],
+      "procedural_posture": "Section 288 application to the High Court to quash a planning inspector's appeal decision; claimant limited argument to two grounds at hearing.",
+      "outcome": "Application dismissed; permission to appeal refused; Secretary of State's costs assessed at £4,345.",
+      "ratio": "An inspector does not exceed her powers by treating an unrevised area TPO as a material consideration and refusing permission on amenity/tree-cover grounds; where the appellant did not argue that agreed draft conditions would overcome the identified harms, failure to discuss those conditions did not render the reasons inadequate.",
+      "legal_issues": [
+        "Whether the inspector acted beyond her powers in relying on the area TPO",
+        "Whether failure to address negotiated draft conditions amounted to inadequate reasons",
+        "Whether the local planning authority's failure to resurvey the TPO was relevant on section 288 review"
+      ],
+      "catchwords": [
+        "section 288",
+        "planning appeal",
+        "Tree Preservation Order",
+        "inadequate reasons",
+        "retention of use",
+        "draft conditions",
+        "listed building setting"
+      ],
+      "index_terms": [
+        "Evans",
+        "garden retail use",
+        "area TPO",
+        "retention planning permission",
+        "Judge Rich"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bloor v Secretary of State for the Environment",
+          "citation": "29 June 2001 (Collins J)",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Full judgment text including costs and permission to appeal; Bloor citation lacks neutral citation in source."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/2110.json",
+    "status": "done",
+    "notes": "Complete commercial court judgment on products liability policy construction.",
+    "enrichment": {
+      "short_title": "Contractors All Risks policy did not cover whole-complex cinema profit loss",
+      "area_of_law": [
+        "Insurance law",
+        "Construction law",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Consumer Protection Act 1987",
+          "provisions": []
+        },
+        {
+          "title": "Cinematographic (Safety) Regulations 1955",
+          "provisions": ["Regulation 22"]
+        },
+        {
+          "title": "Cinemas Act 1985",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Horbury, a suspended-ceiling subcontractor at a 16-screen Manchester cinema complex, sought Part 8 declarations on the construction of a Contractors All Risks policy with Hampden.",
+        "On 21 December 2001 the ceiling of auditorium 6 collapsed due to wrong washers; AMC closed the entire complex until about 25 January 2002 for investigation and remedial works.",
+        "Similar defects were found in other auditoria; Galliford and AMC indicated claims for whole-complex loss of revenue, repair costs and marketing expenses.",
+        "The central dispute was whether indemnity extended to loss of profits from closure of cinemas other than auditorium 6."
+      ],
+      "procedural_posture": "Part 8 claim for declarations on assumed and agreed facts before no third-party claim had reached judgment.",
+      "outcome": "Proposed declaration (6) on whole-complex lost profits refused; other sought declarations held unnecessary or not in dispute; question of appropriateness of declarations on hypothetical facts not decided.",
+      "ratio": "Under the products liability indemnity, cover requires physical damage to material property and liability at law for damages in respect of that damage; closure of the rest of the complex for safety inspection and remedial work was not a physical consequence of the collapse in auditorium 6 and therefore associated profit losses were not covered, following A S Screenprint and Rodan.",
+      "legal_issues": [
+        "Whether the cinema complex as a whole was 'Property' damaged by the collapsed ceiling",
+        "Whether lost profits from closure of unaffected auditoria were damages in respect of physical damage",
+        "Whether Hampden's liability was co-extensive with Horbury's liability to third parties",
+        "Whether declarations on partly assumed facts were appropriate before third-party liability was established"
+      ],
+      "catchwords": [
+        "Contractors All Risks",
+        "products liability",
+        "in respect of",
+        "physical damage",
+        "pure economic loss",
+        "cinema ceiling collapse",
+        "Part 8 declarations"
+      ],
+      "index_terms": [
+        "Horbury Building Systems",
+        "Hampden Insurance",
+        "AMC Europe",
+        "Great Northern Warehouse Manchester",
+        "wrong washers",
+        "loss of profits"
+      ],
+      "linked_authorities": [
+        {
+          "name": "A S Screenprint Ltd v British Reserve Insurance Co Ltd",
+          "citation": "[1999] Lloyd's Rep IR 430",
+          "relation": "applied"
+        },
+        {
+          "name": "Rodan International Ltd v Commercial Union Assurance Co plc",
+          "citation": "[1999] Lloyd's Rep IR 495",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment with detailed policy analysis and clear conclusions on each declaration sought."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2199.json",
+    "status": "done",
+    "notes": "Complete section 288 judgment on misinterpretation of Wiltshire development plan policies.",
+    "enrichment": {
+      "short_title": "Inspector wrongly treated Holt site outside VPL as countryside barred by policy H5",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 288", "section 36(6)", "section 54A"]
+        }
+      ],
+      "key_facts": [
+        "Rosy Homes sought permission for twenty dwellings plus office/workshop units on a disused factory site at Holt, West Wiltshire.",
+        "The inspector accepted the form of development would enhance the adjoining conservation area but refused permission as contrary to structure plan policy DP15 and district plan policies including H5.",
+        "The appeal site lay within the village of Holt but outside the defined Village Policy Limit (VPL).",
+        "The inspector treated paragraph 3.2.29 of the district plan as explanatory of H5 and concluded residential development outside the VPL should be resisted as countryside development."
+      ],
+      "procedural_posture": "Section 288 application to quash a planning inspector's refusal of permission.",
+      "outcome": "Decision quashed and remitted for reconsideration; claimant's costs assessed at £6,657.10; permission to appeal refused.",
+      "ratio": "Paragraph 3.2.29 relates to policies H7 and H7A, not H5; policy H5 permits limited development within defined VPLs but is silent on land within an H5 village but outside the VPL, so the inspector erred in rewriting H5 to resist such development; separately, DP15 controls open countryside and could not properly be applied to a site agreed not to be open countryside.",
+      "legal_issues": [
+        "Proper construction of district plan policy H5 outside VPLs",
+        "Whether explanatory paragraph 3.2.29 formed part of the development plan and how it should be used",
+        "Whether structure plan policy DP15 applied to land within but outside a village boundary",
+        "Effect of section 54A where development plan policies were misapplied"
+      ],
+      "catchwords": [
+        "section 288",
+        "Village Policy Limit",
+        "development plan",
+        "policy H5",
+        "policy H7",
+        "open countryside",
+        "section 54A",
+        "conservation area"
+      ],
+      "index_terms": [
+        "Rosy Homes Holt",
+        "Wiltshire structure plan DP15",
+        "VPL",
+        "Holt village",
+        "previously developed land"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full reasoned judgment with clear policy construction analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1262.json",
+    "status": "done",
+    "notes": "Short permission-to-appeal judgment on construction of 1955 planning permission.",
+    "enrichment": {
+      "short_title": "1955 planning grant limited to part of site, not a condition on whole curtilage",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Environment Act 1995",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Payne obtained a continuing planning permission linked to a 21 December 1955 National Coal Board permission for tipping on his land.",
+        "The 1955 decision document stated permission was granted for areas AA and EE but not for BB, CC and DD, citing amenity reasons for refusing tipping on the latter areas.",
+        "Payne argued the BB/CC/DD restriction was a condition on a permission covering the whole curtilage and fell away once new conditions were imposed under the Environment Act 1995 process.",
+        "Maurice Kay J and the Court of Appeal held the 1955 document granted permission only for part of the land and granted no permission at all for BB, CC and DD."
+      ],
+      "procedural_posture": "Application for permission to appeal to the Court of Appeal against Maurice Kay J's judgment, following earlier remittal by Pill LJ.",
+      "outcome": "Permission to appeal refused.",
+      "ratio": "The 1955 document must be construed as granting planning permission only for sections AA and EE and refusing permission entirely for sections BB, CC and DD; it was not an overall grant limited by condition, so no conditions could attach to areas never permitted.",
+      "legal_issues": [
+        "Whether the 1955 BB/CC/DD restriction was a planning condition or a refusal of part of the application",
+        "Whether limitations on planning permission are permissible",
+        "Effect of new conditions under Environment Act 1995 on the geographic scope of the permission"
+      ],
+      "catchwords": [
+        "planning permission construction",
+        "partial grant",
+        "planning conditions",
+        "Environment Act 1995",
+        "continuing permission",
+        "I'm Your Man"
+      ],
+      "index_terms": [
+        "Payne",
+        "Caerphilly County Borough Council",
+        "1955 tipping permission",
+        "sections AA EE BB CC DD"
+      ],
+      "linked_authorities": [
+        {
+          "name": "I'm Your Man Ltd v Secretary of State for the Environment",
+          "citation": "(1988) 77 P & CR 251",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Complete short judgment; underlying 1955 document quoted in text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1289.json",
+    "status": "done",
+    "notes": "Complete appeal on sentence for assault on court bailiff.",
+    "enrichment": {
+      "short_title": "Three-month sentence for stone thrown at bailiff reduced to 21 days",
+      "area_of_law": [
+        "Contempt of court",
+        "Criminal sentencing",
+        "County court procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "County Courts Act 1984",
+          "provisions": ["section 14"]
+        },
+        {
+          "title": "Administration of Justice Act 1960",
+          "provisions": ["section 13"]
+        }
+      ],
+      "key_facts": [
+        "Court bailiff Carole Cassidy attended Mr Easthope's home to serve county court papers in injunction proceedings.",
+        "After a hostile encounter at the door, Easthope threw a satsuma-sized stone at her car as she drove away, denting the bonnet; the open driver's window meant she feared personal injury.",
+        "Judge Altman found the offence proved under section 14 County Courts Act 1984 and imposed the maximum three-month committal.",
+        "Easthope had no previous convictions; the judge treated the act as reckless rather than a deliberate attempt to injure."
+      ],
+      "procedural_posture": "Appeal as of right to the Court of Appeal against committal for assault on an officer of the court under CCR 34 r 1.",
+      "outcome": "Appeal allowed; sentence reduced from three months to 21 days' imprisonment with immediate release; no order as to costs.",
+      "ratio": "Assault on a court officer in execution of duty warrants custodial punishment to protect the administration of justice, but where the assault caused no injury, involved recklessness rather than deliberate targeting, and the offender had no prior convictions, the maximum three-month sentence was excessive and 21 days was sufficient.",
+      "legal_issues": [
+        "Appropriate sentence for assault on a court bailiff under section 14 County Courts Act 1984",
+        "Whether proceedings were contempt proceedings attracting enhanced protection for court officers",
+        "Weight to be given to mitigating factors where maximum sentence was imposed"
+      ],
+      "catchwords": [
+        "assault on court officer",
+        "court bailiff",
+        "section 14 County Courts Act 1984",
+        "contempt",
+        "sentencing appeal",
+        "maximum sentence"
+      ],
+      "index_terms": [
+        "Graham Easthope",
+        "Carole Cassidy",
+        "Milton Keynes County Court",
+        "service of proceedings",
+        "stone thrown at car"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Southam v Smout",
+          "citation": "[1964] 1 QB 308",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete appeal judgment with agreed facts and clear sentencing reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3034.json",
+    "status": "done",
+    "notes": "Complete habeas corpus judgment on reasonableness of immigration detention.",
+    "enrichment": {
+      "short_title": "19-month immigration detention pending DRC removal held reasonable for now",
+      "area_of_law": [
+        "Immigration law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Act 1971",
+          "provisions": ["Schedule 3 paragraph 2(3)"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Congolese national Badjoko claimed asylum on arrival in June 2000; asylum and appeal routes failed by November 2001.",
+        "He was detained from February 2002 pending removal; two removal attempts in October 2002 failed due to disruptive behaviour and airline refusal.",
+        "Documentation difficulties with DRC returns and the claimant's intermittent refusal to cooperate with emergency travel documents prolonged detention.",
+        "By the hearing, removal was scheduled for 30 September 2003 with flight, escorts and ticket arranged and DRC representatives promising travel documents within 14 days."
+      ],
+      "procedural_posture": "Application for writ of habeas corpus challenging lawfulness of continued immigration detention.",
+      "outcome": "Application dismissed; no order as to costs; judge indicated a different view would be justified if imminent removal plans failed.",
+      "ratio": "Detention under Schedule 3 paragraph 2(3) Immigration Act 1971 must be for the purpose of removal and only for a period reasonably necessary; applying Hardial Singh and I v SSHD, prolonged detention may be reasonable where removal was frustrated by the detainee's own conduct and lack of cooperation, but only while removal within a very short time is realistically achievable.",
+      "legal_issues": [
+        "Whether 19 months' detention exceeded a reasonable period for removal",
+        "Effect of claimant's resistance to removal and refusal to cooperate with travel documentation",
+        "Risk of absconding if released",
+        "Secretary of State's diligence in securing DRC returns by charter flight"
+      ],
+      "catchwords": [
+        "habeas corpus",
+        "immigration detention",
+        "Hardial Singh",
+        "reasonableness of detention",
+        "failed asylum seeker",
+        "removal directions",
+        "absconding risk"
+      ],
+      "index_terms": [
+        "Badjoko",
+        "Democratic Republic of Congo",
+        "Dungavel Removal Centre",
+        "EU letter returns",
+        "charter flight removal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Governor of Durham Prison, ex parte Hardial Singh",
+          "citation": "[1984] 1 WLR 704",
+          "relation": "applied"
+        },
+        {
+          "name": "I v Secretary of State for the Home Department",
+          "citation": "[2002] EWCA Civ 888",
+          "relation": "applied"
+        },
+        {
+          "name": "Tan Te Lam v Superintendent of Tai A Chau Detention Centre",
+          "citation": "[1997] AC 97",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full judgment with detailed chronology and clear application of detention principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3281.json",
+    "status": "done",
+    "notes": "Complete section 288 judgment quashing conservatory permission for failure on policy HSG 2.9.",
+    "enrichment": {
+      "short_title": "Conservatory permission quashed where inspector did not find exceptional circumstances",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 288", "section 54A", "section 79(4)", "section 72"]
+        }
+      ],
+      "key_facts": [
+        "Neighbour Mrs Taussig challenged an inspector's decision allowing a conservatory at the rear of a ground-floor flat at 28 Southwood Lawn Road, Highgate Conservation Area.",
+        "The building was a converted Victorian house divided into seven flats; local plan policy HSG 2.9 normally refused extensions to converted properties unless exceptional circumstances were demonstrated.",
+        "The inspector recited HSG 2.9 but did not identify any exceptional circumstances, instead asking whether allowing the extension would undermine the policy's purpose.",
+        "Supplementary Planning Guidance SPG 2.4 was not before the inspector because the council failed to provide it in the written representations appeal."
+      ],
+      "procedural_posture": "Section 288 application by adjoining flat owner to quash planning appeal decision allowed on written representations.",
+      "outcome": "Decision quashed and remitted on the HSG 2.9 ground; SPG ground rejected; claimant's costs assessed at £9,966.58; permission to appeal refused.",
+      "ratio": "Under policy HSG 2.9 the inspector had to decide whether exceptional circumstances justified an extension to a converted property; asking only whether granting permission would undermine the policy's purpose was the wrong question and, following Horsham, rendered the decision unlawful even if a departure from the plan might otherwise have been justified.",
+      "legal_issues": [
+        "Whether the inspector applied policy HSG 2.9 by asking the correct question about exceptional circumstances",
+        "Whether failure to consider SPG 2.4 invalidated the decision",
+        "Whether an inspector must seek out material supplementary guidance not placed before him in a written representations appeal"
+      ],
+      "catchwords": [
+        "section 288",
+        "converted property extensions",
+        "HSG 2.9",
+        "exceptional circumstances",
+        "Horsham",
+        "Supplementary Planning Guidance",
+        "conservation area",
+        "written representations appeal"
+      ],
+      "index_terms": [
+        "Taussig",
+        "Southwood Lawn Road Highgate",
+        "conservatory extension",
+        "DES 1.9 amenity",
+        "Unitary Development Plan"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Horsham District Council v Secretary of State for the Environment",
+          "citation": "[1992] 1 PLR 81",
+          "relation": "applied"
+        },
+        {
+          "name": "John Taylor v Secretary of State for Wales",
+          "citation": "[1985] JPL 792",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment with detailed policy and SPG analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2200.json",
+    "status": "done",
+    "notes": "Complete section 288 judgment; Oak Mere housing and B1 redevelopment partially quashed.",
+    "enrichment": {
+      "short_title": "Oak Mere scheme quashed for failure to weigh drainage benefit to conservation lake",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Environmental law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 288"]
+        }
+      ],
+      "key_facts": [
+        "Land and Development Ltd appealed against refusal of permission for about 40–50 dwellings and B1 office use in a refurbished courthouse on a 3.233 hectare site at Oak Mere, Cheshire.",
+        "The Secretary of State recovered the appeal because of potential effects on adjoining conservation lake Oak Mere.",
+        "The inspector found existing drainage from the industrially used site had contributed to nutrient enrichment of the Mere and that proposed diversion could be a substantive benefit.",
+        "The Secretary of State refused permission on development plan and visual impact grounds and did not investigate or weigh that drainage benefit because other grounds sufficed for refusal."
+      ],
+      "procedural_posture": "Section 288 challenge to Secretary of State decision rejecting inspector's recommendation to allow the appeal after a reopened inquiry.",
+      "outcome": "Decision quashed and remitted on the drainage-benefit ground alone; other grounds rejected; claimant awarded 50% of costs assessed at £6,000.",
+      "ratio": "Where jurisdiction was recovered because of the importance and vulnerability of Oak Mere, a potential substantive benefit from diverting existing harmful drainage away from the Mere was a material consideration which the Secretary of State was required to investigate and weigh; failure to do so meant there was a real possibility the decision would have differed.",
+      "legal_issues": [
+        "Whether the Secretary of State adequately weighed benefits of the scheme including drainage improvement to Oak Mere",
+        "Whether housing supply under the structure plan beyond 2006 had to be considered",
+        "Whether reliance on a quashed earlier inspector's visual impact assessment was an immaterial consideration",
+        "Whether the visual impact conclusion was perverse"
+      ],
+      "catchwords": [
+        "section 288",
+        "material consideration",
+        "Oak Mere",
+        "nutrient enrichment",
+        "drainage benefit",
+        "Bolton MBC v SSHD",
+        "recovered appeal",
+        "mixed use redevelopment"
+      ],
+      "index_terms": [
+        "Land and Development Ltd",
+        "Oak Mere Cheshire",
+        "Vale Royal",
+        "courthouse refurbishment",
+        "English Nature",
+        "PPG3 housing need"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bolton Metropolitan Borough Council v Secretary of State for the Environment",
+          "citation": "[1990] JPL 241",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full judgment; other grounds addressed briefly after successful drainage ground."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1410.json",
+    "status": "done",
+    "notes": "Complete permission-to-appeal judgment adjourning family costs dispute for mediation.",
+    "enrichment": {
+      "short_title": "Adjourned appeal over £2,500 family costs order with ADR direction",
+      "area_of_law": [
+        "Family law",
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Following removal and return of a two-week-old child on 22 June 2001, Sumner J directed a costs schedule process after a hearing on 26 June 2001.",
+        "On 12 November 2002 Sumner J ordered Mr G to pay £2,500 towards Miss K's costs plus £90 attendance costs; Mr G says he received no notice of that hearing.",
+        "Mr G's bank account was frozen shortly before Christmas 2002; he sought to set aside the costs order and permission to appeal out of time.",
+        "There was dispute over service of the costs schedule and notice of the November hearing."
+      ],
+      "procedural_posture": "Application for permission to appeal against a costs order in private law children proceedings, listed before Ward LJ.",
+      "outcome": "Application adjourned on notice to the respondent; stay ordered; parties directed to mediation via the court ADR service if requested; transcript to be supplied at public expense.",
+      "ratio": "Where permission to appeal raises disputed service and notice issues requiring factual inquiry, and the costs dispute is disproportionate to the sums involved, adjournment with encouragement to mediate is appropriate rather than immediate determination on conflicting untested evidence.",
+      "legal_issues": [
+        "Whether the 12 November 2002 costs order should be set aside for lack of notice",
+        "Whether costs schedules were properly served",
+        "Whether costs of £2,500 were reasonable for the underlying application",
+        "Whether time to appeal should be extended"
+      ],
+      "catchwords": [
+        "family proceedings costs",
+        "permission to appeal",
+        "service dispute",
+        "mediation",
+        "ADR",
+        "out of hours application",
+        "disproportionate litigation"
+      ],
+      "index_terms": [
+        "Re K child",
+        "Sumner J",
+        "Ward LJ",
+        "child removal",
+        "costs schedule",
+        "litigant in person"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Interim procedural judgment without final disposition; factual disputes expressly left unresolved."
+      }
+    }
+  }
+]

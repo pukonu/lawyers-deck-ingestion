@@ -1,0 +1,773 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1668.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on arbitration enforcement, limitation and issue estoppel.",
+    "enrichment": {
+      "short_title": "Enforcement of 1983 London arbitration award held not time-barred; typed telex signature valid acknowledgment under Limitation Act 1980",
+      "area_of_law": [
+        "Arbitration",
+        "Civil procedure",
+        "Conflict of laws",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1950",
+          "provisions": ["s.26"]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": ["s.7", "s.29(5)", "s.30"]
+        },
+        {
+          "title": "Statute of Frauds 1677",
+          "provisions": ["s.4"]
+        },
+        {
+          "title": "Statute of Frauds (Amendment) Act 1828",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Owners sought to enforce a 1983 London arbitration award for demurrage against Romanian charterers Metalexportimport; an ex parte section 26 order was obtained in 1993 but not served until 2001.",
+        "Charterers argued the claim was time-barred under section 7 Limitation Act 1980 and estopped by a 1998 Romanian Supreme Court decision that the award was no longer executory under English law.",
+        "Owners relied on part payments and telex acknowledgments from Navlomar; the critical telex of 17 February 1988 was held to be a signed acknowledgment extending limitation to after January 1993."
+      ],
+      "procedural_posture": "Appeal from the Commercial Court (Deputy High Court Judge Crane QC) refusing to set aside enforcement and granting permission to enter judgment.",
+      "outcome": "Appeal dismissed; claim not time-barred in January 1993, no issue estoppel from Romanian proceedings, no abuse of process, and permission to enforce granted subject to interest limits.",
+      "ratio": "A typed name at the foot of a telex can satisfy section 30(1) Limitation Act 1980 as a signature where it objectively indicates approval of the contents; a foreign court's incidental finding on English limitation under an alternative ground is not a necessary or conclusive determination giving rise to issue estoppel.",
+      "legal_issues": [
+        "Whether telex communications can constitute written signed acknowledgments for limitation purposes",
+        "Whether the Romanian Supreme Court decision created issue estoppel on English time bar",
+        "Whether delayed service of a section 26 enforcement order amounted to abuse of process",
+        "Whether permission to enforce after six years should be granted under Order 46 principles"
+      ],
+      "catchwords": [
+        "arbitration award enforcement",
+        "limitation acknowledgment",
+        "telex signature",
+        "issue estoppel",
+        "foreign judgment",
+        "abuse of process",
+        "section 26 Arbitration Act 1950"
+      ],
+      "index_terms": [
+        "Good Challenger",
+        "Metalexportimport",
+        "demurrage",
+        "Navlomar",
+        "Romanian enforcement",
+        "The Anemone",
+        "Agromet Motoimport"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Anemone",
+          "citation": "[1987] 1 Lloyd's Rep 546"
+        },
+        {
+          "name": "Carl Zeiss Stiftung v Rayner & Keeler Ltd (No 2)",
+          "citation": "[1967] 1 AC 853"
+        },
+        {
+          "name": "Johnson v Gore Wood & Co",
+          "citation": "[2002] 2 AC 1"
+        },
+        {
+          "name": "Lockley v National Blood Transfusion Service",
+          "citation": "[1992] 1 WLR 492"
+        },
+        {
+          "name": "Patel v Singh",
+          "citation": "[2002] EWCA Civ 1938"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed ratio on limitation and estoppel; no truncation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3078.json",
+    "status": "done",
+    "notes": "Complete case stated appeal on RTA statutory option procedure.",
+    "enrichment": {
+      "short_title": "Police must exercise section 7(4) discretion on blood or urine when driver objects on genuine religious grounds to blood specimen",
+      "area_of_law": [
+        "Road traffic",
+        "Criminal procedure",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": ["s.7", "s.8", "s.7(4)", "s.8(2)"]
+        }
+      ],
+      "key_facts": [
+        "Joseph gave breath specimens of 40 microgrammes per 100ml, triggering the section 8(2) statutory option for a blood or urine replacement specimen.",
+        "Before the formal procedure he told Police Sergeant Malik he could not give blood because of his Rastafarian beliefs; the officer believed he had no discretion and would require blood.",
+        "The appellant refused the statutory option; he was convicted of driving with excess alcohol, but the officer had misunderstood Warren and failed validly to exercise the section 7(4) discretion."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Crown Court (Recorder Gupta) upholding conviction.",
+      "outcome": "Appeal allowed; officer unlawfully exercised discretion by treating blood as mandatory absent medical reasons.",
+      "ratio": "Under section 7(4) and section 8(2) Road Traffic Act 1988 the constable alone chooses blood or urine; where a driver genuinely objects to blood for a valid non-medical reason such as religious belief, the officer must consider that in exercising the discretion and may lawfully require urine instead.",
+      "legal_issues": [
+        "Construction of section 7(4) Road Traffic Act 1988 in section 8(2) cases",
+        "Whether religious objection to blood sampling is a relevant factor in the constable's specimen choice",
+        "Whether misapplication of DPP v Warren invalidated the statutory procedure"
+      ],
+      "catchwords": [
+        "statutory option",
+        "section 7(4) RTA 1988",
+        "breath test",
+        "blood or urine specimen",
+        "Rastafarianism",
+        "Wednesbury discretion",
+        "case stated"
+      ],
+      "index_terms": [
+        "Joseph",
+        "DPP v Warren",
+        "DPP v Byrne",
+        "Form MGDDB",
+        "evidential breath test",
+        "religious objection"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Director of Public Prosecutions v Warren",
+          "citation": "[1992] 4 All ER 865"
+        },
+        {
+          "name": "Director of Public Prosecutions v Byrne",
+          "citation": "[1991] RTR 119"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment with clear statutory construction and outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1943.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment; easement evidence issue determinative.",
+    "enrichment": {
+      "short_title": "Party wall award did not extinguish easement; counterclaim failed for lack of evidence of prescriptive pipe easement",
+      "area_of_law": [
+        "Property law",
+        "Easements",
+        "Party walls",
+        "Landlord and tenant"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Party Walls etc. Act 1996",
+          "provisions": ["s.2", "s.2(5)", "s.7(2)", "s.9", "s.10", "s.20"]
+        },
+        {
+          "title": "Prescription Act 1832",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Arena, leaseholder of 96 Farringdon Road, served a party structure notice to remove a soil vent pipe crossing the party wall from 98 Farringdon Road; surveyors' award authorised removal.",
+        "Europa, later leaseholder of upper floors at 98, counterclaimed for compensation under section 7(2) alleging a prescriptive easement for the pipe.",
+        "The judge found no easement established; the Court of Appeal held the award did not of itself extinguish the easement but insufficient evidence supported 20 years' user."
+      ],
+      "procedural_posture": "Appeal from county court dismissal of Part 20 counterclaim for party wall compensation.",
+      "outcome": "Appeal dismissed; existence of prescriptive easement not proved on the evidence.",
+      "ratio": "A party wall surveyors' award authorising work does not automatically extinguish an easement; section 7(2) Party Walls etc. Act 1996 can confer compensation for lawful work, but a counterclaim founded on an easement fails if the easement is not established on admissible evidence.",
+      "legal_issues": [
+        "Whether a party wall award extinguishes an easement appurtenant to the adjoining property",
+        "Scope of section 7(2) compensation under the 1996 Act",
+        "Whether section 9 preserves easements relating to party walls",
+        "Whether surveyors have exclusive jurisdiction over compensation"
+      ],
+      "catchwords": [
+        "party wall",
+        "easement by prescription",
+        "soil vent pipe",
+        "section 7(2) compensation",
+        "adjoining owner",
+        "surveyors' award"
+      ],
+      "index_terms": [
+        "Arena Property Services",
+        "Europa 2000",
+        "Farringdon Road",
+        "Selby v Whitbread",
+        "Gale on Easements"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Selby v Whitbread",
+          "citation": "[1917] 1 KB 726"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment; section 9 relationship with section 2 left open but core outcome clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2831.json",
+    "status": "done",
+    "notes": "Complete judicial review on Article 5(4) post-Stafford transitional arrangements.",
+    "enrichment": {
+      "short_title": "Deferral of mandatory lifer's Parole Board review to December 2003 breached Article 5(4) ECHR",
+      "area_of_law": [
+        "Human rights",
+        "Prison law",
+        "Public law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": ["s.32(2)", "s.35(1)", "s.35(2)"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["s.22(4)"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art.5(4)", "Art.5(5)"]
+        }
+      ],
+      "key_facts": [
+        "Mr King, tariff-expired mandatory lifer, last had a Parole Board review completed in January 2000 recommending open conditions.",
+        "After drug breaches and transfers, his next review was deferred from June 2002 to December 2003 following Stafford v UK and transitional arrangements.",
+        "The gap of nearly four years since his last review, with no Convention-compliant review after Stafford, was held to breach the speed requirement of Article 5(4)."
+      ],
+      "procedural_posture": "Judicial review application challenging delay in Parole Board review of post-tariff mandatory life prisoner.",
+      "outcome": "Declaration that decision not to complete review until December 2003 breached Article 5(4); damages under Article 5(5) not pursued.",
+      "ratio": "Article 5(4) requires regular and speedy review of post-tariff detention; an 18-month open-conditions assessment period cannot indefinitely postpone review, and where the last review was in January 2000 a review deferred to December 2003 is excessive even allowing reasonable time to implement Stafford-compliant arrangements.",
+      "legal_issues": [
+        "Whether post-Stafford transitional delay breached Article 5(4)",
+        "From what date delay should be measured after Human Rights Act commencement",
+        "Whether logistical or assessment-policy reasons justify extended intervals between reviews"
+      ],
+      "catchwords": [
+        "Article 5(4)",
+        "mandatory life sentence",
+        "Parole Board review",
+        "Stafford v UK",
+        "tariff expired",
+        "speedy review",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Mr King",
+        "Murray v Parole Board",
+        "R (Noorkoiv) v SSHD",
+        "R (Hooper) v SSHD",
+        "lifer review"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Stafford v United Kingdom",
+          "citation": "[2002] 35 EHRR 32"
+        },
+        {
+          "name": "R (Noorkoiv) v Secretary of State for the Home Department",
+          "citation": "[2002] EWCA Civ 770"
+        },
+        {
+          "name": "Murray v The Parole Board",
+          "citation": "[2003] EWCA Civ 1561"
+        },
+        {
+          "name": "R (Hooper) v Secretary of State for Work and Pensions",
+          "citation": "[2003] EWCA Civ 813"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment with clear declaration and reasoning on Article 5(4) timing."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3368.json",
+    "status": "done",
+    "notes": "Complete SEND Tribunal appeal; tribunal decision quashed for inadequate reasons.",
+    "enrichment": {
+      "short_title": "SEND Tribunal decision quashed for failing to explain rejection of Jewish special school placement evidence",
+      "area_of_law": [
+        "Education law",
+        "Special educational needs",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Education Act 1996",
+          "provisions": ["Part IV", "s.9", "s.324", "s.326"]
+        },
+        {
+          "title": "Tribunals and Inquiries Act 1992",
+          "provisions": ["s.11"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art.2 Protocol 1", "Art.8", "Art.9", "Art.14"]
+        }
+      ],
+      "key_facts": [
+        "S, a 7-year-old with cerebral palsy from an orthodox Jewish family, was statemented for placement at maintained special school Northway; parents appealed preferring independent Jewish school Kisharon.",
+        "Parents argued S's religious and cultural needs were linked to her learning difficulties and that secular placement would cause exclusion during Sabbath, kosher diet and religious observance.",
+        "The tribunal accepted many amendments but preferred Northway on cost grounds without adequately explaining why it rejected Mrs Birnbaum's expert evidence on Jewish identity and provision."
+      ],
+      "procedural_posture": "Appeal on points of law under section 11 Tribunals and Inquiries Act 1992 against SEND Tribunal decision.",
+      "outcome": "Tribunal decision quashed and remitted to a differently constituted panel; publication order protecting child's identity.",
+      "ratio": "A SEND Tribunal must decide Parts 2, 3 and 4 of a statement in order and give summary reasons dealing with substantial issues; where it rejects unopposed expert evidence on how a child's Jewish identity affects provision and placement, failure to explain that rejection is a fundamental defect warranting quashing.",
+      "legal_issues": [
+        "Whether religion can constitute a special educational need",
+        "Whether the tribunal addressed needs and provision before placement",
+        "Adequacy of summary reasons for rejecting parental amendments and expert evidence",
+        "Impact of orthodox Jewish observance on provision at a non-faith special school"
+      ],
+      "catchwords": [
+        "special educational needs",
+        "statement of SEN",
+        "SEND Tribunal",
+        "Jewish school placement",
+        "reasons challenge",
+        "section 9 Education Act 1996",
+        "G v Barnet"
+      ],
+      "index_terms": [
+        "London Borough of Barnet",
+        "Kisharon",
+        "Northway School",
+        "Mrs Birnbaum",
+        "orthodox Jewish education",
+        "Part 2 Part 3 Part 4"
+      ],
+      "linked_authorities": [
+        {
+          "name": "G v London Borough of Barnet and the Special Educational Needs Tribunal",
+          "citation": "[1998] ELR 480"
+        },
+        {
+          "name": "R v Secretary of State for Education ex parte E",
+          "citation": "[1996] ELR 312"
+        },
+        {
+          "name": "S (a minor) v Special Educational Needs Tribunal",
+          "citation": "[1995] WLR 1627"
+        },
+        {
+          "name": "H v Kent County Council and the Special Educational Needs Tribunal",
+          "citation": "[2000] ELR 660"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long but complete judgment with detailed procedural fairness and reasons analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2835.json",
+    "status": "done",
+    "notes": "Complete Chancery appeal on legal aid costs set-off under section 11 Access to Justice Act 1999.",
+    "enrichment": {
+      "short_title": "Section 11 Access to Justice Act 1999 does not prevent set-off of costs against legally aided opponent",
+      "area_of_law": [
+        "Costs",
+        "Legal aid",
+        "Civil procedure",
+        "Partnership"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": ["s.11"]
+        },
+        {
+          "title": "Legal Aid Act 1988",
+          "provisions": ["s.17", "s.18"]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": ["s.24"]
+        },
+        {
+          "title": "Community Legal Service (Costs) Regulations 2000",
+          "provisions": ["regs 9-13", "reg 12(5)"]
+        },
+        {
+          "title": "Civil Legal Aid (General) Regulations 1989",
+          "provisions": ["reg 124"]
+        }
+      ],
+      "key_facts": [
+        "Former solicitor partners Hill and Bailey disputed partnership account costs; Master Dyson ordered cross-set-off of taxed costs dating from 1996.",
+        "Hill was an assisted person; Bailey delayed taxing his costs for years then sought detailed assessment to set off against Hill's larger taxed sum.",
+        "Master Wright held section 11 and the 2000 Regulations barred ordinary detailed assessment and the application was time-barred under reg 12(5)."
+      ],
+      "procedural_posture": "Appeal from Costs Office decision refusing detailed assessment of costs against legally aided party for set-off purposes.",
+      "outcome": "Appeal allowed; section 11 does not apply to assessment for set-off only; matter remitted to Master Wright for detailed assessment.",
+      "ratio": "Section 11 Access to Justice Act 1999 limits enforceable payment liability of funded clients but does not prevent a costs set-off; assessing costs for set-off is not requiring the assisted person to pay, and the Lockley principle continues to apply under the 1999 Act regime.",
+      "legal_issues": [
+        "Whether section 11 applies where a paying party seeks detailed assessment only to set off against sums owed to an assisted person",
+        "Whether Regulation 12(5) six-year limit bars a late assessment sought for set-off",
+        "Transitional application of 2000 Regulations to pre-1999 assisted persons"
+      ],
+      "catchwords": [
+        "legal aid costs",
+        "section 11 AJA 1999",
+        "set-off of costs",
+        "detailed assessment",
+        "assisted person",
+        "Lockley",
+        "costs protection"
+      ],
+      "index_terms": [
+        "Hill v Bailey",
+        "Hicks v Russell Jones & Walker",
+        "Master Dyson",
+        "partnership account",
+        "Costs Office"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Lockley v National Blood Transfusion Service",
+          "citation": "[1992] 1 WLR 492"
+        },
+        {
+          "name": "Hicks v Russell Jones & Walker",
+          "citation": "(27 October 2000, unreported)"
+        },
+        {
+          "name": "Lowsley v Forbes",
+          "citation": "[1999] 1 AC 329"
+        },
+        {
+          "name": "Times Newspapers Ltd v Chohan",
+          "citation": "[2001] EWCA Civ 964"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment with clear statutory analysis and outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2917.json",
+    "status": "done",
+    "notes": "Complete case stated appeal; minor garbled text at end of transcript does not affect ratio.",
+    "enrichment": {
+      "short_title": "Wheel spinning with engine running and handbrake on held to be driving for drink-driving purposes",
+      "area_of_law": [
+        "Road traffic",
+        "Criminal law",
+        "Case stated"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": ["s.5(1)(a)"]
+        },
+        {
+          "title": "Misuse of Drugs Act 1971",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Alderton was found in his car on a public grass verge, engine running, smelling of alcohol, wheel spinning with handbrake on after a domestic dispute.",
+        "Breath analysis showed 133 microgrammes per 100ml; magistrates acquitted on the basis wheel spinning without vehicle movement was not driving.",
+        "The High Court applied MacDonagh: active use of controls to prevent movement while wheels turned satisfied both the control test and ordinary meaning of driving."
+      ],
+      "procedural_posture": "Appeal by case stated from magistrates' acquittal of driving with excess alcohol.",
+      "outcome": "Appeal allowed; case remitted with direction to convict.",
+      "ratio": "Driving under section 5(1)(a) Road Traffic Act 1988 includes wheel spinning where the driver uses accelerator, clutch and steering while preventing forward movement with the handbrake; actual displacement of the vehicle is not essential if control has moved beyond preparation for driving.",
+      "legal_issues": [
+        "Whether wheel spinning constitutes driving within section 5(1)(a)",
+        "Application of MacDonagh substantial control and ordinary meaning tests",
+        "Whether handbrake use negates control of movement"
+      ],
+      "catchwords": [
+        "driving",
+        "excess alcohol",
+        "wheel spinning",
+        "MacDonagh",
+        "handbrake",
+        "case stated",
+        "Hoy v McFadyen"
+      ],
+      "index_terms": [
+        "Alderton",
+        "R v MacDonagh",
+        "Ames v MacLeod",
+        "Blayney v Knight",
+        "stationary vehicle"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v MacDonagh",
+          "citation": "[1974] RTR 372"
+        },
+        {
+          "name": "Hoy v McFadyen",
+          "citation": "[2000] SLR 1060"
+        },
+        {
+          "name": "Blayney v Knight",
+          "citation": "[1975] RTR 279"
+        },
+        {
+          "name": "Ames v MacLeod",
+          "citation": "1969 JC 1"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Substantive judgment complete; brief corrupted closing lines in source transcript only."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3077.json",
+    "status": "done",
+    "notes": "Complete habeas corpus judgment on extradition time bar and section 11(3).",
+    "enrichment": {
+      "short_title": "Habeas corpus refused where one of five Spanish fraud charges remained not time-barred",
+      "area_of_law": [
+        "Extradition",
+        "Criminal law",
+        "Conflict of laws",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act 1989",
+          "provisions": ["s.11(3)", "s.12"]
+        },
+        {
+          "title": "European Convention on Extradition Order 2001",
+          "provisions": ["Art.10", "Art.14"]
+        }
+      ],
+      "key_facts": [
+        "Jaffar, British citizen resident in UK for 27 years, was committed for extradition to Spain on five conspiracy to defraud charges relating to Grupo Torras/KIO between 1987 and 1992.",
+        "Spanish proceedings showed Operation Croesus time-barred and limitation disputed on other charges; INPAC charge (charge 1) remained live against Jaffar.",
+        "Applicant argued passage of time made return unjust under section 11(3)(b) and Article 10; 15 years' delay and deceased witnesses cited."
+      ],
+      "procedural_posture": "Application for writ of habeas corpus challenging committal order pending Secretary of State return order.",
+      "outcome": "Application refused; discharge under section 11(3) requires success on every offence; charge 1 alone sufficient for valid committal.",
+      "ratio": "Under section 11(3) Extradition Act 1989 the court may order discharge only if return would be unjust or oppressive in respect of each offence for which extradition is sought; where one charge is not time-barred a valid committal stands even if other charges may be barred abroad.",
+      "legal_issues": [
+        "Effect of Spanish limitation on extradition under Article 10 European Convention on Extradition",
+        "Whether section 11(3)(b) permits partial discharge where some charges are time-barred",
+        "Whether 15-year delay and loss of witnesses make return oppressive for surviving charge"
+      ],
+      "catchwords": [
+        "habeas corpus",
+        "extradition",
+        "section 11(3) Extradition Act 1989",
+        "limitation",
+        "conspiracy to defraud",
+        "Spain",
+        "oppressive delay"
+      ],
+      "index_terms": [
+        "Jaffar",
+        "Grupo Torras",
+        "KIO",
+        "INPAC",
+        "Bow Street committal",
+        "In re Debs"
+      ],
+      "linked_authorities": [
+        {
+          "name": "In the Matter of Debs",
+          "citation": "[1998] EWHC Admin 271"
+        },
+        {
+          "name": "In the Matter of Lorrain Esme Osman",
+          "citation": "(28 February 1992)"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment; limitation on individual charges expressly not finally determined."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2798.json",
+    "status": "done",
+    "notes": "Complete judicial review on asylum support vs National Assistance Act allocation.",
+    "enrichment": {
+      "short_title": "NASS not local authority bears responsibility to house HIV-positive asylum seeker's whole family under section 122 IAA 1999",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Social welfare",
+        "Public law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "National Assistance Act 1948",
+          "provisions": ["s.21", "s.21(1)(a)", "s.21(1A)", "s.21(2)", "s.21(8)"]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": ["s.94", "s.95", "s.115", "s.122"]
+        },
+        {
+          "title": "Children Act 1989",
+          "provisions": ["s.17"]
+        },
+        {
+          "title": "Asylum Support Regulations 2000",
+          "provisions": ["regs 5", "6", "12", "16", "23"]
+        }
+      ],
+      "key_facts": [
+        "Ugandan asylum seeker O, HIV positive with two young children, received section 21 National Assistance Act accommodation from Haringey as an adult needing care and attention.",
+        "Haringey argued NASS should fund the children; the Secretary of State contended the whole family obligation remained with the local authority.",
+        "The court held section 21 does not extend to minors and section 122 disapplies Children Act assistance, leaving NASS exclusively responsible for the household."
+      ],
+      "procedural_posture": "Judicial review claim for declaration that local authority must accommodate asylum seeker's dependent children with her.",
+      "outcome": "Claim dismissed; NASS bears sole responsibility for adequate accommodation for the children and hence the family unit.",
+      "ratio": "Where an asylum seeker qualifies for section 21 care as an adult but has dependant children, section 122 Immigration and Asylum Act 1999 imposes a duty on the Secretary of State to provide adequate accommodation for children as part of the eligible person's household, excluding local authority Children Act powers and preventing section 21 from being the route that blocks NASS support.",
+      "legal_issues": [
+        "Whether section 21 National Assistance Act can accommodate dependant children of a qualifying adult asylum seeker",
+        "Allocation of responsibility between local authority and NASS for disabled or ill asylum seekers with children",
+        "Interaction of R (Westminster) v NASS with families including minors"
+      ],
+      "catchwords": [
+        "asylum support",
+        "National Assistance Act section 21",
+        "section 122 IAA 1999",
+        "NASS",
+        "dependant children",
+        "HIV",
+        "Westminster v NASS"
+      ],
+      "index_terms": [
+        "R (O) v Haringey",
+        "R (Westminster CC) v NASS",
+        "R (A) v NASS",
+        "Article 8 family life",
+        "destitution",
+        "care and attention"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (Westminster City Council) v National Asylum Support Service",
+          "citation": "[2002] UKHL 38"
+        },
+        {
+          "name": "R (A) v NASS and Waltham Forest LBC",
+          "citation": "[2003] EWCA Civ 1473"
+        },
+        {
+          "name": "R (Mani) v Lambeth LBC",
+          "citation": "[2003] EWCA Civ 836"
+        },
+        {
+          "name": "R (G, W and A) v Barnet and Lambeth LBC",
+          "citation": "[2003] UKHL 57"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete lengthy judgment with detailed statutory scheme analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1696.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on employment causation of arrest.",
+    "enrichment": {
+      "short_title": "Employer's failure to correct drug theft allegation held a material cause of nurse's arrest and psychiatric injury",
+      "area_of_law": [
+        "Employment law",
+        "Personal injury",
+        "Negligence",
+        "NHS"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Misuse of Drugs Act 1971",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Senior nurse Holladay was arrested at Margate Hospital after a half Temazepam tablet was found in his pocket during a ward drug audit; colleague Wilson had larger quantities of missing drugs.",
+        "Mrs King had given him the tablet minutes earlier but did not tell police; Mr Proctor wrongly told police he had no authority to possess it.",
+        "Holladay was released without charge but suffered psychiatric injury and retired early; the judge applied the wrong but-for causation test."
+      ],
+      "procedural_posture": "Appeal against Queen's Bench Division dismissal of claim for breach of implied term of mutual trust and confidence.",
+      "outcome": "Appeal allowed; breach materially caused arrest; quantum remitted for assessment (judge indicated £8,000 general damages).",
+      "ratio": "In a claim for breach of the implied term of mutual trust and confidence causing arrest, the claimant need only show the employer's breach was a material cause of the arrest, not that arrest would not have occurred but for the breach; possession of the half tablet was at least part of the police decision to arrest.",
+      "legal_issues": [
+        "Correct causation test where employer's breach contributes to employee's arrest",
+        "Whether failure to verify Temazepam explanation before calling police breached mutual trust and confidence",
+        "Foreseeability of psychiatric injury from workplace arrest"
+      ],
+      "catchwords": [
+        "mutual trust and confidence",
+        "employer liability",
+        "wrongful arrest",
+        "causation",
+        "material contribution",
+        "psychiatric injury",
+        "hospital drugs theft"
+      ],
+      "index_terms": [
+        "Holladay",
+        "East Kent Hospitals NHS Trust",
+        "Gogay v Hertfordshire",
+        "Bonnington Castings v Wardlaw",
+        "Margate Hospital",
+        "Temazepam"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Gogay v Hertfordshire County Council",
+          "citation": "[2000] IRLR 703"
+        },
+        {
+          "name": "Bonnington Castings Ltd v Wardlaw",
+          "citation": "[1956] AC 613"
+        },
+        {
+          "name": "County Ltd v Girozentrale Securities",
+          "citation": "[1996] 3 All ER 834"
+        },
+        {
+          "name": "Heskell v Continental Express Ltd",
+          "citation": "[1950] 1 All ER 1033"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete judgment with clear causation correction and remittal on quantum."
+      }
+    }
+  }
+]

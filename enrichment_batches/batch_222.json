@@ -1,0 +1,769 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/252.json",
+    "status": "done",
+    "notes": "Mann J identified from full text; metadata judges field includes appellate judges cited in the judgment.",
+    "enrichment": {
+      "short_title": "Section 459 petition not struck out for delay",
+      "area_of_law": [
+        "Company law",
+        "Unfair prejudice petitions",
+        "Civil procedure",
+        "Quasi-partnerships"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": ["section 459"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["rule 3.1(2)(m)", "rule 3.4(2)(b)", "rule 3.4(5)"]
+        }
+      ],
+      "key_facts": [
+        "Mr Hateley held 25% of Legal Costs Negotiators Ltd alongside three co-shareholders in an admitted quasi-partnership.",
+        "He was excluded from management in 1997 and presented a section 459 petition in February 2000 alleging exclusion from profits, competing businesses and diversion of business to an Australian company.",
+        "After prolonged delay and a failed case management conference, Registrar Jaques struck out the petition as an abuse of process.",
+        "The registrar relied heavily on Mr Hateley's acquisition of co-shareholder Mr Thaker's shares, which he treated as undermining the buy-out claim.",
+        "Mann J held the registrar erred in treating the buy-out as the principal relief and in finding an express undertaking to refix the CMC."
+      ],
+      "procedural_posture": "Appeal with permission from Hart J against a registrar's order striking out a section 459 petition for abuse of process and want of prosecution.",
+      "outcome": "Appeal allowed; petition not struck out; directions to be made for speedy restoration of the case management conference.",
+      "ratio": "Under the CPR, striking out a section 459 petition for delay or abuse requires a broad, proportionate merits judgment; a registrar errs if decisive weight is given to the acquisition of a co-shareholder's shares where other substantial relief remains independent of any buy-out, and respondents who let proceedings lie cannot rely solely on later delay.",
+      "legal_issues": [
+        "Whether delay and lack of prosecution justified striking out under CPR 3.4",
+        "Whether acquisition of a co-shareholder's shares rendered the petition an abuse",
+        "Whether a fair trial was impossible after several years' delay",
+        "Application of post-CPR strike-out principles after Walsh v Misseldine and Anodeus v Gibson"
+      ],
+      "catchwords": [
+        "section 459 petition",
+        "unfair prejudice",
+        "strike out",
+        "abuse of process",
+        "want of prosecution",
+        "quasi-partnership",
+        "CPR delay"
+      ],
+      "index_terms": [
+        "Legal Costs Negotiators Ltd",
+        "shareholder exclusion",
+        "case management conference",
+        "proportionate sanction",
+        "Taylor v Anderson fair trial test"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Walsh v Misseldine [2000]",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Purdy v Cambran [1999]",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Anodeus Entertainment Ltd v Gibson [2000]",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Asiansky Television Plc v Bayer-Rosin [2001]",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Taylor v Anderson [2002]",
+          "relationship": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Outcome and core reasoning are explicit; chronology is detailed though some interlocutory history is lengthy."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/168.json",
+    "status": "done",
+    "notes": "Eady J judgment; Lord Steyn appears in metadata but is cited in the libel authorities rather than sitting.",
+    "enrichment": {
+      "short_title": "Don King libel claim allowed to proceed in England",
+      "area_of_law": [
+        "Defamation",
+        "Conflict of laws and jurisdiction",
+        "Civil procedure",
+        "Internet publication"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Part 6.20", "Part 6.21(2A)"]
+        }
+      ],
+      "key_facts": [
+        "Don King sued Lennox Lewis, Lion Promotions and attorney Judd Burstein over internet articles accusing him of anti-semitism.",
+        "The publications on fightnews.com and boxingtalk.com followed publicity around parallel New York litigation over a Lewis-Tyson rematch.",
+        "Master Whitaker had granted permission to serve the claim form out of the jurisdiction.",
+        "The defendants applied to set aside that order, arguing England was not the proper forum and there was insufficient connection with the jurisdiction.",
+        "Mr King had substantial reputation, business links and Jewish community contacts in England."
+      ],
+      "procedural_posture": "Application to set aside permission to serve a libel claim form out of the jurisdiction under CPR Part 6.",
+      "outcome": "Application dismissed; permission to serve out remains; claim may proceed in England and Wales.",
+      "ratio": "Where defamatory internet material is downloaded in England, publication occurs here; a claimant with a substantial English reputation and arguable vicarious liability against US-based defendants may properly bring libel proceedings in England even where both parties are mainly resident abroad.",
+      "legal_issues": [
+        "Whether CPR Part 6.20 permitted service out in respect of internet libel",
+        "Whether England was the proper forum under CPR Part 6.21(2A)",
+        "Where internet publication occurs for defamation purposes",
+        "Whether Lennox Lewis and Lion Promotions were responsible for Burstein's publications"
+      ],
+      "catchwords": [
+        "service out of jurisdiction",
+        "internet libel",
+        "forum conveniens",
+        "anti-semitism",
+        "publication rule",
+        "boxing promoter"
+      ],
+      "index_terms": [
+        "Don King",
+        "Lennox Lewis",
+        "fightnews.com",
+        "boxingtalk.com",
+        "locus delicti",
+        "double actionability"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Bata v Bata (1948)",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Godfrey v Demon Internet [2001] QB 201",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Loutchansky v Times Newspapers Ltd [2002] QB 783",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Shevill v Presse Alliance SA [1996] AC 959",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Berezovsky v Michaels [2000] 1 WLR 1004",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Chadha v Dow Jones Inc [1999] EMLR 724",
+          "relationship": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Outcome stated at the hearing and reasons fully developed on the forum and publication principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/166.json",
+    "status": "needs_review",
+    "notes": "Cooke J identified from full text; source judges metadata lists House of Lords members not sitting on the application.",
+    "enrichment": {
+      "short_title": "Article 81 defence allowed on damages assessment",
+      "area_of_law": [
+        "Competition law",
+        "Commercial contracts",
+        "Res judicata and abuse of process",
+        "Damages assessment"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Treaty establishing the European Community",
+          "provisions": ["Article 81", "Article 85"]
+        },
+        {
+          "title": "Restrictive Trade Practices Act 1976",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Bim Kemi and Blackburn Chemicals disputed a 1994 distribution agreement for antifoam products after Blackburn stopped supplies in December 1998.",
+        "Langley J and the Court of Appeal had found Bim in repudiatory breach and Blackburn entitled to damages, but competition law issues were stayed.",
+        "Blackburn had raised a late Article 81 illegality plea, then abandoned it after succeeding on appeal.",
+        "Bim then sought to rely on Article 81 to defend Blackburn's counterclaim at the damages stage.",
+        "Blackburn applied to strike out Bim's defence as barred by Henderson v Henderson and cause of action estoppel."
+      ],
+      "procedural_posture": "Interlocutory application to strike out parts of a defence on assessment of damages on a counterclaim in long-running commercial litigation.",
+      "outcome": "Application dismissed; Bim permitted to advance its Article 81 illegality defence to Blackburn's damages claim.",
+      "ratio": "Where a competition illegality defence was first raised late by the counterclaiming party and expressly left open by earlier orders, it is not an abuse of process for the other party to rely on the same Article 81 argument at the damages stage, especially given the strong public policy against enforcing anti-competitive agreements.",
+      "legal_issues": [
+        "Whether Bim was estopped from raising Article 81 after earlier proceedings",
+        "Application of Henderson v Henderson and Johnson v Gore Wood abuse of process",
+        "Whether Article 81 rendered the 1994 agreement automatically void",
+        "Manifest illegality and Kok Hoong balancing in estoppel cases"
+      ],
+      "catchwords": [
+        "Article 81",
+        "EC competition",
+        "Henderson v Henderson",
+        "illegality",
+        "exclusive distribution",
+        "strike out",
+        "counterclaim damages"
+      ],
+      "index_terms": [
+        "Bim Kemi AB",
+        "Blackburn Chemicals",
+        "antifoam agents",
+        "exclusive supply agreement",
+        "cause of action estoppel",
+        "Gibbs Mew v Gemmell"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Henderson v Henderson (1843) 3 Hare 100",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Johnson v Gore Wood & Co [2002] 2 AC 59",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Gibbs Mew Plc v Gemmell [1999] ECC 97",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Kok Hoong v Leong Cheong Kweng Mines Ltd [1964] AC 993",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Westacre Investments Inc v Jugoimport [2000] 1 QB 288",
+          "relationship": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Complex procedural history but outcome and estoppel reasoning are clear; metadata quality warrants human review."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/153.json",
+    "status": "needs_review",
+    "notes": "Ouseley J identified from full text; metadata judges field includes senior appellate judges not sitting.",
+    "enrichment": {
+      "short_title": "SSSI compensation scheme compatible with A1P1",
+      "area_of_law": [
+        "Administrative law",
+        "Judicial review",
+        "Environmental and nature conservation law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Wildlife and Countryside Act 1981",
+          "provisions": ["sections 28-32", "section 50"]
+        },
+        {
+          "title": "Countryside and Rights of Way Act 2000",
+          "provisions": ["section 75(1)", "Schedule 9"]
+        },
+        {
+          "title": "National Parks and Access to the Countryside Act 1949",
+          "provisions": ["section 23"]
+        },
+        {
+          "title": "Countryside Act 1968",
+          "provisions": ["section 15", "section 37"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 1 Protocol 1"]
+        }
+      ],
+      "key_facts": [
+        "Trailer & Marina (Leven) Ltd owns the Leven Canal in Yorkshire, notified as an SSSI since 1987.",
+        "The claimant had previously received annual compensation of £19,000 under a management agreement for restricted boating and fishing.",
+        "Amendments in force from January 2001 changed Ministerial guidance so compensation was no longer payable for foregone profits from proposed rather than actual activities.",
+        "The claimant contended the new regime left the canal commercially unusable and reduced its value almost to nil without compensation.",
+        "English Nature remained willing to enter management agreements on the revised basis."
+      ],
+      "procedural_posture": "Application for judicial review seeking a declaration of incompatibility with Article 1 Protocol 1 ECHR.",
+      "outcome": "Claim dismissed; sections 28-32 of the Wildlife and Countryside Act 1981 as amended held compatible with Article 1 Protocol 1.",
+      "ratio": "A control-of-use interference with property through strengthened SSSI restrictions is proportionate without compensating landowners for profits foregone from proposed damaging operations they were not yet carrying out, where a compensation scheme remains for actual income foregone and Parliament enjoys a wide margin of judgment in environmental policy.",
+      "legal_issues": [
+        "Whether the amended SSSI compensation regime breached Article 1 Protocol 1",
+        "Whether absence of compensation for proposed activities rendered the interference disproportionate",
+        "Control of use versus deprivation of property in ECHR jurisprudence",
+        "Margin of appreciation and deference to environmental legislation"
+      ],
+      "catchwords": [
+        "SSSI",
+        "Article 1 Protocol 1",
+        "nature conservation",
+        "compensation",
+        "management agreement",
+        "judicial review",
+        "Leven Canal"
+      ],
+      "index_terms": [
+        "English Nature",
+        "profits foregone",
+        "GMAP guidance",
+        "Rural Development Regulation",
+        "control of use",
+        "Baner v Sweden"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Fisher v English Nature [2003] EWHC 1599 Admin",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Sporrong and Lonnroth v Sweden (1982) 5 EHRR 35",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Baner v Sweden (1989) 60 DR 125",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Chassagnou v France (1999) 29 EHRR 615",
+          "relationship": "considered"
+        },
+        {
+          "citation": "James v United Kingdom (1986) 8 EHRR 123",
+          "relationship": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Detailed judgment with clear conclusion on compatibility; some factual disputes on land value noted by the court."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/52.json",
+    "status": "done",
+    "notes": "Supplementary costs judgment following main appeal decided 16 December 2003.",
+    "enrichment": {
+      "short_title": "Joint and several appeal costs after TCC win",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Construction and engineering litigation"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The Court of Appeal had dismissed the first defendant's appeal entirely and allowed part of the second defendant's appeal on Projects 1-3 but not Project 4.",
+        "Costs were adjourned because leading counsel for the defendants was unavailable.",
+        "The first defendant failed to pay an interim £160,000 costs order made in December 2003.",
+        "Written submissions raised no new points and the court refused a further oral hearing.",
+        "The second defendant had joined the first defendant's defence, which occupied most of the trial and appeal time."
+      ],
+      "procedural_posture": "Adjourned costs determination following a Technology and Construction Court appeal judgment.",
+      "outcome": "Claimant awarded appeal costs against both defendants jointly and severally; second defendant ordered to pay £160,000 interim costs within 14 days; proceedings remitted to the TCC.",
+      "ratio": "A partially successful appellant who adopts and runs a co-defendant's unsuccessful defence throughout the litigation cannot escape joint and several liability for the costs of that defence; no further oral hearing is warranted where written submissions add nothing new.",
+      "legal_issues": [
+        "Allocation of appeal costs between first and second defendants",
+        "Whether partial success on preliminary issues justified a costs reduction",
+        "Appropriateness of increasing the interim costs payment",
+        "Whether judgment should be entered because interim costs were unpaid"
+      ],
+      "catchwords": [
+        "costs",
+        "Court of Appeal",
+        "joint and several",
+        "interim costs",
+        "Technology and Construction Court",
+        "co-defendants"
+      ],
+      "index_terms": [
+        "General Mediterranean Holdings",
+        "Latchin",
+        "written submissions",
+        "limitation amendment",
+        "Project 4"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.85,
+        "level": "high",
+        "notes": "Costs-only judgment with clear orders; underlying merits decided in the earlier December 2003 judgment not reproduced here."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/452.json",
+    "status": "done",
+    "notes": "Laws LJ permission judgment; source judges array empty.",
+    "enrichment": {
+      "short_title": "Permission to appeal pregnancy dismissal ruling",
+      "area_of_law": [
+        "Employment law",
+        "Sex discrimination",
+        "Unfair dismissal",
+        "Appellate procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Ms Konarzewska, a solicitor, was dismissed by Laurie Moran Arthur while pregnant and claimed unfair dismissal and sex discrimination.",
+        "The employment tribunal held it lacked jurisdiction on unfair dismissal because her service was recorded as under one year, but dismissed the discrimination claim on the merits.",
+        "The EAT corrected the service error and allowed the unfair dismissal issue forward, while the tribunal later reviewed and awarded a minimal basic award.",
+        "Judge McMullen struck out the remaining EAT appeal as academic after the tribunal review resolved the unfair dismissal point.",
+        "Laws LJ considered the 26 September 2000 meeting issue might still affect the undecided sex discrimination claim."
+      ],
+      "procedural_posture": "Renewed application for permission to appeal to the Court of Appeal against an Employment Appeal Tribunal directions decision dismissing the appeal as academic.",
+      "outcome": "Permission to appeal granted against Judge McMullen's order of 7 August 2003.",
+      "ratio": "It is at least arguable that the Employment Appeal Tribunal intended the 26 September 2000 attendance issue to remain live for the sex discrimination claim, so the EAT should not have dismissed the appeal as academic once the tribunal review had resolved only the unfair dismissal limb.",
+      "legal_issues": [
+        "Whether Judge McMullen had jurisdiction to dismiss the EAT appeal as academic",
+        "Scope of the issues remitted after the EAT's November 2001 preliminary decision",
+        "Effect of the employment tribunal's subsequent review on outstanding sex discrimination grounds",
+        "Whether chairman's notes of evidence were required"
+      ],
+      "catchwords": [
+        "permission to appeal",
+        "Employment Appeal Tribunal",
+        "pregnancy discrimination",
+        "unfair dismissal",
+        "qualifying period",
+        "academic appeal"
+      ],
+      "index_terms": [
+        "Konarzewska",
+        "Laurie Moran Arthur",
+        "redundancy",
+        "26 September meeting",
+        "Judge McMullen",
+        "Judge Reid"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Permission-stage judgment only; full merits of discrimination claim not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/211.json",
+    "status": "done",
+    "notes": "Chadwick, Scott Baker and Brooke LJJ; metadata includes earlier judges cited in authority.",
+    "enrichment": {
+      "short_title": "Cheyne Walk enfranchisement notice held valid",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Leasehold enfranchisement",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Leasehold Reform Act 1967",
+          "provisions": ["section 1", "section 3", "section 4", "section 4A", "section 5", "section 8", "section 9", "Schedule 3 paragraph 6"]
+        },
+        {
+          "title": "Leasehold Reform, Housing and Urban Development Act 1993",
+          "provisions": ["section 65", "section 1AA"]
+        }
+      ],
+      "key_facts": [
+        "Mr Strauss sought to enfranchise 21 Cheyne Walk under leases dated 12 April 1983 for the house and garden.",
+        "Earl Cadogan refused the claim, arguing the tenancy was not at a low rent under section 4A because aggregate rent in the first year exceeded two thirds of rateable value.",
+        "The tenant later relied on an earlier 1972 house lease merged by section 3(3) into a single long tenancy.",
+        "The landlord challenged the June 1996 notice for failing to refer to the 1972 lease and giving incorrect low-rent particulars.",
+        "The valuation date for the freehold price is the date of the tenant's notice, giving the landlord a strong incentive to delay."
+      ],
+      "procedural_posture": "Appeal with permission from Arden LJ against a county court declaration on validity of a leasehold enfranchisement notice under Part 8 proceedings.",
+      "outcome": "Appeal dismissed; notice held valid; declaration granted that tenant entitled to acquire freehold under the 1996 notice; permission to appeal to the House of Lords refused.",
+      "ratio": "A tenant's enfranchisement notice is not invalidated by incomplete particulars where the omission reflects an inaccurate but genuine attempt to comply with Schedule 3 paragraph 6 and the missing information was within the landlord's knowledge, applying the inaccuracy saving in paragraph 6(3).",
+      "legal_issues": [
+        "Whether the June 1996 notice complied with Schedule 3 paragraph 6",
+        "Whether omission of the 1972 lease was an inaccuracy or fatal defect",
+        "Application of section 3(3) and section 3(6) to successive and concurrent tenancies",
+        "Whether section 4A low rent test was satisfied for the merged tenancy"
+      ],
+      "catchwords": [
+        "Leasehold Reform Act 1967",
+        "enfranchisement notice",
+        "low rent",
+        "section 4A",
+        "Schedule 3",
+        "successive tenancy",
+        "Cheyne Walk"
+      ],
+      "index_terms": [
+        "Cadogan",
+        "Strauss",
+        "statutory contract",
+        "Cresswell v Duke of Westminster",
+        "Speedwell Estates v Dalziel",
+        "valuation date"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Cresswell v Duke of Westminster [1985] 2 EGLR 151",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Speedwell Estates Ltd v Dalziel [2002] 1 EGLR 55",
+          "relationship": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Statutory analysis and outcome are detailed and unanimous."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/189.json",
+    "status": "needs_review",
+    "notes": "Trial judge not named in source JSON; metadata judges are cited authorities only.",
+    "enrichment": {
+      "short_title": "SFO may obtain disclosed civil fraud documents",
+      "area_of_law": [
+        "Commercial fraud",
+        "Civil procedure",
+        "Criminal investigation",
+        "International cooperation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1987",
+          "provisions": ["section 2"]
+        },
+        {
+          "title": "Criminal Justice (International Co-operation) Act 1990",
+          "provisions": ["section 4(2A)"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["rule 31.22"]
+        }
+      ],
+      "key_facts": [
+        "Claimants invested about US$180 million through BVI companies in Azerbaijan oil privatisation schemes arranged by Viktor Kozeny.",
+        "They allege fraudulent misrepresentation and misappropriation in English proceedings with worldwide freezing orders.",
+        "Defendants disclosed over 80 files under CPR Part 31 and alleged bribery of Azeri officials.",
+        "The SFO served section 2 notices on both parties' solicitors after a US request via the Home Office.",
+        "Kozeny opposed production, arguing disclosure confidentiality and deterrence of foreign litigants from English disclosure."
+      ],
+      "procedural_posture": "Concurrent applications for CPR rule 31.22 permission to disclose to the SFO and to restrain compliance with section 2 notices.",
+      "outcome": "Defendants' application refused; claimant's solicitor granted permission to disclose disclosed documents to the SFO; neither solicitor has a reasonable excuse to withhold production.",
+      "ratio": "The public interest in investigating serious fraud under the Criminal Justice Act 1987 overrides the confidentiality of documents obtained through civil disclosure and CPR rule 31.22, save in rare cases of overriding public policy; foreign residence and compelled disclosure do not provide a reasonable excuse not to comply with an SFO section 2 notice.",
+      "legal_issues": [
+        "Whether compliance with an SFO section 2 notice breached the CPR disclosure undertaking",
+        "Whether public policy protected documents brought to England solely for litigation disclosure",
+        "Interaction between section 2 of the 1987 Act and rule 31.22",
+        "Whether claimants' role in US investigations made production unfair"
+      ],
+      "catchwords": [
+        "Serious Fraud Office",
+        "section 2 notice",
+        "CPR disclosure",
+        "rule 31.22",
+        "international cooperation",
+        "fraud litigation",
+        "Azerbaijan privatisation"
+      ],
+      "index_terms": [
+        "Marlwood Commercial",
+        "Kozeny",
+        "Macfarlanes",
+        "S J Berwin",
+        "In re Arrows Ltd",
+        "Hamilton v Naviede"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "In re Arrows Ltd [1992] Ch 545",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Hamilton v Naviede [1995] 2 AC 75",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Home Office v Harman [1983] 1 AC 280",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Crest Homes Plc v Marks [1987] AC 829",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Bank of Crete SA v Koskotas (No 2) [1992] 1 WLR 919",
+          "relationship": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.84,
+        "level": "medium",
+        "notes": "Legal conclusions are clear but deciding judge is absent from the source record."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/328.json",
+    "status": "done",
+    "notes": "Maurice Kay, Nourse and Buxton LJJ; metadata lists House of Lords judges cited in Kelly.",
+    "enrichment": {
+      "short_title": "Private hire taxi driver not covered by RRA",
+      "area_of_law": [
+        "Employment law",
+        "Race discrimination",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Race Relations Act 1976",
+          "provisions": ["section 78"]
+        }
+      ],
+      "key_facts": [
+        "Mr Mingeley drove a private hire taxi under contract with Amber Cars in Leeds, paying £75 weekly for radio/computer allocation.",
+        "He chose his own hours, bore fare revenue risk and wore Amber Cars uniform while subject to its fare scale.",
+        "After termination he brought race discrimination proceedings in the employment tribunal.",
+        "The tribunal and Employment Appeal Tribunal held he was not employed under a contract personally to execute work or labour.",
+        "Both tribunals applied Mirror Group Newspapers v Gunning dominant purpose and mutuality tests."
+      ],
+      "procedural_posture": "Appeal with permission from Kennedy and Peter Gibson LJJ against Employment Appeal Tribunal decision on jurisdiction as a preliminary issue.",
+      "outcome": "Appeal dismissed; employment tribunal held to lack jurisdiction; permission to appeal to the House of Lords refused.",
+      "ratio": "A private hire driver whose only contractual obligation to the operator is to pay a weekly fee, with no obligation to accept work, is not employed under section 78 of the Race Relations Act 1976; the dominant purpose test from Gunning remains binding on this court.",
+      "legal_issues": [
+        "Meaning of employment under section 78 RRA 1976",
+        "Whether mutuality of obligation is required for the extended definition",
+        "Application of the dominant purpose test from Mirror Group v Gunning",
+        "Whether EC anti-discrimination directives required a broader interpretation"
+      ],
+      "catchwords": [
+        "Race Relations Act 1976",
+        "contract personally to execute work",
+        "private hire driver",
+        "dominant purpose",
+        "mutuality of obligation",
+        "employment tribunal jurisdiction"
+      ],
+      "index_terms": [
+        "Amber Cars",
+        "Mingeley",
+        "Mirror Group v Gunning",
+        "Kelly v Northern Ireland Housing Executive",
+        "Legal Services Commission v Patterson",
+        "self-employed driver"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Mirror Group Newspapers Ltd v Gunning [1986] IRLR 27",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Kelly v Northern Ireland Housing Executive [1999] 1 AC 428",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Legal Services Commission v Patterson [2003] EWCA Civ 1558",
+          "relationship": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Unanimous court with detailed application of established authority; court noted possible legislative gap."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/192.json",
+    "status": "done",
+    "notes": "Field J identified from full text; VAT and Duties Tribunal appeal.",
+    "enrichment": {
+      "short_title": "VAT relief on terminated car hire purchase",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "Consumer credit",
+        "Hire purchase"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": ["section 5", "section 6", "section 36", "Schedule 4"]
+        },
+        {
+          "title": "Value Added Tax Regulations 1995",
+          "provisions": ["regulation 24", "regulation 38"]
+        },
+        {
+          "title": "Value Added Tax (Cars) Order 1992",
+          "provisions": ["article 4(1)(a)", "article 2(1)"]
+        },
+        {
+          "title": "Consumer Credit Act 1974",
+          "provisions": ["section 99"]
+        },
+        {
+          "title": "EC Sixth VAT Directive (77/388/EEC)",
+          "provisions": ["Article 11A", "Article 11C"]
+        }
+      ],
+      "key_facts": [
+        "GMAC supplies Vauxhall cars on hire purchase and accounts for VAT upfront on the full sale price when the hirer takes possession.",
+        "Early termination creates disputes over whether resale proceeds are a taxable supply and whether relief is by regulation 38 adjustment or section 36 bad debt relief.",
+        "Clause 9 of GMAC's standard conditions reduces the hirer's liability by resale proceeds after repossession for breach.",
+        "Consensual terminations, such as a hirer returning a car instead of paying a balloon payment, raise separate article 4(1)(a) issues.",
+        "The tribunal upheld GMAC on all three issues; the Commissioners appealed."
+      ],
+      "procedural_posture": "Appeal on points of law from the VAT and Duties Tribunal against a decision favourable to the taxpayer.",
+      "outcome": "Commissioners' appeal dismissed; tribunal decision upheld on bad debt relief, article 4(1)(a) de-supply and regulation 24 documentation.",
+      "ratio": "Where a hire purchase agreement terminates and clause 9 substitutes a reduced price, the resale proceeds decrease the consideration for the original supply so regulation 38 applies rather than bad debt relief alone; resales after repossession under the finance agreement, including consensual returns, are de-supplies under article 4(1)(a) of the Cars Order.",
+      "legal_issues": [
+        "Whether termination after breach gives bad debt relief or a regulation 38 decrease in consideration",
+        "Whether consensual repossession resales fall within article 4(1)(a) Cars Order",
+        "What documents satisfy regulation 24 for a decrease in consideration",
+        "Interaction between Article 11C of the Sixth VAT Directive and domestic VAT rules"
+      ],
+      "catchwords": [
+        "VAT",
+        "hire purchase",
+        "regulation 38",
+        "bad debt relief",
+        "Cars Order",
+        "repossession",
+        "decrease in consideration"
+      ],
+      "index_terms": [
+        "GMAC",
+        "Vauxhall",
+        "clause 9 HP conditions",
+        "balloon payment",
+        "Elida Gibbs",
+        "Freemans plc"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Elida Gibbs Ltd v Customs and Excise Commissioners [1996] STC 1387",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Freemans plc v Customs and Excise [2001] STC 960",
+          "relationship": "applied"
+        },
+        {
+          "citation": "Goldsmiths (Jewellers) Ltd v Customs and Excise Commissioners [1997] STC 1073",
+          "relationship": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Technical tax appeal but issues and conclusions are fully reasoned with worked examples."
+      }
+    }
+  }
+]

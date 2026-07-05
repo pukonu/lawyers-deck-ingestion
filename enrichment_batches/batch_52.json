@@ -1,0 +1,672 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/473.json",
+    "status": "done",
+    "notes": "Batch 52 enrichment",
+    "enrichment": {
+      "short_title": "Cruise insurer coverage after 9/11 booking losses",
+      "area_of_law": [
+        "Insurance law",
+        "Marine insurance",
+        "Commercial litigation"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Silversea Cruises held a loss-of-income policy covering its luxury cruise fleet for the year from 1 April 2001.",
+        "After the 11 September 2001 attacks, Silversea claimed about US$47 million for cancelled bookings, itinerary changes, and related losses.",
+        "The insurer disputed coverage under policy sections Ai and Aii, alleging the claim methodology was misconceived and partly dishonestly presented.",
+        "The dispute turned on whether post-attack State Department warnings triggered cover, how the US$5 million section Aii limit applied, and how ascertained net loss should be calculated."
+      ],
+      "procedural_posture": "Commercial court trial on coverage and quantum under a cruise loss-of-income insurance policy.",
+      "outcome": "Silversea's section Ai claim was largely dismissed except for the Silver Cloud mechanical breakdown and a pleaded extraordinary expenditure point; its primary section Aii quantification was rejected, but cancelled bookings on cruises departing within six months of 11 September 2001 were held in principle recoverable under section Aii.",
+      "ratio": "Under the policy's section Aii, ascertained net loss means actual net income lost over the agreed six-month event period rather than forecast shortfalls from unmade future bookings; where warnings and the 9/11 attacks were concurrent causes of booking decline, cover is not excluded by causation analysis, and the negotiated single section Aii premium reflected a single US$5 million policy limit.",
+      "legal_issues": [
+        "Whether Silversea's post-9/11 losses fell within sections Ai and Aii of the policy",
+        "Whether section Aii was triggered by State Department advisories rather than only direct terrorist interference with itineraries",
+        "Whether the section Aii limit was US$5 million in aggregate or per vessel",
+        "How ascertained net loss and the section Aii deductible should be calculated"
+      ],
+      "catchwords": [
+        "loss of income insurance",
+        "cruise ships",
+        "terrorism cover",
+        "ascertained net loss",
+        "booking cancellations",
+        "policy limit",
+        "concurrent causes"
+      ],
+      "index_terms": [
+        "Silversea Cruises",
+        "marine insurance",
+        "11 September 2001",
+        "State Department advisory",
+        "section Aii",
+        "rectification",
+        "Wayne Tank"
+      ],
+      "linked_authorities": [
+        "Wayne Tank and Pump Company Ltd v Employers Liability Assurance Corporation Ltd [1974] 1 QB 57"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Long commercial judgment with clear holdings on policy construction, limits, and quantification methodology; some quantum issues were left for further hearing."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/680.json",
+    "status": "done",
+    "notes": "Batch 52 enrichment",
+    "enrichment": {
+      "short_title": "Murder appeal on PACE firearm conviction use",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 74(3)",
+            "section 74(4)",
+            "section 78"
+          ]
+        },
+        {
+          "title": "Civil Evidence Act 1968",
+          "provisions": [
+            "section 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Shanks was convicted of murder at a second trial after an earlier jury had convicted him of possessing a loaded AK-47 with intent to endanger life on the same day.",
+        "He shot his former partner Victoria Fletcher with the rifle after their relationship broke down; diminished responsibility was the main defence at trial.",
+        "At the second trial the judge told the jury about the first jury's firearm conviction and said they were bound by it when considering intent.",
+        "The appeal challenged the judge's directions on the effect and binding nature of the earlier firearm conviction."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Criminal Division) against murder conviction with leave of the Full Court.",
+      "outcome": "Appeal dismissed on both grounds.",
+      "ratio": "Under PACE section 74(3), a properly admitted previous conviction of the accused on a charge confined to the day of the killing was relevant to intent and bound the second jury as to possession of the rifle with intent to endanger life at some stage that day, without misrepresenting the scope of the first verdict or undermining credibility on diminished responsibility.",
+      "legal_issues": [
+        "Whether the first trial firearm conviction was admissible and fairly used at the murder retrial",
+        "Whether the judge misdirected the jury on the effect of the firearm conviction",
+        "Whether telling the jury they were bound by the first conviction was wrong in light of issue estoppel principles"
+      ],
+      "catchwords": [
+        "murder",
+        "diminished responsibility",
+        "previous conviction",
+        "PACE section 74",
+        "intent",
+        "firearms offence",
+        "summing up"
+      ],
+      "index_terms": [
+        "Dr Shanks",
+        "second trial",
+        "AK-47",
+        "binding effect",
+        "section 78 fairness",
+        "R v Harris"
+      ],
+      "linked_authorities": [
+        "R v Harris (19 April 2000, unreported)",
+        "R v Robertson (1987) 85 Cr App R 304",
+        "R v Kempster (1990) 90 Cr App R 14",
+        "R v Hillier & Farrer (1993) 97 Cr App R 349",
+        "R v Clarke [1995] 2 Cr App R 425",
+        "DPP v P [1991] 2 AC 447",
+        "R v Bentham & Ors [1973] QB 357",
+        "R v Humphrys [1977] AC 1",
+        "Hunter v Chief Constable of the West Midlands [1982] AC 52",
+        "Makin v Att-Gen of New South Wales [1894] AC 57"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Two discrete grounds of appeal with detailed analysis of PACE section 74(3) and clear dismissal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/572.json",
+    "status": "done",
+    "notes": "Batch 52 enrichment",
+    "enrichment": {
+      "short_title": "Child entry clearance and sole responsibility test",
+      "area_of_law": [
+        "Immigration law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Rules",
+          "provisions": [
+            "paragraph 297(i)(e)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Alberto Cenir, a Philippine national aged nearly 18, sought entry clearance to join his mother, who had been settled in the UK since 1999.",
+        "The mother had left the Philippines in 1986 and supported her children financially from abroad, with regular but infrequent telephone contact.",
+        "The appellant had lived with grandparents and brothers in the Philippines for about fourteen years.",
+        "The special adjudicator found the devoted mother did not have sole responsibility for the child's upbringing within paragraph 297(i)(e)."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against an Immigration Appeal Tribunal decision upholding the adjudicator.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Whether a settled parent has sole responsibility under paragraph 297(i)(e) is a broad fact-sensitive question focusing on direction and control of important upbringing decisions, not merely absence from day-to-day care; the adjudicator was entitled to conclude that long separation, limited involvement, and close local family care meant sole responsibility was not established.",
+      "legal_issues": [
+        "The correct approach to sole responsibility under Immigration Rules paragraph 297(i)(e)",
+        "Whether the adjudicator erred by treating absence from day-to-day control as determinative",
+        "Whether financial support and remittance instructions established sole responsibility"
+      ],
+      "catchwords": [
+        "entry clearance",
+        "sole responsibility",
+        "paragraph 297",
+        "family association",
+        "immigration appeal",
+        "Philippines"
+      ],
+      "index_terms": [
+        "child settlement",
+        "overseas parent",
+        "Nmaju",
+        "Ramos v IAT",
+        "special adjudicator",
+        "fact finding"
+      ],
+      "linked_authorities": [
+        "Nmaju v Entry Clearance Officer [2001] INLR 26",
+        "Ramos v Immigration Appeal Tribunal [1989] Imm AR 148"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Clear restatement of sole responsibility guidance and factual appellate restraint."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/521.json",
+    "status": "done",
+    "notes": "Batch 52 enrichment",
+    "enrichment": {
+      "short_title": "Manifestly unfounded Article 8 certification after Dublin removal",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 11",
+            "section 15",
+            "section 65",
+            "section 72(2)(a)",
+            "Schedule 4 paragraph 20",
+            "Schedule 4 paragraph 21"
+          ]
+        },
+        {
+          "title": "Asylum and Immigration Act 1996",
+          "provisions": [
+            "section 2(1)"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6(1)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ismet Ala, a Kosovan asylum seeker certified removable to Germany under the Dublin Convention, married a British citizen and had a child in the UK.",
+        "The Secretary of State certified his section 65 human rights appeal as manifestly unfounded under section 72(2)(a), relying on Article 8 proportionality.",
+        "Years of delay meant his asylum claim had never been substantively determined in the UK despite changed policies and litigation such as Besnik Gashi and Zeqiri.",
+        "The claimant argued removal to Germany would disproportionately interfere with his Article 8 family life."
+      ],
+      "procedural_posture": "High Court judicial review, brought with leave, of a section 72(2)(a) manifestly unfounded certificate.",
+      "outcome": "Application succeeded; the Secretary of State was not entitled to certify the appeal as manifestly unfounded.",
+      "ratio": "On an undisputed Article 8 proportionality challenge, an adjudicator's role is to decide whether the Secretary of State's decision was outside the range of reasonable responses, not to substitute his own balance; here failure to consider the consequences of long delay made certification unreasonable because an arguable appeal remained.",
+      "legal_issues": [
+        "The reach of an adjudicator's jurisdiction under section 65 on Article 8 appeals",
+        "When a human rights allegation is manifestly unfounded for section 72(2)(a) purposes",
+        "Whether delay and changed circumstances were relevant to Article 8 proportionality"
+      ],
+      "catchwords": [
+        "manifestly unfounded",
+        "section 72",
+        "Article 8",
+        "Dublin Convention",
+        "Kosovan asylum",
+        "proportionality",
+        "section 65 appeal"
+      ],
+      "index_terms": [
+        "certification",
+        "family life",
+        "immigration control",
+        "discretionary area of judgment",
+        "Besnik Gashi",
+        "Zeqiri",
+        "Shala"
+      ],
+      "linked_authorities": [
+        "R v Secretary of State for the Home Department ex parte Besnik Gashi [1999] 1 Imm AR 415",
+        "Zeqiri v Home Department [2002] Imm AR 42",
+        "Zeqiri v Home Department [2002] Imm AR 296",
+        "Amjad Mahmood [2001] 1 WLR 840",
+        "R (Yogathas and Thangarasa) v Secretary of State for the Home Department [2002] 3 WLR 1276",
+        "R (Razgar) v Secretary of State for the Home Department [2002] EWHC 2554 (Admin)",
+        "R (Changuizi) v Secretary of State for the Home Department [2002] EWHC 2569",
+        "Samaroo and Sezek v SSHD [2001] UK HRR 1150",
+        "Shala v Secretary of State for the Home Department [2003] EWCA 233",
+        "ex parte Nicholas [2002] Imm AR 334"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed analysis of section 65/72 interaction and Article 8 proportionality with a clear quashing outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/637.json",
+    "status": "done",
+    "notes": "Batch 52 enrichment",
+    "enrichment": {
+      "short_title": "Immigration appeal dismissed for unavailable grounds",
+      "area_of_law": [
+        "Immigration law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 65",
+            "section 69(3)",
+            "Schedule 4 paragraph 21"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A young Kosovan appellant sought to appeal against an Immigration Appeal Tribunal decision dismissing his appeal from an adjudicator.",
+        "After a change of counsel, the appellant's advisers concluded they could no longer properly advance the appeal.",
+        "Counsel accepted that arguments based on legitimate expectation and failure to give reasons were not available grounds of appeal.",
+        "The Home Secretary had decided the appellant should return to Kosovo on reaching 18."
+      ],
+      "procedural_posture": "Court of Appeal hearing where no party appeared for the appellant.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Under Schedule 4 paragraph 21 of the Immigration and Asylum Act 1999, read with sections 65 and 69(3), an appeal to an adjudicator may be brought only on Refugee Convention or human rights grounds; legitimate expectation and failure to give reasons are not permissible grounds of appeal.",
+      "legal_issues": [
+        "Whether legitimate expectation and failure to give reasons could ground an immigration appeal",
+        "The restricted grounds of appeal under the 1999 Act scheme"
+      ],
+      "catchwords": [
+        "immigration appeal",
+        "legitimate expectation",
+        "failure to give reasons",
+        "restricted grounds",
+        "Kosovo",
+        "paragraph 21"
+      ],
+      "index_terms": [
+        "Court of Appeal",
+        "abandonment",
+        "Refugee Convention grounds",
+        "human rights grounds",
+        "IAT decision"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Short procedural judgment with a straightforward statutory conclusion and no disputed facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/517.json",
+    "status": "done",
+    "notes": "Batch 52 enrichment",
+    "enrichment": {
+      "short_title": "JCT adjudication enforcement after time extension award",
+      "area_of_law": [
+        "Construction law",
+        "Adjudication",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Grants, Construction and Regeneration Act 1996",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Durtnell, contractor under a JCT Standard Form contract, referred multiple disputes to adjudication against employer Kaduna over Laverstoke House works.",
+        "Adjudicator Mr Wilkey awarded about £1.23 million, including extension of time to 24 October 2002 and related prolongation sums.",
+        "Kaduna paid only part of the award, arguing the adjudicator lacked jurisdiction over the extension of time and post-14 December 2001 subcontractor prolongation.",
+        "Durtnell sought summary judgment for the unpaid balance and interim certificate 41."
+      ],
+      "procedural_posture": "Technology and Construction Court summary judgment application to enforce an adjudicator's decision.",
+      "outcome": "Durtnell's surviving summary judgment claims failed; the adjudicator had exceeded jurisdiction on extension of time and related loss-and-expense elements.",
+      "ratio": "Under the JCT contract, no dispute existed on entitlement to further extension of time or dependent loss and expense while the architect's extension-of-time application remained undetermined within the contractual period; paragraph 3.3 of the referral notice did not extend to delay causation, and there was no dispute over A&A subcontractor prolongation after 14 December 2001 because no claim had been made.",
+      "legal_issues": [
+        "What constitutes a dispute referable to adjudication under clause 41A",
+        "Whether an architect's pending extension-of-time decision precluded adjudication on time and prolongation",
+        "Whether the adjudicator decided matters outside the referral notice",
+        "Whether Kaduna could resist enforcement by partial payment and approbation/reprobation"
+      ],
+      "catchwords": [
+        "adjudication enforcement",
+        "JCT contract",
+        "extension of time",
+        "loss and expense",
+        "jurisdiction",
+        "dispute",
+        "prolongation"
+      ],
+      "index_terms": [
+        "Laverstoke House",
+        "practical completion",
+        "interim certificate 41",
+        "Edmund Nuttall",
+        "Shimizu Europe",
+        "Maymac Environmental Services"
+      ],
+      "linked_authorities": [
+        "Edmund Nuttall Ltd v R.G. Carter Ltd [2002] BLR 312",
+        "Shimizu Europe Ltd v Automajor Ltd [2002] BLR 113",
+        "Maymac Environmental Services Ltd v Faraday Building Services Ltd (2000) 75 Con LR 101",
+        "Lissenden v C.A.V. Bosch Ltd [1940] AC 412",
+        "Banque des Marchands de Moscou v Kindersley [1951] Ch 112"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Detailed TCC judgment on adjudication jurisdiction with clear conclusions on each enforcement challenge."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/679.json",
+    "status": "done",
+    "notes": "Batch 52 enrichment",
+    "enrichment": {
+      "short_title": "Illegal entrant finding upheld after sham marriage",
+      "area_of_law": [
+        "Immigration law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Act 1971",
+          "provisions": [
+            "section 26(1)(c)",
+            "section 33(1)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6(1)",
+            "Article 6(3)(d)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant entered the UK in March 1994 with leave as a foreign spouse of Zahida Bashir.",
+        "Immigration officials later concluded the marriage was not genuine and that he had obtained entry clearance by deception.",
+        "He later entered a genuine second marriage in the UK, had children, and sought leave to remain outside the Immigration Rules.",
+        "Judicial review challenged a 2000 confirmation that he remained an illegal entrant, relying on fairness and insufficient proof."
+      ],
+      "procedural_posture": "High Court judicial review of a Chief Immigration Officer's illegal entrant decision.",
+      "outcome": "Application for judicial review dismissed; leave to appeal refused.",
+      "ratio": "Article 6(3)(d) does not apply to immigration judicial review proceedings determining illegal entrant status, and the Secretary of State discharged the Khawaja burden of proving deception to a high degree of probability by contemporaneous letters and divorce petition evidence inconsistent with the claimant's account.",
+      "legal_issues": [
+        "Whether Article 6 fair trial rights required oral evidence from the former spouse",
+        "Whether the Secretary of State proved illegal entry by deception to the required standard"
+      ],
+      "catchwords": [
+        "illegal entrant",
+        "deception",
+        "sham marriage",
+        "entry clearance",
+        "Article 6",
+        "judicial review",
+        "burden of proof"
+      ],
+      "index_terms": [
+        "foreign spouse",
+        "Zahida Bashir",
+        "Khawaja",
+        "Engel v Netherlands",
+        "hearsay evidence",
+        "leave to remain"
+      ],
+      "linked_authorities": [
+        "Khawaja v Secretary of State for the Home Department [1994] AC 74",
+        "Engel & Ors v The Netherlands (1976) 1 EHRR 647",
+        "R (West) v The Parole Board [2003] 1 WLR 705"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Two clear grounds of challenge addressed with explicit dismissal and standard-of-proof analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/995.json",
+    "status": "done",
+    "notes": "Batch 52 enrichment",
+    "enrichment": {
+      "short_title": "Gypsy caravan site planning permission upheld",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 78",
+            "section 288"
+          ]
+        },
+        {
+          "title": "Caravan Sites and Control of Development Act 1960",
+          "provisions": [
+            "section 24(8)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "An inspector allowed an appeal and granted temporary planning permission for one mobile home and one touring caravan on a Doncaster edge-of-town site.",
+        "The site conflicted with countryside policy but the inspector found gypsy status and strong personal and educational needs justified a three-year permission.",
+        "Doncaster Council challenged the failure to impose a personal condition and the inspector's treatment of schooling and alternative sites.",
+        "Mr Buck, a gypsy with children in local schools, was the successful appellant."
+      ],
+      "procedural_posture": "Section 288 statutory challenge to a planning inspector's appeal decision.",
+      "outcome": "Claim dismissed; the inspector's decision was not vitiated by refusing a personal condition or by his approach to education and alternative sites.",
+      "ratio": "A temporary gypsy caravan permission coupled with time, gypsy-use, and caravan-number conditions could reasonably achieve the balance the inspector struck without a personal occupancy condition; he was entitled to assess alternative sites by proximity to the children's existing schools and was not required to investigate other schools or other gypsies occupying the site when those matters were not raised.",
+      "legal_issues": [
+        "Whether the inspector unlawfully failed to impose a personal condition",
+        "Whether the inspector should have considered other schools and gypsy occupation of the site",
+        "Whether reliance on children's existing education was flawed"
+      ],
+      "catchwords": [
+        "planning permission",
+        "gypsy site",
+        "temporary permission",
+        "personal condition",
+        "countryside policy",
+        "section 288",
+        "children's education"
+      ],
+      "index_terms": [
+        "Doncaster",
+        "caravan site",
+        "inspector decision",
+        "Circular 11/95",
+        "Dyason",
+        "planning appeal"
+      ],
+      "linked_authorities": [
+        "Dyason v Secretary of State for the Environment [1998] JPL 778"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Three grounds of challenge addressed in detail with clear rejection and reasoning on conditions and material considerations."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/351.json",
+    "status": "done",
+    "notes": "Batch 52 enrichment",
+    "enrichment": {
+      "short_title": "No statutory review of non-referral homelessness decision",
+      "area_of_law": [
+        "Housing law",
+        "Homelessness",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1996",
+          "provisions": [
+            "Part VII",
+            "section 183",
+            "section 184",
+            "section 193",
+            "section 198",
+            "section 199",
+            "section 200",
+            "section 202",
+            "section 204"
+          ]
+        },
+        {
+          "title": "Homelessness Act 2002",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Sareen applied to Hackney as homeless and was accepted as owed the main housing duty in temporary accommodation.",
+        "He wanted housing in Ealing near family and later provided details of relatives there, but Hackney decided not to refer his case.",
+        "Hackney initially refused a section 202 review, then reconsidered non-statutorily and again declined referral for insufficient local connection.",
+        "The county court allowed Mr Sareen's appeal and quashed both decisions."
+      ],
+      "procedural_posture": "Local housing authority appeal to the Court of Appeal from a county court section 204 appeal.",
+      "outcome": "Council's appeal allowed; the county court had no jurisdiction to review the non-referral decisions.",
+      "ratio": "Part VII of the Housing Act 1996 does not give an applicant a statutory right under section 202 to review, or under section 204 to appeal against, a housing authority's decision not to refer an application to another authority under section 198; referral is a discretionary power exercised only after the main housing duty arises, and a decision to house the applicant locally is not adverse to his interests for review purposes.",
+      "legal_issues": [
+        "Whether section 202(1) covers a decision not to refer under section 198",
+        "Whether the county court had section 204 jurisdiction over non-referral decisions",
+        "Whether Hackney had a duty under section 184(2) to investigate possible local connection with Ealing"
+      ],
+      "catchwords": [
+        "homelessness",
+        "local connection",
+        "referral",
+        "section 202 review",
+        "section 204 appeal",
+        "Part VII",
+        "housing authority"
+      ],
+      "index_terms": [
+        "Hackney",
+        "Ealing",
+        "non-referral",
+        "main housing duty",
+        "Warsame",
+        "Nipa Begum"
+      ],
+      "linked_authorities": [
+        "Nipa Begum v Tower Hamlets London Borough Council [2000] 1 WLR 306",
+        "Warsame v London Borough of Hounslow (1999) 32 HLR 335"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Comprehensive statutory analysis of Part VII referral and review scheme with clear allowance of the council appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/414.json",
+    "status": "done",
+    "notes": "Batch 52 enrichment",
+    "enrichment": {
+      "short_title": "Coach-pedestrian fatality liability and contributory negligence",
+      "area_of_law": [
+        "Personal injury",
+        "Road traffic law",
+        "Negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law Reform (Contributory Negligence) Act 1945",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Henry Adjei, a pedestrian wearing spectacles, was killed on West Hendon Broadway when struck by a coach driven by Richard King in a bus lane.",
+        "Two colleagues crossed safely ahead of him; the only direct eyewitness saw the deceased step forward then backward before impact.",
+        "The trial judge found the coach was driven at wholly excessive speed and entered judgment for the estate on liability.",
+        "Accident reconstruction evidence suggested a modest approach speed of about 25 mph at the start of skidding."
+      ],
+      "procedural_posture": "Defendant's appeal to the Court of Appeal from a High Court liability judgment in a fatal accident claim.",
+      "outcome": "Appeal allowed in part; driver held 60% liable and deceased 40% contributorily negligent, with damages to be assessed.",
+      "ratio": "Excessive-speed findings unsupported by the evidence could not sustain sole liability; where a pedestrian stood inappropriately in the road and the coach driver failed to slow or warn despite visible danger, both parties were at fault, and a pedestrian's failure to take reasonable care for his own safety supports contributory negligence even without a duty owed by the injured party to the defendant.",
+      "legal_issues": [
+        "Whether the trial judge's finding of excessive speed was supported by evidence",
+        "Whether the coach driver was negligent in reacting to the pedestrian's position",
+        "Whether the deceased was contributorily negligent and, if so, in what proportion"
+      ],
+      "catchwords": [
+        "road traffic accident",
+        "pedestrian collision",
+        "coach driver",
+        "contributory negligence",
+        "speed",
+        "fatal accident",
+        "liability apportionment"
+      ],
+      "index_terms": [
+        "West Hendon Broadway",
+        "bus lane",
+        "eyewitness evidence",
+        "accident reconstruction",
+        "Nance v British Columbia Electric Railway",
+        "Baker v Willoughby"
+      ],
+      "linked_authorities": [
+        "Nance v British Columbia Electric Railway [1951] AC 601",
+        "Baker v Willoughby [1970] AC 467"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Court of Appeal reassessed liability on the evidence and made its own apportionment after rejecting the speed-based finding."
+      }
+    }
+  }
+]

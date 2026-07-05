@@ -1,0 +1,749 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3043.json",
+    "status": "done",
+    "notes": "Complete EWHC Ch judgment on VAT liability for fast-food sales through self-employed van operators.",
+    "enrichment": {
+      "short_title": "VAT tribunal wrongly treated Mr Sizzle van operators as agents rather than principals under purchasing contracts",
+      "area_of_law": [
+        "Tax law",
+        "Value Added Tax",
+        "Agency",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": ["s 1", "s 3", "s 4", "s 5", "s 6", "s 30", "Schedule 1", "Schedule 8"]
+        },
+        {
+          "title": "Tribunals and Inquiries Act 1992",
+          "provisions": ["s 11"]
+        }
+      ],
+      "key_facts": [
+        "Ringside Refreshments supplied raw food and loaned vans and kiosks to self-employed operators under written purchasing contracts; operators cooked and sold fast food to the public under the Mr Sizzle brand.",
+        "The VAT and Duties Tribunal found a single catering business and held Ringside liable for VAT on retail sales, but disallowed a penalty.",
+        "Ringside appealed on a point of law, arguing the tribunal erred by treating operators as agents and misapplying the Burrell substance-and-reality test."
+      ],
+      "procedural_posture": "Appeal to the High Court from the VAT and Duties Tribunal on a point of law under section 11 of the Tribunals and Inquiries Act 1992.",
+      "outcome": "Appeal allowed; tribunal decision on agency reversed.",
+      "ratio": "Where self-employed operators are not employees and purchasing contracts on their face provide only for a principal-to-principal sale of ingredients followed by resale to the public, the correct starting point is contractual construction; a tribunal errs in law if it treats extensive operational control as determinative of agency without reconciling that conclusion with the contract terms and without finding the agreements were shams or were operated inconsistently with them.",
+      "legal_issues": [
+        "Whether operators selling cooked food to the public were making supplies as principals or as agents for Ringside",
+        "Whether the tribunal applied the wrong legal test by relying on Burrell and operational control rather than contractual terms",
+        "Whether the Kieran Mullin Ltd approach to self-employed stylists applied by analogy"
+      ],
+      "catchwords": [
+        "VAT",
+        "catering",
+        "agency",
+        "principal and agent",
+        "self-employed operators",
+        "purchasing contract",
+        "Kieran Mullin",
+        "Potter",
+        "Burrell",
+        "error of law"
+      ],
+      "index_terms": [
+        "Ringside Refreshments",
+        "Mr Sizzle",
+        "fast food",
+        "street trading",
+        "VAT tribunal appeal",
+        "Evans-Lombe"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Potter v Customs & Excise Commissioners",
+          "citation": "1985 STC 45"
+        },
+        {
+          "name": "Kieran Mullin Ltd v Customs & Excise Commissioners",
+          "citation": "2003 STC 274"
+        },
+        {
+          "name": "Burrell (trading as The Firm) v Customs & Excise Commissioners",
+          "citation": "1997 STC 1413"
+        },
+        {
+          "name": "Edwards (Inspector of Taxes) v Bairstow",
+          "citation": "1956 AC 14"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full judgment with detailed factual findings, statutory analysis, and clear ratio on contractual approach to VAT agency."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3039.json",
+    "status": "done",
+    "notes": "Complete EWHC Ch judgment refusing zero-rating for SITA airline telecommunications network services.",
+    "enrichment": {
+      "short_title": "SITA airline telecommunications network not zero-rated under Article 15.9 or Schedule 8 item 10",
+      "area_of_law": [
+        "Tax law",
+        "Value Added Tax",
+        "EU law",
+        "Telecommunications"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": ["Schedule 8 Group 8 item 10"]
+        },
+        {
+          "title": "Sixth Council Directive 77/388/EEC",
+          "provisions": ["Art 15.6", "Art 15.9", "Art 28"]
+        }
+      ],
+      "key_facts": [
+        "SITA, a Belgian non-profit cooperative, maintained a telecommunications network used by airline members for reservations, baggage handling, maintenance and related messages, but not flight operations.",
+        "Customs and Excise withdrew a long-standing zero-rating ruling from 1 July 1997; the VAT and Duties Tribunal rejected SITA's exemption claims in January 2003.",
+        "SITA contended its network services met the direct needs of aircraft under Article 15.9 and amounted to making arrangements for passenger transport under Schedule 8 item 10."
+      ],
+      "procedural_posture": "Appeal to the High Court from the VAT and Duties Tribunal against refusal of zero-rating.",
+      "outcome": "Appeal dismissed; services held standard-rated.",
+      "ratio": "A telecommunications network that merely processes messages initiated by airline members is too remote from aircraft operation to meet the direct needs of aircraft under Article 15.9, which must be construed strictly; likewise, providing a communications facility is not the making of arrangements for passenger transport within Schedule 8 item 10 merely because members use it in their transport businesses.",
+      "legal_issues": [
+        "Whether SITA's network services met the direct needs of aircraft under Article 15.9 of the Sixth Directive",
+        "Whether SITA was making arrangements for passenger transport under Schedule 8 Group 8 item 10",
+        "Whether CSMA on making arrangements for credit was applicable by analogy"
+      ],
+      "catchwords": [
+        "VAT zero-rating",
+        "Article 15.9",
+        "direct needs of aircraft",
+        "telecommunications network",
+        "SITA",
+        "Schedule 8 item 10",
+        "making of arrangements",
+        "strict construction",
+        "Berkholz"
+      ],
+      "index_terms": [
+        "air transport industry",
+        "airline reservations",
+        "interlining",
+        "CSMA",
+        "Sparekassernes Datacenter"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Berkholz v Finanzamt Hamburg-Mitte-Altstadt",
+          "citation": "[1985] 3 CMLR 667"
+        },
+        {
+          "name": "Sparekassernes Datacenter (STC) v Skatteministeriat",
+          "citation": "[1997] STC 932"
+        },
+        {
+          "name": "Commissioners of Customs & Excise v Civil Service Motoring Association",
+          "citation": "[1998] STC 111"
+        },
+        {
+          "name": "Stichting Uitvoering Financiele Acties v Staatssecretaris Van Financien",
+          "citation": "[1989] ECR 1737"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment with detailed tribunal findings and dual-track analysis of EU and domestic exemptions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3235.json",
+    "status": "done",
+    "notes": "Complete EWHC Admin s 288 planning challenge by Romany gypsy claimant against Green Belt refusal.",
+    "enrichment": {
+      "short_title": "Gypsy caravan site appeal quashed for failure to address temporary planning permission",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Human rights",
+        "Gypsy and traveller accommodation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["s 288"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art 8"]
+        }
+      ],
+      "key_facts": [
+        "Romany gypsy claimant sought planning permission for a family caravan site at Sauleskalns, Sutton-at-Hone, Kent, in the Green Belt without prior consent.",
+        "Inspector Fieldhouse recommended dismissal; the First Secretary of State agreed, finding inappropriate Green Belt development without very special circumstances.",
+        "Claimant challenged weight given to emerging policy H22, personal need assessment, and failure to consider temporary planning permission."
+      ],
+      "procedural_posture": "Application under section 288 of the Town and Country Planning Act 1990 to quash the Secretary of State's planning appeal decision.",
+      "outcome": "Application succeeded on third ground only; decision quashed for reconsideration of temporary permission and proportionality.",
+      "ratio": "Where a claimant expressly requested temporary planning permission to seek an alternative site if permanent permission were refused, the Secretary of State must address that issue expressly; a general human-rights proportionality paragraph dealing only with outright refusal does not suffice to dispose of the temporary-permission question.",
+      "legal_issues": [
+        "Whether adequate reasons were given for attaching considerable weight to emerging policy H22",
+        "Whether personal need for a gypsy site was distinguished from personal hardship under Hedges",
+        "Whether the Secretary of State failed to consider temporary planning permission and Article 8 proportionality in relation to it"
+      ],
+      "catchwords": [
+        "planning permission",
+        "Green Belt",
+        "gypsy site",
+        "policy H22",
+        "Circular 1/94",
+        "PPG1",
+        "temporary permission",
+        "Article 8",
+        "proportionality",
+        "Hedges"
+      ],
+      "index_terms": [
+        "Romany gypsies",
+        "Dartford Borough Council",
+        "Sauleskalns",
+        "very special circumstances",
+        "Samaroo",
+        "Wednesbury unreasonable"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hedges v Secretary of State for the Environment",
+          "citation": "73 P&CR 534"
+        },
+        {
+          "name": "R (Samaroo) v Secretary of State for the Home Department",
+          "citation": "[2001] EWCA Civ 1139"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment with clear outcomes on three grounds; partial success well supported by text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1819.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ negligence appeal concerning reversing over intoxicated pedestrian.",
+    "enrichment": {
+      "short_title": "Driver liable for failing to use nearside mirror when reversing over collapsed drunk pedestrian",
+      "area_of_law": [
+        "Tort law",
+        "Negligence",
+        "Road traffic",
+        "Contributory negligence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Michelle Bannister reversed her father's car about 35 yards down a residential cul-de-sac at night and ran over Frank Green, who had collapsed drunk in the road.",
+        "Recorder Goose found she was not negligent in choosing to reverse but failed to keep adequate lookout by not using mirrors or looking over her left shoulder; liability apportioned 40:60 against her.",
+        "Green suffered tetraparesis and remains wheelchair-bound; Bannister briefly drove forward in panic, dragging him further."
+      ],
+      "procedural_posture": "Appeal against finding of negligence and, alternatively, contributory negligence apportionment following county court trial.",
+      "outcome": "Appeal dismissed; negligence and causation findings upheld.",
+      "ratio": "A driver who elects to reverse a substantial distance down a constricted, ill-lit street at night must exercise a high degree of care including checking nearside mirrors; failure to do so is negligent and causative where, on the evidence, the pedestrian would probably have been seen in time to stop.",
+      "legal_issues": [
+        "Whether reversing down the cul-de-sac without using mirrors breached the standard of care of a reasonably prudent motorist",
+        "Whether failure to use mirrors was causative of the accident",
+        "Whether encountering an inert drunk pedestrian was outside reasonable contemplation under Glasgow Corporation v Muir"
+      ],
+      "catchwords": [
+        "negligence",
+        "reversing",
+        "mirror use",
+        "lookout",
+        "contributory negligence",
+        "intoxicated pedestrian",
+        "Highway Code",
+        "causation",
+        "Glasgow Corporation v Muir"
+      ],
+      "index_terms": [
+        "road traffic accident",
+        "cul-de-sac",
+        "night driving",
+        "recorder's findings",
+        "Eagle v Chambers"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Glasgow Corporation v Muir",
+          "citation": "[1943] AC 448"
+        },
+        {
+          "name": "Eagle v Chambers",
+          "citation": "[2003] EWCA Civ 1107"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with detailed fact and causation analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3129.json",
+    "status": "done",
+    "notes": "Complete EWHC Ch judgment on Class 1 NIC liability for post-employment restrictive covenant payments.",
+    "enrichment": {
+      "short_title": "Class 1 NIC payable on £2.2m restrictive covenant payments to former director after employment ended",
+      "area_of_law": [
+        "Tax law",
+        "National Insurance",
+        "Employment law",
+        "Restrictive covenants"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Social Security Contributions and Benefits Act 1992",
+          "provisions": ["s 1", "s 2", "s 3", "s 4(4)", "s 6", "s 7", "Schedule 1"]
+        },
+        {
+          "title": "Income and Corporation Taxes Act 1988",
+          "provisions": ["s 148", "s 188", "s 313"]
+        },
+        {
+          "title": "Taxes Management Act 1970",
+          "provisions": ["s 56A"]
+        },
+        {
+          "title": "Social Security (Contributions) Regulations 1979",
+          "provisions": ["reg 3", "reg 4", "reg 6A", "reg 21", "reg 22"]
+        }
+      ],
+      "key_facts": [
+        "RCI Europe paid £2.2 million to former director Julian Haylock under a December 1994 severance agreement for post-termination restrictive covenants, after his employment ended on 31 July 1994.",
+        "The Special Commissioner held the payments chargeable under section 313 ICTA 1988 and therefore earnings under section 4(4) of the 1992 Act.",
+        "RCI argued section 313 required connection with employment status rather than termination, and section 4(4) required payment during active employment."
+      ],
+      "procedural_posture": "Appeal to the High Court on a question of law from a Special Commissioner's decision under section 56A of the Taxes Management Act 1970.",
+      "outcome": "Appeal dismissed; NIC liability upheld.",
+      "ratio": "Payments for restrictive undertakings given in connection with past office-holding, including in a termination agreement, fall within section 313 ICTA 1988; section 4(4) treats such sums as earnings from the relevant employment relationship even when paid after employment ends, and employed earner refers to the status to which the payment is attributed rather than current gainful employment.",
+      "legal_issues": [
+        "Whether post-termination restrictive covenant payments were chargeable under section 313 ICTA 1988",
+        "Whether section 4(4) required the recipient to be gainfully employed at the date of payment",
+        "Whether Regulation 6A of the 1979 Regulations fixed the earnings period"
+      ],
+      "catchwords": [
+        "Class 1 NIC",
+        "restrictive covenant",
+        "section 313",
+        "section 4(4)",
+        "post-termination payments",
+        "employed earner",
+        "severance agreement",
+        "Beak v Robson",
+        "Vaughan-Neil"
+      ],
+      "index_terms": [
+        "RCI Europe",
+        "Julian Haylock",
+        "secondary contributor",
+        "earnings period",
+        "Bray v Best"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Beak v Robson",
+          "citation": "(1942) 25 TC 33"
+        },
+        {
+          "name": "Vaughan-Neil v IRC",
+          "citation": "[1979] STC 644"
+        },
+        {
+          "name": "Bray v Best",
+          "citation": "[1989] STC 159"
+        },
+        {
+          "name": "Cartlidge v Chief Adjudication Officer",
+          "citation": "[1986] 1 QB 360"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed statutory analysis with clear conclusions on both section 313 and section 4(4) issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3093.json",
+    "status": "done",
+    "notes": "Complete EWHC Ch liability trial on Thames passenger boat operators' joint tender breach.",
+    "enrichment": {
+      "short_title": "Thames boat operators breached joint tender agreement and held licence on constructive trust",
+      "area_of_law": [
+        "Commercial law",
+        "Partnership",
+        "Equity",
+        "Contract law",
+        "Transport"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Partnership Act 1890",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Thames Cruises and George Wheeler Launches operated Westminster-Greenwich passenger services jointly through WPSA and agreed to submit a combined tender when LRS introduced competitive licensing.",
+        "Wheeler secretly met LRS, formed a rival consortium excluding Thames Cruises, and won the pier licence in December 2001.",
+        "Thames Cruises claimed partnership breach, implied duty of good faith, and Pallant v Morgan constructive trust over the licence."
+      ],
+      "procedural_posture": "High Court trial on liability only following competitive tender for Thames pier licence.",
+      "outcome": "Partnership and implied good-faith claims failed; constructive trust claim succeeded on breach of joint-bid understanding.",
+      "ratio": "WPSA was a coordinating association rather than a partnership at law; absent fiduciary duties, parties who agree to pursue a joint tender cannot secretly compete and retain the resulting licence for themselves when the understanding was to bid together and the departure destroyed the agreed strategy without giving the co-bidder a fair opportunity to address concerns.",
+      "legal_issues": [
+        "Whether WPSA constituted a partnership under the Partnership Act 1890",
+        "Whether implied terms of good faith precluded competing bids",
+        "Whether breach of joint-tender understanding gave rise to a Pallant v Morgan constructive trust over the licence"
+      ],
+      "catchwords": [
+        "constructive trust",
+        "Pallant v Morgan",
+        "Banner Homes",
+        "joint venture",
+        "partnership",
+        "good faith",
+        "competitive tender",
+        "Thames passenger boats",
+        "WPSA",
+        "pier licence"
+      ],
+      "index_terms": [
+        "Thames Cruises",
+        "George Wheeler Launches",
+        "London River Services",
+        "Westminster Greenwich route",
+        "quantum meruit",
+        "account of profits"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Pallant v Morgan",
+          "citation": "[1953] Ch 43"
+        },
+        {
+          "name": "Banner Homes Group Plc v Luff Developments Ltd",
+          "citation": "[2000] Ch 372"
+        },
+        {
+          "name": "London & Regional Investments Ltd v TBI Plc",
+          "citation": "[2002] EWCA Civ 355"
+        },
+        {
+          "name": "Weiner v Harris",
+          "citation": "[1910] 1 KB 285"
+        },
+        {
+          "name": "Seager v Copydex (No 2)",
+          "citation": "[1969] 1 WLR 809"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Very long liability judgment; remedy phase reserved but liability findings are clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2003/3102.json",
+    "status": "done",
+    "notes": "Complete EWHC Fam Hague Convention return application concerning Portuguese children.",
+    "enrichment": {
+      "short_title": "Father's pretended consent to children staying in England did not amount to Hague acquiescence",
+      "area_of_law": [
+        "Family law",
+        "Child abduction",
+        "Private international law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Child Abduction and Custody Act 1985",
+          "provisions": []
+        },
+        {
+          "title": "Hague Convention on the Civil Aspects of International Child Abduction 1980",
+          "provisions": ["Art 12", "Art 13"]
+        }
+      ],
+      "key_facts": [
+        "Portuguese father Jose A applied for return of children F (13) and I (9), who had lived with him for four years and came to England for summer holiday contact with mother Precinda A in August 2003.",
+        "Mother contended father acquiesced in late August when he agreed by telephone they could remain and said he would send their clothes.",
+        "Father said he pretended to consent fearing mother would hide the children; he initiated Hague proceedings in early October 2003."
+      ],
+      "procedural_posture": "Hague Convention summary return proceedings in the Family Division.",
+      "outcome": "Return to Portugal ordered; acquiescence defence rejected.",
+      "ratio": "Acquiescence under Article 13 depends on the wronged parent's actual subjective intention; a parent who pretends to consent to retain children at a known address does not acquiesce if he acts without unreasonable delay to secure their return once it is clear they will not go back voluntarily.",
+      "legal_issues": [
+        "Whether the father's late-August consent constituted acquiescence under Article 13(a)",
+        "Whether pretended consent can negate acquiescence where the parent promptly seeks return",
+        "Exercise of discretion if acquiescence were established"
+      ],
+      "catchwords": [
+        "Hague Convention",
+        "child abduction",
+        "acquiescence",
+        "wrongful retention",
+        "summary return",
+        "Re H (Abduction: Acquiescence)",
+        "subjective intention",
+        "summer holiday contact"
+      ],
+      "index_terms": [
+        "Portuguese children",
+        "habitual residence",
+        "CAFCASS",
+        "Article 13 discretion",
+        "Re HB (Children's Objections)"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re H (Abduction: Acquiescence)",
+          "citation": "(1997) 1 FLR 872"
+        },
+        {
+          "name": "P v P (Abduction: Acquiescence)",
+          "citation": "(1998) 2 FLR 835"
+        },
+        {
+          "name": "Re HB (Abduction: Children's Objections)",
+          "citation": "(1997) 1 FLR 399"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment applying established acquiescence principles to pretended consent facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1828.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ paired appeals on Consumer Credit Act exemption for credit hire agreements.",
+    "enrichment": {
+      "short_title": "Credit hire deferred-payment agreements exempt where payment required within twelve-month period",
+      "area_of_law": [
+        "Consumer credit",
+        "Road traffic",
+        "Credit hire",
+        "Contract construction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Consumer Credit Act 1974",
+          "provisions": []
+        },
+        {
+          "title": "Consumer Credit (Exempt Agreements) Order 1989",
+          "provisions": ["Art 3(1)(a)(i)"]
+        }
+      ],
+      "key_facts": [
+        "Alpha and Western credit hire companies provided replacement vehicles to accident victims with deferred payment until third-party claims concluded or up to twelve months.",
+        "County court judges held the Alpha and Western agreements exempt from CCA regulation because payments were required within twelve months beginning with the agreement date.",
+        "Appellants argued Ketley required payment before period expiry, so agreements permitting payment at expiry were regulated."
+      ],
+      "procedural_posture": "Consolidated appeals to the Court of Appeal from county court decisions on CCA exemption in credit hire test cases.",
+      "outcome": "Both appeals dismissed; agreements held exempt.",
+      "ratio": "Where a credit hire agreement defers payment for a period not exceeding twelve months from the start of the agreement and requires payment when that deferral period ends, the obligation arises within the prescribed twelve-month period and satisfies Article 3(1)(a)(i) of the 1989 Order; Ketley turned on different wording requiring payment on expiry after twelve months.",
+      "legal_issues": [
+        "Whether twelve-month deferral periods beginning with the agreement date include the agreement date",
+        "Whether payment due at the end of the deferral period is required within the exempt period",
+        "Effect of Ketley v Gilbert on differently worded credit hire agreements"
+      ],
+      "catchwords": [
+        "Consumer Credit Act",
+        "exempt agreement",
+        "credit hire",
+        "deferred payment",
+        "twelve months",
+        "Ketley v Gilbert",
+        "Zoan v Rouamba",
+        "fixed-sum credit",
+        "contra proferentem"
+      ],
+      "index_terms": [
+        "Alpha Accident Management",
+        "Western Accident Management",
+        "Burdis v Livsey",
+        "Dimond v Lovell",
+        "accident management"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Zoan v Rouamba",
+          "citation": "[2000] 1 WLR 1509"
+        },
+        {
+          "name": "Ketley v Gilbert",
+          "citation": "[2001] 1 WLR 986"
+        },
+        {
+          "name": "Burdis v Livsey",
+          "citation": "[2002] EWCA Civ 210"
+        },
+        {
+          "name": "Dimond v Lovell",
+          "citation": "[2002] 1 AC 384"
+        },
+        {
+          "name": "Street v Mountford",
+          "citation": "[1985] AC 809"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with detailed contractual and regulatory construction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1786.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ appeal on implied contract for architectural fees in Tangiers development projects.",
+    "enrichment": {
+      "short_title": "Architect entitled to implied payment from GMH from September 1994 for Tangiers project work",
+      "area_of_law": [
+        "Contract law",
+        "Professional services",
+        "Construction",
+        "Agency"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Architect Dinkha Latchin produced extensive designs from 1994 for hotel, tennis club and villa projects in Tangiers for businessman Nadhmi Auchi and GMH group companies.",
+        "Recorder Uff found no express contract but implied obligation to pay reasonable fees from 1 September 1994 after work intensified with instructions to submit designs to authorities.",
+        "Auchi initially treated work as speculative; Latchin hoped to be appointed architect if projects proceeded."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from preliminary issues in the Technology and Construction Court on existence and terms of contract.",
+      "outcome": "Appeal dismissed save that personal contract with Auchi on projects 2, 1 and 3 set aside; GMH liable; project 4 personal contract upheld.",
+      "ratio": "An implied contract for professional fees arises by necessity where a client gives and the architect carries out substantial instructed work at the client's request after an initial unpaid speculative phase, unless expressly stipulated otherwise; the normal commercial inference from instructions and performance is a duty to pay, rebuttable only for a limited initial period.",
+      "legal_issues": [
+        "Whether an implied contract arose from parties' conduct after initial unpaid speculative work",
+        "Whether implication satisfied the Baird Textiles necessity test for intention to create legal relations",
+        "Whether GMH or Auchi personally was the contractual counterparty for each project"
+      ],
+      "catchwords": [
+        "implied contract",
+        "architect's fees",
+        "quantum meruit",
+        "necessity test",
+        "Baird Textiles",
+        "undisclosed principal",
+        "Tehran-Europe",
+        "speculative work",
+        "reasonable remuneration"
+      ],
+      "index_terms": [
+        "General Mediterranean Holdings",
+        "Nadhmi Auchi",
+        "Tangiers",
+        "Hotel Villa France",
+        "Rentistica",
+        "RIBA terms"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Baird Textile Holdings Ltd v Marks & Spencer plc",
+          "citation": "[2001] EWCA Civ 274"
+        },
+        {
+          "name": "Tehran-Europe Co Ltd v ST Belton (Tractors) Ltd",
+          "citation": "[1968] 2 QB 545"
+        },
+        {
+          "name": "The Aramis",
+          "citation": "[1989] 1 Lloyd's Rep 213"
+        },
+        {
+          "name": "Blackpool and Fylde Aero Club Ltd v Blackpool BC",
+          "citation": "[1990] 1 WLR 1195"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full appeal judgment; fee quantum not yet determined at preliminary stage."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3644.json",
+    "status": "done",
+    "notes": "Complete EWCA Crim appeal on cannabis possession conviction and sentence with PII issues.",
+    "enrichment": {
+      "short_title": "Cannabis import conviction safe despite cut-throat defences; sentence reduced to three years",
+      "area_of_law": [
+        "Criminal law",
+        "Drugs offences",
+        "Criminal procedure",
+        "Sentencing",
+        "Public interest immunity"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Anthony Walton was stopped on the M20 in July 2001 with 15kg of cannabis resin in his jeep after O'Callaghan placed two bags in the vehicle in West Kilburn.",
+        "Walton and co-defendants ran cut-throat defences blaming each other; Walton claimed he was set up by O'Callaghan, whom he did not name until trial.",
+        "PII material was withheld; trial judge refused independent counsel at PII hearing and gave linked-defendant directions during summing up."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal with leave against conviction and, alternatively, sentence following Crown Court trial.",
+      "outcome": "Conviction appeal dismissed; sentence appeal allowed in part (four years reduced to three years).",
+      "ratio": "A trial judge is not required to appoint independent counsel at a PII hearing where defence interests can otherwise be protected; comments that guilt of one co-defendant may support another's case are not misdirections where standard separate-consideration directions are given and defences stand or fall together on the evidence; a four-year sentence for 15kg Class B cannabis with intent to supply was excessive.",
+      "legal_issues": [
+        "Whether the trial judge should have appointed independent counsel at the PII hearing",
+        "Whether summing-up comments linked co-defendants' guilt impermissibly",
+        "Whether failure to name O'Callaghan early was misdirected in a cut-throat defence",
+        "Whether four years' imprisonment was manifestly excessive and disparate"
+      ],
+      "catchwords": [
+        "cannabis resin",
+        "intent to supply",
+        "cut-throat defence",
+        "public interest immunity",
+        "R v H and C",
+        "joint enterprise directions",
+        "disparity of sentence",
+        "participating informant",
+        "no comment interview"
+      ],
+      "index_terms": [
+        "Anthony Walton",
+        "O'Callaghan",
+        "Lysser",
+        "Maidstone Crown Court",
+        "Cherokee jeep",
+        "Class B drugs"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v H and C",
+          "citation": "[2003] EWCA Crim 2847"
+        },
+        {
+          "name": "Edwards and Lewis v United Kingdom",
+          "citation": "July 22, 2003"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full judgment but PII material not visible; conviction reasoning based on disclosed trial conduct."
+      }
+    }
+  }
+]

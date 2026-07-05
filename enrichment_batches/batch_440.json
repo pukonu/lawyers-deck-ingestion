@@ -1,0 +1,620 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2005/258.json",
+    "status": "done",
+    "notes": "Short post-judgment order on costs and ancillary matters following Saint-Gobain patent appeal; limited substantive issues.",
+    "enrichment": {
+      "short_title": "Saint-Gobain v Fusion Provida: Court of Appeal costs and ancillary orders",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Following the Court of Appeal's dismissal of Fusion Provida's obviousness appeal in the Saint-Gobain buried-pipe patent case, the court was asked to resolve residual matters.",
+        "The successful respondent sought all costs of the appeal including those of its respondent's notice.",
+        "The appellants sought interest on costs before Pumfrey J, a certificate of contested validity and permission to appeal to the House of Lords."
+      ],
+      "procedural_posture": "Supplemental Court of Appeal hearing on costs and ancillary orders after the main patent appeal judgment.",
+      "outcome": "The respondent was awarded all costs of the appeal including the respondent's notice; no summary assessment was made in the Court of Appeal; interest on Court of Appeal costs was ordered at the judgment rate; no order was made for interest on Pumfrey J's costs; no certificate of contested validity was granted; and permission to appeal was refused as a matter for the House of Lords.",
+      "ratio": "A proper respondent's notice may attract full costs even if unsuccessful; post-judgment costs interest and certificates of contested validity are matters for the trial judge or House of Lords rather than the Court of Appeal on a supplemental hearing.",
+      "legal_issues": [
+        "Whether costs of a respondent's notice should be included in the appeal costs order",
+        "Whether the Court of Appeal should summarily assess costs or order interest on first-instance costs",
+        "Whether a certificate of contested validity should be granted on appeal",
+        "Whether the Court of Appeal should grant permission to appeal to the House of Lords"
+      ],
+      "catchwords": [
+        "costs of appeal",
+        "respondent's notice",
+        "certificate of contested validity",
+        "summary assessment",
+        "interest on costs",
+        "permission to appeal"
+      ],
+      "index_terms": [
+        "Saint-Gobain PAM",
+        "Fusion Provida",
+        "Pumfrey J",
+        "House of Lords",
+        "judgment rate",
+        "patent appeal"
+      ],
+      "linked_authorities": [
+        "Saint-Gobain PAM SA v Fusion Provida Ltd [2005] EWCA Civ 177"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Short procedural order with clear dispositions on each point, though it adds little beyond the main appeal judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/564.json",
+    "status": "done",
+    "notes": "Drink-driving mouth-alcohol appeal; Crown Court evidential reasoning and Quick Test admissibility upheld.",
+    "enrichment": {
+      "short_title": "O'Sullivan v DPP: mouth alcohol and breath specimen reliability",
+      "area_of_law": [
+        "Criminal law",
+        "Road traffic law",
+        "Evidence",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 5"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant was convicted of driving with excess alcohol after evidential breath readings of 71 and 73 micrograms.",
+        "Controlled tests showed the Intoximeter could not reliably detect mouth alcohol, raising an issue whether the specimens were affected by regurgitation.",
+        "The Crown Court relied on the positive roadside test, closeness of the two readings, a later Quick Test result and the appellant's weak medical evidence.",
+        "The appellant had indigestion and heartburn history but gave no evidence of regurgitation at the material time."
+      ],
+      "procedural_posture": "Appeal by way of case stated from the Crown Court dismissal of an appeal against conviction for excess alcohol.",
+      "outcome": "Appeal dismissed; the Crown Court was entitled to be sure the specimens were not affected by mouth alcohol and lawfully admitted the Quick Test evidence to rebut the regurgitation suggestion.",
+      "ratio": "Where mouth alcohol is alleged, the fact-finder may rely on the totality of evidence including roadside test results, closely matching evidential readings and subsequent Quick Test results; a Quick Test used only to rebut mouth alcohol is not an impermissible substitute for the statutory evidential procedure.",
+      "legal_issues": [
+        "Whether reliance on the roadside breath test was Wednesbury unreasonable",
+        "Whether closeness of two evidential readings excluded mouth alcohol without expert reasons",
+        "Whether Quick Test results were admissible despite lack of calibration and statutory procedure",
+        "Whether the Crown Court unfairly treated the appellant's inability to recall regurgitation"
+      ],
+      "catchwords": [
+        "excess alcohol",
+        "mouth alcohol",
+        "Intoximeter",
+        "regurgitation",
+        "Quick Test",
+        "case stated"
+      ],
+      "index_terms": [
+        "Watford Police Station",
+        "Dr Mundy",
+        "Professor Makin",
+        "Fox v Chief Constable of Gwent",
+        "Zafar v DPP"
+      ],
+      "linked_authorities": [
+        "Fox v Chief Constable of Gwent [1986] AC 281",
+        "Zafar v Director of Public Prosecutions [2004] EWHC Admin 2468"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed analysis of each evidential ground and clear answers to the stated questions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/177.json",
+    "status": "done",
+    "notes": "Major patent obviousness appeal; Jacob LJ's Johnsson and obvious-to-try analysis is authoritative.",
+    "enrichment": {
+      "short_title": "Saint-Gobain v Fusion Provida: buried pipe patent obviousness upheld",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Engineering"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Saint-Gobain's patent claimed zinc-aluminium alloy coating with a porous pore-sealing layer for buried cast-iron pipes.",
+        "Fusion Provida argued claim 1 was obvious over the Johnsson paper published just before the priority date.",
+        "The skilled person sought long-term corrosion protection by white rust formation and healing at coating defects, which Johnsson did not address.",
+        "Pumfrey J held the patent valid; the Court of Appeal applied the Biogen deference principle to obviousness."
+      ],
+      "procedural_posture": "Appeal from Pumfrey J's judgment holding European Patent (UK) No 0686246 valid and infringed on an obviousness challenge only.",
+      "outcome": "Appeal dismissed; claim 1 was not obvious because Johnsson gave no pointer that Zn/Al alloy would provide the critical corrosion-product protection needed for buried pipes.",
+      "ratio": "Substituting Zn/Al alloy for Zn in black pipe was not an obvious step where the prior art was silent on white rust formation and defect healing; 'obvious to try' requires a sufficient likelihood of success, not mere inclusion in a research programme.",
+      "legal_issues": [
+        "Whether Johnsson made Zn/Al substitution for buried pipes obvious",
+        "Whether historical non-adoption of the substitution was a relevant factor",
+        "Whether the judge erred by relying on historical considerations given Johnsson's date",
+        "Application of the Biogen principle to appellate review of obviousness"
+      ],
+      "catchwords": [
+        "obviousness",
+        "buried pipe",
+        "zinc aluminium alloy",
+        "Johnsson paper",
+        "obvious to try",
+        "Biogen principle"
+      ],
+      "index_terms": [
+        "black pipe",
+        "pore-sealing layer",
+        "white rust",
+        "Windsurfing v Tabur Marine",
+        "Technip France's Patent"
+      ],
+      "linked_authorities": [
+        "Biogen Inc v Medeva plc [1997] RPC 1",
+        "Windsurfing International Inc v Tabur Marine (Great Britain) Ltd [1985] RPC 59",
+        "Johns-Manville Corporation's Patent [1967] RPC 479"
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full reasoned judgment on obviousness with detailed common general knowledge and expert evidence analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2005/281.json",
+    "status": "done",
+    "notes": "Landmark TCC penalty clause judgment; Jackson J's four-issue analysis on Onslow House LADs is comprehensive.",
+    "enrichment": {
+      "short_title": "McAlpine v Tilebox: liquidated damages clause not a penalty",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Commercial property",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "McAlpine contracted to refurbish Onslow House, Guildford, for Tilebox under a JCT contract with LADs of £45,000 per week.",
+        "Tilebox had funding obligations under a DFA with Standard Life requiring timely completion.",
+        "The parties negotiated the LAD rate as a pre-estimate based on minimum rental value during pre-contract discussions.",
+        "McAlpine sought a declaration that clause 24.2 was an unenforceable penalty after substantial delay."
+      ],
+      "procedural_posture": "Part 8 claim in the Technology and Construction Court for a declaration that a liquidated damages clause was a penalty.",
+      "outcome": "Claim dismissed; clause 24.2 was a reasonable pre-estimate of foreseeable losses including DCP erosion, Tilebox's direct costs and back-to-back liability to Standard Life.",
+      "ratio": "A substantial discrepancy, not mere excess at the top of the range, is required before a commercial liquidated damages clause will be struck down; courts are predisposed to uphold freely negotiated LAD provisions where parties of comparable bargaining power debated the figure.",
+      "legal_issues": [
+        "Whether clause 6.8.2 of the DFA required completion by a specific date",
+        "Whether clause 6.8.1 imposed back-to-back completion liability to Standard Life",
+        "What losses from delay were foreseeable on contract date",
+        "Whether £45,000 per week was an extravagant penalty or genuine pre-estimate"
+      ],
+      "catchwords": [
+        "liquidated damages",
+        "penalty clause",
+        "building contract",
+        "genuine pre-estimate",
+        "development funding agreement",
+        "JCT"
+      ],
+      "index_terms": [
+        "Onslow House Guildford",
+        "Standard Life",
+        "Tilebox",
+        "Dunlop v New Garage",
+        "Clydebank Engineering"
+      ],
+      "linked_authorities": [
+        "Dunlop Pneumatic Tyre Co Ltd v New Garage and Motor Co Ltd [1915] AC 79",
+        "Commissioner of Public Works v Hills [1906] AC 368",
+        "Philips Hong Kong Ltd v Attorney General of Hong Kong [1993] 61 BLR 41"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Extensive review of penalty authorities and detailed factual findings on foreseeable loss."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/527.json",
+    "status": "done",
+    "notes": "Attorney General's Reference on unduly lenient racially aggravated GBH sentences; clear uplift guidance.",
+    "enrichment": {
+      "short_title": "AG Reference: unduly lenient sentences for racially aggravated GBH",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Hate crime",
+        "Public law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Three offenders pleaded guilty to racially aggravated grievous bodily harm after attacking two Turkish men following an England-Turkey football match.",
+        "Onaranoglu suffered a fractured skull requiring a titanium plate and lost his restaurant partnership.",
+        "The group attack involved racial abuse, kicking and stamping on a defenceless victim.",
+        "The Crown Court sentenced each offender to two years' imprisonment for the GBH offence."
+      ],
+      "procedural_posture": "Attorney General's Reference on the ground that sentences for racially aggravated grievous bodily harm were unduly lenient.",
+      "outcome": "Reference allowed; substituted sentences of three years for Broad and Matthews and three years plus a consecutive twelve months for Sellars, reflecting an eighteen-month uplift for the racial aggravation with double-jeopardy reduction.",
+      "ratio": "Racially aggravated assault occasioning or inflicting grievous bodily harm warrants a substantial sentencing uplift for deterrence; where the judge failed to reflect the racial element, an increase of about eighteen months may be appropriate depending on the circumstances.",
+      "legal_issues": [
+        "Whether two-year sentences adequately reflected racial aggravation",
+        "What uplift is appropriate under Saunders for racially aggravated GBH",
+        "Whether guilty pleas and lack of prior serious violence limited the uplift",
+        "Application of double jeopardy reduction on an Attorney General's Reference"
+      ],
+      "catchwords": [
+        "unduly lenient",
+        "Attorney General's Reference",
+        "racially aggravated",
+        "grievous bodily harm",
+        "sentencing uplift",
+        "group attack"
+      ],
+      "index_terms": [
+        "Sheffield Crown Court",
+        "Saunders",
+        "kicking on the ground",
+        "Turkish victims",
+        "Sellars",
+        "Matthews",
+        "Broad"
+      ],
+      "linked_authorities": [
+        "R v Saunders [2000] 1 Cr App R 458",
+        "R v Moore (1992) 13 Cr App R (S) 130",
+        "R v Jane [1998] 2 Cr App R (S) 363"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Clear facts, established sentencing guidance and explicit substituted sentences."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/232.json",
+    "status": "done",
+    "notes": "VAT input tax limitation appeal; Collins J disapplies three-year cap for accrued rights but dismisses on delay.",
+    "enrichment": {
+      "short_title": "Fleming v HMRC: VAT input tax time limit and accrued rights",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "European Union law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Regulations 1995",
+          "provisions": [
+            "regulation 29",
+            "regulation 29(1A)"
+          ]
+        },
+        {
+          "title": "Tribunals and Inquiries Act 1992",
+          "provisions": [
+            "section 11(1)"
+          ]
+        },
+        {
+          "title": "Council Directive 77/388/EEC",
+          "provisions": [
+            "Article 18"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Bodycraft purchased thirteen Aston Martin cars in 1989-90 and recovered input VAT on ten cars in 1994 but held no VAT invoices.",
+        "Regulation 29(1A) from May 1997 imposed a three-year cap on input tax repayment claims without transitional provisions.",
+        "The appellant's 2000 claim for input tax on the three remaining cars was refused for breach of the three-year limit.",
+        "The tribunal accepted Marks & Spencer principles prevented reliance on the cap but dismissed on discretion grounds."
+      ],
+      "procedural_posture": "Appeal under section 11(1) of the 1992 Act from the VAT and Duties Tribunal refusal of input tax repayment.",
+      "outcome": "Appeal dismissed; although accrued rights could require disapplication of the cap, the appellant's delay of over three years after the limitation took effect meant the claim was rightly refused; related judicial review proceedings were also dismissed.",
+      "ratio": "Directly effective Community law rights to VAT repayment may require disapplication of a retroactive limitation period lacking transitional protection, but disapplication is not indefinite and a claimant who waits years after the cap takes effect cannot rely on accrued rights to recover input tax.",
+      "legal_issues": [
+        "Whether regulation 29(1A) could be disapplied for pre-1997 accrued input tax rights",
+        "Whether the October 2000 claim was part of the earlier 1993 claim",
+        "Whether lack of transitional provisions rendered the cap unlawful under Marks & Spencer",
+        "Whether delay after the cap took effect defeated the claim despite disapplication"
+      ],
+      "catchwords": [
+        "input tax",
+        "VAT repayment",
+        "regulation 29(1A)",
+        "Marks & Spencer principle",
+        "accrued rights",
+        "transitional provisions"
+      ],
+      "index_terms": [
+        "Aston Martin",
+        "Bodycraft",
+        "University of Sussex v Customs and Excise",
+        "Grundig Italiana",
+        "LAMIT",
+        "Sixth Directive"
+      ],
+      "linked_authorities": [
+        "Marks & Spencer plc v Customs and Excise Commissioners (Case C-62/00) [2002] STC 1036",
+        "University of Sussex v Customs and Excise Commissioners [2004] STC 1",
+        "Grundig Italiana SpA v Ministero delle Finanze (Case C-255/00) [2002] ECR I-8003"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complex VAT and EU law analysis with a clear ultimate disposition despite overturning part of the tribunal's reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2005/262.json",
+    "status": "done",
+    "notes": "Corporate libel damages ruling; Gray J strikes out reliance on unsued follow-up articles.",
+    "enrichment": {
+      "short_title": "Collins Stewart v Financial Times: corporate libel and follow-up publications",
+      "area_of_law": [
+        "Defamation",
+        "Media law",
+        "Company law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Defamation Act 1996",
+          "provisions": [
+            "schedule 1 paragraph 5",
+            "schedule 1 paragraph 10"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Collins Stewart sued over a Financial Times article of 27 August 2003 repeating serious allegations from a former analyst's FSA report.",
+        "The newspaper published further articles on 28 and 30 August 2003 but these were not sued as separate libels.",
+        "Collins Stewart sought to rely on the follow-up articles to increase damages for the original publication.",
+        "The Financial Times applied to strike out paragraph 8.3 of the Particulars of Claim on the basis that corporations cannot recover aggravated damages."
+      ],
+      "procedural_posture": "Interlocutory application to strike out particulars seeking to rely on subsequent publications to increase damages in a corporate libel claim.",
+      "outcome": "Paragraph 8.3 struck out; a corporate claimant may not increase compensatory damages for a single sued publication by relying on subsequent unsued articles, and aggravated damages for injury to feelings are unavailable to companies.",
+      "ratio": "Aggravated damages in libel compensate injury to feelings, which a corporation cannot suffer; subsequent publications that could have been separate causes of action should generally be sued separately rather than used to inflate damages for an earlier libel.",
+      "legal_issues": [
+        "Whether follow-up publications may increase damages for an original libel",
+        "Whether corporations may recover aggravated or exacerbation damages",
+        "Whether an apology reducing damages has a converse aggravated-damages counterpart for companies",
+        "Whether the strike-out application was barred by delay or overreaching"
+      ],
+      "catchwords": [
+        "libel",
+        "corporate claimant",
+        "aggravated damages",
+        "follow-up articles",
+        "strike out",
+        "compensatory damages"
+      ],
+      "index_terms": [
+        "James Middleweek",
+        "Financial Times",
+        "Reynolds privilege",
+        "Broome v Cassell",
+        "Rookes v Barnard",
+        "Slipper v BBC"
+      ],
+      "linked_authorities": [
+        "Broome v Cassell & Co Ltd [1972] AC 1027",
+        "Rookes v Barnard [1964] AC 1129",
+        "Lewis v Daily Telegraph Ltd [1964] AC 234"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed analysis of aggravated damages authorities with a clear interlocutory ruling."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/261.json",
+    "status": "done",
+    "notes": "Long Chancery judgment on MTIC VAT fraud and freezing-order variation applications; three interveners refused.",
+    "enrichment": {
+      "short_title": "Regalway Care v Shillingford: freezing order and MTIC fraud interveners",
+      "area_of_law": [
+        "Commercial fraud",
+        "Tax law",
+        "Value added tax",
+        "Civil procedure",
+        "Insolvency"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Regalway Care, in liquidation, obtained a freezing order against defendants including EBST in suspected MTIC VAT carousel fraud.",
+        "Three interveners applied to vary the order so EBST could repay them about £1.35 million for mobile phones and computer chips.",
+        "The liquidator questioned whether the transactions were genuine or knowing participation in missing-trader intra-Community fraud.",
+        "Evidence showed rapid same-day chains, fixed mark-ups, lack of security and uncertainty over whether goods reached their destination."
+      ],
+      "procedural_posture": "Applications by third-party interveners to vary a freezing order in Chancery proceedings arising from suspected MTIC fraud.",
+      "outcome": "Applications refused without summary disposal; the judge was not satisfied on the evidence that EBST should be permitted to make the payments, and directed separate trials of the intervener claims.",
+      "ratio": "Where serious doubt exists whether payments from a frozen defendant to trade creditors reflect genuine transactions or knowing involvement in MTIC fraud, a court should not vary a freezing order to permit large irrecoverable payments without full investigation, disclosure and cross-examination.",
+      "legal_issues": [
+        "Whether interveners showed good arguable claims justifying release of frozen funds",
+        "Whether the transactions were genuine commercial deals or MTIC carousel fraud",
+        "Whether 21st Century Logistic Solutions Ltd v Madysen applied where fraud knowledge was disputed",
+        "How the intervener claims should be case-managed for trial"
+      ],
+      "catchwords": [
+        "freezing order",
+        "MTIC fraud",
+        "carousel fraud",
+        "third party intervener",
+        "VAT fraud",
+        "commerciality"
+      ],
+      "index_terms": [
+        "EBST Limited",
+        "Regalway Care",
+        "Interken",
+        "FTC",
+        "Vita",
+        "DC UK",
+        "missing trader intra-Community"
+      ],
+      "linked_authorities": [
+        "R (Federation of Technological Industries) v Customs and Excise Commissioners [2004] EWCA Civ 1020",
+        "21st Century Logistic Solutions Ltd v Madysen Ltd [2004] 2 Lloyd's Rep 92"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Very long judgment but clear refusals and case-management directions on each intervener application."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/176.json",
+    "status": "done",
+    "notes": "Asylum out-of-time permission appeal; merits must be addressed even where only remittal is sought.",
+    "enrichment": {
+      "short_title": "Secretary of State v Makke: out-of-time asylum appeal and merits requirement",
+      "area_of_law": [
+        "Immigration law",
+        "Asylum law",
+        "Administrative law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "Schedule 4 paragraph 9(4)(b)"
+          ]
+        },
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Sudanese national Makke claimed asylum but did not attend the adjudicator hearing because London and Newcastle solicitors failed to communicate.",
+        "The adjudicator determined the appeal in absentia and dismissed it on the merits.",
+        "The respondent applied out of time to the IAT for permission to appeal seeking only remittal for a fresh hearing.",
+        "Wilson J quashed the IAT refusal; the Court of Appeal restored it."
+      ],
+      "procedural_posture": "Secretary of State's appeal against a High Court decision quashing the Immigration Appeal Tribunal's refusal of out-of-time permission to appeal.",
+      "outcome": "Appeal allowed; permission to appeal out of time was rightly refused because the respondent never addressed whether the adjudicator's decision was wrong on the merits.",
+      "ratio": "An applicant for out-of-time permission to appeal must show a real prospect of success on the merits, not merely loss of a hearing; procedural unfairness does not justify extension where the applicant declines to identify arguable errors in the underlying asylum decision.",
+      "legal_issues": [
+        "Whether loss of a hearing alone suffices for out-of-time permission",
+        "Whether failure to address merits in the permission application was fatal",
+        "Whether the respondent's personal lack of fault required grant of permission",
+        "Application of Simeer and Nazarina to consistent IAA decision-making"
+      ],
+      "catchwords": [
+        "asylum",
+        "out of time",
+        "permission to appeal",
+        "in absentia",
+        "real prospect of success",
+        "remittal"
+      ],
+      "index_terms": [
+        "Immigration Appeal Tribunal",
+        "adjudicator",
+        "Newcastle solicitors",
+        "Nazarina",
+        "Simeer v IAT",
+        "Sudan"
+      ],
+      "linked_authorities": [
+        "Simeer v Immigration Appeal Tribunal [2003] EWHC Admin 2683",
+        "Ko Ko Naing v Immigration Appeal Tribunal [2003] EWHC Admin 771"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear procedural reasoning with explicit allowance of the Secretary of State's appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2005/273.json",
+    "status": "done",
+    "notes": "Shelltime 4 Hague-Visby time-bar ruling; Cresswell J follows Stena Pacifica on cargo claims.",
+    "enrichment": {
+      "short_title": "Borgship Tankers v Product Transport: Shelltime 4 cargo time bar",
+      "area_of_law": [
+        "Shipping law",
+        "Maritime law",
+        "Commercial law",
+        "Arbitration"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 12"
+          ]
+        },
+        {
+          "title": "Hague-Visby Rules",
+          "provisions": [
+            "Article III rule 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Charterers sub-chartered the tanker Casco on Shelltime 4 after carrying palm oil cargoes.",
+        "Sahara cancelled a gasoline sub-charter because tank cleaning left the vessel unsuitable to load the nominated cargo.",
+        "Charterers claimed about US$795,000 for lost sub-charter freight and wasted bunkers due to alleged uncargoworthiness.",
+        "Owners contended the claims were time-barred under clause 27(c)(ii) incorporating the Hague-Visby one-year limit."
+      ],
+      "procedural_posture": "Commercial Court preliminary issue in arbitration on whether charterers' claims were time-barred under Shelltime 4 clause 27(c)(ii).",
+      "outcome": "Claims held not time-barred; the loss-of-use claim for cancelled sub-charter freight was not a cargo claim within clause 27(c)(ii) and was not measured by reference to cargo, following The Stena Pacifica.",
+      "ratio": "Clause 27(c)(ii) of Shelltime 4 applies only to cargo claims of the kind normally brought by cargo interests for loss or damage relating to and measured by reference to cargo; a charterer's claim for loss of employment after cancellation of a sub-charter is independent of the Hague-Visby Rules time bar.",
+      "legal_issues": [
+        "Whether the freight claim arose out of loss or damage in connection with cargo",
+        "Whether Article III rule 6 applied to uncargoworthiness causing sub-charter cancellation",
+        "Whether charter breaches were co-extensive with or independent of Hague-Visby obligations",
+        "Whether The Stena Pacifica governed clause 27(c)(ii) construction"
+      ],
+      "catchwords": [
+        "time bar",
+        "Shelltime 4",
+        "Hague-Visby Rules",
+        "cargo claim",
+        "uncargoworthiness",
+        "sub-charter cancellation"
+      ],
+      "index_terms": [
+        "Casco",
+        "Sahara Energy",
+        "Stena Pacifica",
+        "The Marinor",
+        "epoxy coating",
+        "tank cleaning"
+      ],
+      "linked_authorities": [
+        "The Stena Pacifica [1990] 2 Lloyd's Rep 234",
+        "Goulandris Brothers Ltd v B Goldman & Sons Ltd [1958] 1 QB 74",
+        "The Marinor [1996] 1 Lloyd's Rep 301"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Focused preliminary issue with detailed analysis of clause 27(c)(ii) and clear conclusion."
+      }
+    }
+  }
+]

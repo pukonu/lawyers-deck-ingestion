@@ -1,0 +1,641 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2005/251.json",
+    "status": "done",
+    "notes": "Landmark CA decision on vicarious liability under the Protection from Harassment Act 1997; strike-out reversed.",
+    "enrichment": {
+      "short_title": "Majrowski v Guy's: vicarious employer liability for workplace harassment under the 1997 Act",
+      "area_of_law": [
+        "Employment law",
+        "Tort law",
+        "Human rights",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Protection from Harassment Act 1997",
+          "provisions": [
+            "section 1",
+            "section 3",
+            "section 7(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Majrowski, a clinical audit co-ordinator at Guy's and St Thomas's NHS Trust, alleged bullying and harassment by his departmental manager Mrs Freeman in the course of her employment.",
+        "He brought a civil claim for damages under section 3 of the Protection from Harassment Act 1997 against the Trust as employer.",
+        "HHJ Collins struck out the claim under CPR Part 3.4 as disclosing no reasonable grounds, holding that vicarious liability could not attach to breaches of the 1997 Act.",
+        "The Court of Appeal granted permission because the appeal raised unsettled questions on vicarious liability for statutory torts and for section 3 claims specifically."
+      ],
+      "procedural_posture": "Appeal from a strike-out order dismissing a section 3 harassment claim against an NHS employer.",
+      "outcome": "Appeal allowed; strike-out set aside and the claim restored to proceed to trial on its facts.",
+      "ratio": "An employer may in an appropriate case be vicariously liable under section 3 of the 1997 Act for a course of harassment by an employee in the course of employment; there is no blanket exclusion of vicarious liability and the question is governed by close-connection principles applied to the statutory context.",
+      "legal_issues": [
+        "Whether an employer may be vicariously liable for a breach of statutory duty imposed only on an employee",
+        "Whether section 3 of the 1997 Act permits vicarious liability for workplace harassment by one employee against another",
+        "Whether the claim was properly struck out under CPR Part 3.4"
+      ],
+      "catchwords": [
+        "Protection from Harassment Act",
+        "vicarious liability",
+        "workplace bullying",
+        "section 3",
+        "strike out",
+        "NHS Trust"
+      ],
+      "index_terms": [
+        "course of conduct",
+        "close connection",
+        "Thomas v News Group Newspapers",
+        "DPP v Dziurzynski",
+        "clinical audit co-ordinator"
+      ],
+      "linked_authorities": [
+        "Thomas v News Group Newspapers Ltd [2001] EWCA Civ 1223",
+        "DPP v Dziurzynski [2000] EWHC 1380 (Admin)",
+        "Wigan Borough Council v Davies [1979] ICR 411"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Central legal issues and allowance of appeal are clearly reasoned across multiple judgments."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2005/315.json",
+    "status": "done",
+    "notes": "Brussels/Lugano jurisdiction over general average guarantee; place of performance held outside England.",
+    "enrichment": {
+      "short_title": "Mora Shipping v insurers: jurisdiction over general average guarantee payments",
+      "area_of_law": [
+        "Maritime law",
+        "Insurance law",
+        "European Union law",
+        "Conflict of laws",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Council Regulation (EC) No 44/2001",
+          "provisions": [
+            "Article 2",
+            "Article 5.1(a)",
+            "Article 6.1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Liberian demise charterer Mora Shipping claimed general average contributions of about US$1.2m from cargo insurers after grounding damage to the Vitoria on the River Plate.",
+        "Insurers subscribed to an Average Guarantee undertaking to pay shipowners or average adjusters Richards Hogg Lindley for legally due general average.",
+        "RHL requested payment to a London bank account but insurers did not pay and challenged jurisdiction of the English Commercial Court.",
+        "The insurers were domiciled in France, Belgium, the Netherlands and Switzerland and the factual events had no English connection."
+      ],
+      "procedural_posture": "Interlocutory application to set aside service for want of jurisdiction under Brussels/Lugano special jurisdiction rules.",
+      "outcome": "Application granted; the court held it had no jurisdiction and set aside issue and service of the claim form.",
+      "ratio": "An Average Guarantee allowing payment to the shipowner or average adjusters does not oblige insurers to perform in England; absent a contractual place of performance in the forum, domicile jurisdiction applies and a jurisdiction clause is the commercial route to fix forum.",
+      "legal_issues": [
+        "Whether Article 5.1(a) place-of-performance jurisdiction existed in England",
+        "Whether the guarantee entitled creditors collectively to elect London payment",
+        "Whether RHL's London payment request fixed the place of performance",
+        "Construction of alternative payee clauses in marine insurance guarantees"
+      ],
+      "catchwords": [
+        "general average",
+        "Average Guarantee",
+        "Brussels Regulation",
+        "place of performance",
+        "jurisdiction",
+        "marine insurance"
+      ],
+      "index_terms": [
+        "Vitoria",
+        "Richards Hogg Lindley",
+        "Besix v Kretzschmar",
+        "Thorn v City Rice Mills",
+        "demise charterer"
+      ],
+      "linked_authorities": [
+        "Case C-256/00 Besix SA v Walter Bau AG [2002] ECR I-1699",
+        "Thorn v City Rice Mills (1889) 40 Ch D 357",
+        "Hanbridge Services Ltd v Aerospace Communications Ltd [1993] IL Pr 778"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Jurisdictional issue and contractual construction are fully analysed though merits of the GA claim were not tried."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/282.json",
+    "status": "done",
+    "notes": "Follows Chaudhary (No 1) and Khan; employment tribunal jurisdiction excluded by section 54(2) RRA 1976.",
+    "enrichment": {
+      "short_title": "Chaudhary v STA Appeal Panel: employment tribunal jurisdiction over specialist register race claim",
+      "area_of_law": [
+        "Employment law",
+        "Discrimination law",
+        "Medical regulation",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Race Relations Act 1976",
+          "provisions": [
+            "section 12",
+            "section 54"
+          ]
+        },
+        {
+          "title": "European Specialist Medical Qualifications Order 1995",
+          "provisions": [
+            "Article 13"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Chaudhary, a urologist of Indian ethnic origin, alleged direct, indirect and victimisation discrimination when the Specialist Training Authority Appeal Panel refused entry to the Specialist Register.",
+        "An employment tribunal struck out his claim for want of jurisdiction under section 54(2) of the Race Relations Act 1976.",
+        "The EAT dismissed his appeal and the Court of Appeal had already held in Chaudhary (No 1) that section 54(2) excluded tribunal jurisdiction over the STA decision.",
+        "Dr Chaudhary argued the Appeal Panel's own discriminatory act was not covered because no further statutory appeal existed and Article 6 required employment tribunal access."
+      ],
+      "procedural_posture": "Court of Appeal appeal from the Employment Appeal Tribunal upholding strike-out for lack of jurisdiction.",
+      "outcome": "Appeal dismissed; leave to appeal to the House of Lords refused with costs against the appellant.",
+      "ratio": "Section 54(2) excludes employment tribunal complaints where an appeal or proceedings in the nature of an appeal may be brought under an enactment, including subordinate legislation such as the 1995 Order; the act complained of is the initial refusal, not the appeal panel decision, and the appeal plus judicial review route satisfies Article 6.",
+      "legal_issues": [
+        "Whether the Appeal Panel's decision was a fresh act outside section 54(2)",
+        "Whether the 1995 Order was an enactment for section 54(2) purposes",
+        "Whether judicial review was an inadequate substitute for employment tribunal remedies",
+        "Compatibility of the statutory scheme with Article 6 ECHR after the Human Rights Act 1998"
+      ],
+      "catchwords": [
+        "Race Relations Act",
+        "section 54(2)",
+        "Specialist Register",
+        "employment tribunal jurisdiction",
+        "Article 6",
+        "medical qualifications"
+      ],
+      "index_terms": [
+        "Specialist Training Authority",
+        "CCST",
+        "Khan v General Medical Council",
+        "Chaudhary (No 1)",
+        "appeal panel"
+      ],
+      "linked_authorities": [
+        "Khan v General Medical Council [1996] ICR 1032",
+        "Chaudhary v Royal College of Surgeons [2003] ICR 1510",
+        "Wilson v First County Trust Ltd (No 2) [2004] 1 AC 816"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Statutory construction and Article 6 analysis are detailed and the dismissal is explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/805.json",
+    "status": "done",
+    "notes": "Trial management appeal; judge's cross-examination time limit upheld after prolix questioning.",
+    "enrichment": {
+      "short_title": "R v Butt: fairness of judicial time limit on rape complainant cross-examination",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Criminal procedure",
+        "Trial management"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The appellant was convicted of rape at Croydon Crown Court and sentenced to six years' imprisonment; consent was the central issue.",
+        "Defence counsel cross-examined the complainant for about two hours, including extensive irrelevant background questioning before addressing the alleged rape.",
+        "After detailed cross-examination on the core allegations, the judge imposed a ten-minute limit to finish, then stopped counsel when time expired.",
+        "Counsel claimed she was prevented from putting salient points including an alleged later telephone call and failure to phone the complainant's partner."
+      ],
+      "procedural_posture": "Appeal against conviction by leave on the ground that trial management unfairly curtailed cross-examination.",
+      "outcome": "Appeal dismissed; the time limit was justified and did not cause unfairness.",
+      "ratio": "Where cross-examination is prolix, repetitious and wastes time on peripheral matters, a trial judge is entitled and may be obliged to impose reasonable time limits; counsel must put important points in good time and cannot rely on a rigid chronological approach.",
+      "legal_issues": [
+        "Whether imposing a guillotine on cross-examination denied a fair trial",
+        "Whether salient defence points were left unput",
+        "Application of R v Chaaban principles on firm judicial control of trial timetables",
+        "Balance between fearless defence advocacy and avoidance of prolixity"
+      ],
+      "catchwords": [
+        "cross-examination",
+        "time limit",
+        "trial management",
+        "rape",
+        "fair trial",
+        "consent"
+      ],
+      "index_terms": [
+        "R v Chaaban",
+        "R v McFadden",
+        "Kalia",
+        "prolixity",
+        "Crown Court"
+      ],
+      "linked_authorities": [
+        "R v Chaaban [2003] EWCA Crim 1012",
+        "R v McFadden 62 Cr App R 187",
+        "Kalia 60 Cr App R 200"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Transcript-based analysis of cross-examination and clear dismissal on trial management grounds."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/387.json",
+    "status": "done",
+    "notes": "Appeal under Tribunals and Inquiries Act 1992; improvement notice quashed for confusing remedial directions.",
+    "enrichment": {
+      "short_title": "BT Fleet v McKenna: validity of HSE improvement notice on manual handling",
+      "area_of_law": [
+        "Health and safety",
+        "Employment law",
+        "Administrative law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Health and Safety at Work etc Act 1974",
+          "provisions": [
+            "section 2",
+            "section 21",
+            "section 23",
+            "section 24",
+            "section 33"
+          ]
+        },
+        {
+          "title": "Manual Handling Operations Regulations 1992",
+          "provisions": [
+            "regulation 4"
+          ]
+        },
+        {
+          "title": "Tribunals and Inquiries Act 1992",
+          "provisions": [
+            "section 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A BT Fleet employee injured his back lifting a transit tyre onto a Balco Titan tyre-changing machine at Dagenham.",
+        "HSE inspector McKenna served an improvement notice alleging breach of section 2(1) HSWA and regulation 4(1)(a) MHOR requiring mechanical aids or equally effective compliance measures.",
+        "An employment tribunal affirmed the notice, modifying the schedule to add training and supervision as an alternative remedy.",
+        "BT Fleet appealed because the notice and accompanying letter appeared to require mechanical lifting aids only, though HSE accepted training could suffice."
+      ],
+      "procedural_posture": "Appeal to the High Court under section 11 of the Tribunals and Inquiries Act 1992 against an employment tribunal decision affirming an improvement notice.",
+      "outcome": "Appeal allowed; tribunal order affirming the notice quashed and the notice cancelled.",
+      "ratio": "An improvement notice must enable the recipient fairly to know what is wrong, why it is wrong and how to remedy it; where optional remedial directions are included but confuse the required compliance method, the notice is invalid and cannot be saved by tribunal amendment.",
+      "legal_issues": [
+        "Whether the notice complied with section 21 HSWA informational requirements",
+        "Whether optional schedule directions made the notice unclear or misleading",
+        "Whether the tribunal could amend the notice to cure defects",
+        "Application of Bexley v Gardner Merchant principles to HSE enforcement notices"
+      ],
+      "catchwords": [
+        "improvement notice",
+        "manual handling",
+        "Health and Safety Executive",
+        "enforcement notice",
+        "tyre changing",
+        "employment tribunal"
+      ],
+      "index_terms": [
+        "BT Fleet",
+        "Balco Titan T3000",
+        "Bexley v Gardner Merchant",
+        "Ormston v Horsham RDC",
+        "Miller Mead"
+      ],
+      "linked_authorities": [
+        "The Borough of Bexley v Gardner Merchant Plc (1993)",
+        "Ormston v Horsham Rural District Council (1966) 66 LGR 452",
+        "Miller Mead v Minister of Housing [1963] 2 QB 196"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Notice defects and cancellation order are clearly stated though some compliance facts were common ground."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/266.json",
+    "status": "done",
+    "notes": "Phelps educational negligence appeal; causation and quantum upheld but costs reduced to 70%.",
+    "enrichment": {
+      "short_title": "Devon CC v Clarke: dyslexia misdiagnosis claim after Phelps",
+      "area_of_law": [
+        "Education law",
+        "Negligence",
+        "Damages",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Stuart Clark, seriously dyslexic and dyspraxic, sued Devon County Council for negligent failure by educational psychologists and head teachers to diagnose and meet his special educational needs.",
+        "Only Mrs Holt's 1991 report was held negligent; the judge awarded £10,000 general and £25,000 special damages for lost earnings totalling about £38,210.",
+        "Claims against two other psychologists and two head teachers failed or were withdrawn; psychiatric injury and wider loss claims were rejected.",
+        "The litigation cost an estimated £150,000 and mediation failed despite May LJ encouraging compromise on permission to appeal."
+      ],
+      "procedural_posture": "Appeal against findings on causation, quantum of loss of earnings and a 100% costs order after trial before HHJ Overend.",
+      "outcome": "Appeal dismissed on liability and quantum; allowed on costs so the claimant recovered 70% rather than 100% of his costs.",
+      "ratio": "Following Phelps, causation in educational negligence requires that different teaching would probably have made a real difference, not a measurable difference; a modest lump-sum earnings award may stand, but CPR 44.3 permits reduced costs where a claimant succeeds on only one of several discrete pleaded allegations.",
+      "legal_issues": [
+        "Whether Mrs Holt's negligence caused three years' lost specialist education at Queen Elizabeth Community College",
+        "Whether the judge applied too high a causation test requiring measurable difference",
+        "Whether £25,000 for past and future loss of earnings was supported by evidence",
+        "Whether the claimant should pay part of his costs after partial success"
+      ],
+      "catchwords": [
+        "educational negligence",
+        "dyslexia",
+        "Phelps",
+        "causation",
+        "special educational needs",
+        "costs proportion"
+      ],
+      "index_terms": [
+        "educational psychologist",
+        "Queen Elizabeth Community College",
+        "loss of earnings",
+        "CPR 44.3",
+        "Sanderson order"
+      ],
+      "linked_authorities": [
+        "Phelps v Hillingdon London Borough Council [2001] 2 AC 619",
+        "Sanderson v Blyth Theatre Co [1903] 2 KB 533",
+        "Bullock v London General Omnibus Co [1907] 1 KB 264"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed treatment of Phelps causation and a nuanced costs adjustment though quantum remains inherently difficult."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2005/608.json",
+    "status": "done",
+    "notes": "TCC final account trial; novation found and balance of £11,939.95 due after single joint expert.",
+    "enrichment": {
+      "short_title": "Quarmby Electrical v Trant: novation and final account for electrical subcontracts",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Restitution",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Quarmby and Son Ltd quoted electrical works for four projects but went into liquidation in April 2003; Matthew Quarmby incorporated Quarmby Electrical Ltd on 14 April 2003.",
+        "Trant Construction disputed whether Quarmby Electrical Ltd was the contracting sub-contractor entitled to payment for Irwin Approach, Sovereign Court, Falklands Rise and Dransfield.",
+        "Mr Quarmby said he telephoned Trant's quantity surveyor Mr Jaber to agree the new company would take over all four sub-contracts; Mr Jaber could not recall the call.",
+        "A single joint expert Mr Gilfillan valued works, variations, defects and delays; both parties largely accepted his findings."
+      ],
+      "procedural_posture": "Technology and Construction Court trial transferred from county court on a sub-contractor's claim and contractor's counterclaim for defects and set-off.",
+      "outcome": "Claimant entitled to payment for all work; total due £63,415.70 less £51,475 paid, leaving £11,939.95 subject to tax adjustments.",
+      "ratio": "A telephone agreement in mid-April 2003 novated Quarmby Electrical Ltd onto all four electrical sub-contracts; all site work was carried out after incorporation and contemporaneous correspondence addressed the new company.",
+      "legal_issues": [
+        "Whether Quarmby Electrical Ltd novated Quarmby and Son Ltd's sub-contracts",
+        "Whether any pre-incorporation work disentitled the new company from payment",
+        "Quantum after defects, delays and variations at four sites",
+        "Appropriate use of single joint experts in lower-value construction disputes"
+      ],
+      "catchwords": [
+        "novation",
+        "sub-contractor",
+        "final account",
+        "electrical works",
+        "single joint expert",
+        "quantum meruit"
+      ],
+      "index_terms": [
+        "Quarmby and Son",
+        "Trant Construction",
+        "Daniels v Walker",
+        "CPR Part 35",
+        "Irwin Approach"
+      ],
+      "linked_authorities": [
+        "Daniels v Walker [2000] 1 WLR 1382"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Novation finding and final figures are explicit though based partly on oral evidence and expert valuation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/404.json",
+    "status": "done",
+    "notes": "Injunction restraining winding-up petitions; substantial dispute over Kazakhstan joint venture legal fees.",
+    "enrichment": {
+      "short_title": "ICS v Michael Wilson: restraining winding-up over disputed Kazakhstan venture fees",
+      "area_of_law": [
+        "Company law",
+        "Insolvency law",
+        "Commercial law",
+        "Professional negligence",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Contracts (Rights of Third Parties) Act 1999",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "ICS group companies sought to restrain MWP, an Almaty-based law firm, from presenting winding-up petitions based on US$1,133,044 alleged fees for a Kazakhstan customs PICAP joint venture.",
+        "MWP's invoices were originally addressed to Batalov companies and ICS Kazakhstan entities; reissued invoices to the UK ICS companies came only after statutory demands in September 2003.",
+        "The parties disputed whether a June 2001 engagement letter signed by Boris Sychev under powers of attorney bound the UK companies.",
+        "MWP performed extensive work on the MOU, service contract, joint venture agreement and related offshore structures for the Kazakhstan project."
+      ],
+      "procedural_posture": "Originating applications for injunctions restraining presentation of winding-up petitions pending determination of whether debts were genuinely disputed.",
+      "outcome": "Injunctions granted; the court held there was a substantial dispute as to the whole debt and MWP could not proceed by compulsory winding up.",
+      "ratio": "Where a statutory demand debt is subject to a substantial dispute on its existence or the client's identity, presentation of a winding-up petition should normally be restrained even if part of the sum might ultimately be due; contemporaneous correspondence indicated MWP may have acted for the local joint venture partner rather than the UK claimants.",
+      "legal_issues": [
+        "Whether the engagement letter validly bound the UK ICS companies",
+        "Whether MWP's client was ICS, Batalov or joint venture entities",
+        "Whether there was a bona fide or substantial dispute barring winding-up",
+        "Whether MOU/JVA cost-allocation clauses made the UK companies liable for all MWP fees"
+      ],
+      "catchwords": [
+        "winding up",
+        "statutory demand",
+        "substantial dispute",
+        "solicitors' fees",
+        "joint venture",
+        "injunction"
+      ],
+      "index_terms": [
+        "PICAP",
+        "Kazakhstan customs",
+        "Raimbek Batalov",
+        "engagement letter",
+        "Transnational Capital"
+      ],
+      "linked_authorities": [
+        "Chellaram v Chellaram (No 2) [2002] 3 All ER 17"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Interlocutory dispute finding only; no final trial determination on liability though reasoning is extensive."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2005/356.json",
+    "status": "done",
+    "notes": "Post-settlement TCC hearing on RIBA SFA/99 clauses 5.13 and 9.6; unfair consumer terms held unenforceable.",
+    "enrichment": {
+      "short_title": "Munkenbeck v Harold: unenforceable RIBA indemnity and interest terms against consumer client",
+      "area_of_law": [
+        "Construction law",
+        "Professional services",
+        "Consumer law",
+        "Contract law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Unfair Terms in Consumer Contracts Regulations 1999",
+          "provisions": [
+            "regulation 5",
+            "regulation 6",
+            "regulation 8"
+          ]
+        },
+        {
+          "title": "Late Payment of Commercial Debts (Interest) Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Architects Munkenbeck & Marshall claimed £53,424.36 outstanding fees for work at Chester Square and Montrose Place; the defendant counterclaimed for negligence.",
+        "Shortly before trial the parties settled on fees and dismissal of the counterclaim, leaving issues on litigation time costs, interest, costs basis and payment on account.",
+        "The appointment letter incorporated RIBA SFA/99 including clause 9.6 indemnifying the architect for legal costs and time spent on proceedings and clause 5.13 for interest at 8% over base.",
+        "Mr Harold entered as a consumer without receiving or negotiating SFA/99; partner Mr Munkenbeck's time-cost schedule was found wholly unreliable."
+      ],
+      "procedural_posture": "Technology and Construction Court hearing of remaining issues after partial settlement of architect's fee claim and professional negligence counterclaim.",
+      "outcome": "Time-cost claim failed; clauses 5.13 and 9.6 held unfair and unenforceable; interest ordered at 8%; standard-basis costs with £60,000 interim payment ordered.",
+      "ratio": "Unusual and onerous RIBA standard terms not individually negotiated or brought to a consumer client's attention may be unfair under the 1999 Regulations and unenforceable; a post-settlement claim for the architect's own litigation time fails if unsupported by reliable evidence.",
+      "legal_issues": [
+        "Enforceability of RIBA SFA/99 clause 9.6 time and costs indemnity against a consumer",
+        "Whether clause 5.13 high interest rate was an unfair term or penalty",
+        "Appropriate interest after an ambiguous Part 36 offer",
+        "Whether indemnity costs were justified and whether a CFA Lite agreement affected interim payment"
+      ],
+      "catchwords": [
+        "RIBA SFA/99",
+        "unfair terms",
+        "consumer contract",
+        "architect's fees",
+        "indemnity costs",
+        "Part 36"
+      ],
+      "index_terms": [
+        "Chester Square",
+        "clause 9.6",
+        "clause 5.13",
+        "Chitty on Contracts",
+        "CFA Lite"
+      ],
+      "linked_authorities": [
+        "Excelsior Commercial v Salisbury Hammer [2002] EWCA Civ 879"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Remaining issues clearly resolved though time-cost claim turned heavily on witness credibility."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/291.json",
+    "status": "done",
+    "notes": "Major ICE clause 66 arbitration jurisdiction appeal on Thelwell Viaduct defects; limitation preserved.",
+    "enrichment": {
+      "short_title": "Amec v SoS: ICE clause 66 dispute and engineer decision before arbitration",
+      "area_of_law": [
+        "Construction law",
+        "Arbitration",
+        "Engineering law",
+        "Limitation",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 14",
+            "section 67"
+          ]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Serious roller bearing failures appeared on the M6 Thelwell Viaduct in summer 2002, six years after Amec completed major refurbishment works under ICE conditions.",
+        "The Secretary of State claimed Amec was liable for substantial remedial costs; Amec resisted pending technical investigation and pointed to Italian suppliers and engineer Pell Frischmann.",
+        "Within the six-year limitation period the employer referred the dispute to the engineer under clause 66 and gave notice of arbitration after the engineer held Amec responsible.",
+        "Amec challenged jurisdiction arguing no dispute existed, the engineer's decision was procedurally unfair and arbitration was limited to listed defects."
+      ],
+      "procedural_posture": "Section 67 appeal from Technology and Construction Court upholding arbitrator's jurisdiction ruling after ICE clause 66 engineer decision.",
+      "outcome": "Appeal dismissed; valid dispute referred, engineer's decision effective and arbitration scope covered the full viaduct claim.",
+      "ratio": "Under ICE clause 66 a dispute or difference capable of reference arises once a claim is not admitted, especially near limitation expiry; the engineer must act independently and honestly but not as a quasi-arbitrator, and the matter referred to arbitration is the dispute referred to the engineer, not merely the defects listed in his decision letter.",
+      "legal_issues": [
+        "When a dispute or difference existed for clause 66 purposes",
+        "Whether the engineer's decision was invalid for procedural unfairness or conflict of interest",
+        "Whether arbitration was confined to defects expressly listed in the engineer's sub-paragraphs",
+        "Interaction between clause 66 machinery and limitation under section 14 Arbitration Act 1996"
+      ],
+      "catchwords": [
+        "ICE Conditions",
+        "clause 66",
+        "engineer's decision",
+        "arbitration",
+        "limitation",
+        "viaduct defects"
+      ],
+      "index_terms": [
+        "Thelwell Viaduct",
+        "Pell Frischmann",
+        "roller bearings",
+        "Ellerine Bros v Klinger",
+        "Halki Shipping"
+      ],
+      "linked_authorities": [
+        "Ellerine Bros (Pty) Ltd v Klinger [1982] 1 WLR 1375",
+        "Halki Shipping Corporation v Sopex Oils Ltd [1998] 1 WLR 726",
+        "Sutcliffe v Thackrah [1974] AC 727"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Three jurisdictional grounds comprehensively addressed by a strong appellate court on important construction arbitration practice."
+      }
+    }
+  }
+]

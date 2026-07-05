@@ -1,0 +1,691 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2236.json",
+    "status": "done",
+    "notes": "CCRC murder reference; lengthy judgment quashing convictions on silence, informer and disclosure grounds.",
+    "enrichment": {
+      "short_title": "Allan v Queen: CCRC quashes murder conviction over informer and silence",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Human rights",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": [
+            "section 9",
+            "section 14(5)"
+          ]
+        },
+        {
+          "title": "Criminal Justice and Public Order Act 1994",
+          "provisions": [
+            "section 34"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 76",
+            "section 78"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Allan was convicted by a 10-2 jury majority of conspiracy to rob and the 1995 murder of supermarket manager David Beesley.",
+        "Police placed registered informant Michael Hirrell in custody with Allan to obtain admissions, and Hirrell later received a £30,000 reward.",
+        "Allan had answered 'no comment' in post-charge interviews after section 34 came into force, relying on legal advice.",
+        "The CCRC referred the case on misdirection as to adverse inferences from silence; the ECHR had already found an Article 6 violation over Hirrell's evidence."
+      ],
+      "procedural_posture": "Court of Appeal (Criminal Division) on CCRC reference against murder and conspiracy convictions after an unsuccessful 1999 leave application.",
+      "outcome": "Convictions quashed on all three grounds; the prosecution did not seek a retrial.",
+      "ratio": "A section 34 summing up must identify relied-on facts, explain when adverse inferences may be drawn and address reliance on legal advice; using a state agent to interrogate a suspect who has exercised silence after charge renders resulting admissions unfair, and undisclosed early discussions about an informer's reward can also render a conviction unsafe.",
+      "legal_issues": [
+        "Whether the trial judge's section 34 direction adequately protected Allan's qualified right to silence",
+        "Whether Hirrell's admissions obtained in custody should have been excluded under section 78",
+        "Whether pre-trial non-disclosure of reward discussions undermined the safety of the conviction",
+        "Whether an ECHR Article 6 finding is relevant to a post-2000 appeal against a pre-HRA conviction"
+      ],
+      "catchwords": [
+        "CCRC reference",
+        "police informer",
+        "right to silence",
+        "section 34",
+        "Article 6",
+        "non-disclosure"
+      ],
+      "index_terms": [
+        "Michael Hirrell",
+        "Strangeways",
+        "voire dire",
+        "reward £30,000",
+        "R v Christou",
+        "adverse inference"
+      ],
+      "linked_authorities": [
+        "Allan v United Kingdom (ECtHR, 5 November 2002)",
+        "R v Argent [1997] 2 Cr App R 27",
+        "R v Christou [1992] 95 Cr App R 264"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Final quashing order and detailed reasoning on each ground are clearly recorded."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2020.json",
+    "status": "done",
+    "notes": "Habeas corpus extradition challenge; dual offences analysis under Theft Act 1968 is thorough.",
+    "enrichment": {
+      "short_title": "Holmes: extradition habeas corpus and bank transfer deception",
+      "area_of_law": [
+        "Extradition",
+        "Criminal law",
+        "Fraud",
+        "Banking law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act 1989",
+          "provisions": [
+            "section 7",
+            "section 9(8)"
+          ]
+        },
+        {
+          "title": "Theft Act 1968",
+          "provisions": [
+            "section 15A",
+            "section 4",
+            "section 5"
+          ]
+        },
+        {
+          "title": "Theft (Amendment) Act 1996",
+          "provisions": []
+        },
+        {
+          "title": "Computer Misuse Act 1990",
+          "provisions": [
+            "section 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Germany sought extradition of Matthew Holmes for allegedly misusing colleagues' passwords at Commerzbank to transfer USD 15,583,128.57 to a dormant ABN Amro account in August 2000.",
+        "Holmes was committed by Bow Street magistrates under section 9(8) to await the Home Secretary's decision.",
+        "He challenged identity and whether the conduct would constitute theft or obtaining a money transfer by deception under English law.",
+        "Three post-transfer confirmations to ABN Amro persuaded the bank to release a reservation on the credit."
+      ],
+      "procedural_posture": "High Court habeas corpus application reviewing committal for extradition to Germany.",
+      "outcome": "Application dismissed; the court held Holmes was the wanted person and that obtaining a money transfer by deception was made out, with theft provisionally also established.",
+      "ratio": "A bank account is not 'credited' for section 15A purposes while subject to a reservation; human confirmations after an automated transfer may constitute operative deception, and judicial notice may supply the necessary linked debit where foreign warrant papers omit routine banking mechanics.",
+      "legal_issues": [
+        "Whether identity evidence excluded reasonable doubt as to the person before the court",
+        "Whether misuse of passwords to trigger an automated transfer amounted to deception",
+        "Whether post-transfer confirmations were legally relevant to section 15A",
+        "Whether the conduct would also amount to theft of a constructive-trust chose in action"
+      ],
+      "catchwords": [
+        "habeas corpus",
+        "extradition",
+        "money transfer by deception",
+        "SWIFT",
+        "bank fraud",
+        "dual criminality"
+      ],
+      "index_terms": [
+        "Commerzbank AG",
+        "ABN Amro",
+        "Wolpert Consultants",
+        "section 15A",
+        "Davies v Flackett",
+        "R v Preddy"
+      ],
+      "linked_authorities": [
+        "R v Preddy [1996] AC 815",
+        "Westdeutsche Landesbank Girozentrale v Islington LBC [1996] AC 669",
+        "Attorney-General's Reference (No. 1 of 1985) [1986] 1 QB 491"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Identity and dual-criminality conclusions are clearly reasoned on the warrant facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1271.json",
+    "status": "done",
+    "notes": "Contempt committal appeal; early-release statutory conflict with fixed release date is clear.",
+    "enrichment": {
+      "short_title": "Mitchell v Thompson: contempt sentence cannot override early release",
+      "area_of_law": [
+        "Contempt of court",
+        "Sentencing",
+        "Family law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": [
+            "section 33",
+            "section 45"
+          ]
+        },
+        {
+          "title": "Contempt of Court Act 1981",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Steven Mitchell breached a non-molestation order in favour of Emma Louise Thompson, the mother of his child.",
+        "Judge Butler committed him for 72 days for the breaches and activated a suspended 56-day sentence, totalling 128 days.",
+        "The committal order directed that Mitchell not be released until 16 September 2004, purporting to override half-term release.",
+        "The Attorney-General appeared as amicus curiae on the statutory jurisdiction point."
+      ],
+      "procedural_posture": "Urgent appeal with out-of-time permission against a county court committal order for contempt.",
+      "outcome": "Appeal allowed; the release-date wording was deleted so the order simply committed Mitchell for 128 days, and the amended July order was discharged.",
+      "ratio": "A judge committing a contemnor to prison for a fixed term cannot direct that he remain detained until a specified calendar date, because sections 33 and 45 of the Criminal Justice Act 1991 require release after half of a short sentence, including committals for contempt.",
+      "legal_issues": [
+        "Whether a contempt committal order may fix a release date beyond statutory half-term release",
+        "Whether sections 33 and 45 of the 1991 Act apply to committals for breach of non-molestation orders",
+        "Whether the judge had jurisdiction to amend the order after committal"
+      ],
+      "catchwords": [
+        "contempt of court",
+        "non-molestation order",
+        "early release",
+        "committal",
+        "fixed term",
+        "Criminal Justice Act 1991"
+      ],
+      "index_terms": [
+        "Steven Mitchell",
+        "Emma Louise Thompson",
+        "Nottingham Prison",
+        "128 days",
+        "purge contempt",
+        "Attorney-General"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Short, unanimous judgment with a precise remedial order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2297.json",
+    "status": "done",
+    "notes": "Drug banker sentencing and confiscation appeal; POCA/DAT statutory switch and Lunnon analysis are detailed.",
+    "enrichment": {
+      "short_title": "Lazarus: drug banker sentence upheld; confiscation under correct statute",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Confiscation",
+        "Drugs offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Proceeds of Crime Act 2002",
+          "provisions": []
+        },
+        {
+          "title": "Drug Trafficking Act 1994",
+          "provisions": [
+            "section 2(1)",
+            "section 4"
+          ]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 11(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Tony Lazarus pleaded guilty to being concerned in cocaine supply by storing about £13,880 for another dealer, plus possession counts after two arrests in 2003.",
+        "He was sentenced to four-and-a-quarter years' imprisonment and a £20,802.04 confiscation order under POCA 2002.",
+        "The charged supply period began on 1 December 2002, before POCA applied from 24 March 2003.",
+        "The judge assessed benefit at £51,345.12 using statutory assumptions over six years, despite the six-month admitted supply period."
+      ],
+      "procedural_posture": "Renewed application for leave to appeal against sentence and confiscation order in the Court of Appeal (Criminal Division).",
+      "outcome": "Leave refused on sentence; confiscation appeal allowed only to quash the POCA order and substitute an equivalent order under the Drug Trafficking Act 1994.",
+      "ratio": "A drug 'banker' who stores substantial trafficking proceeds may properly receive a lengthy sentence distinct from possession counts; confiscation may look beyond the indictment period using statutory assumptions unless there is a serious risk of injustice or an express Crown concession such as in Lunnon, and the applicable confiscation regime depends on offence dates.",
+      "legal_issues": [
+        "Whether four-and-a-quarter years was manifestly excessive for a storage role",
+        "Whether consecutive possession sentences were wrong in principle",
+        "Whether POCA 2002 applied to conduct spanning December 2002 to May 2003",
+        "Whether statutory assumptions over six years were unjust given the accepted basis of plea"
+      ],
+      "catchwords": [
+        "drug trafficking",
+        "confiscation",
+        "statutory assumptions",
+        "banker",
+        "Proceeds of Crime Act",
+        "basis of plea"
+      ],
+      "index_terms": [
+        "Tony Lazarus",
+        "Swindon Crown Court",
+        "R v Lunnon",
+        "six-year assumption",
+        "£13,880",
+        "Drug Trafficking Act 1994"
+      ],
+      "linked_authorities": [
+        "R v Lunnon [2004] EWCA Crim 1125",
+        "R v Benjafield [2002] 2 Cr App R (S) 71"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Disposal on sentence and substituted confiscation order are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2237.json",
+    "status": "done",
+    "notes": "Large-scale counterfeit perfume confiscation appeal; default term remitted for further submissions.",
+    "enrichment": {
+      "short_title": "Priestley: counterfeit perfume confiscation appeal largely dismissed",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation",
+        "Intellectual property",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "Part VI",
+            "section 71",
+            "section 72AA",
+            "section 73",
+            "section 73A"
+          ]
+        },
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": [
+            "section 92(1)(b)",
+            "section 106"
+          ]
+        },
+        {
+          "title": "Criminal Law Act 1977",
+          "provisions": [
+            "section 1(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Priestley pleaded guilty to conspiracies to distribute counterfeit perfume, Moet champagne and clothing between 1996 and 2000.",
+        "He received 18 months' imprisonment but a confiscation order of £2,290,907.52 with a 10-year default term.",
+        "Police and Trading Standards uncovered factory-scale counterfeit perfume production linked to Priestley.",
+        "He repeatedly failed to comply with orders to provide sworn financial information and gave no evidence at the confiscation hearing."
+      ],
+      "procedural_posture": "Appeal with leave against confiscation amount, default imprisonment period and prosecution costs order under the Criminal Justice Act 1988.",
+      "outcome": "Appeal allowed only as to the default imprisonment period, which was wrongly fixed at the perceived mandatory maximum; otherwise dismissed, with a reduced default term to be determined on written submissions.",
+      "ratio": "Under section 72AA the court may use statutory assumptions to assess benefit from relevant criminal conduct where a defendant offers no rebutting evidence; alleged double counting of sales proceeds and expenditure requires evidential proof, and overseas sales do not escape confiscation where conspiracies and distribution occurred within the jurisdiction.",
+      "legal_issues": [
+        "Whether the judge erred in valuing counterfeit perfume at £5 per bottle",
+        "Whether aggregating sales income with cash, bank lodgements and expenditure involved impermissible double accounting",
+        "Whether realisable assets were understated",
+        "Whether the 10-year default sentence was mandatory for the order amount"
+      ],
+      "catchwords": [
+        "confiscation",
+        "counterfeit goods",
+        "trade marks",
+        "statutory assumptions",
+        "double accounting",
+        "realisable assets"
+      ],
+      "index_terms": [
+        "perfume counterfeiting",
+        "Cheshire Services",
+        "section 72AA",
+        "Banco Santander",
+        "R v Szrajber",
+        "default term"
+      ],
+      "linked_authorities": [
+        "R v Szrajber (1994) 15 Cr App R 821"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Merits disposals are detailed though the final default term remained to be fixed after judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2281.json",
+    "status": "done",
+    "notes": "Interlocutory JR on prison detoxification; case management and partial costs order only.",
+    "enrichment": {
+      "short_title": "Clarke: adjourned detoxification JR to align with class action",
+      "area_of_law": [
+        "Prison law",
+        "Medical law",
+        "Administrative law",
+        "Judicial review",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Matthew Clarke challenged the lawfulness of prison detoxification treatment for remand prisoners with heroin addiction, particularly withdrawal of community-style methadone prescribing.",
+        "Parallel private negligence claims were proceeding as a Leeds County Court class action with a three-week trial listed for April 2005.",
+        "The claimant's personal urgency had abated because he was now under specialist community care from Dr Wright, who also supported the defendant's clinical approach.",
+        "The Secretary of State applied late to adjourn the judicial review so public and private issues could be heard together."
+      ],
+      "procedural_posture": "Substantive judicial review hearing adjourned for case-management coordination with related county court proceedings.",
+      "outcome": "Hearing adjourned while the judge sought to align the JR with the private class action before a nominated Administrative Court judge; defendant ordered to pay 50% of the claimant's costs thrown away for the aborted hearing.",
+      "ratio": "Where private negligence and public law challenges overlap on prison healthcare, it may be preferable for the same judge to determine both in consolidated or coordinated proceedings rather than proceed with an isolated judicial review, but arguable public law issues can still warrant retention in the Administrative Court.",
+      "legal_issues": [
+        "Whether the judicial review should be transferred to the County Court",
+        "How to manage overlapping public and private law claims on prison detoxification",
+        "Whether the Secretary of State should pay costs of a late adjournment application",
+        "Whether the claim remained urgent"
+      ],
+      "catchwords": [
+        "judicial review",
+        "prison healthcare",
+        "methadone detoxification",
+        "class action",
+        "case management",
+        "costs thrown away"
+      ],
+      "index_terms": [
+        "Matthew Clarke",
+        "Leeds County Court",
+        "HHJ Grenfell",
+        "Dr Wright",
+        "remand prisoners",
+        "consolidation"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Interlocutory case-management and costs outcomes are clear; substantive detoxification merits were not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1256.json",
+    "status": "done",
+    "notes": "Disability discrimination reasonable-adjustment appeal; section 6(4) detail point clearly resolved.",
+    "enrichment": {
+      "short_title": "EDS v Travis: reasonable adjustment training need not be itemised",
+      "area_of_law": [
+        "Employment law",
+        "Disability discrimination",
+        "Human resources"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Disability Discrimination Act 1995",
+          "provisions": [
+            "section 5(2)",
+            "section 6",
+            "section 6(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Travis, a software engineer with schizophrenia, returned after long sickness absence but his IT skills and security clearance were outdated.",
+        "EDS Defence placed him on non-revenue work and later made him redundant in a 'Breakaway' exercise targeting non-fee-earning staff.",
+        "The employment tribunal found EDS failed to take reasonable steps, including training, to prevent substantial disadvantage from the redundancy process.",
+        "The employer had not argued at tribunal that specified retraining would be impracticable or too time-consuming."
+      ],
+      "procedural_posture": "Employer's appeal to the Court of Appeal from an Employment Appeal Tribunal decision upholding disability discrimination and partial unfair-dismissal findings.",
+      "outcome": "Appeal dismissed; the tribunal was entitled to find a failure to provide reasonable training to update Dr Travis's IT skills.",
+      "ratio": "An employment tribunal need not specify every detail of required training under section 6 where the disability-related disadvantage and the obvious adjustment—here updating outdated IT skills—are clear and the employer has not raised contested section 6(4) factors such as cost or practicability at first instance.",
+      "legal_issues": [
+        "How much detail a tribunal must give when identifying reasonable adjustments under section 6",
+        "Whether the tribunal adequately applied section 6(4) factors",
+        "Whether training would have been futile given security-clearance constraints",
+        "Whether the employer had to prove no alternative employment existed"
+      ],
+      "catchwords": [
+        "Disability Discrimination Act",
+        "reasonable adjustments",
+        "section 6",
+        "training",
+        "redundancy",
+        "schizophrenia"
+      ],
+      "index_terms": [
+        "Electronic Data Systems",
+        "Breakaway restructuring",
+        "security clearance",
+        "Conoco Ltd v Booth",
+        "Archibald v Fife Council",
+        "Meek v Birmingham DC"
+      ],
+      "linked_authorities": [
+        "Archibald v Fife Council [2004] UKHL 32",
+        "Conoco Ltd v Booth (EAT, 30 January 2001)",
+        "Meek v Birmingham City Council [1987] IRLR 250"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Central section 6 reasoning and dismissal are clearly expressed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1170.json",
+    "status": "done",
+    "notes": "Community care JR for elderly resident; lengthy procedural critique and Article 8 proportionality analysis.",
+    "enrichment": {
+      "short_title": "Goldsmith v Wandsworth: quashed move from residential to nursing home",
+      "area_of_law": [
+        "Community care",
+        "Administrative law",
+        "Judicial review",
+        "Human rights",
+        "Healthcare"
+      ],
+      "statutes_considered": [
+        {
+          "title": "National Health Service and Community Care Act 1990",
+          "provisions": [
+            "section 46(3)",
+            "section 47"
+          ]
+        },
+        {
+          "title": "National Assistance Act 1948",
+          "provisions": [
+            "section 21",
+            "section 26"
+          ]
+        },
+        {
+          "title": "Care Standards Act 2000",
+          "provisions": []
+        },
+        {
+          "title": "Health and Social Care Act 2001",
+          "provisions": [
+            "section 49"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Goldsmith, aged 95, had lived contentedly at Mary Court residential home since 1996 under a consent order preserving her placement unless nursing care became necessary.",
+        "After a fall in May 2003 Wandsworth decided she needed level 2 nursing care and should not return to Mary Court.",
+        "The local continuing care panel recommended a nursing home without a contemporaneous community care assessment or written reasons, and Dr Cottee was asked to confirm rather than independently reassess.",
+        "An interim order allowed her return to Mary Court with privately funded 24-hour nursing care pending litigation."
+      ],
+      "procedural_posture": "Appeal from refusal of judicial review of Wandsworth's August and October 2003 decisions on post-hospital accommodation.",
+      "outcome": "Appeal allowed; decisions of 13 August and 6 October 2003 quashed and the local authority directed to reconsider with an open mind and transparent reasons.",
+      "ratio": "A local authority's section 21 duty requires a rounded, procedurally fair assessment of suitable accommodation; a clinician's level-2 banding is only one factor and cannot deterministically require removal from a long-standing home without considering partnership, context, alternative packages at the existing placement and Article 8 proportionality.",
+      "legal_issues": [
+        "Whether Wandsworth's continuing care panel process complied with local and statutory guidance",
+        "Whether Dr Cottee's opinion was treated as determinative of the placement decision",
+        "Whether the authority adequately involved the resident and her daughter",
+        "Whether the interference with Mrs Goldsmith's home life was a proportionate response"
+      ],
+      "catchwords": [
+        "community care",
+        "nursing home",
+        "residential care",
+        "judicial review",
+        "Article 8",
+        "continuing care panel"
+      ],
+      "index_terms": [
+        "Mary Court Battersea",
+        "Louisa Goldsmith",
+        "Servite Houses",
+        "Dr Cottee",
+        "level 2 medium",
+        "section 21 duty"
+      ],
+      "linked_authorities": [
+        "R v LB Islington ex p Rixon (1998) 1 CCLR 119",
+        "E v Secretary of State for the Home Department [2004] EWCA Civ 49"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Appellate quashing order and detailed procedural/public-law reasoning are comprehensive."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2004/2064.json",
+    "status": "needs_review",
+    "notes": "Source file contains only National Archives PDF-download metadata; no substantive judgment text available for enrichment.",
+    "enrichment": {
+      "short_title": "B v O: Family Division judgment unavailable in source",
+      "area_of_law": [
+        "Family law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The case is listed as B v O in the High Court Family Division with neutral citation [2004] EWHC 2064 (Fam).",
+        "The ingested source record contains only Find Case Law website boilerplate and a PDF download link dated 26 August 2004.",
+        "No parties, issues, reasoning or order text are present in the stored JSON full_text field."
+      ],
+      "procedural_posture": "High Court (Family Division) judgment referenced by citation only; substantive content not ingested.",
+      "outcome": "Unknown from available source material.",
+      "ratio": "Not ascertainable from the available source record.",
+      "legal_issues": [],
+      "catchwords": [
+        "B v O",
+        "Family Division",
+        "unavailable text"
+      ],
+      "index_terms": [
+        "EWHC 2064 Fam",
+        "PDF only",
+        "National Archives"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.2,
+        "level": "low",
+        "notes": "Enrichment is limited to bibliographic metadata because the judgment body was not captured in the source file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1181.json",
+    "status": "done",
+    "notes": "Family appeal on fresh evidence after adoption freeing; Ladd v Marshall adapted and cultural context considered.",
+    "enrichment": {
+      "short_title": "Re K: care appeal allowed to reopen perpetrator findings after freeing orders",
+      "area_of_law": [
+        "Family law",
+        "Child protection",
+        "Evidence",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 1",
+            "section 31",
+            "section 39"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Two sisters, A and M, were freed for adoption after care proceedings in which HH Judge Garner found serious non-accidental injuries to A but could not identify the perpetrator among mother, father and grandmother.",
+        "The Sikh mother later left the family home, retracted earlier evidence and accused her in-laws of shaking A, seeking to exclude herself as a possible perpetrator.",
+        "The local authority and guardian opposed reopening, citing delay, prospective adopters and the mother's belated and inconsistent accounts.",
+        "Permission to appeal was granted out of time and the Court of Appeal allowed the appeal despite the children not yet being placed for adoption."
+      ],
+      "procedural_posture": "Appeal with permission granted against freeing orders and fact-finding conclusions in split care proceedings.",
+      "outcome": "Appeal allowed; freeing orders set aside; interim care orders made; perpetrator issue remitted to first instance, preferably before HH Judge Garner.",
+      "ratio": "Fresh evidence in family proceedings may be admitted under a relaxed Ladd v Marshall approach where justice requires reopening an unsatisfactory perpetrator finding, especially where freeing orders rather than care orders would otherwise block review; cultural dependency and oppression may explain delayed disclosure.",
+      "legal_issues": [
+        "Whether new evidence could exclude the mother as a possible perpetrator",
+        "Whether freeing orders barred reopening the perpetrator issue",
+        "Whether delay and welfare of children in foster care precluded remittal",
+        "Whether the mother's fresh evidence should be admitted despite prior opportunities to disclose"
+      ],
+      "catchwords": [
+        "non-accidental injury",
+        "perpetrator",
+        "adoption freeing",
+        "fresh evidence",
+        "Ladd v Marshall",
+        "split hearing"
+      ],
+      "index_terms": [
+        "Kirklees MBC",
+        "shaken baby",
+        "conspiracy of silence",
+        "interim care order",
+        "North Yorkshire v SA",
+        "cultural context"
+      ],
+      "linked_authorities": [
+        "Ladd v Marshall [1954] 1 WLR 1489",
+        "North Yorkshire County Council v SA [2003] EWCA Civ 839",
+        "Re O and N; Re B [2003] UKHL 18"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed appellate reasoning and explicit remedial order at paragraph 3."
+      }
+    }
+  }
+]

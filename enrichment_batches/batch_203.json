@@ -1,0 +1,774 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1934.json",
+    "status": "done",
+    "notes": "Complete contempt-of-court appeal judgment; factual and sentencing findings clear from text.",
+    "enrichment": {
+      "short_title": "Contempt appeal after matrimonial injunction breach: conviction upheld, eight-month sentence reduced to six",
+      "area_of_law": [
+        "Family law",
+        "Contempt of court",
+        "Sentencing"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Paul Martin Ford appealed against conviction for contempt in breaching a family injunction and an eight-month sentence comprising two months for the index offence plus activation of a six-month suspended sentence.",
+        "Mrs Ford gave evidence that on 7 November 2003 Ford tailgated and harassed her in his car near Bournemouth; Ford denied the incident and relied on an alibi.",
+        "The judge found contempt proved to the criminal standard; the Court of Appeal upheld that finding but held the total eight-month sentence manifestly excessive."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Civil Division) against conviction and sentence for contempt of court following a family court committal hearing.",
+      "outcome": "Appeal dismissed against the finding of contempt; appeal allowed on sentence, reduced to six months with activation of the suspended sentence and no separate penalty for the further offence.",
+      "ratio": "Where a trial judge chooses between conflicting witness accounts after hearing evidence, his finding of contempt to the criminal standard is not readily disturbed on appeal; however, totality principles may require reduction of a consecutive sentence where the breach was not premeditated and caused no collision or injury, even in a long history of harassment.",
+      "legal_issues": [
+        "Whether the judge erred in finding contempt proved to the criminal standard",
+        "Whether the total sentence of eight months was manifestly excessive",
+        "Application of Hale v Tanner to domestic contempt sentences"
+      ],
+      "catchwords": [
+        "contempt of court",
+        "injunction breach",
+        "matrimonial harassment",
+        "suspended sentence activation",
+        "manifestly excessive sentence",
+        "credibility findings"
+      ],
+      "index_terms": [
+        "Ford v Ford",
+        "Paul Martin Ford",
+        "Hudson Close Poole",
+        "Hale v Tanner",
+        "Scott Baker LJ",
+        "Carnwath LJ"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hale v Tanner",
+          "citation": "[2000] EWCA Civ (20 July 2000)"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Short, self-contained judgment with clear outcome and reasoning; metadata lists no judges but text identifies Scott Baker and Carnwath LJJ."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1863.json",
+    "status": "done",
+    "notes": "Long Chancery appeal on undertakings and strike-out; enrichment from full text.",
+    "enrichment": {
+      "short_title": "Release from consent-order undertaking to commence probate challenge within deadline",
+      "area_of_law": [
+        "Probate and wills",
+        "Civil procedure",
+        "Contract and undertakings"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Pt 3.1(7)", "Pt 3.4(2)(b)", "Pt 3.9"]
+        }
+      ],
+      "key_facts": [
+        "Gabriel di Placito undertook in a May 2002 consent order not to commence proceedings challenging Angelo Di Placito's 1998 and 1999 wills after 5 June 2002 unless he had issued by that date.",
+        "Proceedings were issued on 11 June 2002 after solicitor delay, a missing expert report page, and refusal of a one-day extension.",
+        "The deputy master and deputy judge refused release from the undertaking and struck out the claim as an abuse of process; the Court of Appeal affirmed that special circumstances were required."
+      ],
+      "procedural_posture": "Second appeal to the Court of Appeal from a deputy High Court judge upholding strike-out for breach of a voluntary undertaking in probate proceedings.",
+      "outcome": "Appeal dismissed; claim struck out as abuse of process for failure to show special circumstances justifying release from the undertaking.",
+      "ratio": "Where a party seeks retrospective release from an express undertaking given as part of a consensual settlement not to commence proceedings after an agreed date, the court applies a special-circumstances test rather than CPR 3.9 relief-from-sanction criteria; solicitor incompetence and minimal prejudice to executors do not justify depriving the other party of the settlement bargain.",
+      "legal_issues": [
+        "Whether release from a consent-order undertaking requires special circumstances or good cause",
+        "Whether CPR 3.9 applies to undertakings in compromise agreements",
+        "Whether strike-out was disproportionate where no trial prejudice resulted from a short delay",
+        "Whether voluntary limitation of access to court engages Article 6 ECHR"
+      ],
+      "catchwords": [
+        "undertaking to the court",
+        "consent order",
+        "testamentary capacity",
+        "probate challenge",
+        "abuse of process",
+        "strike out",
+        "special circumstances",
+        "settlement of litigation"
+      ],
+      "index_terms": [
+        "Placito v Slater",
+        "Gabriel di Placito",
+        "Angelo Di Placito",
+        "Eronat v Tabbah",
+        "Miller v Scorey",
+        "Re Hudson",
+        "Peter Gibson LJ"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Eronat v Tabbah",
+          "citation": "[2002] EWCA Civ 950"
+        },
+        {
+          "name": "Miller v Scorey",
+          "citation": "[1996] 1 WLR 1122"
+        },
+        {
+          "name": "Re Hudson",
+          "citation": "[1966] Ch 209"
+        },
+        {
+          "name": "Asiansky Television plc v Bayer Rosin",
+          "citation": "[2001] EWCA Civ 1792"
+        },
+        {
+          "name": "Biguzzi v Rank Leisure plc",
+          "citation": "[1999] 1 WLR 1926"
+        },
+        {
+          "name": "Deweer v Belgium",
+          "citation": "(1980) 2 EHRR 239"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Very detailed judgment; judge metadata includes historical names not sitting on this appeal but core analysis is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1861.json",
+    "status": "done",
+    "notes": "Trade mark opposition appeal under s.3(4) TMA 1994 and EU wine labelling regulation; complete judgment.",
+    "enrichment": {
+      "short_title": "Wine trade mark registrability where device mark resembles geographical name Mezzocorona",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks",
+        "EU law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": ["s 3(4)"]
+        },
+        {
+          "title": "European Communities Act 1972",
+          "provisions": []
+        },
+        {
+          "title": "Council Regulation (EEC) No 2392/89",
+          "provisions": ["Arts 11", "12", "13", "40", "Recital 13"]
+        }
+      ],
+      "key_facts": [
+        "Cantine Mezzacorona applied to register a crown device mark incorporating MezzaCorona for wines from Trentino, Italy.",
+        "Torres opposed registration under s.3(4) TMA 1994, arguing use was prohibited by EU wine description and presentation rules.",
+        "The mark had been used since 1983 without consumer confusion; Neuberger J and the Court of Appeal held the Regulation permitted it as a brand name under Art 11(2)(c) if compliant with Art 40."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from Neuberger J's decision on a trade mark opposition hearing.",
+      "outcome": "Appeal dismissed; registration not prohibited because the mark is a permitted brand name and deception, not abstract identity with a geographical unit, is the governing test.",
+      "ratio": "Under Regulation 2392/89, a trade mark containing a geographical reference on wine labels is permitted as supplementary brand information under Art 11(2)(c) unless there is a real risk it will mislead consumers and alter their economic behaviour; strict trade mark identity tests apply to Art 40(2)(b) and failure to satisfy Art 11(2)(l) does not exclude other permitted label information categories.",
+      "legal_issues": [
+        "Whether s.3(4) TMA 1994 bars registration because Community wine rules prohibit use of the mark",
+        "Whether the mark is a brand name under Art 11(2)(c) or a prohibited geographical unit description under Art 11(2)(l)",
+        "Whether Art 40(1) 'incorrect' description extends beyond misleading use",
+        "Application of ECJ authorities Borie Manoux, Langguth and Sektkellerei"
+      ],
+      "catchwords": [
+        "trade mark opposition",
+        "quality wine psr",
+        "geographical name",
+        "brand name",
+        "wine labelling regulation",
+        "deception test",
+        "direct effect"
+      ],
+      "index_terms": [
+        "Miguel Torres",
+        "Cantine Mezzacorona",
+        "Mezzocorona",
+        "Globalstore",
+        "Borie Manoux v INPI",
+        "LTJ Diffusion v Sadas",
+        "Jacob LJ"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Borie Manoux v INPI",
+          "citation": "Case C-81/01 [2003] ETMR 29"
+        },
+        {
+          "name": "Langguth v Wacker",
+          "citation": "Case C-456/93 [1995] ECR I-1737"
+        },
+        {
+          "name": "Sektkellerei Kessler & Co v Bundesminister fur Ernahrung, Landwirtschaft und Forsten",
+          "citation": "Case C-303/97 [1999] ECR I-513"
+        },
+        {
+          "name": "LTJ Diffusion SA v Sadas Vertbaudet SA",
+          "citation": "Case C-291/00 [2003]"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed technical judgment with clear ratio on Regulation 2392/89 and ECJ alignment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1857.json",
+    "status": "done",
+    "notes": "Complex mental health/criminal procedure jurisdiction appeal; enrichment from full text though judge metadata noisy.",
+    "enrichment": {
+      "short_title": "No civil appeal jurisdiction over judicial review of defective insanity Act hospital admission order",
+      "area_of_law": [
+        "Mental health law",
+        "Criminal procedure",
+        "Appellate jurisdiction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Procedure (Insanity) Act 1964",
+          "provisions": ["s 4", "s 4A", "s 5(2)(a)", "s 5(3)", "Sch 1"]
+        },
+        {
+          "title": "Criminal Procedure (Insanity and Unfitness to Plead) Act 1991",
+          "provisions": ["Sch 1"]
+        },
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": ["s 3", "s 37", "s 41"]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["s 18(1)(a)", "s 29(3)"]
+        },
+        {
+          "title": "Crime (Sentences) Act 1997",
+          "provisions": ["s 47"]
+        }
+      ],
+      "key_facts": [
+        "Mr A was found unfit to plead and that he did the act charged in a murder prosecution; Goldring J purported to specify Newton Lodge as the hospital and made orders later treated as under ss 37/41 MHA 1983 rather than s 5(2)(a) 1964 Act.",
+        "The error was discovered over a year later; Newman J quashed the Crown Court order on NHS trust judicial review and remitted for a lawful s 5 admission order.",
+        "Mr A appealed to the Court of Appeal Civil Division; the court held it had no jurisdiction because the underlying matter was a criminal cause or matter."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal Civil Division against a Divisional Court judgment quashing a Crown Court hospital admission order and remitting under the 1964 Act insanity procedure.",
+      "outcome": "Appeal held incompetent for want of jurisdiction; Court of Appeal has no jurisdiction under s 18(1)(a) Supreme Court Act 1981 over High Court judgments in criminal causes or matters.",
+      "ratio": "Orders made under the insanity/unfitness procedure following an indictment for murder remain part of the overall criminal proceeding initiated by the charge, not collateral protective proceedings; accordingly judicial review of such orders and any appeal therefrom are in a criminal cause or matter excluded from the Civil Division's jurisdiction.",
+      "legal_issues": [
+        "Whether post-unfitness s 5 disposal proceedings are a criminal cause or matter under s 18(1)(a) SCA 1981",
+        "Whether the s 4A procedure determines a criminal charge within Article 6",
+        "Correct form of admission order under s 5(2)(a) and Schedule 1 to the 1991 Act",
+        "Whether Newman J had jurisdiction under s 29(3) SCA 1981"
+      ],
+      "catchwords": [
+        "unfitness to plead",
+        "section 4A",
+        "hospital admission order",
+        "criminal cause or matter",
+        "judicial review",
+        "Crown Court jurisdiction",
+        "restriction order"
+      ],
+      "index_terms": [
+        "South West Yorkshire Mental Health NHS Trust",
+        "Goldring J",
+        "Newman J",
+        "R v H",
+        "Amand v Home Secretary",
+        "R v Terry James F",
+        "Pill LJ"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v H",
+          "citation": "[2003] 1 WLR 411"
+        },
+        {
+          "name": "Amand v Home Secretary and Minister of Defence of Royal Netherlands Government",
+          "citation": "[1943] AC 148"
+        },
+        {
+          "name": "Government of the United States of America v Montgomery",
+          "citation": "[2001] 1 WLR 196"
+        },
+        {
+          "name": "R v Terry James F",
+          "citation": "[2003] EWCA Crim 1625"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Long judgment with extensive authority review; metadata judge list includes many non-sitting names but jurisdictional conclusion is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1820.json",
+    "status": "done",
+    "notes": "Large 1975 Act judgment; enrichment from full text via structured extraction.",
+    "enrichment": {
+      "short_title": "Adult child denied greater share of estate after judge withdrew draft provision order",
+      "area_of_law": [
+        "Probate and wills",
+        "Family provision",
+        "Trusts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Inheritance (Provision for Family and Dependants) Act 1975",
+          "provisions": ["s 1(1)(c)", "s 3(1)"]
+        }
+      ],
+      "key_facts": [
+        "Venetia Robinson claimed reasonable financial provision under the 1975 Act as adult daughter of Elizabeth Scott-Kilvert, whose will divided residue equally with grandson Duncan.",
+        "The claimant had already received about £205,306 from Orchard House sale proceeds authorised by the Court of Protection as an advance on her entitlement.",
+        "Blackburne J initially drafted judgment finding insufficient provision but, before sealing, revised his decision and held the equal split was reasonable; the Court of Appeal dismissed her appeal."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from a High Court decision on an Inheritance Act 1975 claim by an adult child, including challenge to the judge's withdrawal of a draft judgment.",
+      "outcome": "Appeal dismissed; the will's equal division between claimant and grandson made reasonable financial provision and the judge was entitled to recall his unsealed draft order.",
+      "ratio": "On an adult child's claim under the 1975 Act the court asks objectively whether the disposition is unreasonable for maintenance, not whether greater provision might have been reasonable; a judge may recall an unsealed order and revise reasons before hand-down, and appellate interference requires legal error or a plainly wrong balancing of s 3 factors rather than mere disagreement with weight given to the deceased's wishes.",
+      "legal_issues": [
+        "Whether Blackburne J was entitled to withdraw a draft judgment before sealing",
+        "Whether equal residue division failed to make reasonable financial provision for the claimant",
+        "Weight to be given to lifetime gifts and Court of Protection advances",
+        "Application of Re Coventry and Re Dennis on maintenance standard"
+      ],
+      "catchwords": [
+        "Inheritance Act 1975",
+        "adult child",
+        "reasonable financial provision",
+        "maintenance",
+        "draft judgment",
+        "recall of order",
+        "Court of Protection advance"
+      ],
+      "index_terms": [
+        "Robinson v Fernsby",
+        "Venetia Robinson",
+        "Elizabeth Scott-Kilvert",
+        "Duncan Scott-Kilvert",
+        "Orchard House Milden",
+        "Re Coventry deceased",
+        "Blackburne J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re Coventry (deceased)",
+          "citation": "[1984] Ch 461"
+        },
+        {
+          "name": "Re Dennis (deceased)",
+          "citation": "[1981] 2 All ER 140"
+        },
+        {
+          "name": "Millensted v Grosvenor House (Park Lane) Ltd",
+          "citation": "[1937] 1 KB 717"
+        },
+        {
+          "name": "Pittalis v Sherefettin",
+          "citation": "[1986] QB 869"
+        },
+        {
+          "name": "Re Hancock (deceased)",
+          "citation": "[1998] 2 FLR 346"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Very long judgment but outcome and 1975 Act principles are clearly stated; some factual detail on medical and expenditure history not fully captured."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1892.json",
+    "status": "done",
+    "notes": "Practice judgment dismissing nine meritless asylum-related appeals; full text available.",
+    "enrichment": {
+      "short_title": "Nine Nepalese asylum judicial review permission appeals struck out as abuse of process",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": ["s 101(3)"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Pt 52.11(3)", "Pt 3.3(4)", "Pt 23.11"]
+        }
+      ],
+      "key_facts": [
+        "Nine Nepalese asylum seekers sought permission to appeal against Administrative Court refusals of permission to judicially review IAT refusals or adjudicator decisions.",
+        "In each case adjudicators had disbelieved credibility; grounds and skeleton arguments were boilerplate and applicants did not attend hearings.",
+        "Brooke LJ held the applications were an abuse of process because judicial review is not a further factual appeal on credibility."
+      ],
+      "procedural_posture": "Permission to appeal applications in the Court of Appeal concerning refused permission for judicial review in asylum cases.",
+      "outcome": "All nine applications dismissed; judgment gives guidance on striking out meritless immigration judicial review and appeal cases at an early stage.",
+      "ratio": "Where an adjudicator has rejected an asylum claim on credibility and the IAT refuses permission to appeal, further judicial review and Court of Appeal challenges require identifiable errors of law; generic grounds and reliance on country conditions cannot substitute for a challenge to the fact-finder, and courts should use CPR 3.3 to strike out clear abuses promptly.",
+      "legal_issues": [
+        "Whether permission to appeal against refusal of permission for judicial review was arguable",
+        "Scope of judicial review where credibility has been rejected",
+        "Use of CPR 3.3 strike-out procedure in immigration cases",
+        "Reinstatement after non-attendance at permission hearings"
+      ],
+      "catchwords": [
+        "asylum appeal",
+        "judicial review",
+        "credibility findings",
+        "abuse of process",
+        "strike out",
+        "Nepal",
+        "Immigration Appeal Tribunal",
+        "permission to appeal"
+      ],
+      "index_terms": [
+        "Nine Nepalese asylum seekers",
+        "Brooke LJ",
+        "R (Idubo) v Home Secretary",
+        "Citizens Advice Bureau",
+        "Maoist party Nepal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (Idubo) v Home Secretary",
+          "citation": "[2003] EWCA Civ 1203"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Practice direction judgment with clear general principles; individual case facts summarised collectively rather than in full detail."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1886.json",
+    "status": "done",
+    "notes": "Lloyd's Names insolvency/statutory demand appeal; complete judgment including post-Cooke appeal disposition.",
+    "enrichment": {
+      "short_title": "Lloyd's Names statutory demands set aside partly after misrepresentation counterclaim window analysis",
+      "area_of_law": [
+        "Insolvency",
+        "Professional negligence",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": ["s 267(2)(c)", "s 268(1)"]
+        },
+        {
+          "title": "Insolvency Rules 1986",
+          "provisions": ["rr 6.4", "6.5(4)(a)", "6.5(6)"]
+        },
+        {
+          "title": "Lloyd's Act 1982",
+          "provisions": ["s 14(3)"]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": ["s 14A", "s 14B", "s 35(5)"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["s 3(1)"]
+        }
+      ],
+      "key_facts": [
+        "Seven Lloyd's Names applied to set aside statutory demands based on judgment debts, relying on misrepresentation counterclaims pending appeal from Cooke J's refusal to allow late amendments.",
+        "Laddie J set aside the demands; the Court of Appeal heard this appeal together with permission/appeal on Cooke J's order.",
+        "Category 1 Names (claims after July 1982 immunity) had no realistic counterclaim; Category 2 Scheduled Names within the 1981-1982 window were remitted to Cooke J for particularised quantum."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from Laddie J's order setting aside statutory demands, heard concurrently with appeal from Cooke J on amendment of Lloyd's misrepresentation claims.",
+      "outcome": "Appeal allowed in part: demands restored against Category 1 Names subject to stay pending possible House of Lords petition; Category 2 Names remitted to Cooke J to particularise counterclaims equalling or exceeding demand amounts.",
+      "ratio": "A bankruptcy judge may set aside a statutory demand for a genuine triable counterclaim even where a High Court judge rejected the claim, but should normally refuse where a first-instance judge found no real prospect of success unless confident the Court of Appeal will differ; for Lloyd's Names, s 14(3) immunity and the 1981-1982 limitation window determine whether counterclaims can equal judgment debts.",
+      "legal_issues": [
+        "Test for setting aside statutory demands under Insolvency Rules 6.5(4)(a)",
+        "Whether pending appeal from summary refusal of counterclaim satisfies genuine triable issue",
+        "Whether s 14(3) Lloyd's Act 1982 can be read down under HRA 1998 s 3",
+        "Whether Category 2 brochure claims can exceed Equitas premium judgment debts"
+      ],
+      "catchwords": [
+        "statutory demand",
+        "bankruptcy",
+        "counterclaim",
+        "Lloyd's Names",
+        "misrepresentation",
+        "genuine triable issue",
+        "Limitation Act s 14B",
+        "read down"
+      ],
+      "index_terms": [
+        "Society of Lloyd's v Bowman",
+        "Society of Lloyd's v Laws",
+        "Laddie J",
+        "Cooke J",
+        "Visortuning",
+        "Equitas premium",
+        "Tanfern v Cameron MacDonald"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Society of Lloyd's v Laws & others",
+          "citation": "[2003] EWHC 873 (Comm)"
+        },
+        {
+          "name": "Tanfern Ltd v Cameron MacDonald",
+          "citation": "[2000] 1 WLR 1311"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Complex multi-respondent appeal but dispositive reasoning for each category is explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3173.json",
+    "status": "done",
+    "notes": "Chancery trial on Thurloe Square estate management scheme and garden charges; six live issues resolved.",
+    "enrichment": {
+      "short_title": "Thurloe Square garden estate management scheme and garden rate lawfulness",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Leasehold enfranchisement",
+        "Property management",
+        "Service charges"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Leasehold Reform, Housing and Urban Development Act 1993",
+          "provisions": ["s 69", "s 70"]
+        },
+        {
+          "title": "Landlord and Tenant Act 1985",
+          "provisions": ["s 18(1)", "s 20C(3)", "s 30", "s 38"]
+        }
+      ],
+      "key_facts": [
+        "Residents of Thurloe Square challenged management of the communal garden after the Anstruther family transferred the garden freehold and leased it to Toby Anstruther's company Visortuning Ltd.",
+        "An estate management scheme approved in 1998 retained landlord management powers over enfranchised properties and governed garden contributions.",
+        "Collins J held transfer of the garden freehold did not require executive committee approval under clause 5.2 EMS, the lease of powers to Visortuning was conceded void, and litigation legal costs were not recoverable garden expenses."
+      ],
+      "procedural_posture": "High Court Chancery trial on disputed construction and administration issues under an approved estate management scheme and garden agreements.",
+      "outcome": "Claimants largely unsuccessful on transfer validity and capital rate issues; defendants may not recover dispute litigation costs through garden charges; broad credit declaration refused; costs reserved.",
+      "ratio": "Section 69(4) LRHUDA 1993 preserves EMS operation despite disposition of part of the estate unless the scheme expressly disapplies that rule; clause 5.2 permits transfer of management powers to another body with approval but does not restrict freehold dispositions, and garden rate provisions naturally cover maintenance not parties' litigation costs.",
+      "legal_issues": [
+        "Whether transfer of garden freehold without executive committee or LVT approval was valid under the EMS",
+        "Whether lease to Visortuning validly transferred EMS powers",
+        "Whether landlord must pay capital rate under clause 2.2 EMS",
+        "Whether defendants could charge residents for legal costs of the dispute",
+        "Whether all garden income must be credited against maintenance contributions"
+      ],
+      "catchwords": [
+        "estate management scheme",
+        "leasehold enfranchisement",
+        "communal garden",
+        "garden rate",
+        "service charge",
+        "Thurloe Square",
+        "freehold transfer",
+        "Garden Agreement"
+      ],
+      "index_terms": [
+        "Malone v Bircham",
+        "Thurloe Square Garden Association",
+        "Visortuning Ltd",
+        "Toby Anstruther",
+        "Sir Ian Anstruther",
+        "Lawrence Collins J",
+        "Sella House Ltd v Mears"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Sella House Ltd v Mears",
+          "citation": "[1989] 1 EGLR 65"
+        },
+        {
+          "name": "Ashbury Railway Carriage and Iron Co v Riche",
+          "citation": "(1875) LR 7 HL App 653"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed trial judgment resolving six agreed issues; costs issue expressly reserved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3120.json",
+    "status": "done",
+    "notes": "Administrative Court judgment on special advocate procedure in mandatory life parole review; open judgment only.",
+    "enrichment": {
+      "short_title": "Special advocate procedure upheld in mandatory life prisoner's Parole Board review",
+      "area_of_law": [
+        "Public law",
+        "Prison law",
+        "Human rights",
+        "Criminal justice"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": ["s 32(3)", "s 32(5)"]
+        },
+        {
+          "title": "Parole Board Rules 1997",
+          "provisions": ["r 5(2)", "r 5(3)", "r 13(3)"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Art 5(4)", "Art 14"]
+        }
+      ],
+      "key_facts": [
+        "Harry Roberts, convicted of murdering three police officers in 1966, sought release after tariff expiry; sensitive 'Flag C' material about alleged drug dealing in open prison was withheld from him and his solicitors.",
+        "Sir Richard Tucker directed use of a specially appointed advocate; Roberts challenged this by judicial review after an earlier consent order on disclosure procedure.",
+        "Maurice Kay J dismissed the claim, holding no Article 14 discrimination against mandatory life prisoners and that SAA use was fair and proportionate in exceptional circumstances."
+      ],
+      "procedural_posture": "Judicial review of Parole Board directions on non-disclosure and appointment of a specially appointed advocate in a mandatory life prisoner's parole review.",
+      "outcome": "Claim for judicial review dismissed; special advocate procedure approved subject to liberty to apply if SAA later identifies legal flaw; permission to appeal refused.",
+      "ratio": "The Parole Board has inherent power in exceptional cases to appoint a special advocate where disclosure to the prisoner or his representatives would create a real risk to a source's safety; mandatory and discretionary life prisoners are not discriminatorily treated because the Board could adopt the same procedure for both, and fairness requires balancing public, prisoner and source interests with intense proportionality review.",
+      "legal_issues": [
+        "Whether use of a special advocate breaches Article 14 read with Article 5(4)",
+        "Whether Rule 5 Parole Board Rules 1997 exhausts disclosure options for discretionary lifers",
+        "Whether risk of inadvertent disclosure justified withholding material from long-standing solicitors",
+        "Whether Secretary of State pre-empted the Board by undertaking to the source"
+      ],
+      "catchwords": [
+        "Parole Board",
+        "mandatory life sentence",
+        "special advocate",
+        "non-disclosure",
+        "closed material",
+        "Article 5(4)",
+        "Article 14",
+        "dangerousness review"
+      ],
+      "index_terms": [
+        "Roberts v Parole Board",
+        "Harry Roberts",
+        "Flag C material",
+        "Sir Richard Tucker",
+        "HMP Sudbury",
+        "Stafford v United Kingdom",
+        "Maurice Kay J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Stafford v United Kingdom",
+          "citation": "[2002] 35 EHRR 1121"
+        },
+        {
+          "name": "R (Daly) v Secretary of State for the Home Department",
+          "citation": "[2001] UKHL 26"
+        },
+        {
+          "name": "Chahal v United Kingdom",
+          "citation": "(1996) 23 EHRR 413"
+        },
+        {
+          "name": "Edwards and Lewis v United Kingdom",
+          "citation": "(22 July 2003)"
+        },
+        {
+          "name": "H & C",
+          "citation": "[2003] EWCA Crim 2847"
+        }
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Open judgment only; closed material reasoning in separate restricted judgment not available in source file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1955.json",
+    "status": "done",
+    "notes": "Major fairness/retrial appeal in IT contract dispute; complete Court of Appeal judgment.",
+    "enrichment": {
+      "short_title": "CWS v ICL IT integration contract trial unfairness requires retrial",
+      "area_of_law": [
+        "Contract law",
+        "Information technology",
+        "Civil procedure",
+        "Misrepresentation"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Co-operative Wholesale Society claimed about £11m against ICL for repudiatory breach and misrepresentation over a Globalstore project to integrate CRS and CWS retail IT after their 2000 merger.",
+        "After a 20-day trial Judge Seymour QC found no separate CWS contract, no repudiation, and overstated damages; he also made adverse findings that CWS senior managers acted in bad faith to trap ICL.",
+        "The Court of Appeal held the trial was unfair because those bad-faith findings were not pleaded or put to witnesses and tainted the whole judgment, ordering a retrial without expressing a view on the merits."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from a Technology and Construction Court trial judgment on contract formation, repudiation, misrepresentation and damages.",
+      "outcome": "Appeal allowed; retrial ordered; costs reserved to trial judge; permission to appeal to House of Lords refused.",
+      "ratio": "A trial judge who develops an unpleaded 'conspiracy theory' of bad faith against a party, without warning or putting it to witnesses, loses the appearance of objective adjudication and denies a fair trial; such findings taint related conclusions on contract, repudiation and credibility even where individual factual findings might otherwise stand.",
+      "legal_issues": [
+        "Whether the trial was unfair because of unpleaded bad-faith findings against CWS management",
+        "Whether a contract arose from conduct for the Globalstore project or work continued under the CRS agreement",
+        "Whether ICL repudiated by failing to deliver software by January 2001",
+        "Whether misrepresentation induced any contract"
+      ],
+      "catchwords": [
+        "IT contract",
+        "Globalstore",
+        "repudiatory breach",
+        "trial fairness",
+        "bias appearance",
+        "natural justice",
+        "contract formation",
+        "retrial"
+      ],
+      "index_terms": [
+        "Co-Operative Group v International Computers Ltd",
+        "CWS",
+        "ICL",
+        "CRS agreement",
+        "Judge Seymour QC",
+        "Gibson v Manchester City Council",
+        "Pagnan SpA v Feed Products Ltd",
+        "Tuckey LJ"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Inner West London Coroner ex p Dallaglio",
+          "citation": "[1994] 4 All ER 139"
+        },
+        {
+          "name": "Cairnstores Ltd v Hassle",
+          "citation": "[2002] EWCA Civ 1504"
+        },
+        {
+          "name": "Locabail (UK) Ltd v Bayfield Properties Ltd",
+          "citation": "[2000] QB 451"
+        },
+        {
+          "name": "Charles Rickards Ltd v Oppenheim",
+          "citation": "[1950] 1 KB 616"
+        },
+        {
+          "name": "G Percy Trentham Ltd v Archital Luxfer Ltd",
+          "citation": "[1993] 1 Lloyd's Rep 25"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long appellate judgment with explicit retrial order and detailed fairness analysis; underlying IT factual disputes not finally decided."
+      }
+    }
+  }
+]

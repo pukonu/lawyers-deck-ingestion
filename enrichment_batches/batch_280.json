@@ -1,0 +1,723 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1157.json",
+    "status": "done",
+    "notes": "Copyright dispute over Stones In His Pockets is lengthy but the joint-authorship, draft-script and Dubbeljoint claims resolve clearly.",
+    "enrichment": {
+      "short_title": "Stones In His Pockets copyright: joint authorship rejected",
+      "area_of_law": [
+        "Intellectual property",
+        "Copyright law",
+        "Theatre and performing arts",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Copyright, Designs and Patents Act 1988",
+          "provisions": [
+            "section 1",
+            "section 9",
+            "section 10",
+            "section 15",
+            "section 21",
+            "section 29",
+            "section 38",
+            "section 43",
+            "section 104"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dubbeljoint commissioned Marie Jones to write Stones In His Pockets; Pamela Brighton directed the 1996 production.",
+        "Brighton sent Jones a manuscript draft opening script in May 1996; Jones rewrote the play in 1999.",
+        "Brighton claimed joint authorship of the 1996 script and copyright infringement in the 1999 version via the draft opening script.",
+        "Dubbeljoint claimed unpaid revenue shares under clause 16 and missing production credits under clause 15 of Jones's writer's contract."
+      ],
+      "procedural_posture": "High Court Chancery trial of copyright and contractual claims relating to theatrical authorship and exploitation of Stones In His Pockets.",
+      "outcome": "Brighton's joint authorship claim failed; past exploitation of the 1999 script was authorised, but Brighton must consent to future exploitation; Jones remains sole owner of the 1999 copyright; Dubbeljoint awarded only nominal damages for missing credits but may seek an inquiry on clause 16 payments.",
+      "ratio": "Rehearsal contributions did not make Brighton a joint author under section 10 CDPA 1988; supplying the draft opening script impliedly authorised Jones to use that copyright until revocation on 7 November 2000, so earlier 1999 exploitation was not infringing though future contracts require Brighton's consent.",
+      "legal_issues": [
+        "Whether rehearsal collaboration created a work of joint authorship",
+        "Whether the 1999 script infringed copyright in Brighton's draft opening script",
+        "Whether implied licence covered creation and early exploitation of the 1999 version",
+        "Whether Dubbeljoint was entitled to damages for missing programme credits or unpaid revenue shares"
+      ],
+      "catchwords": [
+        "dramatic copyright",
+        "joint authorship",
+        "implied licence",
+        "theatre commission",
+        "Stones In His Pockets",
+        "writer's contract"
+      ],
+      "index_terms": [
+        "Dubbeljoint Theatre Company",
+        "Marie Jones",
+        "Pamela Brighton",
+        "Northern Ireland theatre",
+        "CDPA 1988",
+        "altered copying",
+        "programme credit"
+      ],
+      "linked_authorities": [
+        "Designers Guild Ltd v Russell Williams (Textiles) Ltd [2000] 1 WLR 2416",
+        "Joseph v National Magazine Co Ltd [1959] Ch 14",
+        "Ravenscroft v Herbert [1980] RPC 193"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Outcome and legal analysis are explicit in Park J's conclusions; judge name taken from TNA metadata as the source JSON omits judges."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1155.json",
+    "status": "done",
+    "notes": "Admitted solicitor negligence on defective title; judgment focuses on causation and measure of damages with detailed fact-finding.",
+    "enrichment": {
+      "short_title": "Conveyancing negligence damages for defective hotel title",
+      "area_of_law": [
+        "Professional negligence",
+        "Conveyancing",
+        "Damages",
+        "Property law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Greymalkin bought the Garden House Hotel from William Stern via Copleys in June 1993 for £240,000.",
+        "Three prior charges on the property were not overreached because the sale was by receivers rather than the mortgagee in possession.",
+        "Copleys admitted negligence in failing to identify the outstanding charges before completion.",
+        "Greymalkin pursued a speculative extrication claim after title was perfected in 1996 and sold the property for £129,000 in March 2000."
+      ],
+      "procedural_posture": "High Court Chancery assessment of damages after liability admitted in professional negligence proceedings concerning a defective commercial property purchase.",
+      "outcome": "Damages assessed at £45,000 on a diminution in value basis (£130,000 with good title minus £85,000 with the defect); wasted expenditure and extrication claims rejected.",
+      "ratio": "Where a solicitor negligently fails to report defective title, prima facie damages are the diminution in value at completion; a claimant who retains the property after the defect is cured cannot recover maintenance or speculative extrication costs, and borrowing costs are not recoverable without proof of resultant loss.",
+      "legal_issues": [
+        "Whether Greymalkin would have completed but for the negligence",
+        "Whether damages should be assessed on diminution in value or wasted expenditure/extrication",
+        "Whether delay in disclosure and reliance on the Stern claim affected causation",
+        "How to value the property given Mr Quayle's unavailable evidence"
+      ],
+      "catchwords": [
+        "solicitor negligence",
+        "defective title",
+        "diminution in value",
+        "overreaching",
+        "cost of extrication",
+        "conveyancing"
+      ],
+      "index_terms": [
+        "Garden House Hotel Hunstanton",
+        "Greymalkin Ltd",
+        "Copleys solicitors",
+        "receiver's sale",
+        "South Australia Asset Management v York Montague",
+        "Gregory v Shepherds"
+      ],
+      "linked_authorities": [
+        "South Australia Asset Management Corp v York Montague Ltd [1997] AC 191",
+        "County Personnel (Employment Agency) Ltd v Alan R Pulver & Co [1987] 1 WLR 916",
+        "Gregory v Shepherds [1996] PNLR 769",
+        "Dent v Davis Blank Furniss [2001] Lloyd's Rep PN 534",
+        "Galoo v Bright Grahame Murray [1994] 1 WLR 1362"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Liability was admitted and the £45,000 award is clearly stated; extensive damages law discussion supports enrichment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1314.json",
+    "status": "done",
+    "notes": "Planning challenge to quarry extension refusal; four grounds considered with Rule 17(5) breach held technical only.",
+    "enrichment": {
+      "short_title": "Crime Rigg quarry appeal refused after revised aggregates guidelines",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Judicial review",
+        "Minerals and aggregates"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288",
+            "section 54A"
+          ]
+        },
+        {
+          "title": "Town and Country Planning (Inquiries Procedure) (England) Rules 2000",
+          "provisions": [
+            "Rule 17(5)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Sherburn Sand sought to extend Crime Rigg Sand Quarry by removing a rock pillar and diverting a bridleway.",
+        "Durham County Council refused planning permission; an inspector recommended grant but the Secretary of State refused in December 2003.",
+        "Post-inquiry revised National and Regional Guidelines reduced predicted North East sand and gravel demand from 23 to 20 million tonnes.",
+        "The Regional Aggregates Working Party concluded existing permitted reserves could meet County Durham's share to 2016."
+      ],
+      "procedural_posture": "Section 288 challenge to the Secretary of State's decision refusing planning permission and a bridleway diversion after a public inquiry.",
+      "outcome": "Application dismissed; grounds on need, sterilisation, harm and Rule 17(5) failed; any Rule 17 breach was technical and caused no substantial prejudice.",
+      "ratio": "The Secretary of State was entitled to treat revised 2003 aggregates guidelines as materially reducing need for the extension and to reject the inspector's view that releasing sterilised sand would be a worthwhile landbank addition where county supply to 2016 could be met from existing permissions.",
+      "legal_issues": [
+        "Whether the Secretary of State adequately addressed continuing concreting sand need after revised guidelines",
+        "Whether avoidance of unnecessary mineral sterilisation was ignored as a plan objective",
+        "Whether harm from development plan conflict was adequately explained",
+        "Whether Rule 17(5) required notification before disagreeing with the inspector"
+      ],
+      "catchwords": [
+        "minerals local plan",
+        "aggregates guidelines",
+        "quarry extension",
+        "sterilisation of minerals",
+        "Rule 17(5)",
+        "section 288"
+      ],
+      "index_terms": [
+        "Crime Rigg Sand Quarry",
+        "Magnesian Limestone Escarpment",
+        "County Durham Minerals Local Plan",
+        "MPG6",
+        "concreting sand landbank",
+        "Regional Aggregates Working Party"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "All four grounds and overall dismissal are clearly reasoned; costs discussion is peripheral to enrichment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/1231.json",
+    "status": "done",
+    "notes": "Detailed accessory liability analysis on aiding and abetting murder; appeal dismissed on all grounds.",
+    "enrichment": {
+      "short_title": "Accessory murder appeal: intent to assist required",
+      "area_of_law": [
+        "Criminal law",
+        "Accessory liability",
+        "Murder",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Accessory and Abettors Act 1861",
+          "provisions": [
+            "section 8"
+          ]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 23"
+          ]
+        },
+        {
+          "title": "Crime (Sentences) Act 1997",
+          "provisions": [
+            "section 28"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Craig Bryce was convicted by a 10-2 majority of aiding and abetting X to murder Patrick Moore in Peterborough in October 2001.",
+        "The prosecution case was that Bryce transported X with a concealed shotgun to a caravan near Moore's home so X could carry out a killing ordered by drug dealer George Black.",
+        "X shot Moore about 13 hours after Bryce left him at the caravan; Bryce later helped dispose of the weapon.",
+        "Bryce did not give evidence and argued his caravan plan was intended to hinder rather than assist the murder."
+      ],
+      "procedural_posture": "Crown Court murder trial at Nottingham followed by Court of Appeal (Criminal Division) appeal against conviction by leave on all grounds.",
+      "outcome": "Appeal dismissed; conviction safe despite absence of an express direction on intent to assist, given the evidence and written directions.",
+      "ratio": "For pre-offence assistance by an absent secondary party, the prosecution must prove deliberate acts that in fact assisted the offence, knowledge that the acts were capable of assisting, foresight of the real possibility the principal would murder, and intention to assist rather than hinder; the principal's final intent need not be formed when assistance is given if causation continues.",
+      "legal_issues": [
+        "Whether assistance remained causally connected after a 13-hour delay",
+        "Whether X's unformed intent at the time of Bryce's acts defeated liability",
+        "Whether the jury needed a specific direction on intent to assist",
+        "Whether new evidence from X on appeal rendered the conviction unsafe"
+      ],
+      "catchwords": [
+        "aiding and abetting",
+        "secondary party",
+        "mens rea",
+        "joint enterprise",
+        "causation",
+        "contract killing"
+      ],
+      "index_terms": [
+        "R v Rook",
+        "R v Powell and English",
+        "Lynch v DPP for Northern Ireland",
+        "intent to assist",
+        "safe house",
+        "shotgun murder"
+      ],
+      "linked_authorities": [
+        "R v Rook [1997] Cr App R 327",
+        "R v Powell and English [1999] 1 AC 1",
+        "Lynch v DPP for Northern Ireland [1975] AC 653",
+        "DPP for Northern Ireland v Maxwell [1978] 1 WLR 1350",
+        "Attorney General's Reference (No. 1 of 1975) [1975] QB 773"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Court of Appeal restates accessory law comprehensively and dismisses the appeal on each ground."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/613.json",
+    "status": "done",
+    "notes": "Libel interlocutory appeal on justification pleading and CFA costs; partial success on pleading, costs capping guidance given.",
+    "enrichment": {
+      "short_title": "Telegraph libel: Chase meanings and CFA costs capping guidance",
+      "area_of_law": [
+        "Defamation",
+        "Media law",
+        "Civil procedure",
+        "Costs",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 3.1",
+            "CPR 3.2",
+            "CPR 3.4",
+            "CPR 24.6",
+            "CPR 32.4",
+            "CPR 44.3",
+            "CPR 52.11",
+            "CPR Part 53"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3"
+          ]
+        },
+        {
+          "title": "Terrorism Act 2000",
+          "provisions": []
+        },
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 65"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Louis Szondy (Adam Musa King) sued the Sunday Telegraph over articles linking him to al-Qaeda and Sakina Security training.",
+        "Eady J struck out parts of the Telegraph's justification plea relying on police suspicion and amended other paragraphs.",
+        "The claimant pursued the action under a CFA without after-the-event insurance; estimated costs exceeded likely damages.",
+        "The Telegraph sought conditional security or case-management orders to mitigate CFA chilling effects on journalism."
+      ],
+      "procedural_posture": "Court of Appeal challenge to Eady J's strike-out of parts of a justification defence and refusal of conditional security in a libel action.",
+      "outcome": "Justification pleading partly restored where Chase level-one police-suspicion meanings are separated from reasonable-grounds-to-suspect meanings; CFA/security appeal dismissed but court gave guidance on prospective costs capping for CFA defamation claims.",
+      "ratio": "Police suspicion may justify a lower-tier Chase meaning but not proof of reasonable grounds to suspect; in CFA defamation cases without ATE cover, masters should consider prospective costs caps under CPR 3.2(m) inclusive of any success fee to protect Article 10 publishers from disproportionate costs exposure.",
+      "legal_issues": [
+        "Whether police suspicion can be pleaded as a primary fact in justification",
+        "Whether repetition and conduct rules bar reliance on police beliefs",
+        "Whether courts may order security or stay claims funded by CFAs without ATE insurance",
+        "Whether prospective costs capping orders are available in defamation litigation"
+      ],
+      "catchwords": [
+        "libel justification",
+        "Chase v News Group",
+        "conditional fee agreement",
+        "costs capping",
+        "Article 10",
+        "terrorism allegation"
+      ],
+      "index_terms": [
+        "Sunday Telegraph",
+        "Sakina Security",
+        "Francis Etim",
+        "Mathaba.net",
+        "reasonable grounds to suspect",
+        "Lownds v Home Office"
+      ],
+      "linked_authorities": [
+        "Chase v News Group Newspapers Ltd [2003] EMLR 218",
+        "Lewis v Daily Telegraph [1964] AC 234",
+        "Callery v Gray (Nos 1 and 2) [2002] 1 WLR 2000",
+        "Solutia UK Ltd v Griffiths [2001] 2 Costs LR 247",
+        "McVicar v UK (2002) 35 EHRR 22"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Two distinct appeal issues are clearly resolved; extensive obiter on CFA costs is authoritative guidance rather than a direct order in this case."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/615.json",
+    "status": "done",
+    "notes": "Statutory interaction between private London Underground Acts and the New Roads and Streetworks Act is clearly resolved.",
+    "enrichment": {
+      "short_title": "Jubilee Line sewer compensation governed by 1991 streetworks code",
+      "area_of_law": [
+        "Construction and engineering",
+        "Utilities",
+        "Statutory interpretation",
+        "Compensation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "New Roads and Streetworks Act 1991",
+          "provisions": [
+            "section 48",
+            "section 69",
+            "section 84",
+            "section 85",
+            "section 86",
+            "section 91",
+            "section 101",
+            "section 105"
+          ]
+        },
+        {
+          "title": "London Underground Act 1992",
+          "provisions": [
+            "section 29"
+          ]
+        },
+        {
+          "title": "London Underground Jubilee Act 1993",
+          "provisions": [
+            "section 22"
+          ]
+        },
+        {
+          "title": "London Transport Act 1976",
+          "provisions": [
+            "section 13"
+          ]
+        },
+        {
+          "title": "Interpretation Act 1978",
+          "provisions": [
+            "section 20"
+          ]
+        }
+      ],
+      "key_facts": [
+        "London Underground's Jubilee Line Extension works near Westminster disturbed Thames Water's Low Level Sewer No 1.",
+        "LUL argued compensation should be assessed under the 1991 Act sharing regime; Thames Water sought indemnity under section 13 of the 1976 Act as incorporated into the 1992 and 1993 Acts.",
+        "The 1991 regime yields about 82% of the indemnity-based figure.",
+        "Section 101 of the 1991 Act repeals inconsistent earlier special enactments regulating street works."
+      ],
+      "procedural_posture": "Appeal from a preliminary issue trial holding that section 101 of the 1991 Act displaced the indemnity provisions incorporated from the 1976 Act.",
+      "outcome": "Appeal dismissed; the 1991 Act and its cost-sharing regulations provide the applicable compensation code for street works, including major transport works.",
+      "ratio": "Major transport works are a category of street works within Part III of the 1991 Act; section 101 extinguished inconsistent provisions in the 1992 Act from 1 January 1993 and the 1993 Act must be construed compatibly so both Acts yield the same streetworks compensation regime.",
+      "legal_issues": [
+        "Whether Jubilee Line works were street works under the 1991 Act",
+        "Whether section 101 applied to protective measures taken in consequence of major transport works",
+        "Whether incorporation of section 13 of the 1976 Act showed a contrary intention in the private Acts",
+        "Whether different compensation regimes could apply to different parts of the same project"
+      ],
+      "catchwords": [
+        "street works",
+        "major transport works",
+        "sewer protection",
+        "section 101 repeal",
+        "cost sharing",
+        "private Act"
+      ],
+      "index_terms": [
+        "Thames Water Utilities",
+        "London Underground Limited",
+        "Jubilee Line Extension",
+        "Palace of Westminster",
+        "Street Works (Sharing of Costs of Works) Regulations 1992",
+        "section 13 London Transport Act 1976"
+      ],
+      "linked_authorities": [
+        "Countess of Rothes v Kirkcaldy Waterworks Commissioners (1882) 7 App Cas 694",
+        "Herron v Rathmines and Rathgar Improvement Commissioners [1892] AC 498"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Preliminary issue turned on statutory construction with a single clear ratio and unanimous Court of Appeal agreement."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/685.json",
+    "status": "done",
+    "notes": "Short post-appeal costs judgment on Part 36 offer disproportion; standard basis ordered.",
+    "enrichment": {
+      "short_title": "Part 36 offer too small for indemnity costs on reinsurance appeal",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Insurance and reinsurance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Rule 36.21"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Paul Toomey as representative underwriter successfully defended Banco Vitalicio's appeal against setting aside a reinsurance contract.",
+        "On 16 January 2004 the successful respondent made a Part 36 offer of £10,000 plus sums due under the first instance order.",
+        "The amount at stake on the appeal was about £2.8 million.",
+        "The court assumed without deciding that the respondent could be treated as a claimant for Part 36 purposes."
+      ],
+      "procedural_posture": "Court of Appeal costs argument after dismissal of Banco Vitalicio's appeal in reinsurance avoidance proceedings.",
+      "outcome": "Costs of the appeal ordered on the standard basis; indemnity costs refused because the £10,000 Part 36 offer would make enhanced costs unjust.",
+      "ratio": "Under CPR 36.21(4)-(5), a very small Part 36 offer made on the eve of appeal in a multi-million-pound dispute can make it unjust to upgrade costs to an indemnity basis even if the offer is beaten.",
+      "legal_issues": [
+        "Whether a successful respondent qualifies as a claimant for Part 36",
+        "Whether beating a Part 36 offer should attract indemnity costs",
+        "Whether the size and timing of the offer made enhanced costs unjust"
+      ],
+      "catchwords": [
+        "Part 36 offer",
+        "indemnity costs",
+        "standard basis",
+        "reinsurance appeal",
+        "costs unjust"
+      ],
+      "index_terms": [
+        "Syndicate 2021",
+        "Banco Vitalicio De Espana",
+        "CPR 36.21",
+        "Huck v Robson",
+        "Nedlloyd Lines UK Ltd v CEL Group Ltd"
+      ],
+      "linked_authorities": [
+        "Huck v Robson [2002] EWCA Civ 398",
+        "Nedlloyd Lines UK Ltd v CEL Group Ltd [2003] EWCA Civ 1871"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Judgment is brief and focused solely on costs, but the outcome and reasoning are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/993.json",
+    "status": "done",
+    "notes": "Large dilapidations trial; breaches proved but section 18(1) cap yields no reversionary loss given advantageous sale.",
+    "enrichment": {
+      "short_title": "Lease dilapidations claim fails despite proved repair breaches",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Leasehold property",
+        "Damages",
+        "Construction and building disputes"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Landlord and Tenant Act 1927",
+          "provisions": [
+            "section 18(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Michael Dresden let 27 John Street and 21 John's Mews, London WC1, to Simmons Gainsford LLP for 25 years from October 1976.",
+        "The tenants sub-let to Arden Chambers and later surrendered; Dresden sold the freehold to ACE for £2,655,000 in April 2002.",
+        "Dresden pursued a Part 20 claim for dilapidations based on a 162-item Scott Schedule as at 15 October 2001.",
+        "Surveyors largely agreed repair costs of about £24,210, before set-off of £17,500 tendered on giving up possession."
+      ],
+      "procedural_posture": "Technology and Construction Court trial of a landlord's Part 20 dilapidations claim stayed pending tenants' county court overpayment judgment.",
+      "outcome": "Part 20 claim dismissed; although several repair and decoration breaches were proved, Dresden suffered no diminution in reversionary value as at the lease end.",
+      "ratio": "Damages for terminal lease breaches are capped by section 18(1) of the Landlord and Tenant Act 1927 at any reduction in reversion value; where a landlord achieves a sale far above any valuation affected by breaches, no recoverable loss is established notwithstanding proved dilapidations.",
+      "legal_issues": [
+        "Construction of repairing and 'high class offices' user covenants",
+        "Assessment of remedial works from the Scott Schedule",
+        "Application of section 18(1) to limit damages to reversionary diminution",
+        "Whether commercial purchaser interest in the actual sale price defeated valuation-based loss claims"
+      ],
+      "catchwords": [
+        "dilapidations",
+        "repair covenant",
+        "section 18 cap",
+        "reversionary value",
+        "terminal schedule",
+        "commercial lease"
+      ],
+      "index_terms": [
+        "John Street WC1",
+        "Simmons Gainsford LLP",
+        "Arden Chambers underlease",
+        "Scott Schedule",
+        "Patoner Ltd v Lowe",
+        "Burdett v Withers"
+      ],
+      "linked_authorities": [
+        "Patoner Ltd v Lowe [1985] 2 EGLR 154",
+        "Burdett v Withers (1837) 7 Ad & E 136"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Very long judgment but the section 18(1) conclusion is explicit; judge identified from TNA metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/624.json",
+    "status": "needs_review",
+    "notes": "Split Court of Appeal on whether bankrupt race-discrimination claims may continue if limited to declaration and injury-to-feelings relief; unfair dismissal remitted per Grady.",
+    "enrichment": {
+      "short_title": "Bankrupt employee's race claims allowed if relief limited",
+      "area_of_law": [
+        "Employment law",
+        "Insolvency law",
+        "Race discrimination",
+        "Bankruptcy"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 283",
+            "section 306",
+            "section 436"
+          ]
+        },
+        {
+          "title": "Race Relations Act 1976",
+          "provisions": [
+            "section 56",
+            "section 57",
+            "section 68"
+          ]
+        },
+        {
+          "title": "Employment Tribunals Act 1996",
+          "provisions": [
+            "section 21"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Arfan Khan was adjudged bankrupt on his own petition on 16 December 2002 while appealing three employment tribunal decisions against Trident Safeguards Ltd.",
+        "The EAT dismissed all appeals for want of capacity, applying pre-Grady authority that hybrid causes of action vested in the trustee.",
+        "This court in Grady held unfair dismissal claims remain personal and remitted Khan's unfair dismissal appeal.",
+        "Wall LJ would dismiss the race and victimisation appeals; Arden and Buxton LJJ would allow them if Khan limits relief to a declaration and injury-to-feelings compensation."
+      ],
+      "procedural_posture": "Court of Appeal review of EAT decisions striking employment appeals for lack of standing after the appellant's bankruptcy.",
+      "outcome": "Majority allowed all three appeals: unfair dismissal remitted to the EAT; race discrimination and victimisation appeals remitted on condition Khan amends to seek only declaration and injury-to-feelings damages.",
+      "ratio": "Unfair dismissal remains a personal claim under Grady, but hybrid race discrimination claims vest in the trustee unless the bankrupt confines the claim to non-proprietary personal relief; a bankrupt may pursue such limited claims where the trustee disclaims interest and Article 6 access to justice favours full examination of discrimination allegations.",
+      "legal_issues": [
+        "Whether race discrimination and victimisation claims vest in the trustee on bankruptcy",
+        "Whether claims may be severed to pursue only personal non-pecuniary relief",
+        "Whether Grady distinguishes unfair dismissal from other employment statutory torts",
+        "Whether bankruptcy bars prosecution of pending EAT appeals"
+      ],
+      "catchwords": [
+        "bankruptcy",
+        "employment appeal",
+        "race discrimination",
+        "victimisation",
+        "hybrid cause of action",
+        "Grady"
+      ],
+      "index_terms": [
+        "Trident Safeguards Ltd",
+        "Official Receiver",
+        "Ord v Upton",
+        "Beckham v Drake",
+        "Employment Appeal Tribunal",
+        "injury to feelings"
+      ],
+      "linked_authorities": [
+        "Grady v HM Prison Service [2003] 3 All ER 745",
+        "Ord v Upton [2000] Ch 352",
+        "Beckham v Drake (1849) 2 HL Cas 579",
+        "Anyanwu v South Bank Student Union [2001] 1 WLR 638",
+        "Mulkerrins v PricewaterhouseCoopers [2003] 1 WLR 1937"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Outcome follows the majority but marked needs_review because of the split reasoning and conditional remittal terms."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/558.json",
+    "status": "done",
+    "notes": "Care threshold appeal allowed; judge misapplied criminal-standard medical certainty and failed holistic fact analysis.",
+    "enrichment": {
+      "short_title": "Care threshold appeal: wrong standard of proof applied",
+      "area_of_law": [
+        "Family law",
+        "Child protection",
+        "Evidence",
+        "Medical evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 1",
+            "section 31"
+          ]
+        }
+      ],
+      "key_facts": [
+        "ET, aged three, suffered a perineal tear and anal fissures discovered after using a potty in September 2002.",
+        "Three paediatric experts initially disagreed; Dr W changed his view after finally seeing clearer photographs at trial.",
+        "The local authority brought care proceedings also concerning ET's elder brother LT.",
+        "HHJ Wade held the section 31 threshold was not met, finding medical evidence alone insufficiently certain."
+      ],
+      "procedural_posture": "Court of Appeal permission appeal against a county court decision dismissing care proceedings for failure to satisfy the section 31 threshold.",
+      "outcome": "Appeal allowed; case transferred to the High Court for rehearing with interim care orders; photographic disclosure failures caused delay and unsafe fact-finding.",
+      "ratio": "The section 31 threshold uses the civil balance of probabilities per Re H, not a criminal or near-criminal standard; a judge must not treat uncertain expert diagnosis as dispositive, must assess medical evidence together with parental explanations and credibility, and cannot evaluate evidence in separate compartments.",
+      "legal_issues": [
+        "Correct standard of proof for section 31 threshold findings",
+        "Whether expert medical disagreement negated the threshold",
+        "How to treat changing expert opinion after disclosure of photographs",
+        "Whether the judge adequately analysed family explanations for genital and anal injuries"
+      ],
+      "catchwords": [
+        "section 31 threshold",
+        "sexual abuse",
+        "standard of proof",
+        "paediatric evidence",
+        "Re H",
+        "fact-finding"
+      ],
+      "index_terms": [
+        "Re H (Minors) (Sexual Abuse: Standard of Proof)",
+        "Re B (Non-Accidental Injury)",
+        "perineal tear",
+        "anal fissures",
+        "expert photographs",
+        "interim care order"
+      ],
+      "linked_authorities": [
+        "Re H (Minors) (Sexual Abuse: Standard of Proof) [1996] AC 563",
+        "Re B (Non-Accidental Injury: Compelling Medical Evidence) [2002] 2 FLR 599",
+        "Re B (Non-Accidental Injury) [2002] EWCA Civ 752",
+        "B v Chief Constable of Avon and Somerset Constabulary [2002] 1 WLR 340"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Appellate court unanimously allowed the appeal on well-defined standard-of-proof and fact-finding grounds."
+      }
+    }
+  }
+]

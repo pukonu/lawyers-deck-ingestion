@@ -1,0 +1,763 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1701.json",
+    "status": "done",
+    "notes": "Complete second appeal on adequacy of county court reasons in workplace injury claim.",
+    "enrichment": {
+      "short_title": "Second appeal restores county court dismissal where judge adequately explained rejecting claimant's accident account",
+      "area_of_law": [
+        "Personal injury",
+        "Civil procedure",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["r.52.11(3)"]
+        }
+      ],
+      "key_facts": [
+        "Paul Major suffered a knee injury climbing steps on a Massey Ferguson tractor at Leonard Lamyman's Lincolnshire farm on 29 July 1992.",
+        "Judge Machin dismissed the claim, preferring medical evidence that the injury mechanism was inconsistent with Major's account of his foot slipping off an unserrated step.",
+        "Royce J allowed a first appeal and ordered retrial on liability, finding the county court judgment insufficiently reasoned and that Bradnock's medical evidence had not been fully tested.",
+        "The Court of Appeal granted permission because Royce J reversed without applying CPR 52.11(3) grounds, then allowed the appeal on the merits and restored Judge Machin's judgment."
+      ],
+      "procedural_posture": "Application for permission to appeal to the Court of Appeal from a High Court order allowing a first appeal and directing retrial on liability.",
+      "outcome": "Permission granted; appeal allowed; Royce J's order set aside and Judge Machin's judgment restored; appellant's costs in both appeals.",
+      "ratio": "An appellate court may intervene under CPR 52.11(3) only for procedural irregularity or unjust decision; where a trial judge identifies the critical factual issue, explains why he rejected the claimant's account after testing medical evidence on causation, and gives adequate reasons, a High Court judge cannot set aside the judgment merely because cross-examination might have explored the medical evidence further.",
+      "legal_issues": [
+        "Whether Judge Machin's judgment gave adequate reasons for dismissing the claim",
+        "Whether Royce J applied the correct appellate principles under CPR 52.11(3)",
+        "Whether the medical evidence on injury mechanism was properly tested at trial"
+      ],
+      "catchwords": [
+        "workplace accident",
+        "tractor steps",
+        "causation",
+        "medical evidence",
+        "adequacy of reasons",
+        "second appeal",
+        "English v Emery Reimbold"
+      ],
+      "index_terms": [
+        "Major",
+        "Lamyman",
+        "Lincoln County Court",
+        "Royce J",
+        "Bradnock",
+        "knee injury",
+        "farm accident"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "English v Emery Reimbold and Strick Ltd [2002] EWCA Civ 605; [2002] 1 WLR 240",
+          "role": "applied"
+        },
+        {
+          "citation": "Willett v Marks and Spencer plc [2002] EWCA Civ 1427",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with clear outcome and reasoning on appellate intervention."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1610.json",
+    "status": "done",
+    "notes": "Complete permission judgment on EAT strike-out and employment tribunal jurisdiction.",
+    "enrichment": {
+      "short_title": "Flatman refused permission to pursue EAT-struck grounds including PIAS clause 7 claim excluded as personal injuries",
+      "area_of_law": [
+        "Employment law",
+        "Unfair dismissal",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Tribunals Act 1996",
+          "provisions": ["s.3(2)", "s.3(3)"]
+        },
+        {
+          "title": "Employment Tribunal Extension of Jurisdiction (England and Wales) Order 1994",
+          "provisions": ["Art. 5"]
+        },
+        {
+          "title": "Employment Protection (Consolidation) Act 1971",
+          "provisions": ["s.131"]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Tim Flatman, a Southwark residential social worker, suffered a back injury at work in October 2000, resigned after 55 weeks, and obtained an employment tribunal award of £16,258 including unlawful deduction and unfair dismissal elements.",
+        "The EAT at a preliminary hearing allowed only his increment ground (xxviii) to proceed; he later accepted £1,000 and withdrew that EAT appeal, but sought Court of Appeal permission on other struck-out grounds.",
+        "He sought increments for the First Period (while still employed but off sick), future loss based on lower office-job pay, and a discretionary award under clause 7 of the Personal Injury Allowance Scheme for 14% partial disability.",
+        "The court held jurisdiction existed to grant permission despite EAT preliminary strike-out, but refused permission on all substantive points."
+      ],
+      "procedural_posture": "Out-of-time application for permission to appeal to the Court of Appeal from an EAT preliminary decision striking out most grounds of appeal.",
+      "outcome": "Time extended; permission refused on all grounds pursued.",
+      "ratio": "The Court of Appeal may grant permission to appeal where the EAT has struck out grounds at a preliminary hearing; a litigant who claimed £1,000 for increments and received £1,000 in full settlement cannot pursue a further increment claim for the same period; contractual PIAS claims for sums due or loss of a chance of an award in respect of personal injuries fall outside employment tribunal jurisdiction under section 3(3) of the Employment Tribunals Act 1996.",
+      "legal_issues": [
+        "Whether the Court of Appeal has jurisdiction after EAT preliminary strike-out of grounds",
+        "Whether increment claims for the First Period survived the £1,000 settlement",
+        "Whether a PIAS clause 7 claim was within employment tribunal jurisdiction"
+      ],
+      "catchwords": [
+        "employment tribunal",
+        "EAT preliminary hearing",
+        "pay increments",
+        "constructive dismissal",
+        "Personal Injury Allowance Scheme",
+        "contractual jurisdiction",
+        "personal injuries exclusion"
+      ],
+      "index_terms": [
+        "Flatman",
+        "London Borough of Southwark",
+        "residential social worker",
+        "Schedule of Loss",
+        "PIAS",
+        "Howe v David Brown",
+        "Walkin v South Manchester"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Howe v David Brown Tractors (Retail) Ltd [1991] 4 All ER 30",
+          "role": "applied"
+        },
+        {
+          "citation": "Walkin v South Manchester Health Authority [1995] 1 WLR 1543",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full Schiemann LJ judgment with detailed procedural and jurisdictional analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1692.json",
+    "status": "done",
+    "notes": "Complete nuisance appeal; minor draft notation ('chk word') in paragraph 19 does not affect ratio.",
+    "enrichment": {
+      "short_title": "Continuing smell nuisance from battery egg farm restored; remedy remitted after judge wrongly found nuisance ceased in 2000",
+      "area_of_law": [
+        "Tort",
+        "Nuisance",
+        "Environmental law",
+        "Remedies"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["s.50"]
+        }
+      ],
+      "key_facts": [
+        "Mr and Mrs Piper lived adjacent to Clifford Kent Ltd's large battery egg farm in Cornwall, complaining of fly, smell, noise, smoke and dust nuisance from about 1993.",
+        "The recorder awarded £10,000 for past nuisance but found smell nuisance ceased in 2000 and no continuing nuisance of other kinds.",
+        "Neighbour witnesses accepted as honest consistently described ongoing intermittent smell problems; the judge relied mainly on a joint expert's limited 2001 visits and his own site visit.",
+        "The Court of Appeal held intermittent nuisance could not be disproved by absence of smell on particular days and remitted remedy (injunction vs damages in lieu) to the county court."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from a county court judgment on common law nuisance damages and continuing nuisance findings.",
+      "outcome": "Appeal allowed; finding of no continuing smell nuisance quashed; matter remitted to county court for determination of remedy with directions on further evidence.",
+      "ratio": "Where neighbours' accepted evidence establishes repeated intermittent smell nuisance and no material change occurred at the farm in 2000, a judge cannot conclude nuisance ceased solely because smell was absent on expert visit days or at a single site inspection; once a line of intolerable nuisance was crossed for years, more is needed to show return to acceptability, and the appropriate remedy requires further factual investigation.",
+      "legal_issues": [
+        "Whether smell nuisance from the egg farm continued after 2000",
+        "Whether expert and judicial site visits could displace neighbour evidence of intermittent nuisance",
+        "What remedy (injunction or section 50 damages in lieu) was appropriate"
+      ],
+      "catchwords": [
+        "private nuisance",
+        "battery farm",
+        "smell",
+        "intermittent nuisance",
+        "planning permission",
+        "damages in lieu",
+        "injunction"
+      ],
+      "index_terms": [
+        "Piper",
+        "Clifford Kent",
+        "Truro County Court",
+        "Danks",
+        "egg production",
+        "Pets Hotel",
+        "mediation"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full Jacob LJ judgment; one draft editorial mark in text but complete ratio and order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1726.json",
+    "status": "done",
+    "notes": "Complete contempt sentence appeal in domestic violence context.",
+    "enrichment": {
+      "short_title": "Two-year contempt sentence for breaching non-molestation order reduced to nine months where judge fettered discretion",
+      "area_of_law": [
+        "Family law",
+        "Contempt of court",
+        "Domestic violence",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Contempt of Court Act 1981",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Sherwin persistently breached non-molestation and occupation orders obtained by his wife after a volatile marriage marked by assaults and harassment from December 2001.",
+        "He served 12 months for 14 proved breaches including assaults, was released and warned that further breach could attract the maximum two-year sentence, then attended the wife's home contrary to the order on 20 January 2003.",
+        "A violent incident followed involving serious injuries to both parties; the judge sentenced only for the admitted attendance breach and imposed the maximum two-year immediate imprisonment.",
+        "The Court of Appeal found the judge treated his prior warning as binding, wrongly fettering discretion, and substituted nine months."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Family Division) against committal for contempt, with extension of time granted.",
+      "outcome": "Appeal allowed; two-year sentence set aside and replaced with nine months' imprisonment; injunction continued for 12 months with power of arrest.",
+      "ratio": "Although persistent flagrant breach of domestic injunctions warrants firm punishment and protects both the protected person and court authority, a judge who warns that the maximum sentence will follow on any further breach must still exercise independent discretion on the facts proved at sentencing and must not treat the warning as obliging the maximum where only a single admitted breach is before the court.",
+      "legal_issues": [
+        "Whether Judge Yelton fettered his discretion by applying his prior two-year warning",
+        "Whether two years was proportionate for a single admitted breach of attendance",
+        "How civil committal should interact with parallel criminal proceedings for assault"
+      ],
+      "catchwords": [
+        "contempt",
+        "non-molestation order",
+        "domestic violence",
+        "committal",
+        "sentence reduction",
+        "fettering discretion",
+        "injunction breach"
+      ],
+      "index_terms": [
+        "Sherwin",
+        "Judge Yelton",
+        "Southend County Court",
+        "occupation order",
+        "power of arrest",
+        "Barnet v Hurst"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Barnet London Borough Council v Hurst [2002] EWCA Civ 1009; [2002] 4 All ER 457",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full President's judgment with agreed outcome and detailed sentencing analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1608.json",
+    "status": "done",
+    "notes": "Complex confiscation appeal; complete Schiemann LJ judgment with agreed order.",
+    "enrichment": {
+      "short_title": "Certificate of inadequacy granted on appeal where judge wrongly exercised section 14(2)(b) discretion against drug trafficker's wife",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation",
+        "Proceeds of crime"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Drug Trafficking Offences Act 1986",
+          "provisions": ["s.14"]
+        },
+        {
+          "title": "Drug Trafficking Act 1994",
+          "provisions": ["s.17"]
+        },
+        {
+          "title": "Proceeds of Crime Act 2002",
+          "provisions": ["s.23"]
+        },
+        {
+          "title": "Powers of Criminal Courts Act 1973",
+          "provisions": ["s.31"]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": []
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["s.18(1)"]
+        }
+      ],
+      "key_facts": [
+        "Mrs Forwell, wife of a major drug trafficker, was sentenced in 1994 with a confiscation order of about £700,000 and remained about £350,000 short after serving her custodial sentence.",
+        "She applied under section 14 DTOA for a certificate of inadequacy, contending realisable property including a £228,554 gift held abroad was no longer available.",
+        "Gibbs J found inadequacy but exercised discretion under section 14(2)(b) to disregard it because she had cooperated in dissipating gift-caught funds for her children's upbringing in Singapore.",
+        "The Court of Appeal held the judge misdirected himself on purpose under section 14(2)(b), failed to articulate prosecution-favouring discretion, and wrongly assumed magistrates could address hardship on enforcement."
+      ],
+      "procedural_posture": "Appeal by permission from a High Court refusal to grant a certificate of inadequacy under section 14 of the Drug Trafficking Offences Act 1986.",
+      "outcome": "Appeal allowed; order in terms agreed by counsel (certificate to issue).",
+      "ratio": "Under section 14 DTOA the High Court must issue a certificate where realisable property is inadequate unless prosecution discretion under section 14(2)(b) is properly exercised; dissipating or facilitating dissipation of gift-caught property to support children is not necessarily done for the purpose of preserving property from realisation, magistrates cannot mitigate hardship where no assets exist, and a defendant retains a collateral appeal to the Court of Appeal from refusal of a certificate.",
+      "legal_issues": [
+        "Construction and application of section 14(2)(b) DTOA",
+        "Whether the High Court could revisit original realisable property findings",
+        "Whether magistrates could avoid default imprisonment for inability to pay",
+        "Whether the Court of Appeal had jurisdiction over the High Court decision"
+      ],
+      "catchwords": [
+        "confiscation",
+        "certificate of inadequacy",
+        "realisable property",
+        "gift caught by Act",
+        "drug trafficking",
+        "default sentence",
+        "hardship"
+      ],
+      "index_terms": [
+        "Forwell",
+        "Gibbs J",
+        "Singapore",
+        "Ing Bank",
+        "Gokal",
+        "Montgomery",
+        "Re O"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Abbas Kassimali Gokal v Serious Fraud Office [2001] EWCA Civ 368",
+          "role": "applied"
+        },
+        {
+          "citation": "Government of the United States v Montgomery [2001] 1 WLR 196",
+          "role": "applied"
+        },
+        {
+          "citation": "In re O [1991] 1 All ER 330",
+          "role": "applied"
+        },
+        {
+          "citation": "Re C, DTOA/114/97 (Dyson J, 18 November 1997)",
+          "role": "cited"
+        },
+        {
+          "citation": "R v Liverpool Magistrates' Court, ex parte Ansen [1998] 1 All ER 692",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Long but complete judgment; some enforcement powers expressly not finally determined."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2865.json",
+    "status": "done",
+    "notes": "Complete appeal judgment; post-hearing costs discussion appended but substantive appeal fully decided.",
+    "enrichment": {
+      "short_title": "Pedicabs held to be stage carriages not hackney carriages; drivers not guilty of soliciting under section 167 CJPOA 1994",
+      "area_of_law": [
+        "Licensing law",
+        "Criminal law",
+        "Transport law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Metropolitan Public Carriage Act 1869",
+          "provisions": ["s.4", "s.7", "s.8"]
+        },
+        {
+          "title": "Criminal Justice and Public Order Act 1994",
+          "provisions": ["s.167"]
+        },
+        {
+          "title": "Town Police Clauses Act 1847",
+          "provisions": ["s.38"]
+        },
+        {
+          "title": "Prosecution of Offences Act 1985",
+          "provisions": ["s.19", "s.19A", "s.20"]
+        },
+        {
+          "title": "Public Passenger Vehicles Act 1981",
+          "provisions": ["Part II"]
+        },
+        {
+          "title": "Transport Act 1985",
+          "provisions": ["s.10", "s.13"]
+        },
+        {
+          "title": "Greater London Authority Act 1999",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Private prosecutor Mr Oddy challenged dismissal of charges against Bugbugs Ltd and two pedicab drivers for unlicensed plying for hire and soliciting on 12 July 2002 at Blackfriars Road.",
+        "Agreed facts showed pedal-powered pedicabs hired to drivers who responded to hails and charged separate distinct fares per passenger.",
+        "The district judge held pedicabs were stage carriages within section 4 of the 1869 Act and therefore not hackney carriages liable under section 7; drivers did not solicit under section 167 because they only responded when hailed.",
+        "Pitchford J upheld both rulings and the award of costs against the prosecutor for pursuing materially identical issues already decided in Begg (1999)."
+      ],
+      "procedural_posture": "Case stated appeal to the High Court (Administrative Court) from Tower Bridge Magistrates' Court dismissal of private prosecution charges.",
+      "outcome": "Appeal dismissed on all four questions; permission to appeal certified as of general public importance.",
+      "ratio": "Under the Metropolitan Public Carriage Act 1869 section 4, a carriage plying for hire in London in which passengers pay separate and distinct fares is a stage carriage regardless of ex parte Lane on stagecoaches under the 1847 Act; responding to a hail without prior invitation is plying for hire but not soliciting under section 167 CJPOA 1994, which excludes mere display of a for-hire sign and requires active invitation.",
+      "legal_issues": [
+        "Whether pedicabs are hackney or stage carriages under the 1869 Act",
+        "Whether ex parte Lane binds construction of the 1869 Act definitions",
+        "Whether pedicab drivers solicited passengers contrary to section 167",
+        "Whether costs could be awarded against the private prosecutor"
+      ],
+      "catchwords": [
+        "pedicab",
+        "hackney carriage",
+        "stage carriage",
+        "plying for hire",
+        "soliciting",
+        "private prosecution",
+        "licensing gap"
+      ],
+      "index_terms": [
+        "Bugbugs",
+        "Oddy",
+        "Blackfriars Road",
+        "trishaw",
+        "ex parte Lane",
+        "Behrendt v Burridge",
+        "Licensed Taxi Drivers Association"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v Cambridge City Council ex parte Lane (1999) RTR 1982",
+          "role": "distinguished"
+        },
+        {
+          "citation": "Behrendt v Burridge (1976) 63 Cr App R 202",
+          "role": "distinguished"
+        },
+        {
+          "citation": "Darroch v Director of Public Prosecutions [1990] 91 Cr App R 378",
+          "role": "cited"
+        },
+        {
+          "citation": "Sales v Lake [1922] 1 KB 553",
+          "role": "cited"
+        },
+        {
+          "citation": "Cogley v Sherwood [1959] 1 WLR 781",
+          "role": "cited"
+        },
+        {
+          "citation": "Director of Public Prosecutions v Denham [1991] 3 WLR 235",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full substantive judgment; tail records costs and permission discussion only."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1606.json",
+    "status": "done",
+    "notes": "Complete insurance policy construction appeal with remittal for rehearing.",
+    "enrichment": {
+      "short_title": "Travel insurance 'all usual activities' clause requires catastrophic disability, not loss of one hobby such as horse riding",
+      "area_of_law": [
+        "Insurance law",
+        "Contract interpretation",
+        "Personal injury"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Shirley McGeown suffered serious injuries in a Turkey road traffic accident in October 1998 while covered by a Direct Travel single-trip policy.",
+        "Section 6(3) entitled payment of £50,000 for permanent physical disability preventing paid work or, if not in paid work, preventing 'all usual activities'.",
+        "The county court judge found the clause ambiguous, applied contra proferentem, and awarded £50,000 based largely on inability to horse ride.",
+        "The Court of Appeal held the judge erred by finding ambiguity before contextual analysis and that the clause required a broad range of serious life-altering disability."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from Bristol County Court judgment on construction of a travel insurance personal accident clause.",
+      "outcome": "Appeal allowed; county court judgment and costs order quashed; case remitted for rehearing on proper construction and evidence of disability range.",
+      "ratio": "Courts must construe insurance wording in commercial context before invoking contra proferentem; in a catastrophic-injury lump-sum personal accident schedule, 'all your usual activities' in section 6(3) means a substantial intrusion across significant non-working social, sporting and domestic activities comparable to inability to pursue normal paid work, not inability to perform any single pre-accident activity.",
+      "legal_issues": [
+        "Proper approach to ambiguity and contra proferentem in insurance construction",
+        "Meaning of 'all your usual activities' in section 6(3) of the policy",
+        "Whether inability to horse ride alone satisfied the threshold"
+      ],
+      "catchwords": [
+        "travel insurance",
+        "personal accident",
+        "policy construction",
+        "contra proferentem",
+        "permanent disability",
+        "usual activities",
+        "ICS v West Bromwich"
+      ],
+      "index_terms": [
+        "Direct Travel Insurance",
+        "McGeown",
+        "Turkey",
+        "section 6",
+        "horse riding",
+        "lump sum",
+        "Sargent v GRE"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "ICS Ltd v West Bromwich Building Society [1998] 1 WLR 896",
+          "role": "applied"
+        },
+        {
+          "citation": "Sargent v GRE (UK) Ltd [1997] PIQR Q128",
+          "role": "applied"
+        },
+        {
+          "citation": "R v PIAOB [2002] Lloyd's Rep IR 41",
+          "role": "applied"
+        },
+        {
+          "citation": "Hooper v The Accidental Death Insurance Company (1860) 5 H & N 546",
+          "role": "cited"
+        },
+        {
+          "citation": "Pocock v Century Insurance Co Ltd [1960] 2 Lloyd's Rep 150",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full Auld LJ judgment with clear construction principles and remittal order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2774.json",
+    "status": "done",
+    "notes": "Complete parole board judicial review with quashing order.",
+    "enrichment": {
+      "short_title": "Parole refusal quashed where Board wrongly treated university place as conditional on exam results",
+      "area_of_law": [
+        "Public law",
+        "Criminal justice",
+        "Parole",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": ["s.32(2)", "s.32(6)"]
+        }
+      ],
+      "key_facts": [
+        "Mr Kitto was sentenced in 2001 to five years for attempted arson and sought release on licence from his parole eligibility date of 20 June 2003.",
+        "The Parole Board refused parole on 15 May 2003, citing among other matters that his Roehampton University place depended on forthcoming exam results and lack of contingency for rejection.",
+        "It was later acknowledged the university place was not conditional on exams; the Board also questioned living with his mother despite positive probation reports supporting that plan.",
+        "Owen J quashed the decision because risk assessment relied on a non-existent exam-failure risk and the mother-residence concern lacked proper basis."
+      ],
+      "procedural_posture": "Application for permission and substantive judicial review of Parole Board refusal of release on licence.",
+      "outcome": "Decision quashed; matter to be reconsidered by the Parole Board; leave to appeal refused.",
+      "ratio": "The Parole Board must assess risk rationally on accurate material and give an intelligible summary of reasons; a decision founded on a mistaken premise that a university place was conditional on exam results, with associated relapse risk, is flawed and taints the overall risk balance, and conclusions contradicting unanimous report writers require proper evidential foundation.",
+      "legal_issues": [
+        "Whether the Parole Board erred in treating the university place as exam-conditional",
+        "Whether living with the claimant's mother was properly assessed as inappropriate",
+        "Whether continuing authority and behaviour concerns were adequately reasoned"
+      ],
+      "catchwords": [
+        "parole",
+        "release on licence",
+        "risk assessment",
+        "irrationality",
+        "decision letter",
+        "Oyston",
+        "reconsideration"
+      ],
+      "index_terms": [
+        "Kitto",
+        "Parole Board",
+        "Roehampton University",
+        "HMP Grendon",
+        "attempted arson",
+        "Tia Cockrell",
+        "alcohol"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v Parole Board ex p Owen John Oyston",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete Owen J judgment with clear quashing on primary ground."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1677.json",
+    "status": "done",
+    "notes": "Complete asylum appeal on IAT fact-review standard.",
+    "enrichment": {
+      "short_title": "IAT entitled to overturn Sri Lankan Tamil asylum grant where adjudicator failed to apply exceptional-case test from Jeyachandran",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Appeals"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The appellant, a former LTTE supporter from Jaffna/Vavuniya, claimed past arrest, torture and reporting restrictions before fleeing to the UK in December 2000.",
+        "An adjudicator accepted his credibility and found a well-founded fear of persecution on return because his details were on record with authorities.",
+        "The Immigration Appeal Tribunal allowed the Secretary of State's appeal, holding only exceptional cases faced risk post-ceasefire and that this appellant was not such a case.",
+        "Lady Hale held the Tribunal correctly found the adjudicator's error in not applying the full Jeyachandran framework and was entitled to draw its own inference."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal with permission from an Immigration Appeal Tribunal decision allowing the Secretary of State's appeal against a grant of asylum.",
+      "outcome": "Appeal dismissed; application for permission to appeal to the House of Lords refused.",
+      "ratio": "The IAT may interfere with an adjudicator's decision only on error of fact or law, not merely because it would decide differently; findings on credibility rarely overturn, but inferences from objective country evidence and application of general conditions to individual facts may be reviewed, and where an adjudicator fails to address the exceptional-case test established in Jeyachandran the Tribunal may lawfully substitute its own inference.",
+      "legal_issues": [
+        "Proper test for IAT review of adjudicator findings of fact",
+        "Whether the Tribunal could overturn the credibility-based risk inference",
+        "Application of post-ceasefire Sri Lanka country guidance to LTTE associates"
+      ],
+      "catchwords": [
+        "asylum",
+        "Sri Lanka",
+        "LTTE",
+        "well-founded fear",
+        "IAT fact review",
+        "country evidence",
+        "Jeyachandran",
+        "exceptional case"
+      ],
+      "index_terms": [
+        "Indrakumar",
+        "Vavuniya",
+        "Jaffna",
+        "Tamil",
+        "ceasefire",
+        "Balendran",
+        "Sarker",
+        "Koci"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Borissov v Secretary of State for the Home Department [1996] Imm AR 524",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Immigration Appeal Tribunal ex p Balendran [1998] Imm AR 162",
+          "role": "applied"
+        },
+        {
+          "citation": "Sarker v Secretary of State for the Home Department (8 November 2000)",
+          "role": "applied"
+        },
+        {
+          "citation": "Jeyachandran [2002] UK IAT 1869",
+          "role": "applied"
+        },
+        {
+          "citation": "Brinston [2002] UK IAT 547",
+          "role": "cited"
+        },
+        {
+          "citation": "Oleed v Secretary of State for the Home Department [2002] EWCA Civ 1906",
+          "role": "cited"
+        },
+        {
+          "citation": "Sabanathan v Secretary of State for the Home Department [2003] EWCA Civ 1517",
+          "role": "cited"
+        },
+        {
+          "citation": "Koci v Secretary of State for the Home Department [2003] EWCA Civ 1507",
+          "role": "cited"
+        },
+        {
+          "citation": "Montgomerie & Co Ltd v Wallace-James [1904] AC 73",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Authoritative Hale LJ restatement of IAT appellate principles with clear dismissal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2909.json",
+    "status": "done",
+    "notes": "Complete judicial review of magistrates' case management decision.",
+    "enrichment": {
+      "short_title": "Magistrates lawfully discontinued part-heard motoring trial for fresh hearing before different bench",
+      "area_of_law": [
+        "Criminal procedure",
+        "Administrative law",
+        "Case management"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": ["s.10"]
+        }
+      ],
+      "key_facts": [
+        "Barry Kendall faced summary trial for dangerous driving, driving while disqualified and driving without insurance after riding a motorcycle on a pavement outside a former partner's family home.",
+        "The identification trial adjourned repeatedly from September 2002; after part-hearing on 14 and 24 March 2003, the chairman's funeral and counsel unavailability prevented completion.",
+        "Prosecution invited discontinuance and refixing; defence argued retrial before a different bench would be unfair because recognition witnesses had rehearsed evidence.",
+        "Magistrates discontinued the trial for rehearing before a different bench, finding no significant disadvantage; Kay J refused judicial review."
+      ],
+      "procedural_posture": "Application for judicial review of Selby Magistrates' decision to discontinue a part-heard summary trial and refix before a differently constituted bench.",
+      "outcome": "Application refused; magistrates' decision held rational and within discretion under section 10.",
+      "ratio": "Magistrates' power under section 10 Magistrates' Courts Act 1980 to adjourn for retrial before a different bench must be exercised in the interests of justice; where delays arise from legitimate scheduling constraints and the bench addresses whether witnesses giving evidence twice would disadvantage the defendant, choosing a fresh trial is not Wednesbury unreasonable merely because identification is by recognition.",
+      "legal_issues": [
+        "Whether discontinuing a part-heard trial for retrial before a different bench was an abuse of process or irrational",
+        "Whether identification-by-recognition witnesses were prejudiced by giving evidence twice",
+        "Proper exercise of section 10 adjournment power"
+      ],
+      "catchwords": [
+        "judicial review",
+        "magistrates",
+        "part-heard trial",
+        "retrial",
+        "identification",
+        "case management",
+        "section 10",
+        "ex parte Bugg"
+      ],
+      "index_terms": [
+        "Kendall",
+        "Selby Magistrates",
+        "dangerous driving",
+        "motorcycle",
+        "Harrison witnesses",
+        "wheelies",
+        "recognition evidence"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v Ripon Liberty Justices ex parte Bugg [1990] 155 JP 213",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete Kay J judgment with agreed division on refusal of relief."
+      }
+    }
+  }
+]

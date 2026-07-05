@@ -1,0 +1,786 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3108.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on s.34 CJPOA 1994 directions where defendant gave a pre-prepared police statement.",
+    "enrichment": {
+      "short_title": "Conviction quashed after defective s.34 direction on pre-prepared police statement",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Criminal procedure",
+        "Appeal against conviction"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Offences Against the Person Act 1861",
+          "sections": ["s.18"]
+        },
+        {
+          "instrument": "Criminal Justice and Public Order Act 1994",
+          "sections": ["s.34", "s.36"]
+        }
+      ],
+      "key_facts": [
+        "Dwaine Turner appealed against conviction for wounding with intent after a joint attack on Ramsey at Mrs Morin's flat in August 2002; Brooks and Coley were co-defendants.",
+        "Turner gave a pre-prepared solicitor-read statement in police interview but answered 'no comment' to further questions; at trial he said he had restrained Ramsey in a headlock, accounting for blood on his clothing.",
+        "The judge's summing-up treated failure to answer questions in interview as the basis for adverse inference under s.34, rather than identifying specific facts relied on at trial but not mentioned when Turner could reasonably have been expected to mention them.",
+        "Counsel agreed the direction did not conform to the JSB model; discrepancies between statement and trial evidence (purpose of visit; whether Coley had a weapon) were not pinpointed for the jury."
+      ],
+      "procedural_posture": "Appeal with leave of the single judge against conviction in the Crown Court at Inner London; no appeal against sentence.",
+      "outcome": "Appeal allowed; conviction quashed as unsafe because of the misdirection on s.34.",
+      "ratio": "Where a defendant submits a pre-prepared statement and declines further interview questions, a s.34 direction must identify the specific facts subsequently relied on at trial that were not mentioned when the defendant could reasonably have been expected to mention them; directing the jury that mere failure to answer questions, rather than failure to mention those facts, may support an adverse inference renders a conviction unsafe.",
+      "legal_issues": [
+        "Whether the trial judge misdirected the jury on adverse inferences under s.34 CJPOA 1994",
+        "How s.34 applies where a suspect gives a pre-prepared statement but refuses further questioning",
+        "Whether the judge adequately directed the jury on blood-staining expert evidence"
+      ],
+      "catchwords": [
+        "s.34 adverse inference",
+        "pre-prepared statement",
+        "silence in interview",
+        "s.36 special warning",
+        "wounding with intent",
+        "unsafe conviction",
+        "JSB specimen direction"
+      ],
+      "index_terms": [
+        "Turner v R",
+        "R v Knight",
+        "R v Lewis",
+        "R v Gill",
+        "R v Reader",
+        "R v Pearce",
+        "R v Argent",
+        "joint enterprise",
+        "police interview"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v Knight [2003] EWCA Crim 1977",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Lewis [2003] EWCA Crim 233",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Gill (CA, unreported, 21 July 2000)",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Reader (CA, unreported, 7 April 1998)",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Pearce (1979) 69 Cr App R 365",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Argent [1997] 2 Cr App R 27",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed analysis of the defective summing-up and linked s.34 authorities."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1562.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on Iranian asylum, apostasy, and s.58(8) abandonment.",
+    "enrichment": {
+      "short_title": "Iranian apostasy asylum appeal allowed; Court of Appeal appeal not abandoned by brief Netherlands trip",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Asylum and Immigration Act 1999",
+          "sections": ["s.58(8)", "s.58"]
+        },
+        {
+          "instrument": "Nationality, Immigration and Asylum Act 2002",
+          "sections": ["s.161", "Sch.9", "ss.81-117"]
+        },
+        {
+          "instrument": "Immigration Act 1971",
+          "sections": ["s.3(4)"]
+        },
+        {
+          "instrument": "Convention Relating to the Status of Refugees 1951",
+          "sections": []
+        }
+      ],
+      "key_facts": [
+        "Mr Shirazi, an Iranian, claimed asylum on political grounds, then converted sincerely to Christianity while awaiting decision.",
+        "The adjudicator found article 3 risk but not refugee status; the IAT allowed the Secretary of State's appeal and held non-evangelical converts from Islam to Christianity in Iran faced no real risk.",
+        "On 30 March 2003 the appellant briefly travelled to the Netherlands on a false passport, was refused entry and returned; the Secretary of State contended the appeal was abandoned under s.58(8).",
+        "The court held a further appeal to the Court of Appeal is not a 'pending appeal under Part IV' for s.58(8) purposes, and that the IAT had not adequately addressed inconsistent tribunal approaches to innate apostasy in Iran."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal with permission against an Immigration Appeal Tribunal decision refusing asylum/human rights protection.",
+      "outcome": "Appeal allowed; case remitted to the IAT for rehearing with directions from the President.",
+      "ratio": "A further appeal to the Court of Appeal on a question of law is not a 'pending appeal under Part IV' within s.58(8) of the 1999 Act and is not automatically treated as abandoned when the appellant briefly leaves the United Kingdom; where IAT decisions on country conditions for apostasy in Iran are inconsistent and inadequately reasoned, the matter must be remitted for proper consideration of refugee sur place status.",
+      "legal_issues": [
+        "Whether the appeal was abandoned under s.58(8) after a brief voluntary departure from the UK",
+        "Whether a convert from Islam to Christianity in Iran is entitled to refugee protection",
+        "The meaning of refugee status sur place where conversion occurred after arrival in the UK",
+        "Whether inconsistent IAT country guidance on religious apostasy in Iran required remittal"
+      ],
+      "catchwords": [
+        "asylum",
+        "apostasy",
+        "Iran",
+        "refugee sur place",
+        "s.58 abandonment",
+        "article 3 ECHR",
+        "country guidance",
+        "religious conversion"
+      ],
+      "index_terms": [
+        "Shirazi",
+        "Islam and Shah",
+        "Ahmadi",
+        "Khoshkam",
+        "Sarkohaki",
+        "Ghodratzadeh",
+        "Gurung",
+        "S v Home Secretary",
+        "Dupovac"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Islam and Shah [1999] 2 WLR 1015",
+          "role": "applied"
+        },
+        {
+          "citation": "S v Home Secretary [2002] INLR 416",
+          "role": "applied"
+        },
+        {
+          "citation": "Gurung [2003] EWCA Civ 654",
+          "role": "applied"
+        },
+        {
+          "citation": "Dupovac [2000] Imm AR 265",
+          "role": "considered"
+        },
+        {
+          "citation": "A v Minister for Immigration and Multicultural Affairs [2002] FCA 148",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long but complete judgment covering both procedural abandonment and substantive apostasy/asylum issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3110.json",
+    "status": "done",
+    "notes": "Complete judgment; source summary field is truncated but full_text is complete.",
+    "enrichment": {
+      "short_title": "Confiscation appeal dismissed: possession of counterfeit goods can constitute benefit under s.71 CJA 1988",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation",
+        "Intellectual property crime",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Trade Marks Act 1994",
+          "sections": ["s.92"]
+        },
+        {
+          "instrument": "Criminal Justice Act 1988",
+          "sections": ["s.71", "s.72AA", "s.74"]
+        },
+        {
+          "instrument": "Proceeds of Crime Act 1995",
+          "sections": ["s.2"]
+        },
+        {
+          "instrument": "Bail Act 1976",
+          "sections": []
+        }
+      ],
+      "key_facts": [
+        "Derrick Davies pleaded guilty to 13 specimen counts of possessing counterfeit branded goods, packaging and copying equipment contrary to s.92 Trade Marks Act 1994, representing over 5,000 items from an illegal counterfeiting business with about £1m turnover.",
+        "The Crown served a s.71 notice; the parties agreed a £1m benefit figure after a Newton hearing, but Davies argued the counts charged only possession 'with a view to gain' so no qualifying benefit was obtained for s.72AA purposes.",
+        "The court held counterfeit goods adapted with false marks were property obtained in connection with the offence, following R v David Cadman Smith and R v Wilkes.",
+        "Davies also challenged the judge's finding that he had a 100% beneficial interest in 'Hillcrest' purchased through his former wife; the judge's finding on sham gift was upheld."
+      ],
+      "procedural_posture": "Appeal against confiscation order and realisable property findings following guilty pleas in the Crown Court at Snaresbrook; sentence itself not challenged.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Property bearing false trade marks in the defendant's possession with a view to gain is 'property obtained in connection with' the offence for s.71(4) CJA 1988 even where the indictment charges possession rather than sale; police seizure does not eliminate benefit, and a judge may find the defendant retained the true beneficial interest where a transfer to a spouse was a sham to disguise assets.",
+      "legal_issues": [
+        "Whether possession-only trade mark counts generated benefit for confiscation purposes",
+        "Whether s.72AA qualifying offences were satisfied",
+        "Whether the defendant's interest in property registered in his former wife's name was realisable property"
+      ],
+      "catchwords": [
+        "confiscation",
+        "trade mark counterfeiting",
+        "s.71 benefit",
+        "s.72AA qualifying offence",
+        "realisable property",
+        "sham gift",
+        "totality principle"
+      ],
+      "index_terms": [
+        "Davies counterfeit trading",
+        "R v David Cadman Smith",
+        "R v Wilkes",
+        "Tinker v Tinker",
+        "Newton hearing",
+        "specimen indictment"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v David Cadman Smith [2002] 2 Cr App R(S) 144",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Wilkes [2003] EWCA Crim 848",
+          "role": "applied"
+        },
+        {
+          "citation": "Tinker v Tinker [1970] 1 All ER 540",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment on confiscation construction and property ownership; truncated summary only in source metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1560.json",
+    "status": "done",
+    "notes": "Complete lengthy tax appeal on s.42 Capital Allowances Act 1990 finance leasing structures.",
+    "enrichment": {
+      "short_title": "Finance lessor denied writing-down allowances where headlease to UK resident sub-lessor is a finance lease",
+      "area_of_law": [
+        "Tax law",
+        "Capital allowances",
+        "Finance leasing"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Capital Allowances Act 1990",
+          "sections": ["s.24", "s.39", "s.42", "s.46", "s.48", "s.61"]
+        },
+        {
+          "instrument": "Taxes Management Act 1970",
+          "sections": ["s.56A"]
+        },
+        {
+          "instrument": "Finance Act 1982",
+          "sections": ["s.70"]
+        },
+        {
+          "instrument": "Finance Act 1986",
+          "sections": ["s.57", "Sch.16"]
+        },
+        {
+          "instrument": "Finance Act 1993",
+          "sections": ["s.116(2)"]
+        }
+      ],
+      "key_facts": [
+        "BMBF (No 24) Ltd, a Barclays special purpose vehicle, bought US Caterpillar plant for £165m and leased it to UK-resident CIL under a 30-year finance headlease, with CIL sub-leasing to non-resident manufacturer CI in the United States.",
+        "The Revenue rejected BMBF 24's claim for 25% writing-down allowances, arguing s.42 CAA restricted allowances where plant was used for leasing to a non-resident not exclusively earning UK-taxable profits.",
+        "The special commissioners and Etherton J disagreed on whether 'the lease' in s.42(3) meant the headlease or the sublease; the Court of Appeal held the headlease was the relevant lease.",
+        "Because the headlease contained finance-lease features within s.42(3)(c)-(e) and the plant was used otherwise than for a qualifying purpose, writing-down allowances were withdrawn altogether rather than reduced to 10%."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against a High Court decision on a tax appeal under s.56A Taxes Management Act 1970 from the special commissioners.",
+      "outcome": "Appeal dismissed on issue (2); BMBF 24 failed because the relevant lease for s.42(3) was the headlease granted by the allowance claimant.",
+      "ratio": "In a chain of finance leases where plant is ultimately used by a non-resident, the 'lease' referred to in s.42(3) Capital Allowances Act 1990 is the lease granted by the owner who claims writing-down allowances (the headlease), not the sublease to the non-resident; where that headlease has finance-lease characteristics and the plant is used otherwise than for a qualifying purpose, allowances are denied entirely.",
+      "legal_issues": [
+        "Whether s.42(3) 'the lease' in a multi-lease structure refers to the headlease or sublease",
+        "The interaction of permitted leasing under s.42(1) and qualifying purpose under s.42(3)",
+        "Whether BMBF 24 'belonged to' the equipment and incurred qualifying capital expenditure"
+      ],
+      "catchwords": [
+        "writing-down allowances",
+        "s.42 CAA 1990",
+        "finance lease",
+        "headlease",
+        "non-resident lessee",
+        "plant and machinery",
+        "cross-border leasing"
+      ],
+      "index_terms": [
+        "BMBF No 24",
+        "Caterpillar leasing",
+        "Barclays Mercantile Business Finance",
+        "Mawson",
+        "Ramsay principle",
+        "short-term leasing",
+        "qualifying purpose"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Barclays Mercantile Business Finance Ltd v Mawson [2002] EWCA Civ 1853",
+          "role": "considered"
+        },
+        {
+          "citation": "Ramsay (WT) Ltd v Inland Revenue Commissioners [1982] AC 300",
+          "role": "considered"
+        },
+        {
+          "citation": "MacNiven (HMIT) v Westmoreland Investments Ltd [2001] UKHL 6",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Very detailed tax judgment; outcome clear on dispositive issue (2) though issues (4) and (5) were not argued."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2841.json",
+    "status": "done",
+    "notes": "Complete case stated appeal on magistrates' credibility findings in indecent assault prosecution.",
+    "enrichment": {
+      "short_title": "Youth Court conviction upheld despite inconsistent victim evidence in indecent assault case",
+      "area_of_law": [
+        "Criminal law",
+        "Sexual offences",
+        "Magistrates' courts",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Sexual Offences Act 1956",
+          "sections": ["s.14(1)"]
+        }
+      ],
+      "key_facts": [
+        "The appellant was convicted in Peterborough Youth Court of indecent assault on a 16-year-old girl in a public telephone box at the Tyesdale Centre in November 2002.",
+        "The victim gave inconsistent accounts in chief and cross-examination as to whether the assault occurred before or after the appellant followed two girls, and whether there was one or two assaults.",
+        "Magistrates accepted her evidence in chief as truthful, attributed inconsistencies to nervousness and vulnerability, noted immediate complaint to her boyfriend, and disbelieved the appellant who admitted lying to police.",
+        "On case stated appeal, Maurice Kay J held magistrates were entitled to convict on the version found proved: one assault after the appellant returned to the telephone box."
+      ],
+      "procedural_posture": "Appeal by way of case stated from the Youth Court sitting at Peterborough.",
+      "outcome": "Appeal dismissed; answer to the case stated question in the affirmative.",
+      "ratio": "Magistrates are entitled to prefer a complainant's evidence in chief and treat later inconsistencies in sexual offence cases as not undermining essential truthfulness where they have assessed demeanour, immediate complaint and the defendant's credibility; such findings are permissible unless irrational, and adequate reasons may identify which version of events was accepted.",
+      "legal_issues": [
+        "Whether inconsistent prosecution evidence permitted conviction",
+        "Whether magistrates' reasons were adequate",
+        "Whether the magistrates properly applied the burden and standard of proof"
+      ],
+      "catchwords": [
+        "indecent assault",
+        "case stated",
+        "credibility",
+        "inconsistent evidence",
+        "sexual offence complainant",
+        "youth court",
+        "magistrates' reasons"
+      ],
+      "index_terms": [
+        "Campbell v Peterborough Magistrates Court",
+        "telephone box assault",
+        "complaint evidence",
+        "no case to answer submission"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete short administrative/criminal appeal with clear findings and outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2629.json",
+    "status": "done",
+    "notes": "Complete quantum judgment following April 2003 liability decision in Douglas v Hello!.",
+    "enrichment": {
+      "short_title": "Hello! ordered to pay over £1m damages for publishing unauthorised Douglas wedding photographs",
+      "area_of_law": [
+        "Privacy and confidentiality",
+        "Media law",
+        "Damages",
+        "Intellectual property"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Data Protection Act 1998",
+          "sections": []
+        }
+      ],
+      "key_facts": [
+        "Following Lindsay J's April 2003 liability ruling that Hello! breached confidence by buying and publishing unauthorised wedding photographs of Michael Douglas and Catherine Zeta-Jones, a 12-day quantum hearing assessed damages.",
+        "Hello! bought 15 unauthorised photographs for £125,000 and published six in issue 639 after injunction proceedings; OK! magazine held the exclusive publishing contract.",
+        "OK! claimed lost sales from planned wedding issues 242 and 243; the judge held OK! would have printed 2.5m and 1.625m copies and sold about 3m copies absent Hello!'s breach, awarding OK! £1,033,156 including wasted costs.",
+        "The Douglases received £3,750 each for distress plus nominal Data Protection Act awards; the court chose conventional compensatory damages over a £125,000 notional licence fee."
+      ],
+      "procedural_posture": "Quantum hearing in the Chancery Division following a split trial on liability; further hearing listed on costs.",
+      "outcome": "Total award £1,047,756 (£14,600 to the Douglases, £1,033,156 to OK!/Northern & Shell plc); conventional damages basis preferred over notional licence fee.",
+      "ratio": "Damages for breach of confidence in a spoiler publication case should reflect the destruction of exclusivity and reasonably expected magazine sales and advertising revenue; where unauthorised photographs were widely republished in the press, loss to the exclusive publisher is a foreseeable consequence of the breach, and a detailed hypothetical sales analysis may support a substantial compensatory award exceeding any notional licence fee.",
+      "legal_issues": [
+        "Quantification of OK!'s lost revenue from planned wedding issues",
+        "Whether distress, wasted costs and lost sales overlapped with a notional licence fee claim",
+        "The effect of Hello!'s publication and press reproduction on OK! exclusivity",
+        "Assessment of distress damages for breach of confidence"
+      ],
+      "catchwords": [
+        "breach of confidence",
+        "celebrity privacy",
+        "wedding photographs",
+        "quantum of damages",
+        "notional licence fee",
+        "magazine exclusivity",
+        "spoiler publication"
+      ],
+      "index_terms": [
+        "Douglas v Hello!",
+        "OK! magazine",
+        "Rupert Thorpe",
+        "Catherine Zeta-Jones",
+        "Michael Douglas",
+        "aggravated damages refused",
+        "Kelvin Mackenzie expert evidence"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Douglas v Hello! Ltd [2001] QB 967",
+          "role": "applied"
+        },
+        {
+          "citation": "Campbell v MGN Ltd [2003] QB 633",
+          "role": "considered"
+        },
+        {
+          "citation": "Cornelius v de Taranto [2002] EMLR 112",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long but complete quantum judgment with detailed damages reasoning and final figures."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3089.json",
+    "status": "done",
+    "notes": "Complete Attorney General's reference on unduly lenient sentences for armed robberies.",
+    "enrichment": {
+      "short_title": "Attorney General's reference refused: concurrent firearms sentences not unduly lenient for imitation-gun robberies",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Robbery",
+        "Firearms offences"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Criminal Justice Act 1988",
+          "sections": ["s.36"]
+        },
+        {
+          "instrument": "Firearms Act 1968",
+          "sections": ["s.17(2)", "Sch.6"]
+        }
+      ],
+      "key_facts": [
+        "Lee Sebastian Hahn and Peter Alan Webster, with John Hahn (acquitted), committed two street/car robberies at gunpoint in Bristol in July 2002 using a stolen Vauxhall Nova and an imitation firearm.",
+        "Lee Hahn pleaded guilty and received 8 years concurrent on robberies plus concurrent firearms and TWOC sentences; Webster was convicted after trial and sentenced to 9 years on robberies with concurrent firearms terms.",
+        "The Attorney General referred the sentences as unduly lenient, arguing firearms counts should have been consecutive to robbery counts, producing totals of 11 and 12 years.",
+        "The court held the judge had reflected firearms use in the robbery sentences and concurrent terms were permissible where totality had been properly considered; imitation weapons and Webster's lesser role were relevant."
+      ],
+      "procedural_posture": "Attorney General's reference under s.36 Criminal Justice Act 1988 alleging unduly lenient sentences in the Crown Court at Bristol.",
+      "outcome": "Reference refused; sentences not unduly lenient.",
+      "ratio": "While consecutive sentences for firearms offences committed with other offences are ordinarily appropriate, a judge who has already reflected the possession or use of an imitation firearm in the principal robbery sentence may impose concurrent firearms terms without the overall sentence being unduly lenient if the totality principle is properly applied.",
+      "legal_issues": [
+        "Whether firearms sentences should have been consecutive to robbery sentences",
+        "Whether overall terms of 8 and 9 years were unduly lenient",
+        "Application of R v McGrath, R v Avis and AG References (Nos 58-66 of 2002)"
+      ],
+      "catchwords": [
+        "unduly lenient sentence",
+        "Attorney General's reference",
+        "robbery",
+        "imitation firearm",
+        "consecutive sentences",
+        "totality",
+        "s.36 CJA 1988"
+      ],
+      "index_terms": [
+        "Hahn and Webster",
+        "Bristol Crown Court",
+        "R v Greaves and Jaffier",
+        "R v Bottomley",
+        "joint enterprise robbery"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v McGrath (1986) 8 Cr App R(S) 372",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Avis [1998] 2 Cr App R(S) 178",
+          "role": "applied"
+        },
+        {
+          "citation": "Attorney General's References (Nos 58-66 of 2002) [2003] EWCA Crim 636",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Greaves and Jaffier [2003] EWCA Crim 3229",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Bottomley [1985] 7 Cr App R(S) 355",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete reserved judgment with clear sentencing principles and outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1575.json",
+    "status": "done",
+    "notes": "Complete occupier liability appeal; source judges metadata includes historic names not appearing in this judgment.",
+    "enrichment": {
+      "short_title": "Cricket club liable to volunteer injured in amateur pyrotechnic display for failing to vet operator",
+      "area_of_law": [
+        "Tort law",
+        "Occupiers' liability",
+        "Negligence",
+        "Personal injury"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Occupiers' Liability Act 1957",
+          "sections": ["s.2"]
+        }
+      ],
+      "key_facts": [
+        "Michael Bottomley, an unpaid volunteer helper, suffered severe burns when a petrol-filled mortar ignited prematurely during Todmorden Cricket Club's 1997 bonfire-night pyrotechnic display run by Chaos Encounter (Mark Hindle and David Read).",
+        "The club had engaged CE without proper checks after earlier displays in 1995 and 1996; CE lacked public liability insurance, formal safety plans and adequate expertise, and Bottomley had no pyrotechnic training.",
+        "Simon J found the club vicariously liable on an extra-hazardous activity basis and/or for failing to select a reasonably competent contractor; Hindle 75% and Read 25% liable, contributing 100% to the club's liability.",
+        "On appeal the club argued Honeywill v Larkin was displaced by the 1957 Act and that Bottomley, as CE's agent, was owed no duty; the Court of Appeal held the club owed him a duty for failing to take reasonable care in selecting CE."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against a High Court judgment on liability for personal injury; quantum to be determined.",
+      "outcome": "Appeal dismissed; club remains liable with contribution from Hindle and Read.",
+      "ratio": "An occupier who permits an extra-hazardous activity on its land owes a duty to take reasonable care in selecting a competent contractor, and may be directly liable in negligence to an injured volunteer helper of the contractor where inadequate vetting of an amateur pyrotechnics operator made the accident foreseeable; the Occupiers' Liability Act 1957 did not abolish the separate activity-duty principles in Honeywill v Larkin.",
+      "legal_issues": [
+        "Whether Honeywill v Larkin extra-hazardous activity liability survived the Occupiers' Liability Act 1957",
+        "Whether the club owed a duty to a volunteer agent of the independent contractor",
+        "Whether the club took reasonable care in selecting Chaos Encounter",
+        "Whether insurance status was relevant to contractor competence"
+      ],
+      "catchwords": [
+        "occupiers' liability",
+        "independent contractor",
+        "extra-hazardous activity",
+        "selection of contractor",
+        "pyrotechnics",
+        "volunteer helper",
+        "public liability insurance"
+      ],
+      "index_terms": [
+        "Todmorden Cricket Club",
+        "Chaos Encounter",
+        "Honeywill v Larkin",
+        "Salsbury v Woodland",
+        "Fairchild v Glenhaven",
+        "Gwilliam v West Hertfordshire NHS Trust",
+        "Ferguson v Welsh"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Honeywill & Stein Ltd v Larkin Brothers Ltd [1934] 1 KB 191",
+          "role": "applied"
+        },
+        {
+          "citation": "Fairchild v Glenhaven Funeral Services Ltd [2001] EWCA Civ 1881",
+          "role": "applied"
+        },
+        {
+          "citation": "Ferguson v Welsh [1987] 1 WLR 1553",
+          "role": "considered"
+        },
+        {
+          "citation": "Gwilliam v West Hertfordshire Hospital NHS Trust [2002] EWCA Civ 1041",
+          "role": "considered"
+        },
+        {
+          "citation": "Salsbury v Woodland [1970] 1 KB 191",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full liability judgment; anomalous judges list in source metadata but appeal court panel and reasoning are clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2552.json",
+    "status": "done",
+    "notes": "Complete but very long VAT best-judgment appeal; no truncation concerns.",
+    "enrichment": {
+      "short_title": "Customs VAT assessment restored after tribunal wrongly held officer failed to exercise best judgment",
+      "area_of_law": [
+        "Tax law",
+        "VAT",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Value Added Tax Act 1994",
+          "sections": ["s.73(1)", "s.72(1)", "s.72(3)"]
+        }
+      ],
+      "key_facts": [
+        "Customs assessed Pegasus Birds Ltd to £658,388 VAT for ten periods from 1993-1995, alleging about 82% of sales were suppressed off-record in a live-bird cash business.",
+        "Director Brett Hammond had pleaded guilty to VAT record-keeping offences; officer Mr Bakewell's assessment followed a long investigation but was challenged on best-judgment grounds after a 42-day tribunal hearing.",
+        "The VAT and Duties Tribunal held the assessment was not made to best judgment and indicated true liability was at most £27,000 rather than £658,388.",
+        "Etherton J held the tribunal misdirected itself: disagreeing with Bakewell's assumptions or conclusions did not prove dishonest failure to exercise best judgment; quantum was remitted."
+      ],
+      "procedural_posture": "Appeal to the High Court (Chancery Division) against a VAT and Duties Tribunal decision allowing Pegasus Birds Ltd's appeal against a VAT assessment.",
+      "outcome": "Commissioners' appeal allowed on best judgment; tribunal decision set aside; quantum remitted to a tribunal.",
+      "ratio": "A VAT assessment is made to best judgment if the officer honestly and genuinely considers the material before him and reaches a view he believes correct; a tribunal's disagreement with the officer's assumptions or conclusion that the assessment is excessive does not, without more, establish failure to exercise best judgment or dishonesty.",
+      "legal_issues": [
+        "The legal test for best judgment under s.73(1) VATA 1994",
+        "Whether the tribunal erred in inferring conscious failure or intellectual dishonesty by Mr Bakewell",
+        "Whether there was evidence supporting the tribunal's best-judgment finding"
+      ],
+      "catchwords": [
+        "VAT assessment",
+        "best judgment",
+        "suppressed sales",
+        "VAT tribunal",
+        "Customs and Excise",
+        "quantum remittal",
+        "live bird trade"
+      ],
+      "index_terms": [
+        "Pegasus Birds Ltd",
+        "Brett Hammond",
+        "Mr Bakewell",
+        "off-record sales",
+        "forensic accountant",
+        "42-day tribunal hearing"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Very long judgment but complete with clear legal conclusion; quantum issue expressly remitted undecided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2607.json",
+    "status": "done",
+    "notes": "Complete judicial review of Rail Regulator station access compensation directions for St Pancras CTRL works.",
+    "enrichment": {
+      "short_title": "Rail Regulator's St Pancras station access compensation directions upheld on judicial review",
+      "area_of_law": [
+        "Railway law",
+        "Administrative law",
+        "Judicial review",
+        "Property/compulsory access"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Railways Act 1993",
+          "sections": ["s.4", "s.17", "s.18", "s.22", "Sch.4"]
+        },
+        {
+          "instrument": "Channel Tunnel Rail Link Act 1996",
+          "sections": []
+        },
+        {
+          "instrument": "Transport Act 2000",
+          "sections": []
+        },
+        {
+          "instrument": "European Convention on Human Rights",
+          "sections": ["Art. 1 Protocol 1"]
+        }
+      ],
+      "key_facts": [
+        "LCSP, owner of St Pancras station, challenged Rail Regulator directions requiring a new station access agreement compensating Midland Main Line for CTRL redevelopment disruption after the 1996 agreement expired before works finished.",
+        "MML's franchise had been extended and passenger services increased since 1996; the Regulator directed compensation rebased on 2003 revenue and recalculated walking-time payments to hold MML financially neutral.",
+        "LCSP argued the regime imposed an excessive burden exceeding access charges, infringed A1P1, and wrongly multiplied walking-time compensation rather than following the parties' prior practice under the 1996 agreement.",
+        "Moses J held the Regulator acted rationally in requiring full compensation for foreseeable business disruption and lawfully adopted MVA's methodology despite higher compensation than access charges received."
+      ],
+      "procedural_posture": "Application for judicial review of Rail Regulator directions under s.17 Railways Act 1993 requiring LCSP to enter into a station access contract with MML.",
+      "outcome": "Application dismissed; Regulator's compensation directions upheld.",
+      "ratio": "In directing station access compensation during CTRL works, the Rail Regulator lawfully required MML to be held financially neutral against revenue loss from disruption, including by rebasing compensation on current revenue and applying per-minute walking-time multipliers, and this did not infringe Article 1 Protocol 1 where the claimant had historically agreed to a genuine pre-estimate compensation regime and delay in completion made continued protection necessary.",
+      "legal_issues": [
+        "Whether compensation based on 2003 revenue re-basing was lawful",
+        "Whether per-minute multiplication for dispersed-facility walking time was justified",
+        "Whether the directed regime imposed a disproportionate burden infringing A1P1",
+        "Whether the Regulator failed to take account of the 1996 agreement as operated by the parties"
+      ],
+      "catchwords": [
+        "Rail Regulator",
+        "station access agreement",
+        "CTRL",
+        "St Pancras",
+        "compensation for disruption",
+        "judicial review",
+        "A1P1",
+        "walking time compensation"
+      ],
+      "index_terms": [
+        "London & Continental Stations & Property Ltd",
+        "Midland Main Line Ltd",
+        "MVA consultancy",
+        "1996 Station Access Agreement",
+        "Winsor v Bloom",
+        "Cellcom",
+        "financial neutrality"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Winsor v Bloom [2002] EWCA Civ 955",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Director General of Telecommunications, ex p Cellcom [1999] ECC 314",
+          "role": "applied"
+        },
+        {
+          "citation": "Chassagnou v France (1999) 29 EHRR 615",
+          "role": "considered"
+        },
+        {
+          "citation": "Jokela v Finland [2002] ECtHR App No 28856/95",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long technical judgment but complete with comprehensive disposal of multiple JR grounds."
+      }
+    }
+  }
+]

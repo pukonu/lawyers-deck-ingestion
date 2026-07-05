@@ -1,0 +1,886 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/647.json",
+    "status": "done",
+    "notes": "Batch 60 enrichment",
+    "enrichment": {
+      "short_title": "Cumulative whiplash injuries and loss of earnings apportionment",
+      "area_of_law": [
+        "Personal injury",
+        "Tort law",
+        "Road traffic accidents"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mrs Pearce suffered three rear-end road traffic accidents within nine months in 1993, each caused by a different defendant.",
+        "Medical experts agreed her chronic pain state and inability to continue as deputy head teacher resulted from the cumulative effect of all three accidents.",
+        "The first and second defendants appealed, arguing loss of earnings should fall only on the third defendant because she would have kept working but for the third accident.",
+        "The judge held all three defendants liable for loss of earnings and pension in proportions of 30%, 30% and 40%, and that she would have worked until age 60."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against a county court decision on apportionment of loss of earnings and pension among three tortfeasors.",
+      "outcome": "Appeals dismissed; all three defendants remain liable for their share of loss of earnings and pension.",
+      "ratio": "Where medical evidence shows a claimant's chronic pain state and consequential loss of earnings were caused by the cumulative effect of several tortious accidents, each defendant whose breach materially contributed to that state is liable for the full financial consequences, even if a single accident alone would not have forced the claimant to give up work.",
+      "legal_issues": [
+        "Apportionment of loss of earnings among successive tortfeasors",
+        "Whether loss of employment can be attributed to one accident when injury is cumulative",
+        "Material contribution causation in personal injury",
+        "Multiplier for future loss of earnings where early retirement was possible"
+      ],
+      "catchwords": [
+        "cumulative injury",
+        "whiplash",
+        "loss of earnings",
+        "material contribution",
+        "multiple defendants",
+        "chronic pain",
+        "apportionment"
+      ],
+      "index_terms": [
+        "Marina Pearce",
+        "Bonnington Castings v Wardlaw",
+        "McGhee v National Coal Board",
+        "road traffic accident",
+        "pension loss",
+        "deputy head teacher"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bonnington Castings Ltd v Wardlaw",
+          "citation": "[1956] AC 613",
+          "relation": "applied"
+        },
+        {
+          "name": "McGhee v National Coal Board",
+          "citation": "[1973] 1 WLR 1",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear unanimous CA judgment on well-established material contribution principles; retirement age ground also addressed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/425.json",
+    "status": "done",
+    "notes": "Batch 60 enrichment",
+    "enrichment": {
+      "short_title": "Oasis drummer's solicitor negligence claim time-barred",
+      "area_of_law": [
+        "Professional negligence",
+        "Limitation of actions",
+        "Entertainment law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 2",
+            "section 14A",
+            "section 32"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Anthony McCarroll, former Oasis drummer, claimed his solicitor negligently negotiated a 1993 Sony recording contract favouring Noel and Liam Gallagher and leaving him vulnerable to summary expulsion.",
+        "He was expelled from the band in April 1995 but did not sue the solicitors until April 2001, within six years of expulsion but more than six years after signing the agreement.",
+        "Gray J granted summary judgment on limitation; the Court of Appeal held damage accrued when the Sony Agreement was executed because it was commercially less favourable than it should have been.",
+        "Claims under sections 14A and 32 failed because the appellant had knowledge of essential facts from shortly after expulsion."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against summary judgment striking out a professional negligence claim on limitation grounds.",
+      "outcome": "Appeal dismissed; claim held statute-barred under section 2.",
+      "ratio": "In a solicitor negligence claim for failure to secure favourable contractual terms, actual damage accrues when the disadvantageous agreement is entered, not when a contingent risk such as expulsion later materialises; exposure to instant dismissal without compensation constitutes measurable loss at the date of the transaction.",
+      "legal_issues": [
+        "When damage first accrues in professional negligence claims for bad contract terms",
+        "Whether contingent future expulsion delays limitation period",
+        "Application of section 14A discovery provisions to solicitor negligence",
+        "Section 32 deliberate concealment in professional negligence"
+      ],
+      "catchwords": [
+        "limitation",
+        "professional negligence",
+        "solicitor",
+        "recording contract",
+        "accrual of damage",
+        "contingent loss",
+        "summary judgment"
+      ],
+      "index_terms": [
+        "Anthony McCarroll",
+        "Oasis",
+        "Statham Gill Davies",
+        "Sony Agreement",
+        "Nykredit",
+        "Forster v Outred"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Nykredit Plc v Edward Erdman Ltd",
+          "citation": "[1997] 1 WLR 1627",
+          "relation": "applied"
+        },
+        {
+          "name": "Forster v Outred & Co",
+          "citation": "[1982] 1 WLR 86",
+          "relation": "cited"
+        },
+        {
+          "name": "First National Commercial Bank Plc v Humberts",
+          "citation": "[1995] 2 All ER 673",
+          "relation": "cited"
+        },
+        {
+          "name": "Knapp v Ecclesiastical Insurance Group Plc",
+          "citation": "[1998] PNLR 172",
+          "relation": "applied"
+        },
+        {
+          "name": "D W Moore & Co Ltd v Ferrier",
+          "citation": "[1988] 1 WLR 267",
+          "relation": "cited"
+        },
+        {
+          "name": "Wardley Australia Ltd v State of Western Australia",
+          "citation": "[1992] 175 CLR 514",
+          "relation": "distinguished"
+        },
+        {
+          "name": "C v Mirror Group Newspapers",
+          "citation": "[1997] 1 WLR 131",
+          "relation": "cited"
+        },
+        {
+          "name": "Frisby v Theodore Goddard & Co",
+          "citation": "(Transcript 27 February 1984)",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed CA analysis of limitation in economic loss claims; metadata lists historical judges not sitting on appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/423.json",
+    "status": "done",
+    "notes": "Batch 60 enrichment",
+    "enrichment": {
+      "short_title": "Eddie Irvine false endorsement passing-off damages",
+      "area_of_law": [
+        "Intellectual property",
+        "Passing off",
+        "Damages"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "TalkSport used a doctored photograph of Formula One driver Eddie Irvine on a promotional leaflet suggesting he endorsed Talk Radio, without his consent.",
+        "Laddie J found passing off but assessed damages at £2,000 as a reasonable endorsement fee for a small campaign to under 1,000 advertisers.",
+        "The Court of Appeal upheld liability but increased damages to £25,000, applying General Tire principles to a reasonable royalty measure.",
+        "Expert and factual evidence showed Irvine's minimum endorsement fee in 1999 was at least £25,000 and comparable deals exceeded that figure."
+      ],
+      "procedural_posture": "Cross-appeals to the Court of Appeal in a passing-off action: defendant appealed on liability; claimant appealed on quantum.",
+      "outcome": "Liability appeal dismissed; damages appeal allowed; award increased from £2,000 to £25,000.",
+      "ratio": "In a false endorsement passing-off case, damages are measured by the reasonable endorsement fee the defendant would have had to pay to use the claimant's goodwill lawfully; unchallenged evidence of minimum fees and comparable licensing deals fixes that figure, and the limited scale of the promotion does not justify disregarding it.",
+      "legal_issues": [
+        "Whether passing off covers false celebrity endorsement without common field of activity",
+        "Whether a doctored promotional image falsely represented endorsement",
+        "Correct measure of damages as reasonable endorsement fee",
+        "Application of General Tire royalty principles to passing off"
+      ],
+      "catchwords": [
+        "passing off",
+        "false endorsement",
+        "celebrity image",
+        "reasonable royalty",
+        "damages assessment",
+        "Formula One",
+        "goodwill"
+      ],
+      "index_terms": [
+        "Eddie Irvine",
+        "TalkSport",
+        "Talk Radio",
+        "Laddie J",
+        "General Tire",
+        "endorsement fee",
+        "British Grand Prix"
+      ],
+      "linked_authorities": [
+        {
+          "name": "General Tire and Rubber Company v Firestone Tyre and Rubber Company Ltd",
+          "citation": "[1976] RPC 197",
+          "relation": "applied"
+        },
+        {
+          "name": "A.G. v London Aluminium Co Ltd (No 2)",
+          "citation": "(1923) 40 RPC 107",
+          "relation": "cited"
+        },
+        {
+          "name": "Meters Ltd v Metropolitan Gas Meters Ltd",
+          "citation": "(1911) 28 RPC 157",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long judgment with clear liability and damages holdings; metadata lists deceased Law Lords not on the panel."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/676.json",
+    "status": "done",
+    "notes": "Batch 60 enrichment",
+    "enrichment": {
+      "short_title": "CGT flip-flop settlement scheme and section 77 TGA",
+      "area_of_law": [
+        "Tax law",
+        "Capital gains tax",
+        "Trusts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Taxation of Chargeable Gains Act 1992",
+          "provisions": [
+            "section 77"
+          ]
+        },
+        {
+          "title": "Finance Act 1995",
+          "provisions": []
+        },
+        {
+          "title": "Income and Corporation Taxes Act 1988",
+          "provisions": [
+            "section 660A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Shareholders in Einkorn Ltd implemented a pre-sale flip-flop scheme using paired life interest settlements and bank borrowing to reduce CGT from 40% to 25%.",
+        "Special Commissioners allowed the taxpayers' appeal; HM Inspector of Taxes appealed on whether settlors retained an interest under section 77 TGA as amended.",
+        "Funds borrowed against shares and transferred to second settlements were held to be derived property, so gains were chargeable on settlors at their marginal rate.",
+        "Arguments based on trustee indemnity and deed of exclusion failed."
+      ],
+      "procedural_posture": "High Court appeal on a question of law from Special Commissioners against CGT assessments on a flip-flop settlement scheme.",
+      "outcome": "Inspector's appeals allowed on the derived-property ground; assessments upheld at 40% rate.",
+      "ratio": "Under section 77(2) and (8) TGA, property outside a settlement representing proceeds of settled property is derived property; funds raised by borrowing on shares in a first settlement and transferred to a second settlement in which the settlor retains a benefit can cause chargeable gains to be treated as accruing to the settlor.",
+      "legal_issues": [
+        "Construction of derived property under section 77(8) TGA",
+        "Whether borrowed funds transferred to a second settlement are derived from first settlement property",
+        "Whether a settlor-trustee's right of indemnity constitutes a retained interest",
+        "Effectiveness of a deed of exclusion for section 77 purposes"
+      ],
+      "catchwords": [
+        "capital gains tax",
+        "settlements",
+        "derived property",
+        "anti-avoidance",
+        "flip-flop scheme",
+        "settlor interest",
+        "Special Commissioners"
+      ],
+      "index_terms": [
+        "Einkorn Ltd",
+        "section 77 TGA",
+        "W T Ramsey v IRC",
+        "Furniss v Dawson",
+        "IRC v Botnar",
+        "life interest settlement"
+      ],
+      "linked_authorities": [
+        {
+          "name": "W T Ramsay v IRC",
+          "citation": "[1982] AC 300",
+          "relation": "cited"
+        },
+        {
+          "name": "Furniss v Dawson",
+          "citation": "[1984] AC 474",
+          "relation": "cited"
+        },
+        {
+          "name": "IRC v McGuckian",
+          "citation": "[1997] 1 WLR 991",
+          "relation": "cited"
+        },
+        {
+          "name": "Macniven v Westmoreland Investments Ltd",
+          "citation": "[2001] 2 WLR 377",
+          "relation": "cited"
+        },
+        {
+          "name": "Frankland v IRC",
+          "citation": "[1997] STC 1450",
+          "relation": "cited"
+        },
+        {
+          "name": "IRC v Botnar",
+          "citation": "72 TC 205",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Agreed facts and focused statutory construction; metadata lists Law Lords not sitting."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/615.json",
+    "status": "done",
+    "notes": "Batch 60 enrichment",
+    "enrichment": {
+      "short_title": "Immigration judicial review jurisdiction in Scottish cases",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "Schedule 4, paragraph 23(3)"
+          ]
+        },
+        {
+          "title": "Nationality Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 101"
+          ]
+        },
+        {
+          "title": "Union with Scotland Act 1706",
+          "provisions": [
+            "Article XIX"
+          ]
+        }
+      ],
+      "key_facts": [
+        "An Iraqi asylum seeker dispersed to Scotland sought judicial review in the High Court of an Immigration Appeal Tribunal refusal of permission to appeal against an adjudicator's decision.",
+        "Jackson J refused permission, holding the High Court lacked jurisdiction where the underlying adjudication was in Scotland and IAT appeals lie to the Court of Session.",
+        "The claimant argued England was the appropriate forum because asylum decisions were made in England and the IAT sat in London.",
+        "The Court of Appeal held that, as a matter of everyday practice and constitutional principle, such applications belong in the Court of Session."
+      ],
+      "procedural_posture": "Permission appeal to the Court of Appeal against refusal of permission to apply for judicial review of an IAT decision.",
+      "outcome": "Application dismissed; claimant directed to the Court of Session; no order for costs.",
+      "ratio": "Where an immigration adjudicator sits in Scotland, supervisory review of Immigration Appeal Tribunal decisions should ordinarily be pursued in the Court of Session rather than the High Court in England, notwithstanding that asylum processing may have occurred in England and the IAT hears appeals from London.",
+      "legal_issues": [
+        "Whether the High Court has jurisdiction over judicial review of IAT decisions in Scottish cases",
+        "Forum conveniens and comity between English and Scottish courts",
+        "Effect of paragraph 23(3) of Schedule 4 to the 1999 Act",
+        "Whether Spiliada principles apply to domestic jurisdictional disputes"
+      ],
+      "catchwords": [
+        "judicial review",
+        "jurisdiction",
+        "Court of Session",
+        "Immigration Appeal Tribunal",
+        "Scotland",
+        "asylum",
+        "dispersal"
+      ],
+      "index_terms": [
+        "Mohammed Ali Mohammed Majaed",
+        "Jackson J",
+        "R v Special Commissioner ex parte RW Forsyth Ltd",
+        "R v Secretary of State for Scotland ex parte Greenpeace",
+        "Spiliada"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Special Commissioner ex parte RW Forsyth Ltd",
+          "citation": "[1986] STC 565",
+          "relation": "cited"
+        },
+        {
+          "name": "Lord Advocate v RW Forsyth Ltd",
+          "citation": "61 TC 1",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Secretary of State for Scotland ex parte Greenpeace",
+          "citation": "(Crown Office transcript 24 May 1995)",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Industrial Disputes Tribunal ex parte Kigass Ltd",
+          "citation": "[1953] 1 WLR 411",
+          "relation": "cited"
+        },
+        {
+          "name": "Bank of Scotland v IMRO",
+          "citation": "[1989] SLT 432",
+          "relation": "cited"
+        },
+        {
+          "name": "Spiliada Maritime Corporation v Cansulex Ltd",
+          "citation": "[1987] AC 460",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Lubbe v Cape Plc",
+          "citation": "[2000] 1 WLR 1545",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Jurisdiction reasoning clear though court left open emergency High Court jurisdiction; metadata lists Scottish judges not on panel."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/813.json",
+    "status": "done",
+    "notes": "Batch 60 enrichment",
+    "enrichment": {
+      "short_title": "Asylum seeker HIV dispersal from London refused",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 95",
+            "section 97"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Ugandan asylum seeker with full-blown AIDS receiving specialist treatment at St George's Hospital, London, challenged NASS dispersal to Leeds.",
+        "Medical evidence showed HIV treatment was available in Leeds but her depression and London support network would be disrupted by relocation.",
+        "The Secretary of State decided compassionate factors did not outweigh the policy of dispersing asylum seekers outside London where accommodation was available.",
+        "Goldring J held the decision rational and proportionate; undertaking given not to move her pending her IAT appeal."
+      ],
+      "procedural_posture": "Judicial review application to quash a section 95 dispersal decision under the Immigration and Asylum Act 1999.",
+      "outcome": "Application refused; permission to appeal refused; Secretary of State undertook not to disperse pending IAT hearing.",
+      "ratio": "Article 8 requires consideration of an asylum seeker's personal circumstances when providing accommodation but does not give a right to remain in a preferred locality; a dispersal decision balancing medical availability, support disruption and the statutory policy of providing accommodation where supply exists may be lawful even where relocation affects psychological wellbeing.",
+      "legal_issues": [
+        "Whether dispersal under section 95/97 was Wednesbury unreasonable",
+        "Whether Article 8 required accommodation in London given medical and support needs",
+        "Application of NASS Dispersal Guidelines on special needs",
+        "Proportionality of interference with private life"
+      ],
+      "catchwords": [
+        "asylum support",
+        "dispersal",
+        "section 95",
+        "Article 8",
+        "HIV",
+        "NASS",
+        "special needs"
+      ],
+      "index_terms": [
+        "National Asylum Support Service",
+        "St George's Hospital",
+        "Leeds",
+        "Hetoja",
+        "Wednesbury",
+        "Article 3"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hetoja",
+          "citation": "[2002] EWHC 2146",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full first-instance judgment on familiar dispersal principles; judges field empty in source metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/408.json",
+    "status": "done",
+    "notes": "Batch 60 enrichment",
+    "enrichment": {
+      "short_title": "Defective Premises Act limitation after remedial works",
+      "area_of_law": [
+        "Construction and property",
+        "Limitation of actions",
+        "Housing defects"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Defective Premises Act 1972",
+          "provisions": [
+            "section 1",
+            "section 1(5)"
+          ]
+        },
+        {
+          "title": "Limitation Act 1939",
+          "provisions": []
+        },
+        {
+          "title": "Limitation Act 1963",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mother and daughter bought basement flats in a 1994 Liverpool conversion that lacked adequate damp proofing under the Newton system.",
+        "The developer carried out further works in May and September 1995 to address damp but did not repair the underlying tanking; flats remained unfit for habitation.",
+        "Proceedings issued in January 2001 were struck out as statute-barred on the basis limitation ran from completion in May 1994.",
+        "The Court of Appeal held section 1(5) proviso gave a fresh cause of action when remedial work failed to rectify the original defective work."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against strike-out of a Defective Premises Act claim as time-barred.",
+      "outcome": "Appeal allowed; strike-out set aside; case remitted for trial.",
+      "ratio": "Under section 1(5) of the Defective Premises Act 1972, where a developer does further work to rectify earlier work that left a dwelling unfit for habitation, a fresh cause of action accrues when that remedial work is finished if it fails to make the dwelling fit for habitation, even where the remedial work itself was executed in a workmanlike manner.",
+      "legal_issues": [
+        "Construction of the section 1(5) proviso on further remedial work",
+        "Whether limitation runs from original completion or from failed remedial works",
+        "Distinction between defects in remedial work and failure to rectify underlying defect",
+        "Application of Andrews v Schooling to omissions"
+      ],
+      "catchwords": [
+        "Defective Premises Act",
+        "limitation",
+        "damp proofing",
+        "remedial works",
+        "fit for habitation",
+        "developer liability",
+        "strike out"
+      ],
+      "index_terms": [
+        "Beetham Organisation",
+        "Alderson",
+        "Livingstone Drive North",
+        "Newton system",
+        "Andrews v Schooling",
+        "Hancock v Brazier"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Andrews v Schooling",
+          "citation": "[1991] 1 WLR 783",
+          "relation": "applied"
+        },
+        {
+          "name": "Hancock v Brazier",
+          "citation": "[1966] 1 WLR 1317",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Unanimous CA with detailed analysis of section 1(5); facts accepted for appeal purposes."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1147.json",
+    "status": "done",
+    "notes": "Batch 60 enrichment",
+    "enrichment": {
+      "short_title": "Vehicular easement over public footpath barred after 1930",
+      "area_of_law": [
+        "Property law",
+        "Easements",
+        "Highways"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 34(1)",
+            "section 192"
+          ]
+        },
+        {
+          "title": "Road Traffic Act 1930",
+          "provisions": [
+            "section 14"
+          ]
+        },
+        {
+          "title": "Countryside and Rights of Way Act 2000",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mrs Hayling claimed a vehicular and pedestrian right of way over a field called the Common to reach Birchlas Cottage in Staunton, Gloucestershire.",
+        "The route included a public footpath; driving on it was a criminal offence under section 34 of the Road Traffic Act 1988.",
+        "The judge found long user but wrongly treated the way as an occupation way exempt from Hanning v Top Deck.",
+        "The Court of Appeal allowed the appeal on post-1930 prescription but allowed a cross-appeal finding a lost modern grant from pre-1930 user."
+      ],
+      "procedural_posture": "Appeal and cross-appeal to the Court of Appeal against a county court declaration of vehicular easement by prescription.",
+      "outcome": "Appeal allowed; cross-appeal allowed; declaration of vehicular right of way upheld via lost modern grant.",
+      "ratio": "An easement cannot be acquired by user that was criminal at the time; driving on a public footpath without lawful authority after the Road Traffic Act 1930 cannot found prescriptive rights, but a lost modern grant may still be inferred from 20 years' lawful vehicular user before 1930.",
+      "legal_issues": [
+        "Whether criminal use of a footpath prevents acquisition of vehicular easement",
+        "Distinction between occupation way and public footpath",
+        "Lost modern grant based on pre-1930 user",
+        "Application of Hanning v Top Deck and Bakewell Management v Brandwood"
+      ],
+      "catchwords": [
+        "easement",
+        "prescription",
+        "lost modern grant",
+        "footpath",
+        "vehicular access",
+        "Hanning v Top Deck",
+        "illegal user"
+      ],
+      "index_terms": [
+        "Staunton",
+        "Birchlas Cottage",
+        "the Common",
+        "Neaverson v Peterborough RDC",
+        "Stevens v Secretary of State for the Environment",
+        "Gloucestershire"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hanning v Top Deck Travel Group Ltd",
+          "citation": "(1993) 68 P & CR 14",
+          "relation": "applied"
+        },
+        {
+          "name": "Bakewell Management Ltd v Brandwood",
+          "citation": "[2003] EWCA Civ 23",
+          "relation": "applied"
+        },
+        {
+          "name": "Neaverson v Peterborough RDC",
+          "citation": "[1902] 1 Ch 557",
+          "relation": "cited"
+        },
+        {
+          "name": "Stevens v Secretary of State for the Environment",
+          "citation": "(1998) 76 P & CR 503",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Complex easement analysis; pre-1930 user finding somewhat thin but court treated census evidence as sufficient."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/670.json",
+    "status": "done",
+    "notes": "Batch 60 enrichment",
+    "enrichment": {
+      "short_title": "Planning inspector erred omitting BS4142 noise assessment",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Environmental law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Hanson appealed refusal of temporary planning permission for a road-rail aggregate interchange beside the National Monuments Record Centre in Swindon.",
+        "An inspector allowed the appeal subject to conditions; Swindon Borough Council challenged noise, conservation area and employment policy reasoning.",
+        "The inspector assessed noise against MPG11 but made no mention of BS4142, which the council relied on as a key standard for the noise-sensitive NMRC.",
+        "Richards J quashed the decision on the noise ground alone; conservation area and land use challenges failed."
+      ],
+      "procedural_posture": "Section 288 challenge to a planning inspector's decision allowing an appeal for a road-rail interchange.",
+      "outcome": "Decision quashed on noise grounds and remitted; Secretary of State ordered to pay 60% of council costs.",
+      "ratio": "Where BS4142 is a central plank of a planning objection on noise impact at a noise-sensitive receptor, an inspector must either apply it or explain why it is irrelevant or given no weight; silent omission of a material consideration or failure to give adequate reasons is sufficient to quash the decision.",
+      "legal_issues": [
+        "Whether the inspector failed to consider BS4142 in noise assessment",
+        "Adequacy of reasons on a principal controversial issue",
+        "Conservation area harm from rail-related minerals use",
+        "Temporary permission and conflict with local plan employment policies SEM21A and SEM38"
+      ],
+      "catchwords": [
+        "planning appeal",
+        "noise",
+        "BS4142",
+        "MPG11",
+        "section 288",
+        "conservation area",
+        "material consideration"
+      ],
+      "index_terms": [
+        "Swindon Borough Council",
+        "Hanson Quarry Products",
+        "National Monuments Record Centre",
+        "English Heritage",
+        "road rail interchange",
+        "Save Britain's Heritage v Number 1 Poultry"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re Poyser & Mills Arbitration",
+          "citation": "[1964] 2 QB 467",
+          "relation": "cited"
+        },
+        {
+          "name": "Hope v Secretary of State for the Environment",
+          "citation": "(1975) 31 P&CR 120",
+          "relation": "cited"
+        },
+        {
+          "name": "Bolton Metropolitan District Council v Secretary of State for the Environment",
+          "citation": "(1996) 71 P&CR 309",
+          "relation": "cited"
+        },
+        {
+          "name": "Save Britain's Heritage v Number 1 Poultry",
+          "citation": "[1991] 1 WLR 153",
+          "relation": "applied"
+        },
+        {
+          "name": "Newsmith Stainless Ltd v Secretary of State",
+          "citation": "[2001] EWHC Admin 74",
+          "relation": "cited"
+        },
+        {
+          "name": "JC Decaux Ltd v First Secretary of State",
+          "citation": "[2003] EWHC 407 Admin",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed Richards J judgment; noise flaw clearly reasoned; other grounds comprehensively rejected."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/947.json",
+    "status": "done",
+    "notes": "Batch 60 enrichment",
+    "enrichment": {
+      "short_title": "Partingdale Lane traffic orders quashed for predetermination",
+      "area_of_law": [
+        "Administrative law",
+        "Highways and traffic",
+        "Local government"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Regulation Act 1984",
+          "provisions": [
+            "section 6",
+            "section 121A",
+            "Schedule 9, paragraph 35",
+            "Schedule 9, paragraph 36"
+          ]
+        },
+        {
+          "title": "Local Government Act 2000",
+          "provisions": [
+            "section 10",
+            "section 13",
+            "section 15",
+            "section 21",
+            "section 24"
+          ]
+        },
+        {
+          "title": "Local Authorities' Traffic Orders (Procedure) (England and Wales) Regulations 1996",
+          "provisions": [
+            "regulation 6",
+            "regulation 7",
+            "regulation 8",
+            "regulation 13"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Barnet Council made traffic orders reopening Partingdale Lane, a Green Belt lane previously closed to through traffic, with weight and speed restrictions.",
+        "Cabinet member Councillor Coleman decided in August 2002 to reopen the lane before statutory consultation on draft orders completed.",
+        "Residents challenged the orders under Schedule 9 paragraph 35 of the Road Traffic Regulation Act 1984.",
+        "The deputy judge found predetermination and consultation not at a formative stage; traffic impact and safety grounds were not determined."
+      ],
+      "procedural_posture": "High Court application under Schedule 9 paragraph 35 of the Road Traffic Regulation Act 1984 to quash three traffic orders.",
+      "outcome": "Application allowed; three traffic orders quashed; permission to appeal granted; defendant to pay claimant's costs.",
+      "ratio": "Traffic order consultation must occur while proposals remain at a formative stage with a decision-maker's receptive mind; where an executive cabinet member has predetermined the principle of reopening a road before consultation, subsequent objection procedures cannot cure the defect even if officers later override objections.",
+      "legal_issues": [
+        "Lawfulness of executive member decision-making under the Local Government Act 2000",
+        "Whether consultation complied with Gunning/Wainwright principles",
+        "Predetermination by a single cabinet member",
+        "Rationality of traffic and safety assessment"
+      ],
+      "catchwords": [
+        "traffic orders",
+        "consultation",
+        "predetermination",
+        "Local Government Act 2000",
+        "executive decision",
+        "Green Belt",
+        "road reopening"
+      ],
+      "index_terms": [
+        "Partingdale Lane",
+        "Barnet London Borough Council",
+        "Brian Coleman",
+        "Gunning",
+        "Wainwright",
+        "Hanning v Top Deck"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Brent London Borough Council ex parte Gunning",
+          "citation": "[1985] 84 LGR 168",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Wainwright) v Richmond Upon Thames London Borough Council",
+          "citation": "[2001] EWCA Civ 2062",
+          "relation": "applied"
+        },
+        {
+          "name": "Lower Hutt City Council v Bank",
+          "citation": "[1974] 1 NZLR 545",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Amber Valley District Council ex parte Jackson",
+          "citation": "[1984] 3 All ER 501",
+          "relation": "cited"
+        },
+        {
+          "name": "Bromley London Borough Council v Greater London Council",
+          "citation": "[1983] 1 AC 768",
+          "relation": "cited"
+        },
+        {
+          "name": "Bovis Homes Ltd v New Forest District Council",
+          "citation": "[2002] EWHC 483 (Admin)",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed judgment on consultation and predetermination; traffic/safety issues expressly left undetermined."
+      }
+    }
+  }
+]

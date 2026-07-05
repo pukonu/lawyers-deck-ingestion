@@ -1,0 +1,677 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/155.json",
+    "status": "done",
+    "notes": "Batch 03 enrichment.",
+    "enrichment": {
+      "short_title": "Mother and baby unit exclusion and separation",
+      "area_of_law": [
+        "Prison law",
+        "Public law",
+        "Human rights",
+        "Family and child welfare"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "CD, a 19-year-old Jamaican woman serving a three-and-a-half-year sentence for cocaine importation, gave birth to her son AD in the Mother and Baby Unit at Styal prison.",
+        "On 19 September 2002 the residential governor excluded CD from the MBU and separated mother and baby after allegations of conflict with other prisoners, without giving her a proper opportunity to answer the allegations.",
+        "Joint expert evidence from a consultant psychologist and consultant social worker strongly recommended urgent phased reunification, warning of serious attachment disruption if separation continued.",
+        "There were no prescribed Prison Service procedures governing exclusion and separation in these circumstances, despite detailed admission procedures for MBUs."
+      ],
+      "procedural_posture": "Judicial review on behalf of the imprisoned mother and her infant son, represented by the Official Solicitor, of the Prison Service decision to exclude the mother from the MBU and separate her from her baby.",
+      "outcome": "Application for judicial review succeeded; the exclusion and separation decision was quashed and the Prison Service was required to reconsider lawfully.",
+      "ratio": "A decision to exclude a mother from a Mother and Baby Unit and separate her from her baby engages Article 8 and must give primary consideration to the child's best interests, be proportionate after assessing less intrusive alternatives, and be reached only after fair procedures including an opportunity to answer allegations and make representations.",
+      "legal_issues": [
+        "Whether the decision-maker properly considered the child's best interests as the primary consideration",
+        "Whether separation was a proportionate and justifiable interference with Article 8 rights",
+        "Whether the decision was procedurally fair",
+        "Whether a later internal review cured earlier procedural and substantive defects"
+      ],
+      "catchwords": [
+        "mother and baby unit",
+        "prison separation",
+        "Article 8",
+        "best interests of the child",
+        "proportionality",
+        "procedural fairness",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Prison Service",
+        "Mother and Baby Unit",
+        "Styal",
+        "family life",
+        "child attachment",
+        "Official Solicitor",
+        "ECHR"
+      ],
+      "linked_authorities": [
+        "R (Daly) v Secretary of State for the Home Department",
+        "A v A Health Authority",
+        "W v United Kingdom",
+        "Samaroo v Secretary of State for the Home Department",
+        "R (P and Q) v Secretary of State for the Home Department",
+        "Nash v Chelsea College of Art and Design"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Outcome, Article 8 analysis, procedural findings, and linked authorities are explicit in the judgment. Judge metadata in the source file appears unreliable and was not corrected."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/132.json",
+    "status": "done",
+    "notes": "Batch 03 enrichment.",
+    "enrichment": {
+      "short_title": "Employment tribunal apparent bias challenge",
+      "area_of_law": [
+        "Employment law",
+        "Administrative justice",
+        "Natural justice"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 98"
+          ]
+        },
+        {
+          "title": "Transfer of Undertakings (Protection of Employment) Regulations 1981",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Anthony Marsh successfully claimed unfair dismissal after BLP UK Ltd dismissed him following a customer complaint about late foil deliveries, without following capability procedures or giving warnings.",
+        "BLP appealed to the Employment Appeal Tribunal alleging that the employment tribunal chairman had displayed apparent bias through hostile questioning, body language, and markedly different treatment of employer and employee witnesses.",
+        "The EAT rejected the bias challenge but remitted compensation issues for lack of reasons.",
+        "BLP's further appeal to the Court of Appeal challenged the EAT's application of the objective bias test."
+      ],
+      "procedural_posture": "Employer's appeal from the Employment Appeal Tribunal's refusal to set aside an employment tribunal decision on grounds of apparent bias.",
+      "outcome": "Appeal dismissed; the EAT was held to have applied the correct objective test and there was no basis to interfere.",
+      "ratio": "Alleged tribunal bias is assessed by asking whether a fair-minded and informed observer, knowing all relevant circumstances including the chairman's later commentary, would conclude there was a real possibility of bias; strong questioning and less warmth toward a weak employer case do not necessarily satisfy that test.",
+      "legal_issues": [
+        "Whether the EAT applied the correct objective test for apparent bias",
+        "Whether the EAT erred in speculating about reasons for differential treatment of witnesses",
+        "Whether the EAT improperly relied on impugned tribunal findings of fact",
+        "Whether the tribunal chairman's conduct created a real possibility of bias"
+      ],
+      "catchwords": [
+        "apparent bias",
+        "employment tribunal",
+        "unfair dismissal",
+        "capability procedure",
+        "natural justice",
+        "fair-minded observer"
+      ],
+      "index_terms": [
+        "Employment Appeal Tribunal",
+        "TUPE",
+        "disciplinary procedure",
+        "body language",
+        "closed mind",
+        "Locabail"
+      ],
+      "linked_authorities": [
+        "Re Medicaments and Related Classes of Goods (No 2)",
+        "Porter v Magill",
+        "Locabail (UK) Ltd v Bayfield Properties Ltd",
+        "R v Gough",
+        "Facey v Midas Group Services Ltd"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Legal test, outcome, and principal authorities are clearly stated. Some judge names in source metadata appear incorrect."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/72.json",
+    "status": "done",
+    "notes": "Batch 03 enrichment.",
+    "enrichment": {
+      "short_title": "Employer liability for unauthorised fence climb",
+      "area_of_law": [
+        "Personal injury",
+        "Employer's liability",
+        "Health and safety"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Provision and Use of Work Equipment Regulations 1992",
+          "provisions": [
+            "regulation 2",
+            "regulation 5"
+          ]
+        },
+        {
+          "title": "Workplace (Health, Safety and Welfare) Regulations 1992",
+          "provisions": [
+            "regulation 17",
+            "regulation 17(2)",
+            "regulation 18"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Wallis, an experienced Balfour Beatty track manager, could not open a padlocked access gate while responding to a track caution causing train delays.",
+        "Under time pressure he climbed over palisade fencing and a bridge wingwall to reach the line, removed the caution, and fell about 10 to 12 feet on the return route, sustaining a serious back injury.",
+        "The recorder found that employee safety was paramount, the improvised route was dangerous and unauthorised, and the accident was not reasonably foreseeable.",
+        "The Court of Appeal accepted there was a breach of regulation 17(2) of the Workplace Regulations but held the claimant's own conduct was the sole cause of the accident."
+      ],
+      "procedural_posture": "Employee's appeal against dismissal of a personal injury claim at the Central London County Court.",
+      "outcome": "Appeal dismissed with costs.",
+      "ratio": "An employer owes a duty to guard against reasonably foreseeable risks, but where safety is treated as paramount and an experienced employee voluntarily chooses a dangerous unauthorised access route that the employer did not expect, the employee's own conduct may break the chain of causation even if a statutory traffic-route breach is established.",
+      "legal_issues": [
+        "Whether the recorder misdirected herself on foreseeability",
+        "Whether climbing the fence was a reasonably foreseeable response to a locked access gate",
+        "Whether there were breaches of the Provision and Use of Work Equipment Regulations 1992",
+        "Whether there were breaches of the Workplace (Health, Safety and Welfare) Regulations 1992 and whether any breach caused the accident"
+      ],
+      "catchwords": [
+        "employer's liability",
+        "foreseeability",
+        "contributory negligence",
+        "work equipment",
+        "traffic routes",
+        "intervening act",
+        "rail maintenance"
+      ],
+      "index_terms": [
+        "Balfour Beatty",
+        "track manager",
+        "palisade fencing",
+        "access gate",
+        "workplace regulations",
+        "negligence causation"
+      ],
+      "linked_authorities": [
+        "Jolly v Sutton London Borough Council"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Foreseeability analysis, statutory findings, outcome, and causation reasoning are explicit. Judge metadata in source data appears unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/70.json",
+    "status": "done",
+    "notes": "Batch 03 enrichment.",
+    "enrichment": {
+      "short_title": "Legal aid costs order after dismissed appeals",
+      "area_of_law": [
+        "Costs",
+        "Civil procedure",
+        "Legal aid and public funding"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": [
+            "section 11(1)"
+          ]
+        },
+        {
+          "title": "Legal Aid Act 1988",
+          "provisions": [
+            "section 18"
+          ]
+        },
+        {
+          "title": "Community Legal Services Costs Regulations 2000",
+          "provisions": [
+            "Regulation 9",
+            "Regulation 10"
+          ]
+        },
+        {
+          "title": "Community Legal Services Costs Protection Regulations 2000",
+          "provisions": [
+            "Regulation 5(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "After two related appeals were dismissed, the court was asked to make costs orders against an appellant whose opponent had been funded by the Legal Services Commission.",
+        "Brutton & Co sought to preserve their ability to recover appeal costs from the Commission even though underlying proceedings against them might continue.",
+        "Concern arose that a section 11 costs order would trigger a three-month time limit for a Regulation 10 application before the outcome of the main action was known.",
+        "The court considered whether 'proceedings' for costs purposes meant only the appeal proceedings or the underlying action as a whole."
+      ],
+      "procedural_posture": "Post-judgment costs application in the Court of Appeal following dismissal of two appeals in related litigation.",
+      "outcome": "Appellant ordered to pay respondents' costs of each appeal, with detailed assessment and a section 11 referral to a costs judge; liberty to apply reserved for jurisdictional disputes.",
+      "ratio": "For the purposes of a section 11(1) costs order and any subsequent application against the Legal Services Commission, 'proceedings' means the appeal proceedings finally determined in the appellate court, not the continuing underlying action, so a costs judge may later adjourn any premature Commission application until final resolution of the main claim.",
+      "legal_issues": [
+        "Whether a section 11(1) costs order should be made immediately after dismissal of the appeals",
+        "Whether the costs judge has jurisdiction to order payment by the Legal Services Commission while underlying proceedings continue",
+        "How the three-month Regulation 10 time limit interacts with unresolved main proceedings",
+        "The meaning of 'proceedings' in legal aid costs legislation"
+      ],
+      "catchwords": [
+        "legal aid costs",
+        "section 11",
+        "costs judge",
+        "Legal Services Commission",
+        "detailed assessment",
+        "liberty to apply"
+      ],
+      "index_terms": [
+        "Community Legal Services",
+        "Costs Protection Regulations",
+        "appeal costs",
+        "set-off",
+        "Regulation 10",
+        "public funding"
+      ],
+      "linked_authorities": [
+        "General Accident Car and Life Assurance Corporation Ltd v Foster",
+        "Gunn v Secretary of State for the Home Department",
+        "R v Greenwich London Borough Council ex parte Lovelace"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Costs order and legal aid jurisdiction reasoning are clearly articulated. This is a procedural costs judgment rather than a merits decision."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3.json",
+    "status": "done",
+    "notes": "Batch 03 enrichment.",
+    "enrichment": {
+      "short_title": "Indecent assault prosecution certification refused",
+      "area_of_law": [
+        "Criminal law",
+        "Sexual offences",
+        "Abuse of process"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 33(2)",
+            "section 34(1)"
+          ]
+        },
+        {
+          "title": "Sexual Offences Act 1956",
+          "provisions": [
+            "section 6(1)",
+            "section 14(1)",
+            "section 37(2)",
+            "Second Schedule paragraph 10"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Following the Court of Appeal's judgment of 20 December 2002, the appellant applied for certification of a point of law of general public importance and leave to appeal to the House of Lords.",
+        "The certified question concerned whether it is an abuse of process to prosecute indecent assault where the underlying conduct is unlawful sexual intercourse with a girl under 16 in respect of which prosecution is barred.",
+        "The court certified the point under section 33(2) of the Criminal Appeal Act 1968.",
+        "Leave to appeal to the House of Lords was refused, although a representation order was granted for any further application."
+      ],
+      "procedural_posture": "Post-judgment application for certification of a point of law of general public importance and leave to appeal to the House of Lords.",
+      "outcome": "Point of law certified; leave to appeal to the House of Lords refused.",
+      "ratio": "The court may certify as a point of law of general public importance whether prosecuting indecent assault is an abuse of process where the conduct underlying the charge is unlawful sexual intercourse with a girl under 16 that cannot be prosecuted because of the statutory restrictions in the Sexual Offences Act 1956, even if leave to take the point further is refused.",
+      "legal_issues": [
+        "Whether prosecuting indecent assault under section 14(1) is an abuse of process where the conduct is barred unlawful sexual intercourse under section 6(1)",
+        "The effect of section 37(2) and Schedule 2 paragraph 10 of the Sexual Offences Act 1956",
+        "Whether certification under section 33(2) should be followed by leave to appeal under section 34(1)"
+      ],
+      "catchwords": [
+        "indecent assault",
+        "abuse of process",
+        "certified point of law",
+        "leave to appeal",
+        "Sexual Offences Act 1956",
+        "prosecution bar"
+      ],
+      "index_terms": [
+        "Criminal Appeal Act 1968",
+        "House of Lords appeal",
+        "unlawful sexual intercourse",
+        "representation order",
+        "double prosecution"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.84,
+        "level": "high",
+        "notes": "This is a short certification judgment; the certified question and outcome are explicit, but the underlying merits decision is not reproduced in the source file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/58.json",
+    "status": "done",
+    "notes": "Batch 03 enrichment.",
+    "enrichment": {
+      "short_title": "Football kit contract penalty interest clause",
+      "area_of_law": [
+        "Contract law",
+        "Commercial law",
+        "Remedies"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Jeancharm Ltd, trading as Beaver International, supplied football kit to Barnet Football Club under a 1998 agreement containing reciprocal late-performance clauses.",
+        "The contract imposed interest at 5% per week on late invoice payments, equivalent to about 260% per annum, while late delivery attracted 20 pence per garment per day.",
+        "After accounting disputes Barnet owed about £5,142, but Jeancharm claimed roughly £20,000 after applying the interest clause.",
+        "The judge upheld the clause; the Court of Appeal held it was a penalty and therefore unenforceable."
+      ],
+      "procedural_posture": "Supplier's appeal from a circuit judge's decision upholding a contractual late-payment interest clause in a commercial supply agreement.",
+      "outcome": "Appeal allowed; the 5% per week interest clause was held to be an unenforceable penalty.",
+      "ratio": "A contractual late-payment interest rate is a penalty, not a genuine pre-estimate of loss, when it is extravagant and unconscionable compared with the greatest loss that could conceivably follow from late payment; equal bargaining power does not prevent a clause from being penal if it is plainly deterrent rather than compensatory.",
+      "legal_issues": [
+        "Whether the 5% per week late-payment clause was a penalty or liquidated damages",
+        "The correct application of the Dunlop v New Garage tests",
+        "Whether reciprocal late-delivery penalties justified the interest clause",
+        "Whether the clause could be justified as compensation for administrative costs on a small contract"
+      ],
+      "catchwords": [
+        "penalty clause",
+        "liquidated damages",
+        "late payment interest",
+        "commercial contract",
+        "genuine pre-estimate",
+        "football club supplier"
+      ],
+      "index_terms": [
+        "Dunlop v New Garage",
+        "Barnet Football Club",
+        "Beaver International",
+        "260% interest",
+        "contract enforcement",
+        "supply agreement"
+      ],
+      "linked_authorities": [
+        "Dunlop Pneumatic Tyre Co Ltd v New Garage and Motor Co Ltd",
+        "Phillips Hong Kong Ltd v Attorney General of Hong Kong",
+        "Robophone Facilities Ltd v Blank",
+        "Lordvale Finance plc v Bank of Zambia",
+        "Clydebank Engineering and Shipbuilding Co v Don Jose Ramos Yzquierdo y Castaneda"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Ratio, authorities, contract terms, and outcome are fully developed in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/72.json",
+    "status": "done",
+    "notes": "Batch 03 enrichment.",
+    "enrichment": {
+      "short_title": "Dangerous driving delay judicial review",
+      "area_of_law": [
+        "Criminal procedure",
+        "Public law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "Article 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Ahmed was charged with dangerous driving allegedly committed on 2 July 1999, but summonses were repeatedly reissued to an address where he no longer lived and the case lay dormant for long periods.",
+        "Despite arrests for other matters and returned-post indications that he was abroad, no effective steps were taken to serve or progress the case until he was arrested on a warrant in January 2002.",
+        "A district judge held in May 2002 that there had been no breach of the right to trial within a reasonable time, analysing delay in segmented periods rather than as a whole.",
+        "By the anticipated trial date in 2002, about three years had elapsed in a straightforward summary offence case."
+      ],
+      "procedural_posture": "Judicial review of a magistrates' court ruling that the defendant's Article 6 right to trial within a reasonable time had not been breached.",
+      "outcome": "Decision quashed; the case was not remitted to the magistrates' court because of the further delay that remittal would cause.",
+      "ratio": "In assessing whether a criminal charge has been tried within a reasonable time under Article 6, the court must consider the overall delay from charge to anticipated trial and cannot treat periods separately so as to absolve the prosecution where cumulative delay in a simple case is unusually long, even if the defendant is not personally at fault for service failures.",
+      "legal_issues": [
+        "Whether the overall delay from July 1999 to anticipated trial in 2002 breached Article 6",
+        "Whether the district judge erred by dividing the delay into separate periods",
+        "Whether prosecution, police, or court inactivity caused the delay",
+        "Whether the matter should be remitted for reconsideration"
+      ],
+      "catchwords": [
+        "reasonable time",
+        "Article 6",
+        "dangerous driving",
+        "magistrates' court",
+        "prosecution delay",
+        "judicial review",
+        "service of summons"
+      ],
+      "index_terms": [
+        "Birmingham Magistrates' Court",
+        "summons reissue",
+        "CPS",
+        "six-month time limit",
+        "warrant",
+        "criminal delay"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Chronology, Article 6 reasoning, and relief are clearly explained. The judgment relies on factual documents not all present in the source file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/42.json",
+    "status": "done",
+    "notes": "Batch 03 enrichment.",
+    "enrichment": {
+      "short_title": "Small claim defence struck out over expert letter",
+      "area_of_law": [
+        "Civil procedure",
+        "Building disputes",
+        "Small claims"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR Part 8",
+            "CPR 3.3(5)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Yorke claimed £2,789.63 for building work in a small claim allocated to the small claims track.",
+        "District Judge Enzer ordered a joint expert on workmanship and directed that unless Mr Katra signed the agreed letter of instruction by 17 October 2001 his defence would be struck out.",
+        "Mr Katra signed the letter but struck out two sentences he considered inaccurate, whereupon the district judge struck out his defence and entered judgment.",
+        "Further applications were dismissed by District Judge Raeside and Judge Hull QC; Judge Harris held he had no jurisdiction to hear an appeal against Judge Hull's procedural order."
+      ],
+      "procedural_posture": "Defendant's application for permission to appeal and extension of time against county court orders striking out his defence in a small building claim.",
+      "outcome": "Application allowed in part; the court reconstituted itself in the High Court and indicated the appeal against Judge Hull's order was strongly arguable, with directions for consent resolution or an oral appeal.",
+      "ratio": "Where a litigant in person in a small building claim signs a joint expert letter of instruction in substantially usable form but deletes non-essential sentences, striking out the defence for non-compliance may be an unjust technical forfeiture of a merits hearing, and an appellate court may treat the matter as an appeal against the earlier procedural refusal rather than as an appeal with no jurisdiction.",
+      "legal_issues": [
+        "Whether Judge Harris had jurisdiction to hear the application",
+        "Whether Judge Hull should have treated the application as permission to appeal the district judges' strike-out orders",
+        "Whether strike-out was justified where the defendant signed the expert letter with minor deletions",
+        "The appropriate route to challenge Judge Hull's procedural order"
+      ],
+      "catchwords": [
+        "small claims track",
+        "strike out",
+        "joint expert",
+        "letter of instruction",
+        "litigant in person",
+        "building dispute",
+        "permission to appeal"
+      ],
+      "index_terms": [
+        "Oxford County Court",
+        "workmanship dispute",
+        "unless order",
+        "procedural defect",
+        "County Court appeal",
+        "CPR"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.86,
+        "level": "high",
+        "notes": "Procedural history and Dyson LJ's reasoning are clear, though the judgment is an interlocutory permission decision rather than a final merits ruling."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/15.json",
+    "status": "done",
+    "notes": "Batch 03 enrichment.",
+    "enrichment": {
+      "short_title": "Clinical negligence costs hourly rates appeal",
+      "area_of_law": [
+        "Costs",
+        "Clinical negligence",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 44.4",
+            "CPR 44.5",
+            "CPR 47.26(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The claimant recovered £3.5 million plus capped education costs in a severe birth brain injury clinical negligence claim shortly before trial.",
+        "Liability was admitted only ten working days before trial, after which a Part 36 offer was accepted on 27 April 2001.",
+        "On detailed assessment the costs judge allowed a partner hourly rate of £300 and leading counsel at £350, finding the case heavy, complex, and expertly run.",
+        "The defendant health authority appealed on the partner rate, delegation, and counsel's hourly rate."
+      ],
+      "procedural_posture": "Appeal with assessors from a costs judge's detailed assessment decisions in a high-value clinical negligence claim.",
+      "outcome": "Appeal dismissed on all grounds.",
+      "ratio": "On appeal from a costs judge, the court will not interfere with an hourly rate or delegation decision unless it was wrong; exceptionally heavy and complex clinical negligence litigation may justify high partner and silk rates where the costs judge, using his expertise, concludes they were reasonably incurred and proportionate, without treating those figures as a general norm.",
+      "legal_issues": [
+        "Whether £300 per hour for the partner was a reasonable and proportionate rate",
+        "Whether the partner failed to delegate work appropriately",
+        "Whether £350 per hour for leading counsel was reasonable",
+        "The proper use of A plus B analysis and guideline rates on detailed assessment"
+      ],
+      "catchwords": [
+        "detailed assessment",
+        "hourly rate",
+        "clinical negligence",
+        "leading counsel",
+        "delegation",
+        "proportionality",
+        "costs appeal"
+      ],
+      "index_terms": [
+        "birth injury",
+        "cerebral palsy",
+        "Part 36",
+        "costs judge",
+        "SCCO guide",
+        "Anne Winyard",
+        "standard basis"
+      ],
+      "linked_authorities": [
+        "R v Common Professional Examination Board ex parte Mealing-McLeod",
+        "Johnson v Reed Corrugated Cases Ltd",
+        "Wraith v Sheffield Forgemasters International Ltd",
+        "Simpson Motor Sales (London) Ltd v Hendon Borough Council"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Costs principles, chronology, and grounds of appeal are comprehensively addressed. The judgment expressly cautions against treating the allowed rates as normal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/71.json",
+    "status": "done",
+    "notes": "Batch 03 enrichment.",
+    "enrichment": {
+      "short_title": "Old mineral permissions deemed conditions",
+      "area_of_law": [
+        "Planning law",
+        "Environmental law",
+        "Local government"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Environment Act 1995",
+          "provisions": [
+            "section 96",
+            "Schedule 13 paragraph 1",
+            "Schedule 13 paragraph 6",
+            "Schedule 13 paragraph 9"
+          ]
+        },
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "Schedule 5 paragraph 1"
+          ]
+        },
+        {
+          "title": "Town and Country Planning (Environmental Impact Assessment) (England and Wales) Regulations 1999",
+          "provisions": [
+            "regulation 2",
+            "regulation 26A",
+            "regulation 26A(22)",
+            "Schedule 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Payne applied under Schedule 13 paragraph 9 of the Environment Act 1995 for the council to determine conditions for two old mineral permissions relating to colliery waste tipping and tip removal at Senghenydd.",
+        "The council rejected the application in relation to the 1961 permission because its time-limited consent had expired, and declined to treat the 1955 permission application as valid.",
+        "The High Court held the 1955 application was valid and, because the council gave no decision within three months, the proposed conditions were deemed determined under paragraph 9(9).",
+        "The council appealed, arguing the proposed conditions were outside the scope of the permission and that environmental impact assessment regulations disapplied the deemed-determination mechanism."
+      ],
+      "procedural_posture": "Council's appeal and landowner's cross-application for permission to appeal from a High Court judicial review decision on a Schedule 13 paragraph 9 ROMP application.",
+      "outcome": "Council's appeal dismissed in relation to the 1955 permission; Mr Payne's application for permission to appeal concerning the lapsed 1961 permission refused.",
+      "ratio": "A paragraph 9 application to determine conditions for a dormant mineral permission is valid unless proposed conditions would fundamentally change the permission's nature; where a valid application receives no decision within three months the conditions specified in the application are deemed determined, and that mechanism is not disapplied merely because tipping colliery waste is not EIA Schedule 2 underground mining or waste-installation development.",
+      "legal_issues": [
+        "Whether the application validly identified the mineral site and proposed permissible conditions",
+        "Whether proposed conditions for the 1955 permission were so exorbitant as to invalidate the application",
+        "Whether EIA regulations disapplied paragraph 9(9) deemed determination",
+        "Whether paragraph 9 applies to a mineral permission that is no longer extant, such as the 1961 permission"
+      ],
+      "catchwords": [
+        "mineral planning permission",
+        "ROMP application",
+        "dormant site",
+        "deemed conditions",
+        "colliery waste tipping",
+        "planning permission time limit",
+        "environmental impact assessment"
+      ],
+      "index_terms": [
+        "Caerphilly County Borough Council",
+        "Schedule 13",
+        "Environment Act 1995",
+        "National Coal Board",
+        "mineral site",
+        "planning conditions"
+      ],
+      "linked_authorities": [
+        "R v North Lincolnshire County Council ex parte Horticultural and Garden Products Sales (Humberside) Ltd"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Statutory framework, validity analysis, EIA argument, and lapsed-permission conclusion are clearly reasoned in the judgment."
+      }
+    }
+  }
+]

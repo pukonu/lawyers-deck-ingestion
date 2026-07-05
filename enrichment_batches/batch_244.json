@@ -1,0 +1,671 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/468.json",
+    "status": "done",
+    "notes": "Long copyright trial on indirect copying of sign-frame drawings; outcome and legal analysis are clear throughout.",
+    "enrichment": {
+      "short_title": "Copyright in aluminium sign-frame drawing: indirect copying rejected",
+      "area_of_law": [
+        "Intellectual property",
+        "Copyright law",
+        "Design and manufacturing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Copyright Act 1956",
+          "provisions": [
+            "section 3(2)"
+          ]
+        },
+        {
+          "title": "Copyright Designs and Patents Act 1988",
+          "provisions": [
+            "section 16",
+            "section 17",
+            "section 51",
+            "Schedule 1 paragraph 19"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Tom Scott claimed copyright in a 1976 scheme drawing for extruded aluminium sign frames with demountable cleat-locating pips.",
+        "Universal Components added pips to its Panatrim sign-frame range in 1992 after Ultraframe entered the market.",
+        "Scott alleged indirect copying via GAP 500 and Ultraframe, though he owned copyright in the 1976 drawing but not GAP 500.",
+        "Indalex draftsman Martin Ford produced Panatrim 5 and Panatrim Major profiles with pips from pre-existing Panatrim dies and JM 1054."
+      ],
+      "procedural_posture": "Trial of a copyright infringement claim in the Chancery Division after a preliminary issue on ownership of GAP 500.",
+      "outcome": "Claim dismissed; the 1976 drawing was an original artistic work but Universal Components independently designed its pip profiles and did not copy it.",
+      "ratio": "Copyright protects the visual expression of an artistic work, not a general technical idea such as incorporating commonplace cleat-locating pips; similarities arising from shared design constraints and independent draughtsmanship do not establish indirect copying, and inspiration from a competitor's commercial success is not infringement.",
+      "legal_issues": [
+        "Whether the 1976 drawing was an original artistic work entitled to copyright",
+        "Whether Universal Components indirectly copied the 1976 drawing through GAP 500 or Ultraframe",
+        "Whether verbal instructions to a designer could constitute indirect reproduction",
+        "Whether copyright could be carried forward through intermediate drawings under LA Gear"
+      ],
+      "catchwords": [
+        "artistic copyright",
+        "indirect copying",
+        "extruded aluminium",
+        "sign frames",
+        "originality",
+        "reverse engineering",
+        "demountable cleats"
+      ],
+      "index_terms": [
+        "Panatrim",
+        "Ultraframe",
+        "GAP 500",
+        "Designers Guild",
+        "British Leyland v Armstrong",
+        "Solar Thomson Engineering",
+        "Interlego"
+      ],
+      "linked_authorities": [
+        "Designers Guild Ltd v Russell Williams Textiles Ltd [2000] 1 WLR 2416",
+        "LA Gear Inc v Hi-Tec Sports plc [1992] FSR 121",
+        "Solar Thomson Engineering Co Ltd v Barton [1977] RPC 537",
+        "British Leyland Motor Corporation Ltd v Armstrong Patents Co Ltd [1986] AC 577",
+        "Francis Day & Hunter Ltd v Bron [1963] Ch 587"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed fact findings and legal principles are explicit. Metadata lists appellate judges not present at trial."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/pat/2004/482.json",
+    "status": "done",
+    "notes": "Short written appeal on excluded subject matter; Deputy Director's reasoning adopted without difficulty.",
+    "enrichment": {
+      "short_title": "Advent calendar patent excluded as presentation of information",
+      "area_of_law": [
+        "Patent law",
+        "Intellectual property"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Patents Act 1977",
+          "provisions": [
+            "section 1(2)(d)",
+            "section 18(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Stephen Townsend, a patent agent, appealed refusal of GB0301172.3 for an advent calendar with extra door markings for multiple users.",
+        "Claim 1 required at least one door to bear an additional indicium identifying which user should open it.",
+        "The examiner and Deputy Director held the invention excluded as presentation of information.",
+        "The appeal was dealt with in writing without an oral hearing to save costs."
+      ],
+      "procedural_posture": "Appeal to the Patents Court from a Comptroller decision refusing a patent application under section 18(3).",
+      "outcome": "Appeal dismissed with no order as to costs.",
+      "ratio": "Section 1(2)(d) of the Patents Act 1977 excludes inventions consisting of the presentation of information in its natural meaning, including providing information by marking calendar doors for particular users; the exclusion is not limited to how information is expressed.",
+      "legal_issues": [
+        "Whether marking advent calendar doors with user-specific indicia is excluded subject matter",
+        "Whether presentation of information means expression rather than provision of information",
+        "Whether Pepper v Hart or EPC language aids construction of section 1(2)(d)"
+      ],
+      "catchwords": [
+        "patentability",
+        "presentation of information",
+        "advent calendar",
+        "excluded invention",
+        "Comptroller appeal"
+      ],
+      "index_terms": [
+        "GB0301172.3",
+        "Fujitsu's Application",
+        "Pepper v Hart",
+        "section 1(2) Patents Act",
+        "written appeal"
+      ],
+      "linked_authorities": [
+        "Fujitsu's Application [1997] RPC 219",
+        "Pepper v Hart [1993] AC 593"
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Short judgment with a single clear statutory construction point."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/440.json",
+    "status": "done",
+    "notes": "First High Court appeal from the Care Standards Tribunal; jurisdiction point resolved for Ofsted but tribunal decision quashed on defective conditions and reasoning.",
+    "enrichment": {
+      "short_title": "Childminder emergency cancellation: tribunal decision quashed",
+      "area_of_law": [
+        "Administrative law",
+        "Childcare regulation",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 79F",
+            "section 79G",
+            "section 79K",
+            "section 79L",
+            "section 79M"
+          ]
+        },
+        {
+          "title": "Care Standards Act 2000",
+          "provisions": []
+        },
+        {
+          "title": "Day Care and Child Minding (National Standards) (England) Regulations 2003",
+          "provisions": [
+            "regulation 4",
+            "regulation 6",
+            "regulation 7",
+            "regulation 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Spicer, a registered childminder since 1989, had her registration cancelled under section 79K after Ofsted found sixteen children at her home on 11 March 2003.",
+        "The Care Standards Tribunal allowed her appeal, reinstated registration with reduced child numbers, and made recommendations on training and records.",
+        "Ofsted appealed on whether the tribunal could rely on post-magistrates' order events and whether imposed conditions were valid.",
+        "The tribunal found grounds for the emergency order existed but concluded future significant harm was unlikely with tighter limits."
+      ],
+      "procedural_posture": "High Court appeal on points of law from a Care Standards Tribunal decision reinstating a childminder's registration after an emergency cancellation order.",
+      "outcome": "Tribunal decision quashed and remitted to a differently constituted tribunal; Chief Inspector succeeded on the jurisdiction to consider post-order evidence but failed on the outcome; no order as to costs.",
+      "ratio": "On a true rehearing under section 79M, the Care Standards Tribunal may consider evidence and circumstances arising after a justice's section 79K order, including an appellant's admissions and changed circumstances; but registration conditions must be clear and mandatory, not dependent on consent, and central reasoning must be intelligible.",
+      "legal_issues": [
+        "Whether the tribunal could consider matters after the magistrates' emergency order",
+        "Whether the tribunal acted as first-instance decision maker rather than appellate body",
+        "Whether a condition subject to the childminder's consent was valid",
+        "Whether recommendations were improperly mandatory or inadequately reasoned"
+      ],
+      "catchwords": [
+        "childminder",
+        "Ofsted",
+        "Care Standards Tribunal",
+        "section 79K",
+        "significant harm",
+        "registration conditions",
+        "overminding"
+      ],
+      "index_terms": [
+        "National Standards",
+        "emergency cancellation",
+        "Lyons v East Sussex County Council",
+        "C v Ofsted",
+        "Leicester Family Proceedings Court"
+      ],
+      "linked_authorities": [
+        "Lyons v East Sussex County Council (1988) 86 LGR 369",
+        "C v Ofsted [2002] 0087EY"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Long judgment but issues and outcome are clearly resolved. Some tribunal reasoning defects noted without final ruling on recommendations alone."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/929.json",
+    "status": "done",
+    "notes": "Renewed permission application on Article 6 reasons; brief oral judgment with clear refusal.",
+    "enrichment": {
+      "short_title": "NNDR liability order: no Article 6 breach for absent hearing",
+      "area_of_law": [
+        "Administrative law",
+        "Local taxation",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Mathialagen sought judicial review of Camberwell Green Magistrates' liability orders for national non-domestic rates on former solicitor's premises.",
+        "After several adjournments the magistrates heard the case in his absence on 19 September 2003 and granted liability orders.",
+        "His wife, acting pro bono, attended on 16 September when the court was closed due to flooding, mistaking the hearing date.",
+        "Beatson J refused permission; the renewed application relied on failure to give reasons rather than unfair absence."
+      ],
+      "procedural_posture": "Renewed application for permission to apply for judicial review of magistrates' NNDR liability orders.",
+      "outcome": "Permission refused; no arguable breach of Article 6 where the claimant and his representatives did not attend and no contrary submissions were made.",
+      "ratio": "Article 6 does not require detailed reasons where a ratepayer fails to attend after repeated adjournments and warning that the case would proceed in absence, and the magistrate grants liability on an undisputed basis without live argument to address.",
+      "legal_issues": [
+        "Whether the magistrates' decision should be quashed for proceeding in absence",
+        "Whether failure to give reasons breached Article 6(1)",
+        "Whether advisor mistake and court closure on the wrong date engaged unfair procedure"
+      ],
+      "catchwords": [
+        "national non-domestic rates",
+        "liability order",
+        "Article 6",
+        "reasons",
+        "magistrates",
+        "permission to apply"
+      ],
+      "index_terms": [
+        "Law Society intervention",
+        "Camberwell Green Justices",
+        "English v Emery Reimbold",
+        "Torija v Spain",
+        "Al Nedawi"
+      ],
+      "linked_authorities": [
+        "English v Emery Reimbold and Strick Ltd [2002] 1 WLR 385",
+        "Torija v Spain (1994) 19 EHRR 553",
+        "Al Nedawi [1991] ACH 36"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Short transcript-style judgment. Metadata judge field appears inconsistent with presiding judge named in text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/679.json",
+    "status": "done",
+    "notes": "Category A review challenge with detailed parole-policy discussion; all four grounds rejected.",
+    "enrichment": {
+      "short_title": "Category A prisoner: downgrading judicial review refused",
+      "area_of_law": [
+        "Prison law",
+        "Administrative law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": [
+            "section 32(6)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Roberts is serving concurrent life sentences for a 1991 double murder he denies committing.",
+        "The Category A Review Team decided in May 2003 that he should remain category A despite satisfactory prison behaviour.",
+        "The team relied on unaddressed risk factors including potential extreme violence and refusal to do offence-focused courses while denying guilt.",
+        "Roberts challenged reliance on denial, weight given to good behaviour, parole progression effects, and escape-potential assessment."
+      ],
+      "procedural_posture": "Application for judicial review of a Category A Review Team decision refusing downgrading to category B.",
+      "outcome": "Application dismissed on all grounds.",
+      "ratio": "Denial of guilt is not itself a bar to recategorisation but may make it practically difficult to demonstrate diminished risk without offence-focused work; the review team need not anticipate future Parole Board views, and a two-stage exceptional-circumstances approach to escape potential can be lawful where category A aims to make escape impossible.",
+      "legal_issues": [
+        "Whether denial of guilt improperly prevented category B downgrading",
+        "Whether insufficient weight was given to good custodial behaviour and R&R programme participation",
+        "Whether parole progression implications must be considered before any Parole Board decision",
+        "Whether escape potential was wrongly excluded unless exceptional circumstances existed"
+      ],
+      "catchwords": [
+        "category A",
+        "prison security",
+        "life sentence",
+        "denial of guilt",
+        "Parole Board",
+        "escape risk",
+        "public protection"
+      ],
+      "index_terms": [
+        "Category A Review Team",
+        "Pate v SSHD",
+        "R (Williams) v SSHD",
+        "Oyston",
+        "Hepworth",
+        "tariff"
+      ],
+      "linked_authorities": [
+        "William Pate v Secretary of State for the Home Department [2002] EWHC 1018 (Admin)",
+        "R (Williams) v Secretary of State for the Home Department [2002] EWCA Civ 498",
+        "R v Parole Board ex p Oyston (1 March 2000)",
+        "R v SSHD ex p Hepworth (1997)"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Comprehensive judgment with clear disposal of each ground. Metadata judge list includes non-sitting names."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/446.json",
+    "status": "done",
+    "notes": "Neighbour dispute on adverse possession and proprietary estoppel; appeal and cross-appeal both dismissed with clear fact/law analysis.",
+    "enrichment": {
+      "short_title": "Neighbour boundary: adverse possession upheld, estoppel rejected",
+      "area_of_law": [
+        "Land law",
+        "Property law",
+        "Equity and trusts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law of Property (Miscellaneous Provisions) Act 1989",
+          "provisions": [
+            "section 2"
+          ]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Miss Pleming claimed half a shared concrete path between Nos 1 and 4 Cuba Cottages in Maidenhead against neighbours the Hamptons.",
+        "The Hamptons enclosed the path within their garden with hedge, fence, shed and oil tank, stopping its use as a right of way.",
+        "The county court judge found adverse possession of the eastern half of the path and dismissed both claim and counterclaim.",
+        "Mrs Margaret Pleming had promised a 2-foot driveway strip in a February 2002 letter after her daughter had become registered owner."
+      ],
+      "procedural_posture": "Appeal and cross-appeal from Slough County Court adverse possession and proprietary estoppel proceedings.",
+      "outcome": "Appeal and cross-appeal dismissed; adverse possession upheld and no proprietary estoppel or constructive trust over the promised strip.",
+      "ratio": "Exclusive garden use of a path no longer used as a granted right of way can establish factual possession and intention to possess for adverse possession under Pye v Graham; a promise by a non-owner without authority cannot bind the registered proprietor, and failure to cooperate with building works defeats estoppel relief.",
+      "legal_issues": [
+        "Whether use of the path was referable to an easement or adverse possession",
+        "Whether the Hamptons had factual possession and intention to possess",
+        "Whether full cooperation under the February 2002 letter gave rise to proprietary estoppel",
+        "Whether the registered owner was bound by her mother's promise"
+      ],
+      "catchwords": [
+        "adverse possession",
+        "right of way",
+        "proprietary estoppel",
+        "boundary dispute",
+        "constructive trust",
+        "neighbour dispute"
+      ],
+      "index_terms": [
+        "Cuba Cottages Maidenhead",
+        "Pye v Graham",
+        "Powell v McFarlane",
+        "Yaxley v Gotts",
+        "Gillett v Holt",
+        "Leylandii hedge"
+      ],
+      "linked_authorities": [
+        "JA Pye (Oxford) Ltd v Graham [2003] 1 AC 419",
+        "Powell v McFarlane [1977] 38 P&CR 452",
+        "Yaxley v Gotts [2000] Ch 162",
+        "Gillett v Holt [2001] Ch 210"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed Court of Appeal judgment with settled land-law principles applied to specific findings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/485.json",
+    "status": "done",
+    "notes": "Emotive WWII enemy-property scheme case; multiple grounds rejected though judge expressed sympathy on interest point.",
+    "enrichment": {
+      "short_title": "WWII enemy property: no uplift under 1999 compensation scheme",
+      "area_of_law": [
+        "Administrative law",
+        "Restitution and compensation schemes",
+        "Human rights",
+        "War and enemy property"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trading with the Enemy Act 1939",
+          "provisions": [
+            "section 2",
+            "section 7"
+          ]
+        },
+        {
+          "title": "Foreign Compensation Act 1969",
+          "provisions": []
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3(1)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 1 Protocol 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Yakob Kaplan claimed inflation uplift under the 1999 Enemy Property Payments Scheme for bank deposits confiscated in WWII.",
+        "Moses Kaplan and Boris Baksht, Estonian Jewish businessmen, deposited funds in London before Soviet deportation to Siberia in June 1941.",
+        "Nominal sums were repaid in 1971 under the Baltic States Scheme; company deposits were partially recognised in 2002.",
+        "The adjudicator rejected claims as not Nazi persecution and as fully settled in 1971 without interest or revaluation."
+      ],
+      "procedural_posture": "Judicial review of an Enemy Property Claims Assessment Panel adjudicator's dismissal of appeals for inflation uplift on previously repaid confiscated deposits.",
+      "outcome": "Application dismissed; permission to appeal refused.",
+      "ratio": "Presentation of information and executive compensation schemes are not justiciable on interest or uplift where the Baltic States Scheme paid nominal amounts only; Soviet deportation of bourgeois businessmen was not Nazi persecution by a relevant enemy state, and Bank voor Handel prevents possessory rights under Article 1 Protocol 1 for confiscated wartime property.",
+      "legal_issues": [
+        "Whether 1971 repayments left claims open for interest or inflation uplift",
+        "Whether Soviet deportation constituted Nazi persecution under the EPPS criteria",
+        "Whether Germany or the USSR was the relevant enemy state",
+        "Whether section 7 of the 1939 Act or Article 1 Protocol 1 required additional compensation"
+      ],
+      "catchwords": [
+        "enemy property",
+        "Trading with the Enemy",
+        "Baltic States Scheme",
+        "Nazi persecution",
+        "inflation uplift",
+        "judicial review",
+        "Midland Bank"
+      ],
+      "index_terms": [
+        "EPCAP",
+        "Ribbentrop-Molotov Pact",
+        "Bank Voor Handel en Scheepvaart",
+        "Wilson v SSHD",
+        "Estonia",
+        "Enemy Property Payments Scheme"
+      ],
+      "linked_authorities": [
+        "Bank Voor Handel en Scheepvaart N.V. v Administrator of Hungarian Property [1954] AC 584",
+        "Wilson v Secretary of State for Trade and Industry [2003] UKHL 40"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome clear on all grounds. Judge expressed sympathy on 'settled in full' construction but did not need final ruling given other findings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/472.json",
+    "status": "done",
+    "notes": "Very long commercial trial on Mongolian government guarantee; authority, primary liability and Holme v Brunskill discharge all resolved.",
+    "enrichment": {
+      "short_title": "Mongolian government guarantee discharged by rescheduling variations",
+      "area_of_law": [
+        "Commercial law",
+        "Banking and finance",
+        "Conflict of laws",
+        "Public international law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "State Immunity Act 1978",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Marubeni Hong Kong sued the Mongolian Ministry of Finance on a May 1996 letter guaranteeing Buyan's deferred payment obligations for a cashmere plant.",
+        "Buyan defaulted on instalments under the DPS1 Contract and the parties entered into 1998 and 1999 rescheduling packages without Mongolia's consent.",
+        "Reschedulings altered payment terms, added contracts, changed security interests and collateral account arrangements.",
+        "Cresswell J held the Minister had cabinet authority to issue the guarantee but the claim failed on surety discharge."
+      ],
+      "procedural_posture": "Commercial Court trial after service out and jurisdiction challenge dismissed; claim on a sovereign guarantee letter.",
+      "outcome": "Claim failed; Mongolia discharged from liability under the rule in Holme v Brunskill because 1998 and 1999 reschedulings were prejudicial material variations.",
+      "ratio": "Unless a guarantee creates primary joint liability, a guarantor is discharged by substantial variations to the underlying transaction without consent; combined rescheduling changes to payment terms, additional obligations, security rights and collateral arrangements were prejudicial and would discharge a surety under Holme v Brunskill.",
+      "legal_issues": [
+        "Whether the MMOF Letter created primary or secondary liability",
+        "Whether the Minister had authority under Mongolian law to issue the guarantee",
+        "Whether 1998 and 1999 reschedulings materially varied the guaranteed transaction",
+        "Whether Mongolia was immune from suit and validly served"
+      ],
+      "catchwords": [
+        "government guarantee",
+        "Holme v Brunskill",
+        "material variation",
+        "rescheduling",
+        "sovereign immunity",
+        "deferred payment",
+        "surety discharge"
+      ],
+      "index_terms": [
+        "Buyan Holding",
+        "MMOF Letter",
+        "DPS1 Contract",
+        "Marubeni Corporation",
+        "Mongolia Ministry of Finance",
+        "Aikens J jurisdiction"
+      ],
+      "linked_authorities": [
+        "Holme v Brunskill (1878) 3 QBD 495",
+        "Marubeni Hong Kong and South China Ltd v Mongolian Government [2002] 2 All ER (Comm) 873"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Very long judgment but final outcome and Holme v Brunskill analysis are explicit. Many interlocutory issues also decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/632.json",
+    "status": "done",
+    "notes": "Disciplinary penalty appeal with straightforward Wednesbury review; suspension and fines upheld.",
+    "enrichment": {
+      "short_title": "Hearing aid dispenser: disciplinary penalties upheld on appeal",
+      "area_of_law": [
+        "Professional discipline",
+        "Healthcare regulation",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Hearing Aid Council (Amendment) Act 1989",
+          "provisions": [
+            "section 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Gill, managing director of Harley Street Hearing Aid Centre, pleaded guilty to four breaches of the Hearing Aid Code of Practice.",
+        "The company rebranded manufacturer models with its own logo and selected aids remotely rather than giving best client advice.",
+        "Clients did not receive manufacturer make/model information or manufacturer guarantees; Gill failed to respond to Council enquiries.",
+        "The Council imposed three months' suspension, fines totalling £18,000 and £25,000 costs."
+      ],
+      "procedural_posture": "High Court appeal against penalties imposed by the Hearing Aid Council after guilty pleas to code breaches.",
+      "outcome": "Appeal dismissed; suspension and financial penalties not interfered with; appellant ordered to pay £4,250 costs.",
+      "ratio": "A specialist professional council's choice of suspension and maximum fines for sustained code breaches involving client advice, product identification and failure to cooperate with the regulator will not be overturned unless plainly wrong; misunderstanding of registrar discussions does not fetter disciplinary discretion.",
+      "legal_issues": [
+        "Whether three months' suspension was disproportionate given the basis of plea",
+        "Whether maximum fines were improper without guilty-plea credit",
+        "Whether the registrar had indicated suspension would not be imposed",
+        "Whether the Council acted inconsistently in wishing Gill to remain in practice"
+      ],
+      "catchwords": [
+        "hearing aid dispenser",
+        "professional discipline",
+        "code of practice",
+        "suspension",
+        "financial penalty",
+        "regulatory appeal"
+      ],
+      "index_terms": [
+        "Harley Street Hearing Aid Centre",
+        "Hearing Aid Council",
+        "clause 3 code",
+        "manufacturer guarantee",
+        "Wednesbury review"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Clear factual basis of plea and penalty review principles. Metadata judges field empty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/578.json",
+    "status": "done",
+    "notes": "Planning law section 288 appeal on seasonal occupancy conditions; Nicholson distinguished with thorough reasoning.",
+    "enrichment": {
+      "short_title": "Seasonal occupancy breach: ten-year immunity for lawful development certificate",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 171A",
+            "section 171B",
+            "section 172",
+            "section 174",
+            "section 187A",
+            "section 191",
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The owner of 2 Seymour Bungalows, Woolacombe occupied a holiday bungalow continuously year-round from October 1992 in breach of a seasonal condition.",
+        "The condition limited occupation to 15 March to 15 November under a 1971 planning permission for five holiday bungalows.",
+        "North Devon District Council refused a lawful development certificate, treating each winter as a fresh breach resetting the ten-year period.",
+        "An inspector allowed the appeal; the council challenged under section 288."
+      ],
+      "procedural_posture": "Section 288 challenge to an inspector's decision granting a lawful development certificate for breach of a seasonal occupancy condition.",
+      "outcome": "Application dismissed; inspector's decision upheld; permission to appeal refused.",
+      "ratio": "Under section 171B(3), continuous seasonal breaches of the same condition over ten years can acquire enforcement immunity even where non-compliance is impossible year-round; Nicholson is distinguishable and should not be applied mechanically to seasonal conditions, and an enforcement notice could have been issued each winter during the period.",
+      "legal_issues": [
+        "Whether each winter breach of a seasonal condition is a separate breach resetting limitation",
+        "Whether immunity can ever accrue for breach of seasonal occupancy conditions",
+        "How Nicholson v Secretary of State and Rottenbury apply to seasonal conditions",
+        "Whether enforcement after seasonal breach ceases is precluded by section 187A"
+      ],
+      "catchwords": [
+        "lawful development certificate",
+        "seasonal occupancy",
+        "planning enforcement",
+        "ten-year immunity",
+        "holiday bungalow",
+        "breach of condition"
+      ],
+      "index_terms": [
+        "Seymour Bungalows Woolacombe",
+        "Nicholson v SSE",
+        "Thurrock v Holding",
+        "Circular 10/97",
+        "PPG21",
+        "section 171B(3)"
+      ],
+      "linked_authorities": [
+        "Nicholson v Secretary of State for the Environment and Malvern District Council [1998] JPL 553",
+        "Secretary of State for the Environment v Holding and Thurrock Borough Council [2002] JPL 1278",
+        "North Devon District Council v Rottenbury [1998] EG CS 72",
+        "R (St Anselm Development Co Ltd) v First Secretary of State [2003] EWHC 1592 (Admin)"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed planning-law analysis with agreed facts and clear conclusion on seasonal immunity."
+      }
+    }
+  }
+]

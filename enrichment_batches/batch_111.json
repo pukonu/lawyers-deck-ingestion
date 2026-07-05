@@ -1,0 +1,772 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3353.json",
+    "status": "done",
+    "notes": "Complete permission-to-appeal judgment on s.69(8) Arbitration Act 1996; metadata lists Neuberger but judgment is signed Etherton.",
+    "enrichment": {
+      "short_title": "Refusal of permission to appeal under s.69(8) on s.48(5)(b) land-related arbitration point",
+      "area_of_law": [
+        "Arbitration",
+        "Civil procedure",
+        "Real property"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 48(5)(b)",
+            "section 69(1)",
+            "section 69(8)"
+          ]
+        },
+        {
+          "title": "Arbitration Act 1934",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Telia Sonera sought permission to appeal to the Court of Appeal from Mr Justice Neuberger's refusal of permission to appeal an arbitrator's award.",
+        "The underlying dispute concerned the meaning and effect of section 48(5)(b) of the Arbitration Act 1996 and whether enforcement related to all contract aspects touching land or only provisions directly relating to land.",
+        "Neuberger J had granted permission to appeal from the arbitrator under section 69(1), finding the point one of genuine public importance.",
+        "Both the arbitrator and Neuberger J had reached the same substantive decision for essentially the same reasons.",
+        "It was common ground that if Etherton J refused permission under section 69(8), the Court of Appeal could not grant permission itself."
+      ],
+      "procedural_posture": "High Court (Chancery) application for permission to appeal to the Court of Appeal from a section 69 arbitration appeal decision.",
+      "outcome": "Permission to appeal under section 69(8) refused.",
+      "ratio": "Even where an arbitrator appeal point appears at first sight to raise a question of general importance, permission to appeal under section 69(8) should be refused where the issue is not in reality of general pressing importance, both courts below agree, and granting permission would prolong arbitration uncertainty contrary to the Act's ethos of speed, efficiency and finality.",
+      "legal_issues": [
+        "Whether permission to appeal should be granted under section 69(8) where section 48(5)(b) interpretation was at stake",
+        "How the 'general importance' test in section 69(8) interacts with section 69(1) leave already given at first instance",
+        "Whether the legislative history of section 48(5)(b) and absence of prior litigation reduced the public importance of the point"
+      ],
+      "catchwords": [
+        "section 69(8)",
+        "arbitration appeal",
+        "permission to appeal",
+        "section 48(5)(b)",
+        "general importance",
+        "finality"
+      ],
+      "index_terms": [
+        "Telia Sonera AB v Hilcourt (Docklands) Ltd",
+        "Etherton J",
+        "Neuberger J",
+        "Arbitration Act 1996",
+        "land-related contract"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Short, complete judgment with clear outcome and reasoning; minor metadata inconsistency on judge name."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1121.json",
+    "status": "done",
+    "notes": "Full Court of Appeal judgment on easement width and preconditions to exercise of right of way.",
+    "enrichment": {
+      "short_title": "Width of reserved field access and planning preconditions for exercise of easement",
+      "area_of_law": [
+        "Land law",
+        "Easements and covenants",
+        "Town and country planning"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": []
+        },
+        {
+          "title": "Town and Country Planning (Demolition - Description of Buildings) Direction 1995",
+          "provisions": []
+        },
+        {
+          "title": "Town and Country Planning General Permitted Development Order 1995",
+          "provisions": []
+        },
+        {
+          "title": "Land Registration Act 1925",
+          "provisions": [
+            "section 82(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Partridges sold Chapel Meadow for housing development in 1994 but reserved a right of way over an estate road; a 1995 deed defined 'Field Access' by reference to a cross-hatched area on an annexed plan derived from planning drawing 1642A.",
+        "The claimants contended the Field Access was 7.5 metres wide (matching the built spur road); the defendants at No.7 Chapel Meadow contended it was 5.5 metres.",
+        "The Recorder held the width was 5.5 metres and granted injunctions restricting exercise of the right until planning consents were obtained to remove fence/hedge and construct a hard surface.",
+        "The Court of Appeal held plan 1642A was admissible surrounding circumstances to fix the width at 5.5 metres under clause 1.1.9 of the 1995 deed.",
+        "Fence removal was not development; condition 6 on landscaping had likely expired; the paragraph 1.1 right of way was presently exercisable without the additional preconditions sought by the defendants."
+      ],
+      "procedural_posture": "Claimants' appeal and defendants' respondent's notice from Bristol County Court to the Court of Appeal on easement width and conditions for exercising a right of way.",
+      "outcome": "Appeal allowed in part: width appeal dismissed (5.5 metres upheld); preconditions appeal allowed (claimants may exercise right subject only to genuine planning requirements).",
+      "ratio": "Where an easement width is defined by reference to land shown on an unscaled deed plan copied from a scaled planning drawing, extrinsic evidence including the scaled drawing may be used to ascertain width; a contractual right of way conditioned only on obtaining requisite approvals does not import further preconditions such as development of retained land or making up to highway standard unless the deed expressly requires them.",
+      "legal_issues": [
+        "Construction of the 1995 deed and annexed plan to determine Field Access width",
+        "Whether exercise of the easement required planning consent to remove fence and hedge",
+        "Whether additional preconditions in the 1995 deed schedule limited present exercise of the right of way",
+        "Whether perimeter footpath use could be treated as use of the whole field for lawful sports and pastimes"
+      ],
+      "catchwords": [
+        "right of way",
+        "easement width",
+        "contract construction",
+        "planning condition",
+        "Field Access",
+        "injunction"
+      ],
+      "index_terms": [
+        "Partridge v Lawrence",
+        "Chapel Meadow",
+        "Peter Gibson LJ",
+        "ICS v West Bromwich",
+        "St Edmundsbury v Clark (No 2)"
+      ],
+      "linked_authorities": [
+        {
+          "name": "St Edmundsbury and Ipswich Diocesan Board of Finance v Clark (No.2)",
+          "citation": "[1975] 1 WLR 468",
+          "relation": "applied"
+        },
+        {
+          "name": "ICS Ltd v West Bromwich Building Society",
+          "citation": "[1998] 1 WLR 896",
+          "relation": "applied"
+        },
+        {
+          "name": "Scarfe v Adams",
+          "citation": "[1981] 1 All ER 843",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed facts, issues and order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1621.json",
+    "status": "done",
+    "notes": "Complete High Court judgment dismissing LTA 1954 preliminary issues appeal based on post-trial 'new evidence'.",
+    "enrichment": {
+      "short_title": "Dismissal of appeal to reopen LTA 1954 redevelopment preliminary issues after new lease granted",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Business tenancies",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Landlord and Tenant Act 1954",
+          "provisions": [
+            "Part II",
+            "section 24",
+            "section 25",
+            "section 30(1)(f)",
+            "section 38",
+            "section 64"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Bentley and Skinner held a 25-year lease of 8 New Bond Street; Searchmap served a section 25 notice and exercised a redevelopment break clause expiring June 2002.",
+        "On preliminary issues the judge found a genuine redevelopment scheme and accepted the landlord's undertaking to carry out works, deciding against the tenant's new tenancy application.",
+        "After trial the landlord offered and the tenant accepted a new five-year lease outside Part II at higher rent; the Albemarle Street acquisition completed on the first day of the preliminary issues trial.",
+        "The tenant appealed out of time alleging non-disclosure of Albemarle Street showed no settled intention to redevelop, but Albemarle Street was office premises not retail alternative.",
+        "Lightman J held the appeal futile because the new lease operated as surrender by estoppel and the new evidence was irrelevant."
+      ],
+      "procedural_posture": "High Court appeal with permission of Laddie J against county court preliminary issue findings in a Part II Landlord and Tenant Act 1954 new tenancy claim.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "An appeal based on allegedly new evidence of alternative property acquisition fails where the property is irrelevant to the redevelopment case, the tenant has accepted a new lease outside the Act (surrendering prior rights), and post-judgment events cannot justify reopening findings when relief for a Part II tenancy is no longer available.",
+      "legal_issues": [
+        "Whether acquisition of Albemarle Street office premises was material to settled intention to redevelop retail premises",
+        "Whether grant of a new lease outside Part II barred revival of rights on appeal",
+        "Admissibility of post-judgment evidence on appeal under Hughes v Singh principles",
+        "Whether alleged misstatements at a November 2002 meeting could invalidate the new lease or undermine trial evidence"
+      ],
+      "catchwords": [
+        "Landlord and Tenant Act 1954",
+        "section 30(1)(f)",
+        "preliminary issues",
+        "new evidence",
+        "surrender",
+        "redevelopment intention"
+      ],
+      "index_terms": [
+        "Bentley and Skinner v Searchmap",
+        "Lightman J",
+        "New Bond Street",
+        "business tenancy",
+        "section 25 notice"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Gibbs Mews plc v Gemmell",
+          "citation": "[1999] 1 EGLR 43",
+          "relation": "applied"
+        },
+        {
+          "name": "Shotley Point Marina (1986) Ltd v Spalding",
+          "citation": "[1997] 1 EGLR 233",
+          "relation": "cited"
+        },
+        {
+          "name": "Hughes v Singh",
+          "citation": "13 April 1989 (CA)",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete first-instance appeal judgment with clear multi-ground dismissal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/935.json",
+    "status": "done",
+    "notes": "Full Court of Appeal judgment on Himalaya/agency and towage exemption clauses at Kharg Island.",
+    "enrichment": {
+      "short_title": "Third-party benefit of Kharg Island tug requisition form via NIOC agency and ratification",
+      "area_of_law": [
+        "Contract law",
+        "Agency",
+        "Admiralty and shipping",
+        "Collision liability"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Contracts (Rights of Third Parties) Act 1999",
+          "provisions": [
+            "section 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "On 22 July 1998 the tanker ROMINA G collided with the tug BORVIGILANT off Kharg Island after the master signed NIOC's tug requisition form to obtain tug assistance.",
+        "Borkan, owner of BORVIGILANT, sought to rely on exemption and indemnity clauses in the form; Monsoon disputed agency and ratification.",
+        "David Steel J held NIOC had implied actual authority and/or Borkan ratified, so Borkan could rely on the conditions except where loss was caused by want of reasonable care to make the tug seaworthy.",
+        "Clause 7 expressly extended benefits and binding obligations to owners of non-NIOC tugs; the form followed long-standing industry practice.",
+        "Contracts (Rights of Third Parties) Act 1999 did not apply as it post-dated the collision."
+      ],
+      "procedural_posture": "Appeal and cross-appeal from High Court trial of preliminary issues on contractual rights arising from a Persian Gulf tug collision.",
+      "outcome": "Appeal dismissed; cross-appeal dismissed subject to minor wording adjustment on seaworthiness proviso.",
+      "ratio": "Where a tug requisition form makes clear that owners of chartered tugs are to have the benefit of and be bound by hire conditions to the same extent as NIOC, NIOC must be treated as contracting as agent for those owners; implied actual authority may be inferred from course of dealing, and ratification is not defeated merely because a third party's cause of action has accrued unless unfair prejudice would result.",
+      "legal_issues": [
+        "Whether NIOC contracted as agent for Borkan under clause 7 of the tug requisition form (Midland Silicones criteria)",
+        "Whether NIOC had implied actual authority from Borkan",
+        "Whether Borkan ratified the contract and whether accrued causes of action prevent ratification",
+        "Whether clause 4(a) seaworthiness proviso applied to both exclusion and indemnity limbs of clause 2(b)"
+      ],
+      "catchwords": [
+        "Himalaya clause",
+        "agency",
+        "ratification",
+        "towage conditions",
+        "collision",
+        "tug requisition",
+        "unseaworthiness"
+      ],
+      "index_terms": [
+        "Borvigilant v Romina G",
+        "Kharg Island",
+        "NIOC",
+        "Borkan",
+        "Clarke LJ",
+        "Midland Silicones"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Midland Silicones Ltd v Scruttons Ltd",
+          "citation": "[1962] AC 446",
+          "relation": "applied"
+        },
+        {
+          "name": "New Zealand Shipping Co Ltd v AM Satterthwaite & Co Ltd (The Eurymedon)",
+          "citation": "[1975] AC 154",
+          "relation": "applied"
+        },
+        {
+          "name": "Port Jackson Stevedoring Pty Ltd v Salmond and Spraggon (Australia) Pty Ltd (The New York Star)",
+          "citation": "[1981] 1 WLR 138",
+          "relation": "applied"
+        },
+        {
+          "name": "The Mahkutai",
+          "citation": "[1996] AC 650",
+          "relation": "applied"
+        },
+        {
+          "name": "Smith v Henniker-Major",
+          "citation": "[2003] Ch 182",
+          "relation": "applied"
+        },
+        {
+          "name": "Bird v Brown",
+          "citation": "(1850) 4 Exch 786",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long but complete judgment with detailed agency and ratification analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1578.json",
+    "status": "done",
+    "notes": "Very long first-instance judgment; domestic law challenge fully resolved though Article 1 HRA issues left undecided.",
+    "enrichment": {
+      "short_title": "Quashing village green registration of Widmer Farm fields for errors on use, agriculture and as-of-right",
+      "area_of_law": [
+        "Administrative law",
+        "Commons and village greens",
+        "Human rights",
+        "Town and country planning"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Commons Registration Act 1965",
+          "provisions": [
+            "section 12",
+            "section 22",
+            "section 22(1)",
+            "section 29"
+          ]
+        },
+        {
+          "title": "Countryside and Rights of Way Act 2000",
+          "provisions": [
+            "section 98"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 4",
+            "section 4(2)"
+          ]
+        },
+        {
+          "title": "Commons Registration (New Land) Regulations 1969",
+          "provisions": [
+            "Regulation 5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Laing Homes challenged Buckinghamshire County Council's decision to register three fields (38 acres) at Widmer Farm, Widmer End as a class (c) village green under section 22(1) of the Commons Registration Act 1965.",
+        "Grange Action Group applied after local recreational use over 20 years; an inspector recommended registration following a public inquiry.",
+        "Annual hay cropping and agricultural activity occurred on the fields for much of the 20-year period under Laings' tenant Mr Pennington.",
+        "Residents' planning consultation responses argued the land should revert to full agricultural use rather than asserting recreational rights.",
+        "Sullivan J quashed the registration on grounds (1)-(3); ground (4) on locality failed; Article 1 ECHR declaration refused as domestic claim succeeded."
+      ],
+      "procedural_posture": "High Court judicial review of a commons registration authority's decision to register land as a town or village green, with parallel Human Rights Act 1998 incompatibility challenge.",
+      "outcome": "Registration resolution quashed on domestic law grounds (1), (2) and (3); no declaration of incompatibility under the Human Rights Act 1998.",
+      "ratio": "Registration as a village green under section 22(1)(c) fails where recreational use on footpaths is wrongly treated as use of the whole fields for lawful sports and pastimes, annual hay production for over half the period is incompatible with acquisition of village green rights given nineteenth-century restrictions, and public planning representations advocating agricultural use undermine 'as of right' user.",
+      "legal_issues": [
+        "Whether perimeter footpath walking constituted use of fields for lawful sports and pastimes",
+        "Whether annual hay cropping was compatible with 20-year prescriptive recreational use",
+        "Whether residents' planning objections that fields should revert to agricultural use prevented use being as of right",
+        "Whether the ecclesiastical parish of Hazlemere was a qualifying locality"
+      ],
+      "catchwords": [
+        "village green",
+        "Commons Registration Act 1965",
+        "section 22",
+        "lawful sports and pastimes",
+        "as of right",
+        "agricultural use",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Laing Homes v Buckinghamshire County Council",
+        "Widmer Farm",
+        "Sullivan J",
+        "Sunningwell",
+        "Grange Action Group"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Oxfordshire County Council ex p Sunningwell Parish Council",
+          "citation": "[2000] 1 AC 335",
+          "relation": "applied"
+        },
+        {
+          "name": "Williams v Wirral Borough Council",
+          "citation": "[1981] 79 LGR 697",
+          "relation": "considered"
+        },
+        {
+          "name": "Patel v W H Smith (Eziot) Ltd",
+          "citation": "[1987] 1 WLR 853",
+          "relation": "applied"
+        },
+        {
+          "name": "Mills v Silver",
+          "citation": "[1991] Ch 271",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Large but complete judgment with explicit conclusion; HRA Article 1 analysis deliberately not resolved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1749.json",
+    "status": "done",
+    "notes": "Short administrative appeal on council tax disability reduction causation test.",
+    "enrichment": {
+      "short_title": "Council tax disability reduction requires causal link between disability and room use",
+      "area_of_law": [
+        "Tax law",
+        "Council tax",
+        "Administrative law",
+        "Disability benefits"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Council Tax Reduction for Disability Regulations 1992",
+          "provisions": [
+            "Regulation 3",
+            "Regulation 3(1)(a)",
+            "Regulation 3(2)"
+          ]
+        },
+        {
+          "title": "Valuation and Community Charge Tribunal Regulations 1989",
+          "provisions": [
+            "Regulation 51"
+          ]
+        },
+        {
+          "title": "Rating (Disabled Persons) Act 1978",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Perks sought a council tax reduction because a room in his home at 125 Hurst Road, Smethwick was used by his disabled mother Mrs Elizabeth Perks.",
+        "Sandwell Metropolitan Borough Council refused the application under the Council Tax Reduction for Disability Regulations 1992.",
+        "The valuation tribunal allowed Mr Perks' appeal but placed little weight on Williams v Wirral Borough Council.",
+        "Silber J held the room must be predominantly used and essential or of major importance to the disabled person's well-being by reason of the disability, with a causal link.",
+        "The tribunal's decision was set aside by consent; the matter was to be reconsidered applying the correct test."
+      ],
+      "procedural_posture": "High Court appeal under Regulation 51 against a valuation tribunal decision on council tax disability reduction.",
+      "outcome": "Tribunal decision set aside; no order for costs.",
+      "ratio": "Under Regulation 3 of the Council Tax Reduction for Disability Regulations 1992, entitlement requires that the disabled person's predominant use of a room be essential or of major importance to well-being by reason of the nature and extent of the disability; mere use by a disabled person of an ordinary living room is insufficient without a causal link between disability and the need for the room.",
+      "legal_issues": [
+        "Whether predominant use and necessity tests under Regulation 3 require a causal link between disability and room use",
+        "Whether the tribunal correctly applied Williams v Wirral Borough Council",
+        "Whether Mrs Perks' use of the family lounge as a bed-sitter qualified despite differing household facts from Howell-Williams"
+      ],
+      "catchwords": [
+        "council tax",
+        "disability reduction",
+        "Regulation 3",
+        "causal link",
+        "valuation tribunal",
+        "Howell-Williams"
+      ],
+      "index_terms": [
+        "Sandwell MBC v Perks",
+        "Silber J",
+        "council tax disability",
+        "Smethwick",
+        "Luton Borough Council v Ball"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Williams v Wirral Borough Council",
+          "citation": "[1981] 79 LGR 697",
+          "relation": "applied"
+        },
+        {
+          "name": "Luton Borough Council v Ball",
+          "citation": "[2001] EWHC Admin 328",
+          "relation": "followed"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete short judgment with clear legal test and outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1738.json",
+    "status": "done",
+    "notes": "Complete without-notice interim injunction judgment against persons unknown for anticipated incinerator protest.",
+    "enrichment": {
+      "short_title": "Interim injunction and alternative service against unknown incinerator protest trespassers",
+      "area_of_law": [
+        "Tort law",
+        "Civil procedure",
+        "Injunctions",
+        "Protest and trespass"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 6.8",
+            "Rule 3.10",
+            "Rule 3.20"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Onyx Environmental group companies sought without-notice relief to protect six UK waste incinerator sites from anticipated 'Global Day of Action Against Incinerators' protests on 14 July 2003.",
+        "Previous protests at similar sites had caused shutdowns, safety risks and substantial unrecoverable enforcement costs, sometimes involving Greenpeace volunteers.",
+        "Claimants could not name individual protesters; defendants were described as persons entering or remaining without consent on specified sites in connection with the event.",
+        "The Vice-Chancellor followed the Harry Potter 'persons unknown' approach but refined the description to avoid legal conclusions such as 'intending to trespass'.",
+        "Interim injunction granted with perimeter-post alternative service under CPR 6.8 and cross-undertaking in damages."
+      ],
+      "procedural_posture": "Without-notice High Court interim injunction application against defendants described by reference rather than name.",
+      "outcome": "Interim injunction granted against suitably described persons unknown; alternative service by affixing documents at site perimeters approved.",
+      "ratio": "Defendants may be joined by description if sufficiently certain to identify those included and excluded; difficulty of enforcement does not defeat an otherwise meritorious interim injunction, and CPR 6.8 permits alternative service where conventional service is impracticable for unknown protesters.",
+      "legal_issues": [
+        "Whether proceedings against 'persons unknown' describing anticipated protesters are valid",
+        "Whether interim injunctive relief is appropriate where criminal remedies and damages are inadequate",
+        "Whether alternative service by fixing documents at site perimeters satisfies CPR 6.8"
+      ],
+      "catchwords": [
+        "persons unknown",
+        "interim injunction",
+        "trespass",
+        "incinerator protest",
+        "alternative service",
+        "CPR 6.8"
+      ],
+      "index_terms": [
+        "Hampshire Waste Services",
+        "Onyx Environmental",
+        "Global Day of Action Against Incinerators",
+        "Harry Potter persons unknown",
+        "protest injunction"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Complete ex tempore-style judgment with clear order; Harry Potter analogy cited from same judge's prior decision."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1122.json",
+    "status": "done",
+    "notes": "Short costs judgment following EWCA Civ 1121; complete on costs allocation only.",
+    "enrichment": {
+      "short_title": "Costs order after partial success in Partridge v Lawrence easement appeal",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Following the Court of Appeal's partial decision in Partridge v Lawrence on Field Access width and preconditions, the court determined costs.",
+        "Defendants had made an early reasonable offer conforming with the ultimate width outcome of 5.5 metres.",
+        "Claimants offered mediation very late on 24 June 2003, which the court did not treat as decisive between the parties.",
+        "Defendants succeeded on the main and important issue of easement width.",
+        "The court ordered claimants to pay 85% of defendants' costs here and below."
+      ],
+      "procedural_posture": "Costs application in the Court of Appeal after partial allowance of appeal in related easement litigation.",
+      "outcome": "Claimants ordered to pay 85% of defendants' costs of appeal and below.",
+      "ratio": "Where defendants succeed on the main issue in litigation despite partial claimant success on subsidiary points, and had made a reasonable early offer aligned with that outcome, costs should substantially follow event in their favour.",
+      "legal_issues": [
+        "How costs should reflect partial success on easement width versus preconditions",
+        "Effect of defendants' early settlement offer and late mediation proposal on conduct-based costs"
+      ],
+      "catchwords": [
+        "costs",
+        "partial success",
+        "reasonable offer",
+        "mediation",
+        "conduct of parties"
+      ],
+      "index_terms": [
+        "Partridge v Lawrence costs",
+        "Peter Gibson LJ",
+        "Field Access",
+        "85 percent costs"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Partridge & Ors v Lawrence & Ors",
+          "citation": "[2003] EWCA Civ 1121",
+          "relation": "related"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Brief but complete costs decision; substantive ratio lives in EWCA Civ 1121."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/836.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment affirming Wilson J on NAA 1948 s.21 duty to disabled destitute asylum seeker.",
+    "enrichment": {
+      "short_title": "Local authority must house disabled destitute asylum seeker under NAA 1948 s.21 not NASS s.95",
+      "area_of_law": [
+        "Public law",
+        "Social care",
+        "Immigration and asylum",
+        "Community care"
+      ],
+      "statutes_considered": [
+        {
+          "title": "National Assistance Act 1948",
+          "provisions": [
+            "section 21",
+            "section 21(1)(a)",
+            "section 21(1A)"
+          ]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 95",
+            "section 116"
+          ]
+        },
+        {
+          "title": "Asylum Support Regulations 2000",
+          "provisions": [
+            "Regulation 6(3)(a)",
+            "Regulation 23"
+          ]
+        },
+        {
+          "title": "Asylum and Immigration Act 1996",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Mani, a destitute Algerian asylum seeker with a congenital leg abnormality and mental health vulnerability, claimed residential accommodation from Lambeth LBC.",
+        "NASS had previously accommodated him but he declined further NASS offers and asserted a section 21 National Assistance Act 1948 duty.",
+        "Wilson J held his need for care and attention did not arise solely from destitution and Lambeth remained liable despite Westminster v NASS.",
+        "Lambeth argued section 21 applies only where disability creates an 'accommodation-related need' for residential care, which Mr Mani's disability did not.",
+        "The Court of Appeal held Ex parte O test applied equally to asylum seekers; prior NASS support could not transfer statutory liability."
+      ],
+      "procedural_posture": "Local authority appeal to the Court of Appeal against High Court judgment on duty to provide section 21 accommodation to a disabled asylum seeker.",
+      "outcome": "Appeal dismissed with costs; leave to appeal to the House of Lords refused.",
+      "ratio": "Section 21(1A) of the National Assistance Act 1948 excludes only able-bodied destitute persons subject to immigration control; where disability or illness materially contributes to need for care and attention, the local authority duty under section 21(1)(a) applies to asylum seekers and excludes section 95 NASS support, regardless of whether the disability alone would have required institutional residential care for a British citizen.",
+      "legal_issues": [
+        "Whether section 21(1)(a) requires an accommodation-related need or any need for care and attention not otherwise available",
+        "Interaction between section 21(1A) and section 95 Immigration and Asylum Act 1999 for disabled asylum seekers",
+        "Whether Ex parte O construction applies equally to asylum seekers and non-asylum overstayers",
+        "Whether prior NASS provision estops or displaces local authority liability"
+      ],
+      "catchwords": [
+        "section 21",
+        "National Assistance Act 1948",
+        "section 95",
+        "asylum seeker",
+        "care and attention",
+        "NASS",
+        "destitution"
+      ],
+      "index_terms": [
+        "R (Mani) v Lambeth",
+        "Simon Brown LJ",
+        "Ex parte O",
+        "Westminster v NASS",
+        "disabled asylum seeker"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Wandsworth LBC ex parte O",
+          "citation": "[2000] 1 WLR 2539",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Westminster City Council) v National Asylum Support Service",
+          "citation": "[2002] 1 WLR 2956",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Westminster City Council ex parte M",
+          "citation": "(1997) 1 CCLR 85",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed statutory analysis and clear dismissal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1197.json",
+    "status": "done",
+    "notes": "Complete appeal on mortgagee sale undervalue damages after late change of case on secured indebtedness.",
+    "enrichment": {
+      "short_title": "Mortgagee sale undervalue damages upheld where defendants barred from raising unpleaded secured debt",
+      "area_of_law": [
+        "Land law",
+        "Mortgages",
+        "Equity",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Shreeve's trustee assigned him a claim that mortgagees Taylor sold Rays Brow, Northwich at undervalue in September 1993 for £132,000 rather than £143,000.",
+        "At trial both parties pleaded that £132,000 was just sufficient to discharge the first and second charges and costs; the judge found an £11,000 undervalue.",
+        "After judgment the judge queried Cobleys' entitlement; Cobleys initially claimed the £11,000 but later withdrew as likely statute-barred.",
+        "At a restored hearing defendants argued for the first time that substantial secured indebtedness exceeded the undervalue so the claimant suffered no prejudice.",
+        "Lightman LJ held it was unjust to permit that new case after trial fought on the pleaded basis; appeal allowed for payment of £11,000 plus interest."
+      ],
+      "procedural_posture": "Court of Appeal appeal and cross-appeal from High Court (Recorder Elleray QC) on damages for mortgagee breach of duty in sale at undervalue.",
+      "outcome": "Claimant's appeal allowed; defendants ordered to pay £11,000 damages plus interest; cross-appeal effectively rejected.",
+      "ratio": "A person interested in the equity of redemption prejudiced by a mortgagee's sale at undervalue is entitled to damages for the shortfall, and a mortgagee cannot after judgment raise for the first time unpleaded secured indebtedness showing no loss when the action was conducted throughout on the agreed footing that sale proceeds fully discharged the charges.",
+      "legal_issues": [
+        "Whether sale at undervalue prejudiced the claimant where chargees had outstanding secured debt exceeding the shortfall",
+        "Whether defendants could amend their case after judgment to rely on additional secured indebtedness",
+        "Entitlement of second chargee Cobleys to undervalue damages",
+        "Appropriate remedy where mortgagees could notionally treat shortfall as part purchase price"
+      ],
+      "catchwords": [
+        "mortgagee sale",
+        "undervalue",
+        "equity of redemption",
+        "secured indebtedness",
+        "pleaded case",
+        "damages"
+      ],
+      "index_terms": [
+        "Shreeve v Taylor",
+        "Lightman LJ",
+        "Rays Brow Northwich",
+        "mortgagee duty",
+        "bankruptcy trustee"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Adamson v Halifax Plc",
+          "citation": "[2003] 1 WLR 60",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete appellate judgment with clear procedural and substantive holdings."
+      }
+    }
+  }
+]

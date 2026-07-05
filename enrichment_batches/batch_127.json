@@ -1,0 +1,701 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2142.json",
+    "status": "done",
+    "notes": "Complete prosecutor's appeal by case stated on drink-driving presumption.",
+    "enrichment": {
+      "short_title": "Prosecution appeal allowed where magistrates wrongly treated expert hypothetises as rebutting s15(3) breath-alcohol presumption",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal procedure",
+        "Magistrates' courts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": ["section 5"]
+        },
+        {
+          "title": "Road Traffic Offenders Act 1988",
+          "provisions": ["section 15", "section 16"]
+        }
+      ],
+      "key_facts": [
+        "Lisa Chambers was charged with driving with excess alcohol after a breath reading of 124 micrograms; she admitted consuming alcohol before and after driving.",
+        "Forensic experts agreed only on two post-driving consumption scenarios and not on her interview admission of pre-incident vodka.",
+        "Magistrates accepted a submission of no case to answer, treating the joint expert statement as rebutting the section 15(2) presumption.",
+        "Prosecution appealed by case stated; the parties agreed to proceed on the shorter interview record showing pre-incident vodka consumption."
+      ],
+      "procedural_posture": "Prosecutor's appeal by case stated from Sutton Coldfield Magistrates' Court to the High Court (Administration).",
+      "outcome": "Appeal allowed; magistrates' decision quashed and matter remitted for rehearing before a differently constituted bench; respondent ordered to pay £500 towards prosecution costs.",
+      "ratio": "On a section 15(3) Road Traffic Offenders Act 1988 submission of no case to answer, magistrates must consider all relevant evidence including the defendant's admissions, may not treat unproved expert hypothetises as evidence rebutting the presumption, and act irrationally if expert evidence on the TF7 scenario could not on any view discharge the defendant's burden on the balance of probabilities.",
+      "legal_issues": [
+        "Whether magistrates erred in acceding to no case to answer on excess alcohol where only expert hypothetises were considered",
+        "Proper application of section 15(2)-(3) presumption and rebuttal where alcohol was consumed after driving",
+        "Whether remittal should be for continuation or rehearing before a fresh bench"
+      ],
+      "catchwords": [
+        "drink driving",
+        "section 15 presumption",
+        "no case to answer",
+        "post-incident drinking",
+        "expert evidence",
+        "case stated",
+        "intoxilyzer"
+      ],
+      "index_terms": [
+        "Chambers",
+        "Sutton Coldfield",
+        "TF7 form",
+        "breath specimen",
+        "Patterson v Charlton",
+        "Mallard v DPP",
+        "prosecutor's appeal"
+      ],
+      "linked_authorities": [
+        {"name": "Patterson v Charlton", "citation": "[1986] RTR 18", "relation": "considered"},
+        {"name": "Beauchamp Thomson v DPP", "citation": "[1989] RTR 54", "relation": "considered"},
+        {"name": "Mallard v DPP", "citation": "[1990] 91 Crim App R 108", "relation": "considered"},
+        {"name": "Drummond", "citation": "[2002] RTR 21", "relation": "considered"},
+        {"name": "Gumbley v Cunningham", "citation": "[1988] 1 QB 170", "relation": "considered"}
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment with clear findings on three separate magistrates' errors."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2169.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment; source summary field truncated but full_text complete.",
+    "enrichment": {
+      "short_title": "Conviction appeal dismissed on hearsay and summing-up grounds; total sentence reduced from seven to four and a half years",
+      "area_of_law": [
+        "Criminal law",
+        "Sexual offences",
+        "Sentencing",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Sex Offenders Act 1997",
+          "provisions": ["registration"]
+        },
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": ["section 44"]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["section 23"]
+        }
+      ],
+      "key_facts": [
+        "Bright was convicted at Cambridge Crown Court on eleven counts of indecent assault and indecency with a child against five complainants between 1967 and 1982.",
+        "Counts relating to Lynne Herbert were left on the file; defence sought to adduce passages from her unused statement to attack collusion.",
+        "The trial judge refused to permit selective hearsay from Lynne Herbert's statement as insufficiently relevant collateral matter.",
+        "Total consecutive sentences of seven years' imprisonment were imposed after an earlier Cardiff conviction."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Criminal Division) against conviction with leave and against sentence following partial leave/refusal by the single judge.",
+      "outcome": "Appeal against conviction dismissed; appeal against sentence allowed in part with total sentence reduced to four and a half years' imprisonment.",
+      "ratio": "Where a non-witness's statement is not before the jury and the Crown does not rely on it, cherry-picked hearsay from that statement is not admissible simply to invite an inference of untruthfulness by live witnesses; the trial judge's discretion to exclude such collateral credit evidence will not be interfered with unless plainly wrong, and long-delayed historical sexual offences may still attract substantial but not excessive consecutive sentences.",
+      "legal_issues": [
+        "Admissibility of selective passages from an unused witness statement under Subramanian v Public Prosecutor",
+        "Need for alibi direction where complainant's dates overlapped appellant's Aden service",
+        "Fairness of character direction where previous convictions were adduced by the defendant",
+        "Whether specimen counts and delay directions rendered verdicts unsafe",
+        "Totality and length of sentence given delay and prior Cardiff sentence"
+      ],
+      "catchwords": [
+        "indecent assault",
+        "historical sexual offences",
+        "hearsay",
+        "collateral issue",
+        "character direction",
+        "specimen count",
+        "delay",
+        "totality of sentence"
+      ],
+      "index_terms": [
+        "Bright",
+        "Cambridge Crown Court",
+        "Lynne Herbert",
+        "Girls Brigade",
+        "Subramanian",
+        "R v Summers",
+        "R v David R"
+      ],
+      "linked_authorities": [
+        {"name": "Subramanian v Public Prosecutor", "citation": "[1956] 1 WLR 965", "relation": "applied"},
+        {"name": "R v Summers", "citation": "[1999] Crim LR 745", "relation": "applied"},
+        {"name": "R v David R", "citation": "[1999] Crim LR 909", "relation": "considered"},
+        {"name": "R v Funderburk", "citation": "(1990) 90 Cr App Rep 466", "relation": "considered"}
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Very long full judgment with detailed treatment of each ground; summary metadata truncated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1238.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on Commercial Agents Regulations preliminary issues.",
+    "enrichment": {
+      "short_title": "Sub-agents without direct principal contract excluded from Commercial Agents Regulations; fixed-term expiry is termination",
+      "area_of_law": [
+        "Commercial agency",
+        "EU law",
+        "Contract law",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Commercial Agents (Council Directive) Regulations 1993",
+          "provisions": ["Regulation 2(1)", "Regulation 17", "Regulation 18", "Regulation 13", "Regulation 14", "Regulation 15"]
+        },
+        {
+          "title": "Council Directive 86/653/EEC",
+          "provisions": ["Article 17", "Article 18", "Article 20"]
+        }
+      ],
+      "key_facts": [
+        "Nine self-employed sales agents sold Ty Europe cuddly toys through Swallow Corporate Sales Ltd after a 1997 restructuring.",
+        "Agents had contracts with SCS, not Ty Europe, though retailers and Ty Europe dealt with them as Ty's representatives.",
+        "When a three-year selling-rights agreement expired in 2000 the agents declined employment and claimed Regulation 17 compensation from Ty Europe.",
+        "Judge McGonigal answered preliminary issues in the agents' favour; Ty Europe appealed."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Civil Division) from preliminary issue determinations in the Leeds Mercantile Court.",
+      "outcome": "Appeal allowed on the sub-agency question (no direct agency contract with principal); effluxion-of-time point answered correctly at first instance but not required for disposal; action dismissed; interim payment of £60,000 to be repaid; permission to appeal to the House of Lords refused.",
+      "ratio": "Regulation 2(1) defines who is a commercial agent by factual continuing authority, but the substantive protections in the Regulations—including Regulation 17 compensation—require a direct agency contract between agent and principal; sub-agents contractually bound only to an intermediary are not covered, though 'termination' in Regulation 17 includes expiry of a fixed term by effluxion of time.",
+      "legal_issues": [
+        "Whether sub-agents with authority delegated via an intermediary may claim compensation directly against the manufacturer/principal",
+        "Whether automatic expiry of a fixed-term agency contract constitutes 'termination' for Regulation 17 purposes",
+        "Whether compensation is payable in principle where a single fixed-term contract ends without renewal"
+      ],
+      "catchwords": [
+        "commercial agent",
+        "sub-agency",
+        "Regulation 17 compensation",
+        "fixed-term contract",
+        "effluxion of time",
+        "Directive 86/653",
+        "Ty Europe"
+      ],
+      "index_terms": [
+        "Light",
+        "Ty Europe",
+        "Swallow Corporate Sales",
+        "Whitehead v Jenks",
+        "Frape v Emreco",
+        "Tigana v Decoro",
+        "Freeman & Lockyer"
+      ],
+      "linked_authorities": [
+        {"name": "Whitehead v Jenks & Cattell Engineering Ltd", "citation": "unreported, 2 February 2001", "relation": "considered"},
+        {"name": "Frape v Emreco International Ltd", "citation": "[2002] EuLR 10", "relation": "followed"},
+        {"name": "Tigana Ltd v Decoro", "citation": "[2003] EWHC 23 (QB)", "relation": "followed"},
+        {"name": "Freeman & Lockyer v Buckhurst Park Properties (Mangal) Ltd", "citation": "[1964] 2 QB 480", "relation": "considered"},
+        {"name": "Hely-Hutchinson v Brayhead Ltd", "citation": "[1968] 1 QB 549", "relation": "considered"}
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Unanimous detailed judgment on two distinct construction issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2377.json",
+    "status": "done",
+    "notes": "Complete judgment on section 69 Arbitration Act leave to appeal from local government reorganisation arbitrations.",
+    "enrichment": {
+      "short_title": "Partial leave to appeal granted on Creebeck surplus land and pre-notice interest under 1995 local government property regulations",
+      "area_of_law": [
+        "Arbitration",
+        "Local government",
+        "Property law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": ["section 69", "section 49(3)", "section 69(8)"]
+        },
+        {
+          "title": "Local Government Act 1992",
+          "provisions": ["section 19"]
+        },
+        {
+          "title": "Local Government Changes for England (Property Transfer and Transitional Payments) Regulations 1995",
+          "provisions": ["regulation 3(2)", "regulation 5", "regulation 5(6)", "regulation 10(7)", "regulation 14", "regulation 16", "regulation 17", "regulation 18", "regulation 19"]
+        },
+        {
+          "title": "Regional Assemblies (Preparations) Act 2003",
+          "provisions": ["application of 1992 Act provisions"]
+        }
+      ],
+      "key_facts": [
+        "Arbitration awards between Durham County Council and Darlington Borough Council arose from Darlington's creation as a unitary authority on 1 April 1997.",
+        "Disputes concerned classification of airport and waste company shareholdings and whether Creebeck waste disposal land was surplus.",
+        "A second award addressed whether interest was payable before service of a regulation 16 notice and whether section 49(3) could fill any lacuna.",
+        "Durham sought leave to appeal several points of law under section 69."
+      ],
+      "procedural_posture": "Application for leave to appeal points of law arising from two statutory arbitrations under regulation 19 of the 1995 Regulations, heard by Blackburne J.",
+      "outcome": "Leave to appeal granted on the Creebeck surplus-land question and on both interest questions; leave refused on airport shareholding and regulation 5(6) issues; permission to appeal Blackburne J's decision to the Court of Appeal refused; costs to be assessed on successful issues.",
+      "ratio": "Under section 69(3) Arbitration Act 1996, questions of general public importance arising from enduring 1995 local government property-transfer regulations may attract leave where the tribunal's decision is at least open to serious doubt; here the Creebeck surplus-land construction and the arbitrator's treatment of pre-regulation-16 interest under regulations 17-18 and section 49(3) met that threshold, whereas the airport share and regulation 5(6) holdings did not.",
+      "legal_issues": [
+        "Construction of 'relevant shares' and 'investments' in regulations 3 and 5",
+        "Whether shares and Creebeck land were held/required for Darlington functions under regulation 5(6) or were surplus land under regulation 10(7)",
+        "Whether a paying authority must pay interest before a regulation 16 notice",
+        "Whether section 49(3) Arbitration Act 1996 can award interest where the statutory scheme is silent"
+      ],
+      "catchwords": [
+        "section 69 leave",
+        "local government reorganisation",
+        "property transfer regulations",
+        "surplus land",
+        "arbitration appeal",
+        "interest",
+        "airport shares"
+      ],
+      "index_terms": [
+        "Durham County Council",
+        "Darlington Borough Council",
+        "Creebeck",
+        "NIAL",
+        "TIAL",
+        "Northern Pioneer",
+        "North Range Shipping"
+      ],
+      "linked_authorities": [
+        {"name": "CMA CGM v Northern Pioneer", "citation": "[2002] EWCA Civ 1878", "relation": "considered"},
+        {"name": "North Range Shipping Ltd v Seatrans Shipping Corporation", "citation": "[2002] EWCA Civ 405", "relation": "considered"}
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Interlocutory leave judgment; outcomes clear though some issues not finally determined."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2065.json",
+    "status": "done",
+    "notes": "Complete scheme sanction hearing judgment.",
+    "enrichment": {
+      "short_title": "Takeover scheme of arrangement sanctioned despite shareholder's Article 1 Protocol objection to compulsory cash buy-out",
+      "area_of_law": [
+        "Company law",
+        "Schemes of arrangement",
+        "Human rights",
+        "Mergers and acquisitions"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": ["section 425", "section 429"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 1 Protocol 1"]
+        }
+      ],
+      "key_facts": [
+        "Waste Recycling Group plc sought court sanction of a recommended takeover by Cholet Acquisitions Ltd at 267.5p cash per share.",
+        "The scheme cancelled all shares and reissued them to the acquirer funded by a capital reduction and share premium account.",
+        "Approximately 99.7% by value of votes cast supported the scheme, including a 45.5% principal shareholder.",
+        "Minority shareholder Mr Page objected that environmental stewardship interests in public ownership engaged Article 1 Protocol 1 differently from purely financial interests."
+      ],
+      "procedural_posture": "Petition to the Companies Court to sanction a scheme of arrangement under section 425 and confirm the associated capital reduction.",
+      "outcome": "Scheme sanctioned and capital reduction confirmed; shareholder's Article 1 Protocol 1 objection rejected.",
+      "ratio": "Section 425 scheme approval binding dissentient shareholders is consistent with Article 1 Protocol 1 where shareholders receive consideration and are treated equally; the court looks to shareholders' legal rights under the scheme, not to subjective non-financial motivations for holding shares, and cannot create differential classes based on how shareholders value their interests.",
+      "legal_issues": [
+        "Whether statutory majorities fairly represented the single class of members",
+        "Whether capital reduction requirements were satisfied",
+        "Whether compulsory cancellation of shares for cash breached Article 1 Protocol 1 where a shareholder claimed environmental/public-interest reasons for retaining shares"
+      ],
+      "catchwords": [
+        "scheme of arrangement",
+        "section 425",
+        "capital reduction",
+        "takeover",
+        "Article 1 Protocol 1",
+        "minority shareholder",
+        "class composition"
+      ],
+      "index_terms": [
+        "Waste Recycling Group",
+        "Cholet Acquisitions",
+        "Re BTR plc",
+        "Equitable Life",
+        "Bramelid and Malmstrom v Sweden",
+        "compulsory acquisition"
+      ],
+      "linked_authorities": [
+        {"name": "Re Equitable Life Assurance Society", "citation": "[2002] EWHC 140", "relation": "followed"},
+        {"name": "Re BTR plc", "citation": "[1999] 2 BCLC 675", "relation": "applied"},
+        {"name": "Bramelid and Malmstrom v Sweden", "citation": "[1982] 29 DR 64", "relation": "applied"}
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete ex tempore-style judgment with clear sanction outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1851.json",
+    "status": "done",
+    "notes": "Complete appeal by case stated on tachograph weight calculation.",
+    "enrichment": {
+      "short_title": "Towed engineering plant counted as trailer for tachograph weight limit; Nissan Cabstar appeal dismissed",
+      "area_of_law": [
+        "Road transport law",
+        "Drivers' hours",
+        "EU regulations",
+        "Magistrates' courts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Transport Act 1968",
+          "provisions": ["section 97"]
+        },
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": ["section 108"]
+        },
+        {
+          "title": "Council Regulation (EEC) No 3820/85",
+          "provisions": ["Article 1", "Article 4"]
+        },
+        {
+          "title": "Council Regulation (EEC) No 3821/85",
+          "provisions": ["Article 3"]
+        },
+        {
+          "title": "Community Drivers' Hours and Recording Equipment (Exemptions and Supplementary Provisions) Regulations 1986",
+          "provisions": ["Regulation 1"]
+        },
+        {
+          "title": "Goods Vehicles (Ascertainment of Maximum Gross Weights) Regulations 1976",
+          "provisions": ["Regulation 3", "Schedule 1 Part B"]
+        }
+      ],
+      "key_facts": [
+        "Colin Pritchard drove a 3,400 kg plated Nissan Cabstar towing a single-axle Bocker H16 hoist for Industrade partnership business.",
+        "No tachograph was fitted; train weight exceeded applicable limits once the hoist was treated as a trailer.",
+        "Partners Stefan Devenish and Pritchard were convicted under section 97 Transport Act 1968 and absolutely discharged.",
+        "The hoist was engineering plant not primarily constructed to carry a load but designed to be coupled to a motor vehicle."
+      ],
+      "procedural_posture": "Appeal by case stated from Leigh/Wigan Magistrates' Court to the High Court (Administration).",
+      "outcome": "Appeal dismissed; justices held correct that the Bocker hoist was a trailer and aggregate permissible maximum weight exceeded 3.5 tonnes.",
+      "ratio": "For section 97 Transport Act 1968 read with Regulation 3820/85 Article 4, a non-goods-carrying piece of engineering plant towed behind a motor vehicle is a 'trailer' whose notional maximum gross weight under the 1976 Regulations must be aggregated with the motor vehicle's plated weight to determine whether tachograph equipment is required.",
+      "legal_issues": [
+        "Whether a Bocker H16 hoist is a 'trailer' within EEC Regulation 3820/85 Article 1(2)(c)",
+        "How to calculate 'permissible maximum weight' including engineering plant under section 108 Road Traffic Act 1988 and the 1976 Regulations",
+        "Whether only goods-carrying trailers count toward the Article 4 3.5-tonne exemption"
+      ],
+      "catchwords": [
+        "tachograph",
+        "section 97 Transport Act 1968",
+        "engineering plant",
+        "trailer definition",
+        "permissible maximum weight",
+        "3820/85",
+        "drivers' hours"
+      ],
+      "index_terms": [
+        "Pritchard",
+        "Devenish",
+        "Industrade",
+        "Bocker H16",
+        "Nissan Cabstar",
+        "Small v DPP",
+        "Freight Transport Association guidance"
+      ],
+      "linked_authorities": [
+        {"name": "Small v DPP", "citation": "[1995] RTR 95", "relation": "applied"},
+        {"name": "Knight v Halliwell", "citation": "(1874) LR 4 QB 412", "relation": "cited on case stated jurisdiction"},
+        {"name": "Giebler v Manning", "citation": "[1906] 1 KB 709", "relation": "cited on case stated jurisdiction"}
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed statutory construction judgment with agreed facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2002.json",
+    "status": "done",
+    "notes": "Complete section 288 planning challenge judgment.",
+    "enrichment": {
+      "short_title": "Planning permission quashed where inspector gave no intelligible reasons on residential amenity space compliance",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 288", "section 54A"]
+        }
+      ],
+      "key_facts": [
+        "Wycombe District Council refused planning permission for the White Blackbird apartment block in High Wycombe on dominance and amenity-space grounds.",
+        "An Inspector granted permission on appeal, treating amenity space as a minor concern under 'Other Matters'.",
+        "The Council's adopted and emerging local plans required usable outdoor amenity space with qualitative and minimum size guidelines.",
+        "The developer argued purchasers could choose units with less private space and PPG3 supported wider housing choice."
+      ],
+      "procedural_posture": "Application under section 288 Town and Country Planning Act 1990 to quash the Secretary of State's planning appeal decision, defended by the developer.",
+      "outcome": "Inspector's decision quashed for inadequate reasons and misdirection on PPG3; costs ordered against Secretary of State to 23 May and against developer thereafter.",
+      "ratio": "An inspector must clearly decide and explain whether a proposed development accords with the development plan when amenity space is a principal controversial issue; invoking PPG3's emphasis on choice cannot displace the section 54A requirement to determine plan compliance and, if departing from plan policies, to conduct an explicit balancing exercise with intelligible reasons.",
+      "legal_issues": [
+        "Adequacy of reasons under Save Britain's Heritage principles",
+        "Whether the inspector determined compliance with adopted and emerging local plan amenity-space policies",
+        "Proper relationship between PPG3 flexibility and local plan policies already reflecting PPG3",
+        "Section 54A development plan compliance and departures"
+      ],
+      "catchwords": [
+        "planning appeal",
+        "amenity space",
+        "inadequate reasons",
+        "section 54A",
+        "PPG3",
+        "local plan",
+        "high density residential"
+      ],
+      "index_terms": [
+        "Wycombe District Council",
+        "White Blackbird",
+        "Kingsoak Homes",
+        "High Wycombe",
+        "Policy H9",
+        "Policy H20",
+        "Save Britain's Heritage"
+      ],
+      "linked_authorities": [
+        {"name": "Save Britain's Heritage v Number 1 Poultry Ltd", "citation": "[1991] 1 WLR 153", "relation": "applied"}
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full Richards J judgment with settled planning reasons principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1054.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment correcting section 31(7B) capitalisation approach.",
+    "enrichment": {
+      "short_title": "Section 31(7B) capitalisation cannot reopen settled capital claims; Cornick (No 3) wider redistribution rejected",
+      "area_of_law": [
+        "Family law",
+        "Financial remedies",
+        "Matrimonial finance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Matrimonial Causes Act 1973",
+          "provisions": ["section 31(7)", "section 31(7A)", "section 31(7B)", "section 24"]
+        },
+        {
+          "title": "Matrimonial and Family Proceedings Act 1984",
+          "provisions": ["section 25A"]
+        },
+        {
+          "title": "Family Law Act 1996",
+          "provisions": ["section 31(7A)-(7F) insertion"]
+        },
+        {
+          "title": "Welfare Reform and Pensions Act 1999",
+          "provisions": ["section 31(7B)(ba)", "section 85(3)(b)"]
+        }
+      ],
+      "key_facts": [
+        "Following 1997 consent order the wife received £36,000 per annum periodical payments for life and use of an Italian holiday home via daughters' ownership.",
+        "The husband applied under section 31(7B) to capitalise maintenance; the wife sought increase to £60,000 and capitalisation.",
+        "Hedley J assessed needs at £47,000 per annum, capitalised at £635,000, then uplifted to £740,000 including mortgage relief and 'sharing'.",
+        "The husband's income had fallen from about £270,000 to £130,000 while capital exceeded £1.25m."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Civil Division) against Hedley J's variation and capitalisation order; permission granted on paper.",
+      "outcome": "Appeal allowed; lump sum on capitalisation reduced from £740,000 to £655,000; court held section 31(7B) does not permit general redistribution of capital beyond fair substitution for the discharged maintenance order.",
+      "ratio": "On dismissal of periodical payments under section 31(7B) Matrimonial Causes Act 1973 the court's task is substitution—fairly capitalising the varied maintenance order and completing the clean break—not reopening capital claims compromised in the original order; Charles J's broader construction in Cornick (No 3) was obiter and wrong, and mortgage servicing or debt relief for post-order losses cannot be revisited through section 31(7B).",
+      "legal_issues": [
+        "Scope of discretion under section 31(7A) and (7B) on capitalisation applications",
+        "Whether White v White sharing principles apply at the capitalisation stage",
+        "Correct treatment of mortgage costs, debt relief, holiday-home undertaking and backdating",
+        "Priority of pension-sharing orders under section 31(7B)(ba) where available"
+      ],
+      "catchwords": [
+        "periodical payments",
+        "capitalisation",
+        "section 31(7B)",
+        "clean break",
+        "Duxbury tables",
+        "maintenance variation",
+        "Cornick"
+      ],
+      "index_terms": [
+        "Pearce",
+        "Hedley J",
+        "Harris v Harris",
+        "Cornick v Cornick (No 3)",
+        "White v White",
+        "Brooks v Brooks",
+        "Law Commission Report No 192"
+      ],
+      "linked_authorities": [
+        {"name": "Harris v Harris", "citation": "[2001] 1 FCR 68", "relation": "applied"},
+        {"name": "Cornick v Cornick (No 3)", "citation": "[2001] 2 FLR 1240", "relation": "disapproved"},
+        {"name": "Cornick v Cornick (No 2)", "citation": "[1995] 2 FLR 490", "relation": "considered"},
+        {"name": "White v White", "citation": "[2001] AC 596", "relation": "considered"},
+        {"name": "Brooks v Brooks", "citation": "[1996] AC 375", "relation": "considered"},
+        {"name": "Minton v Minton", "citation": "[1979] AC 593", "relation": "considered"},
+        {"name": "de Lasala v de Lasala", "citation": "[1980] AC 546", "relation": "considered"}
+      ],
+      "confidence": {
+        "score": 0.97,
+        "level": "high",
+        "notes": "Authoritative Thorpe LJ judgment with clear statutory analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1048.json",
+    "status": "done",
+    "notes": "Very long complete judgment; source summary field truncated.",
+    "enrichment": {
+      "short_title": "Dishonest director must account for all pipeline-loan profits; equitable compensation claim fails for lack of causation",
+      "area_of_law": [
+        "Company law",
+        "Fiduciary duties",
+        "Equity",
+        "Limitation of actions",
+        "Restitution"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": ["section 21(1)(a)", "section 21(1)(b)", "section 32"]
+        }
+      ],
+      "key_facts": [
+        "Mr Koshy, managing director of Zambian joint venture company GVDC, arranged pipeline loan transactions between GVDC and his company Lasco in 1987-88 without disclosing his personal profit.",
+        "GVDC's cotton and wheat farm project at Sinazongwe collapsed; litigation began in 1996 seeking an account of profits and equitable compensation.",
+        "Rimer J ordered an account but limited its scope and refused compensation finding no loss caused by non-disclosure.",
+        "Both Koshy and GVDC appealed on limitation, scope of account, and compensation."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Civil Division) from Rimer J's judgment after a two-month trial in the GVDC action begun November 1996.",
+      "outcome": "Koshy's appeal dismissed; GVDC's appeal allowed in part so the account covers all profits from the pipeline loan (general account ordered); compensation appeal dismissed; permission to appeal to the House of Lords refused.",
+      "ratio": "A director who deliberately and dishonestly conceals his interest in company transactions must account for all unauthorised profits and cannot rely on articles or general law excusing non-disclosure; a claim for an account of profits based on fraudulent breach of trust is not time-barred under section 21(1)(a) Limitation Act 1980, but equitable compensation requires proof that disclosure would have changed GVDC's conduct—and absent such causation the remedy is an account of profits, not loss compensation.",
+      "legal_issues": [
+        "Scope of account of profits for dishonest breach of fiduciary duty",
+        "Whether articles or shareholder acquiescence excused failure to disclose self-dealing",
+        "Application of section 21 Limitation Act 1980 to account of profits claims",
+        "Causation and availability of equitable compensation for non-disclosure",
+        "Constructive trust treatment of sums paid to Lasco"
+      ],
+      "catchwords": [
+        "fiduciary duty",
+        "account of profits",
+        "self-dealing",
+        "director's duty of disclosure",
+        "Limitation Act 1980 section 21",
+        "equitable compensation",
+        "constructive trust"
+      ],
+      "index_terms": [
+        "Koshy",
+        "Gwembe Valley Development Company",
+        "Lasco",
+        "Zambia",
+        "pipeline loan",
+        "Rimer J",
+        "Harman J"
+      ],
+      "linked_authorities": [
+        {"name": "GVDC v Koshy", "citation": "[1998] BCLC 613", "relation": "considered"},
+        {"name": "Furs Ltd v Tomkies", "citation": "(1936) 54 CLR 583", "relation": "considered"},
+        {"name": "Bristol and West Building Society v Mothew", "citation": "[1998] Ch 1", "relation": "considered"}
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Extremely long judgment but explicit numbered conclusions and order; some intermediate authority discussion not fully captured."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2140.json",
+    "status": "done",
+    "notes": "Complete habeas corpus judgment in German extradition proceedings.",
+    "enrichment": {
+      "short_title": "Habeas corpus refused in German manslaughter extradition where identity established and delay not oppressive",
+      "area_of_law": [
+        "Extradition",
+        "Criminal procedure",
+        "Human rights",
+        "Habeas corpus"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act 1989",
+          "provisions": ["section 7", "section 9(8)", "section 11(3)"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Mark Richard Osawe challenged committal pending extradition to Germany for a 1993 Kassel manslaughter allegedly committed by Oghionmwam Festus Ogieva-Okumbor.",
+        "German photographs from 1993 and fingerprint comparison linked the applicant to the wanted person; he accepted the photographs depicted him.",
+        "He had lived in the UK since 1995 with a wife, child and outstanding asylum claim.",
+        "Authority to proceed named both Ogieva-Okumbor and Osawe; Secretary of State authorised return in April 2003."
+      ],
+      "procedural_posture": "Application for writ of habeas corpus ad subjiciendum following Bow Street committal under Part III Extradition Act 1989 in a European Convention accusation case.",
+      "outcome": "Application refused; committal upheld on identity and section 11 delay grounds; costs application from central funds adjourned with liberty to apply.",
+      "ratio": "In a Convention accusation extradition case the committal court need not go behind a valid authority to proceed where the offence is an extradition crime; identity is sufficiently established by accepted photographs and fingerprints; delay since 1993 does not make return unjust or oppressive under section 11(3)(b) where the applicant appears to have used an alias, German authorities pursued the case, and a fair trial in Germany is assured.",
+      "legal_issues": [
+        "Whether the applicant is the person named in the extradition request and authority to proceed",
+        "Construction of section 7(2) particulars requirements where names differ",
+        "Whether ten-year delay made return unjust or oppressive under section 11(3)(b)",
+        "Interaction of family life and pending asylum claim with extradition delay"
+      ],
+      "catchwords": [
+        "habeas corpus",
+        "extradition",
+        "identity",
+        "delay",
+        "oppressive",
+        "Extradition Act 1989",
+        "European Convention"
+      ],
+      "index_terms": [
+        "Osawe",
+        "Ogieva-Okumbor",
+        "Kassel",
+        "Bow Street",
+        "Kakis v Cyprus",
+        "Patel",
+        "Germany"
+      ],
+      "linked_authorities": [
+        {"name": "Kakis v Government of the Republic of Cyprus", "citation": "[1978] 1 WLR 779", "relation": "applied"},
+        {"name": "R v Secretary of State for the Home Department ex parte Patel", "citation": "[1995] 7 Admin LR 56", "relation": "considered"}
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete joint judgment of Maurice Kay and Crane JJ."
+      }
+    }
+  }
+]

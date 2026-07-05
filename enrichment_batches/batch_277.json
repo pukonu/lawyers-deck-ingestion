@@ -1,0 +1,699 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/582.json",
+    "status": "done",
+    "notes": "Employee fraud appeal; declaratory relief and commission damages on summary judgment are clearly reasoned.",
+    "enrichment": {
+      "short_title": "Declaratory indemnity after financial adviser misappropriated client funds",
+      "area_of_law": [
+        "Employment law",
+        "Fiduciary duties",
+        "Financial services",
+        "Declaratory relief",
+        "Damages"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 40.20",
+            "rule 1.1"
+          ]
+        },
+        {
+          "title": "Civil Liability (Contribution) Act 1978",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Padden, a regional manager for Arbuthnot Pensions & Investments Ltd, advised Mrs Partridge to invest £800,000 in insurance bonds but treated the money as his own.",
+        "Mrs Partridge received monthly payments mimicking bond income until discovering no bonds existed; the employer then sued Padden for breach of contract, fiduciary duty and lost commission.",
+        "Padden settled with Mrs Partridge for £860,000 but made only the first instalment before summary judgment was entered against him.",
+        "Judge Hawkesworth declared the employer entitled to indemnification for any liability to Mrs Partridge and awarded £50,360 commission plus costs."
+      ],
+      "procedural_posture": "Appeal from summary judgment on part of the employer's claim against a former employee.",
+      "outcome": "Appeal dismissed; declaration of indemnity upheld and full commission damages of £50,360 affirmed.",
+      "ratio": "Declaratory relief under CPR 40.20 is a discretionary remedy, not a jurisdictional bar; where facts giving rise to a probable third-party claim are established and a declaration would serve a useful purpose, it may properly be granted; damages for lost commission are measured by the income the employer would have received, not by the employee's profit.",
+      "legal_issues": [
+        "Whether a declaration of indemnity relating to a potential claim by Mrs Partridge was permissible",
+        "Whether damages should be limited to lost profit rather than full commission",
+        "Whether proceedings should have been stayed rather than partially determined"
+      ],
+      "catchwords": [
+        "summary judgment",
+        "declaratory relief",
+        "financial adviser",
+        "fiduciary breach",
+        "indemnity",
+        "lost commission"
+      ],
+      "index_terms": [
+        "Arbuthnot Pensions",
+        "insurance bonds",
+        "compromise agreement",
+        "In re Clay",
+        "Vokins Holdings v Robin Moors Allnutt",
+        "Mrs Partridge fraud"
+      ],
+      "linked_authorities": [
+        "In re Clay [1919] 1 Ch 66",
+        "Midland Bank v Laker Airways [1986] 1 QB 689",
+        "Vokins Holdings v Robin Moors Allnutt [1996] PNLR 354",
+        "Messier-Doughty Ltd v Sabena SA [2000] 1 WLR 2040",
+        "FSA v Rourke (19 October 2001, unreported)"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Grounds of appeal, declaration analysis, and damages measure are explicit in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/686.json",
+    "status": "done",
+    "notes": "Permission application on worldwide freezing order; arbitration confidentiality and privity issues are central.",
+    "enrichment": {
+      "short_title": "Worldwide freezing order upheld where arbitrator found fraudulent misrepresentation",
+      "area_of_law": [
+        "Civil procedure",
+        "Freezing injunctions",
+        "Arbitration",
+        "Fraud and misrepresentation",
+        "Res judicata"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Dadourian Group obtained a London arbitration award of about $5 million against Charlton and findings of fraudulent misrepresentation by Mr Simms and others.",
+        "DGI then sued the individual defendants, relying on issue estoppel or identification with Charlton, and obtained a worldwide freezing order up to $5.5 million.",
+        "Mr Simms applied for permission to appeal, arguing the arbitration award was confidential and inadmissible because he was not a party to the arbitration.",
+        "Lewison J had held there was a good arguable case that the defendants were privy to the arbitration and that assets might be dissipated."
+      ],
+      "procedural_posture": "Application for permission to appeal an order continuing a worldwide freezing injunction.",
+      "outcome": "Application dismissed; permission to appeal refused and the freezing order upheld.",
+      "ratio": "Where there is a good arguable case that a defendant was privy to an arbitration and the subject matter closely overlaps, courts may rely on an arbitrator's findings to support a freezing order; confidentiality does not automatically exclude such use, and strike-off for dishonesty supports a real risk of dissipation.",
+      "legal_issues": [
+        "Whether an arbitration award is admissible against a non-party",
+        "Meaning of being privy to an arbitration for res judicata purposes",
+        "Whether there was a good arguable case and risk of dissipation",
+        "Whether the frozen amount of $5.5 million was excessive"
+      ],
+      "catchwords": [
+        "worldwide freezing order",
+        "arbitration confidentiality",
+        "privity",
+        "fraudulent misrepresentation",
+        "issue estoppel",
+        "asset dissipation"
+      ],
+      "index_terms": [
+        "Charlton Corporation",
+        "hospital beds option",
+        "Ali Shipping Corporation v Shipyard Trogir",
+        "Gleeson v J Wippell & Co Ltd",
+        "solicitor struck off"
+      ],
+      "linked_authorities": [
+        "Ali Shipping Corporation v Shipyard Trogir [1999] 1 WLR 314",
+        "Gleeson v J Wippell & Co Ltd [1977] 1 WLR 510",
+        "Carl Zeiss Stiftung v Rayner & Keeler (No 3) [1970] Ch 506"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Background summary and permission decision are clear, though underlying fraud facts remain largely untested at trial."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/1014.json",
+    "status": "done",
+    "notes": "Long Chancery trial on Bali timeshare trusts; breach, negligence and damages outcomes are detailed.",
+    "enrichment": {
+      "short_title": "Bali timeshare trustee liable for ineffective trust structure and marketing negligence",
+      "area_of_law": [
+        "Trusts",
+        "Contract law",
+        "Misrepresentation",
+        "Negligence",
+        "Timeshare",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Misrepresentation Act 1967",
+          "provisions": [
+            "section 2(2)"
+          ]
+        },
+        {
+          "title": "Civil Evidence Act 1999",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "PT Royal Bali Leisure and PMI marketed Bali timeshare resorts using trust structures marketed by Hutchinson & Co Trust Company Ltd as trustee.",
+        "RBL claimed HTC's English title-company structure could not validly hold Indonesian lease interests under the Basic Agrarian Act 1960.",
+        "PMI claimed HTC negligently allowed marketing of 25-year Villa Lalu timeshares despite lease length mismatches.",
+        "Expert evidence on Indonesian law showed the lease transfer to a foreign title company was ineffective to protect purchasers."
+      ],
+      "procedural_posture": "Trial of claims for misrepresentation, breach of contract and negligence arising from international timeshare trust arrangements.",
+      "outcome": "HTC held in breach of contract and misrepresentation as to RBL; PMI awarded damages for negligence on specified heads but rejected on reputation or business-damage claim.",
+      "ratio": "A timeshare trustee contractually obliged to implement a structure effective under local law; transfer of lease rights to a foreign-incorporated title company breached Indonesian foreign-ownership restrictions; a trustee who carelessly permitted marketing of timeshares it knew could not be honoured owed PMI a duty of care, but remote reputational losses from later publicity were not recoverable in negligence.",
+      "legal_issues": [
+        "Whether an English title company could hold Indonesian lease interests",
+        "Effectiveness of transfer of contractual lease rights without assignment of the hak sewa",
+        "Whether HTC owed PMI a Hedley Byrne duty in relation to Villa Lalu marketing",
+        "Whether PMI could recover damages for loss of reputation or business"
+      ],
+      "catchwords": [
+        "timeshare trust",
+        "Indonesian land law",
+        "trustee breach",
+        "misrepresentation",
+        "Hedley Byrne negligence",
+        "foreign ownership"
+      ],
+      "index_terms": [
+        "Peninsula Beach Resort",
+        "Villa Lalu",
+        "Basic Agrarian Act 1960",
+        "Hedley Byrne v Heller",
+        "Spring v Guardian Assurance plc",
+        "André & Cie v Ets Michel Blanc et Fils"
+      ],
+      "linked_authorities": [
+        "Hedley Byrne & Co Ltd v Heller [1964] AC 465",
+        "Spring v Guardian Assurance plc [1995] 2 AC 296",
+        "André & Cie SA v Ets Michel Blanc et Fils [1977] 2 Lloyd's Rep 166",
+        "Caparo Industries plc v Dickman [1990] 2 AC 605"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Core liability findings and final damages conclusions are explicit, though individual monetary totals are spread across many heads."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/568.json",
+    "status": "done",
+    "notes": "Mortgage possession appeal; sub-charge analysis and Owen v Cornell application are thorough.",
+    "enrichment": {
+      "short_title": "Mortgagee retained possession rights despite Bank of Scotland sub-charge",
+      "area_of_law": [
+        "Property law",
+        "Mortgage and security",
+        "Land registration",
+        "Possession"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": [
+            "section 85",
+            "section 86",
+            "section 87",
+            "section 95",
+            "section 103",
+            "section 114"
+          ]
+        },
+        {
+          "title": "Land Registration Act 1925",
+          "provisions": [
+            "section 27",
+            "section 33"
+          ]
+        },
+        {
+          "title": "Administration of Justice Act 1970",
+          "provisions": [
+            "section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Feliciangela Marks borrowed £1,305,000 secured on Home Farm House and fell into arrears; Credit & Mercantile Plc sought possession.",
+        "The lender had granted a sub-charge over its rights under the principal charge to the Bank of Scotland on the same day as the principal charge.",
+        "The borrower argued the sub-charge divested or suspended the lender's right to possession and that demands were made as agent of the sub-chargee.",
+        "The county court recorder granted permission to appeal on the sub-charge point but dismissed the appeal."
+      ],
+      "procedural_posture": "Appeal on permission from the county court on whether a sub-charge prevented a mortgagee from taking possession.",
+      "outcome": "Appeal dismissed; lender held entitled to possession under the facility letter and principal charge, with possession order stayed until 27 May 2004.",
+      "ratio": "A mortgagee's right of possession derives from its estate or interest in land and is not automatically lost by granting a sub-charge; effect depends on construction of the particular sub-charge, and here the Bank of Scotland sub-charge did not transfer or suspend the principal chargee's possession rights absent enforcement demand.",
+      "legal_issues": [
+        "Whether a sub-charge transfers the principal mortgagee's remedies to the sub-chargee",
+        "Construction of clause 3 of the sub-charge and related bank conditions",
+        "Application of section 114 LPA 1925 and section 33 LRA 1925 to registered land",
+        "Whether Owen v Cornell supports the lender's possession right"
+      ],
+      "catchwords": [
+        "mortgage possession",
+        "sub-charge",
+        "sub-mortgage",
+        "registered charge",
+        "Four-Maids principle",
+        "conditional assignment"
+      ],
+      "index_terms": [
+        "Credit & Mercantile",
+        "Bank of Scotland",
+        "Home Farm House",
+        "Owen v Cornell",
+        "Four-Maids Ltd v Dudley Marshall",
+        "Paragon Finance v Pender"
+      ],
+      "linked_authorities": [
+        "Four-Maids Ltd v Dudley Marshall (Properties) Ltd [1957] 1 Ch 317",
+        "Owen v Cornell (1967) 203 EG 29",
+        "Regent Oil Co Ltd v JA Gregory (Hatch End) Ltd [1966] Ch 402",
+        "Paragon Finance Plc v Pender [2003] EWHC 2834 (Ch)"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Sub-charge construction, statutory analysis, and possession conclusion are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/570.json",
+    "status": "done",
+    "notes": "Trespass damages for unauthorised water main; user-principle and statutory compensation analysis is detailed.",
+    "enrichment": {
+      "short_title": "Restitutionary top-up removed from trespass damages for statutory water main",
+      "area_of_law": [
+        "Tort law",
+        "Land law",
+        "Damages",
+        "Utilities regulation",
+        "Trespass to land"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Water Industry Act 1991",
+          "provisions": [
+            "section 159",
+            "section 162",
+            "section 180",
+            "Schedule 12"
+          ]
+        },
+        {
+          "title": "Land Compensation Act 1961",
+          "provisions": [
+            "sections 2",
+            "section 4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Severn Trent laid about 20 metres of a water main under the corner of Mr Barnes's grazing land without serving the required section 159 notice.",
+        "At trial the judge awarded £110 statutory compensation, £500 for lost bargaining opportunity and £1,560 described as restitutionary damages for three years' use.",
+        "The trespass was trivial and agricultural use was unaffected; development-value claims failed.",
+        "Severn Trent appealed the £500 and £1,560 additional awards as inconsistent with the user-principle authorities."
+      ],
+      "procedural_posture": "Appeal against quantum of damages for trespass following unauthorised laying of a statutory water main.",
+      "outcome": "Appeal allowed in part; total award reduced by £1,560 and related interest, leaving £610 compensatory damages.",
+      "ratio": "Where a statutory undertaker could compulsorily acquire pipe-laying rights after notice, damages for trespass may include a modest sum for lost pre-trespass bargaining opportunity, but an additional annual user charge after trespass double-counts compensation already reflected in that fair pre-trespass price.",
+      "legal_issues": [
+        "Appropriate measure of damages for trespass by a statutory water undertaker",
+        "Whether Lord Cairns' Act jurisdiction was required for an award in lieu of injunction",
+        "Whether the judge erred in awarding both bargaining-opportunity and restitutionary user damages",
+        "Relevance of Schedule 12 statutory compensation scheme"
+      ],
+      "catchwords": [
+        "trespass to land",
+        "water main",
+        "user principle",
+        "Wrotham Park damages",
+        "statutory undertaker",
+        "lost bargaining opportunity"
+      ],
+      "index_terms": [
+        "Severn Trent Water",
+        "Bamford to Buxton main",
+        "Attorney General v Blake",
+        "Stoke City Council v W & J Wass",
+        "Bracewell v Appelby",
+        "Jaggard v Sawyer"
+      ],
+      "linked_authorities": [
+        "Attorney General v Blake [2001] 1 AC 268",
+        "Stoke City Council v W & J Wass [1988] 1 WLR 1406",
+        "Wrotham Park Estate Co Ltd v Parkside Homes Ltd [1974] 1 WLR 798",
+        "Jaggard v Sawyer [1995] 1 WLR 269",
+        "Bracewell v Appelby [1975] Ch 408"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Grounds of appeal, damages reasoning, and partial allowance are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/costs/2004/9007.json",
+    "status": "done",
+    "notes": "Detailed assessment ruling on recoverability of inquest costs in clinical negligence claim.",
+    "enrichment": {
+      "short_title": "Partial recovery of inquest costs in fatal NHS negligence claim",
+      "area_of_law": [
+        "Costs",
+        "Clinical negligence",
+        "Coronial law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 51"
+          ]
+        },
+        {
+          "title": "Coroners Act 1988",
+          "provisions": [
+            "section 13"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Robert Gadd died after angioplasty at Milton Keynes General Hospital; the coroner returned a verdict of systems neglect after the estate participated in the inquest.",
+        "The NHS trust settled the estate's £10,000 bereavement claim four days after the inquest and agreed to pay costs to be assessed.",
+        "The bill of costs was about £15,060, over 90 per cent relating to inquest attendance and representation.",
+        "The trust argued there was no jurisdiction to recover inquest costs in subsequent civil proceedings."
+      ],
+      "procedural_posture": "Detailed assessment before a costs judge of whether inquest attendance costs were recoverable as costs incidental to civil proceedings.",
+      "outcome": "Jurisdiction to award inquest costs upheld in principle, but costs of persuading the coroner to a particular verdict and of calling the expert witness at the inquest were not recoverable.",
+      "ratio": "Costs of attending and questioning witnesses at an inquest may be recoverable as costs of and incidental to subsequent civil proceedings if a material purpose was obtaining evidence for those proceedings, subject to reasonableness and proportionality; costs aimed at influencing the verdict or adducing evidence to the inquest rather than eliciting information from it are not recoverable.",
+      "legal_issues": [
+        "Whether inquest costs can be recovered in later civil proceedings",
+        "Application of section 51 Supreme Court Act 1981 and The Bowbelle principle",
+        "Whether active inquest participation beyond a noting brief is recoverable",
+        "Whether denial of full recovery engages articles 2 and 6 ECHR"
+      ],
+      "catchwords": [
+        "inquest costs",
+        "detailed assessment",
+        "clinical negligence",
+        "systems neglect",
+        "costs incidental",
+        "The Bowbelle"
+      ],
+      "index_terms": [
+        "Milton Keynes General NHS Trust",
+        "Coroners' Rules 1984",
+        "R (Middleton) v West Somerset Coroner",
+        "Wright v Bennett",
+        "Contractreal Ltd v Davies"
+      ],
+      "linked_authorities": [
+        "The Bowbelle [1997] 2 Lloyd's Rep 196",
+        "R (Middleton) v West Somerset Coroner [2004] 2 WLR 800",
+        "Wright v Bennett [1948] 1 KB 601",
+        "Contractreal Ltd v Davies [2001] EWCA Civ 928",
+        "DHSS v Envoy Farmers Ltd [1976] 1 WLR 1018"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Jurisdiction analysis and case-specific disallowances are clearly reasoned, though final assessed figure is not stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1441.json",
+    "status": "done",
+    "notes": "Section 42 civil proceedings order application; employment tribunal coverage clearly resolved.",
+    "enrichment": {
+      "short_title": "Civil proceedings order against persistently vexatious midwife litigant",
+      "area_of_law": [
+        "Civil procedure",
+        "Vexatious litigants",
+        "Administrative law",
+        "Employment law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 42"
+          ]
+        },
+        {
+          "title": "Employment Tribunals Act 1996",
+          "provisions": [
+            "section 33"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Mensah was removed from the midwives register in 1978 and has since brought about 25 largely unsuccessful sets of proceedings challenging dismissal and employment status findings.",
+        "Employment tribunals and High Court judges had repeatedly described her litigation as vexatious and suggested Attorney General proceedings.",
+        "The Attorney General applied under section 42 for a civil proceedings order requiring prior High Court permission for further civil claims.",
+        "Mrs Mensah resisted on merits and argued the order could not cover employment tribunal proceedings."
+      ],
+      "procedural_posture": "Application by the Attorney General for a civil proceedings order under section 42 Supreme Court Act 1981.",
+      "outcome": "Civil proceedings order granted; section 42 held apt to cover employment tribunals and the Employment Appeal Tribunal as inferior courts.",
+      "ratio": "Where a litigant habitually and persistently institutes vexatious proceedings with little or no legal basis, a section 42 order may properly filter future claims; employment tribunals exercise judicial functions and are inferior courts for section 42 purposes, avoiding wasteful parallel restriction proceedings under section 33 ETA 1996.",
+      "legal_issues": [
+        "Whether the statutory preconditions for a section 42 order were satisfied",
+        "Meaning of habitually, persistently and vexatious under section 42",
+        "Whether a civil proceedings order extends to employment tribunal proceedings",
+        "Whether CPR Part 8 was the correct procedure"
+      ],
+      "catchwords": [
+        "vexatious litigant",
+        "civil proceedings order",
+        "section 42",
+        "employment tribunal",
+        "Attorney General",
+        "persistent litigation"
+      ],
+      "index_terms": [
+        "Mrs Mensah midwife",
+        "Attorney General v Barker",
+        "Attorney General v Douglas",
+        "Peach Grey & Co v Sommers",
+        "Attorney General v BBC"
+      ],
+      "linked_authorities": [
+        "Attorney General v Barker [2000] 1 FLR 759",
+        "Attorney General v Jones [1990] 1 WLR 859",
+        "Attorney General v Douglas [2001] EWHC Admin 610",
+        "Attorney General v Cameron [2003] EWCA Civ 2144",
+        "Peach Grey & Co v Sommers [1995] ICR 549"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Factual history, discretion analysis, and employment tribunal coverage ruling are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/569.json",
+    "status": "done",
+    "notes": "Employment tribunal costs on withdrawal; rule 14 scope and temporal limit of liability are clearly analysed.",
+    "enrichment": {
+      "short_title": "Employment tribunal costs limited to period after unreasonable adjournment conduct",
+      "area_of_law": [
+        "Employment law",
+        "Costs",
+        "Unfair dismissal",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Tribunals (Constitution and Rules of Procedure) Regulations 2001",
+          "provisions": [
+            "rule 14",
+            "rule 15",
+            "regulation 10"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr McPherson withdrew unfair dismissal and breach of contract claims against BNP Paribas shortly before a five-day tribunal hearing citing stress-related health problems.",
+        "The tribunal ordered him to pay about £90,747 costs on the basis of unreasonable conduct including misleading medical adjournment applications and late withdrawal.",
+        "He had obtained new employment, failed to comply with disclosure orders, and had considered abandoning the claim months earlier without informing the bank.",
+        "The employment appeal tribunal dismissed his appeal but the Court of Appeal varied the costs order."
+      ],
+      "procedural_posture": "Appeal against an employment tribunal costs order made after the claimant withdrew his claims before full hearing.",
+      "outcome": "Appeal allowed in part; costs liability limited to costs incurred after the September 2001 medical adjournment application, with Thorpe LJ preferring a slightly later start date.",
+      "ratio": "Rule 14 permits costs where a party has conducted proceedings unreasonably, but withdrawal itself is not automatically unreasonable; a tribunal must not order costs for the whole proceedings without evidence of unreasonable conduct before the identified misconduct began, and rule 14(1) does not require costs to be causally attributable to each instance of misconduct.",
+      "legal_issues": [
+        "Whether withdrawal of tribunal claims is itself unreasonable conduct",
+        "Construction of rule 14(1) and whether all costs or only attributable costs may be ordered",
+        "Whether the tribunal erred in finding health was not the sole reason for withdrawal",
+        "From what date costs liability should begin"
+      ],
+      "catchwords": [
+        "employment tribunal costs",
+        "withdrawal of claim",
+        "unreasonable conduct",
+        "rule 14",
+        "Wolf-Parkinson White",
+        "BNP Paribas"
+      ],
+      "index_terms": [
+        "McPherson v BNP Paribas",
+        "constructive dismissal",
+        "Lodwick v London Borough of Southwark",
+        "Gee v Shell UK Ltd",
+        "Kovacs v Queen Mary & Westfield College"
+      ],
+      "linked_authorities": [
+        "Gee v Shell UK Ltd [2003] IRLR 82",
+        "Lodwick v London Borough of Southwark [2004] EWCA Civ 306",
+        "Kovacs v Queen Mary & Westfield College [2002] IRLR 414"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Unusual costs facts and the Court of Appeal's temporal limitation of liability are clearly explained."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1084.json",
+    "status": "done",
+    "notes": "Housing co-operative JR of statutory stock transfer; Article 1 Protocol 1 and cross-border regulation issues resolved.",
+    "enrichment": {
+      "short_title": "Judicial review dismissed of Housing Corporation transfer to Peabody Trust",
+      "area_of_law": [
+        "Administrative law",
+        "Housing law",
+        "Human rights",
+        "Registered social landlords"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1996",
+          "provisions": [
+            "section 2",
+            "section 9",
+            "Schedule 1 paragraph 20",
+            "Schedule 1 paragraph 27"
+          ]
+        },
+        {
+          "title": "Industrial and Provident Societies Act 1965",
+          "provisions": []
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Clays Lane Housing Co-operative, a registered social landlord, was found mismanaged after a 2000 inquiry.",
+        "The Housing Corporation directed transfer of its housing stock to the Peabody Trust rather than permitting a voluntary transfer of engagements to Scottish co-operative Tenants First.",
+        "The co-operative accepted mismanagement findings but challenged the choice of transferee and alleged interference with property and association rights under the ECHR.",
+        "Permission was initially refused but the claim was heard substantively and dismissed."
+      ],
+      "procedural_posture": "Judicial review of a Housing Corporation direction to transfer a registered social landlord's housing stock, following a rolled-up permission hearing.",
+      "outcome": "Permission granted but claim dismissed; enforcement proceedings adjourned pending any appeal.",
+      "ratio": "A compulsory transfer direction under Schedule 1 paragraph 27 engages Article 1 Protocol 1 but need not meet a strict necessity test; the regulator may compare alternative transfer options and a compelling public interest may justify interference where mismanagement put assets and tenants at risk; alleged cross-border regulatory concerns did not materially affect the September 2002 decision.",
+      "legal_issues": [
+        "Whether a compelling public interest or strict necessity test applied under Article 1 Protocol 1",
+        "Whether the Corporation lawfully compared statutory transfer to Peabody with voluntary transfer to Tenants First",
+        "Whether cross-border regulation concerns were improperly taken into account",
+        "Whether Peabody's later financial concerns amounted to a material change of circumstances by July 2003"
+      ],
+      "catchwords": [
+        "registered social landlord",
+        "statutory transfer direction",
+        "housing co-operative",
+        "Article 1 Protocol 1",
+        "Peabody Trust",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Clays Lane",
+        "Housing Corporation",
+        "Tenants First",
+        "James v United Kingdom",
+        "Tesco Stores v SSETR",
+        "Chesterfield Properties"
+      ],
+      "linked_authorities": [
+        "James v The United Kingdom (1986) 8 EHRR 123",
+        "Tesco Stores Ltd v SSETR (2000) 80 P&CR 427",
+        "Chesterfield Properties Plc v SSE [1997] 76 P&CR 117",
+        "R (Daly) v SSHD [2001] 2 AC 532",
+        "R v Shayler [2003] 1 AC 247"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Main grounds, human rights analysis, and dismissal are clear; lengthy post-judgment enforcement discussion is procedural."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/586.json",
+    "status": "done",
+    "notes": "Pub tie inducement appeal; knowledge requirement for tortious interference analysed in detail.",
+    "enrichment": {
+      "short_title": "Summary judgment set aside on pub tie inducement against wholesaler",
+      "area_of_law": [
+        "Tort law",
+        "Contract law",
+        "Commercial law",
+        "Injunctions",
+        "Licensed trade"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Unique Pub Properties sought injunctions restraining Beer Barrels & Minerals from supplying tied beers to about 4,000 tenanted pubs.",
+        "The wholesaler admitted supplying the Cavalier in Cardiff but said telesales staff were told the pub was not tied after asking the customer.",
+        "Neuberger J granted summary judgment and blanket future injunctions based on lists sent by the pub owner.",
+        "The wholesaler argued it lacked requisite knowledge of lease tie terms and that checking lengthy lists on every phone order was uncommercial."
+      ],
+      "procedural_posture": "Appeal against summary judgment and final injunctions in a claim for inducing breach of pub tie covenants.",
+      "outcome": "Appeal allowed; Neuberger J's order set aside and summary judgment application dismissed, with suggestion of joint trial with a related wholesaler action.",
+      "ratio": "Inducing breach of contract requires knowledge that the supplier's dealing is inconsistent with the tenant's contract, not merely access to lists; a wholesaler who asks whether a pub is tied and relies on the customer's answer does not necessarily act with the requisite knowledge or intention, and blanket quia timet injunctions should not be granted on assumed facts at summary judgment.",
+      "legal_issues": [
+        "Elements of the tort of inducing breach of contract under Thomson v Deakin",
+        "Whether list notification equated to knowledge of tie inconsistency at order time",
+        "Whether blanket injunctions were appropriate on a Part 24 application",
+        "Whether the wholesaler was obliged to cross-check all orders against tie lists"
+      ],
+      "catchwords": [
+        "pub tie",
+        "inducing breach of contract",
+        "summary judgment",
+        "quia timet injunction",
+        "beer wholesaler",
+        "knowledge requirement"
+      ],
+      "index_terms": [
+        "Unique Pub Properties",
+        "Beer Barrels & Minerals",
+        "Cavalier public house Cardiff",
+        "DC Thomson v Deakin",
+        "British Industrial Plastics v Ferguson",
+        "Licensed Wholesale Company"
+      ],
+      "linked_authorities": [
+        "DC Thomson & Co Ltd v Deakin [1952] Ch 646",
+        "British Industrial Plastics Ltd v Ferguson [1940] 1 All ER 479",
+        "Merkur Island Shipping Corporation v Laughton [1983] 2 AC 570",
+        "Emerald Construction Ltd v Lowthian [1966] 1 WLR 691",
+        "Unique Pub Properties Ltd v Licensed Wholesale Co Ltd [2003] EWHC 3386 (Ch)"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Tort principles, Cavalier supply analysis, and injunction reversal are comprehensively reasoned."
+      }
+    }
+  }
+]

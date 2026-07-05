@@ -1,0 +1,692 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/295.json",
+    "status": "done",
+    "notes": "Batch 35 enrichment",
+    "enrichment": {
+      "short_title": "SAXON trade mark invalidity after band partnership split",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks",
+        "Passing off",
+        "Partnership law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": [
+            "section 3(6)",
+            "section 5(4)(a)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Former SAXON band members Oliver and Dawson registered the word SAXON as a trade mark after leaving the band in which Byford remained the continuing performer.",
+        "Byford applied to invalidate the mark on bad faith and passing-off grounds.",
+        "The Hearing Officer held the departing members had shared rights in the name and dismissed both grounds.",
+        "Oliver and Dawson used the registration to threaten Byford, promoters, and merchandise sellers with infringement."
+      ],
+      "procedural_posture": "Appeal to the High Court (Chancery Division) from a Trade Marks Registry decision refusing invalidity.",
+      "outcome": "Appeal allowed; the registration was invalid under sections 3(6) and 5(4)(a).",
+      "ratio": "Goodwill in a band name used by a partnership at will belongs to the partnership rather than to individual departing members as severable personal assets; registering SAXON simpliciter without title and to interfere with others who had consistently used the mark amounted to bad faith, and normal use of the mark by the proprietors would have been liable to passing-off proceedings.",
+      "legal_issues": [
+        "Whether departing band members owned severable rights in the partnership name SAXON",
+        "Whether section 5(4)(a) required only prior use by another party",
+        "Whether registration in the proprietors' own names without Byford's knowledge was bad faith under section 3(6)"
+      ],
+      "catchwords": [
+        "trade mark invalidity",
+        "bad faith",
+        "passing off",
+        "band name",
+        "partnership goodwill",
+        "section 5(4)(a)"
+      ],
+      "index_terms": [
+        "Trade Marks Act 1994",
+        "SAXON",
+        "music industry",
+        "partnership at will",
+        "Burchell v Wilde",
+        "Growmax Plasticulture"
+      ],
+      "linked_authorities": [
+        "Burchell v Wilde",
+        "Growmax Plasticulture Ltd v Don & Low Nonwovens Ltd",
+        "Dent v Turpin",
+        "Sutherland v V2 Music Ltd",
+        "Ad-Lib Club v Granville",
+        "Star Industrial Co v Yap Kwee Kor"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed first-instance judgment with clear findings on both statutory grounds and extensive authority discussion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/515.json",
+    "status": "done",
+    "notes": "Batch 35 enrichment",
+    "enrichment": {
+      "short_title": "Council tax appeal on housekeeper versus cohabitation",
+      "area_of_law": [
+        "Administrative law",
+        "Local taxation",
+        "Council tax"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government Finance Act 1992",
+          "provisions": [
+            "section 9(3)(b)"
+          ]
+        },
+        {
+          "title": "Valuation and Community Charge Tribunal Amendment Regulations 1993",
+          "provisions": [
+            "Regulation 51"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Gardiner owned 10 Horace Street and argued that Ms Rouse lived there as his housekeeper rather than as his partner.",
+        "Swindon Borough Council contended they lived together as husband and wife, making Ms Rouse liable for council tax.",
+        "The Valuation Tribunal dismissed Mr Gardiner's appeal on the balance of probabilities despite the council not attending the hearing.",
+        "Mr Gardiner appealed to the High Court alleging errors of law and procedural unfairness."
+      ],
+      "procedural_posture": "Appeal to the High Court on a point of law from a Valuation Tribunal decision on council tax liability.",
+      "outcome": "Appeal dismissed as misconceived; appellant ordered to pay respondent's costs of £2,937.50.",
+      "ratio": "An appeal from a Valuation Tribunal must identify an error of law; disputes about whether occupants lived as man and wife were findings of fact for the tribunal and were not Wednesbury unreasonable, and the council's non-attendance did not itself establish legal error.",
+      "legal_issues": [
+        "Whether the tribunal erred in law in finding Ms Rouse liable under section 9(3)(b)",
+        "Whether the council's failure to attend the tribunal hearing rendered the decision unlawful",
+        "Whether historical magistrates' court issues were relevant to the tribunal appeal"
+      ],
+      "catchwords": [
+        "council tax",
+        "valuation tribunal",
+        "error of law",
+        "cohabitation",
+        "housekeeper",
+        "section 9(3)(b)"
+      ],
+      "index_terms": [
+        "Local Government Finance Act 1992",
+        "Swindon Borough Council",
+        "Regulation 51",
+        "Wednesbury unreasonableness",
+        "costs"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.84,
+        "level": "high",
+        "notes": "Short oral judgment with clear outcome and statutory basis, though judge metadata in source file is incomplete."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/338.json",
+    "status": "done",
+    "notes": "Batch 35 enrichment",
+    "enrichment": {
+      "short_title": "Employer liability for lack of restraint training at secure unit",
+      "area_of_law": [
+        "Personal injury",
+        "Employers' liability",
+        "Health and safety",
+        "Social care"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Dominic Harvey, a residential social worker at Kyloe House secure children's unit, injured his knee while restraining a volatile 11-year-old child.",
+        "The trial judge preferred Harvey's account over that of colleague Jill Barnes and awarded £19,000 damages.",
+        "Staff received induction but no hands-on physical restraint training before the accident, despite frequent restraints at the unit.",
+        "CALM training existed from 1997 but had not been adopted by the council before June 1998."
+      ],
+      "procedural_posture": "Employer's appeal to the Court of Appeal against a county court judgment on liability and quantum.",
+      "outcome": "Appeal dismissed with costs; damages payable.",
+      "ratio": "A local authority cannot discharge its common law duty to take reasonable steps to ensure a safe workplace by deferring restraint training pending central government guidance when safer techniques were available and the need for training was obvious from the high level of restraints and staff concerns.",
+      "legal_issues": [
+        "Whether the judge was entitled to prefer Harvey's evidence on how the injury occurred",
+        "Whether failure to provide specific restraint training breached the employer's duty of care",
+        "Whether the Gilbert Report supported or undermined the claimant's training case"
+      ],
+      "catchwords": [
+        "employers' liability",
+        "workplace training",
+        "secure accommodation",
+        "physical restraint",
+        "CALM",
+        "witness preference"
+      ],
+      "index_terms": [
+        "Northumberland County Council",
+        "Kyloe House",
+        "residential social worker",
+        "Gilbert Report",
+        "Pin Down investigation"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Clear appellate reasoning on both credibility and training duty, with detailed factual background in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/542.json",
+    "status": "done",
+    "notes": "Batch 35 enrichment",
+    "enrichment": {
+      "short_title": "Asylum appeal abandoned after exceptional leave granted",
+      "area_of_law": [
+        "Immigration law",
+        "Asylum law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 58(9)",
+            "section 58(5)",
+            "section 59",
+            "section 61",
+            "section 63",
+            "section 65",
+            "section 66",
+            "section 67",
+            "section 69(3)",
+            "section 69(5)"
+          ]
+        },
+        {
+          "title": "Nationality Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 104(4)"
+          ]
+        },
+        {
+          "title": "Immigration Act 1971",
+          "provisions": [
+            "section 3(5)",
+            "section 5(1)",
+            "Schedule 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Burundian asylum seeker appealed under section 69(5) against removal directions after her asylum claim was refused.",
+        "The Secretary of State granted four years' exceptional leave to remain on 22 February 2002 while the section 69(5) appeal was pending.",
+        "The appellant later sought to vary the appeal to rely on section 69(3) to avoid abandonment.",
+        "The Immigration Appeal Tribunal held the appeal was automatically abandoned under section 58(9)."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against an IAT decision that a pending section 69(5) appeal was abandoned by the grant of leave to remain.",
+      "outcome": "Appeal dismissed; no order for costs save detailed assessment of the appellant's publicly funded certificate.",
+      "ratio": "Section 58(9) operates automatically when a pending Part 4 appeal other than under section 69(3) coincides with a grant of leave to enter or remain, so a later application to vary the grounds could not revive an appeal already treated as abandoned and a precautionary section 69(3) notice could not validly be lodged before limited leave was granted.",
+      "legal_issues": [
+        "Whether section 58(9) required an executive or tribunal decision to abandon the appeal",
+        "Whether an appeal could be amended from section 69(5) to section 69(3) after exceptional leave was granted",
+        "Whether Saad and related cases permitted a purposive reading avoiding abandonment"
+      ],
+      "catchwords": [
+        "section 58(9)",
+        "exceptional leave to remain",
+        "appeal abandonment",
+        "section 69(3)",
+        "section 69(5)",
+        "asylum appeal"
+      ],
+      "index_terms": [
+        "Immigration and Asylum Act 1999",
+        "Immigration Appeal Tribunal",
+        "Burundi",
+        "Saad",
+        "Diriye",
+        "Zeqaj"
+      ],
+      "linked_authorities": [
+        "Saad v Secretary of State for the Home Department",
+        "Diriye v Secretary of State for the Home Department",
+        "Zeqaj v Secretary of State for the Home Department",
+        "Abdillahi v Secretary of State for the Home Department"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Focused statutory appeal with detailed analysis of section 58(9) and clear unanimous outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/306.json",
+    "status": "done",
+    "notes": "Batch 35 enrichment",
+    "enrichment": {
+      "short_title": "Asylum interview tape-recording judicial review refused",
+      "area_of_law": [
+        "Immigration law",
+        "Asylum law",
+        "Administrative law",
+        "Procedural fairness"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "Code C"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 3",
+            "Article 6",
+            "Article 8",
+            "Article 13"
+          ]
+        },
+        {
+          "title": "Convention Relating to the Status of Refugees 1951",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A Cameroonian asylum seeker sought permission for his legal representative to tape record his asylum interview.",
+        "The Home Office refused under policy that only its own written record would be made, although representatives could attend and take notes.",
+        "The claimant challenged the general policy and the particular refusal as procedurally unfair.",
+        "Evidence showed shortcomings in verbatim note-taking, reduced read-back practice, and variable interpreter quality."
+      ],
+      "procedural_posture": "Judicial review of the Secretary of State's refusal to permit a legal representative to tape record an asylum interview.",
+      "outcome": "Claim dismissed; permission to appeal refused.",
+      "ratio": "Procedural fairness in asylum interviews does not require permission for applicants or their representatives to make their own tape recordings; existing safeguards including written records, representation, complaints procedures, and appellate review were sufficient despite identifiable imperfections in the interview process.",
+      "legal_issues": [
+        "Whether natural justice required permitting representative tape recording of asylum interviews",
+        "Whether cessation of routine read-back rendered the process systemically unfair",
+        "Whether allowing one applicant to record would effectively require universal recording"
+      ],
+      "catchwords": [
+        "asylum interview",
+        "tape recording",
+        "procedural fairness",
+        "natural justice",
+        "interpreters",
+        "read-back"
+      ],
+      "index_terms": [
+        "Home Office policy",
+        "Statement of Evidence Form",
+        "Thirukumar",
+        "Akdogan",
+        "Gagda Bilbil",
+        "UNHCR Handbook"
+      ],
+      "linked_authorities": [
+        "Secretary of State for the Home Department v Thirukumar",
+        "R v Secretary of State for the Home Department, ex parte Akdogan",
+        "Assenov v Bulgaria",
+        "MNM v Secretary of State for the Home Department"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Long reasoned judgment with extensive factual and policy material and a clear dismissal on fairness grounds."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/323.json",
+    "status": "done",
+    "notes": "Batch 35 enrichment",
+    "enrichment": {
+      "short_title": "Legal aid charge on insurer settlement after liquidation",
+      "area_of_law": [
+        "Legal aid",
+        "Costs and funding",
+        "Insurance law",
+        "Equity and trusts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Legal Aid Act 1988",
+          "provisions": [
+            "section 16(6)"
+          ]
+        },
+        {
+          "title": "Third Parties (Rights Against Insurers) Act 1930",
+          "provisions": [
+            "section 1(1)"
+          ]
+        },
+        {
+          "title": "Civil Legal Aid (General) Regulations 1989",
+          "provisions": [
+            "Regulation 85",
+            "Regulation 91(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A legally aided claimant obtained a judgment for over £850,000 against a firm that later went into creditors' voluntary liquidation.",
+        "She settled a threatened claim against the firm's insurers under the 1930 Act for £165,000 inclusive of damages, interest, and costs.",
+        "The Legal Services Commission claimed its statutory charge over the settlement, covering taxed costs of £46,222.27.",
+        "The claimant argued the charge attached only to property recovered in the original proceedings against the defendant, not the separate insurer claim."
+      ],
+      "procedural_posture": "Part 8 claim for a declaration as to whether the legal aid statutory charge attached to sums recovered from insurers.",
+      "outcome": "Declaration refused; claimant held the settlement sum on constructive trust for the Commission to the extent of the legally aided costs.",
+      "ratio": "Although money recovered from insurers under the 1930 Act was not recovered in the original aided proceedings themselves, a constructive trust attached to the settlement because the judgment debt was impressed with the statutory charge and the insurer payment reduced that liability in circumstances where it would be inequitable for the assisted person to retain the costs element.",
+      "legal_issues": [
+        "Whether section 16(6) applied only to property recovered in the original aided proceedings",
+        "Whether a constructive trust arose when insurers paid part of a charged judgment debt",
+        "Whether Watkinson v Legal Aid Board prevented recovery of costs from insurer proceeds"
+      ],
+      "catchwords": [
+        "statutory charge",
+        "legal aid",
+        "Third Parties (Rights Against Insurers) Act 1930",
+        "constructive trust",
+        "insurer settlement",
+        "liquidation"
+      ],
+      "index_terms": [
+        "Legal Services Commission",
+        "Legal Aid Act 1988",
+        "professional indemnity insurance",
+        "Post Office v Norwich Union Fire Insurance Society Ltd",
+        "Durham Brothers v Robertson"
+      ],
+      "linked_authorities": [
+        "Post Office v Norwich Union Fire Insurance Society Ltd",
+        "Durham Brothers v Robertson",
+        "James v Williams",
+        "Watkinson v Legal Aid Board",
+        "Davies v Eli Lilly & Co"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Clear statutory and equitable analysis with agreed figures and an unambiguous declaratory outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/464.json",
+    "status": "done",
+    "notes": "Batch 35 enrichment",
+    "enrichment": {
+      "short_title": "Secretary of State need not follow ELR recommendation",
+      "area_of_law": [
+        "Immigration law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "A Congolese asylum seeker's appeal was dismissed for lack of credibility, but the adjudicator recommended exceptional leave to remain on the same terms as his brother.",
+        "The Secretary of State refused to follow the recommendation, applying policy that recommendations are acted on only where clear exceptional compassionate circumstances exist.",
+        "The claimant sought judicial review of that refusal.",
+        "The Secretary of State indicated willingness to consider any further human rights application, which would carry a fresh right of appeal."
+      ],
+      "procedural_posture": "Judicial review of the Secretary of State's refusal to grant exceptional leave to remain following an adjudicator's non-binding recommendation.",
+      "outcome": "Application dismissed; claimant ordered to pay the Secretary of State's costs to be assessed.",
+      "ratio": "An adjudicator's recommendation for exceptional leave to remain is not binding; the Secretary of State lawfully applied a rational policy requiring clear exceptional compassionate circumstances, and the mere fact that a sibling had been granted exceptional leave was insufficient without dependency or other extraneous circumstances.",
+      "legal_issues": [
+        "Whether the Secretary of State was bound by an adjudicator's recommendation for exceptional leave",
+        "Whether sibling parity with another grant of exceptional leave created compassionate circumstances",
+        "Whether alternative human rights routes removed prejudice to the claimant"
+      ],
+      "catchwords": [
+        "exceptional leave to remain",
+        "adjudicator recommendation",
+        "judicial review",
+        "compassionate circumstances",
+        "asylum appeal",
+        "sibling"
+      ],
+      "index_terms": [
+        "Secretary of State policy",
+        "Democratic Republic of Congo",
+        "Devaseelan",
+        "Human Rights Act",
+        "credibility findings"
+      ],
+      "linked_authorities": [
+        "Devaseelan v Secretary of State for the Home Department"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Short oral judgment with explicit statement of policy and clear dismissal on conventional public law grounds."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/259.json",
+    "status": "done",
+    "notes": "Batch 35 enrichment",
+    "enrichment": {
+      "short_title": "IVF mix-up and legal parentage under HFE Act",
+      "area_of_law": [
+        "Family law",
+        "Medical law",
+        "Human rights",
+        "Assisted reproduction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Fertilisation and Embryology Act 1990",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 13",
+            "section 27",
+            "section 28(2)",
+            "section 28(3)",
+            "section 28(4)",
+            "section 28(5)",
+            "section 28(6)",
+            "section 29",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 2(2)(b)",
+            "section 4",
+            "section 8",
+            "section 10(4)"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 4"
+          ]
+        },
+        {
+          "title": "Family Law Act 1986",
+          "provisions": [
+            "section 55A"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6",
+            "Article 8",
+            "Article 12",
+            "Article 14"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Two couples underwent ICSI treatment at the same clinic; by mistake Mr B's sperm fertilised Mrs A's eggs.",
+        "Mrs A gave birth to mixed-race twins registered as children of Mr and Mrs A.",
+        "Mr A sought to be treated as legal father under sections 28(2) or 28(3); Mr B was the biological father.",
+        "All parties agreed the twins should remain with Mr and Mrs A, but legal parentage had to be determined."
+      ],
+      "procedural_posture": "Family Division hearing to determine legal parentage after an IVF clinic error, with competing declarations sought by the treating trust, HFEA, and biological father.",
+      "outcome": "No declaration that Mr A was legal father; sections 28(2) and 28(3) held not to apply; Mr B remained the legal father at common law; section 55A application adjourned; no declaration of incompatibility.",
+      "ratio": "Sections 28(2) and 28(3) of the HFE Act 1990 did not apply because Mr A did not consent to insemination with another man's sperm, the fundamental clinic mistake vitiated treatment together, and Parliament's consent-based scheme should not be stretched to erase the biological father's legal status where domestic family remedies could protect the children's welfare.",
+      "legal_issues": [
+        "Whether Mr A was the legal father under section 28(2) despite non-consensual use of donor sperm",
+        "Whether section 28(3) applied to married couples treated together at a licensed clinic",
+        "Whether refusing Mr A legal parenthood infringed Article 8 and required a section 4 HRA declaration of incompatibility"
+      ],
+      "catchwords": [
+        "IVF mix-up",
+        "legal parentage",
+        "section 28 HFE Act",
+        "consent",
+        "biological father",
+        "Article 8"
+      ],
+      "index_terms": [
+        "Human Fertilisation and Embryology Act 1990",
+        "ICSI",
+        "Leeds Teaching Hospitals NHS Trust",
+        "parental responsibility",
+        "adoption",
+        "U v W"
+      ],
+      "linked_authorities": [
+        "U v W (Attorney General Intervening)",
+        "Re R (a child)",
+        "Mrs U v Centre for Reproductive Medicine",
+        "Rose v Secretary of State for Health and Human Fertilisation and Embryology Authority",
+        "Marckx v Belgium",
+        "M v the Netherlands"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed President's judgment with comprehensive statutory and human rights analysis and a definitive parentage conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/189.json",
+    "status": "done",
+    "notes": "Batch 35 enrichment",
+    "enrichment": {
+      "short_title": "Estate agent commission after matrimonial consent order",
+      "area_of_law": [
+        "Contract law",
+        "Property agency",
+        "Family and matrimonial finance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Estate Agents Act 1979",
+          "provisions": [
+            "section 18",
+            "section 18(6)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Day Morris marketed Mrs Voyce's jointly owned matrimonial home during ancillary relief proceedings without a signed sole agency agreement.",
+        "Miss Lee, introduced by the agents, later bought the property for £690,000 after Mr Voyce took sole conduct of sale under a consent order.",
+        "The trial judge dismissed the commission claim because Mrs Voyce no longer controlled choice of purchaser when the sale completed.",
+        "Mrs Voyce succeeded in a Part 20 indemnity claim against her husband for any commission liability."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against dismissal of an estate agent's commission claim.",
+      "outcome": "Appeal allowed; Mrs Voyce ordered to pay £17,500 plus VAT commission, effectively borne by Mr Voyce under the indemnity.",
+      "ratio": "Mrs Voyce accepted the agents' 18 July 2000 written terms by conduct in allowing marketing after that date; commission was therefore payable on exchange with a purchaser introduced during the agency period, and the later consent order giving Mr Voyce conduct of sale did not break the contractual causative link.",
+      "legal_issues": [
+        "Whether the 18 July 2000 letter formed a contract accepted by conduct",
+        "Whether loss of control over purchaser choice after the consent order defeated commission entitlement",
+        "Whether section 18 Estate Agents Act 1979 precluded enforcement"
+      ],
+      "catchwords": [
+        "estate agent commission",
+        "acceptance by conduct",
+        "sole agency",
+        "matrimonial home sale",
+        "section 18 Estate Agents Act",
+        "introduced purchaser"
+      ],
+      "index_terms": [
+        "Day Morris Associates",
+        "ancillary relief",
+        "consent order",
+        "quantum meruit",
+        "Part 20 indemnity"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed Court of Appeal contract analysis overturning the judge on a clearly identified legal ground."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/326.json",
+    "status": "done",
+    "notes": "Batch 35 enrichment",
+    "enrichment": {
+      "short_title": "Ship mortgagee arrest timing and guarantor liability",
+      "area_of_law": [
+        "Banking and finance",
+        "Maritime law",
+        "Mortgages and security",
+        "Commercial litigation"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Den Norske Bank lent US$6 million secured by ship mortgages and a guarantee from Acemex Management Company Ltd.",
+        "After events of default, the bank arrested the reefer vessel Tropical Reefer in Panama while she was laden with bananas.",
+        "Disposal of the perishable cargo and sale costs reduced net proceeds; the guarantor argued arrest in Germany would have preserved value.",
+        "The bank sought summary judgment for US$815,277.09 under the guarantee."
+      ],
+      "procedural_posture": "Part 24 summary judgment application in guarantee proceedings following ship arrest and judicial sale.",
+      "outcome": "Summary judgment granted for the full sum claimed.",
+      "ratio": "A ship mortgagee exercising the power of arrest owes guarantors and mortgagors only the equitable duties of good faith and proper purpose, not a general duty of care in choosing when or where to arrest or whether to release the vessel; acting in good faith to enforce security for repayment suffices even if arrest when laden harms guarantors' interests.",
+      "legal_issues": [
+        "Whether the mortgagee owed a duty of care to the guarantor when deciding to arrest in Panama",
+        "Whether the mortgagee breached duty by not releasing the vessel to allow re-arrest in Germany",
+        "Whether cargo disposal costs and a cargo damage claim reduced guarantor liability"
+      ],
+      "catchwords": [
+        "ship mortgage",
+        "guarantee",
+        "arrest",
+        "summary judgment",
+        "mortgagee duties",
+        "perishable cargo"
+      ],
+      "index_terms": [
+        "Den Norske Bank",
+        "Tropical Reefer",
+        "Panama arrest",
+        "China and South Sea Bank v Tan Soon Gin",
+        "Downsview Nominees v First City Corporation",
+        "The Myrto"
+      ],
+      "linked_authorities": [
+        "China and South Sea Bank Ltd v Tan Soon Gin",
+        "Downsview Nominees Ltd v First City Corporation",
+        "Medforth v Blake",
+        "Yorkshire Bank PLC v Hall",
+        "Standard Chartered Bank v Walker",
+        "Meftah v Lloyd's Bank",
+        "Zeeland Navigation Company Ltd v Banque Worms",
+        "The Myrto",
+        "The Rama",
+        "Cuckmere Brick Co Ltd v Mutual Finance Ltd"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Comprehensive commercial judgment applying established mortgagee principles to ship arrest with alternative quantum analysis."
+      }
+    }
+  }
+]

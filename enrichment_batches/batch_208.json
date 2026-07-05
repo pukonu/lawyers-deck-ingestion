@@ -1,0 +1,684 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/29.json",
+    "status": "done",
+    "notes": "War pension appeal on Article 5(4) SPO reasonable doubt; appeal allowed with remittal.",
+    "enrichment": {
+      "short_title": "War pension appeal allowed where PAT failed to apply reasonable doubt and denied procedural fairness",
+      "area_of_law": [
+        "Administrative law",
+        "Pensions and veterans' benefits",
+        "Judicial review",
+        "Evidence and burden of proof"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Naval, Military and Air Forces etc (Disablement and Death) Service Pensions Order 1983",
+          "provisions": ["Article 5(1)", "Article 5(2)", "Article 5(4)"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Part 52", "Practice Direction 22.5(6)"]
+        }
+      ],
+      "key_facts": [
+        "Mr Busmer, an ex-RAF serviceman stationed on Christmas Island during 1957–58 nuclear tests, claimed a war disablement pension for myelodysplasia diagnosed about 42 years after service.",
+        "The Pensions Appeal Tribunal rejected the claim, finding any radiation dose he received was negligible and not a factor in his condition.",
+        "On appeal, the court held the PAT had not properly asked whether the claimant's evidence raised a reasonable doubt under Article 5(4) and had considered undisclosed source material without giving the claimant a chance to respond."
+      ],
+      "procedural_posture": "Appeal to the Administrative Court from a case stated by the Pensions Appeal Tribunal under CPR Part 52.",
+      "outcome": "Appeal allowed; matter remitted to a differently constituted Pensions Appeal Tribunal for redetermination.",
+      "ratio": "Under Article 5(4) of the Service Pensions Order, where reliable evidence raises a reasonable doubt whether disablement is due to service, the benefit of that doubt must be given to the claimant; the tribunal must assess all evidence on both sides and cannot require proof of contact with specific radiation readings before a doubt arises, and procedural fairness requires notice and an opportunity to respond where the tribunal relies on material not put to the parties.",
+      "legal_issues": [
+        "The meaning of Article 5(4) and the 'reasonable doubt' test where the burden lies on the claimant",
+        "Whether the PAT properly weighed evidence of radiation exposure from Christmas Island activities beyond direct detonation proximity",
+        "Whether the PAT acted procedurally unfairly by relying on post-hearing research without adjourning for representations"
+      ],
+      "catchwords": [
+        "war pension",
+        "service pensions order",
+        "reasonable doubt",
+        "nuclear test veterans",
+        "Pensions Appeal Tribunal",
+        "procedural fairness",
+        "ionising radiation"
+      ],
+      "index_terms": [
+        "Busmer",
+        "Christmas Island",
+        "Grapple X",
+        "Grapple Y",
+        "myelodysplasia",
+        "Dickenson v Minister of Pensions",
+        "Westcott v Secretary of State for Social Services",
+        "R v DSS ex parte Edwards"
+      ],
+      "linked_authorities": [
+        {"name": "Dickenson v Minister of Pensions", "citation": "[1953] 1 QB 228"},
+        {"name": "Westcott v Secretary of State for Social Services", "citation": "CO/2/87 (11 December 1987)"},
+        {"name": "R v Department of Social Security ex parte Edwards", "citation": "10 July 1992"},
+        {"name": "Cadney v Minister of Pensions and National Insurance", "citation": "Vol 5, War Pensions Appeal Reports, 687"},
+        {"name": "Mitchell v Minister of Pensions", "citation": null}
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long judgment with clear holdings on Article 5(4) and procedural unfairness; judges metadata includes Lord Clark and Sir Richard Doll who appear as cited experts rather than sitting judges."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/149.json",
+    "status": "needs_review",
+    "notes": "Source judges array lists Lord Woolf LCJ and Lord Scarman but the judgment is given by Mr Justice Henriques.",
+    "enrichment": {
+      "short_title": "Prisoner refused Home Detention Curfew after offensive weapons policy — no exceptional circumstances",
+      "area_of_law": [
+        "Administrative law",
+        "Prison law",
+        "Sentencing and early release",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": ["section 34A(3)", "section 37A(1)", "section 51"]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["section 139"]
+        },
+        {
+          "title": "Crime (Sentences) Act 1997",
+          "provisions": ["section 2(2)"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Cross, serving a combined sentence including one month for possession of a pointed blade, sought release on Home Detention Curfew before automatic release in February 2004.",
+        "The governor refused HDC under Prison Service Instruction 31/2003, which presumptively excluded prisoners with certain offence categories including offensive weapons unless exceptional circumstances existed.",
+        "The claimant argued the penknife offence was minor, he would not have been HDC-eligible on that sentence alone, and his progress in custody amounted to exceptional circumstances."
+      ],
+      "procedural_posture": "Application for judicial review of a governor's refusal of Home Detention Curfew, leave having been granted on the papers.",
+      "outcome": "Application dismissed; governor held not required to examine facts of presumed unsuitable offences and no exceptional circumstances found.",
+      "ratio": "Under the Home Detention Curfew policy, exceptional circumstances are not established by examining whether a presumed unsuitable offence was at the lower end of seriousness; where any concurrent sentence falls within an excluded category, the presumption applies, and maintaining public confidence in the scheme is a matter for the Secretary of State rather than detailed gubernatorial investigation of offence facts.",
+      "legal_issues": [
+        "Whether a governor must consider the facts of a presumed unsuitable offence to identify exceptional circumstances",
+        "Whether the minor nature of a concurrent offensive weapons sentence can amount to exceptional circumstances",
+        "Whether HDC policy applies where a short concurrent sentence would alone have made the prisoner ineligible"
+      ],
+      "catchwords": [
+        "Home Detention Curfew",
+        "exceptional circumstances",
+        "offensive weapons",
+        "prison governor",
+        "early release",
+        "PSI 31/2003",
+        "public confidence"
+      ],
+      "index_terms": [
+        "Cross",
+        "HM YOI Thorn Cross",
+        "PSO 6700",
+        "R v Offen",
+        "Re Findlay",
+        "section 51 Criminal Justice Act 1991"
+      ],
+      "linked_authorities": [
+        {"name": "R v Offen", "citation": "[2001] 1 WLR 253"},
+        {"name": "Re Findlay", "citation": "[1985] AC 333"},
+        {"name": "Buckland", "citation": null},
+        {"name": "Kelly", "citation": null}
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Clear first-instance JR judgment; source judges metadata is unreliable and should not be used for indexing."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/13.json",
+    "status": "needs_review",
+    "notes": "Very long judgment on juvenile detention policy; source judges array mixes sitting and cited judges.",
+    "enrichment": {
+      "short_title": "16-year-old's detention at Eastwood Park held lawful despite challenge to prison placement policy",
+      "area_of_law": [
+        "Administrative law",
+        "Prison and youth justice",
+        "Human rights",
+        "Children's rights",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": ["section 91", "section 92"]
+        },
+        {
+          "title": "Prison Act 1952",
+          "provisions": ["section 33", "section 43(5)"]
+        },
+        {
+          "title": "Criminal Justice Act 1982",
+          "provisions": ["section 1A", "section 1C"]
+        },
+        {
+          "title": "Children and Young Persons Act 1933",
+          "provisions": ["section 53"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 8"]
+        },
+        {
+          "title": "United Nations Convention on the Rights of the Child",
+          "provisions": ["Article 37(c)"]
+        },
+        {
+          "title": "Young Offender Institution Rules 2000",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "DT, aged 16, was sentenced to three years' detention under section 91 for aggravated burglary and later transferred from a local authority secure children's home to HMP Eastwood Park under section 92 from June 2002 to May 2003.",
+        "She challenged the lawfulness of detention in an adult prison estate wing where under-18s mixed with older prisoners, alleging breach of PSO 4960, Article 8 ECHR and the UNCRC.",
+        "The court found D wing was designated as a young offender institution within the prison and that, although prison policy documents were inconsistent in places, the Secretary of State's decision to transfer her was not unlawful."
+      ],
+      "procedural_posture": "Application for judicial review seeking a declaration of unlawful detention and damages.",
+      "outcome": "Application dismissed; claimant not entitled to relief by way of judicial review.",
+      "ratio": "Detention of under-18s in designated YOI accommodation within a women's prison under section 92 is not unlawful merely because they may mix with over-18s in some activities; inconsistency between prison service instructions does not automatically invalidate individual transfer decisions, and the broader policy of placing some juveniles in prison for bed-management reasons is a matter for the executive rather than the courts absent clear illegality.",
+      "legal_issues": [
+        "Whether section 92 permits placing under-18s in prison with adult prisoners except in exceptional circumstances",
+        "Whether transfer to Eastwood Park breached PSO 4960 and PSO 4950 child welfare policies",
+        "Whether detention violated Article 8 ECHR and Article 37(c) UNCRC",
+        "Whether a declaration should be granted regarding systemic placement of juveniles in prison"
+      ],
+      "catchwords": [
+        "juvenile detention",
+        "section 92",
+        "young offender institution",
+        "Eastwood Park",
+        "PSO 4960",
+        "PSO 4950",
+        "children in prison",
+        "Article 8"
+      ],
+      "index_terms": [
+        "DT",
+        "Howard League",
+        "Frances Crook",
+        "LASCH",
+        "secure training centre",
+        "Criminal Justice Act 1982 section 1C",
+        "Youth Justice Board"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.82,
+        "level": "medium",
+        "notes": "Extensive judgment with multiple policy and human rights strands; core outcome clear but ratio on systemic policy declaration is nuanced."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/33.json",
+    "status": "done",
+    "notes": "Commercial court Part 11 service application; service on AUA 9 upheld.",
+    "enrichment": {
+      "short_title": "Lloyd's validly served US name via substitute agent under Equitas reinsurance contract",
+      "area_of_law": [
+        "Civil procedure",
+        "Commercial law",
+        "Agency law",
+        "Conflict of laws",
+        "Insurance and reinsurance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Part 6.15", "Part 11"]
+        }
+      ],
+      "key_facts": [
+        "Lloyd's sued Mr Tropp, a US-domiciled Lloyd's name, for unpaid Equitas reinsurance premium under the 1996 Reinsurance and Run-Off Contract.",
+        "Clause 25.2 appointed Additional Underwriting Agencies (No. 9) as substitute agent to accept service in England; proceedings were served on AUA 9 within the jurisdiction.",
+        "Mr Tropp applied under CPR Part 11 to set aside service, arguing AUA 9 lacked authority, did not exist as a valid agent, and could not act because of conflict of interest with Lloyd's."
+      ],
+      "procedural_posture": "Application under CPR Part 11 to set aside service of claim form and decline jurisdiction.",
+      "outcome": "Application dismissed; service on AUA 9 held valid and proceedings properly served.",
+      "ratio": "Where an authorised agent binds a principal to a contract containing a service-of-process clause, service pursuant to CPR Part 6.15 is good whether the agent was appointed personally or through another authorised agent; a service clause in a Lloyd's R&R reinsurance contract was within the agent's authority, and Lloyd's control of AUA 9 did not create a conflict of interest where AUA 9's role in accepting service was purely ministerial.",
+      "legal_issues": [
+        "Whether AUA 9 existed as a separate corporate entity capable of accepting service",
+        "Whether a substitute managing agent had authority to bind a name to a contractual service clause",
+        "Whether conflict of interest principles invalidate service on an agent controlled by the claimant"
+      ],
+      "catchwords": [
+        "service out of jurisdiction",
+        "contractual service clause",
+        "CPR Part 6.15",
+        "Lloyd's name",
+        "Equitas",
+        "substitute agent",
+        "conflict of interest",
+        "Part 11"
+      ],
+      "index_terms": [
+        "Tropp",
+        "AUA 9",
+        "Reconstruction and Renewal",
+        "Leighs",
+        "Society of Lloyd's v West",
+        "Reversionary Interest Society v Locking"
+      ],
+      "linked_authorities": [
+        {"name": "The Society of Lloyd's v Leighs", "citation": "[1997] CLC 759"},
+        {"name": "Anderton v Clwyd County Council (No.2)", "citation": "[2002] EWCA Civ 933"},
+        {"name": "Wilkey v BBC", "citation": "[2002] EWCA Civ 1561"},
+        {"name": "Reversionary Interest Society v Locking", "citation": "[1928] WN 227"},
+        {"name": "The Society of Lloyd's v West", "citation": "28 November 1997 (unreported)"},
+        {"name": "Anglo-African Merchants v Bayley", "citation": "[1970] 1 QB 312"}
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Self-contained commercial procedural judgment with clear findings on three issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/38.json",
+    "status": "done",
+    "notes": "Trial ruling refusing mid-trial Infocom evidence in Reynolds qualified privilege defamation case.",
+    "enrichment": {
+      "short_title": "Defendant refused mid-trial Infocom evidence in Jameel qualified privilege libel trial",
+      "area_of_law": [
+        "Defamation",
+        "Media law",
+        "Evidence",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "During the Jameel libel trial against The Wall Street Journal Europe, the defendant sought on day 7 to introduce evidence about Infocom, a Texas web-hosting company raided by the FBI in 2001.",
+        "The proposed evidence was intended to show why Jameel's use of Infocom might have attracted US law enforcement interest, without alleging any wrongdoing by the claimants.",
+        "The claimants objected on grounds of irrelevance, surprise, and risk of guilt-by-association prejudice in a qualified privilege case where sources were not disclosed."
+      ],
+      "procedural_posture": "Mid-trial ruling on application to adduce further evidence during a jury trial on qualified privilege (Reynolds defence).",
+      "outcome": "Application refused on grounds of irrelevance and case-management discretion; ruling would have required adjournment and risked unfair prejudice.",
+      "ratio": "Evidence that merely shows a claimant might possibly have been on a monitoring list, without supporting a defamatory meaning or the journalist's sources, is irrelevant to qualified privilege; even if marginally relevant, introducing such evidence mid-trial without notice would cause unfair prejudice outweighing any legitimate evidential benefit.",
+      "legal_issues": [
+        "Whether Infocom hosting evidence was relevant to the Reynolds qualified privilege defence",
+        "Whether the defendant should be permitted to adduce speculative non-defamatory material mid-trial by parity with claimants' falsity evidence",
+        "Whether case-management discretion required refusal to avoid prejudice and jury discharge"
+      ],
+      "catchwords": [
+        "defamation",
+        "qualified privilege",
+        "Reynolds defence",
+        "mid-trial evidence",
+        "irrelevance",
+        "case management",
+        "guilt by association",
+        "jury trial"
+      ],
+      "index_terms": [
+        "Jameel",
+        "Wall Street Journal Europe",
+        "Infocom",
+        "James Dorsey",
+        "SAMA",
+        "Al Rajhi Banking",
+        "Dallah Al-Baraka"
+      ],
+      "linked_authorities": [
+        {"name": "Reynolds v Times Newspapers Ltd", "citation": "[2001] 2 AC 127"}
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Interlocutory trial ruling with clear reasoning on relevance and discretion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/187.json",
+    "status": "needs_review",
+    "notes": "Source judges array lists deceased Law Lords; judgment is by Mr Justice Henriques on a case stated.",
+    "enrichment": {
+      "short_title": "Eurostar held strictly liable as principal for prohibited dog landing at Waterloo",
+      "area_of_law": [
+        "Administrative law",
+        "Criminal law",
+        "Animal health",
+        "Strict liability",
+        "Case stated appeal"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Rabies (Importation of Dogs, Cats and other Mammals) Order 1974",
+          "provisions": ["Article 2(2)", "Article 4(1)", "Article 16(1)"]
+        },
+        {
+          "title": "Animal Health Act 1981",
+          "provisions": ["section 73(1)"]
+        },
+        {
+          "title": "Animal Health Act 2002",
+          "provisions": ["section 75"]
+        },
+        {
+          "title": "Channel Tunnel Act 1987",
+          "provisions": []
+        },
+        {
+          "title": "Channel Tunnel (Amendment of Agriculture, Fisheries and Food Import Legislation) Order 1990",
+          "provisions": []
+        },
+        {
+          "title": "Channel Tunnel (International Arrangements) Order 1993",
+          "provisions": ["Article 5", "Article 7"]
+        }
+      ],
+      "key_facts": [
+        "A passenger brought a German shepherd dog from France to Waterloo International on an SNCF train; Waterloo was not an authorised landing point and documentation was invalid.",
+        "Eurostar (UK) Ltd, as host operator responsible for trains in Great Britain, was prosecuted for landing a prohibited animal.",
+        "The magistrates dismissed the summons, finding no causation/permitting and accepting a lawful excuse, but the High Court held the offence was strict liability and carriers could be convicted as principals."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Horseferry Road Magistrates' Court.",
+      "outcome": "Appeal allowed; case remitted to magistrates with direction to convict; statutory defence and lawful excuse rejected.",
+      "ratio": "Landing a prohibited animal under Article 16(1) of the 1974 Order is a strict liability offence designed to prevent rabies importation; a deemed landing in a Paris control zone under Article 2(2) is additional to, and does not exclude, a subsequent actual landing in Great Britain, and a carrier exercising operational control of through trains in the UK may be convicted as a principal despite the passenger physically unloading the dog.",
+      "legal_issues": [
+        "Whether Article 16(1) creates a strict liability offence",
+        "Whether Eurostar could be liable as a principal rather than only as a secondary party",
+        "Whether deemed landing in a control zone precluded a further actual landing offence at Waterloo",
+        "Whether section 73(1) lawful excuse or authority was available"
+      ],
+      "catchwords": [
+        "rabies importation",
+        "strict liability",
+        "Eurostar",
+        "control zone",
+        "deemed landing",
+        "animal health",
+        "case stated",
+        "Channel Tunnel"
+      ],
+      "index_terms": [
+        "Corporation of London",
+        "Waterloo International",
+        "SNCF",
+        "B (a minor) v DPP",
+        "Sweet v Parsley",
+        "Reynolds v G H Austin & Sons Ltd",
+        "Cambridgeshire v Rust"
+      ],
+      "linked_authorities": [
+        {"name": "MGFM Asia Ltd v Securities Commission", "citation": "[1995] 2 AC 500"},
+        {"name": "B (a minor) v DPP", "citation": "[2000] 2 AC 428"},
+        {"name": "Sweet v Parsley", "citation": "[1970] AC 132"},
+        {"name": "Reynolds v G H Austin & Sons Ltd", "citation": "[1951] 2 KB 135"},
+        {"name": "Lim Chin Aik v The Queen", "citation": "[1963] AC 160"},
+        {"name": "Cambridgeshire and Isle of Ely County Council v Rust", "citation": "[1972] 2 QB 426"}
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed case stated judgment with clear answers to four questions; judges metadata unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/179.json",
+    "status": "done",
+    "notes": "Asylum JR on IAT refusal of permission; adjudicator's credibility findings upheld.",
+    "enrichment": {
+      "short_title": "Congolese asylum seeker's judicial review dismissed after IAT upheld credibility findings",
+      "area_of_law": [
+        "Administrative law",
+        "Immigration and asylum",
+        "Human rights",
+        "Judicial review"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Kititi, a Congolese FONUS party branch president, claimed asylum based on political persecution and cited multiple detentions and a newspaper report of his escape.",
+        "The adjudicator accepted some detentions but rejected others as implausible and preferred CIPU/US State Department reports over Mr Kennes' expert report on country conditions.",
+        "The IAT refused permission to appeal, holding overall credibility findings were sustainable despite some identified errors."
+      ],
+      "procedural_posture": "Application for judicial review of the Immigration Appeal Tribunal's refusal of permission to appeal against an adjudicator's asylum and human rights determination.",
+      "outcome": "Application dismissed; IAT decision held lawful.",
+      "ratio": "An adjudicator is entitled to prefer mainstream country guidance over an expert background report not prepared for the appellant and not tested by oral evidence; minor factual errors in credibility reasoning, such as misdating a newspaper report, do not render overall findings unsustainable where they do not affect the substance of the assessment, and an IAT need not dissect which individual credibility findings survive when concluding overall findings were properly reached.",
+      "legal_issues": [
+        "Whether the adjudicator adequately reasoned preferring CIPU/US reports over Mr Kennes' report",
+        "Whether credibility findings on second and fourth detentions were perverse",
+        "Whether misdating and misreading the newspaper report undermined the determination",
+        "Whether Katrinak applied to risk from the claimant's brother's political profile"
+      ],
+      "catchwords": [
+        "asylum",
+        "judicial review",
+        "credibility findings",
+        "country evidence",
+        "Immigration Appeal Tribunal",
+        "DRC",
+        "permission to appeal"
+      ],
+      "index_terms": [
+        "Kititi",
+        "FONUS",
+        "Erik Kennes",
+        "CIPU report",
+        "Katrinak v Secretary of State",
+        "Democratic Republic of Congo"
+      ],
+      "linked_authorities": [
+        {"name": "Katrinak v Secretary of State for the Home Department", "citation": null}
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Source judges array empty but judgment clearly identifies Mr Justice Sullivan; holdings are straightforward."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/2.json",
+    "status": "needs_review",
+    "notes": "Split Court of Appeal on foreseeability in race discrimination psychiatric injury damages; source judges array lists many cited Law Lords.",
+    "enrichment": {
+      "short_title": "Race discrimination damages for psychiatric injury remitted without requiring reasonable foreseeability",
+      "area_of_law": [
+        "Employment law",
+        "Discrimination law",
+        "Damages",
+        "Tort law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Race Relations Act 1976",
+          "provisions": ["section 1", "section 7", "section 32(1)", "section 32(3)", "section 54", "section 56", "section 57(4)"]
+        },
+        {
+          "title": "Equal Treatment Directive 2000/43/EC",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Essa, a black Welsh labourer, succeeded in a race discrimination claim after a foreman called him a racial slur on the Millennium Stadium site; £5,000 was awarded for injury to feelings.",
+        "The Employment Appeal Tribunal remitted compensation questions, including whether psychiatric injury was caused by the discrimination and whether mitigation or intervening causes applied.",
+        "Laing Ltd appealed, arguing damages for psychiatric injury required reasonable foreseeability as in negligence, not merely causation."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from the Employment Appeal Tribunal on quantification of race discrimination damages for psychiatric injury.",
+      "outcome": "Appeal dismissed; matter remitted to the Employment Tribunal to reconsider compensation including causation, intervening cause and mitigation.",
+      "ratio": "Compensation under section 56 of the Race Relations Act 1976 for unlawful discrimination is not limited by a separate reasonable-foreseeability test akin to negligence; psychiatric injury may be recoverable if causally linked to the discriminatory act, subject to ordinary causation, the thin-skull rule, and mitigation principles, though the court may also consider whether such injury was reasonably foreseeable in assessing the claim.",
+      "legal_issues": [
+        "Whether psychiatric injury damages for racial discrimination require reasonable foreseeability",
+        "How section 57(4) confirming injury to feelings relates to personal injury claims",
+        "Whether the EAT was right to remit for consideration of intervening cause and mitigation",
+        "Application of Page v Smith and remoteness principles to statutory discrimination torts"
+      ],
+      "catchwords": [
+        "race discrimination",
+        "psychiatric injury",
+        "injury to feelings",
+        "foreseeability",
+        "causation",
+        "mitigation",
+        "thin skull",
+        "Employment Tribunal"
+      ],
+      "index_terms": [
+        "Essa",
+        "Laing Ltd",
+        "Millennium Stadium",
+        "Page v Smith",
+        "Cambridge Water",
+        "HM Prison Service v Salmon",
+        "Kuwait Airways v Iraqi Airways"
+      ],
+      "linked_authorities": [
+        {"name": "Page v Smith", "citation": "[1996] AC 155"},
+        {"name": "Cambridge Water Co v Eastern Counties Leather plc", "citation": "[1994] AC 264"},
+        {"name": "Smith v Leech Brain & Co", "citation": "[1962] 2 QB 405"},
+        {"name": "HM Prison Service v Salmon", "citation": "[2001] IRLR 425"},
+        {"name": "Kuwait Airways Corporation v Iraqi Airways Co", "citation": "[2002] 2 WLR 1353"},
+        {"name": "Mahmud v Bank of Credit and Commerce International SA", "citation": "[1998] AC 20"}
+      ],
+      "confidence": {
+        "score": 0.85,
+        "level": "medium",
+        "notes": "Appellate judgments diverge on foreseeability relevance; remittal outcome clear but ratio on foreseeability should be checked against full report."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/39.json",
+    "status": "done",
+    "notes": "Council tax main residence appeal; Valuation Tribunal decision overturned.",
+    "enrichment": {
+      "short_title": "Council tax main residence held to be employer-provided house, not owned cottage",
+      "area_of_law": [
+        "Tax law",
+        "Local government finance",
+        "Rating and council tax"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government Finance Act 1992",
+          "provisions": ["section 6", "section 11"]
+        }
+      ],
+      "key_facts": [
+        "Mr Williams, a Hurstpierpoint College housemaster, owned Pump Cottage but lived with his wife in college-provided accommodation, The Oaks, from 1993 to 1997.",
+        "They never stayed overnight at Pump Cottage during that period though remained registered with local doctors and on the electoral roll there.",
+        "The Valuation Tribunal treated Pump Cottage as sole or main residence based on security of tenure and intention to return; the college paid council tax on The Oaks."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from a High Court decision allowing Mr Williams' appeal against a Valuation Tribunal council tax liability decision.",
+      "outcome": "Council's appeal dismissed; The Oaks held to be sole or main residence; Williams entitled to 50% council tax discount on Pump Cottage for the relevant period.",
+      "ratio": "A person's 'sole or main residence' for council tax means premises where they actually live; security of tenure and intention to return are relevant factors but not overriding legal requirements, and where a taxpayer lives exclusively in employer-provided accommodation for years without staying at an owned property, a reasonable onlooker would treat the occupied house as their home.",
+      "legal_issues": [
+        "The meaning of 'sole or main residence' under section 6(5) of the Local Government Finance Act 1992",
+        "Whether prior case law required security of tenure and intention to return as trump factors",
+        "Whether Pump Cottage or The Oaks was the Williams' main residence between 1993 and 1997"
+      ],
+      "catchwords": [
+        "council tax",
+        "sole or main residence",
+        "second home discount",
+        "Valuation Tribunal",
+        "tied accommodation",
+        "school housemaster"
+      ],
+      "index_terms": [
+        "Williams",
+        "Horsham District Council",
+        "Pump Cottage",
+        "The Oaks",
+        "Hurstpierpoint College",
+        "Bradford v Anderton",
+        "Ward v Kingston upon Hull",
+        "Stark v Doncaster"
+      ],
+      "linked_authorities": [
+        {"name": "Bradford Metropolitan City Council v Anderton", "citation": "[1991] RA 45"},
+        {"name": "Ward v Kingston upon Hull City Council", "citation": "[1993] RA 71"},
+        {"name": "Doncaster Borough Council v Stark", "citation": "[1998] RVR 80"},
+        {"name": "Frost (Inspector of Taxes) v Feltham", "citation": "[1981] 1 WLR 452"},
+        {"name": "Edwards v Bairstow", "citation": "[1956] AC 14"}
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Clear Court of Appeal judgment (Lord Phillips MR) with defined test; source judges array empty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/226.json",
+    "status": "needs_review",
+    "notes": "Source judges array lists deceased Law Lords; judgment is by Mr Justice Forbes on a section 288 planning appeal.",
+    "enrichment": {
+      "short_title": "Planning appeal dismissed — housing need did not outweigh loss of allotment open space",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 78", "section 106", "section 288"]
+        }
+      ],
+      "key_facts": [
+        "CG Claydon Ltd sought outline planning permission for housing on former allotment land at Birchen Grove, Luton; the council failed to determine the application and an inspector refused the section 78 appeal.",
+        "The appellant offered on-site and off-site open space via a section 106 unilateral undertaking, but the inspector found replacement sites unsuitable as neighbourhood parks.",
+        "The claimant challenged the inspector's decision on reasons, housing need evidence, a duplicate application, and future open-space opportunity."
+      ],
+      "procedural_posture": "Application under section 288 of the Town and Country Planning Act 1990 to quash an inspector's decision on a section 78 appeal.",
+      "outcome": "Claim dismissed; all four grounds of challenge rejected.",
+      "ratio": "An inspector's planning decision letter must be read as a whole and is not subject to minute textual scrutiny; adequate reasons may briefly explain why offered section 106 open space does not satisfy local plan policy requiring alternative appropriate public open space in the same vicinity, and reliance on an urban capacity study supported by inquiry evidence is lawful even if the full study was not produced.",
+      "legal_issues": [
+        "Whether the inspector gave adequate reasons for rejecting section 106 open space replacement",
+        "Whether reliance on the Urban Capacity Study lacked verifiable evidence",
+        "Whether officers' favourable reports on a duplicate application were a material consideration",
+        "Whether future open-space enhancement potential was an impermissible material consideration"
+      ],
+      "catchwords": [
+        "planning appeal",
+        "section 288",
+        "open space",
+        "allotments",
+        "housing need",
+        "PPG3",
+        "PPG17",
+        "section 106 undertaking"
+      ],
+      "index_terms": [
+        "CG Claydon",
+        "Birchen Grove Luton",
+        "Policy OS1",
+        "Policy OS5",
+        "Urban Capacity Study",
+        "Save Britain's Heritage v Number 1 Poultry",
+        "Tesco v Secretary of State"
+      ],
+      "linked_authorities": [
+        {"name": "Save Britain's Heritage v Number 1 Poultry Ltd", "citation": "[1991] 1 WLR 153"},
+        {"name": "South Somerset DC v Secretary of State for the Environment", "citation": "[1993] 1 PLR 80"},
+        {"name": "Bolton MDC v Secretary of State for the Environment", "citation": "[1995] 3 PLR 37"},
+        {"name": "Tesco Stores Ltd v Secretary of State for the Environment", "citation": "[1995] 1 WLR 759"},
+        {"name": "Newsmith Stainless Ltd v Secretary of State", "citation": "[2001] EWHC Admin 74"}
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Standard section 288 challenge with four clearly addressed grounds; judges metadata unreliable."
+      }
+    }
+  }
+]

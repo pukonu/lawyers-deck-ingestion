@@ -1,0 +1,697 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/pat/2004/302.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists Stuart-Smith and Eady but the judgment is by Laddie J; IP threats strike-out and Part 20 joinder analysis are otherwise clear.",
+    "enrichment": {
+      "short_title": "Reckitt IP threats counterclaim: strike-out refused",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks",
+        "Civil procedure",
+        "Case management"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": [
+            "section 21"
+          ]
+        },
+        {
+          "title": "Patents Designs & Trade Marks Act 1883",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Reckitt Benkiser sued Home Pairfum and others for trade mark, design and passing-off infringement over competing air freshener products.",
+        "The defendants counterclaimed for unjustified threats and sought to join Reckitt's solicitors Laytons as Part 20 defendants.",
+        "Reckitt applied to strike out the threats counterclaim under CPR 3.4 and 3.1, arguing the legislation conflicted with pre-action settlement policy.",
+        "Strong pre-litigation threat letters were sent about seven weeks before proceedings; damages and injunctive relief were likely to be modest."
+      ],
+      "procedural_posture": "Interlocutory applications on a trade mark and design infringement claim: strike out of threats counterclaim and joinder of solicitors.",
+      "outcome": "Reckitt's strike-out application dismissed; defendants' application to join Laytons as Part 20 defendants refused.",
+      "ratio": "Even where a statutory threats counterclaim appears low value and largely overlaps main issues, it is not an abuse of process warranting strike out under the CPR; however, a Part 20 joinder pursued mainly to discomfort the claimant's solicitors may properly be refused as disproportionate case management.",
+      "legal_issues": [
+        "Whether CPR powers can strike out a valid statutory threats claim",
+        "Tension between IP threats legislation and pre-action protocols",
+        "Whether solicitors who sent threatening letters should be joined",
+        "When joinder of a client's lawyers is mischievous or illegitimate"
+      ],
+      "catchwords": [
+        "unjustified threats",
+        "trade mark infringement",
+        "strike out",
+        "Part 20 joinder",
+        "CPR overriding objective",
+        "solicitors' liability"
+      ],
+      "index_terms": [
+        "air fresheners",
+        "registered designs",
+        "Laytons",
+        "Wallis v Valentine",
+        "Broxton v McClelland",
+        "Community trade marks",
+        "passing off"
+      ],
+      "linked_authorities": [
+        "Wallis v Valentine [2002] EWCA Civ 1034",
+        "Broxton v McClelland [1995] EMLR 485",
+        "Unilever plc v Proctor & Gamble Co [2000] FSR 344",
+        "Cavity Trays Ltd v RMC Panel Products Ltd [1996] RPC 361"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Applications and outcome are explicit, but corrupted judges metadata warrants human review."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/202.json",
+    "status": "done",
+    "notes": "Full pre-action disclosure judgment; jurisdictional thresholds and discretion analysis under Black v Sumitomo are clear.",
+    "enrichment": {
+      "short_title": "Steamship Mutual pre-action disclosure application refused",
+      "area_of_law": [
+        "Civil procedure",
+        "Pre-action disclosure",
+        "Professional negligence",
+        "Investment management"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 33(2)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Act 1997",
+          "provisions": [
+            "section 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Steamship Mutual trustees claimed BAM under-performed a US$210m portfolio by about $32m against benchmark in 2000-2001.",
+        "After termination of BAM's mandate, the applicants sought internal risk-control and tracking-error documents before deciding whether to sue.",
+        "BAM had already provided substantial voluntary disclosure and argued the Professional Negligence Pre-Action Protocol made the application premature.",
+        "The application alone cost the parties about £150,000."
+      ],
+      "procedural_posture": "Application for pre-action disclosure under section 33(2) of the Supreme Court Act 1981 and CPR Part 31.16.",
+      "outcome": "Application refused; although some jurisdictional thresholds were met, discretion was exercised against ordering pre-proceedings disclosure.",
+      "ratio": "Where broad negligence issues are identifiable, sufficient voluntary disclosure has been given, no Letter of Claim has been served under the protocol, and further documents would not materially assist the decision to litigate, the court should refuse CPR 31.16 disclosure as disproportionate satellite litigation.",
+      "legal_issues": [
+        "Jurisdictional thresholds under CPR 31.16(3)(c) and (d)",
+        "Interaction with the Professional Negligence Pre-Action Protocol",
+        "Whether applicants needed disclosure to decide whether to sue",
+        "Exercise of discretion after Black v Sumitomo"
+      ],
+      "catchwords": [
+        "pre-action disclosure",
+        "CPR 31.16",
+        "fund manager negligence",
+        "tracking error",
+        "fishing expedition",
+        "satellite litigation"
+      ],
+      "index_terms": [
+        "Baring Asset Management",
+        "Investment Management Agreement",
+        "P&I club reinsurance",
+        "TMT underperformance",
+        "Letter of Claim",
+        "Black v Sumitomo"
+      ],
+      "linked_authorities": [
+        "Black v Sumitomo Corporation [2002] 1 WLR 1562",
+        "Bermuda International Securities Ltd v KPMG [2001] 1 Lloyd's Rep PN 392"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Outcome, legal tests, and reasoning on each document category are fully set out."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/519.json",
+    "status": "needs_review",
+    "notes": "Very long judgment summarised from key sections; judges metadata incorrectly lists Mustill and Nicholls rather than the trial judge.",
+    "enrichment": {
+      "short_title": "Barnet FC Underhill sale: rectification claim fails",
+      "area_of_law": [
+        "Equity",
+        "Contract law",
+        "Local government",
+        "Property law",
+        "Rectification"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government Act 1972",
+          "provisions": [
+            "section 123",
+            "section 128"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Barnet sold the Underhill football ground freehold to Barnet Football Club Holdings for £10,000 with restrictive covenants and an overage deed.",
+        "The overage deed allowed further consideration if covenants were varied within a ten-year cut-off period; Barnet claimed it mistakenly believed there was no time limit.",
+        "Barnet sought rectification of the transfer and supplemental deed on unilateral mistake and sharp-practice grounds.",
+        "Barnet also argued the disposal required consent under section 123(2) but Holdings relied on section 128(2) validation."
+      ],
+      "procedural_posture": "Claim for rectification of sale documents and related challenge to a local authority land disposal.",
+      "outcome": "Claim dismissed; rectification refused and the section 123 challenge was barred by section 128(2).",
+      "ratio": "Where the council's authorised decision document expressly contemplated a ten-year overage cut-off, rectification cannot re-write the bargain on unilateral mistake; a disponee claiming under the authority is protected by section 128(2) even when the council itself seeks to recover the land.",
+      "legal_issues": [
+        "Unilateral mistake and unconscionable conduct in rectification",
+        "Construction of overage and restrictive covenant arrangements",
+        "Whether disposal consent was required under section 123(2)",
+        "Protection of disponees under section 128(2)"
+      ],
+      "catchwords": [
+        "rectification",
+        "overage deed",
+        "restrictive covenant",
+        "football ground sale",
+        "local authority land disposal",
+        "unilateral mistake"
+      ],
+      "index_terms": [
+        "Underhill Stadium",
+        "Barnet Football Club",
+        "Tony Kleanthous",
+        "Green Belt",
+        "Thomas Bates principle",
+        "delegated powers report"
+      ],
+      "linked_authorities": [
+        "Thomas Bates & Son Ltd v Wyndham's (Lingerie) Ltd [1990] 1 WLR 1017",
+        "R v London Borough of Lambeth ex parte Sharp [1997] COD 323",
+        "Jocelyne v Nissan [1970] 1 WLR 619"
+      ],
+      "confidence": {
+        "score": 0.82,
+        "level": "medium",
+        "notes": "Core outcome and rectification reasoning are clear, but the file is very long and judge metadata is unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/83.json",
+    "status": "done",
+    "notes": "Full Court of Appeal TUPE judgment on transfer of part of an undertaking in a re-tendered local authority contract.",
+    "enrichment": {
+      "short_title": "TUPE transfer of part of building maintenance undertaking",
+      "area_of_law": [
+        "Employment law",
+        "Transfer of undertakings",
+        "Public procurement",
+        "EU law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Transfer of Undertakings (Protection of Employment) Regulations 1981",
+          "provisions": [
+            "regulation 2",
+            "regulation 3",
+            "regulation 5"
+          ]
+        },
+        {
+          "title": "Council Directive 77/187/EEC",
+          "provisions": [
+            "Article 1",
+            "Article 3"
+          ]
+        },
+        {
+          "title": "Council Directive 98/50/EEC",
+          "provisions": [
+            "Article 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Botes held Southwark's borough-wide Major Voids building maintenance contract from 1996 to April 1999.",
+        "On re-tendering the borough was split into Area 1 and Area 2; Fairhurst won Area 2 but refused to take on Botes employees.",
+        "Nine employees claimed unfair dismissal; the employment tribunal held there was a TUPE transfer of part of the undertaking to Area 2.",
+        "Mr Salih was on sick leave and the tribunals disagreed whether he was employed in the transferred part immediately before the transfer."
+      ],
+      "procedural_posture": "Appeal and cross-appeal from the Employment Appeal Tribunal on TUPE applicability and employee inclusion.",
+      "outcome": "Fairhurst's appeal dismissed; Salih cross-appeal dismissed with remittal on whether he was employed in Area 2 immediately before transfer.",
+      "ratio": "A part transferred under TUPE need not have existed as a discrete economic entity before partition if it can be carved out of a larger stable entity and retains its identity after transfer; sickness absence does not of itself exclude an employee from the transferred part.",
+      "legal_issues": [
+        "Whether Area 2 existed as an economic entity before transfer",
+        "Meaning of transfer of part of an undertaking under regulation 3",
+        "Whether an employee on sick leave was employed in the transferred part",
+        "Application of Allen v ACC and Hassard v McGrath"
+      ],
+      "catchwords": [
+        "TUPE",
+        "part transfer",
+        "contracting out",
+        "economic entity",
+        "local authority services",
+        "unfair dismissal"
+      ],
+      "index_terms": [
+        "Southwark building maintenance",
+        "Major Voids Contract",
+        "Fairhurst Ward Abbotts",
+        "Botes Building Ltd",
+        "second generation tender",
+        "sick leave transfer"
+      ],
+      "linked_authorities": [
+        "Allen v Amalgamated Construction Co Ltd [2000] IRLR 119",
+        "Suzen v Zehnacker Gebaudereinigung [1997] IRLR 255",
+        "Hassard v McGrath [1996] NILR 586",
+        "RCO Support Services v UNISON [2002] IRLR 401",
+        "ADI (UK) Ltd v Firm Security Group Ltd [2001] EWCA Civ 971"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Novel TUPE point and appeal outcomes are comprehensively reasoned in the full judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/243.json",
+    "status": "needs_review",
+    "notes": "Corrupted judges metadata includes historical Law Lords and former Master of the Rolls; lengthy ex-gratia compensation permission judgment otherwise readable.",
+    "enrichment": {
+      "short_title": "Wrongful conviction compensation permission applications refused",
+      "area_of_law": [
+        "Administrative law",
+        "Judicial review",
+        "Criminal justice",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 133(1)"
+          ]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 2"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Three claimants sought permission to review the Home Secretary's refusal of ex-gratia compensation after their convictions were quashed.",
+        "Compensation falls under Mr Hurd's 1985 scheme: serious default by police or public authorities, or complete exoneration in exceptional circumstances.",
+        "Issues included whether a judge is a public authority under limb 1 and whether judicial error can be exceptional under limb 2.",
+        "Claims concerned export offence misdirection, Polly Peck handling misdirection, and Asil Nadir bail ruling error."
+      ],
+      "procedural_posture": "Renewed applications for permission to apply for judicial review of ex-gratia compensation refusals, heard together with oral permission for the third claimant.",
+      "outcome": "All three permission applications failed; challenges on public authority, sentence length, judicial misconduct, and prosecuting counsel conduct held unarguable.",
+      "ratio": "A judge is not a public authority for limb 1 of the 1985 scheme; mere judicial misdirection or sentencing error quashing a conviction does not ordinarily constitute exceptional circumstances under limb 2, and the Secretary of State's evaluative refusals were not irrational.",
+      "legal_issues": [
+        "Whether a judge is a public authority under the 1985 ex-gratia scheme",
+        "Whether judicial error can amount to exceptional circumstances",
+        "Whether sentence length can itself be exceptional",
+        "Rationality of refusal where Court of Appeal quashed convictions"
+      ],
+      "catchwords": [
+        "ex-gratia compensation",
+        "wrongful conviction",
+        "judicial review",
+        "serious default",
+        "complete exoneration",
+        "judicial misconduct"
+      ],
+      "index_terms": [
+        "Daghir export capacitors",
+        "Elizabeth Forsyth Polly Peck",
+        "Peter Dimond Asil Nadir",
+        "Garner v SSHD",
+        "Tawfick v SSHD",
+        "Home Office Claims Assessment Team"
+      ],
+      "linked_authorities": [
+        "R v SSHD ex parte Garner [1999] 11 Admin LR 607",
+        "R (Tawfick) v SSHD [2000] Admin Ct",
+        "R v SSHD ex parte Bateman and Howse (1993)",
+        "R (Christofides) v SSHD [2002] EWHC Admin 1083"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Legal conclusions on each claimant are explicit, though judge metadata corruption and length warrant review."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/222.json",
+    "status": "needs_review",
+    "notes": "Judges array is empty in source metadata; EAT jurisdiction and contributory fault analysis are otherwise clear.",
+    "enrichment": {
+      "short_title": "Foster unfair dismissal: EAT could not cut contributory fault",
+      "area_of_law": [
+        "Employment law",
+        "Unfair dismissal",
+        "Employment appeal procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mrs Foster, an administrative assistant in Somerset County Council's fire brigade, was dismissed after a protracted breakdown in workplace relations.",
+        "The employment tribunal found substantive fairness but held procedural defects would not have mattered and assessed 100% contributory fault.",
+        "The EAT held dismissal procedurally unfair and reduced contributory fault from 100% to 90%.",
+        "Both sides appealed: the council on EAT jurisdiction over contributory fault and Mrs Foster on remittal."
+      ],
+      "procedural_posture": "Appeal and cross-appeal from the Employment Appeal Tribunal on unfair dismissal and contributory fault.",
+      "outcome": "Council's appeal allowed; tribunal decision restored; cross-appeal dismissed with costs of appeal limited to £2,500.",
+      "ratio": "A finding of contributory fault is a finding of fact which the EAT may interfere with only if perverse; finding procedural unfairness does not permit the EAT to substitute its own causation finding where the tribunal held the employee would still have been dismissed.",
+      "legal_issues": [
+        "Scope of appeal permitted by EAT rule 3.10",
+        "Whether EAT had jurisdiction to alter contributory fault not appealed",
+        "Distinction between procedural unfairness and contributory conduct",
+        "Whether remittal for rehearing was required"
+      ],
+      "catchwords": [
+        "unfair dismissal",
+        "contributory fault",
+        "EAT jurisdiction",
+        "procedural fairness",
+        "Polkey reasoning",
+        "findings of fact"
+      ],
+      "index_terms": [
+        "Somerset County Council",
+        "fire brigade administration",
+        "garden leave",
+        "repudiatory breach acceptance",
+        "Hollier v Plysu",
+        "Coxon v Rank Xerox"
+      ],
+      "linked_authorities": [
+        "Hollier v Plysu Ltd [1983] IRLR 260",
+        "Coxon v Rank Xerox UK Ltd (EAT 1116/99)"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Appeal outcome and ratio are clear despite missing judge metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/245.json",
+    "status": "done",
+    "notes": "Full leave judgment refusing appeal against conviction and sentence in organised revenge conspiracy case.",
+    "enrichment": {
+      "short_title": "Lydiate conspiracy conviction and sentence appeals refused",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Sentencing",
+        "Conspiracy"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime (Sentences) Act 1997",
+          "provisions": [
+            "section 28"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 66",
+            "section 78"
+          ]
+        },
+        {
+          "title": "Criminal Justice and Public Order Act 1994",
+          "provisions": [
+            "section 34"
+          ]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 23"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": [
+            "section 2(2)(b)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "After a three-month trial Lydiate was convicted by 10-2 majorities of conspiracy to murder and to kidnap and falsely imprison following a Salford shooting.",
+        "The prosecution case was a revenge campaign to locate and kill those believed responsible, involving torture of Foster, Kent and Shenton at Hickey Farm.",
+        "Foster identified Lydiate at the farm without an identification parade; phone evidence linked Lydiate to Shawcross and co-accused.",
+        "Lydiate received life with a 15-year tariff notionally and concurrent 22-year sentences on the other counts."
+      ],
+      "procedural_posture": "Renewed application for leave to appeal against conviction and sentence after refusal by the single judge.",
+      "outcome": "Leave refused on both conviction and sentence; fresh evidence from Rowles not admitted under section 23.",
+      "ratio": "Identification evidence admissible as pure recognition without a parade where fairness is not undermined; a sentencer may take account of brutal means used to execute conspiracies without separate substantive counts; 22 years was not manifestly excessive for the totality.",
+      "legal_issues": [
+        "Admissibility of identification evidence without Code D parade after Forbes",
+        "Section 34 adverse inference from silence about Shawcross tip",
+        "Whether inadmissible hearsay about Lydiate required jury discharge",
+        "Sentencing for violence not charged as separate counts"
+      ],
+      "catchwords": [
+        "conspiracy to murder",
+        "identification evidence",
+        "Code D parade",
+        "section 78 PACE",
+        "section 34 inference",
+        "totality of sentence"
+      ],
+      "index_terms": [
+        "Hickey Farm",
+        "Salford revenge shooting",
+        "Shawcross",
+        "Campanile Hotel",
+        "Forbes identification",
+        "Rowles fresh evidence"
+      ],
+      "linked_authorities": [
+        "R v Forbes [2001] 1 CAR 430",
+        "R v Popat [1998] 2 CAR 208",
+        "R v Webber [2004] UKHL",
+        "R v Nottingham Crown Court ex parte DPP [1996] 1 CAR 283",
+        "R v Eubank [2002] 1 CAR 11"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Grounds of appeal and sentencing reasoning are addressed comprehensively."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/244.json",
+    "status": "done",
+    "notes": "Liability-only trial judgment on ISP contract dispute; May 1999 meeting, misrepresentation and exclusivity conclusions are clear.",
+    "enrichment": {
+      "short_title": "I-Way screaming.net ISP contract liability judgment",
+      "area_of_law": [
+        "Commercial contract",
+        "Misrepresentation",
+        "Telecommunications",
+        "Internet services"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Misrepresentation Act 1967",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "I-Way agreed to provide internet access platform services to Localtel's screaming.net free off-peak ISP venture from April 1999.",
+        "Localtel projected user uptake and a 20:40:40 call profile; actual daytime use was about 13%, straining I-Way's economics.",
+        "At a 14 May 1999 meeting the parties agreed I-Way would retain 30% rather than 20% of telco rebates; Localtel later claimed only a temporary accrual arrangement.",
+        "About 20 months later Localtel diverted customers to its own server and invoiced over £700,000 for the withheld 10% share."
+      ],
+      "procedural_posture": "Liability trial on misrepresentation, contractual variation, repudiatory breach and exclusivity in an ISP supply agreement.",
+      "outcome": "I-Way succeeded: 70/30 rebate variation upheld as compromise, no repudiatory breach, and customer diversion breached implied exclusivity.",
+      "ratio": "Contemporary correspondence and conduct showed a permanent 70/30 rebate variation compromising misrepresentation claims; where users registering via Localtel CDs were contractually tied to I-Way's server, deliberate migration to a rival platform breached the agreement.",
+      "legal_issues": [
+        "Whether pre-contract projections were actionable misrepresentations",
+        "Effect of the 14 May 1999 rebate variation and alleged forged 18 May letter",
+        "Whether refusal to pay accrued 10% was repudiatory",
+        "Implied term preventing diversion of registered users to another server"
+      ],
+      "catchwords": [
+        "internet service provider",
+        "telco rebate",
+        "contract variation",
+        "misrepresentation",
+        "customer migration",
+        "free ISP model"
+      ],
+      "index_terms": [
+        "screaming.net",
+        "Localtel",
+        "Colt Telecommunications",
+        "Freeserve",
+        "BT wholesale minutes",
+        "Ocean Frost witness credit"
+      ],
+      "linked_authorities": [
+        "Esso Petroleum Co Ltd v Mardon [1976] QB 801",
+        "The Ocean Frost [1985] 1 Lloyd's Rep 1",
+        "Philips Electronique Grand Public SA v British Sky Broadcasting [1995] EMLR 472",
+        "Equitable Life Assurance Society v Hyman [2002] AC 408"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Four liability issues and summary conclusions are explicitly resolved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/245.json",
+    "status": "done",
+    "notes": "Arbitration Act section 67 and 69 applications; sole arbitrator jurisdiction and title-to-sue analysis are detailed and conclusive.",
+    "enrichment": {
+      "short_title": "Zestafoni sole arbitrator jurisdiction upheld",
+      "area_of_law": [
+        "Arbitration",
+        "International trade",
+        "Commercial contract",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 67",
+            "section 69",
+            "section 73"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A 1997 ferroalloy supply agreement between Faronly and Zestafoni contained a three-arbitrator London arbitration clause.",
+        "Ronly and Zestafoni Plant ad hoc agreed to appoint Ian Kinnell QC as sole arbitrator over debts exceeding US$17m.",
+        "Zestafoni Plant later challenged jurisdiction, title to sue, and alleged Georgian law invalidity of the ad hoc agreement.",
+        "The arbitrator held he had jurisdiction and that Ronly could sue in its own name under clause 19."
+      ],
+      "procedural_posture": "Section 67 application to set aside an interim jurisdiction award and section 69 application for leave to appeal on title to sue.",
+      "outcome": "Section 67 application dismissed; leave to appeal under section 69 refused.",
+      "ratio": "Parties may enter a binding ad hoc sole-arbitrator agreement outside a multi-party clause even without authority to bind co-contractors; section 73 bars late Georgian illegality objections not raised before the tribunal; clause 19 entitles Ronly alone to sue for sums due to Faronly.",
+      "legal_issues": [
+        "Whether Ronly and Zestafoni Plant could bypass the three-arbitrator clause",
+        "Scope of ad hoc sole arbitrator jurisdiction",
+        "Section 73 waiver of Georgian public policy challenge",
+        "Construction of payment and title-to-sue clause 19"
+      ],
+      "catchwords": [
+        "sole arbitrator",
+        "arbitration jurisdiction",
+        "ad hoc agreement",
+        "section 67 challenge",
+        "joint and several contract",
+        "Georgian law"
+      ],
+      "index_terms": [
+        "ferroalloy plant Georgia",
+        "Ronly Holdings",
+        "Ian Kinnell QC",
+        "Fapet International",
+        "Redwater Overseas",
+        "Regazzoni v Sethia"
+      ],
+      "linked_authorities": [
+        "Regazzoni v K C Sethia (1944) Ltd [1958] AC 301",
+        "Entores Ltd v Miles Far East Corporation [1955] 2 QB 327",
+        "Brinkibon Ltd v Stahag Stahl [1982] 1 Lloyd's Rep 217",
+        "Rustal Trading Ltd v Gill & Duffus SA [2000] 1 Lloyd's Rep 14",
+        "Athletic Union of Constantinople v National Basketball Association [2002] 1 Lloyd's Rep 305"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "All three jurisdiction grounds and the title-to-sue point are resolved with detailed reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/costs/2004/9009.json",
+    "status": "needs_review",
+    "notes": "Costs-only detailed assessment ruling on allocation questionnaire estimates; merits trial background present but focus is costs procedure.",
+    "enrichment": {
+      "short_title": "Mesothelioma costs estimate not a costs cap",
+      "area_of_law": [
+        "Costs",
+        "Civil procedure",
+        "Personal injury",
+        "Professional conduct"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law Reform (Miscellaneous Provisions) Act 1934",
+          "provisions": []
+        },
+        {
+          "title": "Fatal Accidents Act 1976",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Leslie Burns died of mesothelioma after asbestos exposure with two employers; quantum was agreed at £175,000 at trial.",
+        "Elias J apportioned liability 7/8 to the first defendant and 1/8 to the second defendant.",
+        "Claimants' solicitors estimated £35,000 base costs at allocation but the bill exceeded £71,000 excluding success fee.",
+        "Defendants argued the estimate capped recoverable costs and that failure to serve the estimate on clients breached the indemnity principle."
+      ],
+      "procedural_posture": "Detailed assessment preliminary issue on whether CPR costs estimates limit recoverable costs.",
+      "outcome": "Defendants' argument failed following Leigh v Michelin; costs estimate does not cap assessment and the remainder of the assessment was adjourned.",
+      "ratio": "A costs estimate under CPR PD 43 para 6.4 is not a costs cap; it may be taken into account only where there is a substantial unexplained divergence, reliance by the paying party, or different case management directions would likely have been made.",
+      "legal_issues": [
+        "Whether allocation questionnaire estimates limit recoverable costs",
+        "Effect of failure to serve estimates on clients",
+        "Application of Leigh v Michelin Tyre Plc",
+        "Whether Fairchild litigation changes justified doubling costs"
+      ],
+      "catchwords": [
+        "costs estimate",
+        "detailed assessment",
+        "indemnity principle",
+        "mesothelioma",
+        "CPR 43 PD 6.4",
+        "proportionality"
+      ],
+      "index_terms": [
+        "Irwin Mitchell",
+        "Novartis Grimsby",
+        "Fairchild v Glenhaven",
+        "Leigh v Michelin",
+        "Wong v Vizards",
+        "asbestos exposure"
+      ],
+      "linked_authorities": [
+        "Leigh v Michelin Tyre Plc [2003] EWCA Civ 1766",
+        "Wong v Vizards [1997] Costs LR 2/46",
+        "Griffiths v Solutia UK Ltd [2002] PIQR P176",
+        "Lownds v Home Office [2002] EWCA Civ 365"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Costs ruling is clear, but the file is a costs-assessment fragment rather than a full merits judgment."
+      }
+    }
+  }
+]

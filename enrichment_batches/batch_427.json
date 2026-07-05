@@ -1,0 +1,649 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/112.json",
+    "status": "done",
+    "notes": "Lord Nicholls' detailed Schedule A1 CAC jurisdiction judgment; quashing of ballot re-run order is clear.",
+    "enrichment": {
+      "short_title": "Ultraframe v GMB: CAC lacked power to order union recognition ballot re-run",
+      "area_of_law": [
+        "Employment law",
+        "Trade union law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Union and Labour Relations (Consolidation) Act 1992",
+          "provisions": [
+            "Schedule A1",
+            "paragraph 23",
+            "paragraph 25",
+            "paragraph 29"
+          ]
+        },
+        {
+          "title": "Employment Relations Act 1999",
+          "provisions": []
+        },
+        {
+          "title": "Employment Relations Act 2004",
+          "provisions": [
+            "section 10",
+            "section 15"
+          ]
+        }
+      ],
+      "key_facts": [
+        "GMB and URTU sought statutory recognition at Ultraframe after a postal ballot in April 2004 produced a majority in favour but fell four votes short of the required 40% of the bargaining unit.",
+        "Some employees complained they had not received ballot papers; the CAC panel ordered a re-run after finding five workers had not had a fair opportunity to vote.",
+        "Ultraframe challenged the CAC decision by judicial review, arguing the CAC had no jurisdiction once the qualified independent person had reported the result.",
+        "Popularis Limited conducted the all-postal ballot; union emails to the QIP about missing papers were not received and replacement papers were not sent in time for some voters."
+      ],
+      "procedural_posture": "Judicial review of a Central Arbitration Committee determination ordering a re-run of a trade union recognition ballot under Schedule A1.",
+      "outcome": "Claim succeeded; the CAC decision was quashed for want of jurisdiction and a declaration of non-recognition under paragraph 29 was required.",
+      "ratio": "Paragraph 29 of Schedule A1 mandatorily requires the CAC to issue a declaration once informed of the ballot result; the ballot must be conducted by the QIP under paragraph 25(2), and no general supervisory jurisdiction to investigate irregularities or order a re-run can be implied from paragraph 23(2) or paragraph 171.",
+      "legal_issues": [
+        "Whether the CAC had jurisdiction to order a re-run after the ballot closed and the QIP reported the result",
+        "Whether paragraph 29 permits delay pending investigation of alleged ballot irregularities",
+        "Whether the CAC's reasoning by reference to paragraph 23(2) was a permissible construction of Schedule A1",
+        "Whether natural justice was breached at the CAC hearing"
+      ],
+      "catchwords": [
+        "trade union recognition",
+        "Central Arbitration Committee",
+        "Schedule A1",
+        "ballot re-run",
+        "qualified independent person",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Ultraframe",
+        "GMB",
+        "URTU",
+        "40 per cent threshold",
+        "postal ballot",
+        "paragraph 29",
+        "Popularis",
+        "Kwik-Fit"
+      ],
+      "linked_authorities": [
+        "R (Kwik-Fit (GB) Ltd) v Central Arbitration Committee [2002] EWCA Civ 512",
+        "R (British Broadcasting Corporation) v Central Arbitration Committee [2003] EWHC 1375 (Admin)",
+        "Knight v Nicholls [2004] EWCA Civ 68"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Statutory construction, facts and final quashing order are comprehensively reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/1218.json",
+    "status": "done",
+    "notes": "Short case stated appeal on Code D and section 78 PACE; remittal for proper Forbes analysis ordered.",
+    "enrichment": {
+      "short_title": "DPP v Sweeney: remittal where justices misapplied Code D and section 78",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Criminal procedure",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78",
+            "Code of Practice D paragraph 3.12(ii)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Michael Joseph Sweeney was accused of criminal damage and drink-driving after an incident at a kebab shop where witness Javed Iqbal identified the eldest of three men.",
+        "Iqbal said he knew the man from before and would recognise him, so an identification parade should have been held under Code D paragraph 3.12(ii).",
+        "The DPP accepted the Code was breached but appealed because the justices excluded identification evidence under section 78 without adequate reasoning.",
+        "The defendant admitted presence at the scene and that his scruffy beard distinguished him from the other two clean-shaven men."
+      ],
+      "procedural_posture": "Appeal by way of case stated on behalf of the Director of Public Prosecutions against magistrates' exclusion of identification evidence.",
+      "outcome": "Appeal allowed; the matter was remitted to a fresh bench of justices for reconsideration from the outset.",
+      "ratio": "Where Code D paragraph 3.12(ii) mandatorily requires an identification procedure, justices applying section 78 must exclude evidence only if satisfied injustice would result from admitting it; they should not exclude merely because of the breach and must consider countervailing factors including distinguishing appearance and partial identification.",
+      "legal_issues": [
+        "Whether Code D paragraph 3.12(ii) required an identification parade",
+        "Whether the justices properly exercised discretion under section 78 of PACE",
+        "Whether the case stated enabled scrutiny of the justices' reasoning",
+        "Relevance of R v Forbes to exclusion of identification evidence after Code breach"
+      ],
+      "catchwords": [
+        "identification parade",
+        "Code D",
+        "section 78 PACE",
+        "case stated",
+        "identification evidence",
+        "R v Forbes"
+      ],
+      "index_terms": [
+        "Michael Joseph Sweeney",
+        "Javed Iqbal",
+        "kebab shop",
+        "black line rule",
+        "magistrates",
+        "remittal"
+      ],
+      "linked_authorities": [
+        "R v Forbes [2001] 1 Cr App R 430"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Central legal issue and remittal order are clear though underlying facts are largely in the annexed case stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/78.json",
+    "status": "done",
+    "notes": "Major Court of Appeal restitution and tax limitation judgment following Kleinwort Benson and Woolwich.",
+    "enrichment": {
+      "short_title": "IRC v Deutsche Morgan Grenfell: scope of mistake-of-law restitution for ACT",
+      "area_of_law": [
+        "Restitution",
+        "Tax law",
+        "Limitation",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Taxes Management Act 1970",
+          "provisions": [
+            "section 33"
+          ]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 32(1)(c)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Deutsche Morgan Grenfell and related companies paid advance corporation tax in the belief it was lawfully due before the House of Lords held similar arrangements unlawful in Hazell.",
+        "Following Kleinwort Benson, claimants sought restitution for payments made under a mistake of law as well as under the Woolwich principle.",
+        "The Revenue contended mistake-of-law restitution does not apply to tax overpayments where section 33 TMA provides a limited statutory remedy.",
+        "Claims concerned ACT payments in 1993, 1995 and 1996, raising limitation and pleading issues as well as the scope of the new cause of action."
+      ],
+      "procedural_posture": "Court of Appeal on scope of Kleinwort Benson restitution for tax payments, limitation periods and amendment of pleadings.",
+      "outcome": "Appeal allowed in part: the 1993 ACT payment claim succeeded on limitation; 1995 and 1996 payment claims were dismissed; leave to appeal to the House of Lords was granted on defined issues.",
+      "ratio": "The Kleinwort Benson mistake-of-law restitution principle does not extend to tax paid to the revenue where statute provides a dedicated recovery mechanism; Woolwich claims remain subject to ordinary limitation, and payments added by amendment more than six years after payment may be statute-barred.",
+      "legal_issues": [
+        "Whether Kleinwort Benson applies to advance corporation tax paid under a supposed tax liability",
+        "Relationship between mistake-of-law restitution and section 33 TMA",
+        "Whether Woolwich restitution is available alongside or instead of mistake-of-law claims",
+        "Limitation under section 32(1)(c) and effect of late amendments to pleadings"
+      ],
+      "catchwords": [
+        "mistake of law",
+        "restitution",
+        "advance corporation tax",
+        "Kleinwort Benson",
+        "Woolwich",
+        "limitation"
+      ],
+      "index_terms": [
+        "Deutsche Morgan Grenfell",
+        "Hazell v Hammersmith and Fulham",
+        "ACT",
+        "section 33 TMA",
+        "cause of action",
+        "six-year limitation"
+      ],
+      "linked_authorities": [
+        "Kleinwort Benson Ltd v Lincoln City Council [1999] 2 AC 349",
+        "Woolwich Equitable Building Society v IRC [1993] AC 70",
+        "Hazell v Hammersmith and Fulham LBC [1992] 2 AC 1"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complex multi-judge judgment but principal holdings on tax restitution scope and partial appeal outcome are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/147.json",
+    "status": "done",
+    "notes": "Second appeal on Consumer Credit Act section 106 account treatment after unenforceable pawn agreements.",
+    "enrichment": {
+      "short_title": "Wilson v pawnbroker: section 106 windfall on unenforceable pawn renewals",
+      "area_of_law": [
+        "Consumer credit",
+        "Contract law",
+        "Restitution",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Consumer Credit Act 1974",
+          "provisions": [
+            "section 106"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Wilson entered 67 pawnbroking agreements between 1995 and 1999, successively re-pledging 13 groups of goods and paying capital and exorbitant interest.",
+        "The judge held successive agreements were novations, many were unenforceable for unfair dealing and missing prescribed terms, and ordered return of goods and an account.",
+        "The pawnbroker appealed only against the account treatment crediting loan principal on each unenforceable renewal rather than treating renewals as set-offs.",
+        "The defendant traded under an unlicensed name and charged a full month's interest for periods as short as one day."
+      ],
+      "procedural_posture": "Second appeal with permission on whether crediting principal on each unenforceable novated agreement was wrong in law.",
+      "outcome": "Appeal dismissed; the judge was justified, and probably obliged, to adopt the claimant's account under section 106.",
+      "ratio": "Where pawn agreements are held unenforceable under the Consumer Credit Act 1974, section 106 requires security to be treated as never having effect and amounts received on realisation of security—including repayments by the debtor—to be repaid, even if that produces a windfall reversing the creditor's novation scheme.",
+      "legal_issues": [
+        "Construction of 'realisation' in section 106 to include debtor repayments",
+        "Whether successive unenforceable agreements each attract separate section 106 relief",
+        "Whether crediting principal at each renewal unjustly enriches the debtor",
+        "Effect of Wilson v First County Trust on draconic unenforceability sanctions"
+      ],
+      "catchwords": [
+        "pawnbroker",
+        "Consumer Credit Act",
+        "section 106",
+        "unenforceable agreement",
+        "novation",
+        "unjust enrichment"
+      ],
+      "index_terms": [
+        "Mrs Wilson",
+        "prescribed terms",
+        "exorbitant interest",
+        "pawn renewals",
+        "return of goods",
+        "account"
+      ],
+      "linked_authorities": [
+        "Wilson v First County Trust Ltd (No 2) [2003] UKHL 40",
+        "Wilson v First County Trust Ltd [2001] EWCA Civ 633"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Limited issue on appeal and Sedley LJ's section 106 analysis are clearly expressed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2005/244.json",
+    "status": "done",
+    "notes": "Commercial Court arbitration challenge on hold cleanliness warranties and waiver under NYPE charter.",
+    "enrichment": {
+      "short_title": "Bottiglieri v Cosco: off-hire and damages lost after first-loadport waiver",
+      "area_of_law": [
+        "Shipping law",
+        "Arbitration",
+        "Commercial law",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 68",
+            "section 69"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Charterers hired the bulk carrier Bunga Saga Lima under an amended NYPE time charter for iron ore and then rapeseed cargoes.",
+        "On delivery at Sepetiba the holds were dirty with coal residues; iron ore loaded without cleaning but rapeseed at Rostock required grain-clean holds, causing delay and expense.",
+        "Charterers did not place the vessel off-hire at the first loadport despite knowing the holds failed grain-clean standards.",
+        "Arbitrators rejected charterers' off-hire and damages claims because clause 13 fixture note remedies applied only at the first loadport and charterers had waived breach by accepting delivery."
+      ],
+      "procedural_posture": "Commercial Court applications under sections 68 and 69 of the Arbitration Act 1996 to challenge an arbitration award on hold cleanliness and off-hire.",
+      "outcome": "All challenges refused; permission to appeal under section 69 was denied on both off-hire and damages issues.",
+      "ratio": "Clause 13 of the fixture note limits off-hire for unclean holds to the first loadport; accepting delivery without insisting on grain-clean holds at Sepetiba waived the right to complain or claim damages at a later loadport, and the tribunal did not decide damages on unargued grounds.",
+      "legal_issues": [
+        "Whether clause 13 prevailed over clause 15 off-hire at the second loadport",
+        "Whether charterers waived grain-clean warranty claims by unqualified acceptance at Sepetiba",
+        "Whether the tribunal committed serious irregularity under section 68",
+        "Whether section 69 leave should be granted on construction of cleaning clauses"
+      ],
+      "catchwords": [
+        "time charter",
+        "hold cleanliness",
+        "grain clean",
+        "off-hire",
+        "waiver",
+        "arbitration appeal"
+      ],
+      "index_terms": [
+        "Bunga Saga Lima",
+        "NYPE",
+        "clause 13 fixture note",
+        "clause 46 amendment 5",
+        "Rostock",
+        "Sepetiba",
+        "intermediate hold cleaning"
+      ],
+      "linked_authorities": [
+        "The Democritos [1975] 1 Lloyd's Rep 386",
+        "Avimex SA v Dewulf & Cie [1979] 2 Lloyd's Rep 57",
+        "Gbangola v Smith & Sherriff Ltd [1938] 3 All ER 730"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Award reasoning and court's refusal of sections 68 and 69 challenges are detailed and explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2005/101.json",
+    "status": "done",
+    "notes": "Christopher Clarke J's thorough construction of 'claims excess of' in hull reinsurance facility declarations.",
+    "enrichment": {
+      "short_title": "Allianz v Frankona: excess deducted from underlying settlement not cedant share",
+      "area_of_law": [
+        "Insurance law",
+        "Reinsurance",
+        "Commercial law",
+        "Contract law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Allianz reinsured its 45.238% line on the floating casino Treasure Bay with Frankona under a standing excess-of-loss hull facility.",
+        "The vessel was damaged by tropical storm Isidore in 2002; the underlying claim settled for about $17.86 million with a $5 million per-vessel excess in the declaration.",
+        "Frankona argued the $5 million excess applied to Allianz's share of the settlement; Allianz contended it applied to the gross settlement figure first.",
+        "Eighty prior declarations under the same facility had consistently applied the excess to underlying values."
+      ],
+      "procedural_posture": "Commercial Court trial of construction of excess wording in a hull and machinery excess-of-loss reinsurance declaration.",
+      "outcome": "Judgment for Allianz; the excess was to be deducted from the settlement figure before applying the reinsured percentage.",
+      "ratio": "In a follow-settlements excess-of-loss reinsurance clause, 'claims excess of' refers to the original insured's claim/settlement and the excess is deducted from the underlying loss; under an established facility the standard wording carries the same meaning unless the parties expressly agree otherwise.",
+      "legal_issues": [
+        "Whether 'claims excess of $5 million' refers to original or reinsured claims",
+        "Effect of 80 prior consistent declarations as factual matrix or agreed understanding",
+        "Significance of naming a single reassured rather than 'Lloyd's and/or companies'",
+        "Whether rectification or estoppel by convention was established"
+      ],
+      "catchwords": [
+        "excess of loss reinsurance",
+        "hull and machinery",
+        "follow settlements",
+        "exposed amounts",
+        "contract construction",
+        "reinsurance facility"
+      ],
+      "index_terms": [
+        "Treasure Bay",
+        "Frankona",
+        "Allianz",
+        "Alwen Hough Johnson",
+        "Isidore",
+        "Insce v SCOR"
+      ],
+      "linked_authorities": [
+        "Insce Co of Africa v SCOR [1985] 1 Lloyd's Rep 312",
+        "The Karen Oltmann [1976] 2 Lloyd's Rep 708",
+        "Compania Naviera General v Kerametal [1983] 1 Lloyd's Rep 570"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed findings on facility practice and clear judgment for claimants on construction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/76.json",
+    "status": "done",
+    "notes": "Court of Appeal restores strict liability under PUWER Regulation 5 for broken haybob spring.",
+    "enrichment": {
+      "short_title": "Ball v Street: strict PUWER maintenance duty after haybob spring failure",
+      "area_of_law": [
+        "Personal injury",
+        "Health and safety",
+        "Agriculture",
+        "Negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Provision and Use of Work Equipment Regulations 1998",
+          "provisions": [
+            "Regulation 3",
+            "Regulation 4",
+            "Regulation 5(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Ball hired neighbouring farmer Mr Street to mow and bale hay, implicitly including use of Street's haybob machine.",
+        "While adjusting tines with Street's permission on a Sunday, a coil spring tag end fractured and ricocheted into Ball's left eye, causing loss of sight.",
+        "Springs on haybob tines commonly fractured at the tag end during normal use or adjustment.",
+        "The county court judge held PUWER applied but found no breach because one broken spring left the machine broadly usable and the accident was unforeseeable."
+      ],
+      "procedural_posture": "Appeal and cross-appeal on application of PUWER 1998 to hired farm equipment and breach of Regulation 5(1).",
+      "outcome": "Claimant's appeal allowed on liability for 75% of damages; cross-appeal dismissed; quantum to be assessed.",
+      "ratio": "Regulation 5(1) imposes an absolute duty to maintain work equipment in efficient working order and good repair judged from health and safety not productivity; failure of an expendable spring causing injury is a breach regardless of overall machine function or unforeseeability of the precise accident.",
+      "legal_issues": [
+        "Whether PUWER applied where equipment was lent under a commercial service contract",
+        "Whether a single broken spring meant equipment was not in good repair",
+        "Whether Fytche limits Regulation 5 to identified risks",
+        "Apportionment between owner and self-employed user under Regulation 3"
+      ],
+      "catchwords": [
+        "work equipment",
+        "Regulation 5",
+        "haybob",
+        "strict liability",
+        "maintenance",
+        "farm machinery"
+      ],
+      "index_terms": [
+        "Galashiels Gas Co v Millar",
+        "Stark v Post Office",
+        "Fytche v Wincanton",
+        "coil spring",
+        "contributory negligence",
+        "Lugwardine"
+      ],
+      "linked_authorities": [
+        "Galashiels Gas Co Ltd v Millar [1949] AC 275",
+        "Stark v The Post Office [2000] ICR 1013",
+        "Fytche v Wincanton Logistics plc [2004] UKHL 31"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed appellate reasoning overturning judge on strict liability with clear 75% liability order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/93.json",
+    "status": "done",
+    "notes": "Majority on Land Compensation Act s9(6)(b) aircraft throughput; Ward LJ dissented.",
+    "enrichment": {
+      "short_title": "Brunt v Southampton Airport: s9(6)(b) requires greater aircraft throughput",
+      "area_of_law": [
+        "Land compensation",
+        "Planning law",
+        "Aviation law",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Land Compensation Act 1973",
+          "provisions": [
+            "section 9(3)",
+            "section 9(6)(b)",
+            "section 4(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Residents of Twyford near Winchester claimed compensation for aircraft noise depreciation after substantial taxiway and apron works at Southampton Airport in 1993-1995.",
+        "The works increased commercial passenger jet movements and reduced general aviation but overall annual aircraft movements were forecast and fell slightly.",
+        "BAA's main purpose was expanding commercial passenger traffic with larger aircraft such as Boeing 757s and 737s.",
+        "The Lands Tribunal president held s9(6)(b) required a numerical increase in total aircraft capacity, which the works did not achieve."
+      ],
+      "procedural_posture": "Appeal from the Lands Tribunal on preliminary construction of section 9(6)(b) apron alterations filter.",
+      "outcome": "Appeal dismissed by majority; Ward LJ would have allowed on purposive construction focusing on passenger aircraft.",
+      "ratio": "Section 9(6)(b) requires apron alterations whose purpose or main purpose is objectively to provide facilities for a greater number of aircraft overall by throughput capacity, not merely to accommodate additional aircraft types or substitute larger for smaller aircraft without increasing total movements.",
+      "legal_issues": [
+        "Meaning of 'a greater number of aircraft' in section 9(6)(b)",
+        "Whether increase in aircraft types satisfies the provision",
+        "Subjective versus objective construction of 'purpose'",
+        "Whether the natural construction produces capricious results inconsistent with the 1973 Act"
+      ],
+      "catchwords": [
+        "land compensation",
+        "aerodrome",
+        "section 9(6)(b)",
+        "aircraft noise",
+        "apron alterations",
+        "injurious affection"
+      ],
+      "index_terms": [
+        "Southampton Airport",
+        "Twyford",
+        "BAA",
+        "Boeing 757",
+        "aircraft movements",
+        "Plymouth City Airport"
+      ],
+      "linked_authorities": [
+        "R (Plymouth City Airport) v Secretary of State for Transport [2001] EWCA Civ 144",
+        "Powell & Rayner v United Kingdom (1990) 12 EHRR 355"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Statutory issue clearly resolved by majority though dissent highlights alternative construction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/189.json",
+    "status": "done",
+    "notes": "Procedural wasted costs appeal confirming trial judge jurisdiction over non-party costs orders.",
+    "enrichment": {
+      "short_title": "Gray v Going Places: trial judge alone may make wasted costs order",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "County court practice"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 51(1)",
+            "section 51(6)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Anita Gray's publicly funded claim against Going Places was dismissed on 4 February 2003 when she failed to attend trial before HHJ Mayor.",
+        "The defendant later applied to a district judge for a wasted costs order against Shoosmiths for costs incurred after the legal aid certificate was discharged on 31 December 2002.",
+        "After extensive proceedings the district judge made the wasted costs order in February 2004.",
+        "Shoosmiths appealed to Judge Mayor, who held the district judge lacked jurisdiction and quashed the order."
+      ],
+      "procedural_posture": "Court of Appeal on jurisdiction to make wasted costs orders and destination of appeal from a district judge in multitrack proceedings.",
+      "outcome": "Appeal dismissed; only the trial judge could determine wasted costs and Judge Mayor had jurisdiction to hear the appeal from the district judge.",
+      "ratio": "A wasted costs order is part of the costs allocation at the conclusion of proceedings and must ordinarily be made by the judge who determined the case; a district judge has no jurisdiction in multitrack proceedings to make such an order after trial, though appeal lies to a circuit judge not the Court of Appeal.",
+      "legal_issues": [
+        "Which tribunal may make a wasted costs order after trial",
+        "Whether a district judge may entertain wasted costs applications in multitrack cases",
+        "Correct destination of appeal from a district judge's wasted costs order",
+        "Relationship between section 51(6) and CPR Part 48"
+      ],
+      "catchwords": [
+        "wasted costs",
+        "section 51",
+        "trial judge",
+        "district judge",
+        "multitrack",
+        "destination of appeals"
+      ],
+      "index_terms": [
+        "Going Places",
+        "Shoosmiths",
+        "Northampton County Court",
+        "legal aid discharge",
+        "CPR Part 48",
+        "Aaron v Sheldon"
+      ],
+      "linked_authorities": [
+        "Ridehalgh v Horsefield [1994] Ch 205",
+        "Melchior v CIEF Ltd (unreported, 25 May 2001)",
+        "Aaron v Sheldon [2004] 3 All ER 561"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Two procedural issues clearly resolved with unanimous Court of Appeal agreement."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/128.json",
+    "status": "done",
+    "notes": "Zimbabwe asylum appeal restoring adjudicator after IAT exceeded fact-finding jurisdiction post-CA.",
+    "enrichment": {
+      "short_title": "Mlauzi v SSHD: IAT could not overturn Zimbabwe asylum fact findings",
+      "area_of_law": [
+        "Immigration law",
+        "Asylum law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 101(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ms Mlauzi, a Zimbabwean mushroom grower, claimed asylum after Zanu-PF supporters attacked her home believing her business was a cover for MDC activity.",
+        "She fled to Bulawayo and briefly stayed with her mother and a friend before obtaining a visitor visa and claiming asylum in the UK in December 2002.",
+        "The adjudicator found her account credible and rejected internal relocation, holding nowhere in Zimbabwe was safe from Zanu-PF targeting.",
+        "The Immigration Appeal Tribunal allowed the Secretary of State's appeal on internal relocation without identifying a point of law."
+      ],
+      "procedural_posture": "Court of Appeal against Immigration Appeal Tribunal decision reversing an adjudicator's asylum and Article 3 findings.",
+      "outcome": "Appeal allowed; adjudicator's decision restored; no remittal as the IAT had no jurisdiction to disturb findings of fact.",
+      "ratio": "Under section 101(1) of the 2002 Act the Immigration Appeal Tribunal may interfere with an adjudicator only on a point of law; it cannot substitute its own assessment of credibility or internal relocation on the facts.",
+      "legal_issues": [
+        "Whether the IAT identified any point of law justifying interference",
+        "Whether internal relocation within Zimbabwe was available on the facts",
+        "Whether the adjudicator's reasoning on hiding and relocation was adequate",
+        "Whether the case should be remitted for redetermination"
+      ],
+      "catchwords": [
+        "asylum",
+        "Zimbabwe",
+        "Zanu-PF",
+        "internal relocation",
+        "Immigration Appeal Tribunal",
+        "point of law"
+      ],
+      "index_terms": [
+        "Movement for Democratic Change",
+        "Bulawayo",
+        "Article 3",
+        "section 101",
+        "CA [2004] EWCA Civ 1165",
+        "credibility"
+      ],
+      "linked_authorities": [
+        "CA (SSHD) v Y [2004] EWCA Civ 1165",
+        "B v Secretary of State for the Home Department [2005] EWCA Civ 61"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Jurisdictional issue and restoration of adjudicator's decision are clearly reasoned with respondent concession."
+      }
+    }
+  }
+]

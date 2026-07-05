@@ -1,0 +1,744 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1850.json",
+    "status": "needs_review",
+    "notes": "Captured full_text truncates mid-judgment before answers to preliminary issues (D) and (E) on contribution margin.",
+    "enrichment": {
+      "short_title": "Earn-out variation construction: 20% on sales excess above monthly thresholds",
+      "area_of_law": [
+        "Contract law",
+        "Commercial law",
+        "Share purchase"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Parker sold all shares in Digital Audio Research Ltd to Harman International under a 1998 agreement with earn-out consideration, varied by a November 1999 letter replacing profit-based second-period earn-out with sales-based tiers.",
+        "The 1999 variation provided 20% earn-out on net monthly sales above £130,000 up to £180,000 and 30% above £180,000, with conditions on DSO, 50% contribution margin, and carry-forward of monthly shortfalls.",
+        "At a split trial on liability, Tugendhat J determined preliminary construction issues on the meaning of clause 2, condition 4, and 'net' sales."
+      ],
+      "procedural_posture": "Trial of preliminary issues on construction of the 1999 earn-out variation, within a split trial of liability before causation and quantum.",
+      "outcome": "On issues (A)–(C): defendant's construction on 20% applying to excess sales only; claimant's construction on rolling monthly averaging; and delivery/shipment date for 'net' sales. Issues (D) and (E) not resolved in available text.",
+      "ratio": "Read together, clause 2 and condition 4 of the 1999 agreement mean the 20% earn-out applies only to monthly net sales above £130,000 (not to all sales once the threshold is passed); condition 4 operates as a rolling monthly average test rather than a yearly average; and 'net' monthly sales are measured by shipment/delivery date excluding VAT, not invoice date alone.",
+      "legal_issues": [
+        "Whether 20% earn-out applies to all net sales above £130,000 or only to the excess",
+        "Whether averaging under condition 4 is monthly rolling or annual",
+        "Meaning of 'net' sales for earn-out calculation",
+        "Whether 50% contribution margin was required before any payment (issue (D) — incomplete)",
+        "Meaning of 'cost of parts' in contribution margin (issue (E) — incomplete)"
+      ],
+      "catchwords": [
+        "earn-out",
+        "contract construction",
+        "share sale",
+        "variation agreement",
+        "sales threshold",
+        "contribution margin"
+      ],
+      "index_terms": [
+        "Digital Audio Research",
+        "Harman International",
+        "1999 Agreement",
+        "earn-out period",
+        "DSO",
+        "Lexicon Unit",
+        "split trial"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.72,
+        "level": "medium",
+        "notes": "Issues A–C clearly decided in available text; judgment truncated before D and E; outcome on full preliminary list uncertain."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2251.json",
+    "status": "done",
+    "notes": "Complete Divisional Court judgment on drink-driving appeal by case stated.",
+    "enrichment": {
+      "short_title": "Magistrates may correct mistaken no-case ruling; PC evidence suffices for blood sample",
+      "area_of_law": [
+        "Criminal law",
+        "Road traffic",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": ["section 5(1)(a)", "section 7", "section 8(2)"]
+        },
+        {
+          "title": "Road Traffic Offenders Act 1988",
+          "provisions": ["section 15(4)", "section 16(2)"]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": ["section 9", "section 142"]
+        },
+        {
+          "title": "Criminal Justice Act 1967",
+          "provisions": ["section 9"]
+        }
+      ],
+      "key_facts": [
+        "Gary Steward was convicted after breath test and elected blood specimen; lower breath reading was 41 microgrammes.",
+        "Magistrates initially ruled no case to answer, mistakenly believing Dr Trotter's analyst certificate was improperly served, then reversed after legal advice.",
+        "No oral evidence or certificate from Dr Bell (police surgeon) was called; PC Jackson gave evidence he observed consent and the taking of blood samples."
+      ],
+      "procedural_posture": "Appeal by case stated to the Divisional Court from Portsmouth magistrates' conviction for driving with excess alcohol.",
+      "outcome": "Appeal dismissed; magistrates entitled to reopen the no-case ruling; other evidence may prove blood sample taken with consent by a medical practitioner; sufficient evidence to convict.",
+      "ratio": "Magistrates are not functi officio from a mistaken interim no-case announcement before adjudication is complete where all parties agree an error occurred; section 16(2) of the Road Traffic Offenders Act 1988 is permissive ('may') and does not require the medical practitioner's own certificate or oral evidence where PC evidence of consent and qualification is unchallenged.",
+      "legal_issues": [
+        "Whether magistrates could reverse a no-case to answer ruling",
+        "Whether blood specimen evidence requires medical practitioner certificate under section 16(2)",
+        "Whether there was sufficient evidence to convict"
+      ],
+      "catchwords": [
+        "excess alcohol",
+        "blood specimen",
+        "no case to answer",
+        "functi officio",
+        "road traffic",
+        "magistrates court"
+      ],
+      "index_terms": [
+        "Steward",
+        "M27",
+        "Dr Bell",
+        "PC Jackson",
+        "Dr Trotter",
+        "section 16(2)",
+        "Essex Justices"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Essex Justices ex parte Final",
+          "citation": "[1963] 2 QB 816",
+          "relation": "distinguished"
+        },
+        {
+          "name": "S v Recorder of Manchester",
+          "citation": "[1971] AC 481",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment with clear answers to all three case-stated questions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2104.json",
+    "status": "done",
+    "notes": "Complete prosecutor's appeal on PSV definition for stretch limousine.",
+    "enrichment": {
+      "short_title": "Stretch limousine carrying nine not a public service vehicle",
+      "area_of_law": [
+        "Road traffic",
+        "Administrative law",
+        "Transport regulation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Public Passenger Vehicles Act 1981",
+          "provisions": ["section 1(1)", "section 6", "section 12"]
+        },
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": ["sections 55-58", "section 87(2)"]
+        },
+        {
+          "title": "Public Service Vehicle (Conditions of Fitness, Equipment, Use and Certification) Regulations 1981",
+          "provisions": ["regulation 28(1)(b)"]
+        },
+        {
+          "title": "Road Traffic Offenders Act 1988",
+          "provisions": ["Schedule II"]
+        }
+      ],
+      "key_facts": [
+        "Alun Marcus Johnson's stretch limousine (MIL 2597) was stopped in Swansea carrying nine passengers for hire or reward without PSV fitness certificate or operator's licence.",
+        "The vehicle had L-shaped bench seating; straight-line measurement might allow six passengers on the side bench but corner geometry prevented practicable ninth-passenger accommodation.",
+        "Justices found the vehicle was not 'adapted' to carry more than eight passengers despite nine being carried on the night."
+      ],
+      "procedural_posture": "Prosecutor's appeal by case stated from Swansea magistrates dismissing three PSV-related informations.",
+      "outcome": "Appeal dismissed; magistrates correctly held the limousine was not a public service vehicle; respondent's costs summarily assessed and ordered from central funds.",
+      "ratio": "Under section 1(1) of the Public Passenger Vehicles Act 1981, 'adapted' means apt or suitable rather than physically altered; applying the 400mm per-passenger seating standard, an L-shaped corner layout cannot be measured as a straight bench, and a vehicle not practicably designed for a ninth passenger is not a PSV even if nine persons were squeezed in on one occasion.",
+      "legal_issues": [
+        "Whether a stretch limousine was adapted to carry more than eight passengers",
+        "Application of PSV seating dimension regulations to luxury limousine layout",
+        "Relevance of seat belts and generous spacing to PSV status"
+      ],
+      "catchwords": [
+        "public service vehicle",
+        "stretch limousine",
+        "adapted to carry",
+        "seating capacity",
+        "hire or reward",
+        "PSV regulations"
+      ],
+      "index_terms": [
+        "Johnson",
+        "MIL 2597",
+        "Snape",
+        "Maddox v Storer",
+        "400mm seating",
+        "Vehicle Operator Services Agency"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Maddox v Storer",
+          "citation": "[1962] 1 All ER 831",
+          "relation": "applied"
+        },
+        {
+          "name": "Burns v Currell",
+          "citation": "[1963] 2 All ER 297",
+          "relation": "applied"
+        },
+        {
+          "name": "Wurzal v Addison",
+          "citation": "[1965] 1 All ER 20",
+          "relation": "applied"
+        },
+        {
+          "name": "Traffic Commissioners for the South Wales Traffic Area v Snape",
+          "citation": "[1977] RTR 367",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment on a discrete statutory construction issue with clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/costs/2003/9004.json",
+    "status": "done",
+    "notes": "Supplemental judgment on swing premium for TAG ATE insurance test cases.",
+    "enrichment": {
+      "short_title": "TAG Lloyd's 2001 ATE swing premium allowed at £525 inclusive of IPT",
+      "area_of_law": [
+        "Costs and funding",
+        "Insurance law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": ["section 29"]
+        }
+      ],
+      "key_facts": [
+        "Following a May 2003 judgment on TAG scheme ATE premiums, parties could not agree swing premium for 2001 Lloyd's policies.",
+        "Full swing premium of £238 per case was agreed payable to underwriters; dispute was recoverable proportion from paying parties.",
+        "Eighteen pre-proceedings RTA test cases with agreed damages between £1,000 and £3,606.49."
+      ],
+      "procedural_posture": "Further hearing in costs-only test cases on recoverable swing premium element for 2001 Lloyd's TAG policies.",
+      "outcome": "Recoverable premium for 2001 Lloyd's including swing premium and IPT fixed at £525; building-block analysis (£608) cross-checked against Cowley model.",
+      "ratio": "Swing premium triggered by non-qualifying losses should not be fully visited on defendants; the appropriate approach is to start from the capped recoverable risk premium (£358.50), add brokerage and commission at pre-swing rates, and apply reasonableness/proportionality—allowing some uplift for swing but not the full £608 where that would be disproportionate for straightforward settled RTA cases.",
+      "legal_issues": [
+        "Recoverability of swing premium under section 29 of the Access to Justice Act 1999",
+        "Pro-rating swing premium against qualifying versus non-qualifying losses",
+        "Reasonableness and proportionality of ATE premium including swing",
+        "Cowley cross-check methodology"
+      ],
+      "catchwords": [
+        "ATE insurance",
+        "swing premium",
+        "TAG scheme",
+        "section 29 premium",
+        "costs test cases",
+        "reasonableness proportionality"
+      ],
+      "index_terms": [
+        "Sharratt",
+        "London Central Bus",
+        "Lloyd's 2001",
+        "Cowley cross-check",
+        "Callery v Gray",
+        "Claims Direct",
+        "Halloran v Delaney"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Halloran v Delaney",
+          "citation": "[2002] EWCA Civ 1258",
+          "relation": "applied"
+        },
+        {
+          "name": "Callery v Gray",
+          "citation": null,
+          "relation": "considered"
+        },
+        {
+          "name": "Claims Direct",
+          "citation": null,
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Focused supplemental judgment with explicit final figure and methodology."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/1867.json",
+    "status": "done",
+    "notes": "Complete TCC judgment on architect fees claim and negligence counterclaim.",
+    "enrichment": {
+      "short_title": "Architect's fees and negligence claims fail over Murray Grove redevelopment",
+      "area_of_law": [
+        "Construction and engineering",
+        "Professional negligence",
+        "Contract law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Photographer Christopher King engaged architect Stephen Donald to redesign his London pub property (13 Murray Grove) as studio, penthouse and flats.",
+        "Parties discussed fees exceeding £100,000 or a flat in lieu, but judge found no legally binding fee contract; £125,000 figures appeared in bank proposals only.",
+        "Donald's ambitious design exceeded King's funding; cheque for £47,000 was countermanded; King counterclaimed for negligent over-design and wasted costs."
+      ],
+      "procedural_posture": "Technology and Construction Court trial of claim for architectural fees and counterclaim for breach of contract and negligence, with Part 20 claim.",
+      "outcome": "Claim and counterclaim dismissed; no binding contract for fees; cheque claim failed for lack of consideration and breach of collateral condition; negligence counterclaim failed on merits.",
+      "ratio": "Where friends undertook a joint redevelopment without agreeing binding remuneration, figures inserted in bank feasibility documents do not create a contract; a cheque given without consideration and presented in breach of a collateral agreement not to present until bank consent cannot found liability; and an architect who designed to an unusual brief (studio, penthouse, landmark aesthetic) did not act negligently merely because construction costs later exceeded available finance.",
+      "legal_issues": [
+        "Whether a binding contract existed for £125,000 architectural fees",
+        "Validity of claim on £47,000 cheque",
+        "Whether Donald's designs were negligent or not cost-effective",
+        "Recoverability of King's alleged wasted professional fees"
+      ],
+      "catchwords": [
+        "architect negligence",
+        "professional fees",
+        "joint venture",
+        "RIBA SFA/99",
+        "cheque consideration",
+        "development funding"
+      ],
+      "index_terms": [
+        "Stephen Donald Architects",
+        "Murray Grove",
+        "Christopher King",
+        "Allied Irish Bank",
+        "Dunlop Heywood Lorenz",
+        "Princess Alice",
+        "collateral contract"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Very long judgment but clear conclusions on contract, cheque, and negligence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1241.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on joinery defects damages.",
+    "enrichment": {
+      "short_title": "Joinery appeal allowed: retrial on upper bay window defects and glazing costs",
+      "area_of_law": [
+        "Construction and engineering",
+        "Sale of goods and supply of services",
+        "Damages"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Devoran Joinery supplied and installed windows and doors for Mr Perkins' new house; Perkins counterclaimed for widespread defects.",
+        "Trial judge awarded £6,100 on counterclaim and rejected full bay-window replacement; VAT treatment on counterclaim awards was unclear.",
+        "Judge treated case as largely assessing damages for admitted breaches and failed to address general draughtiness and Mr Bussey's unchallenged expert evidence on upper bay window joints."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from HHJ Cowell's trial judgment on claim and counterclaim for joinery supply and installation.",
+      "outcome": "Appeal allowed in part; retrial before a different judge on remedy for upper master bedroom bay window; counterclaim awards plus VAT; glazing costs varied excluding upper bay window pending retrial.",
+      "ratio": "A trial judge who proceeds on the basis that breaches are admitted must still determine disputed defects supported by unwithdrawn expert evidence; preferring repair costings from an architect who disclaimed expertise on price over a quantity surveyor's quotes was erroneous; and where mitigation/repair feasibility was not investigated, a retrial is required rather than substituting the appellate court's figure on Ruxley proportionality grounds.",
+      "legal_issues": [
+        "Whether judge failed to address general draughtiness of upper bay window",
+        "Adequacy of repair versus replacement for mitred sill defects",
+        "Whether judge erred in preferring Mr Keyworth's costings over Mr Bussey's",
+        "VAT on counterclaim damages",
+        "Appropriate glazing defect allowance across ~100 casements"
+      ],
+      "catchwords": [
+        "joinery defects",
+        "bay window",
+        "expert evidence",
+        "repair or replacement",
+        "Ruxley damages",
+        "glazing defects"
+      ],
+      "index_terms": [
+        "Devoran Joinery",
+        "Perkins",
+        "Mr Keyworth",
+        "Mr Bussey",
+        "master bedroom bay",
+        "mitre joint",
+        "VAT counterclaim"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ruxley Electronics and Construction Ltd v Forsyth",
+          "citation": "[1996] AC 344",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed appellate reasoning with specific remedial directions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/1545.json",
+    "status": "done",
+    "notes": "Complete section 69 Arbitration Act appeal on JCT Final Certificate.",
+    "enrichment": {
+      "short_title": "JCT certificate of 29 March 1999 was not a valid Final Certificate",
+      "area_of_law": [
+        "Construction and engineering",
+        "Arbitration",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": ["section 69(1)", "section 69(3)(c)", "section 69(3)(d)"]
+        }
+      ],
+      "key_facts": [
+        "Cantrell (employers) and Wright & Fuller (contractors) disputed whether an architect's 29 March 1999 certificate was a Final Certificate under JCT Standard Form 1980 clauses 30.8–30.9.",
+        "Practical completion was 23 February 1998; certificate was issued over a year after defects liability period ended.",
+        "Arbitrator Professor Cato held it was a valid Final Certificate with conclusive effect; employers appealed under section 69 without leave via clause 41.6.1."
+      ],
+      "procedural_posture": "Section 69 appeal from arbitrator's award on preliminary issues as to JCT 1980 Final Certificate validity and conclusive effect.",
+      "outcome": "Appeal allowed; award varied so certificate was not validly issued under clause 30.8 and is not the Final Certificate for clause 30.9; no remittal needed.",
+      "ratio": "A certificate issued long after the defects liability period without unequivocally stating it is the Final Certificate, without architect input on outstanding matters, and while employers were challenging the adjusted contract sum cannot be treated as issued under clause 30.8 or attract clause 30.9 conclusive effect; on the agreed documentary matrix remittal would inevitably produce the same answer.",
+      "legal_issues": [
+        "Whether certificate dated 29 March 1999 was issued under clause 30.8",
+        "Whether that certificate is the Final Certificate for clause 30.9 purposes",
+        "Construction of JCT 1980 clauses 30.8 and 30.9",
+        "Scope of section 69 appeal where clause 41.6.1 dispenses with leave"
+      ],
+      "catchwords": [
+        "JCT 1980",
+        "Final Certificate",
+        "clause 30.8",
+        "clause 30.9",
+        "arbitration appeal",
+        "conclusive certificate"
+      ],
+      "index_terms": [
+        "Cantrell",
+        "Wright & Fuller",
+        "Professor Mark Cato",
+        "Saxted nursing home",
+        "practical completion",
+        "Judge Thornton QC"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Panatown Ltd v Alfred McAlpine Ltd",
+          "citation": "58 Con LR 46",
+          "relation": "considered"
+        },
+        {
+          "name": "Vatcroft (Contractors) Ltd v Seeboard Plc",
+          "citation": "78 BLR 138",
+          "relation": "considered"
+        },
+        {
+          "name": "Robin Ellis Ltd v Vinexsa International Ltd",
+          "citation": "[2003] EWHC 1352 (TCC)",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long judgment but clear final variation of arbitrator's answers."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1131.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on lawful presence for income support.",
+    "enrichment": {
+      "short_title": "Polish asylum seeker on temporary admission not lawfully present for benefits",
+      "area_of_law": [
+        "Social security",
+        "Immigration and asylum",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": ["section 115"]
+        },
+        {
+          "title": "Social Security (Immigration and Asylum) Consequential Amendments Regulations 2000",
+          "provisions": ["regulation 2(1)", "Schedule Part I paragraph 4"]
+        },
+        {
+          "title": "Immigration Act 1971",
+          "provisions": ["section 11(1)", "Schedule 2 paragraph 21"]
+        },
+        {
+          "title": "Social Security Contributions and Benefits Act 1992",
+          "provisions": ["section 124", "section 113(1)", "section 137(2)"]
+        },
+        {
+          "title": "Council of Europe Social Charter",
+          "provisions": ["Article 13"]
+        },
+        {
+          "title": "European Convention on Social and Medical Assistance",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Robert Szoma, a Polish national, claimed asylum in November 1998 and received temporary admission; asylum was refused in October 1999 but he remained in the UK.",
+        "He claimed income support from July 2000 after section 115 of the Immigration and Asylum Act 1999 came into force.",
+        "Social Security Tribunal allowed his appeal; Commissioner reversed, holding he was not 'lawfully present' under paragraph 4 of the 2000 Regulations Schedule."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from a Social Security Commissioner decision restoring refusal of income support.",
+      "outcome": "Appeal dismissed; bound by Kaya; temporarily admitted person subject to immigration control is not lawfully present for income support; permission to appeal to House of Lords refused.",
+      "ratio": "The expression 'lawfully present' in the 2000 Regulations must be read as a single concept; by virtue of section 11(1) of the Immigration Act 1971 a person temporarily admitted has not entered the UK and is not lawfully present, and Kaya v Haringey LBC binds the court even where the wording derives from international conventions—ECSMA obligations may be met by other assistance, not income support.",
+      "legal_issues": [
+        "Meaning of 'lawfully present in the United Kingdom' in paragraph 4 of the 2000 Regulations Schedule",
+        "Whether Kaya was per incuriam",
+        "Effect of section 11(1) deeming provision on social security entitlement",
+        "Whether temporary admission constitutes lawful presence"
+      ],
+      "catchwords": [
+        "income support",
+        "lawfully present",
+        "temporary admission",
+        "section 115",
+        "asylum seeker",
+        "social security immigration"
+      ],
+      "index_terms": [
+        "Szoma",
+        "Poland",
+        "Kaya",
+        "Bugdaycay",
+        "Commissioner Angus",
+        "CESC Article 13",
+        "ECSMA"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Kaya v Haringey LBC",
+          "citation": "[2002] HLR 1",
+          "relation": "applied"
+        },
+        {
+          "name": "Bugdaycay v Secretary of State for the Home Department",
+          "citation": "[1987] AC 514",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Wandsworth LBC ex parte O",
+          "citation": "[2000] 1 WLR 2539",
+          "relation": "considered"
+        },
+        {
+          "name": "Chief Adjudication Officer v Wolke, Remilien",
+          "citation": "[1997] 1 WLR 1640",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Clear unanimous Court of Appeal judgment on settled authority."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1830.json",
+    "status": "done",
+    "notes": "Complete libel and strike-out judgment on solicitor OSS correspondence.",
+    "enrichment": {
+      "short_title": "Libel claim on Law Society letters fails on absolute privilege; fraud struck out",
+      "area_of_law": [
+        "Defamation",
+        "Legal profession regulation",
+        "Family law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Solicitors Act 1974",
+          "provisions": ["section 37A", "section 44B", "section 46", "section 49", "section 79", "Schedule 1A"]
+        },
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": ["section 93(3)", "Schedule 15"]
+        }
+      ],
+      "key_facts": [
+        "Mr Gray instructed solicitor Laurie Avadis to seek contact and parental responsibility for his children; Avadis applied for contact only on Form C2.",
+        "Gray complained to the Office for the Supervision of Solicitors (OSS); Avadis's May and November 2002 letters to OSS stated Gray suffered mental illness and doubted he would obtain contact.",
+        "Gray sued for libel and fraud alleging Avadis falsely claimed to be pursuing parental responsibility while paid under public funding."
+      ],
+      "procedural_posture": "Appeal from Master Leslie and summary judgment/strike-out application on libel and fraud claims brought by litigant in person.",
+      "outcome": "Appeal dismissed; libel claims bound to fail on absolute privilege for OSS correspondence; fraud claim struck out for insufficient evidence of dishonesty.",
+      "ratio": "Letters written in response to an OSS investigation of inadequate professional services are published in proceedings of a tribunal exercising statutory functions analogous to a court and attract absolute privilege under Trapp v Mackie; a statement of future intention to apply for parental responsibility in August 2001 cannot found fraud when the C2 was filed in October without PR and the OSS adjudicator made no formal inadequate-service finding.",
+      "legal_issues": [
+        "Whether OSS correspondence is protected by absolute privilege",
+        "Whether qualified privilege defence would succeed",
+        "Whether August 2001 letter to Mrs Chambers supported a fraud claim"
+      ],
+      "catchwords": [
+        "absolute privilege",
+        "libel",
+        "OSS complaint",
+        "solicitor regulation",
+        "parental responsibility",
+        "strike out fraud"
+      ],
+      "index_terms": [
+        "Gray",
+        "Avadis",
+        "Office for Supervision of Solicitors",
+        "Form C2",
+        "mental illness",
+        "Trapp v Mackie",
+        "Schedule 1A"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Trapp v Mackie",
+          "citation": "[1979] 1 WLR 377",
+          "relation": "applied"
+        },
+        {
+          "name": "Addis v Crocker",
+          "citation": "[1961] 1 QB 11",
+          "relation": "considered"
+        },
+        {
+          "name": "Mahon v Rahn (No 2)",
+          "citation": "[2000] 1 WLR 2150",
+          "relation": "considered"
+        },
+        {
+          "name": "A v United Kingdom",
+          "citation": "Application no 35373/97",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Comprehensive privilege analysis with clear strike-out on fraud."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1156.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on Cuban copyright and lex situs.",
+    "enrichment": {
+      "short_title": "Cuban Law 860 cannot divest UK copyright; reversionary rights assigned via Addenda",
+      "area_of_law": [
+        "Intellectual property",
+        "Conflict of laws",
+        "International law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Copyright Act 1911",
+          "provisions": ["section 5(2)"]
+        },
+        {
+          "title": "Copyright, Designs and Patents Act 1988",
+          "provisions": ["Schedule 1 paragraph 27"]
+        },
+        {
+          "title": "Cuban Law 860",
+          "provisions": ["Article 32", "Decree 10", "Chapter VIII"]
+        }
+      ],
+      "key_facts": [
+        "Peer International claimed UK copyright in Cuban musical works via 1930s–1950s composer assignments and 1990s Confirmations/Addenda.",
+        "Termidor claimed exclusive licence from Editora Musical de Cuba (EMC), asserting title via Cuban Law 860 passed after the 1959 revolution.",
+        "Law 860 required approval of pre-existing publishing contracts and purported to forfeit publishers' rights if not approved; Peer did not seek approval."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from Neuberger J's answers to preliminary issues on copyright ownership under English and Cuban law.",
+      "outcome": "Appeal dismissed; initial assignments valid for English copyright; Law 860 ineffective to divest UK copyright; Confirmations plus Addenda effective to assign reversionary UK copyright.",
+      "ratio": "English courts will not give extraterritorial effect to a foreign governmental act divesting copyright situated in England: Rule 120 lex situs in Dicey & Morris applies even to non-confiscatory regulatory legislation, and public policy cannot displace English situs law; Cuban Law 860 was confiscatory in effect and could not override Peer's UK rights; Addenda read with Confirmations satisfy section 5(2) requirements to assign reversionary copyright.",
+      "legal_issues": [
+        "Validity of historical copyright assignments under Cuban and English law",
+        "Whether Cuban Law 860 divests English copyright",
+        "Application of lex situs rule to intangible property",
+        "Whether Confirmations and Addenda assigned reversionary copyright under the 1911 Act"
+      ],
+      "catchwords": [
+        "copyright ownership",
+        "lex situs",
+        "Cuban Law 860",
+        "music publishing",
+        "reversionary copyright",
+        "conflict of laws"
+      ],
+      "index_terms": [
+        "Peer International",
+        "Termidor",
+        "Editora Musical de Cuba",
+        "Antonio Fernandez Ortiz",
+        "Ignacio Pineiro",
+        "Bank voor Handel",
+        "Kuwait Airways"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bank voor Handel en Scheepvaart NV v Slatford",
+          "citation": "[1953] 1 QB 248",
+          "relation": "applied"
+        },
+        {
+          "name": "Kuwait Airways Corp v Iraqi Airways Co (Nos 4 and 5)",
+          "citation": "[2002] UKHL 19",
+          "relation": "considered"
+        },
+        {
+          "name": "Lorentzen v Lydden & Co Ltd",
+          "citation": "[1942] 2 KB 202",
+          "relation": "criticised"
+        },
+        {
+          "name": "The El Condado",
+          "citation": "63 Ll L Rep 330",
+          "relation": "applied"
+        },
+        {
+          "name": "A Schroeder Music Publishing Co Ltd v Macaulay",
+          "citation": "[1974] 1 WLR 1308",
+          "relation": "considered"
+        },
+        {
+          "name": "Oppenheimer v Cattermole",
+          "citation": "[1976] AC 249",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed appellate treatment of three preliminary issues with clear answers."
+      }
+    }
+  }
+]

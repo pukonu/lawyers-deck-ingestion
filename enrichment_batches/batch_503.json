@@ -1,0 +1,658 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/975.json",
+    "status": "done",
+    "notes": "Collins J dismisses police officers' JR challenging bad-faith disciplinary proceedings and suspension after Stoner prosecution stayed.",
+    "enrichment": {
+      "short_title": "Ashton v West Yorkshire: judicial review of police disciplinary proceedings after abuse of process stay",
+      "area_of_law": [
+        "Public law",
+        "Judicial review",
+        "Police discipline",
+        "Criminal procedure",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Public Order Act 1986",
+          "provisions": [
+            "section 4",
+            "section 5"
+          ]
+        },
+        {
+          "title": "Police (Conduct) Regulations 1999",
+          "provisions": [
+            "regulation 9"
+          ]
+        },
+        {
+          "title": "Criminal Justice and Public Order Act 1994",
+          "provisions": [
+            "section 60"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "PCs Ashton and Fraser arrested David Stoner in Leeds on 21 March 2003 during Cross Green disorder; their statements and the CPS prosecution alleged s.5 public order conduct not supported by video evidence.",
+        "The Stoner prosecution was abandoned and both officers were charged with attempting to pervert the course of justice; HH Judge Gullick stayed that prosecution as an abuse of process.",
+        "The officers remained suspended and faced Police (Conduct) Regulations disciplinary charges of dishonestly fabricating evidence to justify the arrest.",
+        "They sought judicial review alleging bad faith by the Professional Standards Department and unlawfulness of their continuing suspension."
+      ],
+      "procedural_posture": "Judicial review of the Chief Constable's decision to continue disciplinary proceedings and maintain suspension after the criminal prosecution was stayed.",
+      "outcome": "Both claims dismissed; disciplinary proceedings may proceed and suspension was lawful, though suspension paperwork was inadequate and reasons should be given on request.",
+      "ratio": "Allegations of bad faith in police disciplinary proceedings require positive proof; a prima facie disciplinary case may proceed even where a related criminal prosecution was stayed for abuse of process, and suspension pending dishonesty charges is lawful where charges remain live.",
+      "legal_issues": [
+        "Whether disciplinary proceedings were pursued in bad faith against PCs Ashton and Fraser",
+        "Whether continuing suspension after the criminal stay was unlawful",
+        "Whether Regulation 9 notices should have been served before further statements were sought",
+        "Whether reasons for suspension must be given to the officer"
+      ],
+      "catchwords": [
+        "police discipline",
+        "bad faith",
+        "attempt to pervert the course of justice",
+        "suspension",
+        "abuse of process",
+        "judicial review"
+      ],
+      "index_terms": [
+        "West Yorkshire Police",
+        "David Stoner",
+        "Cross Green",
+        "Professional Standards Department",
+        "video evidence",
+        "Police (Conduct) Regulations"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Final dismissal, disciplinary rationale and suspension findings are clearly reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2005/1087.json",
+    "status": "done",
+    "notes": "Leveson J awards modest assault damages against acquitted defendant who misidentified murder victim's house; balance of probabilities standard applied.",
+    "enrichment": {
+      "short_title": "Shah v Gale: civil liability after wrongful-house identification leading to fatal stabbing",
+      "area_of_law": [
+        "Tort law",
+        "Criminal law",
+        "Civil procedure",
+        "Evidence",
+        "Fatal accidents"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 66",
+            "section 76",
+            "section 78"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Naresh Shah was fatally stabbed at 41 Hibernia Road, Hounslow on 9 March 2002 after doormen attacked the wrong house seeking Xhafer Ismaili.",
+        "Kelly Gale had pointed out 41 Hibernia Road rather than Ismaili's home; Jason Grant was convicted of murder and others of conspiracy to cause GBH, but Gale was acquitted.",
+        "Shah's estate sued Gale for battery and conspiracy, seeking modest damages for the assault rather than dependency or fatal accident losses.",
+        "Gale admitted misidentifying the house but denied knowing grievous harm was intended."
+      ],
+      "procedural_posture": "High Court trial of civil claim for assault damages following acquittal in the criminal proceedings.",
+      "outcome": "Claim partly succeeded; Gale liable for joint-enterprise assault but not for knife use or fatal injuries; total award £2,750 plus aggravated damages.",
+      "ratio": "Civil claims for serious criminal conduct are proved on the balance of probabilities with cogent evidence, not the criminal standard; a defendant who knowingly identifies a victim's home for a retaliatory attack may be liable in tort for the assault even if acquitted of conspiracy to cause GBH, but is not necessarily liable for a knife attack outside the scope of the joint enterprise.",
+      "legal_issues": [
+        "Whether the civil standard of proof applies to allegations of assault causing death",
+        "Whether Gale was party to a joint enterprise to assault the occupant",
+        "Whether criminal acquittal precluded civil liability",
+        "Admissibility and weight of police interviews excluded under PACE section 78 in the criminal trial"
+      ],
+      "catchwords": [
+        "joint tortfeasor",
+        "joint enterprise",
+        "wrongful identification",
+        "balance of probabilities",
+        "assault",
+        "aggravated damages"
+      ],
+      "index_terms": [
+        "Naresh Shah",
+        "Kelly Gale",
+        "Hibernia Road",
+        "Jason Grant",
+        "Yates Wine Lodge",
+        "Xhafer Ismaili",
+        "Halford v Brookes"
+      ],
+      "linked_authorities": [
+        "Re H and R (Child Sexual Abuse: Standard of Proof) [1996] 1 FLR 80",
+        "Francisco v Diedrick, The Times, 3 April 1998",
+        "Halford v Brookes, The Times, 3 October 1991"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Standard of proof, liability findings and damages award are all explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2005/1081.json",
+    "status": "done",
+    "notes": "Newman J finds GP breached duty on second Christmas Day visit in meningococcal septicaemia case; first visit not below standard.",
+    "enrichment": {
+      "short_title": "McDonnell v Holwerda: GP standard of care in suspected meningococcal infection in a child",
+      "area_of_law": [
+        "Clinical negligence",
+        "Medical law",
+        "Personal injury",
+        "Professional negligence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Sebastian McDonnell, aged 4½, developed meningococcal septicaemia on Christmas Day 1997 causing amputation of his right leg and digits.",
+        "Dr Holwerda visited twice after the family called her out; on the second visit the child had photophobia, rash, vomiting and irritability.",
+        "The GP treated for gastroenteritis and did not refer the child to hospital; he was admitted later that night after fitting.",
+        "Experts agreed earlier referral would have led to antibiotic treatment between about 10.30 pm and 11.00 pm."
+      ],
+      "procedural_posture": "High Court trial of liability and limited causation issues in a clinical negligence claim.",
+      "outcome": "Claim succeeded on the second visit; the GP's hasty assessment fell below the standard of a reasonably competent GP, though the first visit did not breach the standard.",
+      "ratio": "A GP must assess the aggregate of symptoms and signs in a febrile child and refer on a properly formed suspicion of meningococcal infection without waiting for classical meningism; rigid exclusion of photophobia, rash and irritability can breach the duty of care even where individual signs appear non-specific.",
+      "legal_issues": [
+        "Standard of care when a GP sees a child with high fever and possible meningococcal infection",
+        "Whether failure to refer on the first visit was negligent",
+        "Whether failure to refer on the second visit was negligent",
+        "When the claimant would have received hospital treatment if referred"
+      ],
+      "catchwords": [
+        "meningococcal septicaemia",
+        "general practitioner",
+        "clinical negligence",
+        "referral to hospital",
+        "photophobia",
+        "rash"
+      ],
+      "index_terms": [
+        "Sebastian McDonnell",
+        "Christmas Day 1997",
+        "Folkestone",
+        "meningitis",
+        "Bolam",
+        "paediatric fever"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed fact findings on both visits and clear liability conclusion on the second occasion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/1416.json",
+    "status": "done",
+    "notes": "Kay and Steyn LJJ dismiss cocaine conspiracy appeals; cut-throat trial management and Randall relevance analysis upheld.",
+    "enrichment": {
+      "short_title": "R v Dunn and Gonzalez: cut-throat defences and cross-examination under the Criminal Evidence Act 1898",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Drugs offences",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Evidence Act 1898",
+          "provisions": [
+            "section 1(3)(iii)"
+          ]
+        },
+        {
+          "title": "Criminal Procedure and Investigations Act 1996",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Dunn and Gonzalez were convicted at Maidstone of conspiracy to supply about 2 kg of cocaine after a handover at the Dartford Hilton car park.",
+        "Dunn gave evidence of an alleged remand confession by Gonzalez, losing his shield under section 1(3)(iii) and exposing both to extensive cut-throat cross-examination.",
+        "Gonzalez was refused permission to adduce propensity evidence against Dunn on firearms, Bradford drugs and money laundering matters.",
+        "Both received nine-year sentences; co-accused Turner pleaded guilty and Tabares was acquitted by direction."
+      ],
+      "procedural_posture": "Court of Appeal (Criminal Division) against conviction following a joint trial with cut-throat defences.",
+      "outcome": "Both appeals dismissed; convictions held safe.",
+      "ratio": "Where a defendant gives evidence against a co-defendant under section 1(3)(iii), cross-examination on unproven charges is permissible if relevant to credit; propensity evidence between co-defendants requires rigorous relevance analysis under R v Randall and mere arguability is insufficient.",
+      "legal_issues": [
+        "Permissible scope of cross-examination after a defendant gives evidence against a co-defendant",
+        "Whether severance was required mid-trial because of prejudice to Dunn",
+        "Whether Gonzalez could adduce propensity evidence against Dunn",
+        "Whether exclusion of Gonzalez's proposed propensity evidence was correct"
+      ],
+      "catchwords": [
+        "conspiracy to supply cocaine",
+        "cut-throat defence",
+        "Criminal Evidence Act 1898",
+        "propensity evidence",
+        "severance",
+        "Randall"
+      ],
+      "index_terms": [
+        "Dunn",
+        "Gonzalez",
+        "Dartford Hilton",
+        "remand confession",
+        "firearms charge",
+        "money laundering"
+      ],
+      "linked_authorities": [
+        "R v Randall [2003] UKHL 69",
+        "R v B (C) [2004] 2 Cr App R 34",
+        "R v H and C [2004] 2 WLR 335",
+        "Maxwell v DPP [1935] AC 309"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Appellate reasoning on each contested evidential ruling is comprehensive and explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/1025.json",
+    "status": "done",
+    "notes": "Owen J declares unlawful detention of disputed-age asylum seekers at Oakington after supportive paediatric age reports.",
+    "enrichment": {
+      "short_title": "I and O v SSHD: unlawful detention of age-disputed unaccompanied asylum seekers",
+      "area_of_law": [
+        "Immigration law",
+        "Administrative law",
+        "Judicial review",
+        "Human rights",
+        "Asylum"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Two asylum seekers, I and O, claimed to be 16 but were treated as adults and detained at Oakington fast-track centre.",
+        "Consultant paediatrician Dr Michie assessed both as aged 17 plus or minus two years, consistent with their claimed dates of birth.",
+        "The Secretary of State maintained detention pending Cambridgeshire Social Services age assessments, which later confirmed both were under 18.",
+        "I was detained unlawfully from 22 to 27 January 2005 and O from 22 to 28 January 2005 after Dr Michie's reports were received."
+      ],
+      "procedural_posture": "Judicial review of continued detention of age-disputed minors after receipt of expert paediatric age assessments.",
+      "outcome": "Claim allowed; declaration that detention for the specified periods was unlawful; matter transferred to the Queen's Bench Division for damages assessment.",
+      "ratio": "Where a consultant paediatric age assessment with a plus or minus two year margin supports a claimed minor status, the Secretary of State must apply his own policy and give the benefit of the doubt; irrationally preferring a later social services assessment while rejecting equivalent expert evidence renders continued detention unlawful.",
+      "legal_issues": [
+        "Whether Dr Michie's reports amounted to credible medical evidence requiring release under IND policy",
+        "Whether the five-year margin of error in Royal College guidelines invalidated the expert reports",
+        "Whether continued detention after the reports was irrational",
+        "Whether there was any rational basis for preferring CSS assessments to Dr Michie's reports"
+      ],
+      "catchwords": [
+        "age dispute",
+        "Oakington",
+        "unaccompanied minor",
+        "age assessment",
+        "detention",
+        "asylum"
+      ],
+      "index_terms": [
+        "Dr Michie",
+        "Cambridgeshire Social Services",
+        "benefit of the doubt",
+        "Royal College of Paediatrics",
+        "fast track",
+        "Refugee Legal Centre"
+      ],
+      "linked_authorities": [
+        "R (B) v Merton London Borough Council [2003] 4 All ER 280"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Policy analysis, irrationality finding and declaration of unlawful detention are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/645.json",
+    "status": "done",
+    "notes": "Court of Appeal upholds service out on XL Specialty as necessary party to Carvill reinsurance brokerage dispute.",
+    "enrichment": {
+      "short_title": "Carvill v XL Specialty: service out of jurisdiction on reinsured in brokerage dispute",
+      "area_of_law": [
+        "Insurance law",
+        "Conflict of laws",
+        "Commercial law",
+        "Civil procedure",
+        "Reinsurance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Carvill brokers sued European reinsurers for unpaid brokerage under excess of loss and excess cession reinsurance treaties.",
+        "XL Specialty Insurance, the US-based reinsured, applied to set aside service out of the jurisdiction.",
+        "Permission to serve XL had been granted on the basis XL was a necessary or proper party to the existing claim.",
+        "XL argued there was no serious issue against it and that the English court lacked a proper basis for jurisdiction."
+      ],
+      "procedural_posture": "Appeal from Commercial Court refusal to set aside an order permitting service of the claim form on XL out of the jurisdiction.",
+      "outcome": "Appeal dismissed; service out upheld.",
+      "ratio": "Where a reinsured may bear ultimate liability for brokerage owed to the broker and the dispute requires one investigation of liability across the reinsurance chain, the reinsured may be a necessary or proper party to proceedings against reinsurers and service out of the jurisdiction may properly be permitted.",
+      "legal_issues": [
+        "Whether there was a serious issue to be tried against XL on the merits",
+        "Whether XL was a necessary or proper party to the claim against the reinsurers",
+        "Whether the order for service out of the jurisdiction should be set aside",
+        "Whether one consolidated investigation of European brokerage liability was required"
+      ],
+      "catchwords": [
+        "service out of jurisdiction",
+        "reinsurance",
+        "insurance broker",
+        "necessary party",
+        "proper party",
+        "Commercial Court"
+      ],
+      "index_terms": [
+        "Carvill",
+        "XL Specialty Insurance",
+        "excess of loss treaty",
+        "European brokerage",
+        "Morison J",
+        "Havelock-Allan QC"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Jurisdictional reasoning is detailed though some treaty merits issues remain for trial."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2005/1165.json",
+    "status": "done",
+    "notes": "Coulson J grants summary judgment enforcing adjudicator's decision for shopfitting sums at Bucklers Hard property.",
+    "enrichment": {
+      "short_title": "Allen Wilson Shopfitters v Buckingham: summary enforcement of construction adjudication award",
+      "area_of_law": [
+        "Construction law",
+        "Adjudication",
+        "Contract law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Grants, Construction and Regeneration Act 1996",
+          "provisions": []
+        },
+        {
+          "title": "Late Payment of Commercial Debts (Interest) Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Unfair Terms in Consumer Contracts Regulations 1999",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Allen Wilson Shopfitters carried out over £500,000 of refurbishment works at Mr Buckingham's property at Clobb Copse House, Bucklers Hard.",
+        "The parties disputed the contractual basis of the works after the contract administrator was dismissed in January 2005.",
+        "An adjudicator decided that £50,401.35 was due for valuations 12 and 13, plus interest, RICS nomination fee and adjudicator's fees.",
+        "Mr Buckingham, acting in person, challenged jurisdiction and argued the JCT adjudication clause was unfair under consumer regulations."
+      ],
+      "procedural_posture": "Technology and Construction Court application for summary judgment to enforce an adjudicator's decision under CPR Part 24.",
+      "outcome": "Summary judgment granted for the claimant for £50,401.35, interest, the RICS nomination fee and £2,112.25 plus VAT in adjudicator's fees.",
+      "ratio": "In adjudication enforcement proceedings the court does not generally revisit the merits of the underlying contractual dispute; if the adjudicator had jurisdiction under the contract and the notice of adjudication, the decision must be enforced unless there is a clear defence.",
+      "legal_issues": [
+        "Whether the adjudicator had jurisdiction despite dispute over the written contract",
+        "Whether termination of the contract administrator affected adjudication jurisdiction",
+        "Whether the consumer unfair terms regulations invalidated the JCT adjudication clause",
+        "Whether any defence existed to enforcement of the adjudicator's decision"
+      ],
+      "catchwords": [
+        "adjudication enforcement",
+        "summary judgment",
+        "JCT contract",
+        "interim valuation",
+        "construction dispute",
+        "consumer contract"
+      ],
+      "index_terms": [
+        "Allen Wilson Shopfitters",
+        "Bucklers Hard",
+        "Clobb Copse House",
+        "Valuation 12",
+        "Valuation 13",
+        "Deacon and Jones"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Jurisdiction analysis and enforcement order are clearly reasoned despite underlying contract uncertainty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/1074.json",
+    "status": "done",
+    "notes": "Laddie J refuses VCI leave to join BHB and plead Article 82 abuse over horseracing pre-race data pricing.",
+    "enrichment": {
+      "short_title": "BHB v Victor Chandler: database rights and alleged abuse of dominance over pre-race data",
+      "area_of_law": [
+        "Competition law",
+        "Intellectual property",
+        "Database law",
+        "Sports law",
+        "European Union law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "EC Treaty",
+          "provisions": [
+            "Article 82"
+          ]
+        },
+        {
+          "title": "Competition Act 1998",
+          "provisions": [
+            "Chapter II"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The British Horseracing Board compiled extensive pre-race data used by bookmakers and had earlier sued William Hill for unauthorised use.",
+        "Victor Chandler International sought to amend its defence and join BHB and Press Association in a Part 20 claim alleging abusive pricing.",
+        "VCI contended BHB charged excessively for pre-race data, breaching Article 82 and the Chapter II prohibition.",
+        "The Board's data income funded regulatory and industry functions benefiting the horseracing sector as a whole."
+      ],
+      "procedural_posture": "Interlocutory applications for leave to join additional defendants and to amend pleadings to allege abuse of dominant position.",
+      "outcome": "Applications refused; no permission to join BHB or PA or to plead Article 82/section 18 abuse; interim injunction application fell away.",
+      "ratio": "A dominant undertaking's freedom to contract and set prices requires careful justification before competition intervention; high prices alone, without evidence of unfair pricing or exclusionary abuse, do not establish a viable Article 82 or Chapter II case.",
+      "legal_issues": [
+        "Whether BHB held a dominant position in pre-race data",
+        "Whether pre-race data pricing was an abuse of dominance",
+        "Whether VCI should be permitted to join BHB and Press Association",
+        "Whether an interim injunction should be granted"
+      ],
+      "catchwords": [
+        "database right",
+        "abuse of dominant position",
+        "Article 82",
+        "horseracing",
+        "pre-race data",
+        "bookmaker"
+      ],
+      "index_terms": [
+        "British Horseracing Board",
+        "Victor Chandler International",
+        "William Hill",
+        "Press Association",
+        "OFT investigation",
+        "Pre-Race Data"
+      ],
+      "linked_authorities": [
+        "British Horseracing Board Ltd v William Hill Organisation Ltd (C-203/02) [2004] ECR I-10415"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Interlocutory competition ruling is clear though full merits of database claim are not finally resolved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/1093.json",
+    "status": "done",
+    "notes": "Lawrence Collins J grants summary judgment on pension scheme partnership deed claim against Kean Hird and associated defendants.",
+    "enrichment": {
+      "short_title": "Repton Pension Trustees v Hird: summary judgment on SDP special partner partnership deed",
+      "area_of_law": [
+        "Partnership law",
+        "Pensions law",
+        "Commercial law",
+        "Civil procedure",
+        "Equity"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Trustees of the Repton Securities Directors Pension Scheme sued over a Partnership Deed funding a £400,000 special partner interest in the South Downs Partnership property venture.",
+        "Kean Hird and associated Frame companies invested through the pension scheme structure managed by James Hay Pension Trustees.",
+        "The defendants resisted the claim and counterclaimed, alleging an overarching partnership and estoppel.",
+        "The claimants applied for summary judgment under CPR Part 24 on the Partnership Deed claim."
+      ],
+      "procedural_posture": "Chancery Division summary judgment application on the claim and parts of the counterclaim.",
+      "outcome": "Summary judgment granted for the claimants; no real prospect of successfully defending the Partnership Deed claim; partnership to be dissolved subject to limited retention of legitimate expenses.",
+      "ratio": "Where a written Partnership Deed clearly governs a pension-funded special partner investment and no viable estoppel or variation case is pleaded, the court may grant summary judgment and order dissolution without a full trial.",
+      "legal_issues": [
+        "Whether the Partnership Deed bound the parties and entitled the pension trustees to the investment proceeds",
+        "Whether an overarching partnership existed outside the deed",
+        "Whether estoppel or variation prevented reliance on the Partnership Deed",
+        "Appropriate remedy including dissolution and retention of legitimate partnership expenses"
+      ],
+      "catchwords": [
+        "pension scheme",
+        "partnership deed",
+        "summary judgment",
+        "special partner",
+        "property investment",
+        "dissolution"
+      ],
+      "index_terms": [
+        "Repton Securities Directors Pension Scheme",
+        "Kean Hird",
+        "South Downs Partnership",
+        "James Hay Pension Trustees",
+        "Frame Sussex",
+        "Imry Group"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Summary judgment reasoning is explicit though final order on retained expenses was subject to further argument."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/1089.json",
+    "status": "done",
+    "notes": "Sir Andrew Morritt VC holds British Museum cannot restitute Nazi-looted drawings absent legislation; Attorney-General questions answered negatively.",
+    "enrichment": {
+      "short_title": "Attorney-General v British Museum: restitution of Nazi-looted Old Master drawings",
+      "area_of_law": [
+        "Museum law",
+        "Charity law",
+        "Property law",
+        "Restitution",
+        "Cultural heritage",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "British Museum Act 1963",
+          "provisions": [
+            "section 3(4)",
+            "section 5",
+            "section 9"
+          ]
+        },
+        {
+          "title": "British Museum Act 1753",
+          "provisions": [
+            "section 9"
+          ]
+        },
+        {
+          "title": "British Library Act 1972",
+          "provisions": [
+            "section 3(5)"
+          ]
+        },
+        {
+          "title": "Museums and Galleries Act 1992",
+          "provisions": [
+            "section 6"
+          ]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Four Old Master drawings in the British Museum were claimed by the heirs of Dr Feldmann as stolen by the Gestapo in Brno in March 1939.",
+        "The Trustees wished to return the drawings but were constrained by the statutory prohibition on disposing of collection objects.",
+        "The Attorney-General brought Part 8 proceedings asking whether moral obligation or the Snowden jurisdiction could authorise transfer.",
+        "A Spoliation Advisory Panel later recommended legislation to permit restitution of Nazi-era looted objects."
+      ],
+      "procedural_posture": "Part 8 claim by the Attorney-General seeking the court's determination of questions as to the Trustees' power to dispose of museum objects.",
+      "outcome": "Questions 1(a), 2 and 3 answered in the negative; Trustees have no power to restitute the drawings without legislation or a bona fide compromise of title.",
+      "ratio": "Section 3(4) of the British Museum Act 1963 absolutely prohibits disposal of collection objects except under specified statutory exceptions; moral obligation, public policy or the Attorney-General's Snowden jurisdiction cannot override that prohibition, and only Parliament can authorise restitution.",
+      "legal_issues": [
+        "Whether section 3(4) prevents restitution of spoliated collection items",
+        "Whether moral obligation can justify disposition outside statutory exceptions",
+        "Whether the Snowden jurisdiction enables transfer despite section 3(4)",
+        "Whether a bona fide compromise of the heirs' title could authorise restitution"
+      ],
+      "catchwords": [
+        "British Museum",
+        "Nazi spoliation",
+        "restitution",
+        "section 3(4)",
+        "Old Master drawings",
+        "Attorney-General"
+      ],
+      "index_terms": [
+        "Dr Feldmann",
+        "Brno",
+        "Gestapo",
+        "Snowden jurisdiction",
+        "Spoliation Advisory Panel",
+        "Niccolo dell'Abbate"
+      ],
+      "linked_authorities": [
+        "Re Snowden [1970] Ch 700"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Statutory construction and final answers to the Attorney-General's questions are comprehensively reasoned."
+      }
+    }
+  }
+]

@@ -1,0 +1,638 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/211.json",
+    "status": "done",
+    "notes": "Batch 18 enrichment",
+    "enrichment": {
+      "short_title": "Refusal of adjournment where litigant in person lost solicitors",
+      "area_of_law": [
+        "Civil procedure",
+        "Appeals",
+        "Case management"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Scottish Equitable Plc appealed a county court judgment in a money claim against Mr Thompson and Susan Joan Pearson.",
+        "Mr Thompson appeared in person after his solicitors came off the record shortly before the listed appeal hearing.",
+        "He sought an adjournment of several months to obtain new representation, citing debt to former solicitors and part-time employment.",
+        "The court noted proceedings had begun in 1999 and that Bristol and West v Bartlett suggested the appellants had a strong case."
+      ],
+      "procedural_posture": "Civil appeal; interlocutory application at the outset of the hearing to adjourn because the respondent was unrepresented.",
+      "outcome": "Application to adjourn refused; the appeal was to proceed on legal argument.",
+      "ratio": "An adjournment to allow a litigant in person time to obtain representation will be refused where he must have known he would be unrepresented, failed to notify the court, the case has been listed for a full day, a long delay would prejudice the appellant and other litigants, and the appellants appear to have a strong case on the merits.",
+      "legal_issues": [
+        "Whether justice required adjourning an appeal so an unrepresented respondent could obtain legal advice",
+        "Balancing fairness to parties against delay and court listing interests"
+      ],
+      "catchwords": [
+        "adjournment",
+        "litigant in person",
+        "loss of representation",
+        "case management",
+        "civil appeal"
+      ],
+      "index_terms": [
+        "Scottish Equitable",
+        "Thompson",
+        "adjournment refused",
+        "unrepresented respondent",
+        "Bristol and West v Bartlett"
+      ],
+      "linked_authorities": [
+        "Bristol and West Building Society v Bartlett"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome and reasoning are explicit in a short procedural judgment. Judge metadata in the source file is empty and was not corrected."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/230.json",
+    "status": "done",
+    "notes": "Batch 18 enrichment",
+    "enrichment": {
+      "short_title": "Quashing Crown Court costs order against taxi licensing authority",
+      "area_of_law": [
+        "Administrative law",
+        "Judicial review",
+        "Licensing law",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government (Miscellaneous Provisions) Act 1976",
+          "provisions": [
+            "section 51(1)",
+            "section 77"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 64(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Malik, an insulin-dependent diabetic taxi driver, had his Hackney carriage licence renewal refused on medical advice.",
+        "His appeals to magistrates were dismissed, but after outdated DVLA guidance was challenged he obtained further medical evidence and the council agreed the appeal should be allowed by consent.",
+        "A Recorder ordered Telford and Wrekin Council to pay Mr Malik's costs on the basis it had adopted an arbitrary blanket ban on insulin-treated drivers.",
+        "The council sought judicial review of the costs order."
+      ],
+      "procedural_posture": "Judicial review application to quash a Crown Court costs order following a taxi-licence appeal determined by consent.",
+      "outcome": "Application allowed; the costs order was quashed.",
+      "ratio": "A licensing authority that acted on specific medical advice and followed then-available DVLA guidance did not act arbitrarily by refusing renewal for an insulin-dependent driver; a Recorder therefore misdirected himself in treating a blanket-ban policy as the basis for awarding costs against the authority under section 64(1) of the Magistrates' Courts Act 1980.",
+      "legal_issues": [
+        "Principles governing costs awards against public authorities in licensing appeals",
+        "Whether refusal to renew a taxi licence on medical advice amounted to an arbitrary blanket ban",
+        "Interference with a Recorder's discretion on costs"
+      ],
+      "catchwords": [
+        "judicial review",
+        "taxi licensing",
+        "costs",
+        "Hackney carriage",
+        "diabetes",
+        "blanket policy",
+        "Magistrates' Courts Act section 64"
+      ],
+      "index_terms": [
+        "Telford and Wrekin",
+        "Mr Malik",
+        "Shrewsbury Crown Court",
+        "City of Bradford v Booth",
+        "insulin-dependent diabetic",
+        "DVLA guidance"
+      ],
+      "linked_authorities": [
+        "City of Bradford Metropolitan District Council v Booth"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Statutory framework, facts, ratio and outcome are clearly stated. The summary references Lord Bingham among judges but Moses J presided; judge metadata was not corrected."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2093.json",
+    "status": "done",
+    "notes": "Batch 18 enrichment",
+    "enrichment": {
+      "short_title": "Fuller's earth mining appeal dismissed on need balancing",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Environmental law",
+        "Minerals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Steetley Woburn Bentonite Ltd challenged the Secretary of State's dismissal of its appeal against refusal of planning permission to extract fuller's earth at Wavendon Heath South, Woburn.",
+        "The Inspector found unacceptable harm to landscape, AGLV and County Wildlife Sites, but no harm to listed buildings or the conservation area.",
+        "The claimant argued Woburn Bentonite was uniquely needed by the paper-making industry; the Inspector and Secretary of State rejected that need outweighed the harm.",
+        "The challenge focused on the Inspector's treatment of Dr Thompson's evidence and the national versus local need distinction."
+      ],
+      "procedural_posture": "Section 288 Town and Country Planning Act 1990 application to quash a recovered appeal decision and related highways stopping-up orders.",
+      "outcome": "Application dismissed; related highways challenge dismissed; claimant ordered to pay the Secretary of State's costs summarily assessed at £8,807.25.",
+      "ratio": "Where an inspector has carefully balanced landscape and ecology harm against claimed national need for a mineral, it is not irrational to have regard to an expert's untested doubts about uniqueness when the appellant's own commercially confidential evidence was unpersuasive, and failure to treat local need separately does not vitiate the conclusion when the case was argued as one of national need.",
+      "legal_issues": [
+        "Whether the Inspector erred in relying on Dr Thompson's untested evidence about alternative bentonite deposits",
+        "Whether paragraph 7.75 contained an error of fact about commercial confidentiality",
+        "Whether the Inspector should separately have considered local need sufficient to outweigh local designation harm"
+      ],
+      "catchwords": [
+        "section 288",
+        "planning permission",
+        "fuller's earth",
+        "minerals",
+        "need",
+        "AGLV",
+        "County Wildlife Site",
+        "inspector's report"
+      ],
+      "index_terms": [
+        "Steetley Woburn Bentonite",
+        "Wavendon Heath",
+        "Woburn Bentonite",
+        "paper-making industry",
+        "commercial confidentiality",
+        "Bedfordshire Structure Plan"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed judgment with clear outcome and reasoning on the two grounds of challenge. Judge metadata in the source file is empty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/68.json",
+    "status": "done",
+    "notes": "Batch 18 enrichment",
+    "enrichment": {
+      "short_title": "Damages for breach of warranty of authority on horse sale",
+      "area_of_law": [
+        "Contract law",
+        "Agency",
+        "Damages",
+        "Sale of goods"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Sale of Goods Act 1979",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Habton Farms agreed to sell the racehorse High Spirits for £70,000 to Mr Williamson through bloodstock agent Christopher Nimmo.",
+        "Nimmo had no authority to bind Williamson; Habton Farms claimed damages for breach of warranty of authority against Nimmo.",
+        "The horse was put down on 2 December 1998 while still in the seller's possession before the sale completed.",
+        "The judge awarded £70,000; Nimmo appealed on liability and the measure of damages."
+      ],
+      "procedural_posture": "Appeal from a Mercantile Court judgment on breach of warranty of authority following a failed thoroughbred sale.",
+      "outcome": "Appeal dismissed; Nimmo remained liable for £70,000 damages.",
+      "ratio": "Where an agent warrants his principal's authority and the principal is not bound, the seller may recover as damages for breach of warranty the contract price when the horse dies before completion while the seller reasonably continues to treat the bargain as alive, because the loss of the valuable contract is a natural consequence of the breach and not an independent intervening event.",
+      "legal_issues": [
+        "Whether Nimmo was liable for breach of warranty of authority",
+        "Whether damages should be measured by the contract price or by market value at breach",
+        "Whether the horse's death broke the chain of causation or required mitigation by immediate resale"
+      ],
+      "catchwords": [
+        "breach of warranty of authority",
+        "bloodstock agent",
+        "measure of damages",
+        "sale of horse",
+        "remoteness",
+        "mitigation",
+        "McCalla"
+      ],
+      "index_terms": [
+        "Habton Farms",
+        "High Spirits",
+        "Christopher Nimmo",
+        "Mr Williamson",
+        "racehorse sale",
+        "Suleman v Shahsavari"
+      ],
+      "linked_authorities": [
+        "Suleman v Shahsavari",
+        "Koch Marine Inc v D'Amica Societa Di Navigazione (The Elena D'Amico)",
+        "Jamal v Moolla Dawood Sons & Co",
+        "R v Cugullere",
+        "McCalla"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Liability and damages reasoning are detailed in the Court of Appeal judgment. Parker LJ would have allowed the appeal on measure of damages but was outvoted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/pat/2003/150.json",
+    "status": "done",
+    "notes": "Batch 18 enrichment",
+    "enrichment": {
+      "short_title": "Expedited non-infringement hearing for simvastatin patent",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Civil procedure",
+        "Case management"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Approved Prescription Services sought a declaration of non-infringement of Merck's simvastatin product claims in European Patent (UK) No 0 352 918.",
+        "The disputed limitation was that product claims required less than 0.2% dimeric impurity; APS intended to market a generic with impurity above 0.2% but under its 0.4% regulatory limit after Merck's SPC expired on 5 May 2003.",
+        "Validity proceedings involving other generic manufacturers were listed for June 2003; Merck opposed an expedited March/April construction hearing.",
+        "Merck had pursued interlocutory relief abroad and declined to confirm it would not seek such relief in England."
+      ],
+      "procedural_posture": "Patents Court application for directions to expedite a declaration of non-infringement on a short point of claim construction.",
+      "outcome": "Application granted; the case was to be listed at the end of March or beginning of April with a one-day time limit on the hearing.",
+      "ratio": "Where a commercially urgent declaration of non-infringement turns on a narrow construction issue capable of determination in one day, the court may expedite proceedings despite risk of inconsistent construction decisions elsewhere, especially where the patentee has left open the possibility of interlocutory enforcement and case-management powers can limit disclosure, evidence and hearing length.",
+      "legal_issues": [
+        "Whether APS's non-infringement action should be expedited ahead of parallel validity proceedings",
+        "Risk of inconsistent claim construction between patent judges",
+        "Appropriate use of simplified trial and hearing time limits"
+      ],
+      "catchwords": [
+        "declaration of non-infringement",
+        "claim construction",
+        "simvastatin",
+        "dimeric impurity",
+        "case management",
+        "expedited trial",
+        "generic pharmaceutical"
+      ],
+      "index_terms": [
+        "Approved Prescription Services",
+        "Merck",
+        "EP 0 352 918",
+        "Teva",
+        "Synthon",
+        "Ivax",
+        "European Pharmacopoeia",
+        "Tarkett Sommer v Unilin Beheer"
+      ],
+      "linked_authorities": [
+        "Tarkett Sommer Forsaljnings AB v Unilin Beheer BV",
+        "American Home Products Corporation v Novartis Pharmaceuticals UK Ltd",
+        "Attorney General v Scriven"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Procedural decision and reasoning are clearly set out in a case-management judgment by Laddie J."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/66.json",
+    "status": "done",
+    "notes": "Batch 18 enrichment",
+    "enrichment": {
+      "short_title": "Paris Convention ship exception for regular ferry visits",
+      "area_of_law": [
+        "Patent law",
+        "Intellectual property",
+        "Shipping law",
+        "International law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Patents Act 1977",
+          "provisions": [
+            "section 60(5)(d)",
+            "section 125"
+          ]
+        },
+        {
+          "title": "Paris Convention for the Protection of Industrial Property (1883)",
+          "provisions": [
+            "Article 5 ter"
+          ]
+        },
+        {
+          "title": "Civil Aviation Act 1949",
+          "provisions": [
+            "section 53"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Stena sued Irish Ferries for infringement of a catamaran superstructure patent by the ferry Jonathan Swift sailing between Dublin and Holyhead.",
+        "The ferry was registered in Ireland and spent about three hours in UK territorial waters on each regular crossing.",
+        "The judge held claim 3 valid and infringed but that section 60(5)(d) provided a defence.",
+        "Stena appealed on the meaning of 'temporarily' and whether the exception applied to the ship as a whole."
+      ],
+      "procedural_posture": "Appeal and cross-appeal from a Patents Court decision on infringement, validity and the Paris Convention ship exception.",
+      "outcome": "Appeal and cross-appeal dismissed.",
+      "ratio": "Under section 60(5)(d) of the Patents Act 1977, derived from Article 5 ter of the Paris Convention, a foreign ship regularly entering UK territorial waters for international carriage is there 'temporarily' regardless of frequency, and the exception applies to the patented feature used in the body of the ship rather than being limited to component parts only.",
+      "legal_issues": [
+        "Whether regular scheduled ferry entries are 'temporary' within section 60(5)(d)",
+        "Whether the exception covers a patent to the whole vessel or only parts",
+        "Validity of claim 3 for latticework superstructure windows in catamarans"
+      ],
+      "catchwords": [
+        "section 60(5)(d)",
+        "Paris Convention",
+        "Article 5 ter",
+        "patent infringement",
+        "ferry",
+        "territorial waters",
+        "relevant ship",
+        "catamaran"
+      ],
+      "index_terms": [
+        "Stena",
+        "Irish Ferries",
+        "Jonathan Swift",
+        "latticework beams",
+        "British Road Services v Wurzal",
+        "Anthony J Cali v Japan Airlines",
+        "Rolltrailer"
+      ],
+      "linked_authorities": [
+        "British Road Services v Wurzal",
+        "Anthony J Cali v Japan Airlines Inc",
+        "Biogen Inc v Medeva Plc",
+        "Catnic Components Ltd v Hill & Smith Ltd"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Core ratio on section 60(5)(d) is extensively reasoned. Judge metadata in the source file includes many historical names and appears unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/939.json",
+    "status": "done",
+    "notes": "Batch 18 enrichment",
+    "enrichment": {
+      "short_title": "Bovis settlement preliminary issues on subcontractor claims",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Damages",
+        "Technology and Construction Court procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "JCT Standard Form of Building Contract with Contractor's Design (1981 Edition)",
+          "provisions": []
+        },
+        {
+          "title": "DOM/1 Conditions of Contract",
+          "provisions": [
+            "clause 4.5"
+          ]
+        },
+        {
+          "title": "DOM/2 Articles of Agreement",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Disputes arose from Bovis's £184m design-and-build contract for the Braehead shopping and leisure centre in Glasgow.",
+        "Baris carried out most fire protection work before Bovis replaced it with RD Fire; Braehead counterclaimed for extensive defects including fire protection.",
+        "Bovis settled with Braehead and sought indemnity or direct claims against RD Fire and Baris for fire protection defects.",
+        "HH Judge Thornton QC determined preliminary issues on whether the settlement barred or limited those claims."
+      ],
+      "procedural_posture": "Technology and Construction Court preliminary issues judgment on the effect of a main-contract settlement on part 20 claims against fire protection subcontractors.",
+      "outcome": "Preliminary issues answered largely against Bovis; parties were to amend pleadings and the court would then decide what claims survived or should be struck out.",
+      "ratio": "A main contractor who settles with the employer cannot recover from subcontractors the full hypothetical cost of remedial works where the settlement capped its loss, did not require it to carry out repairs, and broke the chain of causation; performance-interest claims fail where the contractor neither intends nor is obliged to undertake remedial expenditure and lacks an enforceable interest in complete performance against the employer.",
+      "legal_issues": [
+        "Whether Bovis's settlement with Braehead barred direct claims against RD Fire and Baris",
+        "Whether the settlement broke the chain of causation",
+        "Whether Bovis could recover performance-interest damages for fire protection defects",
+        "Procedural issues on pleading the settlement and strike-out applications"
+      ],
+      "catchwords": [
+        "preliminary issues",
+        "building contract",
+        "sub-contractor",
+        "settlement",
+        "performance interest",
+        "chain of causation",
+        "fire protection",
+        "McAlpine",
+        "Panatown"
+      ],
+      "index_terms": [
+        "Bovis Lend Lease",
+        "RD Fire Protection",
+        "Baris",
+        "Braehead Glasgow",
+        "St Martins Property v McAlpine",
+        "Alfred McAlpine Construction v Panatown",
+        "Braehead shopping centre"
+      ],
+      "linked_authorities": [
+        "St Martins Property Corporation Ltd v Sir Robert McAlpine Ltd",
+        "Alfred McAlpine Construction Ltd v Panatown Ltd",
+        "Ruxley Electronics and Construction Ltd v Forsyth"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Issue-by-issue answers are stated in the judgment though the annexed schedule is not reproduced in the captured text. Judge metadata in the source file appears unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/245.json",
+    "status": "done",
+    "notes": "Batch 18 enrichment",
+    "enrichment": {
+      "short_title": "Forgetfulness no defence to bladed article charge",
+      "area_of_law": [
+        "Criminal law",
+        "Public order and weapons",
+        "Magistrates' courts",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 139(1)",
+            "section 139(4)"
+          ]
+        },
+        {
+          "title": "Prevention of Crime Act 1953",
+          "provisions": [
+            "section 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Bayliss, a carpet and vinyl layer, forgot a lock knife in his belt after using it at work on 30 December 2001.",
+        "He was arrested in Tesco's superstore in Bury St Edmunds on 31 December 2001 and convicted under section 139(1).",
+        "The justices found he had forgotten the knife but that forgetfulness did not amount to good reason under section 139(4).",
+        "He appealed by case stated on knowledge and good reason."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Bury St Edmunds Magistrates' Court against conviction for possessing a bladed article in a public place.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "A person who placed a bladed work knife in his clothing and forgot it continues to 'have' the article with him in a public place under section 139(1), following McCalla; forgetfulness alone cannot constitute good reason under section 139(4), following Gregson and Hargreaves.",
+      "legal_issues": [
+        "Whether forgetfulness meant the defendant did not knowingly have the knife with him",
+        "Whether forgetfulness could amount to good reason under section 139(4)"
+      ],
+      "catchwords": [
+        "section 139",
+        "bladed article",
+        "lock knife",
+        "public place",
+        "good reason",
+        "forgetfulness",
+        "case stated",
+        "McCalla"
+      ],
+      "index_terms": [
+        "Bayliss",
+        "Tesco",
+        "Bury St Edmunds",
+        "Gregson",
+        "Hargreaves",
+        "R v Cugullere"
+      ],
+      "linked_authorities": [
+        "R v Cugullere",
+        "McCalla",
+        "Gregson",
+        "Hargreaves",
+        "Glidewell"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Facts, statutory provisions, authorities and outcome are clearly stated in a focused criminal appeal judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/114.json",
+    "status": "done",
+    "notes": "Batch 18 enrichment",
+    "enrichment": {
+      "short_title": "Hastings-Bass rule makes mistaken appointment voidable",
+      "area_of_law": [
+        "Trusts",
+        "Equity",
+        "Private client"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Andrew Barr settled shares in an Isle of Man company on trust with Abacus Trust Company as trustee.",
+        "He intended a 40% appointment to discretionary trusts for his sons but Coopers & Lybrand adviser Graham Ward-Thompson mistakenly instructed a 60% appointment.",
+        "The mistake was discovered in 1992 but not challenged until 2002; substantial distributions had since been made to the sons.",
+        "The trustee and protector sought a declaration on the validity of the appointment under the Rule in Hastings-Bass."
+      ],
+      "procedural_posture": "Chancery application for determination of the validity of a trustee's exercise of a power of appointment.",
+      "outcome": "Appointment held voidable rather than void; further hearing adjourned to determine whether it should be avoided.",
+      "ratio": "The Rule in Hastings-Bass requires a breach of fiduciary duty in failing to consider relevant matters, not mere mistake; where a trustee's agent miscommunicated the settlor's wishes through fault attributable to the trustee, the flawed appointment is voidable rather than void so lapse of time and intervening distributions may be weighed.",
+      "legal_issues": [
+        "Whether mistake alone invokes the Rule in Hastings-Bass",
+        "Whether the trustee breached fiduciary duty in relying on Ward-Thompson",
+        "Whether a flawed trustee decision under the Rule is void or voidable"
+      ],
+      "catchwords": [
+        "Hastings-Bass",
+        "trustee discretion",
+        "power of appointment",
+        "voidable",
+        "fiduciary duty",
+        "mistake",
+        "protector"
+      ],
+      "index_terms": [
+        "Abacus Trust Company",
+        "Andrew Barr",
+        "Colyb Limited",
+        "Re Hastings-Bass",
+        "Mettoy Pension Trustees v Evans",
+        "Stannard v Fisons Pension Trust"
+      ],
+      "linked_authorities": [
+        "Re Hastings-Bass",
+        "Mettoy Pension Trustees Ltd v Evans",
+        "Stannard v Fisons Pension Trust Ltd",
+        "Scott v National Trust",
+        "Edge v Pensions Ombudsman",
+        "Anker-Petersen v Christensen",
+        "Breadner v Granville-Grossman"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed analysis of Hastings-Bass issues with clear holding that the appointment is voidable. Judge metadata includes appellate names and appears unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/229.json",
+    "status": "done",
+    "notes": "Batch 18 enrichment",
+    "enrichment": {
+      "short_title": "Rural barn conversion appeal allowed on emerging plan weight",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Land use"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Austin appealed against refusal of planning permission to convert three Cornwall barns to mixed residential and workshop use with subsidiary business use.",
+        "An inspector dismissed the appeal, giving significant weight to emerging Local Plan policy H-11 requiring employment-led rural conversions.",
+        "The emerging plan was at inquiry stage with objections to H-11; the inspector required marketing for business re-use despite location unsuitability arguments.",
+        "The council confirmed at the hearing that full employment use was unlikely to be suitable given the remote site and poor transport links."
+      ],
+      "procedural_posture": "Statutory challenge under section 288 Town and Country Planning Act 1990 to an inspector's decision following an informal hearing.",
+      "outcome": "Appeal allowed; inspector's decision quashed; First Secretary of State ordered to pay costs of £5,770.57.",
+      "ratio": "An inspector erred in law by giving significant weight to an emerging local plan policy still under inquiry with reasoned objections, and by treating absence of marketing for business re-use as decisive where the policy itself allowed unsuitability of location to displace that requirement.",
+      "legal_issues": [
+        "Weight to be given to emerging development plan policies under PPG1",
+        "Application of Structure Plan ENV11 and emerging policy H-11 to rural barn conversions",
+        "Whether the inspector misapplied the marketing requirement for employment re-use"
+      ],
+      "catchwords": [
+        "planning appeal",
+        "barn conversion",
+        "emerging local plan",
+        "PPG7",
+        "PPG1",
+        "prematurity",
+        "employment use",
+        "rural development"
+      ],
+      "index_terms": [
+        "Austin",
+        "Penwith District Council",
+        "Cornwall Structure Plan ENV11",
+        "policy H-11",
+        "Penzance Local Plan",
+        "St Erth",
+        "Objective 1 funding"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Planning policies, inspector error and outcome are clearly explained. PPG references are to policy guidance rather than statute."
+      }
+    }
+  }
+]

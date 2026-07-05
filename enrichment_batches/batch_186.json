@@ -1,0 +1,731 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1738.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ judgment on VAT interest after later zero-rating of supplies.",
+    "enrichment": {
+      "short_title": "VAT interest remains due after assessment even when zero-rating conditions are later satisfied",
+      "area_of_law": [
+        "Tax law",
+        "Value Added Tax",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": ["s 4(1)", "s 10", "s 25(1)", "s 30(1)", "s 30(8)", "s 30(9)", "s 50A", "s 63", "s 73(1)", "s 73(9)", "s 74(1)", "s 74(3)", "s 74(5)", "s 76(3)", "s 76(5)", "s 76(7)", "s 76(8)", "s 80", "s 82", "s 83"]
+        },
+        {
+          "title": "Finance Act 1996",
+          "provisions": ["s 197"]
+        },
+        {
+          "title": "Value Added Tax Regulations 1995",
+          "provisions": ["reg 25", "reg 31", "reg 32", "reg 34", "reg 39", "reg 40", "reg 134"]
+        },
+        {
+          "title": "Sixth Council Directive 77/388/EEC",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Musashi Autoparts supplied motor components to EU customers but lacked within three months valid documentary evidence that goods had been removed from the UK for zero-rating.",
+        "Customs assessed VAT of about £800,626 plus interest of about £55,084 under section 73; later evidence satisfied zero-rating conditions but Customs refused to adjust the interest assessment.",
+        "The VAT tribunal held that once zero-rating was satisfied the VAT assessment was reduced to nil and no interest could remain due; Lightman J and the Court of Appeal upheld Customs' position."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from a High Court decision allowing Customs' appeal against the VAT tribunal on a preliminary issue.",
+      "outcome": "Appeal dismissed; taxpayer remains liable for interest assessed on valid section 73 VAT assessments notwithstanding later satisfaction of zero-rating conditions.",
+      "ratio": "Where a taxpayer fails within three months to meet VAT Notice 703 conditions for zero-rating EC removals, VAT is due and a valid section 73 assessment carries interest under section 74; later adjustment of VAT accounts to zero-rate the supply in a subsequent accounting period gives a credit against VAT but does not withdraw, reduce or discharge the accrued interest liability on the earlier assessment.",
+      "legal_issues": [
+        "Whether interest under section 74 continues when assessed VAT later ceases to be due because zero-rating conditions are satisfied",
+        "Whether later satisfaction of zero-rating conditions retrospectively nullifies a valid section 73 assessment",
+        "Whether account adjustments under VAT Notice 703 paragraph 9.4 constitute 'payment' under section 74"
+      ],
+      "catchwords": [
+        "VAT interest",
+        "zero-rating",
+        "EC removals",
+        "section 73 assessment",
+        "section 74 interest",
+        "VAT Notice 703",
+        "prescribed accounting period"
+      ],
+      "index_terms": [
+        "Musashi Autoparts",
+        "Customs and Excise VAT assessment",
+        "bridging loan account adjustment",
+        "export evidence three-month rule",
+        "Lightman J VAT"
+      ],
+      "linked_authorities": [
+        {
+          "name": "C&E Commissioners v Nomura Property",
+          "citation": "[1994] STC 461"
+        },
+        {
+          "name": "P and O Steam Navigation Company v Commissioners of Customs and Excise",
+          "citation": "[1991] VATTR 327"
+        },
+        {
+          "name": "Mellham Ltd v Burton (Collector of Taxes)",
+          "citation": "[2003] STC 441"
+        },
+        {
+          "name": "R (Cardiff City Council) v Commissioners for Customs and Excise",
+          "citation": "[2003] EWCA Civ 1456"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment available with detailed statutory analysis and clear unanimous outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2902.json",
+    "status": "done",
+    "notes": "Complete Chancery appeal on trade mark invalidity and passing off under s 5(4)(a).",
+    "enrichment": {
+      "short_title": "Dixy Fried Chicken trade mark appeal: insufficient passing-off evidence to invalidate registration",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks",
+        "Passing off"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": ["s 3(1)(a)", "s 3(1)(d)", "s 3(6)", "s 5(4)(a)"]
+        }
+      ],
+      "key_facts": [
+        "Trade mark registration No 2111700 for 'DIXY FRIED CHICKEN' and a cartoon chicken head in Class 29 was declared invalid by the Registrar under section 5(4)(a) on passing-off grounds.",
+        "Challenger New Stratford relied on alleged prior reputation of Mr Akhtar at West Ham Lane and Station Road restaurants; Euro contended goodwill vested in franchisor GB/Euro under franchise agreements.",
+        "Evidence was disorganised; forgery allegations against a 1986 franchise agreement with Mr Raja were unsupported; limited proof of trading or reputation at the critical date (27 September 1996)."
+      ],
+      "procedural_posture": "Appeal to the High Court (Chancery) from a Registrar of Trade Marks decision declaring invalidity.",
+      "outcome": "Appeal allowed; declaration of invalidity set aside; section 5(4)(a) ground not made out.",
+      "ratio": "On a section 5(4)(a) invalidity attack the challenger must prove on the balance of probabilities that use of the registered mark would be prevented by passing off, with credible evidence of reputation extending to the registered goods at the date of application; mere assertion, weak forgery allegations without proper proof, and fragmented restaurant trading history do not establish a prima facie case.",
+      "legal_issues": [
+        "Burden and standard of proof on section 5(4)(a) invalidity based on passing off",
+        "Whether passing off should be assessed at the date of trade mark application",
+        "Whether alleged franchise goodwill belonged to franchisor rather than franchisee",
+        "Proof required for allegations of document forgery in Registry proceedings"
+      ],
+      "catchwords": [
+        "trade mark invalidity",
+        "section 5(4)(a)",
+        "passing off",
+        "unregistered trade mark",
+        "goodwill",
+        "franchise agreement",
+        "fast food trade mark"
+      ],
+      "index_terms": [
+        "Dixy Fried Chickens",
+        "REEF Trade Mark",
+        "WILD CHILD Trade Mark",
+        "Hornal v Neuberger",
+        "Registrar of Trade Marks appeal",
+        "Class 29 chicken products"
+      ],
+      "linked_authorities": [
+        {
+          "name": "REEF Trade Mark",
+          "citation": "[2002] RPC 19"
+        },
+        {
+          "name": "WILD CHILD Trade Mark",
+          "citation": "[1998] RPC 455"
+        },
+        {
+          "name": "Hornal v Neuberger Products Limited",
+          "citation": "[1957] QB 247"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment with detailed fact findings on evidence quality and passing-off requirements."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1728.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ judgment on scope of damages in solicitor negligence following Johnson v Gore Wood (No 1).",
+    "enrichment": {
+      "short_title": "Johnson v Gore Wood damages appeal: scope of solicitor's duty limits recoverable personal losses",
+      "area_of_law": [
+        "Professional negligence",
+        "Solicitors",
+        "Damages",
+        "Reflective loss"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Following House of Lords rulings in Johnson v Gore Wood (No 1) on abuse of process and reflective loss, Hart J awarded Mr Johnson only about £169,973 after a five-week trial on a claim exceeding £4.3m.",
+        "Gore Wood had negligently advised on exercise of a development option and that related Chancery litigation would be a six-month 'no-lose' matter; proceedings lasted about three years and WWH later recovered about £1.5m in a separate company action.",
+        "The Court of Appeal reviewed which personal borrowings, investment losses, pension and tax liabilities fell within the scope of Gore Wood's duty and causation limits."
+      ],
+      "procedural_posture": "Appeal and cross-appeal to the Court of Appeal from a High Court judgment on damages after trial of a solicitor negligence claim.",
+      "outcome": "Appeal allowed in part and cross-appeal allowed in part; damages recalculated on issues including personal borrowings cut-off date (1 December 1989), mitigation, and various loan interest claims; consequential matters remitted.",
+      "ratio": "In solicitor negligence the court must identify the kind of loss for which the duty was owed using SAAMCO principles; a negligent 'six-month no-lose' litigation forecast does not make the solicitor responsible for all subsequent personal borrowings and business losses, and recoverable heads are limited by causation, remoteness, mitigation and whether loss is reflective of company loss.",
+      "legal_issues": [
+        "Scope of a solicitor's duty of care where advice relates to company litigation but claimant sues for personal losses",
+        "Application of SAAMCO 'kind of loss' test to professional negligence damages",
+        "Cut-off date for recoverable personal borrowings caused by negligent litigation advice",
+        "Whether claimant failed to mitigate by not selling Sunnyfields development site",
+        "Reflective loss and abuse of process following Johnson v Gore Wood (No 1)"
+      ],
+      "catchwords": [
+        "solicitor negligence",
+        "scope of duty",
+        "SAAMCO",
+        "reflective loss",
+        "professional negligence damages",
+        "mitigation",
+        "option exercise",
+        "personal borrowings"
+      ],
+      "index_terms": [
+        "Johnson v Gore Wood",
+        "Gore Wood & Co",
+        "Westway Homes",
+        "Sunnyfields site",
+        "Hart J damages",
+        "AdFocus",
+        "Collector-Piece Videos"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Johnson v Gore Wood & Co",
+          "citation": "[2002] 2 AC 1"
+        },
+        {
+          "name": "South Australian Asset Management Corporation v York Montague",
+          "citation": "[1997] 1 AC 197"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Very long judgment; enrichment drawn from opening, issue list and disposition; core ratio on duty scope is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1688.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ judgment on brother-to-brother loan dispute and inadequacy of county court reasons.",
+    "enrichment": {
+      "short_title": "Hartley brothers' loan appeal: county court finding of personal loans upheld despite thin judgment",
+      "area_of_law": [
+        "Contract law",
+        "Loan agreements",
+        "Civil procedure",
+        "Evidence and credibility"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Jeremy Hartley claimed he lent John Hartley £66,000 in 1995-1996, transferred to John's company QTL; John argued loans were from Jeremy's company SIL or to QTL not John personally.",
+        "After a one-day county court hearing HHJ Rudd gave brief judgment accepting Jeremy's evidence and rejecting John's credibility partly because John had signed false company accounts.",
+        "The Court of Appeal reviewed the transcript and declined to order a retrial despite inadequately reasoned judgment."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from Southampton County Court judgment on loan liability.",
+      "outcome": "Appeal dismissed; possession/judgment for claimant upheld; appellant ordered to pay £10,000 costs of appeal.",
+      "ratio": "An inadequately reasoned county court judgment may still be upheld if, on full review of evidence and argument, the appellate court can see a valid basis for the judge's preference of one witness over another; lack of credibility from knowingly signing false accounts may support rejecting a defendant's account, and brother-to-brother urgent loans without interest terms may support a personal loan finding.",
+      "legal_issues": [
+        "Whether county court judge erred in preferring claimant's credibility over defendant's",
+        "Whether payments to a company can be loans to an individual borrower",
+        "Whether SIL debiting director's loan account shows loans were by Jeremy personally",
+        "Whether delayed solicitor demands against company undermined personal loan case",
+        "Whether inadequate reasons require retrial under English v Emery Reimbold"
+      ],
+      "catchwords": [
+        "brother loan",
+        "personal loan",
+        "company loan",
+        "credibility",
+        "inadequate reasons",
+        "director loan account",
+        "English v Emery"
+      ],
+      "index_terms": [
+        "Jeremy Hartley",
+        "John Hartley",
+        "QuMetric Technology",
+        "Stagwood Industries",
+        "Southampton County Court",
+        "creditors voluntary liquidation"
+      ],
+      "linked_authorities": [
+        {
+          "name": "English v Emery Reimbold & Strick Ltd",
+          "citation": "[2002] 3 All ER 385"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full judgment with detailed factual and credibility analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3094.json",
+    "status": "done",
+    "notes": "Complete admin court judgment quashing PSV-only conditions on 1957 outline permission access approval.",
+    "enrichment": {
+      "short_title": "Redrow Homes: PSV-only access condition unlawfully modified 1957 outline planning permission",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Highways"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["s 100", "s 107", "s 288"]
+        }
+      ],
+      "key_facts": [
+        "Redrow sought approval under condition 5 of a 1957 outline permission for access 6C onto the B4055 at a large Gloucestershire site.",
+        "The Secretary of State allowed the reserved matters appeal but imposed conditions restricting access 6C to public service vehicles only and requiring redesign, because unrestricted use would harm highway safety at junction 17 M5.",
+        "Redrow and South Gloucestershire Council challenged the conditions as an unlawful modification of the 1957 permission granting all-purpose accesses."
+      ],
+      "procedural_posture": "Section 288 challenge to quash Secretary of State decision approving reserved matters subject to unlawful conditions.",
+      "outcome": "Application allowed; Secretary of State's decision quashed; conditions (i) and (ii) unlawful as modification of parent permission.",
+      "ratio": "A condition on approval of reserved matters must not materially derogate from the parent outline permission; the 1957 permission granted all-purpose accesses at 6A and 6C (with 6B limited by express condition 6), so a PSV-only restriction on 6C could only be imposed by modification order under section 100 with compensation under section 107, not by conditions on reserved matters approval.",
+      "legal_issues": [
+        "Whether PSV-only use condition on reserved matters approval derogates from outline permission",
+        "Construction of 1957 permission paragraph (v) and conditions 5 and 6",
+        "Whether Secretary of State could consider wider highway network including M5 junction 17",
+        "Kingsway Investments principle on misuse of reserved matters approval",
+        "Distinction between designing a safe all-purpose access and restricting permitted use"
+      ],
+      "catchwords": [
+        "reserved matters",
+        "outline planning permission",
+        "planning conditions",
+        "derogation from permission",
+        "all-purpose access",
+        "PSV restriction",
+        "highway safety",
+        "section 288"
+      ],
+      "index_terms": [
+        "Redrow Homes",
+        "access 6C",
+        "B4055",
+        "1957 ICI permission",
+        "Stevens and Partridge",
+        "Kingsway Investments",
+        "Proberun"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Kingsway Investments v Kent County Council",
+          "citation": "[1971] AC 72"
+        },
+        {
+          "name": "R v Newbury DC ex parte Stevens and Partridge",
+          "citation": "[1992] 65 P&CR 438"
+        },
+        {
+          "name": "Proberun Limited v Secretary of State for the Environment",
+          "citation": "[1990] 3 PLR 79"
+        },
+        {
+          "name": "R v Newbury District Council, ex parte Chieveley Parish Council",
+          "citation": "[1997] JPL 1137"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full judgment with detailed permission construction and clear quashing order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3190.json",
+    "status": "done",
+    "notes": "Complete admin court judgment declaring Paul Purvis a vexatious litigant under section 42.",
+    "enrichment": {
+      "short_title": "Attorney General obtains civil proceedings order against habitual vexatious litigant Paul Purvis",
+      "area_of_law": [
+        "Civil procedure",
+        "Vexatious litigants",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["s 29(3)", "s 42"]
+        }
+      ],
+      "key_facts": [
+        "The Attorney General applied in October 2000 for Paul Purvis to be declared a vexatious litigant in respect of all civil proceedings; Purvis did not attend the hearing.",
+        "Purvis had pursued numerous dishonest and harassing civil claims including false insurance claims, fraudulent bankruptcy proceedings, and repeated actions against trustees and neighbours.",
+        "Purvis also sought to renew judicial review of a 1999 Crown Court trial decision; the court refused adjournment and dismissed that application."
+      ],
+      "procedural_posture": "Attorney General's application for a civil proceedings order under section 42, with Purvis's adjournment application and renewed judicial review application heard together.",
+      "outcome": "Adjournment refused; section 42 civil proceedings order made; injunction against acting as litigation friend or McKenzie friend continued; hopeless judicial review application dismissed.",
+      "ratio": "A civil proceedings order under section 42 is justified where a person habitually institutes civil proceedings without reasonable ground, including dishonest claims, fraudulent proceedings, harassment of opponents, and disregard of court orders; ill-health adjournment requires proper medical evidence, and judicial review is unavailable for trial-on-indictment decisions under section 29(3).",
+      "legal_issues": [
+        "Whether Purvis's litigation history satisfies section 42 vexatious litigant criteria",
+        "Whether adjournment on unsupported ill-health grounds should be granted",
+        "Whether Purvis breached injunction against acting as McKenzie friend",
+        "Whether judicial review lies against Crown Court trial conduct under section 29(3)"
+      ],
+      "catchwords": [
+        "vexatious litigant",
+        "section 42 order",
+        "civil proceedings order",
+        "habitual litigant",
+        "McKenzie friend",
+        "judicial review Crown Court",
+        "adjournment ill-health"
+      ],
+      "index_terms": [
+        "Paul Purvis",
+        "Attorney General vexatious",
+        "Manor School bankruptcy",
+        "Norwich Union fraud",
+        "Grepe v Loam order",
+        "Edward George Holder affidavit"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full oral judgment with extensive litigation chronology; linked case names cited in narrative only."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3139.json",
+    "status": "done",
+    "notes": "Complete admin court judgment on ASBO breach and designated local authority under CA 1989 s 31(8).",
+    "enrichment": {
+      "short_title": "ASBO breach appeal: anti-social behaviour order is order pronounced in court not written document",
+      "area_of_law": [
+        "Crime and disorder",
+        "Anti-social behaviour orders",
+        "Magistrates' courts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": ["s 1", "s 1(7)", "s 1(9)", "s 1(10)"]
+        }
+      ],
+      "key_facts": [
+        "Walkling, born April 1986, was convicted of breaching an ASBO made on 12 November 2001 by threatening behaviour and foul language in Snodland on 18 January 2003.",
+        "The written ASBO document stated expiry on 10 November 2003 (less than two years) but the chairman orally pronounced a two-year order recorded in the court register.",
+        "Magistrates found the 2001 ASBO valid; the High Court held the oral court order governed and refused leave to appeal."
+      ],
+      "procedural_posture": "Appeal by way of case stated from magistrates' conviction for breach of ASBO.",
+      "outcome": "Appeal dismissed; ASBO of 12 November 2001 held valid; leave to appeal to Court of Appeal refused.",
+      "ratio": "An anti-social behaviour order is the order pronounced orally in open court, not the subsequently signed written document; section 105(6) Children Act disregard provisions do not displace the general rule for ASBO construction, and a one-day error favouring the defendant in the written document does not render the valid oral order a nullity.",
+      "legal_issues": [
+        "Whether an ASBO is the oral pronouncement or the written signed document",
+        "Whether section 1(9) Crime and Disorder Act 1998 requires a written order for service",
+        "Whether ASBO failing section 1(7) minimum two-year period in writing is a nullity",
+        "Interaction of magistrates court register and oral pronouncement"
+      ],
+      "catchwords": [
+        "ASBO breach",
+        "anti-social behaviour order",
+        "oral pronouncement",
+        "written order",
+        "section 1(7)",
+        "section 1(10)",
+        "magistrates case stated"
+      ],
+      "index_terms": [
+        "Walkling",
+        "Snodland Kent",
+        "Maidstone Magistrates",
+        "Tonbridge and Malling Borough Council",
+        "two-year ASBO",
+        "R v Kent"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Kent",
+          "citation": "[1983] 1 All ER 1"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment with clear ratio on ASBO identity and validity."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/3334.json",
+    "status": "done",
+    "notes": "Complete Chancery judgment striking out negligence claim over criminal conviction personal injury.",
+    "enrichment": {
+      "short_title": "Solicitor has no duty to warn criminal defence lawyers of client's incapacity to plead",
+      "area_of_law": [
+        "Professional negligence",
+        "Solicitors",
+        "Duty of confidence",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Marsh, a woman with IQ 65, sued former solicitors Sofaer for negligence relating to inheritance and business advice after Ben Goder's death.",
+        "She claimed solicitors should have informed her criminal defence lawyers of her lack of mental capacity, alleging she was wrongly convicted in 1988 of fraudulent company trading and imprisoned.",
+        "The Vice Chancellor struck out paragraphs 22-25 of the particulars claiming personal injury from the conviction, holding no duty to breach confidence by contacting other solicitors."
+      ],
+      "procedural_posture": "Application to strike out or obtain summary judgment dismissing personal injury claim arising from criminal conviction.",
+      "outcome": "Application granted; negligence claim relating to criminal proceedings personal injury struck out.",
+      "ratio": "A solicitor's duty of confidence extends to conclusions formed from client communications and is not relaxed merely because another solicitor acts for the same client on different matters; there is no duty to inform criminal defence solicitors of concerns about capacity without client consent, and the Hunter principle against collateral attack on convictions does not need deciding where no duty exists.",
+      "legal_issues": [
+        "Whether retained solicitor owed duty to inform criminal defence solicitors of client's incapacity",
+        "Whether solicitor's duty of confidence prevents disclosure to another solicitor on a different retainer",
+        "Whether claim is a collateral attack on subsisting criminal conviction",
+        "Strike out under CPR 3.4 and summary judgment under CPR 24.2"
+      ],
+      "catchwords": [
+        "solicitor negligence",
+        "duty of confidence",
+        "mental capacity",
+        "fitness to plead",
+        "criminal conviction",
+        "collateral attack",
+        "strike out",
+        "McKenzie friend"
+      ],
+      "index_terms": [
+        "Marsh v Sofaer",
+        "Ben Goder",
+        "Ciel Travel",
+        "Court of Protection receiver",
+        "Wood Green Crown Court",
+        "Hunter v Chief Constable West Midlands"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hunter v Chief Constable of the West Midlands",
+          "citation": "[1982] AC 529"
+        },
+        {
+          "name": "Hall v Simons",
+          "citation": "[2000] 1 AC 615"
+        },
+        {
+          "name": "Mortgage Express v Bowerman",
+          "citation": ""
+        },
+        {
+          "name": "Walpole v Northwood Rural District Council",
+          "citation": ""
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full judgment; Walpole and Bowerman cited without full citation in text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1717.json",
+    "status": "done",
+    "notes": "Complete EWCA Civ judgment on undue influence, bank charges and sub-subrogation.",
+    "enrichment": {
+      "short_title": "UCB possession appeal: equitable charge by sub-subrogation to unpaid vendor's lien upheld",
+      "area_of_law": [
+        "Land law",
+        "Mortgages",
+        "Equity",
+        "Subrogation",
+        "Undue influence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mrs Hedworth charged Lake District home Hause Farm jointly with solicitor husband Peter; UCB advanced about £428,110 in 1990 to refinance Barclays bridging loan and other debts.",
+        "Recorder Narayan rejected Mrs Hedworth's undue influence/misrepresentation claim with inadequate reasoning; appeal court set that finding aside.",
+        "UCB succeeded on ground 5: sub-subrogation to Barclays' unpaid vendor's lien for £132,906.75 used to purchase Martindale properties when voidable charges could not give full security bargained for."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from county court possession order on all-moneys legal charge; UCB respondent's notice on alternative subrogation grounds.",
+      "outcome": "Appeal allowed in part; declaration that UCB has equitable charge on Hause Farm for £132,906.75 plus interest and costs with possession relief; retrial otherwise required on undue influence issues.",
+      "ratio": "Where a lender pays off purchase-money lending but receives only a voidable security, Butler v Rice principles deem the prior lien kept alive and the paying lender subrogated; sub-subrogation to an unpaid vendor's lien is conceptually sound and avoids a windfall to a mortgagor who would otherwise escape the security bargained for when a voidable charge is ineffective from inception.",
+      "legal_issues": [
+        "Whether trial judge's rejection of undue influence evidence can stand",
+        "Whether remortgage put UCB on inquiry under Etridge and O'Brien",
+        "Whether UCB may subrogate to Barclays charge discharged from advance",
+        "Whether voidable charge differs from void charge for subrogation purposes",
+        "Sub-subrogation to unpaid vendor's lien under Butler v Rice and Piddington"
+      ],
+      "catchwords": [
+        "undue influence",
+        "mortgage possession",
+        "subrogation",
+        "sub-subrogation",
+        "unpaid vendor's lien",
+        "voidable security",
+        "matrimonial home charge",
+        "Etridge"
+      ],
+      "index_terms": [
+        "UCB Group v Hedworth",
+        "Hause Farm Martindale",
+        "Barclays bridging loan",
+        "Martindale properties",
+        "Peter Hedworth solicitor",
+        "Castle Phillips Finance v Piddington"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Royal Bank of Scotland plc v Etridge (No 2)",
+          "citation": "[2002] 2 AC 773"
+        },
+        {
+          "name": "Barclays Bank plc v O'Brien",
+          "citation": "[1994] 1 AC 180"
+        },
+        {
+          "name": "CIBC Mortgages plc v Pitt",
+          "citation": "[1994] AC 180"
+        },
+        {
+          "name": "Abbey National Building Society v Cann",
+          "citation": "[1991] 1 AC 56"
+        },
+        {
+          "name": "Castle Phillips Finance v Piddington",
+          "citation": "[1995] 1 FLR 783"
+        },
+        {
+          "name": "Ghana Commercial Bank v Chandiram",
+          "citation": "[1960] AC 732"
+        },
+        {
+          "name": "Butler v Rice",
+          "citation": "[1910] 2 Ch 277"
+        },
+        {
+          "name": "UCB Group Ltd v Williams",
+          "citation": "[2002] EWCA Civ 555"
+        },
+        {
+          "name": "Scotlife Home Loans v Hedworth",
+          "citation": "(1996) 28 HLR 771"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long judgment but clear partial outcome on sub-subrogation ground 5."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2003/2967.json",
+    "status": "done",
+    "notes": "Complete family judgment on designated local authority for interim care orders.",
+    "enrichment": {
+      "short_title": "Care order designation: children not yet ordinarily resident in Newport after three-month move",
+      "area_of_law": [
+        "Family law",
+        "Child care",
+        "Local authority law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": ["s 23(6)", "s 31", "s 31(8)", "s 105(6)"]
+        }
+      ],
+      "key_facts": [
+        "Five children remained subject to interim care orders in long-running Redbridge proceedings; mother moved with children from Barking to Newport in August 2003 with intention to remain.",
+        "Newport argued Redbridge should remain designated authority; Redbridge contended designation should follow ordinary residence to Newport.",
+        "At hearing in November 2003 children had been in Newport about three months and six weeks in current accommodation; mother still had rent payment difficulties."
+      ],
+      "procedural_posture": "High Court (Family) hearing to determine which local authority should hold interim and final care orders under Children Act 1989 section 31(8).",
+      "outcome": "London Borough of Redbridge designated as authority for interim care orders; Newport not designated at this stage.",
+      "ratio": "Under section 31(8) ordinary residence is determined at the hearing date, disregarding periods when section 105(6) applies but including periods when a child is at home with a parent under Re H; after placement at home from February 2003 the clock restarted, and three months in Newport with unsettled housing was insufficient to acquire ordinary residence, so section 31(8)(b) designates the authority where threshold circumstances arose (Redbridge).",
+      "legal_issues": [
+        "Which local authority should be designated on a care order under section 31(8)",
+        "Whether section 105(6) clock-stop applies when child placed at home with parent under interim care order",
+        "Whether children acquired ordinary residence in Newport within three months",
+        "Application of Northamptonshire and Re H to designated authority disputes"
+      ],
+      "catchwords": [
+        "designated local authority",
+        "care order",
+        "ordinary residence",
+        "section 31(8)",
+        "section 105(6)",
+        "interim care order",
+        "placement with parent",
+        "clock stop"
+      ],
+      "index_terms": [
+        "London Borough of Redbridge",
+        "Newport City Council",
+        "Re BC appropriate local authority",
+        "Gateshead v L",
+        "Northamptonshire v Islington",
+        "Re H EWCA Civ 1629",
+        "Barking to Newport move"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re BC (A Minor) (Care Order: Appropriate Local Authority)",
+          "citation": "[1995] 3 FCR 598"
+        },
+        {
+          "name": "Gateshead Metropolitan Borough Council v L",
+          "citation": "[1996] 2 FLR 179"
+        },
+        {
+          "name": "Newham London Borough Council v I and Brent London Borough Council",
+          "citation": "[1997] 2 FCR 629"
+        },
+        {
+          "name": "North Yorkshire County Council v Wiltshire County Council",
+          "citation": "[1999] 2 FLR 560"
+        },
+        {
+          "name": "Northamptonshire County Council v Islington London Borough Council",
+          "citation": "[1999] 2 FLR 881"
+        },
+        {
+          "name": "Re C (A Child) v Plymouth City Council",
+          "citation": "[2000] 1 FLR 875"
+        },
+        {
+          "name": "Re C (Care Order: Appropriate Local Authority)",
+          "citation": "[1997] 1 FLR 544"
+        },
+        {
+          "name": "Re H (A Child)",
+          "citation": "[2003] EWCA Civ 1629"
+        },
+        {
+          "name": "Re J (A Minor) (Abduction: Custody Rights)",
+          "citation": "[1990] 2 AC 562"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment with detailed synthesis of Court of Appeal authorities."
+      }
+    }
+  }
+]

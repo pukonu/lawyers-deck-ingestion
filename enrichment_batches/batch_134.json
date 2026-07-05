@@ -1,0 +1,801 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2131.json",
+    "status": "done",
+    "notes": "Complete second judicial review judgment; pseudonymised life prisoner challenging post-Jack J prison placement.",
+    "enrichment": {
+      "short_title": "Second JR on PWU placement after prison risk assessment disagreement",
+      "area_of_law": [
+        "Administrative law",
+        "Judicial review",
+        "Prison law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 2", "Article 3"]
+        },
+        {
+          "title": "Prison Service Instruction 71/2000",
+          "provisions": ["Protective Witness Unit admission process"]
+        }
+      ],
+      "key_facts": [
+        "The claimant, a life prisoner using the pseudonym John Smith, brought a second judicial review after succeeding in R (Smith) v SSHD [2003] EWHC 406 (Admin) on flawed Protective Witness Unit admission decision-making.",
+        "After Jack J's judgment the claimant was moved to a PWU, then on 21 March 2003 Mr Moore decided to place him in a Vulnerable Prisoner Unit based largely on Mr Clifford's prison risk assessment.",
+        "Mr Clifford assessed risk as low to medium because he concluded the claimant's account of overhearing a cell confession was untrue, as prison records showed the key individuals were never in the same prison at the same time.",
+        "Police risk assessments had assessed medium probability and serious impact, but the court held Mr Clifford was entitled to take a different view and his assessment was not irrational or perverse."
+      ],
+      "procedural_posture": "Second application for judicial review following permission granted on 14 April 2003; substantive hearing on 11 June 2003 before Maurice Kay J.",
+      "outcome": "Application for judicial review dismissed; Secretary of State awarded costs on usual public-funding terms with set-off against costs in John Smith (No 1).",
+      "ratio": "A prison-service risk assessment differing from concurrent police assessments is not irrational simply because it reaches a lower risk conclusion, provided the assessor was entitled to reject the factual basis of the perceived threat; the police assess risk but do not determine placement decisions.",
+      "legal_issues": [
+        "Whether Mr Clifford's risk assessment was irrational or perverse",
+        "Whether reliance on that assessment vitiated Mr Moore's placement decision",
+        "Whether Articles 2 and 3 ECHR added anything if irrationality was not established"
+      ],
+      "catchwords": [
+        "judicial review",
+        "prison transfer",
+        "risk assessment",
+        "Protective Witness Unit",
+        "irrationality",
+        "credibility of informant"
+      ],
+      "index_terms": [
+        "life prisoner",
+        "Vulnerable Prisoner Unit",
+        "Prison Service",
+        "police risk assessment",
+        "informant protection",
+        "anonymity order lifted"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R (Bloggs 61) v Secretary of State for the Home Department [2003] EWCA Civ 686",
+          "role": "applied"
+        },
+        {
+          "citation": "R (Smith) v Secretary of State for the Home Department [2003] EWHC 406 (Admin)",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full judgment text available; clear dispositive reasoning on irrationality challenge."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1162.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on Telecommunications Code objection time limits and irregular appeal procedure.",
+    "enrichment": {
+      "short_title": "Telecoms Code objection period runs from installation, not affixing of notice",
+      "area_of_law": [
+        "Telecommunications law",
+        "Planning and property",
+        "Civil procedure",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Telecommunications Act 1984",
+          "provisions": ["Schedule 2 paragraph 17(1)", "Schedule 2 paragraph 17(2)", "Schedule 2 paragraph 18", "section 4(5)"]
+        },
+        {
+          "title": "Access to Justice Act 1999 (Destination of Appeals) Order 2000",
+          "provisions": ["Article 1", "Article 4"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Part 52", "CPR 3.1(2)(a)", "CPR 26.5"]
+        }
+      ],
+      "key_facts": [
+        "T Mobile erected a 30-metre lattice telecommunications tower at Kingswood, Surrey; adjacent owners sought removal under the Telecommunications Code.",
+        "Physical installation completed on 15 July 2001; a paragraph 18 notice was affixed on 16 July 2001 but was not reasonably legible from public land.",
+        "Claimants served notice of objection on 25 January 2002, outside three months from installation completion.",
+        "The county court judge held time under paragraph 17(2) only began when a paragraph 18 notice was legibly affixed; the Court of Appeal reversed that construction."
+      ],
+      "procedural_posture": "Defendant's appeal from Kingston County Court preliminary issue decision; appeal initially irregular but regularised with extension of time and conditional permission.",
+      "outcome": "Appeal allowed; preliminary issue answered in the negative (objection not served within three months); defendants recover costs below but not in the Court of Appeal.",
+      "ratio": "Under Schedule 2 paragraphs 17(1) and 17(2) of the Telecommunications Act 1984, the three-month objection period runs from completion of physical installation, not from affixing a paragraph 18 notice; paragraph 18 assists objectors but does not defer or trigger the paragraph 17(2) time limit.",
+      "legal_issues": [
+        "When installation is complete for paragraph 17(2) purposes",
+        "Whether paragraph 18 notice affixing triggers or deferrals the objection period",
+        "Whether the paragraph 18 notice was reasonably legible",
+        "Destination of appeal from multi-track preliminary issue decision"
+      ],
+      "catchwords": [
+        "Telecommunications Code",
+        "notice of objection",
+        "time limit",
+        "reasonably legible notice",
+        "preliminary issue",
+        "destination of appeals"
+      ],
+      "index_terms": [
+        "overhead apparatus",
+        "lattice tower",
+        "Kingswood",
+        "physical installation",
+        "conditional permission to appeal",
+        "Tanfern"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Tanfern Ltd v Cameron-MacDonald [2000] 1 WLR 1311",
+          "role": "applied"
+        },
+        {
+          "citation": "Price v Price [2003] EWCA Civ 888",
+          "role": "considered"
+        },
+        {
+          "citation": "Beck v Ministry of Defence [2003] EWCA Civ 1043",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full multi-judge judgment with detailed statutory analysis and clear order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1160.json",
+    "status": "done",
+    "notes": "Complete clinical negligence fact-finding appeal; summary field truncated but full_text complete.",
+    "enrichment": {
+      "short_title": "Retrial ordered where liability split from causation in venepuncture claim",
+      "area_of_law": [
+        "Clinical negligence",
+        "Personal injury",
+        "Evidence and fact-finding",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Miss Gow alleged Dr Harker negligently inserted a venepuncture needle at an unacceptable angle during a routine blood test on 2 June 1995, piercing structures behind the houseman's vein.",
+        "The county court tried liability alone; the defendant did not accept radial nerve damage had occurred, yet the trial continued on an assumed basis.",
+        "Judge Overend found breach largely by accepting Miss Gow's graphic account of the needle sticking out like a dart, while rejecting other parts of her evidence as mistaken.",
+        "The Court of Appeal held the judge failed adequately to test her evidence against objective probabilities and contemporary medical notes."
+      ],
+      "procedural_posture": "Appeal from Exeter County Court order entering judgment for claimant on preliminary liability after two-day trial.",
+      "outcome": "Appeal allowed; retrial ordered before a different judge on liability and causation together, with two-month stay for mediation.",
+      "ratio": "Where a clinical negligence claim is inherently improbable and causation is disputed, trying liability in isolation from causation is unsafe; a trial judge must test witness credibility against objective facts, documents and overall probabilities before finding breach.",
+      "legal_issues": [
+        "Appropriateness of splitting liability from causation",
+        "Whether the judge's fact-finding technique was adequate",
+        "Whether Miss Gow's account of needle angle and blood in the syringe was internally consistent",
+        "Whether the county court's findings on breach should stand"
+      ],
+      "catchwords": [
+        "clinical negligence",
+        "venepuncture",
+        "radial nerve",
+        "fact-finding",
+        "credibility",
+        "retrial",
+        "causation"
+      ],
+      "index_terms": [
+        "GP blood test",
+        "houseman's vein",
+        "anatomical snuff box",
+        "Ocean Frost approach",
+        "preliminary issue",
+        "mediation stay"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "The Ocean Frost [1985] 1 Lloyd's Rep 1",
+          "role": "applied"
+        },
+        {
+          "citation": "Grace Shipping Inc v C F Sharp & Co (Malaya) Pty Ltd [1987] 1 Lloyd's Rep 207",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long but complete appellate judgment with detailed findings and clear retrial order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1154.json",
+    "status": "done",
+    "notes": "Complete judgment on without-prejudice privilege and extra-territorial restraint of correspondence use.",
+    "enrichment": {
+      "short_title": "Without-prejudice rule does not bar use of Prudential correspondence abroad",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks",
+        "Evidence",
+        "Without prejudice privilege",
+        "Conflict of laws",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["section 12(4)", "Article 10 ECHR"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 31.22(1)(a)"]
+        }
+      ],
+      "key_facts": [
+        "Prudential USA and Prudential UK, long-standing competitors using the PRUDENTIAL mark under informal arrangements from 1974, were litigating in England while UK used historical correspondence in Taiwan and New Zealand trade mark proceedings.",
+        "Prudential USA sought orders restraining use abroad of letters and documents from 1974 to 1996 on without-prejudice grounds and a declaration of privilege.",
+        "The Vice-Chancellor refused the application, holding the correspondence was not protected by the without prejudice rule and that a contract-based restraint had not been properly pleaded.",
+        "The Court of Appeal dismissed the appeal, distinguishing public-policy-based privilege from implied contractual restraint and holding English courts should not impose public-policy evidential rules on foreign proceedings."
+      ],
+      "procedural_posture": "Appeal from Vice-Chancellor's order of 20 December 2002 refusing interim restraint in ongoing High Court trade mark proceedings.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Without-prejudice protection based on English public policy does not justify extra-territorial restraint of evidence in foreign proceedings; an implied contractual restraint may be enforced abroad only if properly pleaded and established with sufficient specificity, which was not done here.",
+      "legal_issues": [
+        "Whether 1974–1996 Prudential correspondence was without prejudice",
+        "Whether English courts may restrain use of privileged material in Taiwan and New Zealand proceedings",
+        "Whether an implied contract governed use of the correspondence",
+        "Impact of the Human Rights Act 1998 on the without-prejudice rule"
+      ],
+      "catchwords": [
+        "without prejudice",
+        "trade mark dispute",
+        "extra-territorial injunction",
+        "implied agreement",
+        "public policy",
+        "admissibility of evidence"
+      ],
+      "index_terms": [
+        "Prudential mark",
+        "settlement negotiations",
+        "Taiwan proceedings",
+        "New Zealand proceedings",
+        "1974 arrangements",
+        "lex fori"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Rush & Tompkins Ltd v Greater London Council [1989] AC 1280",
+          "role": "applied"
+        },
+        {
+          "citation": "Cutts v Head [1984] Ch 290",
+          "role": "applied"
+        },
+        {
+          "citation": "Muller v Linsley & Mortimer [1996] 1 PNLR 74",
+          "role": "applied"
+        },
+        {
+          "citation": "Unilever plc v Procter & Gamble Co [2000] FSR 344",
+          "role": "applied"
+        },
+        {
+          "citation": "David Instance v Denny Bros Ltd [2000] FSR 869",
+          "role": "considered"
+        },
+        {
+          "citation": "Bourns Inc v Raychem Corpn [1999] FSR 641",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full Chadwick LJ judgment with comprehensive review of authorities and clear conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1258.json",
+    "status": "done",
+    "notes": "Complete housing homelessness appeal on settled residence and causation break.",
+    "enrichment": {
+      "short_title": "Six-month assured shorthold may but need not break intentional homelessness chain",
+      "area_of_law": [
+        "Housing law",
+        "Homelessness",
+        "Social welfare",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1996",
+          "provisions": ["section 184(6)", "section 191", "section 202", "section 204", "section 193(7)(b)"]
+        },
+        {
+          "title": "Housing Act 1988",
+          "provisions": ["section 19A", "section 21(5)"]
+        },
+        {
+          "title": "Housing (Homeless Persons) Act 1977",
+          "provisions": ["Part III framework (historical)"]
+        }
+      ],
+      "key_facts": [
+        "Miss Knight was found intentionally homeless in March 2002 after leaving a joint assured tenancy at 60 Arkwright Close within two months of its start.",
+        "She later occupied 46 Solvay Road on an assured shorthold from 1 May 2002; landlord and tenant both understood the arrangement would last only six months and not be renewed.",
+        "The council's October 2002 decision held the six-month tenancy did not break the chain of intentional homelessness.",
+        "Fresh evidence of a 29 April 2002 housing-benefits letter describing a six-monthly renegotiable contract was admitted on appeal but did not alter the outcome."
+      ],
+      "procedural_posture": "Second appeal from Warrington County Court dismissal of section 204 appeal against review decision confirming intentional homelessness.",
+      "outcome": "Appeal dismissed; council decision that Solvay Road was not settled accommodation upheld.",
+      "ratio": "Occupation under a six-month assured shorthold tenancy can amount to settled residence breaking a chain of past intentional homelessness, but it is not automatically sufficient; the question remains one of fact and degree for the local authority, subject to Wednesbury review.",
+      "legal_issues": [
+        "Meaning of settled residence in intentional homelessness caselaw",
+        "Whether six-month assured shorthold tenure is always sufficient to break causation",
+        "Effect of mutual intention that tenancy was temporary and non-renewable",
+        "Whether the April 2002 letter changed the council's decision"
+      ],
+      "catchwords": [
+        "intentional homelessness",
+        "settled residence",
+        "assured shorthold tenancy",
+        "chain of causation",
+        "local authority review",
+        "housing duty"
+      ],
+      "index_terms": [
+        "Vale Royal Borough Council",
+        "priority need",
+        "six-month fixed term",
+        "private rented sector",
+        "Din v Wandsworth",
+        "Ladd v Marshall"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Din v Wandsworth London Borough Council (23 June 1981, unreported)",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Brent London Borough Council, ex parte Awua [1996] AC 55",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Rochester-upon-Medway City Council, ex parte Williams (1994) 26 HLR 588",
+          "role": "considered"
+        },
+        {
+          "citation": "R v London Borough of Wandsworth, ex parte Crooks [1995] 26 HLR 660",
+          "role": "considered"
+        },
+        {
+          "citation": "Ladd v Marshall [1954] 1 WLR 1489",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full court judgment with clear rejection of both primary and alternative submissions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2256.json",
+    "status": "done",
+    "notes": "Complete criminal appeal on Hansard interview admissibility, domicile, and cheating the Revenue directions.",
+    "enrichment": {
+      "short_title": "Hansard tax interview lies admissible despite PACE Code C breach",
+      "area_of_law": [
+        "Criminal law",
+        "Tax law",
+        "Evidence",
+        "PACE",
+        "Domicile"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": ["section 66(1)(b)", "section 67(9)", "section 78", "Code C paragraph 10.1"]
+        },
+        {
+          "title": "Taxes Management Act 1970",
+          "provisions": ["section 105", "section 20(1)"]
+        },
+        {
+          "title": "Income and Corporation Taxes Act 1988",
+          "provisions": ["section 65(4)"]
+        },
+        {
+          "title": "Finance Act 1942",
+          "provisions": ["section 34 (historical, now TMA 1970 s 105)"]
+        }
+      ],
+      "key_facts": [
+        "Brothers Sewa and Paramjit Gill were convicted at Snaresbrook of multiple counts of cheating the Revenue by failing to disclose UK and offshore accounts over roughly 1984–1995.",
+        "At a Hansard interview on 8 March 1995 they denied irregularities; the prosecution relied on those answers as lies evidencing dishonest intent, not as confessions.",
+        "The trial judge held Code C did not apply because the interview was part of a civil tax-collection process; the Court of Appeal held Code C did apply but exclusion under section 78 was not required.",
+        "The defence of Indian domicile and non-disclosure of offshore funds was rejected on the facts; directions on cheat and count-specific issues were upheld."
+      ],
+      "procedural_posture": "Appeal against conviction with leave on Hansard interview ground and renewed applications on domicile, cheat, and jury direction grounds.",
+      "outcome": "Appeal dismissed; convictions held safe.",
+      "ratio": "Special Compliance Office Hansard interviews of suspected tax fraudsters engage PACE Code C and should be cautioned, but statements relied on only as lies rather than admissions may still be admitted under section 78 where the breach is not flagrant and fairness is not adversely affected.",
+      "legal_issues": [
+        "Whether PACE Code C applied to a Hansard interview",
+        "Whether Hansard answers should have been excluded under section 78",
+        "Whether the jury were misdirected on domicile and burden of proof",
+        "Whether the judge misdirected on the offence of cheating the public revenue",
+        "Whether adequate directions were given on each count"
+      ],
+      "catchwords": [
+        "cheating the Revenue",
+        "Hansard interview",
+        "PACE Code C",
+        "section 78 exclusion",
+        "tax fraud",
+        "domicile of origin",
+        "Lucas direction"
+      ],
+      "index_terms": [
+        "Special Compliance Office",
+        "offshore accounts",
+        "Hawala",
+        "Club Tropicana",
+        "Inland Revenue",
+        "self-incrimination"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v Allen [2001] UKHL 45",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Barker [1941] 2 KB 381",
+          "role": "considered"
+        },
+        {
+          "citation": "Saunders v United Kingdom (1996) 23 EHRR 313",
+          "role": "considered"
+        },
+        {
+          "citation": "Henderson v Henderson [1967] P 77",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Absolam (1988) 88 Cr App R 332",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Delaney (1988) 88 Cr App R 338",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed treatment of all appeal grounds."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/pat/2003/1892.json",
+    "status": "done",
+    "notes": "Complete Patents Court judgment on stay of damages enquiry after later revocation of patent by another party.",
+    "enrichment": {
+      "short_title": "Subsequent patent revocation does not stay infringer's damages enquiry",
+      "area_of_law": [
+        "Patents",
+        "Intellectual property",
+        "Res judicata",
+        "Civil procedure",
+        "Damages"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["section 35A", "section 49(3)"]
+        },
+        {
+          "title": "Patents Act 1977",
+          "provisions": ["section 130(7)"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 3.1(2)(f)"]
+        }
+      ],
+      "key_facts": [
+        "Coflexip succeeded against Stolt in patent infringement proceedings; a damages enquiry for £50–70 million was proceeding after the Court of Appeal affirmed validity and infringement.",
+        "Rockwater later obtained revocation of the same patent from Laddie J, subject to stay pending Coflexip's appeal.",
+        "Stolt applied to stay the damages enquiry, arguing it would be unjust to pay damages for a patent later held invalid.",
+        "Jacob J refused a stay, holding Stolt remained bound by cause of action estoppel from the earlier infringement decision."
+      ],
+      "procedural_posture": "Application to stay enquiry as to damages pending outcome of revocation proceedings in Rockwater v Coflexip.",
+      "outcome": "Application for stay refused; damages enquiry to continue.",
+      "ratio": "A defendant finally held to have infringed a valid patent cannot reopen validity in a damages enquiry by relying on a later revocation order obtained by a third party; cause of action estoppel in Poulton prevents the infringer from denying the patent was valid at the relevant time.",
+      "legal_issues": [
+        "Whether subsequent revocation ab initio defeats a damages enquiry against a party bound by an earlier infringement decision",
+        "Whether section 130(7) of the Patents Act 1977 imports Community Patent Convention Article 35 into domestic law",
+        "Whether Johnson v Gore Wood altered cause of action estoppel",
+        "Exercise of discretion to stay proceedings"
+      ],
+      "catchwords": [
+        "patent infringement",
+        "damages enquiry",
+        "revocation",
+        "cause of action estoppel",
+        "res judicata",
+        "stay of proceedings"
+      ],
+      "index_terms": [
+        "Coflexip",
+        "Stolt Offshore",
+        "Rockwater",
+        "Poulton",
+        "inquiry as to damages",
+        "Community Patent Convention"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Poulton v Adjustable Cover & Boiler Block Co (1908) 25 RPC 529",
+          "role": "applied"
+        },
+        {
+          "citation": "Arnold v National Westminster Bank plc [1991] 2 AC 93",
+          "role": "applied"
+        },
+        {
+          "citation": "Johnson v Gore Wood & Co [2002] 2 AC 1",
+          "role": "distinguished"
+        },
+        {
+          "citation": "Mendenhall v Barber-Greene Co 26 F.3d 1573",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete first-instance judgment with detailed analysis of estoppel and statutory arguments."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1150.json",
+    "status": "done",
+    "notes": "Complete immigration and asylum support judicial review on Schedule 3 ineligibility and Convention rights.",
+    "enrichment": {
+      "short_title": "Failed asylum seeker married to EEA national excluded from local authority support",
+      "area_of_law": [
+        "Immigration law",
+        "Asylum and support",
+        "Human rights",
+        "Public law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": ["section 54", "Schedule 3 paragraph 1", "Schedule 3 paragraph 3", "Schedule 3 paragraph 5", "Schedule 3 paragraph 17"]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": ["section 94(5)", "section 115", "Part VI"]
+        },
+        {
+          "title": "Immigration Act 1971",
+          "provisions": ["section 11"]
+        },
+        {
+          "title": "Immigration (European Economic Area) Regulations 2000",
+          "provisions": ["Regulation 2(1)", "Regulation 12", "Regulation 30(3)(b)", "Regulation 34(1)"]
+        },
+        {
+          "title": "Withholding and Withdrawal of Support (Travel Assistance and Temporary Accommodation) Regulations 2002",
+          "provisions": ["Regulation 2(2)(a)"]
+        }
+      ],
+      "key_facts": [
+        "Kenyan national K, a failed asylum seeker still treated as an asylum seeker under section 94(5), married an Irish EEA national but was refused residence rights on marriage-of-convenience grounds; her appeal remained undetermined.",
+        "From 8 January 2003 Schedule 3 of the 2002 Act excluded her from local authority support as dependant of an EEA national other than the UK.",
+        "Lambeth ceased support in January 2003; K argued Regulation 2(2) spouse should exclude disputed marriages pending appeal and that withdrawal would breach Articles 3 and 8.",
+        "The court held spouse bears its ordinary meaning, return to Kenya was a viable alternative, and support was not necessary to avoid Convention breaches."
+      ],
+      "procedural_posture": "Appeal and renewed permission application from Silber J's dismissal of judicial review on 16 April 2003.",
+      "outcome": "Appeal dismissed; leave to appeal to House of Lords refused; interim support order discharged.",
+      "ratio": "A person classified under Schedule 3 as the spouse of an EEA national is ineligible for local authority support even if disputing a marriage-of-convenience finding on appeal; paragraph 3 relief requires necessity to avoid a Convention breach, which is not shown where the person may freely return home.",
+      "legal_issues": [
+        "Construction of spouse in the Withholding Regulations pending appeal on marriage of convenience",
+        "Whether withdrawal of support engages Articles 3, 6, 8 and 14 ECHR",
+        "Whether return to Kenya is a relevant alternative when assessing necessity under Schedule 3 paragraph 3",
+        "Relationship between asylum support and Schedule 3 exclusions"
+      ],
+      "catchwords": [
+        "Schedule 3 exclusion",
+        "asylum support",
+        "marriage of convenience",
+        "EEA dependant",
+        "Article 3",
+        "Article 8",
+        "local authority support"
+      ],
+      "index_terms": [
+        "Lambeth",
+        "temporary admission",
+        "mainstream benefits",
+        "NASS",
+        "failed asylum seeker",
+        "no recourse to public funds"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R (Q) v Secretary of State for the Home Department [2003] EWCA Civ 364",
+          "role": "applied"
+        },
+        {
+          "citation": "R v Secretary of State for Social Security, ex parte Joint Council for the Welfare of Immigrants [1997] 1 WLR 275",
+          "role": "applied"
+        },
+        {
+          "citation": "R (J) v Enfield London Borough Council [2002] EWHC 432 (Admin)",
+          "role": "distinguished"
+        },
+        {
+          "citation": "Abdulaziz, Cabales and Balkandali v United Kingdom (1985) 7 EHRR 471",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with agreed statutory schedule annexed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1293.json",
+    "status": "done",
+    "notes": "Complete housing appeal on section 204(3) power to vary intentional homelessness decision.",
+    "enrichment": {
+      "short_title": "Court may substitute decision ending repeated unlawful intentional homelessness reviews",
+      "area_of_law": [
+        "Housing law",
+        "Homelessness",
+        "Administrative law",
+        "Appellate jurisdiction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1996",
+          "provisions": ["section 184", "section 190", "section 191(1)", "section 193", "section 204(3)"]
+        }
+      ],
+      "key_facts": [
+        "Mr Ekwuru applied to Westminster for housing assistance; the authority repeatedly found him intentionally homeless but each review decision was quashed as unlawful after county court appeals.",
+        "On the third review in April 2002 the authority again found intentional homelessness based on his departure from a flat in late 1997 or early 1998 and alleged rent arrears or voluntary departure to Nigeria.",
+        "The recorder quashed the third decision but refused to substitute her own decision, ordering a fourth review.",
+        "The Court of Appeal held the material before the authority could not support intentional homelessness and further review was pointless after years of delay."
+      ],
+      "procedural_posture": "Appeal with leave from county court refusal to vary housing review decision under section 204(3).",
+      "outcome": "Appeal allowed; authority's intentional homelessness finding deleted and substituted; costs to appellant.",
+      "ratio": "Under section 204(3) of the Housing Act 1996 the county court may confirm, quash or vary a local authority homelessness decision; where repeated unlawful reviews show no realistic prospect of further material emerging, the court may substitute its decision rather than remit for yet another review.",
+      "legal_issues": [
+        "Scope of section 204(3) power to vary as well as quash",
+        "When an appellate court may undertake primary fact evaluation",
+        "Whether failure to pay increased rent with available benefits funds constitutes intentional homelessness",
+        "Whether departure before landlord pressure was applied breaks the section 191(1) test"
+      ],
+      "catchwords": [
+        "intentional homelessness",
+        "section 204 appeal",
+        "vary decision",
+        "housing review",
+        "rent arrears",
+        "settled accommodation"
+      ],
+      "index_terms": [
+        "Westminster City Council",
+        "assured shorthold tenancy",
+        "housing benefit",
+        "possession proceedings",
+        "Hawthorn",
+        "fourth review"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v Wandsworth London Borough Council, ex parte Hawthorn [1994] 1 WLR 1442",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete Schiemann LJ judgment with detailed fact analysis and clear substitution order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1918.json",
+    "status": "done",
+    "notes": "Complete High Court wrongful dismissal judgment on constructive dismissal and quantified damages.",
+    "enrichment": {
+      "short_title": "City broker constructively dismissed by CEO's abusive management",
+      "area_of_law": [
+        "Employment law",
+        "Contract law",
+        "Wrongful dismissal",
+        "Damages"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Steven Horkulak, Senior Managing Director at Cantor Fitzgerald, left on 28 June 2000 after sustained abusive treatment by CEO Lee Amaitis, culminating in a telephone rebuke over missing brackets on a bonus schedule.",
+        "His fixed-term contract ran to September 2002 with salary about £250,000 plus guaranteed and discretionary bonuses.",
+        "Newman J found Amaitis breached the implied term of mutual trust and confidence from January 2000 by dictatorial, foul-language outbursts without proper disciplinary process despite performance concerns.",
+        "Damages were assessed at about £912,000 net of mitigation, including reduced salary months and discretionary bonus for 2000–2001."
+      ],
+      "procedural_posture": "High Court trial of claim for wrongful/constructive dismissal and damages; counterclaim for repayment of signing bonus rejected.",
+      "outcome": "Claim upheld; constructive dismissal established; damages awarded (approximately £912,000 before tax/interest issues); counterclaim dismissed.",
+      "ratio": "Even in a high-pressure City broking environment, an employer breaches the implied term of trust and confidence by repeated abusive, summary criticism without fair discussion or disciplinary process where the employee's senior status and co-operative duties require proportionate management; high remuneration does not lower the standard of conduct required.",
+      "legal_issues": [
+        "Whether Amaitis' conduct amounted to repudiatory breach of implied trust and confidence",
+        "Whether the 28 June 2000 incident was the last straw",
+        "Whether Cantor could rely on performance failings and substance abuse as justification",
+        "Assessment of fixed salary reduction, guaranteed and discretionary bonus, and mitigation"
+      ],
+      "catchwords": [
+        "constructive dismissal",
+        "implied term of trust and confidence",
+        "wrongful dismissal",
+        "City broker",
+        "bullying",
+        "discretionary bonus",
+        "last straw"
+      ],
+      "index_terms": [
+        "Cantor Fitzgerald",
+        "Lee Amaitis",
+        "interest rate derivatives",
+        "bonus schedule",
+        "disciplinary procedure",
+        "Tullett Prebon mitigation"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Mahmud v Bank of Credit and Commerce International SA [1997] 3 All ER 1",
+          "role": "applied"
+        },
+        {
+          "citation": "Malik v Bank of Credit and Commerce International SA (No 2) [1997] 3 All ER 1",
+          "role": "applied"
+        },
+        {
+          "citation": "Johnson v Unisys Ltd [2003] 1 AC 518",
+          "role": "applied"
+        },
+        {
+          "citation": "Western Excavating (ECC) Ltd v Sharp [1978] QB 761",
+          "role": "applied"
+        },
+        {
+          "citation": "Cantor Fitzgerald International v Bird [2002] IRLR 267",
+          "role": "applied"
+        },
+        {
+          "citation": "Clark v Nomura International plc [2000] IRLR 766",
+          "role": "applied"
+        },
+        {
+          "citation": "Lewis v Motorworld Garages Ltd [1986] ICR 157",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Very full trial judgment with detailed findings and quantified damages; complete text."
+      }
+    }
+  }
+]

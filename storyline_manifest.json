@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "purpose": "Track judgment JSON files that have received a storyline pass so future runs do not repeat work.",
+  "source_root": "data/judgments",
+  "prerequisite": "Judgment must already be listed in enrichment_manifest.json before storyline work begins.",
+  "status_values": [
+    "done",
+    "needs_review",
+    "failed"
+  ],
+  "required_storyline_fields": [
+    "title",
+    "summary",
+    "span",
+    "parties",
+    "stages",
+    "turning_points",
+    "confidence"
+  ],
+  "records": [
+    {
+      "source_path": "data/judgments/ewca/civ/2001/540.json",
+      "tna_uri": "ewca/civ/2001/540",
+      "neutral_citation": "[2001] EWCA Civ 540",
+      "status": "done",
+      "stage_count": 14,
+      "storylined_at": "2026-07-04",
+      "notes": "Initial storyline pilot. Chronology drawn from the Court of Appeal judgment narrative; institutional steps reconstructed from the July–October 2000 local authority correspondence."
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2002/215.json",
+      "tna_uri": "ewca/civ/2002/215",
+      "neutral_citation": "[2002] EWCA Civ 215",
+      "status": "done",
+      "stage_count": 8,
+      "storylined_at": "2026-07-04",
+      "notes": "Catchup batch 1 generated manually for storyline backfill."
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1.json",
+      "tna_uri": "ewca/civ/2003/1",
+      "neutral_citation": "[2003] EWCA Civ 1",
+      "status": "done",
+      "stage_count": 7,
+      "storylined_at": "2026-07-04",
+      "notes": "Catchup batch 1 generated manually for storyline backfill."
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1002.json",
+      "tna_uri": "ewca/civ/2003/1002",
+      "neutral_citation": "[2003] EWCA Civ 1002",
+      "status": "done",
+      "stage_count": 6,
+      "storylined_at": "2026-07-04",
+      "notes": "Catchup batch 1 generated manually for storyline backfill."
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1005.json",
+      "tna_uri": "ewca/civ/2003/1005",
+      "neutral_citation": "[2003] EWCA Civ 1005",
+      "status": "done",
+      "stage_count": 6,
+      "storylined_at": "2026-07-04",
+      "notes": "Catchup batch 1 generated manually for storyline backfill."
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1007.json",
+      "tna_uri": "ewca/civ/2003/1007",
+      "neutral_citation": "[2003] EWCA Civ 1007",
+      "status": "done",
+      "stage_count": 6,
+      "storylined_at": "2026-07-04",
+      "notes": "Catchup batch 1 generated manually for storyline backfill."
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1008.json",
+      "tna_uri": "ewca/civ/2003/1008",
+      "neutral_citation": "[2003] EWCA Civ 1008",
+      "status": "done",
+      "stage_count": 7,
+      "storylined_at": "2026-07-04",
+      "notes": "Catchup batch 1 generated manually for storyline backfill."
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1013.json",
+      "tna_uri": "ewca/civ/2003/1013",
+      "neutral_citation": "[2003] EWCA Civ 1013",
+      "status": "done",
+      "stage_count": 8,
+      "storylined_at": "2026-07-04",
+      "notes": "Catchup batch 1 generated manually for storyline backfill."
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1014.json",
+      "tna_uri": "ewca/civ/2003/1014",
+      "neutral_citation": "[2003] EWCA Civ 1014",
+      "status": "done",
+      "stage_count": 6,
+      "storylined_at": "2026-07-04",
+      "notes": "Catchup batch 1 generated manually for storyline backfill."
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/102.json",
+      "tna_uri": "ewca/civ/2003/102",
+      "neutral_citation": "[2003] EWCA Civ 102",
+      "status": "done",
+      "stage_count": 8,
+      "storylined_at": "2026-07-04",
+      "notes": "Catchup batch 1 generated manually for storyline backfill."
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1029.json",
+      "tna_uri": "ewca/civ/2003/1029",
+      "neutral_citation": "[2003] EWCA Civ 1029",
+      "status": "done",
+      "stage_count": 7,
+      "storylined_at": "2026-07-04",
+      "notes": "Catchup batch 1 generated manually for storyline backfill."
+    }
+  ]
+}

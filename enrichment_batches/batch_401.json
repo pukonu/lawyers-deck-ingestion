@@ -1,0 +1,718 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1627.json",
+    "status": "done",
+    "notes": "Limitation accrual for Law Society claims against accountants; partial appeal success on negligence only.",
+    "enrichment": {
+      "short_title": "Law Society v Sephton: when limitation runs on Compensation Fund claims",
+      "area_of_law": [
+        "Professional negligence",
+        "Limitation of actions",
+        "Solicitors regulation",
+        "Fraud",
+        "Accountancy"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 2",
+            "section 14",
+            "section 32"
+          ]
+        },
+        {
+          "title": "Solicitors Act 1974",
+          "provisions": [
+            "section 34"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Sephton & Co provided unqualified annual accountant's reports on solicitor Andrew Payne's practice from 1988 to 1995 while Payne misappropriated client monies.",
+        "The Law Society, as trustee of the Solicitors' Compensation Fund, repaid affected clients and sued Sephtons for negligence and fraud.",
+        "Deputy Judge Briggs held all claims time-barred under the six-year limitation period and dismissed them on preliminary issues.",
+        "The Court of Appeal held causes of action accrued when the Society first resolved to pay from the Fund, not when reports were relied on or when further misappropriations occurred."
+      ],
+      "procedural_posture": "Appeal from preliminary issues on limitation and estoppel in professional negligence and fraud claims against accountants.",
+      "outcome": "Appeal allowed in part: negligence claims not time-barred on the court's accrual date but fraud claims remained statute-barred; the judge's order was set aside accordingly.",
+      "ratio": "In claims by the Law Society as Compensation Fund trustee, the cause of action in negligence accrues when the Society first resolves to make payment to a client rather than when unqualified accountant reports are relied upon or when subsequent client losses occur; fraud claims may still be time-barred where section 32 concealment does not apply.",
+      "legal_issues": [
+        "When the Law Society's causes of action against reporting accountants first accrued",
+        "Whether section 32 of the Limitation Act postponed accrual of fraud claims",
+        "Whether Sephtons were estopped from relying on limitation defences",
+        "Whether reliance on accountant reports or client misappropriation dates triggered accrual"
+      ],
+      "catchwords": [
+        "limitation period",
+        "Solicitors' Compensation Fund",
+        "accountant's report",
+        "professional negligence",
+        "fraud",
+        "cause of action"
+      ],
+      "index_terms": [
+        "Payne & Co",
+        "Sephton & Co",
+        "unqualified report",
+        "misappropriation",
+        "six-year limitation",
+        "Law Society trustee"
+      ],
+      "linked_authorities": [
+        "Dobbie v Medway Health Authority [1998] 1 WLR 636",
+        "McGee v R H McDonald Ltd [2004] EWCA Civ 1451"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Final order and split outcome on negligence versus fraud limitation are clearly recorded."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1755.json",
+    "status": "done",
+    "notes": "DDA small-employer threshold; delegation finding defeats contract personally to do work.",
+    "enrichment": {
+      "short_title": "Hawkins v Darken: DDA jurisdiction and self-employed van driver status",
+      "area_of_law": [
+        "Employment law",
+        "Disability discrimination",
+        "Human rights",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Disability Discrimination Act 1995",
+          "provisions": [
+            "section 7",
+            "section 68"
+          ]
+        },
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 230"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Hawkins, a motorcycle valet, claimed disability discrimination after dismissal by Mr Darken trading as Sawbridgeworth Motorcycles.",
+        "Mr Darken had 14 employees and relied on the section 7 exemption for employers with fewer than 15 employees.",
+        "The Employment Tribunal held van driver Mr Cowell was not an employee; the EAT reversed, counting Cowell and remitting the case.",
+        "The ET found Cowell could send an employee to undertake deliveries, defeating personal service under the extended DDA employment definition."
+      ],
+      "procedural_posture": "Appeal from the Employment Appeal Tribunal restoring jurisdiction over a disability discrimination claim.",
+      "outcome": "Appeal allowed; the EAT's order set aside and the Employment Tribunal decision restored, so the tribunal lacked jurisdiction because Cowell was not employed under a contract personally to do work.",
+      "ratio": "Under section 68(1) of the DDA, a contract personally to do work requires the dominant purpose to be personal performance; a finding that the worker could delegate collection and delivery to another person is inconsistent with such a contract, following Express & Echo and Kelly v Northern Ireland Housing Executive.",
+      "legal_issues": [
+        "Whether Mr Cowell was employed under a contract personally to do work for section 7 counting purposes",
+        "Whether the EAT erred in applying mutuality of obligation without regard to delegation",
+        "Whether counting employees during a notice period extends section 7 to dismissal complaints",
+        "Distinction between contract of service and contract personally to do work"
+      ],
+      "catchwords": [
+        "Disability Discrimination Act",
+        "small employer exemption",
+        "contract personally to do work",
+        "personal service",
+        "self-employed contractor",
+        "delegation"
+      ],
+      "index_terms": [
+        "Sawbridgeworth Motorcycles",
+        "Brian Cowell",
+        "van driver",
+        "Express and Echo v Tanton",
+        "Ready Mixed Concrete",
+        "notice period"
+      ],
+      "linked_authorities": [
+        "Express & Echo Publications Ltd v Tanton [1999] ICR 693",
+        "Kelly v Northern Ireland Housing Executive [1999] AC 428",
+        "Mirror Group Newspapers Ltd v Gunning [1986] ICR 145"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Single issue on Cowell's status and appellate restoration of the ET are clearly reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/2896.json",
+    "status": "done",
+    "notes": "No jurisdiction to vary Harman costs order; Koshy election bars relitigation.",
+    "enrichment": {
+      "short_title": "Deg v Koshy: jurisdiction to set aside interlocutory costs after failed claim",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Freezing injunctions",
+        "Equity",
+        "Arbitration and litigation strategy"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": [
+            "Rule 3.1(7)"
+          ]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 375"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Harman J dismissed Mr Koshy's application to discharge a freezing order and ordered him to pay about £360,000 costs in March 1998.",
+        "Deg's substantive claim was later dismissed at trial by Rimer J in 2001; Koshy sought to set aside the costs order alleging material non-disclosure on the original without-notice application.",
+        "The Court of Appeal dismissed Koshy's out-of-time appeal after he elected to proceed on Rimer J's findings rather than accept remission of the non-disclosure issue.",
+        "Koshy then applied at first instance to set aside the Harman costs order relying on CPR 3.1(7) and inherent jurisdiction."
+      ],
+      "procedural_posture": "Preliminary issues on Rimer J's application to vary Harman J's 1998 interlocutory costs order following failed Chancery litigation.",
+      "outcome": "Both preliminary issues decided against Koshy; the application dismissed for lack of jurisdiction and because his Court of Appeal election precluded the relief sought as an abuse of process.",
+      "ratio": "A first-instance court has no general power to vary or revoke a final costs order made by another judge of co-ordinate jurisdiction; CPR 3.1(7) does not apply retrospectively to pre-CPR orders, and a party who elects at appeal to have a costs dispute decided on limited findings rather than remitted cannot later relitigate the same issues at first instance.",
+      "legal_issues": [
+        "Whether the court had jurisdiction under CPR 3.1(7) or inherent jurisdiction to vary the Harman costs order",
+        "Whether Mummery LJ's Court of Appeal judgment created an issue estoppel permitting a first-instance application",
+        "Whether Koshy's election before the Court of Appeal barred the present application",
+        "Whether the application was an abuse of process under Johnson v Gore Wood principles"
+      ],
+      "catchwords": [
+        "interlocutory costs",
+        "freezing order",
+        "material non-disclosure",
+        "CPR 3.1(7)",
+        "election",
+        "abuse of process"
+      ],
+      "index_terms": [
+        "Harman Order",
+        "inherent jurisdiction",
+        "variation of order",
+        "remittal refused",
+        "Johnson v Gore Wood",
+        "retrospective CPR"
+      ],
+      "linked_authorities": [
+        "DEG-Deutsche Investitions-und Entwicklungsgesellschaft mbh v Koshy [2001] EWCA Civ 79",
+        "Johnson v Gore Wood & Co [2002] 2 AC 1",
+        "Ford-Hunt v Raghbir Singh [1973] 1 WLR 738"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Preliminary issue determinations and procedural history are extensively reasoned though substantive non-disclosure was not retried."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1689.json",
+    "status": "done",
+    "notes": "NNDR liability orders; no magistrates' power to reopen after solicitor's diarising error.",
+    "enrichment": {
+      "short_title": "Mathialagan v Southwark: liability orders and reopening magistrates' hearings",
+      "area_of_law": [
+        "Local government",
+        "Rating and business rates",
+        "Administrative law",
+        "Human rights",
+        "Magistrates' courts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": [
+            "section 54",
+            "section 142"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Camberwell Green magistrates made non-domestic rates liability orders against the appellant in September 2003 in his absence.",
+        "The appellant's solicitor wife mis-diarised the hearing date despite clear correspondence fixing 19 September 2003 after prior adjournments.",
+        "Southwark Council's representative gave sworn evidence of occupation at the in-absence hearing; the appellant challenged occupation and failure to give reasons.",
+        "The appellant sought judicial review to quash the orders and require magistrates to reopen the matter, relying on Liverpool CC v Pleroma."
+      ],
+      "procedural_posture": "Appeal from refusal of permission to bring judicial review of magistrates' liability orders for business rates.",
+      "outcome": "Appeal dismissed; liability orders upheld and magistrates had no jurisdiction to reopen where absence was due to the party's representative's mistake, following Al Mehdawi.",
+      "ratio": "Magistrates have no general common law power to reopen civil liability hearings where a party fails to attend through the negligence of his adviser; section 142 of the Magistrates' Courts Act 1980 applies to criminal cases only, and Pleroma does not extend to permit reopening when the original decision was valid and not susceptible to judicial review.",
+      "legal_issues": [
+        "Whether the district judge should have scrutinised occupation evidence or given fuller reasons in bulk NNDR proceedings",
+        "Whether section 54 required proof of adequate notice of the adjourned hearing",
+        "Whether magistrates could reopen liability orders after the solicitor's diarising error",
+        "Extent of common law jurisdiction to correct magistrates' decisions beyond Pleroma"
+      ],
+      "catchwords": [
+        "liability order",
+        "non-domestic rates",
+        "magistrates court",
+        "reopen hearing",
+        "Article 6",
+        "functus officio"
+      ],
+      "index_terms": [
+        "Elephant and Castle",
+        "bulk rates procedure",
+        "Liverpool CC v Pleroma",
+        "Al Mehdawi",
+        "occupation",
+        "case stated"
+      ],
+      "linked_authorities": [
+        "Liverpool City Council v Pleroma Distribution Ltd",
+        "Al Mehdawi v Secretary of State for the Home Department [1990] 1 AC 876",
+        "English v Emery Reinbold & Strick Ltd [2002] 1 WLR 385"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Reopen jurisdiction was the decisive issue; procedural criticisms of bulk NNDR practice were noted but did not affect the outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1754.json",
+    "status": "done",
+    "notes": "Diminution in value damages; wasted pre-discovery expenditure not recoverable on appeal.",
+    "enrichment": {
+      "short_title": "Greymalkin v Copleys: wasted expenditure and title defect damages",
+      "area_of_law": [
+        "Professional negligence",
+        "Conveyancing",
+        "Damages",
+        "Property law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 35A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Copleys negligently failed to warn Greymalkin that three subsisting charges on the Garden House Hotel would not be overreached on its 1993 sub-purchase.",
+        "Greymalkin carried out development work and incurred expenses before learning of the title defect in February 1994; charges were discharged in 1996 at no cost to Greymalkin.",
+        "Lawrence Collins J awarded £45,000 on the diminution in value basis, finding Greymalkin would not have completed but for the negligence.",
+        "Greymalkin claimed over £600,000 including wasted builder, professional and insurance costs incurred before disclosure of the defect."
+      ],
+      "procedural_posture": "Limited appeal with permission on whether pre-February 1994 wasted expenditure should be included in damages after admitted solicitor negligence.",
+      "outcome": "Appeal dismissed; the judge's diminution in value award and refusal to add wasted expenditure, interest on purchase price or finance charges were upheld.",
+      "ratio": "Where a purchaser would not have completed but for negligent failure to disclose a title defect, diminution in value damages compensate the loss; expenditure on development, insurance and professional fees before discovery of the defect is not recoverable as wasted costs unless proved as loss, and interest under section 35A covers retention of the property rather than additional borrowing charges.",
+      "legal_issues": [
+        "Whether wasted expenditure between completion and discovery of the title defect should augment diminution in value damages",
+        "Whether interest should run on the full purchase price or only the diminution figure",
+        "Whether professional fees and builder payments enhanced value or were truly wasted",
+        "Appropriate measure of damages when the claimant would not have completed the purchase"
+      ],
+      "catchwords": [
+        "conveyancing negligence",
+        "diminution in value",
+        "title defect",
+        "wasted expenditure",
+        "overreaching",
+        "solicitor negligence"
+      ],
+      "index_terms": [
+        "Garden House Hotel",
+        "Hunstanton",
+        "charges not overreached",
+        "FPD Savills valuation",
+        "builder expenditure",
+        "section 35A interest"
+      ],
+      "linked_authorities": [
+        "Wemyss v Karim [1992] 1 WLR 774",
+        "Nelson v Rye [1996] 2 All ER 186"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Limited permission issue and detailed judge's findings on each expenditure head support a clear appellate disposition."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/2908.json",
+    "status": "done",
+    "notes": "Section 84 costs; Rule of Practice guideline survives CPR; indemnity costs to defendants.",
+    "enrichment": {
+      "short_title": "UEL v Barking: costs of restrictive covenant declaration proceedings",
+      "area_of_law": [
+        "Property law",
+        "Restrictive covenants",
+        "Civil procedure",
+        "Costs",
+        "Education law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": [
+            "section 84(2)",
+            "section 84(5)",
+            "section 203(5)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": [
+            "Rule 44.3.2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "University of East London sought declarations under section 84(2) that restrictive covenants on its Barking Campus did not bind the land.",
+        "Lightman J upheld the covenants as enforceable by Barking and Dagenham and Becontree Estate owners but held the university could sell free of covenants triggering full market price pre-emption rights.",
+        "Defendants succeeded on validity and enforceability issues raised before July 2004; the claimant succeeded only on late-raised pre-emption clause construction.",
+        "Costs and permission to appeal were adjourned after the December 2004 judgment."
+      ],
+      "procedural_posture": "Adjourned ruling on costs and permission to appeal after trial determining restrictive covenant and pre-emption issues.",
+      "outcome": "Permission to appeal granted to defendants on specified issues; claimant ordered to pay both defendants' costs of the action on an indemnity basis under the section 84 Rule of Practice.",
+      "ratio": "The Rule of Practice for section 84(2) declaration applications survives the CPR as a costs guideline: a claimant seeking to clear title from restrictive covenants should pay defendants' costs to the point of informed decision and bears no recovery if opposition fails; indemnity costs reflect the luxury of in rem relief and defendants' success on the substantive covenant issues outweighs late success on pre-emption construction.",
+      "legal_issues": [
+        "Whether the Re Jeffkins Indentures Rule of Practice applies under the CPR",
+        "Whether the claimant's success on pre-emption construction should attract a costs discount",
+        "Whether separate representation of two defendants justified two sets of costs",
+        "Level of costs appropriate for section 84(2) applications"
+      ],
+      "catchwords": [
+        "restrictive covenant",
+        "section 84",
+        "Rule of Practice",
+        "indemnity costs",
+        "pre-emption",
+        "declaration"
+      ],
+      "index_terms": [
+        "Barking Campus",
+        "Becontree Estate",
+        "Re Jeffkins Indentures",
+        "J Sainsbury v Enfield LBC",
+        "common fund basis",
+        "overriding objective"
+      ],
+      "linked_authorities": [
+        "Re Jeffkins Indentures [1965] 1 WLR 375",
+        "Re Wembley Park Estate Co Ltd's Transfer [1968] Ch 491",
+        "AEI Ltd v Phonographic Performance Ltd [1999] 1 WLR 1507"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Costs reasoning is explicit though it addresses only the adjourned issues rather than the full merits judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/3119.json",
+    "status": "done",
+    "notes": "Trade Descriptions Act juice labels; label read as whole; acquittal upheld.",
+    "enrichment": {
+      "short_title": "Lewin v Purity: trade descriptions on fruit juice drink labels",
+      "area_of_law": [
+        "Consumer law",
+        "Food labelling",
+        "Criminal law",
+        "Magistrates' courts",
+        "European Union law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Descriptions Act 1968",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 3",
+            "section 11",
+            "section 23"
+          ]
+        },
+        {
+          "title": "Food Labelling Regulations 1996",
+          "provisions": []
+        },
+        {
+          "title": "Fruit Juices and Fruit Nectars Regulations 1977",
+          "provisions": [
+            "regulation 4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Trading standards prosecuted Purity Soft Drinks for supplying cranberry and blackcurrant juice drinks with false trade descriptions.",
+        "Labels prominently displayed fruit names with 'Burst' underneath while ingredients lists showed juice content of 13% and 25% respectively.",
+        "Wellingborough magistrates acquitted, finding 'Burst' qualified the description and that a reasonable consumer would read the label as a whole including mandatory ingredients.",
+        "The prosecution appealed by case stated arguing the magistrates applied the wrong test for falsity and misleading descriptions."
+      ],
+      "procedural_posture": "Appeal by case stated from magistrates' acquittal on Trade Descriptions Act informations.",
+      "outcome": "Acquittal upheld; magistrates could read labels as a whole, the ingredients list was not a disclaimer, and the misleading-description test was not misapplied.",
+      "ratio": "In Trade Descriptions Act prosecutions magistrates may determine falsity and misleading effect by considering the label as a whole including mandatory ingredients information; a statutory ingredients list required by food labelling regulations is not a disclaimer and consumers may be expected to read it, following R v Hammertons Cars Ltd.",
+      "legal_issues": [
+        "Whether 'Burst' qualified trade descriptions so drinks were not described as 100% juice",
+        "Whether magistrates could consider ingredients lists when assessing falsity",
+        "Whether the doctrine of disclaimer applied to mandatory labelling",
+        "Correct test under section 3(2) for misleading though not false descriptions"
+      ],
+      "catchwords": [
+        "trade description",
+        "fruit juice drink",
+        "food labelling",
+        "ingredients list",
+        "disclaimer",
+        "misleading description"
+      ],
+      "index_terms": [
+        "Purity Soft Drinks",
+        "cranberry juice",
+        "blackcurrant juice",
+        "Norman v Bennett",
+        "Dixons v Barnett",
+        "judicial review costs"
+      ],
+      "linked_authorities": [
+        "R v Hammertons Cars Ltd [1976] 1 WLR 1243",
+        "Norman v Bennett [1974] 1 WLR 1229",
+        "Dixons Ltd v Barnett [1998] 153 JP 268"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Field J's detailed reasoning on falsity and misleading tests supports a clear appellate outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/3291.json",
+    "status": "done",
+    "notes": "Firearms Act s51A minimum sentence; no guilty plea credit; exceptional circumstances sentencing.",
+    "enrichment": {
+      "short_title": "Jordan, Alleyne and Redfern: minimum five-year firearms sentences",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Firearms",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Firearms Act 1968",
+          "provisions": [
+            "section 5",
+            "section 51",
+            "section 51A"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 2003",
+          "provisions": [
+            "section 287",
+            "section 144"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 152"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Section 51A of the Firearms Act 1968, inserted by the Criminal Justice Act 2003, imposes a minimum five-year custodial sentence for certain firearms offences unless exceptional circumstances justify a lesser term.",
+        "Jordan pleaded guilty to possessing a loaded Second World War revolver found at his home while working as a hospital security guard.",
+        "Alleyne possessed a handgun after leaving drug dealing, claiming he recovered it to protect himself from a former associate.",
+        "Redfern possessed a modified blank-firing pistol; the judge found exceptional circumstances and sentenced him to 2½ years instead of five."
+      ],
+      "procedural_posture": "Consolidated appeals against sentences for possession of prohibited firearms under the new minimum sentence regime.",
+      "outcome": "Appeals of Jordan and Alleyne dismissed with five-year sentences upheld; Redfern's appeal dismissed and 2½-year sentence not increased despite doubtful exceptional circumstances finding.",
+      "ratio": "Section 51A deliberately excludes guilty plea discounts available under section 152; once exceptional circumstances are properly found the sentence is at large and the five-year minimum is only a factor alongside Avis guidelines and mitigation, though such cases will be rare.",
+      "legal_issues": [
+        "Whether section 152 permits reduction of section 51A minimum sentences for guilty pleas",
+        "What circumstances qualify as exceptional under section 51A",
+        "Whether a judge who finds exceptional circumstances remains constrained by the five-year minimum",
+        "Appropriate sentencing where a modified imitation firearm was believed to be a replica"
+      ],
+      "catchwords": [
+        "minimum sentence",
+        "prohibited firearm",
+        "exceptional circumstances",
+        "guilty plea discount",
+        "section 51A",
+        "possession of firearm"
+      ],
+      "index_terms": [
+        "Smith and Wesson revolver",
+        "blank-firing pistol",
+        "five-year minimum",
+        "R v Avis",
+        "Young Offender Institution",
+        "Criminal Justice Act 2003"
+      ],
+      "linked_authorities": [
+        "R v Avis & Ors [1998] 1 Cr App R (S) 420",
+        "R v Jordan [2004] EWCA Crim 151"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Statutory construction and individual sentence outcomes are clearly stated for all three appellants."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2911.json",
+    "status": "done",
+    "notes": "Al Skeini HRA jurisdiction in Iraq; field deaths outside scope; prison death within.",
+    "enrichment": {
+      "short_title": "Al Skeini v MOD: Human Rights Act jurisdiction in occupied Iraq",
+      "area_of_law": [
+        "Human rights",
+        "Public law",
+        "International law",
+        "Military law",
+        "Judicial review",
+        "Conflict and occupation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 1",
+            "Article 2",
+            "Article 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Six Iraqi claimants sought judicial review alleging breaches of Articles 2 and 3 over deaths involving British forces in Iraq between May 2003 and June 2004 when the UK was an occupying power.",
+        "Five relatives died in separate shootings by British troops in the field; the sixth claimant's son Baha Mousa died in British military custody after alleged ill-treatment.",
+        "Claims asserted the UK failed to conduct adequate investigations required by Articles 2 and 3.",
+        "The Divisional Court heard preliminary issues on extraterritorial jurisdiction and procedural investigative obligations only."
+      ],
+      "procedural_posture": "Judicial review preliminary issues on Human Rights Act and ECHR jurisdiction and investigative duties for deaths in Iraq during UK occupation.",
+      "outcome": "Baha Mousa's death in British custody fell within UK jurisdiction and involved breach of Article 2 and 3 procedural obligations; the five field shooting claims failed as outside UK jurisdiction and thus outside the Convention and the Act.",
+      "ratio": "ECHR and HRA jurisdiction is essentially territorial; it extends exceptionally to outposts of state authority such as embassies and, critically, a prison operated by British forces in another state with that state's consent, but not to the entire territory of a non-Convention state under military occupation, so shootings in the field are outside scope while deaths in British military detention may engage Convention rights.",
+      "legal_issues": [
+        "Whether Article 1 ECHR jurisdiction extended to deaths caused by British forces in occupied Iraq",
+        "Whether the Human Rights Act 1998 has the same territorial scope as the Convention",
+        "Whether British military prisons in Iraq constitute outposts of UK authority",
+        "Whether procedural investigative duties under Articles 2 and 3 were breached for Baha Mousa"
+      ],
+      "catchwords": [
+        "Article 2",
+        "Article 3",
+        "extraterritorial jurisdiction",
+        "occupying power",
+        "Iraq",
+        "investigation"
+      ],
+      "index_terms": [
+        "Baha Mousa",
+        "British forces Iraq",
+        "military prison",
+        "field shooting",
+        "Bankovic",
+        "effective control"
+      ],
+      "linked_authorities": [
+        "Bankovic v Belgium [2001] 11 BHRC 435",
+        "Bici v Ministry of Defence [2004] EWHC 786 (QB)",
+        "McKerr v United Kingdom (ECtHR)"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Preliminary issue split outcome and jurisdictional reasoning are comprehensively set out in the court's own summary."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/2909.json",
+    "status": "done",
+    "notes": "Arbitration s67 fails; s68 succeeds on Bermuda ultra vires reasoning irregularity.",
+    "enrichment": {
+      "short_title": "Vee Networks v Econet: arbitration challenge to ultra vires award",
+      "area_of_law": [
+        "Arbitration",
+        "Company law",
+        "Commercial law",
+        "Telecommunications",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": [
+            "section 7",
+            "section 30",
+            "section 31",
+            "section 33",
+            "section 67",
+            "section 68",
+            "section 73"
+          ]
+        },
+        {
+          "title": "Companies Act 1981 (Bermuda)",
+          "provisions": [
+            "section 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Econet Wireless Nigeria disputed a Technical Support Agreement with Bermudan company Econet Wireless International, alleging the agreement was ultra vires EWI's memorandum of association.",
+        "The arbitrator's partial award held the TSA was not ultra vires and that EWN was not estopped from raising the point.",
+        "EWN challenged under section 67 arguing void matrix contract destroyed arbitration jurisdiction; EWI argued section 7 separability preserved jurisdiction to determine ultra vires.",
+        "The arbitrator wrongly relied on 2003 amendments to Bermuda company law not argued by either party when construing the memorandum."
+      ],
+      "procedural_posture": "Commercial Court challenge under sections 67 and 68 of the Arbitration Act 1996 to a partial arbitration award on ultra vires and estoppel preliminary issues.",
+      "outcome": "Section 67 application dismissed; section 68 application succeeded and the partial award remitted for reconsideration of whether the TSA was ultra vires.",
+      "ratio": "Under section 7 of the Arbitration Act 1996 an arbitrator has jurisdiction conclusively to determine whether a matrix contract is ultra vires without engaging section 30 substantive jurisdiction; section 67 cannot be used to challenge such a merits determination, but section 68 applies where the tribunal decides a point of Bermuda law neither party argued without giving a fair opportunity to respond, causing substantial injustice.",
+      "legal_issues": [
+        "Whether section 67 permits challenge to an award determining the matrix contract was not ultra vires",
+        "Interaction between section 7 separability and section 30 substantive jurisdiction",
+        "Whether EWN effectively objected to substantive jurisdiction under section 31",
+        "Whether arbitrator's unilateral reliance on 2003 Bermuda Companies Act amendments was a section 68 serious irregularity"
+      ],
+      "catchwords": [
+        "arbitration award",
+        "ultra vires",
+        "separability",
+        "section 67",
+        "section 68",
+        "Bermuda company law"
+      ],
+      "index_terms": [
+        "Technical Support Agreement",
+        "Econet Wireless",
+        "memorandum of association",
+        "Harbour Assurance v Kansa",
+        "Kompetenz-Kompetenz",
+        "restricted business activity"
+      ],
+      "linked_authorities": [
+        "Harbour Assurance Co (UK) Ltd v Kansa General Insurance Co Ltd [1993] QB 701",
+        "LG Caltex Gas Co Ltd v China National Petroleum Corp [2001] 1 WLR 1892",
+        "Zermalt Holdings SA v Nu Life Upholstery Repairs Ltd [1985] 2 EGLR 14"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed analysis of sections 7, 67 and 68 and clear split outcome on the two statutory challenges."
+      }
+    }
+  }
+]

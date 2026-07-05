@@ -1,0 +1,853 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1786.json",
+    "status": "done",
+    "notes": "Complete first-instance judgment on pre-action disclosure.",
+    "enrichment": {
+      "short_title": "Pre-action disclosure of accountant working papers in solicitor negligence claim",
+      "area_of_law": [
+        "Civil procedure",
+        "Professional negligence",
+        "Solicitors' accounts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Solicitors Act 1974",
+          "provisions": ["section 34"]
+        },
+        {
+          "title": "Accountant's Report Rules 1991",
+          "provisions": ["Rule 4", "Rule 4(3)"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Part 31.16"]
+        }
+      ],
+      "key_facts": [
+        "Former partners of Jay Benning & Peltz retained Wilder Coe to prepare annual accountant's reports for 1996–97 and 1997–98 under the Solicitors Act 1974.",
+        "After cashier Mr Belal left in October 1998, successor auditors Munday Long identified a substantial client account shortfall (estimated over £591,000) that had existed by 31 March 1998 but was undetected in the earlier reports.",
+        "The applicants contended the accountants negligently failed to verify controls and test client ledger balances; they sought pre-action disclosure of working papers to investigate which accounts were tested."
+      ],
+      "procedural_posture": "Application under CPR 31.16 for pre-action disclosure before contemplated professional negligence proceedings.",
+      "outcome": "Application granted; order made for disclosure of files and working papers relating to the 1997 and 1998 accountant's reports.",
+      "ratio": "CPR 31.16 conditions were satisfied: the parties were likely to be parties to subsequent proceedings, the documents would fall within standard disclosure, and pre-action disclosure was desirable to resolve or fairly dispose of the dispute; applying Black v Sumitomo Corporation, the court exercised discretion to order disclosure of working papers directly related to allegedly negligent professional work despite some residual speculation about the claim.",
+      "legal_issues": [
+        "Whether CPR 31.16 conditions (a)–(d) were satisfied",
+        "Whether pre-action disclosure should be refused as a fishing expedition",
+        "Discretionary factors where a professional negligence claim lacks full pleading detail"
+      ],
+      "catchwords": [
+        "pre-action disclosure",
+        "CPR 31.16",
+        "accountant negligence",
+        "solicitors' client accounts",
+        "working papers",
+        "Black v Sumitomo"
+      ],
+      "index_terms": [
+        "Jay Benning & Peltz",
+        "Wilder Coe",
+        "Munday Long",
+        "Grant Thornton",
+        "Belal",
+        "Accountant's Report Rules",
+        "client ledger",
+        "Eurokind Properties"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Black v Sumitomo Corporation",
+          "citation": "[2002] 1 WLR 1562",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full judgment with clear outcome and ratio on CPR 31.16 application."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1152.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on s135 MHA warrant validity and execution.",
+    "enrichment": {
+      "short_title": "Section 135 MHA warrant valid but unlawfully executed when named professionals absent",
+      "area_of_law": [
+        "Mental health law",
+        "Public law",
+        "False imprisonment",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": ["section 135(1)", "section 135(4)", "section 139", "section 174(3)"]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": ["section 15", "section 16"]
+        }
+      ],
+      "key_facts": [
+        "Susannah Ward was removed from her home under a section 135 warrant and detained overnight at Sutton Hospital in July 1997.",
+        "The warrant identified premises in the information section but left the address blank in the authorisation; it named Dr Forrest, Mrs Carcano-Harley and Dr Thomas to accompany the constable.",
+        "PC Welsh executed the warrant accompanied by Mrs Carcano-Harley and Dr Francis (registrar), not the named consultant or GP; Ward was discharged the next day."
+      ],
+      "procedural_posture": "Appeal from Recorder Layton QC's preliminary issue decision in false imprisonment proceedings under section 139 Mental Health Act 1983.",
+      "outcome": "Appeal allowed; warrant held valid but execution unlawful because it did not comply with the lawful condition as to named accompanying professionals; matter remitted to Central London County Court.",
+      "ratio": "A magistrate granting a section 135(1) warrant has implicit power to impose conditions on its exercise, including limiting who may accompany the constable under section 135(4); where specific professionals are named on the warrant, execution without them is unlawful even though section 135(4) does not require naming and any ASW and registered medical practitioner would otherwise suffice.",
+      "legal_issues": [
+        "Whether a section 135 warrant with a blank premises field in the direction was invalid",
+        "Whether naming accompanying professionals on the warrant creates enforceable conditions",
+        "Whether a magistrate may impose conditions including time limits on section 135 warrants",
+        "Lawfulness of removal and detention where execution breached warrant conditions"
+      ],
+      "catchwords": [
+        "section 135",
+        "Mental Health Act",
+        "warrant",
+        "approved social worker",
+        "false imprisonment",
+        "place of safety",
+        "warrant conditions"
+      ],
+      "index_terms": [
+        "Ward",
+        "Sutton Hospital",
+        "PC Welsh",
+        "Carcano-Harley",
+        "Dr Francis",
+        "Cheam",
+        "section 139",
+        "Article 5 ECHR"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete appellate judgment with clear holdings on validity and execution."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1148.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment dismissing immunisation appeals.",
+    "enrichment": {
+      "short_title": "Specific issue orders for childhood immunisation upheld; welfare test not two-stage",
+      "area_of_law": [
+        "Family law",
+        "Children",
+        "Medical treatment",
+        "Public health"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": ["section 1(1)", "section 1(3)", "section 2(7)", "section 8"]
+        },
+        {
+          "title": "United Nations Convention on the Rights of the Child",
+          "provisions": ["Article 6(2)", "Article 24"]
+        }
+      ],
+      "key_facts": [
+        "Two consolidated cases involved unmarried fathers with parental responsibility seeking specific issue orders under section 8 for full childhood immunisation; mothers were primary carers and strongly opposed.",
+        "Sumner J heard extensive expert evidence over 12 days; Dr Conway and Professor Kroll supported immunisation while Dr Donegan's evidence was rejected as unreliable.",
+        "The judge ordered immunisation schedules for both children and refused permission to appeal; mothers appealed on alleged misdirection as to the welfare test."
+      ],
+      "procedural_posture": "Appeal with permission granted against refusal of permission to appeal from Family Division specific issue order proceedings.",
+      "outcome": "Permission granted but appeals dismissed; Sumner J's orders for immunisation upheld.",
+      "ratio": "Hotly contested immunisation disputes fall within the small group of important parental decisions requiring court approval; the judge may properly resolve expert medical evidence before conducting a comprehensive welfare survey, provided the paramount consideration under section 1 is ultimately applied — a sequential analysis of medical benefit and non-medical factors is not an erroneous two-stage presumption in favour of vaccination.",
+      "legal_issues": [
+        "Correct legal test for specific issue orders on immunisation",
+        "Whether resolving expert evidence first creates an improper presumption in favour of vaccination",
+        "Status of immunisation as preventative healthcare versus non-essential invasive treatment",
+        "Relevance of primary carer's opposition to court-ordered vaccination"
+      ],
+      "catchwords": [
+        "immunisation",
+        "specific issue order",
+        "Children Act 1989",
+        "parental responsibility",
+        "welfare paramount",
+        "MMR",
+        "expert evidence"
+      ],
+      "index_terms": [
+        "Sumner J",
+        "Holman J",
+        "Dr Conway",
+        "Professor Kroll",
+        "Dr Donegan",
+        "CAFCASS",
+        "Re J",
+        "Re T",
+        "Re Z"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re J (A Minor) (Prohibited Steps Order: Child's Welfare)",
+          "citation": "[2000] 1 FLR 571",
+          "relation": "applied"
+        },
+        {
+          "name": "Re Z (A Minor) (Freedom of Publication)",
+          "citation": "[1996] 1 FLR 191",
+          "relation": "applied"
+        },
+        {
+          "name": "Re T (Wardship: Medical Treatment)",
+          "citation": "[1997] 1 FLR 502",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Poel v Poel",
+          "citation": "[1970] 1 WLR 1469",
+          "relation": "considered"
+        },
+        {
+          "name": "Payne v Payne",
+          "citation": "[2001] 1 FLR 1052",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.97,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed ratio on welfare test and immunisation."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/2051.json",
+    "status": "done",
+    "notes": "Complete judgment on section 42 leave and IPT jurisdiction.",
+    "enrichment": {
+      "short_title": "Vexatious litigant granted leave to continue Investigatory Powers Tribunal claim",
+      "area_of_law": [
+        "Civil procedure",
+        "Data protection",
+        "National security",
+        "Human rights",
+        "Tribunal jurisdiction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["section 42(1)", "section 42(3)"]
+        },
+        {
+          "title": "Regulation of Investigatory Powers Act 2000",
+          "provisions": ["section 65(2)(a)", "section 65(3)(a)", "section 67(4)"]
+        },
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": ["section 7(1)", "section 28"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["section 3(1)", "section 6(1)", "section 6(3)(a)", "section 7(1)(a)"]
+        },
+        {
+          "title": "Contempt of Court Act 1981",
+          "provisions": ["section 19"]
+        }
+      ],
+      "key_facts": [
+        "Mr Ewing was subject to a civil proceedings order under section 42 Supreme Court Act 1981 requiring leave to institute civil proceedings.",
+        "He sought retrospective leave to continue an application to the Investigatory Powers Tribunal alleging human rights breaches arising from the Security Service's NCND (neither confirm nor deny) response to his Data Protection Act subject access request.",
+        "The Security Service replied that section 28 national security exemption applied and gave no confirmation whether personal data was held."
+      ],
+      "procedural_posture": "Application for leave under section 42(3) to institute or continue civil proceedings before the Investigatory Powers Tribunal.",
+      "outcome": "Leave granted to continue the IPT claim; tribunal held to be a court within section 42 and reasonable grounds for the proceedings established.",
+      "ratio": "The Investigatory Powers Tribunal is a court within section 42 because it exercises judicial functions analogous to High Court judicial review over intelligence services conduct, notwithstanding security-related procedural restrictions; a vexatious litigant need not adduce evidence of specific data held to show reasonable grounds for exercising a statutory right of complaint to the exclusive tribunal where the NCND policy and alleged Convention breaches provide sufficient basis for leave.",
+      "legal_issues": [
+        "Whether the Investigatory Powers Tribunal is a court for section 42 purposes",
+        "Construction of section 42 following Attorney General v BBC and Peach Gray",
+        "Whether reasonable grounds exist for IPT proceedings by a civil proceedings order subject",
+        "Human Rights Act compatibility of restricting access to tribunals"
+      ],
+      "catchwords": [
+        "civil proceedings order",
+        "section 42",
+        "Investigatory Powers Tribunal",
+        "vexatious litigant",
+        "subject access request",
+        "NCND",
+        "national security"
+      ],
+      "index_terms": [
+        "Ewing",
+        "Security Service",
+        "RIPA",
+        "Data Protection Act",
+        "Article 8",
+        "Article 10",
+        "Peach Gray",
+        "Attorney General v BBC"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Attorney General v British Broadcasting Corporation",
+          "citation": "[1981] AC 303",
+          "relation": "applied"
+        },
+        {
+          "name": "Peach Gray and Co v Summers",
+          "citation": "[1995] ICR 549",
+          "relation": "applied"
+        },
+        {
+          "name": "Attorney General v Jones",
+          "citation": "[1981] 1 WLR 859",
+          "relation": "considered"
+        },
+        {
+          "name": "R v Lambert",
+          "citation": "[2001] 3 All ER 577",
+          "relation": "considered"
+        },
+        {
+          "name": "Ebert v Official Receiver",
+          "citation": "[2002] 1 WLR 320",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment; judge metadata in source file includes spurious names but judgment content is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2185.json",
+    "status": "done",
+    "notes": "Complete administrative court appeal on magistrates' costs discretion.",
+    "enrichment": {
+      "short_title": "Magistrates wrongly refused costs after wrongly applying fresh-application policy to renewals",
+      "area_of_law": [
+        "Administrative law",
+        "Licensing",
+        "Costs",
+        "Local government"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Magistrates' Courts Act 1980",
+          "provisions": ["section 64(1)"]
+        },
+        {
+          "title": "Local Government (Miscellaneous Provisions) Act 1976",
+          "provisions": ["section 49"]
+        }
+      ],
+      "key_facts": [
+        "Leigh Powell applied to Swansea City Council to renew and transfer four hackney carriage vehicle licences before expiry on 31 March 2002.",
+        "The council returned applications in May 2002 citing missing transfer evidence and home address, then refused renewal in July 2002 for failure to comply with policies applicable to fresh applications.",
+        "Swansea justices allowed Powell's appeal, finding applications were timely and correctly completed, but refused his costs relying on Bradford v Booth."
+      ],
+      "procedural_posture": "Appeal by case stated from magistrates' court on refusal of costs after successful hackney carriage licence renewal appeal.",
+      "outcome": "Stated case answered yes; magistrates erred in law in refusing costs; case remitted for assessment of sum; £3,000 costs summarily assessed for the High Court hearing.",
+      "ratio": "Under section 64(1) Magistrates' Courts Act 1980 and the Bradford City MDC v Booth principles, costs need not follow the event but should reflect whether the regulatory authority acted honestly, reasonably and on grounds that reasonably appeared sound; where justices found the appellant had complied and the council wrongly applied a fresh-application policy to renewal applications, refusal of costs was inconsistent with those findings and an award was plainly warranted.",
+      "legal_issues": [
+        "Application of Bradford v Booth costs principles to licensing appeals",
+        "Whether magistrates erred in refusing costs given their findings on the merits",
+        "Distinction between renewal and fresh hackney carriage applications"
+      ],
+      "catchwords": [
+        "hackney carriage",
+        "licensing appeal",
+        "magistrates costs",
+        "section 64",
+        "Bradford v Booth",
+        "regulatory authority"
+      ],
+      "index_terms": [
+        "Powell",
+        "Swansea",
+        "hackney carriage licence",
+        "renewal",
+        "case stated",
+        "Pitchford J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bradford City Metropolitan District Council v Eric Wilson Booth",
+          "citation": "(2000) 164 JPR 485",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment with clear stated question and answer."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1814.json",
+    "status": "done",
+    "notes": "Complete appeal judgment on CPR Part 7.6 extension and waiver.",
+    "enrichment": {
+      "short_title": "Claim form service extension upheld where defendant waived jurisdiction challenge",
+      "area_of_law": [
+        "Civil procedure",
+        "Personal injury",
+        "Limitation",
+        "Professional negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": ["section 11(4)"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Part 1.1", "Part 7.4", "Part 7.5", "Part 7.6(1)", "Part 7.6(2)", "Part 7.6(3)", "Part 11", "Part 16.2(1)(d)", "Part 23.10", "Part 52.11(1)(b)"]
+        }
+      ],
+      "key_facts": [
+        "The claimant suffered severe traumatic brain injury at Tamworth Leisure Centre on 24 April 1999; claim form issued 23 April 2002, one day before third anniversary but date of knowledge was later due to post-traumatic amnesia of around eleven weeks.",
+        "Solicitors obtained without-notice extension to 23 December 2002 for service; claim form served 19 December 2002; Master Leslie set aside extension and service in March 2003.",
+        "Defendant insurers engaged with pre-action protocol correspondence from August 2002, requested witness details, encouraged medical expert instruction, and acknowledged service ticking box 1 only (defend, not contest jurisdiction)."
+      ],
+      "procedural_posture": "Appeal with re-hearing from Master's order setting aside without-notice extension of time for service and service of claim form.",
+      "outcome": "Appeal allowed; extension and service remain valid; defendant's late application to set aside refused.",
+      "ratio": "Where a claimant mistakenly applied under CPR Part 7.6(2) for prospective extension rather than serving and seeking extensions for particulars, setting aside is disproportionate if the defendant suffered no prejudice, was notified of proceedings, and by conduct waived the right to contest jurisdiction; a Master who misapplied limitation expiry and treated late instruction as disentitling relief exercised discretion on a mistaken factual basis.",
+      "legal_issues": [
+        "Correct procedure when claim form validity expires before particulars ready",
+        "Whether without-notice Part 7.6(2) extension should be set aside",
+        "Waiver of jurisdiction challenge by pre-action conduct and acknowledgement of service",
+        "Effect of delayed date of knowledge under Limitation Act 1980 section 11(4)",
+        "Application of overriding objective to set-aside applications"
+      ],
+      "catchwords": [
+        "extension of time",
+        "service of claim form",
+        "CPR Part 7.6",
+        "waiver",
+        "contest jurisdiction",
+        "Pre-Action Protocol",
+        "limitation",
+        "date of knowledge"
+      ],
+      "index_terms": [
+        "Mason",
+        "First Leisure",
+        "Tamworth Leisure Centre",
+        "Master Leslie",
+        "Jones v Wrekin",
+        "Godwin v Swindon",
+        "Hai Hing"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Jones v Wrekin District Council",
+          "citation": "(unreported) 9 July 1999",
+          "relation": "applied"
+        },
+        {
+          "name": "BUA International Ltd v Hai Hing Shipping Co Ltd (The Hai Hing)",
+          "citation": "[2000] 1 Lloyd's Rep 300",
+          "relation": "applied"
+        },
+        {
+          "name": "Godwin v Swindon Borough Council",
+          "citation": "[2001] EWCA Civ 1478",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Monrose Investments Ltd v Orion Nominees Ltd",
+          "citation": "(unreported) 19 July 2001",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed procedural analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1927.json",
+    "status": "done",
+    "notes": "Complete Commercial Court judgment on letter of credit illegality defence.",
+    "enrichment": {
+      "short_title": "Letter of credit illegality defence arguable where Enron swaps disguised loan",
+      "area_of_law": [
+        "Banking and finance",
+        "Documentary credits",
+        "Commercial law",
+        "Illegality",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Uniform Customs and Practice for Documentary Credits (1993 Revision)",
+          "provisions": ["Article 3a", "Article 13(b)", "Article 17"]
+        },
+        {
+          "title": "United States Securities Laws",
+          "provisions": ["15 USC 78m(1)-(2)", "15 USC 78ff", "15 USC 78j", "17 CFR 240.13b2-2", "18 USC 2", "18 USC 1341", "18 USC 1343"]
+        }
+      ],
+      "key_facts": [
+        "Mahonia, a Jersey SPV, demanded US $165 million under a standby letter of credit issued by West LB for Enron/ENAC following Enron's Chapter 11 bankruptcy.",
+        "The credit secured circular swaps structured to provide Enron a $350 million disguised loan not recorded as debt in US GAAP accounts, contrary to alleged US securities law.",
+        "West LB refused payment despite conforming demand; at presentation it had no knowledge of the alleged illegality."
+      ],
+      "procedural_posture": "Interlocutory applications to strike out and for summary judgment on illegality/public policy defence to payment under documentary credit.",
+      "outcome": "Both applications dismissed; illegality defence held at least strongly arguable with realistic prospect of success at trial.",
+      "ratio": "Although letters of credit are autonomous from underlying transactions and fraud may be resisted only on clear evidence at presentation, illegality affecting the purpose of the underlying scheme may provide an ex turpi causa defence to enforcement where the credit is integral to an unlawful transaction known to the beneficiary; a bank's lack of knowledge at payment date does not necessarily preclude relying on clear evidence of illegality at trial, analogously to the fraud exception analysed in United City Merchants and Balfour Beatty.",
+      "legal_issues": [
+        "Whether illegality of underlying transaction can defeat letter of credit payment",
+        "Application of autonomy principle versus ex turpi causa",
+        "Whether clear evidence of illegality at trial suffices if absent at presentation",
+        "Distinction between tainted purpose and collateral rights under Bowmakers/Tinsley",
+        "Enforceability of contracts with foreign illegal purpose under Regazzoni v Sethia"
+      ],
+      "catchwords": [
+        "letter of credit",
+        "documentary credit",
+        "autonomy",
+        "fraud exception",
+        "illegality",
+        "ex turpi causa",
+        "Enron",
+        "standby credit"
+      ],
+      "index_terms": [
+        "Mahonia",
+        "West LB",
+        "JP Morgan Chase",
+        "Enron",
+        "ENAC",
+        "UCP 500",
+        "ISDA",
+        "Group Josi",
+        "United City Merchants"
+      ],
+      "linked_authorities": [
+        {
+          "name": "United City Merchants (Investments) Ltd v Royal Bank of Canada",
+          "citation": "[1983] 1 AC 168",
+          "relation": "applied"
+        },
+        {
+          "name": "Regazzoni v KC Sethia (1944) Ltd",
+          "citation": "[1958] AC 301",
+          "relation": "applied"
+        },
+        {
+          "name": "Group Josi Re v Walbrook Insurance Co Ltd",
+          "citation": "[1996] 1 Lloyd's Rep 345",
+          "relation": "considered"
+        },
+        {
+          "name": "Edward Owen Engineering Ltd v Barclays Bank International Ltd",
+          "citation": "[1978] QB 159",
+          "relation": "applied"
+        },
+        {
+          "name": "Balfour Beatty Civil Engineering v Technical & General Guarantee Co Ltd",
+          "citation": "(1999) 68 Con LR 180",
+          "relation": "applied"
+        },
+        {
+          "name": "Bowmakers Ltd v Barnet Instruments Ltd",
+          "citation": "[1945] KB 65",
+          "relation": "considered"
+        },
+        {
+          "name": "Alexander v Rayson",
+          "citation": "[1936] 1 KB 169",
+          "relation": "applied"
+        },
+        {
+          "name": "Tinsley v Milligan",
+          "citation": "[1994] 1 AC 340",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long but complete interlocutory judgment; ratio provisional on assumed facts for strike-out stage."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1250.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on immigration procedure rule 33.",
+    "enrichment": {
+      "short_title": "Rule 33 power to allow asylum appeal without merits not mandatory after HO procedural default",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Tribunal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum (Procedure) Rules 2000",
+          "provisions": ["rule 30(2)", "rule 33(1)", "rule 33(2)(a)", "rule 43"]
+        },
+        {
+          "title": "Immigration and Asylum (Procedure) Rules 2003",
+          "provisions": ["rule 4", "rule 45"]
+        }
+      ],
+      "key_facts": [
+        "Mr Benkaddouri, an Algerian health technician, claimed asylum fearing the GIA and Algerian authorities after being coerced to assist the armed Islamic faction.",
+        "The Home Office repeatedly failed to comply with IAA directions over three years, including non-attendance at a hearing and failure to identify the operative refusal letter.",
+        "The adjudicator declined to allow the appeal under rule 33(2)(a) without considering merits once the refusal letter was identified; the IAT upheld dismissal on both procedure and merits."
+      ],
+      "procedural_posture": "Appeal to Court of Appeal on construction and exercise of rule 33 Immigration and Asylum (Procedure) Rules 2000; renewed application on merits refused.",
+      "outcome": "Appeal dismissed on the rule 33 issue; adjudicator's refusal to allow appeal without considering merits upheld; permission to appeal on merits refused.",
+      "ratio": "Rule 33(1) should be read as permitting disposal under rule 33(2) where necessary having regard to the overriding objective; the decision is an exercise of judgment not unfettered discretion, but allowing an appeal without considering merits is not mandatory where procedural failures have not made a fair hearing impossible and the appellant agreed to proceed on an identified refusal decision — asylum is not a default entitlement analogous to acquittal in criminal proceedings.",
+      "legal_issues": [
+        "Construction of rule 33(1) and relationship to overriding objective in rule 30(2)",
+        "When adjudicator may allow appeal without considering merits after Home Office procedural breach",
+        "Whether merits may be considered at all in deciding to use rule 33(2)(a)",
+        "Analogy with criminal proceedings and abuse of process"
+      ],
+      "catchwords": [
+        "rule 33",
+        "asylum appeal",
+        "procedural default",
+        "overriding objective",
+        "Immigration Appeal Tribunal",
+        "without considering merits"
+      ],
+      "index_terms": [
+        "Benkaddouri",
+        "Algeria",
+        "GIA",
+        "Home Office",
+        "IAT",
+        "Razi",
+        "Nori",
+        "Zaier"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (Zaier) v Immigration Appeal Tribunal",
+          "citation": "[2003] EWCA Civ 937",
+          "relation": "applied"
+        },
+        {
+          "name": "Razi",
+          "citation": "(2001) 01 TH 01836",
+          "relation": "compared"
+        },
+        {
+          "name": "Nori",
+          "citation": "[2002] UKIAT 01887",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment with clear ratio on rule 33 construction and application."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1887.json",
+    "status": "done",
+    "notes": "Complete Chancery judgment on Tomlin order enforcement and tort of interference.",
+    "enrichment": {
+      "short_title": "Tomlin settlement enforced against publisher; knowing interference claim fails",
+      "area_of_law": [
+        "Intellectual property",
+        "Passing off",
+        "Contract law",
+        "Civil procedure",
+        "Torts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": []
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["overriding objective"]
+        }
+      ],
+      "key_facts": [
+        "A 1996 Tomlin order settled passing off proceedings between BPL and MINL, restricting MINL's use of 'Bargain' and specified get-up features and requiring MINL to procure adherence by parent, subsidiary and associated companies.",
+        "Corporate reorganisations left Trinity Mirror plc as MINL's parent and MNL (formerly controlled by MINL) launched 'Bargain Hunter' in January 2003 with similar get-up, prompting fresh passing off proceedings by BPML.",
+        "BPL applied in the original action to join parties and enforce the settlement; MINL conceded joinder of BPML but opposed joinder of MNL and Trinity Mirror."
+      ],
+      "procedural_posture": "Application in stayed passing off action for liberty to apply under Tomlin order to join parties and enforce 1996 settlement terms.",
+      "outcome": "BPML joined as claimant; enquiry as to damages ordered against MINL for breach of clause 6.1; application otherwise dismissed — MNL and Trinity Mirror not joined; mandatory injunction refused.",
+      "ratio": "Clause 6.1 of the settlement imposed a continuing obligation on MINL to procure adherence by companies falling within the defined corporate descriptions from time to time; breach in failing to procure Trinity Mirror and former subsidiary MNL sounds in damages but refusal to adhere cannot constitute unlawful interference with contract because the claimant has no right to compel third parties to become parties; a third party's mere refusal to adhere is not active prevention or hindrance within Torquay Hotel v Cousins.",
+      "legal_issues": [
+        "Construction of clause 6.1 procuring adherence by group companies",
+        "Whether MNL's Bargain Hunter publication breached clause 2.2 get-up restrictions",
+        "Tort of knowing interference with contractual obligations",
+        "Whether damages enquiry may be ordered in Tomlin proceedings under CPR overriding objective",
+        "Discretion to grant mandatory injunction requiring procuring adherence"
+      ],
+      "catchwords": [
+        "Tomlin order",
+        "passing off",
+        "settlement agreement",
+        "procure adherence",
+        "knowing interference",
+        "free ads paper",
+        "get-up"
+      ],
+      "index_terms": [
+        "Bargain Pages",
+        "Midland Independent Newspapers",
+        "Bargain Hunter",
+        "Trinity Mirror",
+        "BPML",
+        "MNL",
+        "Hollingsworth v Humphrey",
+        "Wagstaff v Colls"
+      ],
+      "linked_authorities": [
+        {
+          "name": "British Motor Trade Association v Salvadori",
+          "citation": "[1949] Ch 556",
+          "relation": "applied"
+        },
+        {
+          "name": "Torquay Hotel Co Ltd v Cousins",
+          "citation": "[1969] 2 Ch 106",
+          "relation": "applied"
+        },
+        {
+          "name": "Esso Petroleum Co Ltd v Kingswood (Marketing Ltd)",
+          "citation": "[1974] QB 142",
+          "relation": "applied"
+        },
+        {
+          "name": "Law Debenture Trust Corporation plc v Caspian Oil Corporation Ltd",
+          "citation": "[1995] Ch 152",
+          "relation": "applied"
+        },
+        {
+          "name": "Hollingsworth v Humphrey",
+          "citation": "(unreported) 10 December 1987",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Wagstaff v Colls",
+          "citation": "[2003] EWCA Civ 469",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment; source judge metadata incomplete but decision fully reported."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1134.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment allowing appeal against wasted costs order.",
+    "enrichment": {
+      "short_title": "Wasted costs order set aside where joint venture pleadings remained arguable",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Professional negligence",
+        "Contract law",
+        "Intellectual property"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["section 51(6)", "section 51(7)"]
+        },
+        {
+          "title": "Legal Aid Act 1988",
+          "provisions": ["section 31(1)"]
+        },
+        {
+          "title": "Courts and Legal Services Act 1990",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Dempsey claimed trade secrets and breach of an oral joint venture agreement for 10% commission on the Domineye CCTV home security system developed through companies controlled by Mr Johnstone.",
+        "After counsel advised withdrawal of the IP claim in February 2002, the contractual joint venture claim continued; the defendant applied to strike out relying on Patel v Patel, shown on the first day of trial.",
+        "HHJ George made a wasted costs order against Dempsey's solicitors for costs from 22 February 2002, finding no reasonably competent solicitor could have pursued the claim."
+      ],
+      "procedural_posture": "Appeal against wasted costs order under section 51 Supreme Court Act 1981 following strike-out of remaining contractual claim.",
+      "outcome": "Appeal allowed; wasted costs order set aside.",
+      "ratio": "Under section 51(7) 'negligent' is untechnical and denotes failure to act with ordinary professional competence, but where privilege is not waived a wasted costs order for pursuing a hopeless case requires satisfaction that no reasonably competent adviser could have continued — pleadings asserting an oral joint venture with continuing commission obligations independent of company formation remained capable of supporting the claim as a matter of law, and Patel v Patel was fact-specific authority not establishing an inflexible rule precluding such claims.",
+      "legal_issues": [
+        "Meaning of 'negligent' in section 51(7) wasted costs jurisdiction",
+        "Whether pursuing a hopeless case requires abuse of process or something beyond negligence",
+        "Effect of Patel v Patel on joint venture claims surviving company formation",
+        "Role of privilege and legal aid in wasted costs applications",
+        "Causation and abatement for counsel involvement"
+      ],
+      "catchwords": [
+        "wasted costs",
+        "section 51",
+        "Ridehalgh v Horsefield",
+        "hopeless case",
+        "joint venture",
+        "legal aid",
+        "professional negligence",
+        "strike out"
+      ],
+      "index_terms": [
+        "Dempsey",
+        "Johnstone",
+        "Domineye",
+        "Patel v Patel",
+        "Medcalf v Mardell",
+        "Persaud v Persaud",
+        "Liverpool County Court"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ridehalgh v Horsefield",
+          "citation": "[1994] Ch 205",
+          "relation": "applied"
+        },
+        {
+          "name": "Medcalf v Mardell",
+          "citation": "[2003] 1 AC 120",
+          "relation": "applied"
+        },
+        {
+          "name": "Persaud v Persaud",
+          "citation": "[2003] EWCA Civ 394",
+          "relation": "considered"
+        },
+        {
+          "name": "Patel v Patel",
+          "citation": "(unreported) 30 January 1996",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Saif Ali v Sydney Mitchell & Co",
+          "citation": "[1980] AC 198",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete appellate judgment with detailed analysis of wasted costs test."
+      }
+    }
+  }
+]

@@ -1,0 +1,765 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2779.json",
+    "status": "done",
+    "notes": "Complete administrative court judgment on TMA 1970 s49(1) discretion.",
+    "enrichment": {
+      "short_title": "General Commissioners' wider discretion to extend time for tax appeals",
+      "area_of_law": [
+        "Tax law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Taxes Management Act 1970",
+          "provisions": ["s49(1)"]
+        }
+      ],
+      "key_facts": [
+        "Browallia CAL Ltd claimed trading losses of about £1.17m for 1995; the inspector disallowed them in December 2001 but the loss determination was sent to the wrong KPMG office.",
+        "The taxpayer appealed the amended assessment and penalty but not the loss determination within time; the inspector refused an out-of-time appeal and the General Commissioners refused extension on the basis that there was no reasonable excuse.",
+        "The inspector had sent the loss determination to KPMG's old Dorset Rise address although the taxpayer's affairs were handled from Canada Square; the assessment appeal raised the same loss issue."
+      ],
+      "procedural_posture": "Application for judicial review of the General Commissioners' refusal to extend time for appealing a loss determination.",
+      "outcome": "Judicial review granted; Commissioners' decision quashed and time extended to validate the appeal lodged on 31 May 2002.",
+      "ratio": "Section 49(1) of the Taxes Management Act 1970 operates in two stages: where an inspector finds no reasonable excuse he must refer the application to the General Commissioners, whose discretion to permit an out-of-time appeal is at large and not confined to the reasonable-excuse test applicable to inspectors; they may consider prejudice to the Revenue and injustice to the taxpayer.",
+      "legal_issues": [
+        "Whether General Commissioners have a wider discretion than inspectors under section 49(1) TMA 1970",
+        "Whether an oversight by advisers constitutes a reasonable excuse",
+        "Whether judicial review can direct extension of time where Commissioners misdirected themselves on their powers"
+      ],
+      "catchwords": [
+        "tax appeal",
+        "out of time appeal",
+        "reasonable excuse",
+        "General Commissioners",
+        "loss determination",
+        "judicial review",
+        "Taxes Management Act 1970"
+      ],
+      "index_terms": [
+        "Browallia CAL Ltd",
+        "General Commissioners of Income Tax",
+        "KPMG",
+        "loss determination",
+        "section 49",
+        "extension of time",
+        "Evans-Lombe J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Special Commissioners of Income Tax ex parte Magill",
+          "citation": "53 TC 135"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment with clear ratio on construction of section 49(1); source summary truncated but full_text complete."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1524.json",
+    "status": "done",
+    "notes": "Full Court of Appeal judgment on street works charge regulations; split on first preliminary issue.",
+    "enrichment": {
+      "short_title": "Street works overrun charges and rebuttable deeming of completion notices",
+      "area_of_law": [
+        "Highways law",
+        "Public utilities",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "name": "New Roads and Street Works Act 1991",
+          "provisions": ["s48", "s49", "s55", "s56", "s59", "s60", "s66", "s70", "s72", "s74", "s104"]
+        },
+        {
+          "name": "Transport Act 2000",
+          "provisions": []
+        },
+        {
+          "name": "Street Works (Charges for Unreasonably Prolonged Occupation of the Highway) (England) Regulations 2001",
+          "provisions": ["reg 4", "reg 5", "reg 9"]
+        },
+        {
+          "name": "Street Works (Reinstatement) Regulations 1992",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Leicestershire County Council sought £111,500 from Transco for late completion of six sets of gas pipe street works.",
+        "Transco gave start notices but failed to give works clear or works closed notices; LCC treated later registration notices as completion notices and levied charges.",
+        "Two preliminary issues were tried: scope of Regulation 5(6) deeming provision and whether deeming is conclusive or rebuttable."
+      ],
+      "procedural_posture": "Appeal against Gray J's findings on two preliminary issues of construction in a claim for section 74 street works charges.",
+      "outcome": "Appeal allowed; judge's findings on both preliminary issues reversed; court split 2-1 on whether Regulation 5(6) applies only to remedial works.",
+      "ratio": "On the second issue, Regulation 5(6) creates a rebuttable presumption that works continue until a works clear or works closed notice is given; highway authorities and undertakers may prove actual start or completion dates where notices were late or early. On the first issue the court divided: the majority (Kennedy and Jacob LJJ) held Regulation 5(6) applies only for the purposes of paragraph (3) and thus to remedial works, while Phillips MR construed it as a general deeming provision for all works ending on completion notices.",
+      "legal_issues": [
+        "Whether Regulation 5(6) applies to non-remedial street works or only remedial works under section 72(3)",
+        "Whether deeming of works duration by completion notices is irrebuttable",
+        "Whether failure to give notices can attract charges beyond the level 3 criminal penalty in Regulation 9"
+      ],
+      "catchwords": [
+        "street works",
+        "section 74 charges",
+        "works clear notice",
+        "works closed notice",
+        "deeming provision",
+        "highway authority",
+        "statutory undertaker",
+        "reinstatement"
+      ],
+      "index_terms": [
+        "Transco",
+        "Leicestershire County Council",
+        "Regulation 5(6)",
+        "National Street Gazetteer",
+        "unreasonably prolonged occupation",
+        "Gray J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Transco Plc v Leicestershire County Council",
+          "citation": "[2003] EWHC 709 (QB)"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Long but complete judgment; ratio on rebuttability is clear though first issue resolved by bare majority."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/2566.json",
+    "status": "done",
+    "notes": "Complete Divisional Court judgment on election petition and section 48 RPA 1983.",
+    "enrichment": {
+      "short_title": "All-postal local election void where ballot counted without declaration",
+      "area_of_law": [
+        "Election law",
+        "Local government",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Representation of the People Act 1983",
+          "provisions": ["s48(1)", "s127", "s139", "s145", "s146"]
+        },
+        {
+          "name": "Representation of the People Act 1982",
+          "provisions": ["s48(1)"]
+        },
+        {
+          "name": "Representation of the People Act 1949",
+          "provisions": ["s37(1)"]
+        },
+        {
+          "name": "Representation of the People Act 2000",
+          "provisions": ["s10(6)", "s10(8)(c)"]
+        },
+        {
+          "name": "North Lincolnshire District Council (Electoral Pilot Scheme) Order 2003",
+          "provisions": []
+        },
+        {
+          "name": "North Lincolnshire District Council (Electoral Pilot Scheme) (No. 2) Order 2003",
+          "provisions": ["rule 39", "rule 85"]
+        },
+        {
+          "name": "Local Elections (Principal Areas) Rules 1986",
+          "provisions": ["rule 19"]
+        }
+      ],
+      "key_facts": [
+        "In May 2003 North Lincolnshire Council all-postal pilot election for Broughton and Appleby ward, Ivan Glover beat Kenneth Edgell by one vote.",
+        "Ballot paper 2965 was counted although marked to show the voter refused to sign the simplified Declaration of Identity; inspection also revealed unsigned declarations and crosses used as signatures.",
+        "No matching declaration of identity for ballot 2965 could be found; the Returning Officer resisted declaring the election void pending further matching of ballots to declarations."
+      ],
+      "procedural_posture": "Special case under section 146 Representation of the People Act 1983 following election petition and partial recount inspection.",
+      "outcome": "Election declared invalid; court rejected further inspection to see if other errors might neutralise the one-vote margin.",
+      "ratio": "Under section 48(1) of the Representation of the People Act 1983 the court must determine on the evidence before it whether irregularities affected the result; where a winning candidate cannot be shown duly elected because an invalid vote was counted and further errors create only remote possibilities that the result was unaffected, the court should declare the election void rather than order speculative further investigation.",
+      "legal_issues": [
+        "Meaning of 'it appears' and burden of proof under section 48(1)",
+        "Whether further inspection should be ordered where result might theoretically be unaffected",
+        "Validity of declarations of identity signed with a cross under the pilot scheme rules"
+      ],
+      "catchwords": [
+        "election petition",
+        "local government election",
+        "postal voting",
+        "declaration of identity",
+        "section 48",
+        "substantial compliance",
+        "void election"
+      ],
+      "index_terms": [
+        "Edgell v Glover",
+        "North Lincolnshire Council",
+        "Broughton and Appleby ward",
+        "Electoral Commission",
+        "all postal ballot",
+        "Morgan v Simpson",
+        "Levers v Morris"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Levers v Morris",
+          "citation": "[1972] 1 QB 221"
+        },
+        {
+          "name": "Morgan v Simpson",
+          "citation": "[1975] QB 151"
+        },
+        {
+          "name": "In Re Kensington North Parliamentary Election",
+          "citation": "[1960] 1 WLR 762"
+        },
+        {
+          "name": "Selby v Selby",
+          "citation": "[1817] 3 Mer 2"
+        },
+        {
+          "name": "Goodman v Eban (J) Ltd",
+          "citation": "[1954] 1 All ER 763"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full judgment with detailed analysis of section 48 and pilot scheme facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2756.json",
+    "status": "done",
+    "notes": "Complete High Court trade mark registry appeal; opposition upheld.",
+    "enrichment": {
+      "short_title": "STALINSKAYA vodka label confusingly similar to STOLICHNAYA",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Trade Marks Act 1994",
+          "provisions": ["s5(2)(b)"]
+        }
+      ],
+      "key_facts": [
+        "SC Prodal 94 applied to register vodka bottle labels prominently featuring STALINSKAYA.",
+        "Spirits International opposed relying on prior STOLICHNAYA registrations under section 5(2)(b).",
+        "The Hearing Officer found visual and conceptual similarity sufficient for likelihood of confusion; the applicant challenged the assessment on appeal."
+      ],
+      "procedural_posture": "Appeal from the Hearing Officer's decision upholding opposition to registration of two trade marks.",
+      "outcome": "Appeal dismissed; opposition upheld and registration refused.",
+      "ratio": "On appeal from the Trade Mark Registry the court should not interfere absent a distinct and material error of principle; the Hearing Officer correctly applied the Sabel global appreciation test and was entitled to find that STALINSKAYA and STOLICHNAYA, as invented Russian-sounding words with similar structure and endings, created a likelihood of confusion despite differences in middle letters and the STALIN element.",
+      "legal_issues": [
+        "Standard of appellate review of Trade Mark Registry decisions",
+        "Application of section 5(2)(b) likelihood of confusion test",
+        "Whether other Russian-sounding vodka brands reduced distinctiveness",
+        "Visual, aural and conceptual comparison of STALINSKAYA and STOLICHNAYA"
+      ],
+      "catchwords": [
+        "trade mark opposition",
+        "likelihood of confusion",
+        "similar marks",
+        "vodka",
+        "section 5(2)(b)",
+        "Sabel test",
+        "REEF Trade Mark"
+      ],
+      "index_terms": [
+        "STALINSKAYA",
+        "STOLICHNAYA",
+        "Spirits International",
+        "SC Prodal 94",
+        "Comptroller of Patents",
+        "Laddie J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Sabel BV v Puma AG",
+          "citation": "Case C-251/95"
+        },
+        {
+          "name": "Lloyd Schuhfabrik Meyer & Co GmbH v Klijsen Handel BV",
+          "citation": "Case C-342/97"
+        },
+        {
+          "name": "Canon Kabushiki Kaisha v Metro-Goldwyn-Meyer Inc",
+          "citation": "Case C-39/97"
+        },
+        {
+          "name": "REEF Trade Mark",
+          "citation": "[2003] RPC 101"
+        },
+        {
+          "name": "English v Emery Reimbold & Strick Ltd",
+          "citation": "[2002] EWCA Civ 605"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete first-instance appellate judgment with clear outcome and reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1514.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on unregistered design right in part of an article.",
+    "enrichment": {
+      "short_title": "Unregistered design right may subsist in copied part of umbrella case",
+      "area_of_law": [
+        "Intellectual property",
+        "Design law"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Copyright Designs and Patents Act 1988",
+          "provisions": ["s213", "s226"]
+        },
+        {
+          "name": "Design Right (Semiconductor Topographies) Regulations 1989",
+          "provisions": ["reg 2"]
+        }
+      ],
+      "key_facts": [
+        "Fultons owned unregistered design right in Miniflat cloth cases for folding umbrellas with a slit cuff design.",
+        "Totes copied types A and B then modified types C-E by removing one short side of the cuff after learning of the registered design.",
+        "The judge held C-E did not infringe the whole-case design but did infringe design right in the cut-out cuff aspect; Totes appealed on the point of law."
+      ],
+      "procedural_posture": "Appeal from Patents County Court on whether unregistered design right can subsist separately in a part of an overall design.",
+      "outcome": "Appeal dismissed; design right held to subsist in the copied part of the Miniflat case and infringement established for types C-E.",
+      "ratio": "Section 213(2) of the Copyright Designs and Patents Act 1988 expressly protects the design of any aspect of the shape or configuration of the whole or part of an article; where a defendant copies a discernible part of the claimant's design exactly or substantially, design right may subsist and be infringed even if the overall article design differs and even if the part copied was not separately recorded as a distinct design document.",
+      "legal_issues": [
+        "Whether 'part of an article' under section 213(2) includes a modified version of an existing design feature",
+        "Whether a 'design chimera' arises when asserting rights in part only",
+        "Relationship between section 213(3) must-fit/must-match exclusions and part-design protection",
+        "Fixation requirement under section 213(6)"
+      ],
+      "catchwords": [
+        "unregistered design right",
+        "part of an article",
+        "design infringement",
+        "copying",
+        "umbrella case",
+        "section 213",
+        "section 226"
+      ],
+      "index_terms": [
+        "A Fulton Company",
+        "Totes Isotoner",
+        "Miniflat case",
+        "Patents County Court",
+        "Ocular Sciences",
+        "Grant Barnett"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ocular Sciences Ltd v Aspect Vision Care Ltd",
+          "citation": "[1997] RPC 289"
+        },
+        {
+          "name": "A Fulton Co Ltd v Grant Barnett & Co Ltd",
+          "citation": "[2001] RPC 36"
+        },
+        {
+          "name": "Volumatic Ltd v Myriad Technologies Ltd",
+          "citation": "10 April 1995"
+        },
+        {
+          "name": "Mark Wilkinson Furniture Ltd v Woodcraft Designs (Solid Wood Kitchens) Ltd",
+          "citation": "[1998] FSR 63"
+        },
+        {
+          "name": "Ultraframe (UK) Ltd v Fielding",
+          "citation": "[2003] RPC 435"
+        },
+        {
+          "name": "Designers Guild Ltd v Russell Williams (Textiles) Ltd",
+          "citation": "[2001] 1 WLR 2416"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full appellate judgment with extensive authority review and clear ratio on section 213(2)."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3242.json",
+    "status": "done",
+    "notes": "Complete criminal appeal on Mental Health Act powers and hotel room occupation.",
+    "enrichment": {
+      "short_title": "Police lawful entry to hotel TV room without section 135 warrant",
+      "area_of_law": [
+        "Criminal law",
+        "Mental health law",
+        "Police powers"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Mental Health Act 1983",
+          "provisions": ["s2", "s6", "s37", "s41", "s135", "s137"]
+        },
+        {
+          "name": "Police and Criminal Evidence Act 1984",
+          "provisions": ["s17(1)"]
+        }
+      ],
+      "key_facts": [
+        "The appellant with bipolar affective disorder was sectioned under section 2 after doctors and an approved social worker attended his Nottingham hotel.",
+        "He used room 9 only under a hotel licence to watch television, without exclusive occupation or right to exclude others; no section 135 warrant was obtained.",
+        "Police forced entry, used CS gas and the appellant wounded PC Kimbley with a knife during the struggle; he was convicted of GBH with intent."
+      ],
+      "procedural_posture": "Appeal against conviction with leave of the full court; application for leave to appeal against Hospital Order and restriction order referred to the Court of Appeal.",
+      "outcome": "Conviction appeal dismissed; application for leave to appeal against sentence refused.",
+      "ratio": "A valid section 2 application gives authorised persons power under section 6 to take and convey a patient using reasonable force, but forced entry onto premises otherwise requires a section 135 warrant; here the appellant had no exclusive possession of room 9, only a limited licence from the hotel, so police entry was not trespass and reasonable force to detain was lawful.",
+      "legal_issues": [
+        "Whether police needed a section 135 warrant before entering the hotel room",
+        "Whether the appellant had exclusive occupation of room 9",
+        "Effect of section 137(2) on police powers to convey a sectioned patient",
+        "Whether use of force was reasonable where detention was lawful"
+      ],
+      "catchwords": [
+        "Mental Health Act 1983",
+        "section 135 warrant",
+        "section 2 admission",
+        "forced entry",
+        "reasonable force",
+        "bipolar disorder",
+        "GBH with intent",
+        "hospital order"
+      ],
+      "index_terms": [
+        "Crisis Resolution Team",
+        "approved social worker",
+        "Grisham Hotel Nottingham",
+        "place of safety",
+        "restriction order",
+        "trespass"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete judgment; conviction and sentence disposal both addressed clearly."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2867.json",
+    "status": "done",
+    "notes": "Complete judicial review on wrong late-appeal test applied by Pensions Appeal Tribunal.",
+    "enrichment": {
+      "short_title": "Pensions tribunal applied wrong test for late entitlement appeal",
+      "area_of_law": [
+        "Pensions law",
+        "Administrative law",
+        "Judicial review",
+        "Veterans' benefits"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Pensions Appeal Tribunals Act 1943",
+          "provisions": ["s1", "s8"]
+        },
+        {
+          "name": "Child Support, Pensions and Social Security Act 2000",
+          "provisions": ["s58", "s85"]
+        },
+        {
+          "name": "Pensions Appeal Tribunals (Late Appeals) Regulations 2001",
+          "provisions": ["reg 3", "reg 4"]
+        }
+      ],
+      "key_facts": [
+        "Mr Lynch's 1992 war pension claim for deafness was rejected in October 1992; a 12-month deadline for entitlement appeals applied from 9 April 2001.",
+        "He applied to extend time on 23 September 2002, citing his wife's illness in 2000 and worsening hearing.",
+        "The Pensions Appeal Tribunal allowed the late appeal applying the old 'reasonable excuse' test rather than the 2001 Late Appeals Regulations."
+      ],
+      "procedural_posture": "Judicial review by the Secretary of State for Defence of the Tribunal's decision granting extension of time for a late entitlement appeal.",
+      "outcome": "Judicial review granted; Tribunal decision quashed and remitted for reconsideration under the correct statutory test.",
+      "ratio": "Following amendments by the Child Support, Pensions and Social Security Act 2000 and the Pensions Appeal Tribunals (Late Appeals) Regulations 2001, late entitlement appeals must be determined under the prescribed circumstances in regulation 4, not the former reasonable excuse test in section 8 of the Pensions Appeal Tribunals Act 1943; applying the wrong test is an error of law warranting quashing.",
+      "legal_issues": [
+        "Which statutory test governs extension of time for pre-2001 entitlement decisions",
+        "Whether 'reasonable excuse' remains applicable after the 2000 Act reforms",
+        "Effect of transitional 12-month deadline ending 9 April 2002"
+      ],
+      "catchwords": [
+        "war pension",
+        "Pensions Appeal Tribunal",
+        "late appeal",
+        "reasonable excuse",
+        "entitlement appeal",
+        "judicial review",
+        "extension of time"
+      ],
+      "index_terms": [
+        "Thomas Lynch",
+        "Secretary of State for Defence",
+        "Veterans Agency",
+        "deafness claim",
+        "SI 2001/1032",
+        "Newman J"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete short administrative judgment with clear error-of-law finding."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2716.json",
+    "status": "done",
+    "notes": "Complete judgment on costs after conceded judicial review; substantive asylum challenge conceded separately.",
+    "enrichment": {
+      "short_title": "No costs order after Home Office conceded asylum tribunal JR",
+      "area_of_law": [
+        "Administrative law",
+        "Immigration law",
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "name": "European Convention on Human Rights",
+          "provisions": ["Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Mr Kaya sought judicial review of the Immigration Appeal Tribunal's refusal of leave to appeal against a Special Adjudicator's refusal of asylum and human rights claims.",
+        "Maurice Kay J refused permission on the papers; Elias J granted permission on renewed application after the claimant borrowed funds when legal aid was discharged.",
+        "The Secretary of State conceded in August 2003 that the IAT decision should be quashed; the sole remaining dispute was costs of the permission hearing."
+      ],
+      "procedural_posture": "Judicial review of IAT determination; hearing on costs after interested party conceded substantive relief.",
+      "outcome": "IAT decision quashed and case remitted; no order as to costs of the permission hearing.",
+      "ratio": "Where a defendant concedes after permission is granted but before substantive hearing, costs fall to be determined under the Boxall principles: absent demonstration that the claimant was very likely to succeed at the permission stage, or exceptional circumstances, the court should make no order as to costs; impecuniosity of an asylum seeker is not of itself an exceptional reason to depart from that approach.",
+      "legal_issues": [
+        "Costs following concession after grant of permission in judicial review",
+        "Application of Boxall principles to immigration cases",
+        "Whether claimant's impecuniosity affects costs discretion",
+        "Whether later authority clarifying the law can affect costs assessment at permission stage"
+      ],
+      "catchwords": [
+        "judicial review costs",
+        "Boxall principles",
+        "asylum appeal",
+        "Immigration Appeal Tribunal",
+        "permission to apply",
+        "no order as to costs",
+        "concession"
+      ],
+      "index_terms": [
+        "Kaya",
+        "Secretary of State for Home Department",
+        "Special Adjudicator",
+        "legal aid",
+        "Mount Cook Land",
+        "Elias J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (Boxall) v Waltham Forest LBC",
+          "citation": "unreported, Scott Baker J"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete judgment focused on costs; Boxall cited by shorthand only without neutral citation in source."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1506.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on partnership administration and equitable charges.",
+    "enrichment": {
+      "short_title": "Administrators owe no general duty of care to unsecured creditors",
+      "area_of_law": [
+        "Insolvency law",
+        "Partnership law",
+        "Equity",
+        "Tort law"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Insolvency Act 1986",
+          "provisions": ["s8", "s14", "s20", "s212"]
+        },
+        {
+          "name": "Insolvent Partnerships Order 1994",
+          "provisions": ["art 6"]
+        }
+      ],
+      "key_facts": [
+        "Court-appointed administrators of insolvent restaurant partnership J & H Kyrris sold twelve Burger King franchises but did not treat Mrs Kyrris or Mr Royle as secured creditors.",
+        "Mrs Kyrris lent £100,000 secured by agreement over Angel Row premises; Mr Royle claimed equitable charge over Upper Parliament Street for unpaid salary under a 1993 agreement.",
+        "Both also sought negligence claims as unsecured creditors for alleged mismanagement during administration."
+      ],
+      "procedural_posture": "Appeals and cross-appeals from strike-out/summary judgment applications in Chancery proceedings by partnership administrators.",
+      "outcome": "Administrators' appeals on equitable charge claims dismissed; claimants' cross-appeals on unsecured creditor negligence claims dismissed.",
+      "ratio": "Equitable charge claims based on agreements to grant formal charges within agreed future dates are arguable where a present right to have security made available may arise after a reasonable time; but absent special circumstances, an administrator appointed under the Insolvency Act 1986 owes no general common law duty of care to individual unsecured creditors, who must pursue misfeasance remedies under section 212 contributing to partnership assets.",
+      "legal_issues": [
+        "Whether letters agreeing future legal charges create present equitable charges",
+        "Whether uncertainty as to dates and interest prevents specific enforcement",
+        "Whether administrators owed unsecured creditors a Caparo duty of care",
+        "Relationship between section 212 misfeasance and common law negligence claims"
+      ],
+      "catchwords": [
+        "partnership administration",
+        "equitable charge",
+        "agreement to charge",
+        "unregistered creditor",
+        "section 212 misfeasance",
+        "duty of care",
+        "summary judgment",
+        "Insolvency Act 1986"
+      ],
+      "index_terms": [
+        "J & H Kyrris",
+        "Oldham Schofield Oakley",
+        "Burger King franchise",
+        "Angel Row Nottingham",
+        "Upper Parliament Street",
+        "Peskin v Adams",
+        "Charnley"
+      ],
+      "linked_authorities": [
+        {
+          "name": "National Provincial and Union Bank of England v Charnley",
+          "citation": "[1924] 1 KB 431"
+        },
+        {
+          "name": "Swiss Bank Corporation v Lloyds Bank Ltd",
+          "citation": "[1982] AC 582"
+        },
+        {
+          "name": "Mamidoil-Jetoil Greek Petroleum Company SA v Okta Crude Oil Refinery AD",
+          "citation": "[2001] EWCA Civ 406"
+        },
+        {
+          "name": "Caparo Industries plc v Dickman",
+          "citation": "[1990] 2 AC 605"
+        },
+        {
+          "name": "Henderson v Merrett Syndicates Ltd",
+          "citation": "[1995] 2 AC 145"
+        },
+        {
+          "name": "Peskin v Anderson",
+          "citation": "[2001] BCLC 372"
+        },
+        {
+          "name": "Knowles v Scott",
+          "citation": "[1891] 1 Ch 717"
+        },
+        {
+          "name": "A & J Fabrications Ltd v Grant Thornton",
+          "citation": "[1998] BCLC 227"
+        },
+        {
+          "name": "Medforth v Blake",
+          "citation": "[2000] Ch 86"
+        },
+        {
+          "name": "In re B Johnson & Co (Builders) Ltd",
+          "citation": "[1955] 1 Ch 634"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Very long but complete judgment; two distinct holdings on equitable charges and creditor duties."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3010.json",
+    "status": "done",
+    "notes": "Complete Attorney General reference; unduly lenient but sentence not increased.",
+    "enrichment": {
+      "short_title": "Unduly lenient ear-bite sentence not increased after open indication",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "name": "Criminal Justice Act 1988",
+          "provisions": ["s36"]
+        },
+        {
+          "name": "Offences Against the Person Act 1861",
+          "provisions": ["s18", "s20", "s47"]
+        }
+      ],
+      "key_facts": [
+        "Carl Weston Griffiths, aged 19, unprovokedly bit off most of James Hilton's left ear lobe in Oakham after jumping on his back.",
+        "He pleaded guilty to section 18 wounding with intent on the day of trial and was sentenced to two years in a Young Offender Institution.",
+        "The Recorder had given an open indication of two years after initially misapprehending his sentencing powers; Griffiths had 22 prior convictions including violent offences."
+      ],
+      "procedural_posture": "Attorney General's reference under section 36 Criminal Justice Act 1988 alleging unduly lenient sentence.",
+      "outcome": "Reference found sentence unduly lenient (appropriate minimum about 3½ years) but court declined to increase the sentence.",
+      "ratio": "For an unprovoked section 18 bite removing part of a victim's ear, especially by an offender with a significant record of violence, a sentence of about four and a half years on conviction with limited discount for a late guilty plea is appropriate; however the court may refuse to increase an unduly lenient sentence where the offender pleaded guilty in reliance on a clear open indication given in court before the change of plea.",
+      "legal_issues": [
+        "Appropriate sentencing range for section 18 biting offences",
+        "Effect of offender's violent criminal record and unprovoked attack",
+        "Whether open sentence indication precludes increase on Attorney General's reference",
+        "Application of double jeopardy principle on unduly lenient references"
+      ],
+      "catchwords": [
+        "Attorney General's reference",
+        "unduly lenient sentence",
+        "section 18",
+        "wounding with intent",
+        "biting",
+        "Young Offender Institution",
+        "open indication",
+        "double jeopardy"
+      ],
+      "index_terms": [
+        "Carl Weston Griffiths",
+        "James Hilton",
+        "Oakham",
+        "ear lobe",
+        "Community Punishment Order",
+        "Leicester Crown Court"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Attorney General's Reference Nos 59, 60 and 63 of 1998 (Goodwin and others)",
+          "citation": "[1999] 2 Cr App R (S) 128"
+        },
+        {
+          "name": "Attorney General's Reference No 7 of 1994 (Chadwick)",
+          "citation": "[1995] 16 Cr App R (S) 300"
+        },
+        {
+          "name": "R v Alleyn",
+          "citation": "[1995] 16 Cr App R (S) 506"
+        },
+        {
+          "name": "Attorney General's Reference No 29 of 2001 (Katriona Spring)",
+          "citation": "[2002] 1 Cr App R (S) 60"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete reference judgment with clear guideline analysis and exceptional outcome explained."
+      }
+    }
+  }
+]

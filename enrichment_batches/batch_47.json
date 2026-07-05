@@ -1,0 +1,752 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/346.json",
+    "status": "done",
+    "notes": "Batch 47 enrichment",
+    "enrichment": {
+      "short_title": "Bank claim for undervaluation of commercial property security",
+      "area_of_law": [
+        "Professional negligence",
+        "Property valuation",
+        "Banking and security"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Lloyds Bank instructed Edward Symmons to value the Sanderson Centre, Gosport, as security for a Salcrom Properties loan in September 1998.",
+        "Mr Skinner valued the property at £525,000; the bank sold its charge for that sum in December 1998 and later claimed true value was about £1.1m.",
+        "The bank's expert Mr Shores valued at £1,017,000 but the judge rejected his methodology as unreliable and doctrinaire.",
+        "Independent valuations by Mr Bannell (£540,000) and sensitivity analysis supported Skinner's figure as within a permissible non-negligent range."
+      ],
+      "procedural_posture": "High Court trial of a bank's claim for breach of contract and negligence against surveyor valuers.",
+      "outcome": "Claim dismissed; Skinner's valuation was held not to fall outside the permissible range of non-negligent valuations.",
+      "ratio": "A valuer is not negligent merely because another expert reaches a higher figure; where the defendant's valuation aligns with other competent valuations and the claimant's expert valuation is unreliable, the claim fails because negligence has not been established.",
+      "legal_issues": [
+        "Whether Skinner negligently undervalued lettable space and income at the Sanderson Centre",
+        "Whether deductions for service costs and void accommodation were incompetent",
+        "Admissibility and weight of competing expert valuation evidence",
+        "Causation and loss where the bank sold security relying on the valuation"
+      ],
+      "catchwords": [
+        "valuation negligence",
+        "surveyors",
+        "commercial property",
+        "security valuation",
+        "expert evidence",
+        "undervaluation"
+      ],
+      "index_terms": [
+        "Lloyds TSB",
+        "Edward Symmons",
+        "Sanderson Centre",
+        "Gosport",
+        "Salcrom Properties",
+        "Stephen Skinner"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long TCC judgment with clear dismissal and detailed reasoning on expert valuation evidence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1923.json",
+    "status": "done",
+    "notes": "Batch 47 enrichment",
+    "enrichment": {
+      "short_title": "Unlawful licence recall after expired supervision period",
+      "area_of_law": [
+        "Prison law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": [
+            "section 33",
+            "section 35(1)",
+            "section 37(1)",
+            "section 39"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 116"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Rodgers was released on licence after serving half of a 13-year sentence but his licence wrongly stated supervision expired in February 2002 instead of 2005.",
+        "After common assault and affray offences in September 2002 the Secretary of State recalled him for breaching licence condition 5(vi) while under supervision.",
+        "Probation staff had told Rodgers supervision had ended and the recall letter relied solely on breach of supervision conditions, not unacceptable risk.",
+        "Hale LJ held recall for breach of expired supervision conditions was unlawful; ex post facto risk-based justifications were rejected."
+      ],
+      "procedural_posture": "Linked applications for habeas corpus and judicial review of a licence revocation and recall decision.",
+      "outcome": "Recall decision quashed; permission to appeal and stay refused; claimant entitled to release.",
+      "ratio": "The Secretary of State could not lawfully recall a long-term prisoner for breach of supervision conditions once the supervision period in the licence had expired; if recall for unacceptable risk was intended, that ground had to be stated at the time and properly explained, not rationalised afterwards.",
+      "legal_issues": [
+        "Whether section 39 recall power applied after supervision had ended",
+        "Relationship between licence period and supervision period under section 37",
+        "Legitimate expectation and rationality of recall decision",
+        "Admissibility of later reasons explaining recall under ex parte Lillycrop principles"
+      ],
+      "catchwords": [
+        "licence recall",
+        "habeas corpus",
+        "parole",
+        "supervision conditions",
+        "long-term prisoner",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Rodgers",
+        "Brixton Prison",
+        "Parole Board",
+        "licence revocation",
+        "CJA 1991"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Secretary of State for the Home Department, ex parte Cheblak",
+          "citation": "[1991] 1 WLR 890",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Secretary of State for the Home Department, ex parte Lillycrop",
+          "citation": "DC, 27 November 1996",
+          "relation": "applied"
+        },
+        {
+          "name": "R (West) v The Parole Board",
+          "citation": "[2002] EWCA Civ 1641",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full administrative judgment with detailed statutory analysis and clear quashing order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/330.json",
+    "status": "done",
+    "notes": "Batch 47 enrichment",
+    "enrichment": {
+      "short_title": "Unanimity required for hospital managers' discharge panel",
+      "area_of_law": [
+        "Mental health law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 3",
+            "section 20",
+            "section 23",
+            "section 66",
+            "section 118",
+            "section 145"
+          ]
+        },
+        {
+          "title": "National Health Service and Community Care Act 1990",
+          "provisions": [
+            "section 5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Tagoe-Thompson was detained under section 3 and requested review by three hospital managers under section 23(4).",
+        "The panel could not decide unanimously that he no longer met detention criteria and recorded that discharge was refused.",
+        "He argued section 23(4) allowed discharge by majority vote; the trust argued all three members had to agree to discharge.",
+        "The Court of Appeal held detention remained lawful because discharge required affirmative support from each of the three authorised members."
+      ],
+      "procedural_posture": "Appeal with permission against refusal of habeas corpus and judicial review applications.",
+      "outcome": "Appeal dismissed; subsequent detention following the panel decision was held lawful.",
+      "ratio": "Under section 23(4) of the Mental Health Act 1983, where a panel of three members considers discharge, each member must support discharge before managers may override the responsible medical officer; the minimum of three is not merely a quorum for majority voting.",
+      "legal_issues": [
+        "Construction of section 23(4) and whether managers act by majority or unanimity",
+        "Application of the Grindley v Barker presumption in mental health discharge decisions",
+        "Compatibility with Article 5 ECHR",
+        "Interaction with NHS trust committee quorum rules"
+      ],
+      "catchwords": [
+        "Mental Health Act",
+        "section 23",
+        "hospital managers",
+        "discharge panel",
+        "unanimity",
+        "habeas corpus"
+      ],
+      "index_terms": [
+        "Tagoe-Thompson",
+        "Park Royal Centre",
+        "section 3 detention",
+        "responsible medical officer",
+        "MHRT"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Grindley v Barker",
+          "citation": "(1798) 1 Bos & Pul 875",
+          "relation": "considered"
+        },
+        {
+          "name": "Picea Holdings Ltd v London Rent Assessment Panel",
+          "citation": "[1971] 2 QB 216",
+          "relation": "cited"
+        },
+        {
+          "name": "H v MHRT North and East London Region",
+          "citation": "[2002] QB 1",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed Court of Appeal judgment on a discrete statutory construction issue with unanimous outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/536.json",
+    "status": "done",
+    "notes": "Batch 47 enrichment",
+    "enrichment": {
+      "short_title": "Date jobseeker's allowance ceases after failure to sign on",
+      "area_of_law": [
+        "Social security law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Jobseekers Act 1995",
+          "provisions": [
+            "section 1",
+            "section 7",
+            "section 8"
+          ]
+        },
+        {
+          "title": "Social Security Administration Act 1992",
+          "provisions": [
+            "section 1"
+          ]
+        },
+        {
+          "title": "Jobseeker's Allowance Regulations 1996",
+          "provisions": [
+            "regulation 23",
+            "regulation 24",
+            "regulation 25",
+            "regulation 26",
+            "regulation 27"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ferguson failed to attend and sign on at the Jobcentre on 1 June 1999 and next attended on 14 June 1999.",
+        "A Social Security Commissioner held JSA ceased on 1 June under regulation 26(c), not from 18/19 May under regulation 26(a).",
+        "The Secretary of State appealed, contending regulation 26(a) fixed cessation as the day after the last day for which entitlement was demonstrated.",
+        "The Court of Appeal allowed the appeal, holding regulation 26(a) applied and entitlement ceased from 19 May 1999."
+      ],
+      "procedural_posture": "Appeal with permission against a Social Security Commissioner's decision on JSA cessation date.",
+      "outcome": "Appeal allowed; declaration that Ferguson's JSA entitlement ceased from 19 May 1999 and was not payable to 13 June 1999.",
+      "ratio": "Regulation 26(a) of the Jobseeker's Allowance Regulations 1996 operates where a claimant fails to attend or sign on, fixing cessation at the day after the last day in respect of which he provided information or evidence showing continuing entitlement; it does not render regulations 26(b) and (c) devoid of meaning.",
+      "legal_issues": [
+        "Construction of regulation 26(a) versus 26(b) and 26(c)",
+        "Distinction between cessation events under regulation 25 and cessation dates under regulation 26",
+        "Whether failure to provide a declaration falls within regulation 26(a) or only 26(c)",
+        "Effect of JSA being paid fortnightly in arrears"
+      ],
+      "catchwords": [
+        "jobseeker's allowance",
+        "signing on",
+        "regulation 26",
+        "benefit cessation",
+        "attendance requirements",
+        "social security commissioner"
+      ],
+      "index_terms": [
+        "Ferguson",
+        "Jobcentre",
+        "failure to sign",
+        "JSA Regulations 1996",
+        "regulation 26(a)"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed statutory construction judgment with clear declaration on the correct cessation date."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/341.json",
+    "status": "done",
+    "notes": "Batch 47 enrichment",
+    "enrichment": {
+      "short_title": "Limitation for negligence in delayed accountant litigation",
+      "area_of_law": [
+        "Professional negligence",
+        "Limitation of actions",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 2",
+            "section 14A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Hatton instructed Chafes in 1984 to pursue accountants for losses from 1983; the underlying claim was struck out for want of prosecution in June 1999.",
+        "He issued a professional negligence claim against the solicitors in October 2000, alleging failure to progress the accountants action.",
+        "The judge had left limitation unclear; the Court of Appeal held the underlying claim was worthless by October 1994 with no arguable defence to strike-out.",
+        "Section 14A knowledge was found by October/November 1995 when solicitor Mr Roberts conceded he could not defend another strike-out application."
+      ],
+      "procedural_posture": "Appeal with permission against refusal to strike out a solicitor negligence claim on limitation grounds.",
+      "outcome": "Appeal allowed; action declared time barred and dismissed; proposed amendment refused.",
+      "ratio": "In solicitor negligence claims arising from delay, damage accrues when the underlying claim becomes doomed to failure, not only when it is actually struck out; following Khan v Falvey, where there was no arguable defence to strike-out by October 1994 the six-year period had expired and section 14A knowledge existed by late 1995.",
+      "legal_issues": [
+        "When a cause of action accrues for negligent litigation delay",
+        "Application of Hopkins v McKenzie after Khan v Falvey and Nykredit",
+        "Whether the claim was worthless before actual strike-out in 1999",
+        "Section 14A starting date for knowledge of solicitors' negligence"
+      ],
+      "catchwords": [
+        "solicitors negligence",
+        "limitation",
+        "strike out",
+        "want of prosecution",
+        "loss of chance",
+        "section 14A"
+      ],
+      "index_terms": [
+        "Hatton",
+        "Chafes",
+        "Khan v Falvey",
+        "Hopkins v McKenzie",
+        "Nykredit",
+        "accountants claim"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Khan v Falvey",
+          "citation": "[2002] EWCA Civ 400",
+          "relation": "applied"
+        },
+        {
+          "name": "Nykredit Mortgage Bank Plc v Edward Erdman Group Ltd (No 2)",
+          "citation": "[1997] 1 WLR 1627",
+          "relation": "applied"
+        },
+        {
+          "name": "Hopkins v McKenzie",
+          "citation": "(1995) 6 Med LR 26",
+          "relation": "not followed"
+        },
+        {
+          "name": "Cartledge v Jopling",
+          "citation": "[1963] AC 758",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Substantive Court of Appeal judgment on limitation in professional negligence with detailed factual chronology."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/504.json",
+    "status": "done",
+    "notes": "Batch 47 enrichment",
+    "enrichment": {
+      "short_title": "Workplace stroke after load bar struck driver's head",
+      "area_of_law": [
+        "Personal injury",
+        "Employers' liability",
+        "Negligence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Russell, a Wincanton lorry driver, alleged unsecured load bars slid out when he opened trailer doors on 17/18 June 1998, glancing his left temple.",
+        "He suffered dysphasia and a stroke linked to a pre-existing diseased carotid artery; a further major stroke followed on 1 July 1998.",
+        "Contemporaneous accident records were inconsistent, but the judge accepted evidence from his wife, colleague McKenna and Mr Marsden.",
+        "The Court of Appeal upheld liability findings, including that head flexion to the right was highly likely despite inconsistent witness demonstrations."
+      ],
+      "procedural_posture": "Defendant's appeal against High Court entry of judgment on liability with damages to be assessed.",
+      "outcome": "Appeal dismissed; liability judgment upheld with costs.",
+      "ratio": "Where a trial judge makes clear credibility findings in a fact-sensitive workplace injury case and medical evidence supports causation, an appellate court will not interfere merely because contemporaneous records were inconsistent or the claimant's recollection of head movement was unreliable.",
+      "legal_issues": [
+        "Whether the head injury was caused by a load bar emerging from the trailer",
+        "Causation between glancing blow and carotid artery damage triggering stroke",
+        "Effect of dysphasia on reliability of contemporaneous accident accounts",
+        "Whether the judge impermissibly speculated on direction of head movement"
+      ],
+      "catchwords": [
+        "employer's liability",
+        "workplace accident",
+        "stroke",
+        "load bar",
+        "causation",
+        "dysphasia"
+      ],
+      "index_terms": [
+        "Russell",
+        "Wincanton",
+        "Trafford Park",
+        "carotid artery",
+        "load bars",
+        "lorry driver"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full liability appeal judgment with detailed fact findings and medical evidence analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/822.json",
+    "status": "done",
+    "notes": "Batch 47 enrichment",
+    "enrichment": {
+      "short_title": "Wasted costs application against claimant solicitors rejected",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Personal injury",
+        "Professional negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 51(6)",
+            "section 51(7)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 48.7",
+            "Practice Direction 48 paragraph 53"
+          ]
+        },
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Afzal brought a legally aided personal injury claim against Chubb after an alleged workplace attack; preliminary issues on psychiatric injury and disability were tried in March 2002.",
+        "The judge revoked the litigation friend, dismissed the action, and the defendants applied for wasted costs against former solicitors Iliffe Booth Bennett.",
+        "Defendants alleged negligent handling of medical evidence meant the preliminary issue trial should never have proceeded.",
+        "The judge rejected the application, finding IBB were not negligent and counsel's assessment that Dr Bhatti-Ali's evidence remained arguable was reasonable."
+      ],
+      "procedural_posture": "Second-stage wasted costs application under section 51 of the Supreme Court Act 1981 and CPR Part 48.",
+      "outcome": "Wasted costs application rejected; solicitors held not negligent and any failings did not cause loss.",
+      "ratio": "A wasted costs order requires clear proof of improper, unreasonable or negligent conduct causing unnecessary costs; solicitors acting for legally aided claimants in a difficult medical case may rely on counsel's advice and are not negligent simply because expert evidence later fails at trial.",
+      "legal_issues": [
+        "Jurisdiction and procedure for wasted costs orders under CPR 48 PD53",
+        "Whether solicitors negligently failed to disclose or share medical reports with experts",
+        "Causation if better case management might have led to withdrawal of legal aid",
+        "Standard of negligence for legally aided personal injury solicitors"
+      ],
+      "catchwords": [
+        "wasted costs",
+        "section 51",
+        "legal aid",
+        "solicitors negligence",
+        "medical evidence",
+        "preliminary issue"
+      ],
+      "index_terms": [
+        "Afzal",
+        "Iliffe Booth Bennett",
+        "Chubb Wardens",
+        "Ridehalgh v Horsefield",
+        "litigation friend"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ridehalgh v Horsefield",
+          "citation": "[1994] Ch 205",
+          "relation": "applied"
+        },
+        {
+          "name": "Medcalf v Mardell",
+          "citation": "[2002] 3 WLR 172",
+          "relation": "cited"
+        },
+        {
+          "name": "Symphony Group Plc v Hodgson",
+          "citation": "[1994] QB 179",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed wasted costs judgment applying Ridehalgh principles with clear rejection of negligence allegations."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/990.json",
+    "status": "done",
+    "notes": "Batch 47 enrichment",
+    "enrichment": {
+      "short_title": "Council tax liability for investment property owner",
+      "area_of_law": [
+        "Local taxation",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government Finance Act 1992",
+          "provisions": [
+            "section 6",
+            "section 11"
+          ]
+        },
+        {
+          "title": "Valuation and Community Charge Tribunals Regulations 1989",
+          "provisions": [
+            "regulation 32"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Bennett owned Woodville Cottage in Cumbria as an investment property rented to tenants while living mainly in Bedford and elsewhere for work.",
+        "Copeland Borough Council determined he was council tax liable as resident freehold owner under section 6(2)(a).",
+        "The valuation tribunal found the cottage was his sole or main residence because he had no other property interest and intended to retire there.",
+        "The High Court dismissed his appeal on a point of law, rejecting late tenancy agreements and upholding discount findings."
+      ],
+      "procedural_posture": "High Court appeal on a point of law from a Valuation Tribunal council tax liability decision.",
+      "outcome": "Appeal dismissed; tribunal decision confirmed; claimant ordered to pay respondent's costs.",
+      "ratio": "Residence for council tax depends on all circumstances, not time spent at the dwelling alone; an owner with freehold interest, right to return, occasional visits and retirement intention may be 'resident' even if living nomadically elsewhere and never having lived at the property.",
+      "legal_issues": [
+        "Meaning of 'sole or main residence' under section 6(5) of the 1992 Act",
+        "Whether tenants with exclusive possession displaced owner liability",
+        "Admissibility of late tenancy agreements on appeal under Ladd v Marshall",
+        "Challenge to tribunal discount findings"
+      ],
+      "catchwords": [
+        "council tax",
+        "sole or main residence",
+        "valuation tribunal",
+        "freehold owner",
+        "investment property",
+        "section 6"
+      ],
+      "index_terms": [
+        "Bennett",
+        "Copeland Borough Council",
+        "Woodville Cottage",
+        "Frost v Feltham",
+        "Ward v Kingston upon Hull"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Frost v Feltham",
+          "citation": "[1981] 1 WLR 452",
+          "relation": "applied"
+        },
+        {
+          "name": "Bradford Metropolitan City Council v Anderton",
+          "citation": "89 LGR 681",
+          "relation": "applied"
+        },
+        {
+          "name": "Ward v Kingston upon Hull City Council",
+          "citation": "[1993] RA 71",
+          "relation": "applied"
+        },
+        {
+          "name": "Street v Mountford",
+          "citation": "[1985] AC 809",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full administrative judgment on council tax residence with clear tribunal fact findings upheld."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/470.json",
+    "status": "done",
+    "notes": "Batch 47 enrichment",
+    "enrichment": {
+      "short_title": "Representative BPI claim against parallel CD imports",
+      "area_of_law": [
+        "Intellectual property",
+        "Copyright",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Copyright, Designs and Patents Act 1988",
+          "provisions": [
+            "section 18",
+            "section 22",
+            "section 23",
+            "section 97",
+            "section 105",
+            "section 154"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 19.6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Record companies sued operators of the CD-WOW website for importing genuine non-EEA CDs into the UK, infringing UK sound recording copyright.",
+        "Claimants sought to sue on behalf of all relevant BPI and PPL members owning or exclusively licensing UK copyrights.",
+        "Defendants applied under CPR 19.6(2) to prevent representative proceedings for lack of same interest and authority.",
+        "The Vice-Chancellor held members shared a common interest and grievance and refused to direct that claimants could not act as representatives."
+      ],
+      "procedural_posture": "Interlocutory applications on representative capacity under CPR Rule 19.6 and permission to amend/add claimants.",
+      "outcome": "Defendants' application under CPR 19.6(2) dismissed; representative claim permitted subject to amendment directions.",
+      "ratio": "CPR 19.6 does not require prior authority from represented persons; where record company members share the same interest in restraining identical parallel-import infringements and the same legal issues arise, a representative claim is a flexible and convenient tool that may proceed.",
+      "legal_issues": [
+        "Whether claimants and BPI/PPL members had the same interest under CPR 19.6(1)",
+        "Whether representative claimants required members' authority to sue",
+        "Scope of injunctive and pecuniary relief in a representative copyright action",
+        "Whether defendants should be protected from uncertain representative proceedings"
+      ],
+      "catchwords": [
+        "representative action",
+        "CPR 19.6",
+        "parallel imports",
+        "sound recordings",
+        "copyright infringement",
+        "BPI"
+      ],
+      "index_terms": [
+        "Independiente",
+        "CD-WOW",
+        "Music Trading Online",
+        "British Phonographic Industry",
+        "PPL",
+        "parallel importation"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Duke of Bedford v Ellis",
+          "citation": "[1901] AC 1",
+          "relation": "applied"
+        },
+        {
+          "name": "John v Rees",
+          "citation": "[1970] 1 Ch 345",
+          "relation": "applied"
+        },
+        {
+          "name": "CBS v Amstrad",
+          "citation": "[1988] 1 Ch 61",
+          "relation": "cited"
+        },
+        {
+          "name": "Columbia Picture Industries v Robinson",
+          "citation": "[1986] FSR 367",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed procedural judgment on representative actions with clear application of CPR 19.6 principles."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/656.json",
+    "status": "needs_review",
+    "notes": "Batch 47 enrichment; source file contains post-judgment procedural transcript rather than full substantive judgment, but key holdings are inferable from the hand-down discussion.",
+    "enrichment": {
+      "short_title": "Whole quashing of mink fur farming compensation order",
+      "area_of_law": [
+        "Administrative law",
+        "Agriculture",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Fur Farming (Prohibition) Act 2000",
+          "provisions": [
+            "section 4",
+            "section 5"
+          ]
+        },
+        {
+          "title": "Fur Farming (Compensation Scheme) (England) Order 2002",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mink fur farmers challenged the 2002 compensation scheme made under the Fur Farming (Prohibition) Act 2000.",
+        "Stanley Burnton J had held provisions for compensation for residual breeding stock unlawful in his principal judgment.",
+        "The Secretary of State argued for partial severance so other payments could continue; claimants sought quashing of the whole order.",
+        "The judge quashed the entire order, finding income and breeding-stock compensation interdependent and the statutory duty to make a fair scheme unfulfilled."
+      ],
+      "procedural_posture": "Post-judgment hearing on form of quashing order, costs and permission to appeal after successful judicial review of a statutory compensation scheme.",
+      "outcome": "Whole compensation order quashed; claimants awarded 85% of legal costs capped at £40,000 plus surveyors' costs; permission to appeal refused.",
+      "ratio": "Where compensation for loss of income and for breeding stock are interdependent parts of a single statutory scheme, partial severance is inappropriate; quashing the whole order preserves the Secretary of State's duty to make a fresh rational and fair compensation scheme.",
+      "legal_issues": [
+        "Whether unlawful breeding-stock provisions could be severed from the remainder of the compensation order",
+        "Interdependence of income-based and stock-based compensation heads",
+        "Whether remaining provisions could satisfy section 5 without fresh consultation",
+        "Costs apportionment where some judicial review grounds failed or were abandoned"
+      ],
+      "catchwords": [
+        "fur farming",
+        "compensation scheme",
+        "judicial review",
+        "severance",
+        "statutory instrument",
+        "mink farmers"
+      ],
+      "index_terms": [
+        "Kelsall",
+        "Fur Farming Prohibition Act 2000",
+        "breeding stock compensation",
+        "DEFRA",
+        "quashing order"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Director of Public Prosecutions v Hutchinson",
+          "citation": "[1990] 2 AC 783",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.72,
+        "level": "medium",
+        "notes": "Enrichment based mainly on post-judgment procedural transcript; substantive ratio on breeding-stock unlawfulness is referenced but not fully reproduced in the source file."
+      }
+    }
+  }
+]

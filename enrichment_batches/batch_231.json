@@ -1,0 +1,712 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/347.json",
+    "status": "done",
+    "notes": "DPA section 7 preliminary issue after Durant; personal data, manual records and redaction analysis are detailed.",
+    "enrichment": {
+      "short_title": "MDU data subject access request and Durant redactions",
+      "area_of_law": [
+        "Data protection",
+        "Information law",
+        "Professional regulation",
+        "Medical negligence support"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": [
+            "section 1",
+            "section 7",
+            "section 8",
+            "section 10",
+            "section 13",
+            "section 14",
+            "section 15"
+          ]
+        },
+        {
+          "title": "Directive 95/46/EC on the Protection of Individuals with Regard to the Processing of Personal Data",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Consultant surgeon Mr Johnson sought access under section 7 DPA to personal data held by the Medical Defence Union after it declined to renew his membership in January 2002.",
+        "The MDU disclosed documents but with heavy redactions and omitted some material; Mr Johnson claimed non-compliance and sought orders under sections 7(9), 10 and 14 and compensation under section 13.",
+        "A preliminary issue was ordered on whether and to what extent the MDU had complied with the January 2002 access request.",
+        "Following Durant v FSA, the MDU argued many manual records were outside a relevant filing system and that redacted third-party identities were not personal data or were justified under section 7(4)."
+      ],
+      "procedural_posture": "Trial of a preliminary issue on compliance with a data subject access request under section 7 of the Data Protection Act 1998.",
+      "outcome": "Preliminary issue answered in the affirmative; the court was not satisfied the MDU had failed properly to comply with the access request.",
+      "ratio": "After Durant, personal data must be biographically significant and focused on the data subject; data exists only while readily accessible at the time of the request; third-party identities need not be disclosed unless necessarily part of the personal data sought, and section 7(9) review is anxious scrutiny of the data controller's decision rather than a merits rehearing.",
+      "legal_issues": [
+        "Whether manual and formerly electronic MDU records constituted disclosable data at the time of the request",
+        "What information about Mr Johnson amounted to personal data within section 1 DPA",
+        "When redaction of third-party identities was permissible under section 7(4)-(6)",
+        "The standard of court review under section 7(9) following Durant"
+      ],
+      "catchwords": [
+        "subject access request",
+        "personal data",
+        "relevant filing system",
+        "redaction",
+        "Medical Defence Union",
+        "Durant"
+      ],
+      "index_terms": [
+        "Data Protection Act 1998",
+        "medical indemnity",
+        "section 7(9)",
+        "third party information",
+        "manual records",
+        "Durant v FSA",
+        "preliminary issue"
+      ],
+      "linked_authorities": [
+        "Durant v Financial Services Authority [2003] EWCA Civ 1746",
+        "R v Secretary of State for the Home Department ex p Daly [2003] UKHL 26",
+        "R v Secretary of State for the Home Department ex p Rehman [2003] UKHL 47"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Preliminary issue answer and Durant-based analysis are explicit. Dependent relief on sections 10, 13 and 14 was not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/263.json",
+    "status": "done",
+    "notes": "Estate agent commission UTCCR appeal; regulation 6(2) construction and contractual matrix analysis are clear.",
+    "enrichment": {
+      "short_title": "Estate agent 3% penalty commission and UTCCR",
+      "area_of_law": [
+        "Consumer contract law",
+        "Estate agency",
+        "Contract interpretation",
+        "Unfair terms"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Unfair Terms in Consumer Contracts Regulations 1999",
+          "provisions": [
+            "regulation 4",
+            "regulation 5",
+            "regulation 6",
+            "regulation 7",
+            "regulation 8",
+            "Schedule 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Bairstow Eves claimed 3% commission after vendors paid only part of a discounted 1.5% rate within ten working days of completion on a Leytonstone flat sale.",
+        "The county court held the 3% standard rate term was unfair and not binding on the consumer vendors under the 1999 Regulations.",
+        "The sole appeal ground was whether regulation 6(2) excluded fairness review because the term related to price or remuneration.",
+        "The dispute concerned about £2,925.75 plus interest and costs after solicitors Darlingtons paid most but not all of the discounted commission."
+      ],
+      "procedural_posture": "Appeal from Romford County Court on whether regulation 6(2) UTCCR barred review of a commission escalation term.",
+      "outcome": "Appeal dismissed; regulation 6(2) did not apply because the operative price was 1.5% with a default 3% provision, so the judge's unfairness finding stood.",
+      "ratio": "Regulation 6(2) must be restrictively interpreted; where parties contemplated an agreed 1.5% commission with a fallback 3% rate for late payment, the escalation is not the core price exempt from fairness review and may be assessed under regulation 5 as a disproportionate compensation term.",
+      "legal_issues": [
+        "Whether the 3% commission term fell within regulation 6(2)(b) as core price",
+        "Construction of early payment discount versus default commission clauses",
+        "Application of First National Bank guidance on core and incidental terms",
+        "Whether the term was unfair under regulation 5 and Schedule 2(e)"
+      ],
+      "catchwords": [
+        "unfair terms",
+        "estate agent commission",
+        "early payment discount",
+        "regulation 6(2)",
+        "consumer contract",
+        "sole agency"
+      ],
+      "index_terms": [
+        "Unfair Terms in Consumer Contracts Regulations 1999",
+        "Director General of Fair Trading v First National Bank",
+        "commission escalation",
+        "Leytonstone flat sale",
+        "Darlingtons",
+        "contractual matrix"
+      ],
+      "linked_authorities": [
+        "Director General of Fair Trading v First National Bank plc [2001] UKHL 52",
+        "Chitty on Contracts"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Single ground of appeal, agreed facts and regulation 6(2) analysis are directly addressed with a clear disposition."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/115.json",
+    "status": "done",
+    "notes": "Bath Spa JCT injunction appeal; liquidated damages and adequate remedy analysis is thorough.",
+    "enrichment": {
+      "short_title": "Bath Spa interlocutory injunction and liquidated damages",
+      "area_of_law": [
+        "Construction law",
+        "Interlocutory injunctions",
+        "Building contracts",
+        "Contractual damages"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 37"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Bath and North East Somerset Council engaged Mowlem under JCT 1998 to restore Bath Heritage Spa buildings but completion was delayed and pool paint defects arose.",
+        "Architect's Instruction 103 required removal of defective pool paint; Mowlem refused access to alternative contractor Warings after a clause 4.1.2 notice.",
+        "The Technology and Construction Court granted an injunction requiring Mowlem to allow access for remedial works.",
+        "Mowlem appealed on the basis that liquidated damages of £12,000 per week meant damages were an adequate remedy and no injunction should issue."
+      ],
+      "procedural_posture": "Appeal against grant of an interlocutory mandatory injunction in a JCT building contract dispute.",
+      "outcome": "Appeal dismissed; interlocutory injunction upheld.",
+      "ratio": "Agreed liquidated and ascertained damages do not automatically make damages an adequate remedy for withholding access where actual delay losses may exceed the contractual rate and include unquantifiable public regeneration harm; American Cyanamid guidelines are not a rigid fetter on section 37 discretion.",
+      "legal_issues": [
+        "Whether liquidated damages made damages an adequate remedy under American Cyanamid",
+        "Balance of convenience on site access for remedial works under clause 8.3 JCT",
+        "Whether the architect's instruction was properly issued",
+        "Effect of public-interest delay losses on adequacy of damages"
+      ],
+      "catchwords": [
+        "interlocutory injunction",
+        "liquidated damages",
+        "JCT contract",
+        "architect's instruction",
+        "balance of convenience",
+        "Bath Spa"
+      ],
+      "index_terms": [
+        "American Cyanamid",
+        "Mowlem",
+        "Warings Contractors",
+        "clause 4.1.2",
+        "clause 8.3",
+        "Millennium project",
+        "section 37"
+      ],
+      "linked_authorities": [
+        "American Cyanamid Co v Ethicon Ltd [1975] AC 396",
+        "Smithkline Beecham plc v Apotex Europe Ltd [2003] EWCA Civ 137",
+        "Reg v Secretary of State for Transport ex p Factortame Ltd [1991] AC 603",
+        "Temloc Ltd v Errill Properties Ltd (1987) 39 BLR 30"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Appeal ground was narrow and the Court of Appeal's reasoning on LAD clauses and adequacy of damages is explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/136.json",
+    "status": "needs_review",
+    "notes": "Preliminary issues on holding costs and sale-price credit; reasoning is detailed but formal answers were left for parties to agree.",
+    "enrichment": {
+      "short_title": "Earl's Terrace holding costs and sale credit issues",
+      "area_of_law": [
+        "Construction and building disputes",
+        "Professional negligence",
+        "Contract damages",
+        "Property development"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 3.1(2)(i)",
+            "rule 3.1(2)(j)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "ETPL developed Grade II Georgian houses in Earl's Terrace, Kensington, using architect Nilsson and contractor Charter.",
+        "Water penetration into rear basement structures caused about 15 months' delay in completion and sale of eleven affected houses.",
+        "On assumed breach, ETPL claimed direct remedial costs plus holding costs for funds locked in the development, quantified by reference to commercial interest.",
+        "Nilsson and Charter argued no recoverable holding-cost loss was established and any later rise in sale prices must be credited against damages."
+      ],
+      "procedural_posture": "Preliminary trial of two legal issues on assumed facts under CPR 3.1 before liability and quantum trials.",
+      "outcome": "Issue 1: holding costs are in principle recoverable if ETPL proves funds were locked in the development and commercial loss resulted, quantifiable by a reasonable interest rate; Issue 2: no credit need be given for enhanced sale proceeds on the assumed facts.",
+      "ratio": "Consequential loss of use of development funding may be recoverable as damages where delay was caused by defects, including third-party funder loss within contemplation, but unrelated market rises after breach need not be set off where sales were not part of the same transaction as the defective works.",
+      "legal_issues": [
+        "Whether holding costs or loss of use of development funds are recoverable consequential damages",
+        "Whether ETPL must give credit for increased house sale prices caused by delayed sales",
+        "Quantification by reference to commercial interest rather than pure interest as damages",
+        "Recoverability of loss incurred by funder Vastint"
+      ],
+      "catchwords": [
+        "holding costs",
+        "consequential loss",
+        "water penetration",
+        "luxury residential development",
+        "loss of use",
+        "sale proceeds credit"
+      ],
+      "index_terms": [
+        "Earl's Terrace Kensington",
+        "Nilsson Design",
+        "Charter Construction",
+        "basement waterproofing",
+        "Blue Circle Industries",
+        "South Australia Asset Management v York Montague",
+        "preliminary issue"
+      ],
+      "linked_authorities": [
+        "Blue Circle Industries plc v Ministry of Defence [2000] 1 WLR 2452",
+        "South Australia Asset Management Corp v York Montague Ltd [1997] AC 191",
+        "Jamal v Moola Dawood Sons & Co [1916] 1 AC 175",
+        "Hadley v Baxendale (1854) 9 Exch 341"
+      ],
+      "confidence": {
+        "score": 0.86,
+        "level": "high",
+        "notes": "Substantive conclusions on both issues are clear though the judgment ends with parties invited to agree formal answers; some alternative sub-issues were not answered."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/138.json",
+    "status": "done",
+    "notes": "Adjudication enforcement against residential occupier; contract formation and UTCCR analysis are clear.",
+    "enrichment": {
+      "short_title": "JCT adjudication enforcement and fee cap dispute",
+      "area_of_law": [
+        "Construction law",
+        "Adjudication",
+        "Contract formation",
+        "Consumer contract"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Grants, Construction and Regeneration Act 1996",
+          "provisions": [
+            "section 106"
+          ]
+        },
+        {
+          "title": "Unfair Terms in Consumer Contracts Regulations 1999",
+          "provisions": [
+            "regulation 4",
+            "regulation 5",
+            "Schedule 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Westminster Building Company refurbished Mr Beckingham's Wilmington Square dwelling under a disputed JCT Intermediate Form contract.",
+        "Because the work was to a residential occupier's home, HGCRA statutory adjudication did not apply and jurisdiction depended on contractual adjudication terms.",
+        "A February 2003 agreement capped total fees at £300,000 including VAT, but later interim certificates exceeded that cap.",
+        "The adjudicator held the cap agreement lacked consideration; Beckingham resisted enforcement on jurisdiction, unfair terms and cap grounds."
+      ],
+      "procedural_posture": "Technology and Construction Court enforcement trial of an adjudicator's decision on certified unpaid sums.",
+      "outcome": "Judgment for Westminster for the adjudicator's award; JCT contract and adjudication clause enforced.",
+      "ratio": "A letter of intent plus conduct can incorporate a signed JCT Intermediate Form despite unsigned formal documents; a fee cap was a contract variation whose validity was for the adjudicator to decide; the contractual adjudication clause was not an unfair consumer term where the occupier had professional surveyor advice.",
+      "legal_issues": [
+        "Whether the JCT Intermediate Form was incorporated into the building contract",
+        "Whether the adjudication clause was excluded by section 106 HGCRA or unfair under UTCCR",
+        "Whether the fee cap agreement precluded adjudication jurisdiction",
+        "Whether the adjudicator's consideration ruling was enforceable"
+      ],
+      "catchwords": [
+        "adjudication enforcement",
+        "letter of intent",
+        "JCT Intermediate Form",
+        "fee cap",
+        "consumer occupier",
+        "consideration"
+      ],
+      "index_terms": [
+        "Westminster Building Company",
+        "Wilmington Square",
+        "Stent Foundations v Carillion",
+        "Harvey Shopfitters v ADI",
+        "Williams v Roffey Brothers",
+        "Shepherd Construction v Mecright",
+        "Lovell Projects v Legg"
+      ],
+      "linked_authorities": [
+        "Stent Foundations Ltd v Carillion Construction Ltd (2001) 78 Con LR 188",
+        "Harvey Shopfitters Ltd v ADI Ltd [2003] EWCA Civ 1757",
+        "Director General of Fair Trading v First National Bank plc [2002] 1 AC 481",
+        "Williams v Roffey Brothers & Nicholls (Contractors) Ltd [1991] 1 QB 1",
+        "Shepherd Construction Ltd v Mecright Ltd [2000] BLR 489"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Three enforcement defences were addressed separately with a clear judgment for the claimant."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/175.json",
+    "status": "done",
+    "notes": "Bangladesh arsenic duty-of-care strike-out; majority allowed appeal though Clarke LJ would have dismissed it.",
+    "enrichment": {
+      "short_title": "Bangladesh arsenic survey: no duty of care",
+      "area_of_law": [
+        "Tort law",
+        "Negligence",
+        "Public law and development aid",
+        "Environmental health"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 3 rule 3.4",
+            "Part 24"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Sutradhar, a Bangladesh resident, claimed NERC's British Geological Survey failed to test for arsenic in a 1992 groundwater survey funded by the Overseas Development Agency.",
+        "The report tested many elements but not arsenic; claimants alleged reliance by Bangladeshi authorities left consumers drinking contaminated tubewell water.",
+        "Simon J refused to strike out the claim; NERC appealed on proximity and duty of care.",
+        "Hundreds of potential claimants were identified in related group litigation."
+      ],
+      "procedural_posture": "Appeal against refusal to strike out or grant summary judgment on whether a duty of care existed.",
+      "outcome": "Appeal allowed by majority (Kennedy and Wall LJJ); claim struck out for no realistic prospect of establishing a duty of care; Clarke LJ would have dismissed the appeal.",
+      "ratio": "On the pleaded facts BGS owed no duty of care to distant Bangladeshi water consumers: there was insufficient proximity, no assumption of responsibility, no control over water provision, and it would not be fair, just and reasonable to impose liability on a short pilot survey report prepared for ODA.",
+      "legal_issues": [
+        "Whether NERC/BGS owed a duty of care in negligence to Bangladeshi groundwater consumers",
+        "Proximity and assumption of responsibility in negligent misstatement cases",
+        "When a developing-area duty-of-care claim may be struck out before trial",
+        "Construction of the 1992 hydrochemical survey report"
+      ],
+      "catchwords": [
+        "duty of care",
+        "proximity",
+        "arsenic contamination",
+        "hydrogeological survey",
+        "strike out",
+        "development aid"
+      ],
+      "index_terms": [
+        "Natural Environment Research Council",
+        "British Geological Survey",
+        "Bangladesh tubewells",
+        "Caparo three-stage test",
+        "Watson v British Boxing Board of Control",
+        "Perrett v Collins",
+        "summary judgment"
+      ],
+      "linked_authorities": [
+        "Caparo Industries plc v Dickman [1990] 2 AC 605",
+        "Watson v British Boxing Board of Control Ltd [2001] QB 1134",
+        "Perrett v Collins [1998] 2 Lloyd's Rep 255",
+        "Marc Rich & Co v Bishop Rock Marine Co Ltd [1996] AC 211",
+        "X (Minors) v Bedfordshire County Council [1995] 2 AC 633"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Majority outcome and proximity reasoning are explicit, but split decision and undecided breach/construction issues warrant noting the dissent."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/309.json",
+    "status": "done",
+    "notes": "Care-home historical abuse appeal; abuse of process and DPP v P directions upheld; sentence reduced on rape count.",
+    "enrichment": {
+      "short_title": "Care officer historical abuse: conviction upheld",
+      "area_of_law": [
+        "Criminal law",
+        "Sexual offences",
+        "Evidence",
+        "Sentencing"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Joseph Hopkins, a residential care officer at Staffordshire homes from the 1970s to 1987, was convicted of indecent assault, rape and ABH against children in his care.",
+        "He denied all sexual activity and alleged financial motives after complaints resurfaced through Operation Thaw following a 1987 investigation that did not proceed.",
+        "The judge refused to stay the trial as an abuse of process despite delay and deaths of staff witnesses.",
+        "Hopkins was sentenced to 12 years for rape with concurrent sentences on other counts."
+      ],
+      "procedural_posture": "Appeal against conviction and, with leave, against sentence.",
+      "outcome": "Conviction appeal dismissed as safe; sentence appeal partially allowed with rape sentence reduced from 12 to 10 years, other concurrent sentences unchanged.",
+      "ratio": "Retrial of historic care-home allegations was not an abuse of process where fresh complaints arose in a different context and adequate directions on delay, collusion and compensation motives were given; similar-fact evidence directions under DPP v P were appropriate.",
+      "legal_issues": [
+        "Whether the trial should have been stayed as an abuse of process for delay and prior non-prosecution",
+        "Whether counts relating to 1987 complaints should have been excluded",
+        "Admissibility and use of mutually supporting complainant evidence under DPP v P",
+        "Appropriate sentence for historic rape in a residential care setting"
+      ],
+      "catchwords": [
+        "historical sexual abuse",
+        "care home",
+        "abuse of process",
+        "delay",
+        "DPP v P",
+        "similar fact evidence"
+      ],
+      "index_terms": [
+        "Riverside Community Home",
+        "Chadswell Remand Home",
+        "Operation Thaw",
+        "Bloomfield",
+        "Beckford",
+        "Attorney General's Reference No 1 of 1990",
+        "sentencing appeal"
+      ],
+      "linked_authorities": [
+        "DPP v P [1991] 93 Cr App R 267",
+        "R v Bloomfield [1997] 1 Cr App R 135",
+        "R v Beckford [1996] 1 Cr App R 94",
+        "Attorney General's Reference No 1 of 1990 (1995) 95 Cr App R 296"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Conviction reasoning and sentence variation are clearly stated; underlying fact findings rest on the jury verdict."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/173.json",
+    "status": "done",
+    "notes": "Mobile Homes Act notice requirement and pleading admissions; Woolf MR analysis is detailed and outcome clear.",
+    "enrichment": {
+      "short_title": "Mobile home notice requirement and pleading admission",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Mobile homes",
+        "Civil procedure",
+        "Housing possession"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mobile Homes Act 1983",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "Schedule 1 paragraph 4"
+          ]
+        },
+        {
+          "title": "Caravan Sites and Control of Development Act 1960",
+          "provisions": [
+            "section 29(1)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 3.4(2)",
+            "rule 16.5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Loveridge claimed possession of a mobile home pitch at Droitwich because Mr Healey's structure was not a movable caravan.",
+        "Schedule 1 Mobile Homes Act 1983 requires court satisfaction of breach, service of a notice to remedy, non-compliance and reasonableness before termination.",
+        "The defendant's amended defence admitted 'the matter of the notice' but the January 1997 letter was not a valid remedy notice.",
+        "The recorder struck out the possession claim on the basis the statutory notice requirement could not be satisfied."
+      ],
+      "procedural_posture": "Second appeal from summary judgment striking out a mobile homes possession claim for failure to prove a valid statutory notice.",
+      "outcome": "Appeal allowed; summary judgment set aside; defendant must seek permission to amend if he wishes to deny valid notice was given.",
+      "ratio": "The defence admitted receipt of a notice to remedy the alleged breach, triggering CPR 16.5 consequences; the court could not ignore that admission without an application to amend, though the Mobile Homes Act protection required the recorder to manage pleadings actively rather than override admissions as a jurisdictional bar.",
+      "legal_issues": [
+        "Whether the defence admitted a valid Schedule 1 notice to remedy breach",
+        "Effect of CPR 16.5(5) on failure to plead validity of a notice",
+        "Whether the court may disregard pleadings that fail to satisfy Mobile Homes Act preconditions",
+        "Proper case management when statutory protection and defective pleadings conflict"
+      ],
+      "catchwords": [
+        "mobile homes",
+        "notice to remedy",
+        "pleading admission",
+        "possession claim",
+        "Schedule 1",
+        "strike out"
+      ],
+      "index_terms": [
+        "Mobile Homes Act 1983",
+        "Droitwich pitch",
+        "CPR 16.5",
+        "Barton v Fincham",
+        "McPhilemy v Times Newspapers",
+        "summary judgment",
+        "caravan definition"
+      ],
+      "linked_authorities": [
+        "Barton v Fincham [1921] 2 KB 291",
+        "McPhilemy v Times Newspapers Ltd [1999] 3 All ER 775",
+        "Hounslow LBC v McBride (1998) 31 HLR 143",
+        "R v Bloomsbury and Marylebone County Court ex p Blackburne (1982) 2 EG 157"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Court of Appeal's pleading construction and disposal order are explicit; merits of caravan breach remain for trial after any amendment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/311.json",
+    "status": "done",
+    "notes": "Advance-fee fraud trial ruling on legal advice privilege fraud exception; standard of proof and admissibility analysis is authoritative.",
+    "enrichment": {
+      "short_title": "Advance-fee fraud: privilege fraud exception",
+      "area_of_law": [
+        "Criminal law",
+        "Legal professional privilege",
+        "Fraud",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1987",
+          "provisions": [
+            "section 9"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Martin Gibbins and co-defendants faced conspiracy to defraud charges over advance-fee access to funds agreements.",
+        "Draft instructions to counsel prepared by solicitor Wilson-Smith and annotated by Gibbins were obtained by police from Law Society intervention files.",
+        "Gibbins applied to exclude the annotated instructions as protected by legal advice privilege or under section 78 PACE.",
+        "The Crown argued the fraud exception applied because Gibbins sought to omit Law Society warning correspondence to obtain a favourable opinion for use in the fraud."
+      ],
+      "procedural_posture": "Appeal with leave against a trial judge's ruling that annotated instructions to counsel were admissible under the legal professional privilege fraud exception.",
+      "outcome": "Appeal dismissed; annotated instructions held not protected by privilege and admissible.",
+      "ratio": "At the interlocutory stage the prosecution need only establish a prima facie case that communications were made in furtherance of fraud; both the existence of the fraud and the document's purpose are judged on balance of probabilities, not proof beyond reasonable doubt, leaving the jury to decide ultimate guilt.",
+      "legal_issues": [
+        "Standard of proof for the legal professional privilege fraud exception in criminal trials",
+        "Whether annotated instructions to counsel were made to facilitate an advance-fee fraud",
+        "Admissibility of privileged material already in prosecution possession",
+        "Application of section 78 PACE where documents were irregularly obtained"
+      ],
+      "catchwords": [
+        "legal professional privilege",
+        "fraud exception",
+        "instructions to counsel",
+        "advance fee fraud",
+        "standard of proof",
+        "PACE section 78"
+      ],
+      "index_terms": [
+        "R v Cox and Railton",
+        "R v Ewing",
+        "Halley v Law Society",
+        "Wilson-Smith",
+        "Bank Advice",
+        "prima facie case",
+        "interlocutory ruling"
+      ],
+      "linked_authorities": [
+        "R v Cox and Railton (1884) 14 QB 153",
+        "O'Rourke v Derbyshire [1920] AC 581",
+        "R v Derby Magistrates' Court ex p B [1996] 1 AC 487",
+        "R v Ewing (1983) 77 Cr App R 47",
+        "Butler v Board of Trade [1971] 1 Ch 680"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Appeal turned on law not fact and the court's standard-of-proof analysis is comprehensive and explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/167.json",
+    "status": "done",
+    "notes": "Law Society IPS/compensation procedure and Article 6 oral hearing challenge; comprehensive Clarke LJ analysis with clear refusal.",
+    "enrichment": {
+      "short_title": "Law Society complaints: no right to oral hearing",
+      "area_of_law": [
+        "Professional regulation",
+        "Solicitors",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Solicitors Act 1974",
+          "provisions": [
+            "section 37A",
+            "section 47",
+            "section 12",
+            "Schedule 1A"
+          ]
+        },
+        {
+          "title": "Administration of Justice Act 1985",
+          "provisions": [
+            "section 47A"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6(1)"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Solicitor Wayne Thompson challenged OSS decisions finding inadequate professional services and misconduct in complaints by former clients Rattigan and Anderson.",
+        "Sanctions included compensation orders, referral to the Solicitors Disciplinary Tribunal, vesting of a practising certificate discretion, and reprimands.",
+        "All decisions were made on extensive written material without oral hearings; Thompson sought judicial review for lack of oral representation.",
+        "Permission to apply for judicial review was granted only on the oral hearing issue because of potential impact on about 1,500 cases annually."
+      ],
+      "procedural_posture": "Judicial review in the Court of Appeal (first instance) of Law Society/OSS complaint decisions, limited to whether an oral hearing was required.",
+      "outcome": "Applications for judicial review refused; no breach of common law fairness or Article 6(1) in deciding complaints on documents without oral hearings.",
+      "ratio": "IPS and conduct decisions such as reprimands, compensation directions and SDT referral do not determine civil rights under Article 6 where the right to practise is not at stake and compensation directions have no direct legal effect until SDT enforcement; fairness did not require an oral hearing where disputed facts were document-based and no hearing was sought at first instance.",
+      "legal_issues": [
+        "Whether Law Society complaint procedures engaged Article 6(1) civil rights",
+        "Whether an oral hearing was required at common law or under the Convention",
+        "Effect of Schedule 1A compensation directions and costs determinations",
+        "Whether reprimands or vesting a discretion determined the right to practise"
+      ],
+      "catchwords": [
+        "judicial review",
+        "inadequate professional services",
+        "Article 6",
+        "oral hearing",
+        "Law Society",
+        "solicitors discipline"
+      ],
+      "index_terms": [
+        "Office for the Supervision of Solicitors",
+        "Schedule 1A Solicitors Act",
+        "Le Compte v Belgium",
+        "Smith v Parole Board",
+        "Runa Begum v Tower Hamlets",
+        "White v Office for the Supervision of Solicitors",
+        "Adjudication Panel"
+      ],
+      "linked_authorities": [
+        "Le Compte, Van Leuven and De Meyere v Belgium (1981) 4 EHRR 1",
+        "Smith v Parole Board [2003] EWCA Civ 1269",
+        "Runa Begum v Tower Hamlets LBC [2003] UKHL 5",
+        "White v Office for the Supervision of Solicitors [2001] EWHC Admin 1149",
+        "R v Secretary of State for the Home Department ex p Doody [1994] 1 AC 531"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Judgment is long but the dispositive oral-hearing holding is clear; permission was expressly limited to that issue."
+      }
+    }
+  }
+]

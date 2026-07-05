@@ -1,0 +1,799 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1743.json",
+    "status": "done",
+    "notes": "Complete strike-out judgment on damages after successful toothfish licensing judicial review.",
+    "enrichment": {
+      "short_title": "Toothfish licence claimants denied HRA damages where First Protocol not extended to South Georgia",
+      "area_of_law": [
+        "Human rights",
+        "Administrative law",
+        "Public law remedies",
+        "Overseas territories law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 6",
+            "section 7"
+          ]
+        },
+        {
+          "title": "British Overseas Territories Act 2002",
+          "provisions": [
+            "section 1(3)"
+          ]
+        },
+        {
+          "title": "South Georgia and South Sandwich Islands Order 1985",
+          "provisions": [
+            "Article 4",
+            "Article 5(1)",
+            "Article 7"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 1",
+            "Article 34",
+            "Article 56"
+          ]
+        },
+        {
+          "title": "Protocol 1 to the ECHR",
+          "provisions": [
+            "Article 1",
+            "Article 4",
+            "Article 5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Quark Fishing Ltd sought a South Georgia toothfish licence for 2001 but was excluded after FCO advice reduced UK/BOT vessel allocations.",
+        "The Secretary of State's direction excluding the claimant's vessel was quashed on judicial review, but the claimants then pursued damages.",
+        "The ECHR had been extended to South Georgia and the South Sandwich Islands under Article 56, but Protocol 1 had not been extended by declaration under Article 4.",
+        "The claimants argued the London-based Secretary of State's act breached Article 1 of Protocol 1 despite the territory's separate Crown status.",
+        "Collins J struck out HRA, breach of statutory duty, common law and exemplary damages claims on summary judgment."
+      ],
+      "procedural_posture": "Application to strike out amended particulars and for summary judgment on damages following successful judicial review and dismissed appeal on the licensing decision.",
+      "outcome": "Strike-out application allowed; no viable damages claim under the Human Rights Act or otherwise.",
+      "ratio": "A claim for damages under section 7 of the Human Rights Act requires the claimant to be a Convention victim within Article 34, which depends on territorial jurisdiction under Article 1 and any Article 56/Protocol extension; where Protocol 1 has not been extended to an overseas territory, a claimant cannot recover HRA damages for acts done by the Crown in right of that territory even if judicial review lies in London.",
+      "legal_issues": [
+        "Whether Article 1 of Protocol 1 applied to the denial of a toothfish licence in SGSSI",
+        "Whether the claimant was a victim for section 7 HRA purposes",
+        "Whether a fishing licence or legitimate expectation of one was a possession under Protocol 1",
+        "Whether breach of statutory duty or common law provided an alternative damages route"
+      ],
+      "catchwords": [
+        "Human Rights Act damages",
+        "Article 1 Protocol 1",
+        "territorial jurisdiction",
+        "Article 56 extension",
+        "South Georgia",
+        "judicial review damages",
+        "strike out",
+        "public law remedy"
+      ],
+      "index_terms": [
+        "Patagonian toothfish",
+        "CCAMLR",
+        "MV Jacqueline",
+        "Quark Fishing",
+        "British Overseas Territory",
+        "Bankovic",
+        "Gillow v United Kingdom",
+        "R (Bancoult)"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Gillow v United Kingdom",
+          "citation": "Case No.13/1984/85/132",
+          "relation": "applied"
+        },
+        {
+          "name": "Bankovic and Others v Belgium and Others",
+          "citation": "(2001) 11 BHRC 435",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Ullah) v Special Adjudicator",
+          "citation": "[2002] EWCA Civ 1856",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Bancoult) v Secretary of State for Foreign and Commonwealth Affairs",
+          "citation": "[2001] QB 1067",
+          "relation": "considered"
+        },
+        {
+          "name": "Tre Traktörer Aktiebolag v Sweden",
+          "citation": "(1989) 13 EHRR 309",
+          "relation": "considered"
+        },
+        {
+          "name": "Three Rivers District Council v Bank of England (No 3)",
+          "citation": "[2003] 2 All ER 513",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Long, self-contained judgment with clear outcome and ratio on HRA territorial limits."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1074.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on Part 20 joinder and broker duty of care.",
+    "enrichment": {
+      "short_title": "Sub-brokers and employees may owe Curzon arguable reinsurance broking duties despite Sedgwick agency",
+      "area_of_law": [
+        "Insurance law",
+        "Negligence",
+        "Professional liability",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Turner & Newall sought asbestos liability reinsurance through Sedgwick after US class-action constraints lifted.",
+        "Curzon Insurance Ltd was invited to front 100% insurance subject to 100% reinsurance placed largely before Curzon joined the transaction.",
+        "Curzon alleged Sedgwick subsidiaries and employees Hammond and Herrick assumed tort duties when placing reinsurance for Curzon in November 1996.",
+        "SRS presented slips as a Lloyd's broker; Sedgwick Ltd alone accepted Part 20 proceedings while related entities sought to set aside joinder.",
+        "Commercial motive: Sedgwick's £1 million contractual liability cap might not bind other group entities."
+      ],
+      "procedural_posture": "Appeal against refusal to set aside leave to join SRS, Sedgwick OS Ltd and Marsh USA Inc as Part 20 defendants in reinsurance negligence proceedings.",
+      "outcome": "Appeal dismissed; joinder upheld as each proposed defendant faced an arguable duty of care claim.",
+      "ratio": "At the joinder stage it is enough that pleaded facts could support an assumption of responsibility under Hedley Byrne/Henderson v Merrett; employees and sub-brokers who knowingly place reinsurance for a front insurer may owe duties despite acting through a main broker, and agency status is a trial issue not a bar to joinder.",
+      "legal_issues": [
+        "Whether SRS, SOL and Marsh assumed duties of care to Curzon",
+        "Whether vicarious liability could attach to employers of Hammond and Herrick",
+        "Whether agency for Sedgwick Ltd negated personal responsibility of a Lloyd's broker presenting slips",
+        "Whether Curzon had a realistic prospect of success at trial"
+      ],
+      "catchwords": [
+        "insurance broker negligence",
+        "assumption of responsibility",
+        "Part 20 defendant",
+        "reinsurance placement",
+        "sub-broker liability",
+        "Henderson v Merrett",
+        "asbestos reinsurance"
+      ],
+      "index_terms": [
+        "European International Reinsurance",
+        "Curzon Insurance",
+        "Turner & Newall",
+        "Georgine class",
+        "Sedgwick Global",
+        "facultative reinsurance",
+        "realistic prospect of success"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Henderson v Merrett Syndicates Ltd",
+          "citation": "[1995] 2 AC 145",
+          "relation": "applied"
+        },
+        {
+          "name": "Williams v Natural Life Health Foods Ltd",
+          "citation": "[1998] 1 WLR 830",
+          "relation": "considered"
+        },
+        {
+          "name": "Punjab National Bank v de Boinville",
+          "citation": "[1992] 1 Lloyd's Rep 7",
+          "relation": "applied"
+        },
+        {
+          "name": "Cooke v Wing, Heath & Co",
+          "citation": "(1930) 38 Lloyd's Rep 157",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full appellate reasoning on assumption of responsibility at interlocutory stage."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1780.json",
+    "status": "done",
+    "notes": "Complete interlocutory judgment on CDDA fairness and s16 notice, though main disqualification trial not reached.",
+    "enrichment": {
+      "short_title": "Finelist director refused strike-out of DTI affirmation despite unfair s16 notice and overstated kiting case",
+      "area_of_law": [
+        "Company law",
+        "Director disqualification",
+        "Insolvency",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Company Directors Disqualification Act 1986",
+          "provisions": [
+            "section 1(1)",
+            "section 6",
+            "section 7(2)",
+            "section 16(1)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 8",
+            "Part 35"
+          ]
+        },
+        {
+          "title": "Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules 1987",
+          "provisions": [
+            "rule 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Swan, CEO of listed Finelist Group, faced s6 CDDA proceedings after receivership alleging cheque kiting between subsidiaries and a misleading Maccess circular.",
+        "He applied to strike out the Insolvency Service affirmation and stay proceedings for unfair presentation and defective procedure.",
+        "The SoS gave only one day's s16 notice before issuing proceedings near the two-year limitation deadline and did not interview Swan beforehand.",
+        "Laddie J found the affirmation overstated Swan's personal involvement in kiting (only four cheques on one day) and failed balanced presentation duties.",
+        "Despite procedural unfairness, Swan sought only affirmation strike-out and reconsideration, not dismissal of the claim itself."
+      ],
+      "procedural_posture": "Interlocutory application in Part 8 director disqualification proceedings to strike out supporting affirmation and stay the claim pending reconsideration.",
+      "outcome": "Application refused; proceedings to continue, with judicial criticism of the SoS's evidence and pre-issue procedure.",
+      "ratio": "Secretary of State disqualification evidence must fairly identify essential facts and distinguish inference from direct proof, and serious failures in s16 notice and pre-action consultation may show unfairness or abuse, but the proper remedy for overstated affidavit evidence is usually partial strike-out or particulars—not wholesale withdrawal of evidence where the director understands the allegations and does not seek to end the claim.",
+      "legal_issues": [
+        "The SoS's duty of fairness in CDDA supporting affidavits",
+        "Effect of breach of section 16(1) ten-day notice",
+        "Whether cheque-kiting allegations were supported by evidence against Swan",
+        "Whether Baker Tilly tables constituted non-compliant expert evidence"
+      ],
+      "catchwords": [
+        "director disqualification",
+        "CDDA section 6",
+        "section 16 notice",
+        "Insolvency Service affirmation",
+        "cheque kiting",
+        "misleading circular",
+        "fair presentation",
+        "Part 8 procedure"
+      ],
+      "index_terms": [
+        "Finelist Group",
+        "AEW Limited",
+        "Edmunds Walker",
+        "Maccess disposal",
+        "Listing Rules",
+        "Re Hickling",
+        "Re Cedac",
+        "Re Sevenoaks Stationers"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re Sevenoaks Stationers Ltd",
+          "citation": "[1991] Ch 164",
+          "relation": "applied"
+        },
+        {
+          "name": "Re Rex Williams Leisure",
+          "citation": "[1994] Ch 1",
+          "relation": "applied"
+        },
+        {
+          "name": "Secretary of State for Trade and Industry v Hickling",
+          "citation": "[1996] BCC 687",
+          "relation": "applied"
+        },
+        {
+          "name": "Re Cedac Ltd",
+          "citation": "[1991] Ch 402",
+          "relation": "applied"
+        },
+        {
+          "name": "Re Sutton Glassworks Ltd",
+          "citation": "[1996] BCC 174",
+          "relation": "applied"
+        },
+        {
+          "name": "Palamisto General Enterprises SA v Ocean Marine Insurance Ltd",
+          "citation": "[1972] 2 WLR 1425",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed procedural ruling; ultimate disqualification outcome not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admlty/2003/1802.json",
+    "status": "done",
+    "notes": "Complete admiralty liability judgment with 50% apportionment.",
+    "enrichment": {
+      "short_title": "Tanker and dredger equally at fault where dredger's course created collision doubt in Suez bypass channel",
+      "area_of_law": [
+        "Admiralty law",
+        "Collision",
+        "Maritime negligence",
+        "Apportionment of liability"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Fully laden chemical tanker Bow Spring grounded in the Suez Northern Bypass Channel on 8 July 1999 while avoiding dredger Manzanillo II.",
+        "Manzanillo II was returning from dumping to dredge a new Port Said access channel east of the bypass; Navtex warnings gave only broad coordinates.",
+        "Bow Spring altered hard starboard and grounded, losing half her rudder and damaging her propeller.",
+        "Elder Brethren advised Manzanillo II should have altered substantially to port earlier to show she would not cross the channel.",
+        "Bow Spring's beaching was held an over-reaction when reducing speed was the proper response."
+      ],
+      "procedural_posture": "Admiralty claim for damage arising from grounding alleged to have been caused by dredger navigation in the Suez Canal.",
+      "outcome": "Manzanillo II found at fault; contributory fault apportioned 50% to each vessel.",
+      "ratio": "A dredger approaching a restricted channel at speed without clearly signalling it will not enter the channel may be liable for creating a close-quarters situation, but a laden tanker must normally reduce speed rather than leave the channel; where both faults contribute to grounding, liability is shared equally.",
+      "legal_issues": [
+        "Manzanillo II's course and speed approaching the dredging area",
+        "Whether Bow Spring should have treated the dredger as confined to the dredging zone",
+        "Proper avoiding action for a laden tanker facing uncertain crossing traffic",
+        "Apportionment between creating the danger and the emergency response"
+      ],
+      "catchwords": [
+        "Suez Canal grounding",
+        "putting by",
+        "dredger liability",
+        "collision avoidance",
+        "close quarters",
+        "contributory negligence",
+        "Elder Brethren advice"
+      ],
+      "index_terms": [
+        "Bow Spring",
+        "Manzanillo II",
+        "Northern Bypass Channel",
+        "Port Said east port",
+        "Navtex warning",
+        "The Pembrokeshire",
+        "maritime apportionment"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Pembrokeshire",
+          "citation": "(1936) 55 Ll L Rep 77",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete fact-finding judgment with clear apportionment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1193.json",
+    "status": "needs_review",
+    "notes": "Costs-only supplemental judgment; substantive appeal reasoning not in source text.",
+    "enrichment": {
+      "short_title": "Unsuccessful appellant ordered to pay costs of refusing EAT procedural compromise in race claim",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Employment law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mrs Sukul-Lennard lost a discrete procedural issue on her appeal against strike-out of a racial discrimination claim.",
+        "The respondent had suggested in correspondence that the appeal be handled in the way the Court of Appeal later adopted.",
+        "Mrs Sukul-Lennard resisted that suggestion and therefore lost the discrete costs issue.",
+        "The court ordered her to pay costs thrown away, but deferred enforcement until the litigation concluded."
+      ],
+      "procedural_posture": "Court of Appeal costs decision following the substantive appeal in Sukul-Lennard v Croydon Primary Care Trust.",
+      "outcome": "Mrs Sukul-Lennard ordered to pay the respondent's costs thrown away, not enforceable until final conclusion of the litigation.",
+      "ratio": "Where a party loses a discrete procedural issue that the other side had reasonably proposed adopting earlier, costs normally follow the event unless special circumstances exist.",
+      "legal_issues": [
+        "Costs consequences of refusing a procedural compromise later adopted by the court",
+        "Whether enforcement of costs should await final outcome of underlying litigation"
+      ],
+      "catchwords": [
+        "costs thrown away",
+        "discrete issue",
+        "employment appeal",
+        "procedural compromise",
+        "deferred enforcement"
+      ],
+      "index_terms": [
+        "Sukul-Lennard",
+        "Croydon Primary Care Trust",
+        "Employment Appeal Tribunal",
+        "racial discrimination"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.72,
+        "level": "medium",
+        "notes": "Very short costs order only; linked to [2003] EWCA Civ 1192 but substantive ratio not present in this file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1821.json",
+    "status": "done",
+    "notes": "Very long judgment; enrichment based on opening claims and final dismissal of Part 20 claim.",
+    "enrichment": {
+      "short_title": "Solicitor's breach of confidence against former client held but Part 20 claim dismissed for no causation",
+      "area_of_law": [
+        "Professional negligence",
+        "Solicitors",
+        "Confidentiality",
+        "Banking litigation",
+        "Economic torts"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Bonas borrowed from NatWest to fund a divorce award; Mr Edwards, a former client of Brice Droogleever, guaranteed up to £350,000 and charged his flat.",
+        "After Bonas defaulted, Brice Droogleever acted for Edwards against Bonas in negotiations with the bank despite prior representation of Bonas in ancillary proceedings.",
+        "Edwards paid £230,000 to settle with the bank, leaving Bonas exposed; Bonas later brought a Part 20 claim in the bank's recovery action.",
+        "Bonas alleged breach of confidence, negligence, procuring breach of contract and unlawful means interference based on confidential financial information from the divorce.",
+        "Lindsay J found Brice acted in breach of confidence but no causal link to Bonas's alleged loss of compromise agreements."
+      ],
+      "procedural_posture": "Part 20 claim in bank recovery proceedings against former client's solicitors after Bonas settled with NatWest.",
+      "outcome": "Part 20 claim dismissed; breach of confidence found but no liability on negligence, procuring breach or unlawful means claims.",
+      "ratio": "A solicitor who acts for a new client against a former client may breach confidence owed to the former client, yet liability for economic loss requires proof that the solicitor's conduct caused the loss; absence of consideration under Foakes v Beer also defeated alleged compromise agreements.",
+      "legal_issues": [
+        "Whether Brice Droogleever was precluded from acting for Edwards against Bonas",
+        "Breach of confidence arising from use of information from ancillary proceedings",
+        "Whether Brice procured breach of Bonas's agreements with Edwards and the bank",
+        "Causation and consideration in alleged compromise arrangements"
+      ],
+      "catchwords": [
+        "solicitor former client",
+        "breach of confidence",
+        "guarantee enforcement",
+        "procuring breach of contract",
+        "unlawful means conspiracy",
+        "Part 20 claim",
+        "Foakes v Beer"
+      ],
+      "index_terms": [
+        "National Westminster Bank",
+        "Jeffrey Bonas",
+        "Colin Edwards",
+        "Brice Droogleever",
+        "matrimonial ancillary relief",
+        "bank guarantee",
+        "economic tort"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Foakes v Beer",
+          "citation": "(1884) 9 App Cas 605",
+          "relation": "applied"
+        },
+        {
+          "name": "Allen v Flood",
+          "citation": "[1898] AC 1",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Large judgment read via opening, witness findings and conclusion; intermediate claim-by-claim analysis not fully verified line by line."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1803.json",
+    "status": "done",
+    "notes": "Complete coverage judgment on freight forwarder policy scope and conditions.",
+    "enrichment": {
+      "short_title": "Freight forwarder insurer not liable for third-party conversion claims after unauthorised bill-of-lading releases",
+      "area_of_law": [
+        "Insurance law",
+        "Freight forwarding",
+        "Warehousing",
+        "Misdelivery"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Frans Maas warehoused Palmier goods at Shipdham under UKWA/BIFA terms and exercised a lien for unpaid customs duty.",
+        "A Warehouse Termination Agreement allowed Palmier to take goods on credit while repaying a £2.9m loan, but releases increasingly occurred without original bills of lading.",
+        "Third-party banks and shippers sued Frans Maas for conversion; four claims settled and one went to trial with liability conceded.",
+        "Frans Maas claimed indemnity under a Sun Alliance freight forwarder policy for 1998-99.",
+        "Steel J held cover applied only to liabilities to contractual customers under insured conditions, not tort claims by non-customers."
+      ],
+      "procedural_posture": "Commercial Court claim for indemnity under a freight forwarder/warehousing insurance policy for third-party misdelivery liabilities.",
+      "outcome": "Claim dismissed; policy did not cover the third-party tort liabilities and FM breached reasonable precautions/forfeiture conditions.",
+      "ratio": "Freight forwarder cargo policies ordinarily insure contractual liability to customers under approved trading conditions with contingent cover where those terms fail; they do not extend to non-contractual tort claims by third-party owners of goods, and reckless release of goods without bills of lading can forfeit cover under reasonable precautions and wilful act clauses.",
+      "legal_issues": [
+        "Whether third-party conversion liability was covered as common law liability where contract terms were inapplicable",
+        "Whether the WTA remained warehousing activity within the policy",
+        "Breach of General Conditions 1 and 3 and Claims Condition 5",
+        "Non-disclosure and affirmation of the policy at renewal"
+      ],
+      "catchwords": [
+        "freight forwarder insurance",
+        "warehousing policy",
+        "misdelivery",
+        "conversion",
+        "lien",
+        "bills of lading",
+        "UKWA conditions",
+        "reasonable precautions"
+      ],
+      "index_terms": [
+        "Frans Maas",
+        "Sun Alliance",
+        "Palmier plc",
+        "Shipdham warehouse",
+        "Warehouse Termination Agreement",
+        "contingent liability cover",
+        "Fraser v Furman"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Fraser v Furman (Plant Hire) Ltd",
+          "citation": "[1963] 3 All ER 57",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Comprehensive judgment with expert evidence and multiple alternative grounds."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1192.json",
+    "status": "done",
+    "notes": "Complete procedural appellate judgment remitting race discrimination appeal to EAT.",
+    "enrichment": {
+      "short_title": "Race discrimination strike-out appeal remitted to EAT for full hearing on untested procedural grounds",
+      "area_of_law": [
+        "Employment law",
+        "Race discrimination",
+        "Employment tribunal procedure",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Tribunals (Constitution and Rules of Procedure) Regulations 2001",
+          "provisions": [
+            "rule 4(1)",
+            "rule 4(8)",
+            "rule 11(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Sukul-Lennard's racial discrimination claim was struck out for failure to comply with tribunal directions; the tribunal doubted her illness adjournment application.",
+        "Her husband appeared at the hearing; the EAT dismissed her appeal at a preliminary hearing.",
+        "This court granted permission on grounds that rule 11(3) may not apply where a representative appeared, rule 4(8) safeguards may have been ignored, and medical evidence may have been wrongly rejected.",
+        "The respondent did not oppose allowing the appeal provided the matter returned to the EAT for a contested full hearing.",
+        "The court set aside the EAT decision and remitted for a differently constituted full EAT hearing."
+      ],
+      "procedural_posture": "Appeal with permission limited to procedural grounds against an EAT preliminary dismissal of an appeal from employment tribunal strike-out.",
+      "outcome": "Appeal allowed; EAT decision set aside and case remitted to a full EAT hearing.",
+      "ratio": "Where procedural employment tribunal issues were not fully argued before the EAT because of the preliminary hearing procedure, the Court of Appeal may remit rather than decide substantive tribunal practice points without the specialist tribunal's reasoned consideration of both parties' arguments.",
+      "legal_issues": [
+        "Applicability of rule 11(3) where a representative appeared for the absent claimant",
+        "Sanctions under rule 4(8) for breach of directions under rule 4(1)",
+        "Proper treatment of medical evidence on adjournment applications"
+      ],
+      "catchwords": [
+        "employment tribunal strike out",
+        "rule 11(3)",
+        "rule 4(8) directions",
+        "EAT remittal",
+        "racial discrimination",
+        "preliminary hearing appeal"
+      ],
+      "index_terms": [
+        "Sukul-Lennard",
+        "Croydon Primary Care Trust",
+        "Employment Appeal Tribunal",
+        "Grady v HM Prison Service",
+        "Anya v Oxford University"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Grady v HM Prison Service",
+          "citation": "[2003] EWCA Civ 527",
+          "relation": "applied"
+        },
+        {
+          "name": "Anya v Oxford University",
+          "citation": "[2001] ICR 847",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete procedural judgment; underlying discrimination merits not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1068.json",
+    "status": "done",
+    "notes": "Complete appellate guidance on no-case-to-answer in constructive dismissal claims.",
+    "enrichment": {
+      "short_title": "Employment tribunal wrongly stopped constructive unfair dismissal case at half-time",
+      "area_of_law": [
+        "Employment law",
+        "Unfair dismissal",
+        "Constructive dismissal",
+        "Employment tribunal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 98(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ms Logan, a Customs officer, claimed constructive unfair dismissal after a grievance against her line manager was mishandled and long sickness absence followed.",
+        "The tribunal found Mr McGuire's grievance investigation breached contract in late 1997 but held she waived the breach by waiting eighteen months before resigning.",
+        "After Logan's evidence alone, Customs submitted no case to answer and the tribunal dismissed the claim without hearing the employer.",
+        "The EAT held the tribunal should have heard both sides and inadequately reasoned rejection of the last-straw argument.",
+        "The Court of Appeal restored the EAT decision and remitted for rehearing."
+      ],
+      "procedural_posture": "Appeal by Customs against EAT decision allowing Logan's appeal from tribunal strike-out at half-time in constructive dismissal proceedings.",
+      "outcome": "Appeal dismissed; matter remitted to a differently constituted employment tribunal for rehearing.",
+      "ratio": "A submission of no case to answer should rarely succeed in constructive dismissal cases because the employer's evidence is often necessary to assess repudiatory breach, affirmation and last-straw causation; stopping the case without hearing the respondent is perverse where bullying and final management meetings remain unresolved.",
+      "legal_issues": [
+        "When an employment tribunal may accede to no case to answer at half-time",
+        "Affirmation/waiver after delayed resignation following grievance breach",
+        "Last straw doctrine and proximity of conduct",
+        "Adequacy of reasons under Meek/English v Emery Reinhold"
+      ],
+      "catchwords": [
+        "constructive dismissal",
+        "no case to answer",
+        "last straw",
+        "affirmation of contract",
+        "grievance procedure",
+        "employment tribunal practice",
+        "unfair dismissal"
+      ],
+      "index_terms": [
+        "Jean Logan",
+        "Customs and Excise",
+        "Sharon Harrison",
+        "Philip Ballance",
+        "Lewis v Motorworld",
+        "Ridley v GEC Machines",
+        "Coral Squash Clubs v Matthews"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Oxford v Department of Health and Social Security",
+          "citation": "1977 ICR 885",
+          "relation": "applied"
+        },
+        {
+          "name": "Ridley v GEC Machines Ltd",
+          "citation": "[1978] 13 ITR 195",
+          "relation": "applied"
+        },
+        {
+          "name": "Coral Squash Clubs Ltd v Matthews",
+          "citation": "[1979] ICR 607",
+          "relation": "applied"
+        },
+        {
+          "name": "Lewis v Motorworld Garages Ltd",
+          "citation": "[1986] ICR 157",
+          "relation": "applied"
+        },
+        {
+          "name": "Meek v City of Birmingham District Council",
+          "citation": "[1987] IRLR 250",
+          "relation": "applied"
+        },
+        {
+          "name": "English v Emery Reinhold & Strick Ltd",
+          "citation": "[2002] 1 WLR 2409",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Authoritative practice guidance with full procedural and substantive analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1102.json",
+    "status": "done",
+    "notes": "Complete CPR construction judgment on expert instructions and inspection.",
+    "enrichment": {
+      "short_title": "Witness statements supplied to experts are protected instructions under CPR 35.10(4)",
+      "area_of_law": [
+        "Civil procedure",
+        "Expert evidence",
+        "Legal professional privilege",
+        "Personal injury"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 31.14(1)",
+            "rule 31.14(2)",
+            "rule 35.10(3)",
+            "rule 35.10(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Lucas served personal injury experts' reports referring to his witness statement and a prior expert report.",
+        "The NHS Trust applied under CPR 31.14(2) for inspection of those referenced documents before normal exchange.",
+        "Master Ungley ordered disclosure following Taylor v Bolton, but the claimant argued the documents were expert instructions protected by CPR 35.10(4).",
+        "The experts had summarised material facts from the statement and prior report pursuant to CPR 35.10(3).",
+        "The Court of Appeal held a wide meaning of instructions and refused disclosure absent inaccurate/incomplete instruction statements."
+      ],
+      "procedural_posture": "Appeal against master’s order for early inspection of documents mentioned in experts’ reports in clinical negligence proceedings.",
+      "outcome": "Appeal allowed; no order for disclosure of the claimant's witness statement or the earlier expert report.",
+      "ratio": "Material supplied to an expert as the factual basis for advice forms part of the expert's instructions under CPR 35.10(3)-(4); such instructions are not privileged against disclosure in principle but the court will not order inspection of specific documents unless there are reasonable grounds to think the stated instructions are inaccurate or incomplete.",
+      "legal_issues": [
+        "Interaction of CPR 31.14(2) and CPR 35.10(4)",
+        "Meaning of expert instructions after service of reports",
+        "Whether referenced witness statements must be disclosed before trial",
+        "Continuing effect of privilege and waiver principles under the CPR"
+      ],
+      "catchwords": [
+        "expert evidence",
+        "CPR 35.10",
+        "CPR 31.14",
+        "instructions to expert",
+        "privilege",
+        "document inspection",
+        "personal injury"
+      ],
+      "index_terms": [
+        "Lucas clinical negligence",
+        "Barking Havering Redbridge NHS Trust",
+        "Taylor v Bolton",
+        "Morris v Bank of India",
+        "deployment of privileged material"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Taylor v Bolton Hospitals NHS Trust",
+          "citation": "14 January 2000 (Morland J, unreported)",
+          "relation": "disapproved"
+        },
+        {
+          "name": "Morris v Bank of India",
+          "citation": "15 January 2001 (Hart J)",
+          "relation": "considered"
+        },
+        {
+          "name": "Bennett v Compass Group UK & Ireland Ltd",
+          "citation": "[2002] EWCA Civ 642",
+          "relation": "considered"
+        },
+        {
+          "name": "Clough v Tameside & Glossop Health Authority",
+          "citation": "[1999] 1 WLR 1478",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full appellate analysis overruling narrow construction in Taylor."
+      }
+    }
+  }
+]

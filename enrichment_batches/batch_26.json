@@ -1,0 +1,668 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2.json",
+    "status": "done",
+    "notes": "Batch 26 enrichment",
+    "enrichment": {
+      "short_title": "Drug Trafficking Act postponement before sentence",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation and proceeds of crime",
+        "Sentencing procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Drug Trafficking Act 1994",
+          "provisions": [
+            "section 2",
+            "section 3",
+            "section 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Michael McCready was convicted in December 1998 of large-scale drug importation and sentenced to 18 years' imprisonment.",
+        "At sentencing the Crown sought postponement of confiscation proceedings and the judge deferred ruling until after sentence, then set a section 11 timetable.",
+        "A confiscation order for £251,828.50 was later made; McCready appealed on procedural grounds only.",
+        "The Crown had proposed a hearing in April or May 1999 within the six-month statutory limit."
+      ],
+      "procedural_posture": "Appeal by leave against a Drug Trafficking Act 1994 confiscation order on the validity of the Crown Court postponement decision.",
+      "outcome": "Appeal dismissed; both grounds on postponement timing and specified period failed.",
+      "ratio": "A judge must decide before passing sentence whether to postpone a Drug Trafficking Act confiscation inquiry and make that decision manifest, including the period of postponement; where the Crown and defence debate a timetable pointing to a hearing within six months of conviction, procedural directions can effectively specify that period even if not expressly labelled as such.",
+      "legal_issues": [
+        "Whether postponement was decided before sentence",
+        "Whether the judge failed to specify the postponement period under section 3(1)",
+        "Application of Ross, Davies, Pisciotto and Sekhon"
+      ],
+      "catchwords": [
+        "Drug Trafficking Act 1994",
+        "confiscation",
+        "postponed determination",
+        "section 3",
+        "sentencing hearing",
+        "procedural nullity"
+      ],
+      "index_terms": [
+        "section 11 statement",
+        "six-month limit",
+        "Crown Court timetable",
+        "manifest decision",
+        "drug trafficking confiscation"
+      ],
+      "linked_authorities": [
+        "Ross",
+        "Steven Davies",
+        "Pisciotto",
+        "Sekhon, Shangara Singh, Satnam Singh & Ors",
+        "Steele and Shevki"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Outcome and statutory ratio are explicit. No challenge was made to the confiscation amount itself."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/223.json",
+    "status": "done",
+    "notes": "Batch 26 enrichment",
+    "enrichment": {
+      "short_title": "Solicitor negligence and loss-of-chance damages",
+      "area_of_law": [
+        "Professional negligence",
+        "Trusts and equitable remedies",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Investors paid solicitors to hold money for Trimsoft B shares and assignment of the Wetherall trade name; the money was released without the assignment.",
+        "An action against Linnells was struck out for want of prosecution after negligent handling by Haynes Duffell.",
+        "The trial judge assessed recovery at 55% of the lost Linnells claim and limited interest to April 1993.",
+        "The Court of Appeal held there was a clear breach of trust when client money was paid out without the promised assignment."
+      ],
+      "procedural_posture": "Appeal and applications for permission to appeal from a professional negligence judgment following strike-out of the underlying claim against Linnells.",
+      "outcome": "Defendants' permission applications refused; claimants' appeal allowed on loss-of-chance percentage increased to 75% and interest from end of April 1990.",
+      "ratio": "In a loss-of-chance claim against solicitors, a court should not discount recovery because another tribunal might have taken a different view of clear legal questions; where solicitors breached trust by releasing client money without the agreed assignment, damages may be assessed by reference to repayment of the sums paid and interest runs from the breach.",
+      "legal_issues": [
+        "Whether Linnells were in breach of trust",
+        "Appropriate percentage for loss of a chance of success",
+        "Whether McIntosh assignment loss was proved",
+        "Start date for pre-judgment interest"
+      ],
+      "catchwords": [
+        "professional negligence",
+        "loss of a chance",
+        "breach of trust",
+        "client account",
+        "strike out",
+        "interest"
+      ],
+      "index_terms": [
+        "solicitors' negligence",
+        "Heads of Agreement",
+        "Target Holdings",
+        "Charles v Hugh James Jones & Jenkins",
+        "Sharif v Garrett & Co"
+      ],
+      "linked_authorities": [
+        "Target Holdings Ltd v Redferns",
+        "Charles v Hugh James Jones & Jenkins",
+        "Sharif v Garrett & Co",
+        "Biogen Inc v Medeva Plc",
+        "Designers Guild Ltd v Russell Williams (Textiles) Ltd"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Core trust findings and appellate adjustments to damages and interest are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/207.json",
+    "status": "done",
+    "notes": "Batch 26 enrichment",
+    "enrichment": {
+      "short_title": "Asylum administrative failures and Article 8 damages",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 2",
+            "section 6",
+            "section 7",
+            "section 8"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 3",
+            "Article 8",
+            "Article 41"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Libyan asylum seeker did not receive a Statement of Evidence form because it was misaddressed; his claim was refused and benefits recovery followed.",
+        "The Home Office failed to process his appeal for about eleven months while he remained at risk of removal to Libya.",
+        "Judicial review led to refugee status being granted in May 2002.",
+        "The claimant suffered psychiatric harm but Article 3 was not breached."
+      ],
+      "procedural_posture": "Judicial review and Human Rights Act claim for declarations and damages against the Secretary of State for asylum handling failures.",
+      "outcome": "Claimant held entitled to damages for breach of Article 8; no breach of Article 3; quantum to be assessed at a later hearing.",
+      "ratio": "Human Rights Act claims based on omissions require a positive obligation: where officials knew or ought to have known that serious administrative failures would risk infringement of Article 8, the state must take reasonable steps to avoid that harm; damages under section 8 are exceptional and should be awarded only where other remedies would not provide just satisfaction.",
+      "legal_issues": [
+        "Whether omissions can found an HRA claim without a positive obligation",
+        "Whether Article 8 was infringed by Home Office errors",
+        "Whether Article 3 was engaged",
+        "Appropriate damages principles under section 8 and Article 41"
+      ],
+      "catchwords": [
+        "asylum",
+        "Statement of Evidence form",
+        "Article 8",
+        "positive obligation",
+        "Human Rights Act damages",
+        "administrative error"
+      ],
+      "index_terms": [
+        "Libya",
+        "failed asylum seeker",
+        "appeal delay",
+        "psychiatric harm",
+        "just satisfaction",
+        "mitigation of loss"
+      ],
+      "linked_authorities": [
+        "E and Others v United Kingdom",
+        "Anufrijeva and Anufrijevas v London Borough of Southwark",
+        "Bensaid v United Kingdom",
+        "Bernard v France",
+        "Hatton v Sutherland"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome and Article 8 positive-obligation analysis are explicit in the conclusion. Some intermediate damages reasoning is lengthy but coherent."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/421.json",
+    "status": "done",
+    "notes": "Batch 26 enrichment",
+    "enrichment": {
+      "short_title": "CEMA seizure validity independent of stop grounds",
+      "area_of_law": [
+        "Customs and excise law",
+        "Administrative law",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Customs and Excise Management Act 1979",
+          "provisions": [
+            "section 49",
+            "section 139",
+            "section 141",
+            "section 163",
+            "section 163A",
+            "Schedule 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Three travellers imported excise goods in a Volvo stopped on profile grounds at Dover.",
+        "The justices held seizure unlawful because the initial interception lacked reasonable suspicion, following Hoverspeed in the Divisional Court.",
+        "The Court of Appeal had overturned the relevant Hoverspeed reasoning before this appeal.",
+        "The goods and vehicle were sought to be condemned as liable to forfeiture."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Dover Justices in condemnation proceedings under Schedule 3 to CEMA.",
+      "outcome": "Appeal allowed; justices' decision quashed; all four stated questions answered in the negative; case remitted on forfeiture.",
+      "ratio": "Powers of seizure under the Customs and Excise Management Act are not conditional on the lawfulness of any preceding stop or search; in condemnation proceedings the court must condemn goods if they were liable to forfeiture at seizure, regardless of why passengers were initially intercepted.",
+      "legal_issues": [
+        "Relevance of interception reasons to condemnation",
+        "Onus to prove lawful interception",
+        "Effect of unlawful stop on subsequent seizure",
+        "Application of Hoverspeed after Court of Appeal"
+      ],
+      "catchwords": [
+        "condemnation proceedings",
+        "forfeiture",
+        "Customs and Excise Management Act",
+        "seizure",
+        "stop and search",
+        "Hoverspeed"
+      ],
+      "index_terms": [
+        "excise goods",
+        "Dover Justices",
+        "case stated",
+        "smuggling profile",
+        "Schedule 3 CEMA"
+      ],
+      "linked_authorities": [
+        "R (Hoverspeed Limited) v Customs & Excise Commissioners",
+        "Commissioners of Customs & Excise v Helman"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Short judgment with clear outcome and ratio drawn directly from Court of Appeal authority."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/397.json",
+    "status": "done",
+    "notes": "Batch 26 enrichment",
+    "enrichment": {
+      "short_title": "PACE arrest for attempted common assault on traffic warden",
+      "area_of_law": [
+        "Police powers",
+        "Tort law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 25"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A woman was arrested after a traffic warden complained she had tried to knock a ticket book from her hand during a parking dispute.",
+        "The claimant refused to give her name and address and struggled during arrest following her nephew's separate confrontation with the warden.",
+        "The trial judge withdrew the case from the jury and entered judgment for false imprisonment.",
+        "The police relied on section 25 PACE and alleged breach of the peace."
+      ],
+      "procedural_posture": "Appeal against a county court ruling at trial that, even on the police evidence at its highest, the arrest was unlawful.",
+      "outcome": "Appeal allowed; judge erred in holding there were no reasonable grounds to suspect common assault.",
+      "ratio": "Section 25 of PACE requires only reasonable suspicion, not proof of every element of an offence; where an officer receives a complaint from a visibly upset witness that a person tried to knock an object from her hand, and the suspect behaves excitably when questioned, the officer may reasonably suspect common assault and lawfully arrest for failure to provide a satisfactory address.",
+      "legal_issues": [
+        "Whether attempting to knock a ticket book can ground suspicion of common assault",
+        "Application of O'Hara reasonable suspicion test",
+        "Whether breach of the peace justified arrest",
+        "Whether the judge should have left issues to the jury"
+      ],
+      "catchwords": [
+        "false imprisonment",
+        "section 25 PACE",
+        "common assault",
+        "reasonable suspicion",
+        "traffic warden",
+        "breach of the peace"
+      ],
+      "index_terms": [
+        "wrongful arrest",
+        "name and address",
+        "non-arrestable offence",
+        "O'Hara test",
+        "directed verdict"
+      ],
+      "linked_authorities": [
+        "O'Hara v Chief Constable of the Royal Ulster Constabulary",
+        "R v Howell",
+        "R v Ireland, R v Burstow",
+        "Hussein v Chong Fook Kam",
+        "Parker v Chief Constable of Hampshire Constabulary"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Appeal turned on a discrete legal ruling on reasonable suspicion; outcome is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/234.json",
+    "status": "done",
+    "notes": "Batch 26 enrichment",
+    "enrichment": {
+      "short_title": "Gypsy caravan direct action under section 178",
+      "area_of_law": [
+        "Planning law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 174",
+            "section 175",
+            "section 178",
+            "section 179",
+            "section 180",
+            "section 181",
+            "section 187B",
+            "section 285"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3",
+            "section 6"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6",
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Romany Gypsy families stationed caravans on land in West Sussex in breach of long-standing enforcement notices.",
+        "Horsham District Council decided to take direct action under section 178 to remove caravans after considering human rights and hardship.",
+        "The claimants argued direct action was a disproportionate last resort and that Article 6 was engaged.",
+        "Planning permission applications remained undetermined and the site had a lengthy enforcement history."
+      ],
+      "procedural_posture": "Judicial review of local planning authority decisions to take direct action under section 178 of the Town and Country Planning Act 1990.",
+      "outcome": "Application dismissed; Article 6 held not engaged and Article 8 interference held proportionate.",
+      "ratio": "A decision to take direct action under section 178 is an administrative step enforcing an already valid enforcement notice and does not itself determine civil rights for Article 6; where Article 8 is engaged, section 178 may lawfully be used if the authority has balanced environmental enforcement against gypsy home and family rights and concluded direct action is necessary and proportionate.",
+      "legal_issues": [
+        "Whether Article 6 applies to section 178 direct action",
+        "Whether direct action must be a last resort after injunction or prosecution",
+        "Proportionality of interference with Article 8",
+        "Whether individual circumstances were properly considered"
+      ],
+      "catchwords": [
+        "planning enforcement",
+        "section 178",
+        "gypsy caravan",
+        "Article 8",
+        "Article 6",
+        "direct action"
+      ],
+      "index_terms": [
+        "enforcement notice",
+        "Romany Gypsies",
+        "Ashington",
+        "South Bucks v Porter",
+        "St Brice v Southwark"
+      ],
+      "linked_authorities": [
+        "St Brice v Southwark London Borough Council",
+        "South Bucks District Council v Porter",
+        "R (Alconbury Limited and others) v Secretary of State for the Environment, Transport and the Regions",
+        "Bryan v United Kingdom",
+        "Runa Begum v Tower Hamlets LBC"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Outcome and principal human-rights holdings are explicit, though the judgment is fact-heavy."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/140.json",
+    "status": "done",
+    "notes": "Batch 26 enrichment",
+    "enrichment": {
+      "short_title": "EIA screening for self-storage development",
+      "area_of_law": [
+        "Planning law",
+        "Environmental law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning (Environmental Impact Assessment) Regulations 1999",
+          "provisions": [
+            "Regulation 3",
+            "Regulation 7",
+            "Schedule 2 paragraph 10(b)"
+          ]
+        },
+        {
+          "title": "Council Directive 85/337/EEC",
+          "provisions": [
+            "Article 4",
+            "Annex II"
+          ]
+        },
+        {
+          "title": "Local Government Act 1972",
+          "provisions": [
+            "section 101"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Lewisham granted planning permission for a Big Yellow self-storage facility exceeding 0.5 hectare without environmental assessment.",
+        "Officers wrongly treated storage and distribution uses as outside Schedule 2 and cited superseded 1988 regulations.",
+        "Local residents challenged the grant by judicial review.",
+        "The facility was a B8 storage and distribution use with 24-hour public access."
+      ],
+      "procedural_posture": "Appeal with permission from unsuccessful judicial review of planning permission granted without EIA screening under the 1999 Regulations.",
+      "outcome": "Appeal allowed; planning permission quashed and remitted for reconsideration under the Regulations.",
+      "ratio": "Whether development is Schedule 2 infrastructure or urban development under paragraph 10(b) is a question of legal classification, not merely Wednesbury review; a storage and distribution facility of sufficient size can fall within urban development projects and trigger screening for likely significant environmental effects before permission is granted.",
+      "legal_issues": [
+        "Whether the development was Schedule 2 development",
+        "Correct legal test for screening opinions",
+        "Whether storage/distribution is excluded from paragraph 10(b)",
+        "Effect of delegated officer decision-making"
+      ],
+      "catchwords": [
+        "environmental impact assessment",
+        "Schedule 2 development",
+        "urban development project",
+        "infrastructure project",
+        "screening opinion",
+        "planning permission"
+      ],
+      "index_terms": [
+        "self-storage",
+        "Big Yellow",
+        "0.5 hectare threshold",
+        "Directive 85/337",
+        "Berkeley v Secretary of State"
+      ],
+      "linked_authorities": [
+        "Berkeley v Secretary of State for the Environment",
+        "R v Monopolies Commission ex p South Yorkshire Transport Ltd",
+        "R (Malster) v Ipswich BC",
+        "R (Carlton-Conway) v Harrow LBC",
+        "Kraaijveld Case C-72/95"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Ratio on misclassification of Schedule 2 development is clearly articulated by Buxton LJ."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/236.json",
+    "status": "done",
+    "notes": "Batch 26 enrichment",
+    "enrichment": {
+      "short_title": "Similar-fact evidence in indecent assault trial",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Sexual offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant was convicted of indecent assaults on two unrelated girls who were family friends, years apart.",
+        "The second complainant came forward when asked to support the defendant against the first complaint.",
+        "The judge refused severance and admitted similar-fact reasoning on whether both complainants were lying.",
+        "Evidence of the first complainant's distress and changed demeanour was also admitted in a limited way."
+      ],
+      "procedural_posture": "Renewed application for leave to appeal against conviction on severance, similar-fact evidence, and distress evidence grounds.",
+      "outcome": "Appeal dismissed; conviction held safe.",
+      "ratio": "On a defence that separate complainants are lying, similar-fact evidence is admissible where common contextual features provide probative support beyond propensity, even if the physical conduct differs; the trial judge may admit such evidence where its probative value outweighs prejudice and the jury is carefully directed.",
+      "legal_issues": [
+        "Whether counts should have been severed",
+        "Admissibility of similar-fact evidence under DPP v P",
+        "Whether common features were too generic",
+        "Admissibility of distress and long-term demeanour evidence"
+      ],
+      "catchwords": [
+        "similar fact evidence",
+        "indecent assault",
+        "severance",
+        "joinder",
+        "DPP v P",
+        "distress evidence"
+      ],
+      "index_terms": [
+        "non-collusive complaints",
+        "family friend",
+        "propensity",
+        "R v Keast",
+        "specimen counts"
+      ],
+      "linked_authorities": [
+        "DPP v P",
+        "R v John W",
+        "R v Musquera",
+        "R v Ryder",
+        "R v Keast"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Court treated severance as dependent on similar-fact admissibility and upheld both; outcome is explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/164.json",
+    "status": "done",
+    "notes": "Batch 26 enrichment",
+    "enrichment": {
+      "short_title": "Lottery winnings paid to bank under mistake",
+      "area_of_law": [
+        "Banking law",
+        "Restitution",
+        "Equity and trusts"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Two billion Greek drachmas from a lottery win were paid via the National Bank of Greece to NatWest for conversion into US dollars.",
+        "Mrs Papamichael said she won the lottery and intended a fixed-term deposit; NatWest said her husband won and used the funds as forex margin security.",
+        "The bank knew the beneficiary was to be Mrs Papamichael, not her husband acting for himself.",
+        "The converted dollars were applied to her husband's trading account and largely dissipated."
+      ],
+      "procedural_posture": "Trial of claim and counterclaim for recovery of lottery proceeds paid to a bank and converted into dollars.",
+      "outcome": "Claim succeeded for GRD 2 billion as money paid under mistake and for US$6,506,604.20 for knowing receipt or dishonest assistance.",
+      "ratio": "Money paid to a bank under a mistake of fact is recoverable in restitution unless the bank changed position in good faith; where the bank had notice that funds belonged to the wife and were to be held for her, defences of authority and apparent ownership fail and the bank may also be liable for knowing receipt or dishonest assistance in breach of trust.",
+      "legal_issues": [
+        "Who owned the lottery winnings",
+        "Restitution for mistake of fact",
+        "Constructive trust over converted dollars",
+        "Bank defences of authority and change of position"
+      ],
+      "catchwords": [
+        "restitution",
+        "mistake of fact",
+        "knowing receipt",
+        "dishonest assistance",
+        "bank deposit",
+        "lottery winnings"
+      ],
+      "index_terms": [
+        "NatWest",
+        "Greek drachmas",
+        "forex margin account",
+        "change of position",
+        "apparent authority",
+        "Goff and Jones"
+      ],
+      "linked_authorities": [
+        "Lipkin Gorman v Karpnale",
+        "Barclays Bank Ltd v W J Simms, Son & Cooke (Southern) Ltd",
+        "Royal Brunei Airlines Sdn Bhd v Tan"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Outcome and restitution/trust principles are clearly stated in the conclusion, though the fact-finding is extensive."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/242.json",
+    "status": "done",
+    "notes": "Batch 26 enrichment",
+    "enrichment": {
+      "short_title": "Costs reserved after design-right preliminary issues",
+      "area_of_law": [
+        "Intellectual property",
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Copyright, Designs and Patents Act 1988",
+          "provisions": [
+            "must fit",
+            "must match"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Ultraframe and the Burnden Group are engaged in multi-track litigation over conservatory design rights and related fraud allegations.",
+        "Preliminary issues found design rights subsisted and were infringed but were owned by Northstar, not Ultraframe via Davies's trustee.",
+        "The London design-right action based on trustee ownership would therefore be struck out.",
+        "Ultraframe sought to reserve costs pending trial of linked Leeds proceedings raising forgery and conspiracy claims."
+      ],
+      "procedural_posture": "Costs application following determination of preliminary issues in consolidated design-right litigation.",
+      "outcome": "Costs of the London action and preliminary issues reserved to the Leeds trial; London action to be struck out.",
+      "ratio": "Where preliminary issues form part of a wider interlinked dispute and unresolved allegations of fraud may ultimately affect who should bear costs, the court may depart from costs following the event and reserve costs rather than order immediate payment, especially where the receiving party is not shown to be financially prejudiced by delay.",
+      "legal_issues": [
+        "Whether costs should follow the event on preliminary issues",
+        "Whether the London action should be struck out",
+        "Whether costs should await consolidated trial of related proceedings",
+        "Apportionment between ownership and subsistence/infringement issues"
+      ],
+      "catchwords": [
+        "design right",
+        "preliminary issues",
+        "costs reserved",
+        "costs follow the event",
+        "consolidated actions",
+        "CPR costs"
+      ],
+      "index_terms": [
+        "Ultraframe",
+        "Burnden Group",
+        "Northstar",
+        "Quickfit designs",
+        "trustee in bankruptcy",
+        "interim costs"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Costs order and reasoning are explicit. Substantive design-right holdings are summarised only as context for the costs decision."
+      }
+    }
+  }
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2005/236.json",
+    "status": "done",
+    "notes": "Expert substitution and Beck privilege condition; Court of Appeal held no permission needed where order identified field not named expert.",
+    "enrichment": {
+      "short_title": "Hajigeorgiou v Vasiliou: expert substitution and privilege on damages assessment",
+      "area_of_law": [
+        "Civil procedure",
+        "Evidence",
+        "Legal professional privilege",
+        "County court practice"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "In a restaurant quiet-enjoyment damages assessment, both parties were given permission to rely on one expert each in restaurant valuation and profitability.",
+        "The defendant instructed Mr Watson, who inspected the premises and prepared a draft interim report, then sought to rely instead on Mr Negus without disclosing Watson's report.",
+        "Judge Cowell held permission was required and granted it only on condition that Watson's draft report be disclosed to the claimant.",
+        "The Court of Appeal held the July order identified the field of expertise only, so no court permission was needed to substitute experts."
+      ],
+      "procedural_posture": "Appeal from a Central London County Court case management decision on expert evidence directions in an assessment of damages.",
+      "outcome": "Appeal allowed; the condition requiring disclosure of the first expert's report was set aside because the defendant did not need permission to rely on Mr Negus.",
+      "ratio": "Where a case management order grants permission to call an expert by field rather than by name, a party may substitute a new expert without further permission; if permission to replace a named expert is required, the court may usually impose disclosure of the first expert's substantive report as a condition, but that does not abrogate privilege—it requires waiver as the price of relying on a substitute.",
+      "legal_issues": [
+        "Whether CPR 35.4 permission limited the defendant to Mr Watson alone",
+        "Whether instructing a first expert exhausted permission to call expert evidence",
+        "Whether disclosure of an abandoned expert report may be required as a condition of calling a substitute",
+        "Application of Beck v Ministry of Defence to non-medical expert evidence"
+      ],
+      "catchwords": [
+        "expert evidence",
+        "expert shopping",
+        "legal professional privilege",
+        "CPR 35.4",
+        "substitute expert",
+        "case management"
+      ],
+      "index_terms": [
+        "restaurant valuation",
+        "Beck v Ministry of Defence",
+        "Jackson v Marley Davenport",
+        "draft interim report",
+        "quiet enjoyment",
+        "assessment of damages"
+      ],
+      "linked_authorities": [
+        "Beck v Ministry of Defence [2003] EWCA Civ 1043",
+        "Jackson v Marley Davenport Ltd [2004] EWCA Civ 1225",
+        "Bristol-Myers Squibb v Baker Norton Pharmaceuticals [2001] EWCA Civ 414"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Both issues are fully reasoned and the final order amending the county court directions is explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/605.json",
+    "status": "done",
+    "notes": "Guideline Court on Schedule 21 minimum terms for young murderers; Campbell minimum term reduced from 12 to 9 years.",
+    "enrichment": {
+      "short_title": "R v Peters and others: Schedule 21 minimum terms for young murderers",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Murder",
+        "Youth justice"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 2003",
+          "provisions": [
+            "section 269",
+            "Schedule 21"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Three unrelated murder appeals were heard together in a Guideline Court on minimum terms under section 269 of the 2003 Act.",
+        "All three offenders were aged about 18–20 at the time of the killings and the minimum terms were assessed on the basis of intent to cause grievous bodily harm rather than to kill.",
+        "Benjamin Peters stabbed Jay Middleton repeatedly in broad daylight during a street confrontation; his 9-year minimum term was upheld.",
+        "Daniel Palmer racially aggravatedly killed Quadir Ahmed with a broken estate-agent post; his 12-year term was upheld.",
+        "Shantelle Campbell, aged 18, stabbed her close friend after heavy drinking; her minimum term was reduced from 12 to 9 years."
+      ],
+      "procedural_posture": "Consolidated appeals against minimum terms fixed under section 269 following mandatory life sentences for murder.",
+      "outcome": "Appeals by Peters and Palmer dismissed; Campbell's appeal allowed and her minimum term reduced to 9 years with remand credit.",
+      "ratio": "Schedule 21 starting points are guidelines not arithmetic formulae; age and maturity may justify substantial departure from statutory starting points for offenders up to about 21, intent to cause serious harm may but does not always mitigate, and the Court of Appeal will not interfere unless a minimum term is manifestly excessive or wrong in principle.",
+      "legal_issues": [
+        "How age and maturity affect Schedule 21 starting points for offenders aged 18–21",
+        "Whether absence of intent to kill automatically reduces minimum term seriousness",
+        "Proper approach to guilty plea credit in murder where legal advice on partial defences is needed",
+        "Whether Warsame-style mathematical sentencing adjustments are appropriate"
+      ],
+      "catchwords": [
+        "minimum term",
+        "Schedule 21",
+        "murder",
+        "young offender",
+        "intent to cause GBH",
+        "guideline court"
+      ],
+      "index_terms": [
+        "R v Last",
+        "R v Sullivan",
+        "R v Warsame",
+        "street knife attack",
+        "racial aggravation",
+        "guilty plea discount"
+      ],
+      "linked_authorities": [
+        "R v Sullivan [2005] 1 Cr App R (S) 23",
+        "R v Last [2005] EWCA Crim 106",
+        "R v Warsame [2004] EWCA Crim 2770"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Guideline principles and individual disposals for all three appellants are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/517.json",
+    "status": "done",
+    "notes": "PII and planted-drugs defence; conviction quashed after further police disclosure would have assisted defence.",
+    "enrichment": {
+      "short_title": "R v West: unsafe conviction after incomplete PII disclosure in drugs case",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Public interest immunity",
+        "Drugs offences",
+        "Appeals"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "West was convicted of possessing cocaine and MDMA with intent to supply after police executed a warrant and found substantial quantities at his home.",
+        "His defence was that a supplier called Kenny or associates planted the drugs while he was away.",
+        "The Crown successfully resisted disclosure of the police informant source at trial; the judge told the jury no material supported the planting defence.",
+        "On renewed appeal the court obtained fuller police material showing information potentially relevant to the defence, though the Crown would still not disclose it and would have offered no evidence."
+      ],
+      "procedural_posture": "Renewed application for permission to appeal against conviction, treated as the appeal itself after adjourned PII investigations.",
+      "outcome": "Appeal allowed; convictions quashed as unsafe and the Crown did not seek retrial.",
+      "ratio": "Where public interest immunity is claimed over intelligence-led search material, police, prosecutors and courts must conduct searching investigation of possible relevance to the defence; if undisclosed information could have assisted the defence at trial, the conviction cannot stand as safe even if its ultimate impact before a jury is uncertain.",
+      "legal_issues": [
+        "Whether non-disclosure of police informant material rendered the conviction unsafe",
+        "Proper handling of PII applications where the defence alleges drugs were planted",
+        "Whether the trial judge's summing up on disclosure and PII was adequate",
+        "Appropriate remedy where further disclosure would still be refused on PII grounds"
+      ],
+      "catchwords": [
+        "public interest immunity",
+        "planted drugs",
+        "unsafe conviction",
+        "informant disclosure",
+        "intent to supply",
+        "search warrant"
+      ],
+      "index_terms": [
+        "Class A drugs",
+        "MDMA",
+        "Chelmsford Crown Court",
+        "intelligence-led inquiry",
+        "fair trial",
+        "no evidence offer"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Factual background and quashing reasoning are clear though the undisclosed material itself is not reproduced."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/294.json",
+    "status": "done",
+    "notes": "Post-infringement patent order on delivery up, Dyson post-expiry injunction liberty, and costs reduction for term-of-art issue.",
+    "enrichment": {
+      "short_title": "Mayne Pharma v Pharmacia: patent consequential orders and costs after infringement",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Following a finding that Pharmacia infringed Mayne Pharma's patent on a pharmaceutical formulation, the parties disputed consequential orders.",
+        "Mayne sought delivery up of imported material re-exported to the Middle East after judgment but before the order; Jacob LJ refused.",
+        "The patentees were given liberty to apply for a post-expiry injunction on the Dyson v Hoover model.",
+        "On costs, Jacob LJ criticised inflated patent litigation costs and reduced recoverable costs below to 70% and ordered a £200,000 interim payment."
+      ],
+      "procedural_posture": "Applications following the Court of Appeal's substantive judgment finding patent infringement, dealing with delivery up, liberty to apply, costs and permission to appeal.",
+      "outcome": "Injunction granted as agreed; no delivery up order; liberty to apply for post-expiry injunction; defendants to pay 70% of costs below and appeal costs with £200,000 interim payment; permission to appeal to the House of Lords refused.",
+      "ratio": "Delivery up is ancillary to an injunction and should not be ordered for goods no longer in the jurisdiction where they cannot infringe and there is no evidence of intended re-importation; a party who unhelpfully maintains a abandoned 'term of art' construction point may bear the wasted costs of that issue even if ultimately successful overall.",
+      "legal_issues": [
+        "Whether delivery up should run from the date of judgment for goods exported before the order",
+        "Whether the court should grant liberty to seek a post-expiry injunction",
+        "Appropriate costs reduction where an abandoned claim construction issue inflated costs",
+        "Level of interim payment in a patent construction appeal"
+      ],
+      "catchwords": [
+        "patent infringement",
+        "delivery up",
+        "post-expiry injunction",
+        "interim costs payment",
+        "claim construction",
+        "term of art"
+      ],
+      "index_terms": [
+        "Dyson v Hoover",
+        "Roussel Uclaf v Pan Laboratories",
+        "lyophilisate",
+        "Mayne Pharma",
+        "Pharmacia Italia",
+        "costs assessment"
+      ],
+      "linked_authorities": [
+        "Dyson v Hoover [2001] RPC 27",
+        "Roussel Uclaf & Another v Pan Laboratories Ltd [1994] 51 FCR 316"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Consequential dispositions are explicit though the underlying infringement findings are presupposed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/709.json",
+    "status": "done",
+    "notes": "Confiscation orders quashed after sentencing remarks created apparent bias against Odewale in later fact-finding.",
+    "enrichment": {
+      "short_title": "R v Oshungbure and Odewale: apparent bias vitiating confiscation proceedings",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation",
+        "Natural justice",
+        "Sentencing",
+        "Human rights"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Oshungbure and Odewale were convicted of conspiracy to defraud financial institutions by identity theft and sentenced by HHJ Ball QC.",
+        "On sentencing the judge described Odewale in trenchant terms as deeply dishonest and untruthful.",
+        "The same judge later conducted confiscation proceedings in which Odewale did not give evidence, partly because of those remarks.",
+        "An application that the judge recuse himself from confiscation was refused without reference to Locabail."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Criminal Division) against confiscation orders after conviction and sentence appeals had already been partially resolved.",
+      "outcome": "Appeals allowed; both confiscation orders quashed and the court declined to remit or reinvestigate confiscation itself.",
+      "ratio": "A trial judge may criticise a defendant's trial evidence when passing sentence, but must not express himself in terms that a fair-minded observer would perceive as precluding belief in future evidence from the same defendant; where such remarks create apparent bias, confiscation findings cannot stand and corrective statements cannot reliably restore impartiality.",
+      "legal_issues": [
+        "Whether sentencing remarks created a real possibility of bias in later confiscation proceedings",
+        "Application of Locabail and Millar v Dickson to criminal confiscation",
+        "Whether Odewale waived Article 6 rights by not applying for recusal",
+        "Appropriate remedy where confiscation is vitiated by apparent bias"
+      ],
+      "catchwords": [
+        "confiscation order",
+        "apparent bias",
+        "recusal",
+        "sentencing remarks",
+        "identity theft",
+        "Article 6"
+      ],
+      "index_terms": [
+        "Locabail v Bayfield Properties",
+        "Millar v Dickson",
+        "Chelmsford Crown Court",
+        "Proceeds of Crime",
+        "confiscation assumptions",
+        "fair-minded observer"
+      ],
+      "linked_authorities": [
+        "Locabail (UK) Ltd v Bayfield Properties Ltd [2000] QB 451",
+        "Millar v Dickson [2002] 1 WLR 1615",
+        "In re Medicaments and Related Classes of Goods (No 2) [2001] 1 WLR 700"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "The bias issue, sentencing quotations and quashing of both orders are clearly explained."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/692.json",
+    "status": "done",
+    "notes": "Bank robbery appeal; PACE Code D breach and hostile witness directions held not to undermine safe convictions.",
+    "enrichment": {
+      "short_title": "R v Middleton: PACE Code D breach and hostile witness directions in robbery trial",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "PACE codes",
+        "Appeals",
+        "Robbery"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Middleton was convicted of bank robbery, possession of a firearm during the offence and attempted car-jacking after a masked raid in Warley.",
+        "Police breached Code D Annex A paragraph D7 by failing to show the full video identification set to the suspect or solicitor before witness Cresswell viewed it.",
+        "Jennifer Young and Gerald Preece were treated as hostile after resiling from earlier statements implicating Middleton with red-dyed stolen money.",
+        "The defence case was that Middleton had lent his Ford Sierra and Escort to a drug dealer who used them in the robbery."
+      ],
+      "procedural_posture": "Appeal against conviction with leave on two grounds and referral on a third concerning PACE Code D and jury directions on hostile witnesses.",
+      "outcome": "Appeal dismissed; the convictions were held safe despite the Code D breach and the trial judge's hostile witness directions.",
+      "ratio": "A non-deliberate breach of Code D paragraph D7 does not automatically exclude identification evidence under section 78 where the images resembled the suspect and the solicitor saw the same set before an earlier parade without objection; hostile witness directions must be tailored to the case, and where a witness never clearly adopted the prior statement adverse to the defendant, additional Ugorji-style caution may be unnecessary.",
+      "legal_issues": [
+        "Whether video identification evidence should have been excluded after a Code D paragraph D7 breach",
+        "Adequacy of jury directions on hostile witnesses Jennifer Young and Gerald Preece",
+        "Whether the judge wrongly allowed the Crown to treat Gerald Preece as hostile",
+        "Overall safety of convictions on cumulative grounds"
+      ],
+      "catchwords": [
+        "PACE Code D",
+        "video identification",
+        "section 78",
+        "hostile witness",
+        "bank robbery",
+        "unsafe conviction"
+      ],
+      "index_terms": [
+        "Ugorji",
+        "Maw",
+        "Warley NatWest",
+        "red dye pack",
+        "Ford Sierra",
+        "VIPER parade"
+      ],
+      "linked_authorities": [
+        "R v Ugorji [1999] 9 Archbold News 3",
+        "R v Maw [1994] Crim LR 841"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "All three grounds are addressed in detail and dismissal is explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/433.json",
+    "status": "done",
+    "notes": "Dr Colman GMC strike-out and costs permission appeals refused; real prospect of success test correctly applied.",
+    "enrichment": {
+      "short_title": "Colman v GMC: strike-out of Data Protection Act claim and procedural appeals",
+      "area_of_law": [
+        "Medical law",
+        "Professional regulation",
+        "Data protection",
+        "Civil procedure",
+        "Charities law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": [
+            "section 13"
+          ]
+        },
+        {
+          "title": "Medical Act 1983",
+          "provisions": []
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Protection from Harassment Act 1997",
+          "provisions": []
+        },
+        {
+          "title": "Charities Act 1993",
+          "provisions": [
+            "section 33(5)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Colman, a restored and former GMC member, brought multiple claims against the GMC arising from an independent Staple review and PCC exclusion.",
+        "After successive defective pleadings, McCombe J refused leave to amend and struck out the claim, finding no real prospect on the surviving Data Protection Act claim.",
+        "Alleged breaches concerned voluntary medical reports in the Staple review and delayed subject access responses later remedied by the Information Commissioner.",
+        "Separate permission applications challenged costs and stay adjournment orders arising from Charity Commission proceedings."
+      ],
+      "procedural_posture": "Two renewed applications for permission to appeal: against strike-out of the claim (merits) and against costs and procedural orders (2748 application).",
+      "outcome": "Both applications refused; no permission to appeal granted on either the strike-out or the procedural/costs orders.",
+      "ratio": "On strike-out and amendment applications the court applies the real prospect of success test, not a mini-trial on the balance of probabilities; fanciful Data Protection Act claims based on voluntarily supplied medical extracts and unparticularised distress, after three failed pleading attempts, may properly be struck out, and belated procedural appeals without adequate explanation will fail.",
+      "legal_issues": [
+        "Whether McCombe J applied the wrong standard in striking out the Data Protection Act claim",
+        "Whether section 13 damages for distress required proof of additional damage",
+        "Whether less draconian case management should have been adopted for a litigant in person",
+        "Whether late appeals against stay and adjournment orders should be permitted"
+      ],
+      "catchwords": [
+        "General Medical Council",
+        "strike out",
+        "Data Protection Act",
+        "real prospect of success",
+        "amendment of particulars",
+        "charity proceedings"
+      ],
+      "index_terms": [
+        "Jennifer Colman",
+        "George Staple review",
+        "subject access request",
+        "Information Commissioner",
+        "Three Rivers",
+        "wasted costs order"
+      ],
+      "linked_authorities": [
+        "Swain v Hillman [2001] 1 All ER 91",
+        "Three Rivers District Council v Bank of England (No 3) [2003] 2 AC 1"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed procedural chronology and refusal of both applications are comprehensively reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/248.json",
+    "status": "done",
+    "notes": "Complex estate solicitors' negligence appeal on IHT deed of variation and CGT assent advice; mixed outcomes across related actions.",
+    "enrichment": {
+      "short_title": "Jemma Trust v Kippax Beaumont Lewis: estate solicitors and inheritance tax planning",
+      "area_of_law": [
+        "Professional negligence",
+        "Wills and probate",
+        "Tax law",
+        "Trusts",
+        "Court of Protection"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Jemma Trust sued executors' solicitors Kippax Beaumont Lewis over advice in administering Sir Geoffrey Hulton's £8.2 million estate at Hulton Park.",
+        "Disputes centred on a deed of variation, inheritance tax planning around a purported PET, and capital gains tax consequences of vesting and assent.",
+        "Lady Hulton lacked capacity; Court of Protection proceedings led to a £750,000 benefit offer to support a variation.",
+        "Etherton J found for the claimant on one assent-advice point; the Court of Appeal largely reversed the claimant's successes."
+      ],
+      "procedural_posture": "Appeals and cross-appeals from High Court professional negligence proceedings relating to estate administration and tax planning.",
+      "outcome": "Claimant's appeals in the deed of variation and CGT actions dismissed; cross-appeal in the CGT action allowed setting aside an inquiry order; solicitors' appeal allowed on the assent advice issue so the claimant's only success at trial was reversed.",
+      "ratio": "Executors advised by tax counsel may reasonably assent to vesting in themselves as trustees once an inheritance tax clearance certificate is obtained where the prospective 40% IHT saving outweighs a known 23% CGT charge; a trial judge erred in rejecting executor evidence that such assent advice was given in consultation when the point had not been put to the advising counsel.",
+      "legal_issues": [
+        "Validity and approval of a deed of variation involving an incapacitated beneficiary",
+        "Whether solicitors negligently advised on inheritance tax and PET characterisation",
+        "Whether executors were reasonably advised to assent in their favour as trustees after a clearance certificate",
+        "Capital gains tax consequences of vesting and cross-action relief"
+      ],
+      "catchwords": [
+        "solicitors negligence",
+        "inheritance tax",
+        "deed of variation",
+        "executors",
+        "capital gains tax",
+        "Court of Protection"
+      ],
+      "index_terms": [
+        "Hulton Park",
+        "Kippax Beaumont Lewis",
+        "potentially exempt transfer",
+        "clearance certificate",
+        "Jemma Trust",
+        "assent to vesting"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Very long judgment but principal disposals on DoV, CGT and assent issues are clearly identifiable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/250.json",
+    "status": "done",
+    "notes": "Landmark GMC judicial review; Silver/Rao misreading corrected; declaratory relief instead of remittal for Dr Birkin.",
+    "enrichment": {
+      "short_title": "Campbell v GMC: personal mitigation and serious professional misconduct",
+      "area_of_law": [
+        "Medical law",
+        "Professional discipline",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "National Health Service Reform and Healthcare Professions Act 2002",
+          "provisions": [
+            "section 29"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Jennifer Campbell challenged a GMC Professional Conduct Committee decision acquitting Dr Birkin of serious professional misconduct despite findings of substandard paediatric care.",
+        "Proved failures related to head circumference monitoring and delayed referral for Michael Boyle and Amy Tasker on the Isle of Man.",
+        "The Committee relied on Silver v GMC to treat testimonials and unblemished career as relevant to culpability rather than penalty only.",
+        "The CRHP declined to refer the case under section 29, leaving judicial review as the complainant's route."
+      ],
+      "procedural_posture": "Appeal by way of judicial review against dismissal of a GMC serious professional misconduct charge, with additional grounds after the Shipman Inquiry Fifth Report.",
+      "outcome": "Appeal allowed on the Silver issue; declaratory relief granted that personal mitigation was wrongly considered on culpability, but no remittal for redetermination.",
+      "ratio": "Under GMC Rules 27–29, committees must decide culpability and penalty sequentially; testimonials and otherwise unblemished practice are ordinarily relevant only to sanction, not to whether conduct amounts to serious professional misconduct, and Rao/Silver erred in treating Preiss mitigation dicta as authority to the contrary.",
+      "legal_issues": [
+        "Whether personal mitigation may be considered when deciding serious professional misconduct",
+        "Correct interpretation of Silver v GMC, Rao v GMC and Preiss v General Dental Council",
+        "Whether inadequate reasons independently vitiated the Committee decision",
+        "Whether quashing and remittal or declaratory relief was the appropriate remedy"
+      ],
+      "catchwords": [
+        "serious professional misconduct",
+        "General Medical Council",
+        "personal mitigation",
+        "judicial review",
+        "Silver v GMC",
+        "Shipman Inquiry"
+      ],
+      "index_terms": [
+        "Dr Nigel Birkin",
+        "Isle of Man paediatrics",
+        "Rule 28 PCC procedure",
+        "Libman v GMC",
+        "declaratory relief",
+        "double jeopardy"
+      ],
+      "linked_authorities": [
+        "Silver v General Medical Council [2003] Lloyd's Rep Med 333",
+        "Rao v General Medical Council [2003] Lloyd's Rep Med 62",
+        "Preiss v General Dental Council [2001] 1 WLR 1926",
+        "Libman v General Medical Council [1972] AC 217"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed analysis of GMC rules and Privy Council lineage culminates in agreed declaratory terms."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2005/347.json",
+    "status": "done",
+    "notes": "Severe TBI damages assessment; life expectancy 70, care split rulings and assisted conception award for one child.",
+    "enrichment": {
+      "short_title": "Patel v Wright: catastrophic brain injury damages assessment",
+      "area_of_law": [
+        "Personal injury",
+        "Clinical and care costs",
+        "Damages",
+        "Neurology",
+        "Family law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Patel sustained catastrophic head injuries in a workplace accident in August 2001 and requires lifelong 24-hour care.",
+        "Liability was compromised with 25% contributory negligence; most heads of loss were agreed subject to court approval.",
+        "Disputed issues included life expectancy, the split between waking and sleeping care, transitional care on discharge, assisted conception and video telephone costs.",
+        "Mrs Patel, his litigation friend and wife, gave evidence on early waking, demanding behaviour and their wish to have a child."
+      ],
+      "procedural_posture": "High Court assessment of damages in proceedings brought by the claimant's wife and litigation friend under Court of Protection jurisdiction.",
+      "outcome": "Life expectancy fixed at 70 years (multiplier 23.9); several care management rulings largely favoured the claimant, including 16/8 waking-sleeping split and two months' full waking care; £17,500 allowed for one assisted conception cycle; video telephone costs awarded at £633.33 per annum.",
+      "ratio": "Life expectancy after severe traumatic brain injury must reflect disability rating and cohort mortality studies, not optimistic misapplication of averages; care packages should avoid wasteful supervisory hours where a team leader can perform hands-on care, but transitional full waking care and a realistic waking-sleeping split may be required; future assisted conception costs may be recovered where probable on the evidence, and multiplicands should reflect current prices without speculative future price reductions.",
+      "legal_issues": [
+        "Appropriate reduction in life expectancy for severe traumatic brain injury",
+        "Split between waking and sleeping hours in a 24-hour care package",
+        "Whether team leader hours should include hands-on care",
+        "Recoverability of assisted conception costs and video telephone charges"
+      ],
+      "catchwords": [
+        "traumatic brain injury",
+        "life expectancy",
+        "24-hour care",
+        "assisted conception",
+        "Ogden tables",
+        "damages assessment"
+      ],
+      "index_terms": [
+        "Harrison-Felix mortality study",
+        "Disability Rating Scale",
+        "Court of Protection",
+        "contributory negligence",
+        "Cooke v United Bristol Healthcare",
+        "case management"
+      ],
+      "linked_authorities": [
+        "Cooke v United Bristol Healthcare NHS Trust [2004] 1 WLR 251",
+        "Royal Victoria Infirmary NHS Trust v B (A Child) [2002] Lloyd's Rep Med 282"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Trial rulings on each disputed head are explicit with supporting expert analysis."
+      }
+    }
+  }
+]

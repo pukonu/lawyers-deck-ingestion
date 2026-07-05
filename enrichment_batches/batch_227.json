@@ -1,0 +1,716 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/costs/2004/9001.json",
+    "status": "done",
+    "notes": "Solicitors Act time bar on detailed assessment of paid statute bills; statutory and inherent jurisdiction analysis is clear.",
+    "enrichment": {
+      "short_title": "Time bar on detailed assessment of paid solicitor bills",
+      "area_of_law": [
+        "Costs and legal profession",
+        "Solicitors Act 1974",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Solicitors Act 1974",
+          "provisions": [
+            "section 64",
+            "section 69",
+            "section 70"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Radcliffes Le Brasseur rendered 13 bills to the Wickes defendants between January and November 2002; the first two were paid in full and the third mostly paid.",
+        "The firm issued proceedings in July 2003 for £61,392.99 plus interest on unpaid bills.",
+        "The defendants counterclaimed for detailed assessment of paid and unpaid bills under the Solicitors Act 1974.",
+        "Master Leslie ordered detailed assessment of unpaid bills and an enquiry as to whether paid bills numbered 251450 and 252025 could be assessed."
+      ],
+      "procedural_posture": "Enquiry following a case management order on whether fully paid statute bills could be subject to detailed assessment more than 12 months after payment.",
+      "outcome": "Defendants held not entitled to detailed assessment of the two fully paid bills; section 70(4) time bar applied and inherent jurisdiction could not be invoked.",
+      "ratio": "Where invoices were clearly intended and treated as statute bills rather than payments on account, section 70(4) of the Solicitors Act 1974 bars detailed assessment more than 12 months after payment; the court's inherent jurisdiction to refer bills for taxation does not create a free-standing cause of action and cannot override that statutory bar in these circumstances.",
+      "legal_issues": [
+        "Whether paid bills were statute bills or part of an entire retainer",
+        "Whether section 70(4) barred assessment of bills paid over a year before proceedings",
+        "Whether inherent jurisdiction under Re Park could order taxation outside the statutory time limit",
+        "Whether the bills satisfied section 69(2) narrative requirements"
+      ],
+      "catchwords": [
+        "detailed assessment",
+        "statute bill",
+        "Solicitors Act 1974",
+        "section 70(4)",
+        "inherent jurisdiction",
+        "time bar"
+      ],
+      "index_terms": [
+        "solicitor's bill",
+        "taxation of costs",
+        "Harrison v Tew",
+        "Re Park",
+        "Ralph Hume Garry v Gwillim",
+        "entire contract retainer",
+        "paid bills"
+      ],
+      "linked_authorities": [
+        "Harrison v Tew [1990] 2 AC 523",
+        "Re Park [1889] 41 ChD 326",
+        "Ralph Hume Garry v Gwillim [2003] 1 CostLR 77",
+        "Abedi v Penningtons [2000] 2 Costs LR 205",
+        "Turner v Polomo [1999] 4 All ER 353",
+        "Allen v Jarvis [1869] LR 4 Ch App 616"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Statutory time bar finding and rejection of inherent jurisdiction are explicit. Retainer letter evidence was not proved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/255.json",
+    "status": "done",
+    "notes": "Libyan deportation Article 3 appeal; fresh evidence refusal and risk assessment upholding are clearly stated.",
+    "enrichment": {
+      "short_title": "Libyan deportation and Article 3 risk appeal",
+      "area_of_law": [
+        "Immigration law",
+        "Human rights",
+        "Asylum and deportation",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Act 1971",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 2",
+            "Article 3"
+          ]
+        },
+        {
+          "title": "Convention relating to the Status of Refugees 1951",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The appellant, a Libyan national resident in the UK since 1979, was convicted of indecent assault and rape and faced deportation to Libya.",
+        "An adjudicator found no real risk of Article 2 or Article 3 breach on return, relying partly on FCO assurances obtained at senior Libyan official level.",
+        "The Immigration Appeal Tribunal dismissed the appeal after detailed review of country evidence.",
+        "On appeal the appellant sought to adduce fresh evidence from Dr George Joffé about monitoring of Libyan students and press reporting."
+      ],
+      "procedural_posture": "Appeal against the IAT's dismissal of a human rights challenge to deportation to Libya.",
+      "outcome": "Appeal dismissed with costs; fresh evidence refused and the IAT's Article 3 assessment held not perverse.",
+      "ratio": "Fresh evidence on asylum and Article 3 appeals from the IAT is governed by Ladd v Marshall and should not be admitted where it could have been obtained for the tribunal hearing; the IAT was entitled to rely on high-level diplomatic assurances and to find no real risk of Article 3 ill-treatment on return.",
+      "legal_issues": [
+        "Whether the IAT's Article 3 risk assessment was perverse or involved an error of law",
+        "Whether fresh evidence from Dr Joffé should be admitted on appeal",
+        "Whether Libyan authorities would know of past asylum status or press reports",
+        "Whether delay in enforcing deportation would create suspicion on return"
+      ],
+      "catchwords": [
+        "deportation",
+        "Article 3",
+        "Libya",
+        "fresh evidence",
+        "Ladd v Marshall",
+        "diplomatic assurances"
+      ],
+      "index_terms": [
+        "Immigration Appeal Tribunal",
+        "failed asylum seeker",
+        "Newcastle press reports",
+        "real risk test",
+        "E and R v SSHD",
+        "Al-Mehdawi",
+        "criminal deportation"
+      ],
+      "linked_authorities": [
+        "E and R v Secretary of State for the Home Department [2004] EWCA Civ 49",
+        "Ladd v Marshall [1954] 1 WLR 1489",
+        "Al-Mehdawi v Secretary of State for the Home Department [1990] 1 AC 876",
+        "Arif [1999] Imm AR 271"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Appeal dismissal, fresh evidence refusal and Ladd v Marshall application are explicit. Country risk findings are evaluative."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/204.json",
+    "status": "done",
+    "notes": "Recruitment commission contract construction on wrongful dismissal; appeal outcome and ET jurisdiction cap clearly resolved.",
+    "enrichment": {
+      "short_title": "Recruitment commission payable after wrongful dismissal",
+      "area_of_law": [
+        "Employment law",
+        "Contract law",
+        "Contract interpretation",
+        "Wrongful dismissal"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Tribunals Extension of Jurisdiction (England and Wales) Order 1994",
+          "provisions": [
+            "paragraph 10"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Nicholas Brand was a contract sales consultant for Compro Computer Services Ltd under a commission compensation plan.",
+        "Compro summarily dismissed him on 26 July 2001 when the Watford contract division closed, denying commission payable in arrears for June and July sales.",
+        "The employment tribunal found the dismissal fair for redundancy but awarded damages for one month's commission after finding wrongful termination of notice.",
+        "Clause 6(1) of the plan required the employee to remain in full-time employment at all times to qualify for commission payments."
+      ],
+      "procedural_posture": "Appeal from the Employment Appeal Tribunal on construction of commission entitlement after summary dismissal.",
+      "outcome": "Appeal allowed; ET and EAT erred in construing clause 6(1) as denying commission earned before dismissal; total breach of contract award capped at £25,000.",
+      "ratio": "Commission earned when signed contractor timesheets are received is payable notwithstanding payment in arrears after dismissal; clause 6(1) merely assumes continued full-time status and does not deprive an employee of commission on sales achieved before wrongful termination.",
+      "legal_issues": [
+        "Whether clause 6(1) required employment at the payroll payment date",
+        "When commission was earned under clause 4.1 of the compensation plan",
+        "Construction of employment contract and commission memorandum together",
+        "Effect of the £25,000 ET jurisdiction limit on breach of contract claims"
+      ],
+      "catchwords": [
+        "commission",
+        "wrongful dismissal",
+        "contract construction",
+        "recruitment agency",
+        "payment in arrears",
+        "full-time employment"
+      ],
+      "index_terms": [
+        "Compro Computer Services",
+        "compensation plan",
+        "timesheets",
+        "ICS v West Bromwich",
+        "Employment Appeal Tribunal",
+        "notice period",
+        "IT recruitment"
+      ],
+      "linked_authorities": [
+        "Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Contract construction reasoning and substituted £25,000 award are clearly articulated by the Court of Appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/156.json",
+    "status": "done",
+    "notes": "Bareboat charter loss payment discount date; preliminary issue and appeal dismissal are clear despite drafting defects.",
+    "enrichment": {
+      "short_title": "Bareboat charter loss payment discount date",
+      "area_of_law": [
+        "Commercial contract",
+        "Shipping and maritime",
+        "Contract interpretation",
+        "Charterparty"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The semi-submersible platform Spirit of Columbus sank after an explosion in March 2001 under complex bareboat charter and sub-charter arrangements.",
+        "Petromec and related parties disputed whether future hire under the loss payment clause should be discounted to the date of total loss or 90 days later.",
+        "The difference in LIBOR movement was about US$2.5 million on a payment exceeding US$330 million.",
+        "Tomlinson J declared the correct loss payment at US$334,557,499.34 on a preliminary issue."
+      ],
+      "procedural_posture": "Appeal from a Commercial Court preliminary issue on construction of the loss payment discount date under bareboat charter agreements.",
+      "outcome": "Appeal dismissed; discounting to be to the date payment is declared due at the end of the 90-day period, not the date of total loss.",
+      "ratio": "Under clause 11 of the bareboat charter, the loss payment crystallises at the end of the 90-day period following total loss rather than on day one; discounting future fixed hire to the date of loss would produce absurd results including overdue interest on unpaid instalments not yet due.",
+      "legal_issues": [
+        "Whether loss payment discounting runs from the date of total loss or 90 days later",
+        "Distinction between clause 11 total loss and clause 13 termination regimes",
+        "Whether a declaration of loss payment was required before sums became due",
+        "Effect of sloppy drafting on construction of liquidated damages provisions"
+      ],
+      "catchwords": [
+        "loss payment",
+        "bareboat charter",
+        "total loss",
+        "discounting",
+        "LIBOR",
+        "offshore platform"
+      ],
+      "index_terms": [
+        "Spirit of Columbus",
+        "Petrobras",
+        "Brasoil",
+        "Petromec",
+        "fixed hire",
+        "preliminary issue",
+        "Commercial Court"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Preliminary issue outcome and clause 11/13 distinction are clearly reasoned. Underlying total loss facts are background."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/254.json",
+    "status": "needs_review",
+    "notes": "Long-running boundary dispute with overlapping Taylor v Lawrence, allocation and Grepe v Loam applications; procedural holdings are clear but history is dense.",
+    "enrichment": {
+      "short_title": "Bonvilston boundary dispute procedural appeals refused",
+      "area_of_law": [
+        "Civil procedure",
+        "Appeals",
+        "Property law",
+        "Boundary disputes"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 52"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A boundary dispute between Mr Parker at the Great Barn and Mr Hutchings at Lillypot Farm in Bonvilston began with a district judge's arbitration award in 1997.",
+        "Judge Jones found for Mr Parker after a four-day site visit in 2000; Jacob J refused permission to appeal on proportionality grounds.",
+        "Neuberger J refused allocation to the multi-track under the slip rule and later refused a Taylor v Lawrence application to reopen the refusal of permission to appeal.",
+        "Mr Hutchings sought further permission to appeal and to challenge a Grepe v Loam order requiring prior permission for further applications."
+      ],
+      "procedural_posture": "Applications for permission to appeal on allocation, Taylor v Lawrence reopening, and a Grepe v Loam order in long-running boundary litigation.",
+      "outcome": "All three applications dismissed; no jurisdiction to appeal further after Taylor v Lawrence refusal; Grepe v Loam order upheld.",
+      "ratio": "There is no further right of appeal after a judge refuses to reopen a permission decision under Taylor v Lawrence; a second appeal requires an important point of principle or compelling reason, which credibility and allocation complaints in a small boundary dispute do not provide.",
+      "legal_issues": [
+        "Whether Judge Jones could allocate the case to the multi-track under the slip rule",
+        "Whether Neuberger J's Taylor v Lawrence refusal could be appealed",
+        "Whether a Grepe v Loam order could be challenged out of time",
+        "Whether alleged witness lies justify a second appeal"
+      ],
+      "catchwords": [
+        "boundary dispute",
+        "Taylor v Lawrence",
+        "Grepe v Loam",
+        "permission to appeal",
+        "multi-track allocation",
+        "second appeal"
+      ],
+      "index_terms": [
+        "Bonvilston",
+        "Great Barn",
+        "Lillypot Farm",
+        "Judge Jones",
+        "Neuberger J",
+        "Jacob J",
+        "contempt of court"
+      ],
+      "linked_authorities": [
+        "Taylor v Lawrence [2002] EWCA Civ 90",
+        "Bhamjee v Forsdick (No 2) [2003] EWCA Civ 1113"
+      ],
+      "confidence": {
+        "score": 0.84,
+        "level": "medium",
+        "notes": "Procedural refusals are explicit but the litigation spans many years and overlapping applications."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/144.json",
+    "status": "done",
+    "notes": "DDA s.5(4) justification defence analysis is detailed but ratio and remittal order are clear.",
+    "enrichment": {
+      "short_title": "DDA justification of failure to make reasonable adjustments",
+      "area_of_law": [
+        "Discrimination law",
+        "Employment law",
+        "Disability law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Disability Discrimination Act 1995",
+          "provisions": [
+            "section 4",
+            "section 5",
+            "section 6"
+          ]
+        },
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 98"
+          ]
+        },
+        {
+          "title": "Disability Discrimination Act 1995 (Amendment) Regulations 2003",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Collins, a carpenter's labourer at the National Theatre, lost part of a finger in a bench saw accident and developed painful neuromas.",
+        "He refused recommended surgery and the theatre terminated his employment after capability assessments raised safety concerns.",
+        "The employment tribunal found a section 6 duty to make adjustments had been breached but the EAT allowed the employer's appeal relying on Jones v Post Office.",
+        "The appeal asked whether an unreasonable failure to make adjustments could nevertheless be justified under section 5(4)."
+      ],
+      "procedural_posture": "Appeal on construction of the justification defence to failure to make reasonable adjustments under the Disability Discrimination Act 1995.",
+      "outcome": "Appeal allowed; employment tribunal decision restored and claim remitted on remedy; section 5(4) cannot justify factors already rejected as unreasonable under section 6.",
+      "ratio": "Section 5(4) of the DDA must be construed differently from section 5(3); an employer cannot justify a breach of the section 6 reasonable adjustment duty by re-litigating grounds already evaluated as unreasonable, though section 5(4) may still apply to factors outside the section 6 inquiry.",
+      "legal_issues": [
+        "Whether section 5(4) permits justification of an objectively unreasonable failure to adjust",
+        "Relationship between sections 5(3), 5(4) and 6 of the DDA",
+        "Effect of Jones v Post Office on adjustment failures",
+        "Whether the National Theatre's dismissal was separately unfair"
+      ],
+      "catchwords": [
+        "reasonable adjustments",
+        "disability discrimination",
+        "justification defence",
+        "section 6 duty",
+        "Jones v Post Office",
+        "unfair dismissal"
+      ],
+      "index_terms": [
+        "National Theatre",
+        "carpentry workshop",
+        "bench saw injury",
+        "Employment Appeal Tribunal",
+        "Disability Rights Commission",
+        "Framework Directive 2000/78/EC",
+        "incapacity dismissal"
+      ],
+      "linked_authorities": [
+        "Jones v Post Office [2001] EWCA Civ 558",
+        "H J Heinz & Co Ltd v Kenrick [2000] IRLR 144"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Statutory construction holding and remittal order are explicit. Unfair dismissal was not argued on appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/140.json",
+    "status": "done",
+    "notes": "Civil court jurisdiction over cattle removal after cruelty disqualification; appeal dismissal and negative injunction scope are clear.",
+    "enrichment": {
+      "short_title": "Council cannot remove disqualified owners' cattle by injunction",
+      "area_of_law": [
+        "Animal welfare",
+        "Public law",
+        "Injunctions",
+        "Local government"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Protection of Animals Act 1911",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 3"
+          ]
+        },
+        {
+          "title": "Protection of Animals (Amendment) Act 1954",
+          "provisions": [
+            "section 1",
+            "section 2"
+          ]
+        },
+        {
+          "title": "Protection of Animals (Amendment) Act 2000",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 3"
+          ]
+        },
+        {
+          "title": "Local Government Act 1972",
+          "provisions": [
+            "section 222"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 37"
+          ]
+        },
+        {
+          "title": "Agriculture (Miscellaneous Provisions) Act 1968",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Lionel Tongue and his sons were convicted of cattle cruelty and disqualified for life from custody of farm animals.",
+        "They continued to keep cattle on several Worcestershire farms in breach of the disqualification orders.",
+        "Worcestershire County Council sought a Chancery injunction authorising entry onto the Tongues' land to remove all livestock and dispose of them.",
+        "Neuberger J held the civil court had no jurisdiction to make the positive removal order sought, though a prohibitory injunction was available."
+      ],
+      "procedural_posture": "Appeal against refusal of mandatory injunctive relief to remove cattle from land of persons disqualified under animal cruelty legislation.",
+      "outcome": "Appeal dismissed; civil court has no jurisdiction to authorise removal and disposal of defendants' cattle beyond restraining breach of disqualification orders.",
+      "ratio": "While a local authority may invoke civil proceedings under section 222 to restrain breach of the criminal law, it cannot obtain mandatory orders to remove and dispose of animals belonging to disqualified owners where Parliament has prescribed criminal remedies and has not conferred equivalent civil powers on the county court.",
+      "legal_issues": [
+        "Whether section 222 Local Government Act 1972 confers jurisdiction for mandatory cattle removal",
+        "Whether the Council had sufficient interest under section 37 Supreme Court Act 1981",
+        "Distinction between enforcing criminal law and filling gaps in it",
+        "Whether orders under the 2000 Act limited relief to animals the subject of cruelty proceedings"
+      ],
+      "catchwords": [
+        "animal cruelty",
+        "disqualification order",
+        "local authority injunction",
+        "cattle removal",
+        "section 222",
+        "public law"
+      ],
+      "index_terms": [
+        "Worcestershire County Council",
+        "Tongue family",
+        "Redditch farms",
+        "Protection of Animals Acts",
+        "Cornwall County Council v Baker",
+        "Stoke-on-Trent v B and Q",
+        "Chancery Division"
+      ],
+      "linked_authorities": [
+        "Cornwall County Council v Baker [2003] 2 All ER 178",
+        "Stoke-on-Trent City Council v B and Q plc [1984] AC 754",
+        "Chief Constable of Leicestershire v M [1989] 1 WLR 20",
+        "Chief Constable of Kent v V [1983] QB 34",
+        "Broadmoor Special Hospital Authority v Robinson [2000] QB 775"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Jurisdiction refusal and statutory scheme analysis are comprehensively reasoned by the Court of Appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/231.json",
+    "status": "done",
+    "notes": "Carousel fraud illegality defence rejected; proximity analysis and judgment sum are clearly stated.",
+    "enrichment": {
+      "short_title": "Carousel fraud seller may recover CPU sale price",
+      "area_of_law": [
+        "Contract law",
+        "Illegality and public policy",
+        "Tax law",
+        "Sale of goods"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": [
+            "section 60",
+            "section 70",
+            "section 72",
+            "section 73",
+            "section 74"
+          ]
+        }
+      ],
+      "key_facts": [
+        "21st Century Logistic Solutions Ltd, a missing-trader phoenix company, sold 7,220 Intel CPUs to Madysen Ltd for £905,220 including VAT.",
+        "Darren King, the directing mind of 21stC, intended to defraud HMCE of output VAT; Madysen was unaware of that intention.",
+        "Madysen paid £913,680 from Pycom and reported suspicious payment instructions to HMCE; funds were frozen and 21stC went into liquidation.",
+        "Madysen pleaded illegality to resist paying the agreed price for goods delivered."
+      ],
+      "procedural_posture": "Trial of a liquidator's claim for the price of goods sold and delivered where the buyer pleaded ex turpi causa illegality.",
+      "outcome": "Judgment for the claimant for £905,220; fraudulent VAT intention at contract formation was too remote to render the sale contract unenforceable.",
+      "ratio": "A contract for sale of goods entered into with a dishonest intention to evade VAT is not necessarily unenforceable where the fraud would only be completed by a later failure to account to HMCE; the lawful contract itself merely provided opportunity for the fraud and the buyer's ignorance prevents mutual illegality.",
+      "legal_issues": [
+        "Whether 21stC's missing-trader intention rendered the sale contract illegal",
+        "Proximity between fraudulent intent and the contract under ex turpi causa principles",
+        "Distinction from Alexander v Rayson and Napier v National Business Agency",
+        "Whether liquidation and HMCE's creditor status affected enforceability"
+      ],
+      "catchwords": [
+        "carousel fraud",
+        "missing trader",
+        "illegality",
+        "ex turpi causa",
+        "VAT fraud",
+        "sale of goods"
+      ],
+      "index_terms": [
+        "computer processors",
+        "HM Customs and Excise",
+        "Holman v Johnson",
+        "Skilton v Sullivan",
+        "liquidation",
+        "Pycom",
+        "phoenix company"
+      ],
+      "linked_authorities": [
+        "Holman v Johnson (1775) 1 Cowp 341",
+        "Alexander v Rayson [1936] 1 KB 169",
+        "Napier v National Business Agency Ltd [1951] 2 All ER 264",
+        "Skilton v Sullivan (1994)",
+        "Miller v Karlinski (1945) 62 TLR 85",
+        "Tinsley v Milligan [1994] 1 AC 340"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Agreed facts, remoteness holding and judgment sum are explicit. Alternative Nelson v Nelson approach was not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/118.json",
+    "status": "needs_review",
+    "notes": "Section 459 petition with fiduciary breach finding, ransom-strip valuation debate and strong judicial criticism of Lord Ashcroft's tactics.",
+    "enrichment": {
+      "short_title": "Section 459 petition over ISS takeover asset sale",
+      "area_of_law": [
+        "Company law",
+        "Minority shareholders",
+        "Directors' duties",
+        "Corporate finance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 459",
+            "section 461"
+          ]
+        }
+      ],
+      "key_facts": [
+        "ISS acquired over 96% of RCO (Holdings) Ltd but Lord Ashcroft's Rock (Nominees) Ltd retained a blocking minority stake.",
+        "In November 2000 the company sold its operating subsidiaries to ISS UK for £30,117,784, equivalent to 280p per share.",
+        "Rock petitioned under section 459 alleging undervalue and breach of fiduciary duty by conflicted ISS directors.",
+        "Peter Smith J found fiduciary breaches but held the sale price fair and dismissed the petition as a greenmail tactic."
+      ],
+      "procedural_posture": "Appeal against dismissal of an unfair prejudice petition concerning an intra-group asset sale to squeeze out a minority shareholder.",
+      "outcome": "Appeal dismissed; sale not at undervalue and no unfair prejudice; cross-appeal allowed setting aside fiduciary breach finding as no harm was done.",
+      "ratio": "Where ISS would not pay more than 280p and could place the company in liquidation to sell assets on the open market with no alternative bidder, the sale price was the best reasonably obtainable and Rock suffered no unfair prejudice despite defective sale mechanics.",
+      "legal_issues": [
+        "Whether the sale of Group shares was at an undervalue",
+        "Whether ISS synergies justified a higher ransom price",
+        "Whether conflicted directors breached fiduciary duties",
+        "Admissibility of the February Report as valuation evidence"
+      ],
+      "catchwords": [
+        "unfair prejudice",
+        "section 459",
+        "squeeze out",
+        "fiduciary conflict",
+        "synergies",
+        "greenmail"
+      ],
+      "index_terms": [
+        "Rock Nominees",
+        "ISS Group",
+        "RCO Holdings",
+        "Lord Ashcroft",
+        "support services company",
+        "members voluntary liquidation",
+        "Rapid Reef"
+      ],
+      "linked_authorities": [
+        "Re Ring Tower (No 2) [1989] BCLC 427"
+      ],
+      "confidence": {
+        "score": 0.86,
+        "level": "high",
+        "notes": "Undervalue conclusion and appeal dismissal are clear. Fiduciary breach finding was reversed on cross-appeal; judge's commentary on tactics is extensive."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/155.json",
+    "status": "done",
+    "notes": "Business rates valuation of highway microcell mast site; Poplar principles application and agreed figures are clear.",
+    "enrichment": {
+      "short_title": "Rates for mobile phone mast on highway land",
+      "area_of_law": [
+        "Rating and valuation",
+        "Telecommunications",
+        "Property law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Local Government Finance Act 1988",
+          "provisions": [
+            "Schedule 6"
+          ]
+        },
+        {
+          "title": "Telecommunications Act 1984",
+          "provisions": [
+            "Schedule 2"
+          ]
+        },
+        {
+          "title": "Valuation for Rating (Plant and Machinery) Regulations 1994",
+          "provisions": [
+            "Class 3(f)"
+          ]
+        },
+        {
+          "title": "New Roads and Street Works Act 1991",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Orange PCS operated a microcell mast on a grass verge of a public highway in Carlton-in-Lindrick, Nottinghamshire.",
+        "Under the Telecommunications Code operators may install apparatus on highways without payment to the highway authority or adjacent landowners.",
+        "The site was rated at £2,200 from 1 November 1999; Orange contended the land value should be nil because of free Code occupation.",
+        "It was agreed that if Orange succeeded the rateable value would be £100 (mast only); if not, £1,100 including £1,000 for land occupation."
+      ],
+      "procedural_posture": "Appeal on correct rating valuation approach for a telecommunications hereditament on highway land.",
+      "outcome": "Appeal dismissed; free occupation under the Code does not reduce rateable value; agreed rateable value of £1,100 upheld.",
+      "ratio": "Under Poplar Assessment Committee v Roberts, the statutory rating hypothesis values beneficial occupation of the hereditament and not the actual rent payable; a telecommunications operator's personal right to free highway occupation under the Code is not determinative of that value.",
+      "legal_issues": [
+        "Whether free Telecommunications Code occupation requires a nil land value for rating",
+        "Application of Poplar v Roberts to statutory rather than contractual rent restrictions",
+        "Relevance of comparable rents on private land for microcell sites",
+        "Principle of reality in rating valuation"
+      ],
+      "catchwords": [
+        "business rates",
+        "rateable value",
+        "telecommunications mast",
+        "highway land",
+        "Poplar v Roberts",
+        "Telecommunications Code"
+      ],
+      "index_terms": [
+        "Orange PCS",
+        "microcell",
+        "Bassethorpe District",
+        "Lands Tribunal",
+        "Hoare v National Trust",
+        "statutory hypothesis",
+        "mobile phone network"
+      ],
+      "linked_authorities": [
+        "Poplar Assessment Committee v Roberts [1922] AC 93",
+        "Hoare (Valuation Officer) v National Trust [1998] RA 319",
+        "Townley Mill (1919) Ltd v Oldham Assessment Committee [1937] AC 419",
+        "Dawkins (Valuation Officer) v Ash Brothers and Heaton [1969] 2 AC 366",
+        "Robinson Brothers (Brewers) Ltd v Houghton Assessment Committee [1937] 2 KB 445"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Agreed valuation figures, Poplar analysis and appeal outcome are directly addressed in the judgment."
+      }
+    }
+  }
+]

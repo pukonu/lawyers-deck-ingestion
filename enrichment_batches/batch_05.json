@@ -1,0 +1,733 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/107.json",
+    "status": "done",
+    "notes": "Immigration leave-to-appeal rules and expert evidence timing clearly resolved.",
+    "enrichment": {
+      "short_title": "IAT leave to appeal and late expert evidence",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Appeals Procedure Rules 2000",
+          "provisions": [
+            "rule 18",
+            "rule 19"
+          ]
+        },
+        {
+          "title": "Convention relating to the Status of Refugees 1951",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Halil Sahin, a Turkish national, claimed asylum based on a blood feud arising from his father killing Arap Yusuf in a land dispute.",
+        "A Special Adjudicator dismissed his appeal, finding state protection was available and the appellant had not sought it.",
+        "On application for leave to appeal to the Immigration Appeal Tribunal, counsel requested time for an expert report from Dr Marie O'Shea on corruption and internal flight.",
+        "The expert report was served on 8 February 2002 but was not before the Vice President when he refused leave on 14 February 2002.",
+        "The claimant argued an administrative error and opaque reasons prevented use of rule 19 to review the refusal."
+      ],
+      "procedural_posture": "Judicial review, with permission granted, of the Immigration Appeal Tribunal's refusal of leave to appeal against a Special Adjudicator's asylum determination.",
+      "outcome": "Application dismissed; leave to appeal refused.",
+      "ratio": "Fresh evidence relied on in an application for leave to appeal must be filed within the rule 18 time limit and accompanied by good reasons why it was not before the adjudicator; a prospective reference to evidence still being prepared does not satisfy rule 18(11), nor does it amount to an application to extend time under rule 18(3). Where the tribunal's reasons make clear that sought expert evidence was not before it, rule 19 does not assist unless the appellant promptly seeks clarification or review.",
+      "legal_issues": [
+        "Whether late expert evidence must be considered on an application for leave to appeal",
+        "Construction of rules 18(11) and 18(3) of the Immigration and Asylum Appeals Procedure Rules 2000",
+        "Whether opaque tribunal reasons prevented a rule 19 review application",
+        "Whether Dr O'Shea's report could have affected the outcome"
+      ],
+      "catchwords": [
+        "leave to appeal",
+        "fresh evidence",
+        "rule 18",
+        "rule 19",
+        "asylum",
+        "expert report",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Immigration Appeal Tribunal",
+        "Special Adjudicator",
+        "blood feud",
+        "Turkey",
+        "internal flight",
+        "state protection",
+        "Nuredini"
+      ],
+      "linked_authorities": [
+        "Farhad Azkhosravi v Secretary of State for the Home Department",
+        "Aziz v Secretary of State for the Home Department",
+        "Nuredini v Secretary of State for the Home Department",
+        "Ouseley J in Nuredini"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome, statutory analysis, and key facts are explicit. Judge metadata in source data was not independently verified."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/156.json",
+    "status": "done",
+    "notes": "Wasted costs appeal on narrow permission point; proportionality central.",
+    "enrichment": {
+      "short_title": "Wasted costs order proportionality on interlocutory applications",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Professional conduct"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 51(6)"
+          ]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": [
+            "section 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The winning party sought wasted costs orders against the opposing solicitors in respect of 20 alleged items of improper conduct.",
+        "A deputy judge refused wasted costs on all 20 items, largely because no warning of such applications had been given at the interlocutory hearings.",
+        "Arden LJ granted permission to appeal on one head relating to three unless-order applications concerning lists of documents and statements of case.",
+        "The underlying family dispute had already reached the House of Lords; the wasted costs dispute concerned about £1,200.",
+        "The Court of Appeal held the judge was entitled to refuse the application and that satellite litigation of this kind should be discouraged."
+      ],
+      "procedural_posture": "Appeal by leave of Arden LJ against a deputy judge's refusal to make interlocutory wasted costs orders against solicitors at the first stage under the Practice Direction.",
+      "outcome": "Appeal dismissed; appellant ordered to pay respondents' costs of the appeal.",
+      "ratio": "Failure to give advance notice that a wasted costs order may be sought is rarely, on its own, a sufficient reason to refuse a later application, but where interlocutory costs orders were costs in the case or no order as to costs, and the sums involved are modest, the disproportionate cost of wasted costs proceedings is an overwhelming reason to refuse to enter the first stage under PD 53.6.",
+      "legal_issues": [
+        "Whether failure to warn of a wasted costs application at the interlocutory stage bars a later application",
+        "Application of the two-stage test in PD 53.6 for wasted costs orders",
+        "Whether the court should interfere with the judge's discretion on proportionality",
+        "Timing of wasted costs applications after trial under Ridehalgh v Horsefield"
+      ],
+      "catchwords": [
+        "wasted costs",
+        "solicitors",
+        "proportionality",
+        "unless orders",
+        "interlocutory applications",
+        "Ridehalgh"
+      ],
+      "index_terms": [
+        "section 51",
+        "PD 48",
+        "deputy judge",
+        "family dispute",
+        "satellite litigation",
+        "costs in the case"
+      ],
+      "linked_authorities": [
+        "Ridehalgh v Horsefield",
+        "Orchard v South Eastern Electricity Board",
+        "Filmlab Systems International Ltd v Pennington"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Principles and outcome are clearly stated. Source judge listing appears incomplete or inherited."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/94.json",
+    "status": "done",
+    "notes": "New persecution point raised on appeal; remittal and conditional wasted costs noted.",
+    "enrichment": {
+      "short_title": "Asylum appeal on teaching ban as persecution",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Convention relating to the Status of Refugees 1951",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant, an Iranian English graduate, advocated freedom of expression while teaching and was detained and beaten by security officials.",
+        "After release he signed undertakings including a ban on teaching and weekly police sign-on, then left Iran for the United Kingdom.",
+        "The Secretary of State and both immigration tribunals accepted much of his evidence but held past persecution related only to his teaching and that a teaching ban meant he would no longer attract authority attention.",
+        "On appeal to the Court of Appeal, counsel argued for the first time that prohibiting him from teaching would itself amount to persecution.",
+        "No fact-finding tribunal had yet considered that new issue or the evidential burden of showing profound effects on livelihood and well-being."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from the Immigration Appeal Tribunal dismissal of an asylum appeal, with a new point of principle raised for the first time at appellate level.",
+      "outcome": "No order on the appeal; matter remitted to the tribunal for reconsideration; conditional wasted costs order made against appellant's solicitors.",
+      "ratio": "Where a genuinely new issue of principle is raised on appeal and has not been considered by the Secretary of State or any fact-finding tribunal, the court should remit the case for proper evaluation rather than decide it without findings; establishing that an occupational ban amounts to Convention persecution requires evidence of its profound effects on the individual.",
+      "legal_issues": [
+        "Whether a ban on teaching can amount to persecution under the Refugee Convention",
+        "Whether Article 3 ECHR is engaged by deprivation of the right to teach",
+        "Propriety of deciding a new issue raised for the first time on appeal without remittal",
+        "Wasted costs where solicitors resisted remittal proposed by the Treasury Solicitor"
+      ],
+      "catchwords": [
+        "asylum",
+        "persecution",
+        "Iran",
+        "teaching ban",
+        "remittal",
+        "Article 3",
+        "new issue"
+      ],
+      "index_terms": [
+        "Immigration Appeal Tribunal",
+        "freedom of expression",
+        "fact-finding",
+        "wasted costs",
+        "occupational ban"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.85,
+        "level": "high",
+        "notes": "Core disposal and legal reasoning are clear. Wasted costs discussion is supplementary and partly conditional."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/6.json",
+    "status": "done",
+    "notes": "Detailed certification guidance under Schedule 4 paragraph 9 of the 1999 Act.",
+    "enrichment": {
+      "short_title": "Accelerated asylum appeal certification challenge",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "Schedule 4 paragraph 9",
+            "section 72"
+          ]
+        },
+        {
+          "title": "Convention relating to the Status of Refugees 1951",
+          "provisions": []
+        },
+        {
+          "title": "Immigration Rules",
+          "provisions": [
+            "paragraph 336 of HC 395"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Sri Lankan Tamil woman claimed asylum based on arrests, ill-treatment, and fears arising from the civil conflict.",
+        "The Secretary of State refused asylum and certified the claim as manifestly unfounded under paragraph 9(4)(b) and as not involving torture under paragraph 9(7).",
+        "In interview she described beatings at a police station, but the refusal letter stated she had adduced no evidence relating to torture.",
+        "An adjudicator disbelieved her credibility, dismissed the appeal, and agreed with both limbs of certification, removing further appeal rights to the Immigration Appeal Tribunal.",
+        "Judicial review challenged only the certification, not the substantive asylum decision."
+      ],
+      "procedural_posture": "Judicial review, brought with permission, of an immigration adjudicator's decision upholding accelerated appeal certification under schedule 4 to the Immigration and Asylum Act 1999.",
+      "outcome": "Claim dismissed.",
+      "ratio": "An adjudicator's role on certification is to decide independently whether he agrees with the Secretary of State's opinion that the relevant paragraph 9 provisions apply, based on all evidence before him, not to conduct judicial review of the refusal letter's reasoning; validity of certification does not depend on the Secretary of State giving reasons, and a refusal letter stating that no torture evidence was adduced may be shorthand for the statutory test where credibility is rejected.",
+      "legal_issues": [
+        "Whether certification under paragraph 9(7) was invalid where interview evidence of beatings existed",
+        "Correct approach to manifestly unfounded certification under paragraph 9(4)(b)",
+        "Whether Prabaharen or Farkondeh governs adjudicators' approach to certification",
+        "Whether quashing certification would serve any useful purpose where substantive appeal had no prospect of success"
+      ],
+      "catchwords": [
+        "certification",
+        "manifestly unfounded",
+        "torture",
+        "accelerated procedure",
+        "asylum",
+        "credibility",
+        "adjudicator"
+      ],
+      "index_terms": [
+        "Schedule 4",
+        "Immigration Appeal Tribunal",
+        "Sri Lanka",
+        "Tamil",
+        "Thangarasa",
+        "Salah Ziar",
+        "Prabaharen",
+        "Farkondeh"
+      ],
+      "linked_authorities": [
+        "R (Prabaharen) v Special Adjudicator",
+        "R (Farkondeh) v Special Adjudicator",
+        "R (Thangarasa) v Secretary of State for the Home Department",
+        "R (Gavira) v Secretary of State for the Home Department",
+        "Secretary of State for the Home Department v Salah Ziar"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Approved judgment with full statutory analysis and clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/171.json",
+    "status": "done",
+    "notes": "Useful guidance on alternative footpath routes under section 53 WCA 1981.",
+    "enrichment": {
+      "short_title": "Definitive map footpath route modification refused",
+      "area_of_law": [
+        "Public law",
+        "Property and land law",
+        "Rights of way"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Wildlife and Countryside Act 1981",
+          "provisions": [
+            "section 53",
+            "section 56"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Leicestershire County Council sought to modify the definitive map to show public footpath B19 through Manor Cottage rather than Glebe Cottage at Shangton.",
+        "The occupier of Glebe Cottage contended the existing mapped route through his curtilage was wrong.",
+        "An inspector refused to confirm the council's order after a public inquiry, finding insufficient evidence to displace the route shown since 1951.",
+        "The dispute concerned which of two alternative routes existed, not whether any public right of way existed at all.",
+        "Collins J heard the case as a renewed permission application treated as the substantive judicial review hearing."
+      ],
+      "procedural_posture": "Renewed application for permission to apply for judicial review, heard and determined as the substantive challenge to an inspector's decision refusing to confirm a definitive map modification order.",
+      "outcome": "Application dismissed; inspector's decision upheld.",
+      "ratio": "Where the dispute is over the correct route of an existing footpath rather than its existence, section 53(3)(c)(iii) is the starting point and cogent evidence is needed to remove a route shown on the definitive map; a finding that an alternative route is only reasonably alleged to subsist under the lower test in section 53(3)(c)(i) will not ordinarily suffice to change the mapped route.",
+      "legal_issues": [
+        "Correct application of section 53(3)(c)(i) tests A and B to alternative footpath routes",
+        "Interaction between section 53(3)(c)(i) and (iii) where only the route is disputed",
+        "Whether the inspector erred in treating section 53(4) as the appropriate procedure",
+        "Standard of proof for modifying the definitive map and statement"
+      ],
+      "catchwords": [
+        "public footpath",
+        "definitive map",
+        "rights of way",
+        "section 53",
+        "inspector",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Wildlife and Countryside Act",
+        "Shangton",
+        "Leicestershire",
+        "Norton and Bagshaw",
+        "public inquiry",
+        "Ordnance Survey"
+      ],
+      "linked_authorities": [
+        "R v Secretary of State for the Environment ex parte Norton and Bagshaw"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Statutory framework and inspector's reasoning are fully analysed in an ex tempore judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/9.json",
+    "status": "done",
+    "notes": "Leading SEN specificity decision paired with IPSEA v Secretary of State.",
+    "enrichment": {
+      "short_title": "Specificity of special educational needs statements",
+      "area_of_law": [
+        "Education law",
+        "Public law",
+        "Disability and special needs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Education Act 1996",
+          "provisions": [
+            "section 312",
+            "section 323",
+            "section 324",
+            "section 326",
+            "section 313",
+            "Schedule 27"
+          ]
+        },
+        {
+          "title": "Education (Special Educational Needs) Regulations 1994",
+          "provisions": [
+            "regulation 13",
+            "Schedule Part B"
+          ]
+        },
+        {
+          "title": "Education (Maintained Special Schools) Regulations 1999",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "R, a severely disabled child, had been out of school for long periods amid dispute between his parents and Newham LEA over his statement of special educational needs.",
+        "Parents wanted quantified weekly hours of physiotherapy, speech and language therapy, occupational therapy, and specialist teaching.",
+        "The tribunal amended the statement but left therapy provision to be determined through an individual education plan at the named special school.",
+        "Stanley Burnton J dismissed the parents' appeal; the Court of Appeal heard this case together with IPSEA's challenge to SEN Toolkit guidance.",
+        "Professional assessments before the tribunal were outdated because R had been out of school for nearly nine months."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from a High Court decision dismissing an appeal from a Special Educational Needs Tribunal decision on the contents of a statement of special educational needs.",
+      "outcome": "Appeal dismissed; permission to appeal to the House of Lords refused.",
+      "ratio": "A statement under section 324 must specify special educational provision with enough clarity to be enforceable, but a tribunal does not act unlawfully by leaving quantification of complex integrated therapy provision to a special school and therapists where up-to-date expert evidence is lacking, the child needs urgent return to school, and flexibility is appropriate to meet fluctuating needs.",
+      "legal_issues": [
+        "Degree of specificity and quantification required in Part 3 of a statement of SEN",
+        "Whether a tribunal may delegate provision decisions to a special school",
+        "Duty to adjourn to obtain further expert evidence",
+        "Application of Bromley LEA v Special Educational Needs Tribunal"
+      ],
+      "catchwords": [
+        "special educational needs",
+        "statement of SEN",
+        "quantification",
+        "therapy",
+        "tribunal",
+        "Education Act 1996",
+        "Bromley"
+      ],
+      "index_terms": [
+        "SENT",
+        "LEA",
+        "individual education plan",
+        "Code of Practice",
+        "special school",
+        "physiotherapy",
+        "speech and language therapy"
+      ],
+      "linked_authorities": [
+        "Bromley LEA v Special Educational Needs Tribunal",
+        "L v Clarke and Somerset County Council",
+        "R v Secretary of State for Education ex parte E",
+        "E v London Borough of Newham (High Court)"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Approved court judgment with detailed statutory and case law analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/7.json",
+    "status": "done",
+    "notes": "Companion judgment to EWCA Civ 9 on SEN Toolkit lawfulness.",
+    "enrichment": {
+      "short_title": "Lawfulness of SEN Toolkit quantification guidance",
+      "area_of_law": [
+        "Education law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Education Act 1996",
+          "provisions": [
+            "section 312",
+            "section 313",
+            "section 324"
+          ]
+        },
+        {
+          "title": "Education (Special Educational Needs) (England) (Consolidation) Regulations 2001",
+          "provisions": [
+            "Schedule Part B"
+          ]
+        }
+      ],
+      "key_facts": [
+        "IPSEA, a charity advising parents on special educational needs appeals, sought judicial review of three paragraphs in the non-statutory SEN Toolkit.",
+        "The challenged paragraphs addressed when LEAs and tribunals need not quantify provision in statements, including for children in special schools.",
+        "Newman J refused permission, holding generic guidance could be applied lawfully if consistent with the Code of Practice.",
+        "The Court of Appeal heard this application immediately after E v London Borough of Newham on related specificity issues.",
+        "IPSEA contended the Toolkit improperly diluted the Code's presumption of quantified provision."
+      ],
+      "procedural_posture": "Renewed application for permission to appeal against refusal of permission to apply for judicial review of departmental SEN Toolkit guidance.",
+      "outcome": "Permission to appeal refused.",
+      "ratio": "The duty to specify special educational provision in a statement normally requires detailed and quantified provision, but flexibility is permissible where it best meets the child's changing needs; read as a whole, the SEN Toolkit is not inconsistent with the Code or the statute, and vague statements that fail to identify provision appropriate to identified needs remain unlawful.",
+      "legal_issues": [
+        "Whether specification under the SEN Regulations requires quantification unless a Code exception applies",
+        "Whether SEN Toolkit paragraphs 30, 38 and 39 unlawfully broaden exceptions to quantification",
+        "Meaning of changing special educational needs of the child in the Code",
+        "Lawfulness of distinguishing special schools from mainstream placements in guidance"
+      ],
+      "catchwords": [
+        "SEN Toolkit",
+        "quantification",
+        "Code of Practice",
+        "IPSEA",
+        "special educational provision",
+        "guidance"
+      ],
+      "index_terms": [
+        "LEA",
+        "SENT",
+        "Education Act 1996",
+        "non-statutory guidance",
+        "flexibility",
+        "mainstream school",
+        "special school"
+      ],
+      "linked_authorities": [
+        "E v London Borough of Newham and the Special Educational Needs Tribunal",
+        "L v Clarke and Somerset County Council",
+        "Bromley LEA v Special Educational Needs Tribunal"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Judgment directed to be citable despite being given on a permission application; closely linked to EWCA Civ 9."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/7.json",
+    "status": "done",
+    "notes": "EIA screening for Schedule 2 industrial estate; lesser information threshold at first stage.",
+    "enrichment": {
+      "short_title": "Environmental impact assessment screening for industrial estate",
+      "area_of_law": [
+        "Planning and environmental law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning (Assessment of Environmental Effects) Regulations 1988",
+          "provisions": [
+            "regulation 4",
+            "regulation 5",
+            "Schedule 2",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Council Directive 85/337/EEC",
+          "provisions": []
+        },
+        {
+          "title": "Wildlife and Countryside Act 1981",
+          "provisions": [
+            "Part I"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mansfield District Council granted outline planning permission for a 28.4 hectare industrial estate off Abbot Road.",
+        "The claimant lived opposite the site and objected, arguing an environmental impact assessment should have been required.",
+        "Consultees raised concerns about golden plovers, bats, hedgerows, and incomplete ecological surveys; the developer offered further survey work by condition and undertaking.",
+        "The planning committee decided the development was unlikely to have significant environmental effects and did not require an EIA before granting permission.",
+        "English Nature advised that measurable impact on golden plover populations was far from clear and statutory grounds for objection were not substantiated."
+      ],
+      "procedural_posture": "Judicial review of a local planning authority's screening decision that an industrial estate development did not require environmental assessment, and of the consequent grant of outline planning permission.",
+      "outcome": "Claim dismissed; EIA screening decision and planning permission upheld as lawful.",
+      "ratio": "Whether a Schedule 2 development requires environmental assessment depends on whether it would be likely to have significant effects on the environment; at the screening stage a lesser degree of information suffices than for a full environmental statement, and an authority may reasonably proceed without awaiting further surveys where existing evidence supports a conclusion that significant effects are unlikely, even if post-permission survey work is still contemplated.",
+      "legal_issues": [
+        "Whether uncertainty about ecological impacts required an EIA before granting permission",
+        "Construction of regulation 4 and the significant effects test for Schedule 2 projects",
+        "Whether further golden plover and bat surveys should have been completed pre-decision",
+        "Application of Berkeley, Tew, Milne and Hardy to screening decisions"
+      ],
+      "catchwords": [
+        "environmental impact assessment",
+        "EIA",
+        "planning permission",
+        "Schedule 2",
+        "golden plover",
+        "screening",
+        "industrial estate"
+      ],
+      "index_terms": [
+        "Town and Country Planning Regulations 1988",
+        "Circular 15/88",
+        "Mansfield",
+        "bats",
+        "English Nature",
+        "Wednesbury",
+        "Berkeley"
+      ],
+      "linked_authorities": [
+        "Berkeley v Secretary of State for the Environment",
+        "R v Rochdale Metropolitan Borough Council ex parte Tew",
+        "R v Rochdale Metropolitan Borough Council ex parte Milne",
+        "R v Cornwall County Council ex parte Hardy",
+        "R v Rochdale Metropolitan Borough Council ex parte Milne (screening)"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Approved judgment with comprehensive analysis of EIA screening law and facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/26.json",
+    "status": "done",
+    "notes": "Detailed credit insurance construction; affirmation defeats avoidance.",
+    "enrichment": {
+      "short_title": "Credit insurance limit at date of insolvency",
+      "area_of_law": [
+        "Insurance law",
+        "Commercial law",
+        "Credit and finance"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Moore Large, a cycle wholesaler, held specific-account credit insurance with Hermes covering customer Motorworld up to agreed credit limits.",
+        "Motorworld went into administrative receivership in October 2000 with about £2.2 million outstanding; the claimants recovered about £710,000 from receivers.",
+        "Endorsement 9 temporarily increased Motorworld's credit limit to £2 million from 1 October 2000, but most debt related to pre-October deliveries when the limit was £600,000.",
+        "The insurers argued Insured Loss was capped by the credit limit in force when each qualifying invoice was issued; the claimants argued the limit at insolvency governed.",
+        "Insurers also sought to avoid Endorsement 9 for non-disclosure of unseasonably high summer turnover, but were held to have affirmed the variation by their defence."
+      ],
+      "procedural_posture": "Commercial court claim on a policy of credit insurance following a customer's insolvency, involving construction of credit limit wording and avoidance for material non-disclosure.",
+      "outcome": "Judgment for the claimants on construction; insurers disentitled to avoid Endorsement 9 by affirmation; balance of claim to be agreed.",
+      "ratio": "Under this specific-account credit insurance policy, Insured Loss is the aggregate qualifying debt not exceeding the credit limit in force at the date of the customer's insolvency, not debts filtered by the limit applicable when each invoice was issued; temporary credit limit increases operate at the same aggregate level unless expressly stated otherwise.",
+      "legal_issues": [
+        "Whether credit limit applies at date of invoice, date of insolvency, or both",
+        "Construction of Endorsement 9 and pre-contract correspondence with the broker",
+        "Whether a trade custom limits retrospective effect of temporary credit increases",
+        "Material non-disclosure of turnover exceeding the credit limit before October 2000",
+        "Whether insurers affirmed the endorsement by their pleading and conduct"
+      ],
+      "catchwords": [
+        "credit insurance",
+        "credit limit",
+        "insolvency",
+        "specific account policy",
+        "non-disclosure",
+        "affirmation",
+        "insured loss"
+      ],
+      "index_terms": [
+        "Motorworld",
+        "Hermes",
+        "qualifying debt",
+        "endorsement",
+        "trade custom",
+        "Pan Atlantic",
+        "credit insurance broker"
+      ],
+      "linked_authorities": [
+        "Pan Atlantic Insurance Co Ltd v Pine Top Insurance Co Ltd",
+        "Manifest Shipping Co Ltd v Uni-Polaris Insurance Co Ltd",
+        "China National Foreign Trade Corporation v Evlogia Shipping Co SA",
+        "The Kanchenjunga"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long approved judgment with detailed policy construction and clear holdings on main issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/175.json",
+    "status": "done",
+    "notes": "Fresh expert evidence on Jamaican gang reach led to Article 2/3 success.",
+    "enrichment": {
+      "short_title": "Jamaican gang informer risk under Articles 2 and 3",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Human rights",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 65"
+          ]
+        },
+        {
+          "title": "Convention relating to the Status of Refugees 1951",
+          "provisions": [
+            "Article 1A(2)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 2",
+            "Article 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Miss A, from Tivoli Gardens in West Kingston, reported to police the gang killing of her 13-year-old daughter and was thereafter threatened as an informer.",
+        "Her son and others connected to her were subsequently killed; she moved repeatedly within Jamaica but faced hostility and sexual exploitation outside her community.",
+        "Adjudicator and Immigration Appeal Tribunal accepted much of her account but held she could safely relocate elsewhere in Jamaica.",
+        "Fresh expert evidence before the Court of Appeal described island-wide reach of don-controlled gangs and continued risk to informers.",
+        "The court admitted the new evidence in the interests of justice and found a real risk to life and degrading treatment on return."
+      ],
+      "procedural_posture": "Renewed application for permission to appeal, treated as appeal, against Immigration Appeal Tribunal dismissal of asylum and human rights appeal; extension of time granted.",
+      "outcome": "Appeal allowed on human rights grounds; removal directions quashed; Refugee Convention claim rejected.",
+      "ratio": "Removal to Jamaica would breach Articles 2 and 3 where credible expert evidence shows a real risk that a woman stigmatised as an informer in a garrison community would be tracked and harmed by gang networks anywhere on the island and, without community support, would face serious risk of degrading sexual exploitation; persecution arising from informer status without a Convention reason does not establish refugee status.",
+      "legal_issues": [
+        "Whether risk from Tivoli Gardens gang constitutes persecution for Refugee Convention reasons",
+        "Availability of an internal flight alternative elsewhere in Jamaica",
+        "Admission of fresh expert evidence on appeal in immigration cases",
+        "Article 2 and Article 3 risk from non-state actors in Jamaica"
+      ],
+      "catchwords": [
+        "Article 3",
+        "Article 2",
+        "internal flight alternative",
+        "Jamaica",
+        "gang violence",
+        "informer",
+        "asylum",
+        "fresh evidence"
+      ],
+      "index_terms": [
+        "Tivoli Gardens",
+        "garrison community",
+        "Immigration Appeal Tribunal",
+        "Ladd v Marshall",
+        "Haile",
+        "Bugdaycay",
+        "sexual exploitation",
+        "dons"
+      ],
+      "linked_authorities": [
+        "Bugdaycay v Secretary of State for the Home Department",
+        "Ladd v Marshall",
+        "Turgut v Secretary of State for the Home Department",
+        "Haile v Immigration Appeal Tribunal",
+        "Ahmed v Austria",
+        "HLR v France",
+        "R v Secretary of State for the Home Department ex parte Robinson",
+        "Ireland v United Kingdom"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Outcome and human rights reasoning are clear; fresh evidence was central and fully analysed."
+      }
+    }
+  }
+]

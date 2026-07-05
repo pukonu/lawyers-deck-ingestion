@@ -1,0 +1,609 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2400.json",
+    "status": "done",
+    "notes": "Short sentencing appeal; custody threshold analysis following Nazir is clear.",
+    "enrichment": {
+      "short_title": "R v Pike-Williams: conditional discharge for police station data breach",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Public office",
+        "Police discipline"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The appellant, a Metropolitan Police station reception officer of previous good character, pleaded guilty to misconduct in a public office.",
+        "Between December 2001 and August 2002 she accessed secure terminals to view confidential police information about associates out of idle curiosity without passing it on.",
+        "She was sentenced to two months' imprisonment and had served almost the full term before release on bail pending appeal.",
+        "The sentencing judge emphasised harm to trust in passing confidential information to the police station where she worked."
+      ],
+      "procedural_posture": "Appeal against sentence by leave of the single judge.",
+      "outcome": "The sentence of imprisonment was quashed and replaced with a conditional discharge for 12 months.",
+      "ratio": "Where a police employee breaches trust by accessing confidential data from idle curiosity without disclosure or intended harm, the custody threshold may not be crossed even though institutional harm to police confidence results.",
+      "legal_issues": [
+        "Whether two months' imprisonment was manifestly excessive",
+        "Whether the custody threshold was crossed",
+        "Distinction from cases involving intended consequences of breach of trust"
+      ],
+      "catchwords": [
+        "misconduct in public office",
+        "police officer",
+        "confidential information",
+        "conditional discharge",
+        "custody threshold",
+        "sentencing appeal"
+      ],
+      "index_terms": [
+        "Metropolitan Police",
+        "secure terminal",
+        "idle curiosity",
+        "Nazir",
+        "community punishment order"
+      ],
+      "linked_authorities": [
+        "R v Nazir [2003] EWCA Crim 901"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Brief judgment but outcome and Nazir-based reasoning are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1196.json",
+    "status": "done",
+    "notes": "Permission refusal on consent order non-disclosure; CPR 31 breach analysis is detailed.",
+    "enrichment": {
+      "short_title": "Harrison v Halliwell Landau: permission refused on consent order challenge",
+      "area_of_law": [
+        "Civil procedure",
+        "Professional negligence",
+        "Solicitors' duties",
+        "Contract law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr and Mrs Harrison sought to set aside a consent order settling fee and negligence proceedings against former solicitors Halliwell Landau.",
+        "The dispute arose from earlier Haslam Tunstall litigation where counsel's skeleton on a cross-appeal was allegedly not disclosed.",
+        "Judge Eccles held there was a duty to disclose the skeleton in principle but no breach on the facts, and that non-disclosure would not have been material.",
+        "An eight-day trial produced a 50-page judgment refusing to set aside the consent order."
+      ],
+      "procedural_posture": "Renewed application for permission to appeal from refusal to set aside a consent order for material non-disclosure.",
+      "outcome": "Permission to appeal refused; the judge's findings on disclosure duty, reasonable search and materiality were not realistically appealable.",
+      "ratio": "To set aside a consent order for material non-disclosure a claimant must prove both a breach of disclosure obligation and that the undisclosed document would materially have affected the outcome; CPR 31.8 extends standard disclosure subject to reasonable search under CPR 31.7.",
+      "legal_issues": [
+        "Whether Halliwell Landau breached a duty to disclose counsel's skeleton argument",
+        "Whether non-disclosure was material to the consent settlement",
+        "Whether a reasonable search under CPR 31.7 excused failure to list the document",
+        "Whether a cross-appeal notice was required under the RSC in the Haslam appeal"
+      ],
+      "catchwords": [
+        "consent order",
+        "material non-disclosure",
+        "solicitor and client",
+        "CPR Part 31",
+        "reasonable search",
+        "permission to appeal"
+      ],
+      "index_terms": [
+        "Haslam Tunstall",
+        "skeleton argument",
+        "Shade v Compton Partnership",
+        "Ladd v Marshall",
+        "Mr Dagnall"
+      ],
+      "linked_authorities": [
+        "Shade v Compton Partnership (22 July 1999, unreported)",
+        "Ladd v Marshall [1954] 1 WLR 1489"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Permission reasoning on each disclosure ground is thorough though final merits were not retried."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/2021.json",
+    "status": "done",
+    "notes": "Major TCC liability trial on water main burst; causation findings and s42 analysis are comprehensive.",
+    "enrichment": {
+      "short_title": "Thames Water v LUL: Jubilee Line works caused cast iron main burst",
+      "area_of_law": [
+        "Construction law",
+        "Tort law",
+        "Nuisance",
+        "Infrastructure liability",
+        "Engineering disputes"
+      ],
+      "statutes_considered": [
+        {
+          "title": "London Transport Act 1963",
+          "provisions": [
+            "section 42"
+          ]
+        },
+        {
+          "title": "London Underground Act 1992",
+          "provisions": []
+        },
+        {
+          "title": "London Underground (Jubilee) Act 1993",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A 36-inch cast iron water main laid in St Thomas Street, Southwark in about 1925 burst on 24 October 1999 causing damage costing many millions.",
+        "London Underground had carried out Jubilee Line extension works at London Bridge Station between 1995 and 1997, including tunnelling, shaft sinking and compensation grouting.",
+        "Thames Water sued for statutory breach under section 42 of the 1963 Act and in negligence and nuisance.",
+        "Expert evidence showed differential settlement and ground movement from LUL works triggered failure of a pipe that would otherwise have continued in use for many years."
+      ],
+      "procedural_posture": "Technology and Construction Court trial of liability and causation following a burst water main.",
+      "outcome": "Judgment for Thames Water on liability and causation; LUL's works were the prime effective cause of differential settlement leading to the burst.",
+      "ratio": "Ground movement from deep tunnelling and associated works that causes differential settlement and shearing at a pipe joint can be the effective cause of a cast iron main failure even where historic locked-in strains exist; localised dynamic loading was excluded on the evidence.",
+      "legal_issues": [
+        "Whether LUL was strictly liable under section 42(10) of the London Transport Act 1963",
+        "Whether LUL was liable in negligence or nuisance for removing ground support",
+        "Whether LUL works were the effective cause of the burst or merely a minimal triggering event",
+        "Whether failure was caused by abnormal localised surface loading"
+      ],
+      "catchwords": [
+        "water main burst",
+        "Jubilee Line extension",
+        "differential settlement",
+        "cast iron pipe",
+        "strict liability",
+        "causation"
+      ],
+      "index_terms": [
+        "St Thomas Street",
+        "London Bridge Station",
+        "compensation grouting",
+        "locked-in strain",
+        "Costain Taylor Woodrow",
+        "Contract 104"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Final liability disposition and detailed causation findings are clearly recorded."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1180.json",
+    "status": "done",
+    "notes": "Split permission on whistleblowing detriment; EAT reason-for-dismissal analysis is detailed.",
+    "enrichment": {
+      "short_title": "Pinnington v Swansea: whistleblowing dismissal and detriment permission split",
+      "area_of_law": [
+        "Employment law",
+        "Public interest disclosure",
+        "Unfair dismissal",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "section 47B",
+            "section 98",
+            "section 103A"
+          ]
+        },
+        {
+          "title": "Public Interest Disclosure Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mrs Pinnington, a school nurse at a special school, was suspended and later dismissed after raising concerns about a non-resuscitation policy and related care plans.",
+        "She claimed automatic unfair dismissal under section 103A and detriment under section 47B for protected disclosures.",
+        "The employment tribunal found the principal reason for dismissal was capability due to long-term illness, not whistleblowing, and that suspension was justified by confidentiality concerns.",
+        "The EAT upheld the dismissal decision but remitted the short-period detriment claim for consideration of good faith in the protected disclosure."
+      ],
+      "procedural_posture": "Cross-applications for permission to appeal from an Employment Appeal Tribunal decision on unfair dismissal and whistleblowing detriment.",
+      "outcome": "Mrs Pinnington's application for permission to appeal was refused; the respondents were granted permission to appeal on the remitted detriment point only.",
+      "ratio": "The reason for dismissal under section 103A is a question of fact about the employer's mental processes, not unconscious motivation as in discrimination law; an employer's reasonable investigation of allegations suffices even if the allegations are not ultimately proved true.",
+      "legal_issues": [
+        "Whether the tribunal applied the correct test for principal reason for dismissal",
+        "Whether the employer's past conduct causing ill health made dismissal unfair",
+        "Whether LEA investigations into non-resuscitation concerns were reasonable",
+        "Whether the EAT erred in remitting the section 47B detriment claim when no detriment was found"
+      ],
+      "catchwords": [
+        "whistleblowing",
+        "protected disclosure",
+        "unfair dismissal",
+        "capability",
+        "school nurse",
+        "detriment"
+      ],
+      "index_terms": [
+        "non-resuscitation policy",
+        "Chief Constable v Khan",
+        "Edwards v Hanson School",
+        "Betty v London Fire Authority",
+        "Abernethy v Mott Hay and Anderson"
+      ],
+      "linked_authorities": [
+        "Chief Constable of West Yorkshire Police v Khan [2001] ICR 1065",
+        "Edwards v Governors of Hanson School [2001] IRLR 733",
+        "London Fire and Civil Defence Authority v Betty [1994] IRLR 384"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Permission outcomes and core employment-law reasoning are clearly expressed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/2029.json",
+    "status": "done",
+    "notes": "Costs judgment after Chancery fraud trial; fabrication and settlement conduct heavily weighed.",
+    "enrichment": {
+      "short_title": "Gil v Baygreen: costs after undervalue property transfer and fabricated evidence",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Property fraud",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 42"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Gil challenged transactions that transferred 85 Burdett Row, Bow at an undervalue to defeat her judgment against Refined Properties Ltd.",
+        "Mortgagee defendants Messrs Lupson defended the claim and lost, though Mr Ippocratous was not ordered to pay substantive sums.",
+        "Mrs Gil fabricated a letter purportedly sent to a US ministry, and had previously been held to have fabricated evidence in related QB proceedings.",
+        "Costs since August 2003 exceeded about £300,000 against a judgment of roughly £45,000."
+      ],
+      "procedural_posture": "Reserved costs judgment following substantive Chancery decision restoring the property to Refined.",
+      "outcome": "No order for costs against Mr Ippocratous save valuation costs; the Lupsons ordered to pay Mrs Gil's assessed costs less £20,000 to reflect fabrication and failure to engage constructively in settlement.",
+      "ratio": "Where a successful claimant has fabricated evidence and unreasonably refused timely settlement discussions before costs became grossly disproportionate to the sum at stake, the court may still award costs but deduct a substantial fixed sum reflecting conduct under CPR rule 44.3.",
+      "legal_issues": [
+        "Whether costs should follow the event against mortgagee defendants",
+        "Impact of Mrs Gil's fabricated evidence on costs",
+        "Whether failure to respond to settlement overtures justified a reduced costs award",
+        "Appropriate use of a fixed deduction versus a percentage costs order"
+      ],
+      "catchwords": [
+        "costs discretion",
+        "fabricated evidence",
+        "undervalue transfer",
+        "settlement",
+        "mortgagee",
+        "proportionality"
+      ],
+      "index_terms": [
+        "Burdett Row",
+        "Refined Properties",
+        "Lupson",
+        "Halsey v Milton Keynes NHS Trust",
+        "Lownds v Home Office",
+        "without prejudice"
+      ],
+      "linked_authorities": [
+        "Halsey v Milton Keynes General NHS Trust [2004] EWCA Civ 576",
+        "Lownds v The Home Office [2002] EWCA Civ 365",
+        "Reed Executive plc v Reed Business Information Ltd [2004] EWCA Civ 887"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Costs orders and reasoning on conduct factors are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1188.json",
+    "status": "done",
+    "notes": "Family contact/residence permission refusal; Johnson J discretion strongly affirmed.",
+    "enrichment": {
+      "short_title": "Re J (Children): permission refused on residence and contact order",
+      "area_of_law": [
+        "Family law",
+        "Child arrangements",
+        "Children Act 1989"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 7"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr and Mrs J separated after a brief marriage marked by intense mutual hostility affecting contact handovers for young child C and stepson G.",
+        "Johnson J refused Mr J's residence application for C and made an unusual four-weekly staying contact cycle with handovers at a community centre.",
+        "A psychiatrist reported Mrs J had mild personality disorder traits but the judge found she remained committed to the children despite pressure from Mr J's repeated complaints to social services.",
+        "Mr J sought wider contact, penal notices on the contact order and contact with G, which the judge had not ordered."
+      ],
+      "procedural_posture": "Oral application for permission to appeal residence, contact and injunction orders made after a section 7 report.",
+      "outcome": "Permission to appeal refused; the judge's discretionary welfare decisions on residence and contact were within permissible bounds.",
+      "ratio": "Appellate interference with residence and contact orders is exceptional where an experienced family judge has exercised welfare discretion on hostile facts; contact orders should adapt to a child's changing needs and parental hostility itself causes serious harm.",
+      "legal_issues": [
+        "Whether residence with the mother was wrongly refused",
+        "Whether the contact regime was too restrictive or discriminatory",
+        "Whether contact with stepson G should have been ordered",
+        "Whether penal notices on injunctions but not contact were improper"
+      ],
+      "catchwords": [
+        "residence order",
+        "contact order",
+        "parental hostility",
+        "section 7 report",
+        "welfare principle",
+        "permission to appeal"
+      ],
+      "index_terms": [
+        "Johnson J",
+        "Banham Community Centre",
+        "Dr Crook",
+        "Mrs Barker",
+        "staying contact",
+        "handover"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Permission refusal and welfare reasoning are comprehensively explained."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2019.json",
+    "status": "done",
+    "notes": "First s28 Extradition Act 2003 appeal; section 65 framework-offence construction is landmark.",
+    "enrichment": {
+      "short_title": "King's Prosecutor Brussels v Armas: EAW framework offence and s65 construction",
+      "area_of_law": [
+        "Extradition",
+        "European Union law",
+        "Criminal law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act 2003",
+          "provisions": [
+            "section 28",
+            "section 31",
+            "section 64",
+            "section 65"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Belgium sought extradition of Mr Cando Armas, convicted in absentia to five years for organised illegal immigration and passport forgery partly directed from London.",
+        "The district judge discharged him because conduct partly occurred in the UK, so section 65(2) was not satisfied, and she treated section 65(3) as inapplicable to framework offences.",
+        "This was the first High Court appeal under section 28 against discharge at an extradition hearing under the 2003 Act.",
+        "The court extended the relevant hearing period so the appeal could be heard."
+      ],
+      "procedural_posture": "High Court appeal under section 28 against discharge at a Part 1 European arrest warrant extradition hearing.",
+      "outcome": "The district judge's construction of section 65(3) was wrong; the case was remitted to decide whether the conduct occurred in Belgium and whether subsections (2) and (3) applied.",
+      "ratio": "Sections 65(2) to (6) are not mutually exclusive and apply to framework offences; 'the conduct' means such conduct as constitutes the extradition offence in the category 1 territory, not necessarily every act of co-conspirators elsewhere.",
+      "legal_issues": [
+        "Whether section 65(3) applies to European framework list offences",
+        "Meaning of 'the conduct' where part of the offending occurred in the United Kingdom",
+        "Whether absence of tick boxes in the English EAW translation invalidated section 65(2)(b)",
+        "Procedural compliance with sections 28 and 31 time limits"
+      ],
+      "catchwords": [
+        "European arrest warrant",
+        "framework list offence",
+        "section 65",
+        "double criminality",
+        "extradition appeal",
+        "transfrontier crime"
+      ],
+      "index_terms": [
+        "Cando Armas",
+        "Framework Decision 2002/584",
+        "human trafficking",
+        "passport forgery",
+        "Article 4.7",
+        "Re Al-Fawwaz"
+      ],
+      "linked_authorities": [
+        "Re Al-Fawwaz [2001] UKHL 69",
+        "R v Governor of Ashford Remand Centre, Ex p Postlethwaite [1988] AC 924"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Statutory construction and remittal order are clearly reasoned in a leading first-instance appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1179.json",
+    "status": "done",
+    "notes": "Partial permission on Malik stigma and repudiatory acceptance amendments; case management balanced.",
+    "enrichment": {
+      "short_title": "Middleweek v Collins Stewart: partial permission on stigma and repudiation amendments",
+      "area_of_law": [
+        "Employment law",
+        "Contract law",
+        "Civil procedure",
+        "Financial services"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Middleweek claimed wrongful dismissal from stockbroker Collins Stewart, which defended on gross misconduct/blackmail grounds.",
+        "Andrew Smith J allowed amendments adding stigma damages, a repudiatory acceptance point and an allegation that a solicitor threatened blackmail without Middleweek's authority.",
+        "The amendments delayed a three-week trial from October 2004 to June 2005 and increased the estimate to five weeks.",
+        "Collins Stewart renewed an application for permission to appeal the amendment order."
+      ],
+      "procedural_posture": "Renewed application for permission to appeal against permission to amend pleadings in a wrongful dismissal claim.",
+      "outcome": "Permission granted to appeal on the constructive dismissal/repudiatory acceptance and stigma damages amendments; refused on the solicitor lack-of-authority amendment.",
+      "ratio": "While amendment decisions are normally for the trial judge, permission to appeal may be granted where late stigma and repudiatory-acceptance pleas could substantially lengthen trial and raise arguable points including without-prejudice communication and the scope of Malik stigma damages.",
+      "legal_issues": [
+        "Whether acceptance of repudiation by a without-prejudice letter was hopeless",
+        "Whether stigma damages were adequately pleaded beyond Malik/BCCI-type facts",
+        "Whether blackmail without client authority was too late and discrete to permit",
+        "Whether loss of trial date justified appellate intervention"
+      ],
+      "catchwords": [
+        "wrongful dismissal",
+        "stigma damages",
+        "repudiatory breach",
+        "amendment",
+        "blackmail",
+        "Malik v BCCI"
+      ],
+      "index_terms": [
+        "Collins Stewart",
+        "Financial Services Authority",
+        "without prejudice",
+        "Norwest Holst v Harrison",
+        "whistleblower stigma"
+      ],
+      "linked_authorities": [
+        "Malik v Bank of Credit and Commerce International SA [1998] AC 20",
+        "Norwest Holst Group Administration Ltd v Harrison [1985] ICR 668"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Split permission outcome and reasoning on each amendment point are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1187.json",
+    "status": "done",
+    "notes": "Adoption freeing permission refused after placement; events overtook appeal merits.",
+    "enrichment": {
+      "short_title": "Re G (Children): freeing orders upheld after adoptive placement",
+      "area_of_law": [
+        "Family law",
+        "Adoption",
+        "Children law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Adoption Act 1976",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Two young sisters in care with an adoption care plan were freed for adoption by Judge Wade after dispensing with both parents' agreement as unreasonably withheld.",
+        "They were part of a seven-child family where the mother could not provide good enough care; the guardian had supported adoption in care proceedings.",
+        "By the permission hearing prospective adopters had been approved, contact had occurred and the children were already placed.",
+        "The guardian argued freeing was premature while beneficial parental and sibling contact continued."
+      ],
+      "procedural_posture": "Applications for permission to appeal and extension of time against freeing orders and refusal of parental agreement.",
+      "outcome": "Both applications refused; subsequent placement and the judge's welfare reasoning made further litigation contrary to the children's interests.",
+      "ratio": "Freeing for adoption may properly follow a care plan for adoption even where post-adoption contact remains contentious; strict time limits apply in active adoption cases and merits may be overtaken by placement.",
+      "legal_issues": [
+        "Whether freeing orders were premature while contact issues remained live",
+        "Whether the judge adequately addressed inter-sibling contact and guardian opposition",
+        "Whether other siblings required separate representation in freeing proceedings",
+        "Whether late permission should be granted after adoptive placement"
+      ],
+      "catchwords": [
+        "freeing order",
+        "adoption",
+        "parental agreement",
+        "contact",
+        "care plan",
+        "extension of time"
+      ],
+      "index_terms": [
+        "Swindon Borough Council",
+        "Judge Wade",
+        "Viki Simpson",
+        "letter box contact",
+        "half-siblings",
+        "Schedule 2 report"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Permission refusal and welfare reasoning are detailed though adoption law has since been reformed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/2326.json",
+    "status": "done",
+    "notes": "TCC jurisdiction ruling on stale JCT arbitration notices; Wilcox J's declarations on both 1992 and 2000 notices are detailed.",
+    "enrichment": {
+      "short_title": "Indescon v Ogden: validity of delayed JCT arbitration notices",
+      "area_of_law": [
+        "Construction law",
+        "Arbitration",
+        "Contract law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": []
+        },
+        {
+          "title": "Arbitration Act 1950",
+          "provisions": []
+        },
+        {
+          "title": "Arbitration Act 1979",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Indescon, a contractor in administration, sought declarations on the jurisdiction of arbitrator Mr Bingham over disputes arising from a £17m+ JCT contract for Block 1 City Reach completed in 1990.",
+        "A first arbitration notice was served in April 1992 after failure to agree the final account; a second notice followed in May 2000 without prejudice to the first.",
+        "Over about ten years the parties negotiated, proposed arbitrators and revoked Mr Scott's appointment, but no tribunal was constituted until Mr Bingham was appointed in 2002 under the 2000 notice.",
+        "Sir Robert Ogden resisted on grounds of lapse, abandonment, repudiatory delay and invalid appointment."
+      ],
+      "procedural_posture": "High Court (TCC) application for declarations on the validity of two arbitration notices and the appointment of Mr Anthony Bingham.",
+      "outcome": "Declarations made that the 1992 notice remained effective and could be pursued under the 1950/1979 Acts, and that the 2000 notice and Mr Bingham's appointment under it were valid under the 1996 Act; costs reserved to the arbitrator and court.",
+      "ratio": "Service of a JCT arbitration notice commences the arbitral process and does not lapse merely through delay where the contract is under seal with a 12-year limitation period; a later notice served without prejudice does not abandon an earlier one, and separate arbitrations may proceed under different statutory regimes.",
+      "legal_issues": [
+        "Whether the right to appoint under the 1992 notice lapsed by effluxion of time or implied obligation to act promptly",
+        "Whether the 2000 notice or pursuit of Mr Scott's appointment abandoned the 1992 notice",
+        "Whether delay amounted to repudiatory breach of the arbitration agreement",
+        "Whether Mr Bingham was validly appointed and to which notice his appointment related"
+      ],
+      "catchwords": [
+        "arbitration notice",
+        "JCT contract",
+        "delay",
+        "abandonment",
+        "jurisdiction",
+        "Chartered Institute of Arbitrators"
+      ],
+      "index_terms": [
+        "City Reach Isle of Dogs",
+        "final account",
+        "Bremer Vulkan",
+        "without prejudice negotiations",
+        "1992 notice",
+        "2000 notice"
+      ],
+      "linked_authorities": [
+        "Bremer Vulkan Schiffbau und Maschinenfabrik v South India Shipping Corporation Ltd [1981] AC 909",
+        "Leonida D [1985] 1 WLR 925",
+        "The Hannah Blumenthal [1983] 1 All ER 34"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Final declaratory order and reasoning on each jurisdictional ground are explicit."
+      }
+    }
+  }
+]

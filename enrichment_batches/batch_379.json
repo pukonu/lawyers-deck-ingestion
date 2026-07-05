@@ -1,0 +1,592 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/3164.json",
+    "status": "done",
+    "notes": "Case stated on breath-test refusal and PACE solicitor access; Thomas LJ applies Kirkup/Kennedy/Myles line to dismiss appeal.",
+    "enrichment": {
+      "short_title": "Causey v DPP: admissibility of breath-test refusal after delayed solicitor contact",
+      "area_of_law": [
+        "Criminal law",
+        "Road traffic",
+        "Police powers",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 7(6)"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 58",
+            "section 78"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ian Causey failed a roadside breath test after driving home shortly after midnight on 31 December 2002 and was taken to Wavertree Police Station.",
+        "Having initially declined a solicitor, he changed his mind at 1.11 am but was told the second breath test would not be delayed; he refused to provide specimens and was convicted under section 7(6).",
+        "The custody sergeant did not telephone solicitors until about 1.21 am, about ten minutes after the request, and the duty solicitor was not contacted until later.",
+        "On case stated appeal Causey argued the refusal evidence should have been excluded for breach of PACE and the Code before the breath procedure."
+      ],
+      "procedural_posture": "Appeal by way of case stated from the Crown Court affirming magistrates' conviction for failing to provide a breath specimen.",
+      "outcome": "Appeal dismissed; the case stated question was answered in the affirmative, the refusal evidence was rightly admitted and the conviction upheld.",
+      "ratio": "There is no general duty to delay taking a breath specimen until legal advice is obtained; a short delay in contacting a solicitor may breach section 58 but need not require exclusion under section 78 where specimens must be taken promptly and the breach is neither significant nor substantial.",
+      "legal_issues": [
+        "Whether police must defer the breath-test procedure until a detainee consults a solicitor",
+        "Whether delay in contacting solicitors rendered the refusal evidence inadmissible",
+        "Application of section 78 PACE to section 58 and Code breaches in drink-drive cases",
+        "Whether the lost opportunity to contact a solicitor was causative of the refusal"
+      ],
+      "catchwords": [
+        "breath specimen",
+        "refusal to provide",
+        "PACE section 58",
+        "section 78 exclusion",
+        "solicitor access",
+        "drink driving"
+      ],
+      "index_terms": [
+        "Kirkup v Chief Constable of Sussex",
+        "Kennedy v DPP",
+        "Myles v DPP",
+        "Whitley v DPP",
+        "Wavertree Police Station",
+        "case stated",
+        "custody sergeant"
+      ],
+      "linked_authorities": [
+        "Kirkup v Chief Constable of Sussex [2004] EWHC 1124 (Admin)",
+        "Kennedy v DPP [2004] EWHC 1341 (Admin)",
+        "Myles v DPP [2004] EWHC 311 (Admin)",
+        "Whitley v DPP [2002] EWHC 848 (Admin)"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Thomas LJ's case stated answer and application of established drink-drive PACE principles are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/3048.json",
+    "status": "done",
+    "notes": "AG Ref on youth robbery/handling sentences; unduly lenient finding but court declines to increase on progress reports.",
+    "enrichment": {
+      "short_title": "AG Ref 21 and 22 of 2004: unduly lenient community sentences for young robbers",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Youth justice"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Kyrron Jackson (17) and Ashraf Ali (19) pleaded guilty in January 2004 to robberies and handling stolen mobile telephones, credit cards and SIM cards committed in late 2002.",
+        "Jackson received concurrent 12-month supervision orders and Ali a two-year community rehabilitation order with intensive supervision, curfew and surveillance.",
+        "Co-accused received custodial sentences; both appellants had already served periods in custody before Crown Court sentencing.",
+        "By 2004 both had made significant rehabilitative progress, though Jackson had committed further offences after the reference was initiated."
+      ],
+      "procedural_posture": "Attorney General's reference under section 36 of the 1988 Act alleging unduly lenient sentences imposed at Harrow Crown Court.",
+      "outcome": "Leave granted; sentences were probably unduly lenient but, exercising discretion, the Court made no order varying either sentence.",
+      "ratio": "Even where community sentences for serious robbery and handling offences are probably unduly lenient, the Court of Appeal may decline to increase them where substantial time has passed, the offenders are young and current reports show outstanding progress that a custodial term would undermine.",
+      "legal_issues": [
+        "Whether supervision and community rehabilitation orders were unduly lenient for robbery and handling",
+        "Effect of prior custody served before sentence on the appropriate disposal",
+        "Whether the Court should increase sentences two years after the offences",
+        "Discretionary refusal to vary sentence despite unduly lenient finding"
+      ],
+      "catchwords": [
+        "unduly lenient",
+        "Attorney General's reference",
+        "supervision order",
+        "community rehabilitation",
+        "robbery",
+        "handling stolen goods"
+      ],
+      "index_terms": [
+        "Kyrron Jackson",
+        "Ashraf Ali",
+        "mobile telephone robbery",
+        "intensive supervision",
+        "youth offender",
+        "section 36"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Reference outcome and discretionary reasoning on both offenders are clearly recorded."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1494.json",
+    "status": "done",
+    "notes": "SFO warfarin document disclosure JR; appeal dismissed on Article 8 lawfulness though Chadwick LJ disagrees on fairness.",
+    "enrichment": {
+      "short_title": "Kent Pharmaceuticals v SFO: disclosure of seized documents to Department of Health",
+      "area_of_law": [
+        "Administrative law",
+        "Judicial review",
+        "Criminal procedure",
+        "Human rights",
+        "Pharmaceutical regulation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1987",
+          "provisions": [
+            "section 3(5)(a)"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Kent Pharmaceuticals (KP) was under Serious Fraud Office investigation relating to warfarin products and the SFO seized documents from its premises.",
+        "The SFO wrote on 13 January 2003 that it expected to disclose warfarin-related documents to the Department of Health by the end of the week and disclosed copies the next day.",
+        "KP sought judicial review of the disclosure, arguing the SFO acted unfairly and beyond its statutory power and that Article 8 was engaged.",
+        "The Divisional Court refused relief on most grounds but found the SFO had acted unfairly by disclosing before KP could respond to the letter."
+      ],
+      "procedural_posture": "Appeal from the Divisional Court refusing judicial review relief against SFO disclosure to the Secretary of State for Health.",
+      "outcome": "Appeal dismissed; disclosure was in accordance with law under section 3(5)(a) and Article 8.2, and no order as to costs; permission to appeal to the House of Lords refused.",
+      "ratio": "Section 3(5)(a) of the 1987 Act provides a lawful gateway for SFO disclosure to government departments for allied regulatory purposes; procedural unfairness in giving only one day's notice does not vitiate lawfulness where no prejudice is shown and affected persons retain judicial review and other remedies.",
+      "legal_issues": [
+        "Construction of the SFO's power to disclose seized material under section 3(5)(a)",
+        "Whether disclosure to the Department of Health was in accordance with law for Article 8 purposes",
+        "Whether the SFO acted unfairly by disclosing on 14 January 2003",
+        "Availability of judicial review and proportionality challenges after disclosure"
+      ],
+      "catchwords": [
+        "Serious Fraud Office",
+        "document disclosure",
+        "judicial review",
+        "Article 8",
+        "warfarin",
+        "Department of Health"
+      ],
+      "index_terms": [
+        "Kent Pharmaceuticals",
+        "section 3(5)(a)",
+        "regulatory investigation",
+        "representations",
+        "Divisional Court",
+        "Pharmaceutical regulation"
+      ],
+      "linked_authorities": [
+        "R (Morgan Grenfell & Co Ltd) v Special Commissioner of Income Tax [2002] EWCA Civ 552"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Appellate disposition and Kennedy LJ's Article 8 analysis are clear though Chadwick LJ diverged on fairness."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1508.json",
+    "status": "done",
+    "notes": "Long landfill planning JR appeal; Court of Appeal restores permission quashed by Sullivan J on BPEO/Landfill Directive ground.",
+    "enrichment": {
+      "short_title": "Derbyshire Waste v Blewett: landfill BPEO and Article 8(b) planning challenge",
+      "area_of_law": [
+        "Planning law",
+        "Environmental law",
+        "European Union law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Derbyshire County Council granted planning permission in December 2002 for Derbyshire Waste to use the former Glapwell Colliery site for landfill and land reclamation.",
+        "Mr Blewett, a local resident, brought judicial review and Sullivan J quashed the permission on one of three grounds relating to Best Practicable Environmental Option (BPEO) under Article 8(b) of the Landfill Directive.",
+        "Derbyshire Waste appealed, contending a waste planning authority is not obliged to refuse landfill unless it is the BPEO and that Sullivan J erred in treating Article 8(b) as a mandatory veto.",
+        "The Secretary of State supported the quashing; the dispute turned on integration of EU landfill requirements with domestic waste strategy and planning policy."
+      ],
+      "procedural_posture": "Appeal from Sullivan J's judgment quashing planning permission for a landfill scheme at Sutton Scarsdale, near Bolsover.",
+      "outcome": "Appeal dismissed; planning permission restored and the appellant ordered to pay the respondent's costs, with detailed assessment of Legal Service Commission funding.",
+      "ratio": "Article 8(b) of the Landfill Directive and BPEO policy inform but do not require automatic refusal of landfill planning permission where an authority has properly balanced waste hierarchy considerations; Sullivan J was wrong to quash on the BPEO ground alone.",
+      "legal_issues": [
+        "Whether Article 8(b) of the Landfill Directive mandates refusal unless landfill is the BPEO",
+        "Role of Waste Strategy 2000 and BPEO in planning decisions for landfill",
+        "Whether the county council lawfully granted permission for the Glapwell Colliery scheme",
+        "Correct approach to waste hierarchy in domestic planning law"
+      ],
+      "catchwords": [
+        "landfill",
+        "planning permission",
+        "BPEO",
+        "Landfill Directive",
+        "judicial review",
+        "waste hierarchy"
+      ],
+      "index_terms": [
+        "Glapwell Colliery",
+        "Derbyshire Waste",
+        "Waste Strategy 2000",
+        "Article 8(b)",
+        "Sutton Scarsdale",
+        "Sullivan J"
+      ],
+      "linked_authorities": [
+        "R v Secretary of State for the Environment (1990) 61 P & CR 343"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Appellate restoration of permission and BPEO reasoning are comprehensively stated though the judgment is very long."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2818.json",
+    "status": "done",
+    "notes": "Burglary fingerprint appeal; fresh evidence on lift provenance refused and convictions held safe.",
+    "enrichment": {
+      "short_title": "R v McNamara: fresh evidence on fingerprint lifts in burglary trial",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 23(2)(d)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Alan McNamara was convicted at Manchester Crown Court of burglary and theft of a motor vehicle after his fingerprint was found at the victim Mrs Shears' home.",
+        "At trial he conceded the print was his but alleged planting; on appeal he sought to adduce fresh evidence that fingerprint lifts were wrongly recorded and came from innocent contact with ceramic items.",
+        "Post-trial experiments and examination of lifts, documentation and Mrs Shears' vases were relied on to challenge the prosecution expert's account.",
+        "The defence had available at trial the lifts, associated documentation and opportunity to investigate contamination after prosecution expert evidence."
+      ],
+      "procedural_posture": "Appeal against conviction with application to admit fresh evidence under section 23(2)(d) of the 1968 Act.",
+      "outcome": "Fresh evidence refused and appeal dismissed; the new material could not reasonably have affected the jury's verdict.",
+      "ratio": "Evidence available before or during trial, or investigable in the time available after prosecution experts gave evidence, is not fresh for section 23 purposes; where the appellant chose a different defence at trial, later fingerprint provenance arguments will not render convictions unsafe.",
+      "legal_issues": [
+        "Whether post-trial fingerprint lift analysis constituted fresh evidence",
+        "Whether there was a reasonable explanation for failure to adduce the evidence at trial",
+        "Whether the jury verdict was unsafe given alleged misrecording of lifts",
+        "Admissibility of innocent-handling explanations for prints at a burglary scene"
+      ],
+      "catchwords": [
+        "fresh evidence",
+        "fingerprint",
+        "burglary",
+        "unsafe conviction",
+        "section 23",
+        "expert evidence"
+      ],
+      "index_terms": [
+        "Mrs Shears",
+        "Greenshank Close",
+        "Terence Birchall",
+        "lift provenance",
+        "innocent contact",
+        "Minshull Street Crown Court"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Refusal of fresh evidence and safety reasoning are clearly expressed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/3047.json",
+    "status": "done",
+    "notes": "Passport false-instrument sentence appeal; 16 months for two passports held not manifestly excessive.",
+    "enrichment": {
+      "short_title": "R v Kolawole: sentence appeal for possessing false passports",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Immigration and identity documents"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Forgery and Counterfeiting Act 1981",
+          "provisions": [
+            "section 3",
+            "section 5",
+            "section 6"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Kolawole pleaded guilty at Tower Bridge Magistrates' Court and was committed to the Crown Court for possessing false instruments with intent they be used, relating to a forged Nigerian passport and a British passport.",
+        "He said he paid £100 in Nigeria for the Nigerian passport for photographic ID and claimed the British passport belonged to a deceased elder brother without proof.",
+        "The Crown Court imposed consecutive custodial sentences totalling 16 months, emphasising the seriousness and increasing prevalence of passport offences.",
+        "He had no previous convictions and a pre-sentence report assessed re-offending risk as low."
+      ],
+      "procedural_posture": "Appeal against sentence imposed at the Crown Court following guilty pleas to two passport-related false instrument offences.",
+      "outcome": "Appeal dismissed; 16 months' imprisonment for two passports could not be said to be manifestly excessive.",
+      "ratio": "Possession of false passports with intent to use them is serious offending warranting custodial sentences; consecutive sentences for two instruments are not manifestly excessive where passport fraud is prevalent, even for a first offender with early pleas.",
+      "legal_issues": [
+        "Appropriate custodial length for possessing false passports with intent to use",
+        "Whether consecutive sentences for two false instruments were manifestly excessive",
+        "Application of authorities on section 5(1) Forgery and Counterfeiting Act sentences",
+        "Weight to be given to early guilty pleas and low re-offending risk"
+      ],
+      "catchwords": [
+        "false passport",
+        "Forgery and Counterfeiting Act",
+        "custodial sentence",
+        "manifestly excessive",
+        "identity documents",
+        "consecutive sentences"
+      ],
+      "index_terms": [
+        "Daljit Singh",
+        "Cheema",
+        "Siliavski",
+        "Nigerian passport",
+        "Tower Bridge Magistrates",
+        "section 5(1)"
+      ],
+      "linked_authorities": [
+        "R v Daljit Singh [2003] EWCA Crim 2898"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Sentence facts and dismissal on manifest excessiveness are straightforward."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1637.json",
+    "status": "done",
+    "notes": "Highway tripping claim; liability appeal allowed where judge failed to apply uncontradicted accident evidence.",
+    "enrichment": {
+      "short_title": "Maguire v Lancashire CC: liability for footpath tripping accident",
+      "area_of_law": [
+        "Personal injury",
+        "Highways law",
+        "Negligence",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Maguire tripped on a raised manhole cover on a footpath in Stanley Park, Blackpool, injuring his ankle and later developing reflex sympathetic dystrophy (RSD).",
+        "He sued Lancashire County Council for highway disrepair; the trial judge found for the council, doubting his account because he continued working and because of contradictions in medical evidence.",
+        "On appeal the court held the judge wrongly treated continuing work as inconsistent with injury and failed properly to assess uncontradicted evidence of where the foot slipped.",
+        "Mr Maguire had marked the slip point on photographs and his account of the accident location was not contradicted."
+      ],
+      "procedural_posture": "Appeal against a county court judgment dismissing the claimant's personal injury claim for a tripping accident on a public footpath.",
+      "outcome": "Appeal allowed on liability with costs; judgment for the claimant on liability and the case remitted to the County Court on quantum.",
+      "ratio": "A trial judge must apply uncontradicted lay evidence as to how and where an accident occurred; scepticism based on the claimant continuing employment or on expert disagreement about RSD severity does not justify rejecting clear evidence of the mechanism and location of the trip.",
+      "legal_issues": [
+        "Whether the footpath defect constituted actionable highway disrepair",
+        "Whether the judge erred in rejecting uncontradicted evidence of where the claimant slipped",
+        "Effect of the claimant continuing to work on credibility and injury severity",
+        "Whether RSD causation disputes justified dismissal on liability"
+      ],
+      "catchwords": [
+        "tripping accident",
+        "highway disrepair",
+        "footpath",
+        "manhole cover",
+        "RSD",
+        "liability appeal"
+      ],
+      "index_terms": [
+        "Stanley Park Blackpool",
+        "Lancashire County Council",
+        "reflex sympathetic dystrophy",
+        "surveyor's report",
+        "quantum remittal",
+        "uncontradicted evidence"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Liability-only disposition and remittal on quantum are clearly ordered."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/2642.json",
+    "status": "done",
+    "notes": "Post-judgment TCC ruling on contribution interest at 6% and standard Part 20 costs for BWP.",
+    "enrichment": {
+      "short_title": "Warwicker v Hok: interest and costs after contribution judgment",
+      "area_of_law": [
+        "Construction law",
+        "Civil procedure",
+        "Damages",
+        "Costs"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Brian Warwicker Partnership (BWP) had already obtained a contribution judgment against Hok International in Part 20 proceedings arising from a construction dispute with Burford.",
+        "BWP claimed interest at 8% on the contribution; Hok argued 6% closer to base rate and the recorder awarded 6% for want of commercial borrowing evidence.",
+        "Hok sought a reduced costs order arguing BWP's Part 20 success was narrower than its pleaded case and that settlement offers had been more favourable than the outcome.",
+        "Hok also contended BWP should have admitted broader breach of duty earlier, saving trial time on M&E and reasonableness issues."
+      ],
+      "procedural_posture": "Technology and Construction Court decision on outstanding interest and costs following an earlier contribution judgment in Part 20 proceedings.",
+      "outcome": "Interest fixed at 6%; Hok ordered to pay BWP's Part 20 costs on the standard basis to be assessed if not agreed.",
+      "ratio": "Without evidence of actual borrowing rates, contribution interest should not substantially exceed base rate; a successful Part 20 claimant obtains costs of the event even where pleaded fault was wider than findings, unless specific issues wasted costs are clearly identifiable and separable.",
+      "legal_issues": [
+        "Appropriate rate of interest on a contribution award",
+        "Whether HOK's without-prejudice offers justified a special costs order",
+        "Whether BWP's partial success on breach and M&E issues warranted reduced costs",
+        "Application of CPR costs principles to Part 20 contribution claims"
+      ],
+      "catchwords": [
+        "contribution claim",
+        "Part 20",
+        "rate of interest",
+        "costs follow the event",
+        "construction dispute",
+        "without prejudice offers"
+      ],
+      "index_terms": [
+        "Burford",
+        "BWP",
+        "Hok International",
+        "M&E expert evidence",
+        "CIBSE table A4.4",
+        "standard basis costs"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Interest and costs orders are clear though underlying merits were decided in an earlier judgment not fully before the court."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1493.json",
+    "status": "done",
+    "notes": "Constructive dismissal appeal; EAT wrongly overturned ET on whether salary deduction was the effective resignation reason.",
+    "enrichment": {
+      "short_title": "Waltham Forest v Omilaju: constructive dismissal after salary deduction",
+      "area_of_law": [
+        "Employment law",
+        "Unfair dismissal",
+        "Discrimination",
+        "Contract law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Omilaju, a Waltham Forest housing officer, had brought multiple unsuccessful race discrimination claims in the employment tribunal in 1998–2001.",
+        "The council deducted his July and August 2001 salary for attending the tribunal hearing without approved leave under its policy requiring special or annual leave for such absences.",
+        "He resigned on 7 September 2001, stating the non-payment destroyed his trust and confidence and was the last straw after earlier less favourable treatment.",
+        "The ET found constructive unfair dismissal but the EAT held the resignation reason was not solely or principally the salary deduction."
+      ],
+      "procedural_posture": "Employer's appeal from the Employment Appeal Tribunal setting aside an employment tribunal finding of constructive unfair dismissal.",
+      "outcome": "Appeal allowed; EAT decision set aside and ET decision restored; council to pay costs subject to detailed assessment.",
+      "ratio": "Where a resignation letter clearly identifies a final salary deduction as destroying trust and confidence and the case was litigated as a last-straw constructive dismissal, the tribunal was entitled to find that breach was the effective reason for resignation unless the EAT identifies a perversity it cannot itself substitute.",
+      "legal_issues": [
+        "Whether deduction of salary for tribunal attendance was a fundamental breach of contract",
+        "Whether the resignation was a last-straw constructive dismissal",
+        "Whether the EAT could overturn the tribunal's finding on the reason for resignation",
+        "Interaction with earlier race discrimination proceedings against the same employer"
+      ],
+      "catchwords": [
+        "constructive dismissal",
+        "last straw",
+        "salary deduction",
+        "trust and confidence",
+        "employment tribunal",
+        "unfair dismissal"
+      ],
+      "index_terms": [
+        "Waltham Forest Council",
+        "housing officer",
+        "tribunal attendance",
+        "special leave policy",
+        "resignation letter",
+        "EAT perversity"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Dyson LJ's analysis of the resignation letter and last-straw issue is detailed and the order is explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1509.json",
+    "status": "done",
+    "notes": "Medical negligence vasculitis appeal; causation remitted because judge focused on midnight improvement not absence of deterioration.",
+    "enrichment": {
+      "short_title": "Roughton v Weston Health Authority: causation in delayed vasculitis treatment",
+      "area_of_law": [
+        "Clinical negligence",
+        "Personal injury",
+        "Medical law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Adelaide Roughton suffered acute cerebral vasculitis in April 1998 causing severe permanent brain damage; breach of duty by two GPs was admitted.",
+        "It was conceded that with earlier admission steroids would have started two days sooner and cyclophosphamide three days sooner.",
+        "The claim failed at trial on causation; the judge focused on improvement by midnight on 27 April rather than the absence of further deterioration after cyclophosphamide was given that day.",
+        "Expert evidence suggested the drugs could arrest vasculitis within 48 hours and that without treatment death was likely."
+      ],
+      "procedural_posture": "Appeal from Owen J's dismissal of a clinical negligence claim after breach of duty was admitted and causation remained in issue.",
+      "outcome": "Appeal allowed; case remitted for retrial on causation only; respondents to pay the appellant's costs.",
+      "ratio": "In delayed treatment cases the tribunal must assess whether earlier administration would probably have prevented substantial deterioration; focusing on partial midnight improvement while ignoring undisputed absence of further decline after effective treatment may vitiate causation findings and require remittal.",
+      "legal_issues": [
+        "Whether delay in steroid and cyclophosphamide treatment caused increased brain damage",
+        "Correct approach to expert evidence on drug effectiveness in cerebral vasculitis",
+        "Whether the trial judge's causation analysis was flawed",
+        "Whether this court should decide causation or remit for reassessment"
+      ],
+      "catchwords": [
+        "clinical negligence",
+        "causation",
+        "cerebral vasculitis",
+        "cyclophosphamide",
+        "delayed treatment",
+        "remittal"
+      ],
+      "index_terms": [
+        "Weston General Hospital",
+        "Frenchay Hospital",
+        "Dr Bamford",
+        "steroids",
+        "balance of probabilities",
+        "Owen J"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Limited remittal on causation and the judge's reasoning error are clearly identified by Pill LJ."
+      }
+    }
+  }
+]

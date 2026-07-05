@@ -1,0 +1,679 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/815.json",
+    "status": "done",
+    "notes": "Batch 25 enrichment",
+    "enrichment": {
+      "short_title": "Deferred MHRT discharge and section 72(3) MHA 1983",
+      "area_of_law": [
+        "Mental health law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 2",
+            "section 3",
+            "section 66(1)(g)",
+            "section 72(1)",
+            "section 72(1)(b)(iii)",
+            "section 72(2)",
+            "section 72(3)",
+            "section 117"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The mother of a section 3 patient applied for permission to challenge a Mental Health Review Tribunal decision deferring discharge for five weeks to arrange aftercare.",
+        "The tribunal had not expressly linked the deferral to danger on release, though the judge considered that finding would have been open on the evidence, including past refusal to eat.",
+        "An anonymity order was made for the patient and family; the Official Solicitor was invited to act.",
+        "Only two weeks of the deferral period remained when the permission application was heard."
+      ],
+      "procedural_posture": "Application for permission to apply for judicial review of a Mental Health Review Tribunal deferred-discharge decision.",
+      "outcome": "Permission refused; the claim was treated as academic because an effective hearing before the deferral expired was unlikely.",
+      "ratio": "Section 72(1)(b)(iii) and section 72(3) of the Mental Health Act 1983 must be read together: a tribunal may defer discharge to a future date if immediate release would likely be dangerous but proper aftercare by that date would remove the risk; that power is available on a nearest-relative application under section 3.",
+      "legal_issues": [
+        "Whether section 72(3) permits deferred discharge on a nearest-relative application",
+        "Whether deferral for aftercare alone is unlawful",
+        "Whether the tribunal had sufficient evidence of danger to justify deferral",
+        "Whether the claim was academic"
+      ],
+      "catchwords": [
+        "Mental Health Review Tribunal",
+        "deferred discharge",
+        "section 72",
+        "nearest relative",
+        "aftercare",
+        "permission to apply"
+      ],
+      "index_terms": [
+        "Mental Health Act 1983",
+        "section 72(3)",
+        "dangerousness test",
+        "Huntley Centre",
+        "Official Solicitor",
+        "anonymity order"
+      ],
+      "linked_authorities": [
+        "R v On the Application of Ashworth Hospital Authority v Mental Health Review Tribunal"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Core issues, statutory interpretation, and outcome are explicit in the permission judgment. Judge metadata in the source file is empty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/355.json",
+    "status": "done",
+    "notes": "Batch 25 enrichment",
+    "enrichment": {
+      "short_title": "Fresh asylum claim refused after late military document",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 73(8)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 3"
+          ]
+        },
+        {
+          "title": "Geneva Convention Relating to the Status of Refugees",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A Ukrainian claimant who left to avoid military service had his asylum appeal dismissed in August 2001.",
+        "After leave to appeal was refused, he received a military commissariat letter dated 27 August 2001 but did not promptly send it to the Secretary of State.",
+        "His solicitors sought a fresh claim in March 2002, the day after renewed permission for judicial review was refused in earlier proceedings.",
+        "The Secretary of State refused to treat the letter as a fresh claim and certified the application under section 73(8) as having no legitimate purpose."
+      ],
+      "procedural_posture": "Judicial review of the Secretary of State's refusal to accept further representations as a fresh asylum claim and of section 73(8) certification.",
+      "outcome": "Application dismissed; no extension of time granted to challenge the October 2002 decision.",
+      "ratio": "Where a late document is neither sufficiently significant nor credible to found a fresh claim, lacks provenance, and was withheld during earlier proceedings, the Secretary of State was entitled to refuse a fresh claim and to certify under section 73(8) that the application's purpose was delay rather than a legitimate asylum or Article 3 claim.",
+      "legal_issues": [
+        "Whether the military commissariat letter met the criteria for a fresh claim",
+        "Lawfulness of section 73(8) certification",
+        "Whether delay in challenging the October 2002 decision should be excused",
+        "Article 3 claim based on medical exemption from military service"
+      ],
+      "catchwords": [
+        "fresh claim",
+        "section 73(8) certification",
+        "military service",
+        "Ukraine",
+        "delay",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Shvetsov",
+        "Immigration and Asylum Act 1999",
+        "rule 346",
+        "conscientious objection",
+        "Article 3 ECHR",
+        "Wednesbury unreasonableness"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Facts, procedural history, and outcome are clearly stated. Immigration Rules rule 346 is referenced but not fully set out in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/114.json",
+    "status": "done",
+    "notes": "Batch 25 enrichment",
+    "enrichment": {
+      "short_title": "Withdrawal of paragraph 9 asylum certificate after adjudicator",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Asylum and Immigration Act 1999",
+          "provisions": [
+            "Schedule IV paragraph 9",
+            "Schedule IV paragraph 9(2)",
+            "Schedule IV paragraph 22(1)",
+            "Part IV"
+          ]
+        },
+        {
+          "title": "Immigration Act 1971",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A Zimbabwean claimant's asylum claim was certified under paragraph 9 of Schedule IV and dismissed by an adjudicator who agreed with the certificate.",
+        "Following the Court of Appeal decision in Zenovics, fresh evidence was submitted and the claimant appealed to the Immigration Appeal Tribunal on his human rights claim.",
+        "Keith J held the Secretary of State could and should have withdrawn the asylum certificate after Zenovics.",
+        "The IAT later dismissed the human rights appeal, rendering the case academic for the respondent."
+      ],
+      "procedural_posture": "Secretary of State's appeal from a judicial review decision on power to withdraw a paragraph 9 certificate.",
+      "outcome": "Appeal allowed; the Secretary of State has no power to withdraw a paragraph 9 certificate once an adjudicator has agreed with it.",
+      "ratio": "Paragraph 9(2) of Schedule IV to the Asylum and Immigration Act 1999 removes the right of appeal to the Immigration Appeal Tribunal once the adjudicator agrees with the Secretary of State's certificate; that bar takes effect on confirmation and is not undone by any later purported withdrawal of the certificate.",
+      "legal_issues": [
+        "Whether the Secretary of State may withdraw a paragraph 9 certificate after adjudicator confirmation",
+        "Effect of partial certification after Zenovics",
+        "Construction of paragraph 9(2)",
+        "Human rights implications of fast-track certification"
+      ],
+      "catchwords": [
+        "paragraph 9 certificate",
+        "asylum appeal",
+        "Immigration Appeal Tribunal",
+        "Zenovics",
+        "partial certification",
+        "fast track"
+      ],
+      "index_terms": [
+        "Dube",
+        "Schedule IV Asylum and Immigration Act 1999",
+        "Umkhosi Kazulu",
+        "Zimbabwe",
+        "human rights claim",
+        "Secretary of State certification"
+      ],
+      "linked_authorities": [
+        "R v Secretary of State for the Home Department ex parte Zenovics",
+        "Zenovics v Secretary of State for the Home Department",
+        "Saad, Diriye and Osorio v Secretary of State for the Home Department",
+        "Secretary of State for the Home Department v Asifa Saleem"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "The central statutory issue and outcome are clearly resolved despite the respondent's case having become academic."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/145.json",
+    "status": "done",
+    "notes": "Batch 25 enrichment",
+    "enrichment": {
+      "short_title": "Brussels Convention stay refused in defective TV coil dispute",
+      "area_of_law": [
+        "Conflict of laws",
+        "Commercial law",
+        "Tort and product liability"
+      ],
+      "statutes_considered": [
+        {
+          "title": "1968 Brussels Convention on Jurisdiction and Enforcement of Judgments in Civil and Commercial Matters",
+          "provisions": [
+            "Article 21",
+            "Article 22",
+            "Article 24"
+          ]
+        },
+        {
+          "title": "Council Regulation (EC) 44/2001 (Brussels I Regulation)",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Sagem sued Lecerf and Miles Platt in France over defective electro-plated pins in television coils; Miles Platt sued Townroe in England for defective plating work.",
+        "A French judicial expertise process involving Miles Platt and Townroe was held not to be the court first seised for Article 21 purposes.",
+        "Townroe sought a mandatory stay under Article 21 or a discretionary stay under Article 22.",
+        "The judge removed a stay imposed by the Master; Townroe appealed."
+      ],
+      "procedural_posture": "Appeal from a High Court decision refusing to stay English proceedings under the 1968 Brussels Convention.",
+      "outcome": "Appeal dismissed; no stay under Article 21 or Article 22.",
+      "ratio": "A French judicial expertise process is a provisional measure under Article 24, not substantive proceedings for Article 21, and the French and English actions were not so closely connected under Article 22 as to require joint determination to avoid irreconcilable judgments.",
+      "legal_issues": [
+        "Whether the French judicial expertise process amounted to proceedings first seised under Article 21",
+        "Characterisation of judicial expertise as provisional measures under Article 24",
+        "Whether French and English actions were related under Article 22",
+        "Application of the 1968 Brussels Convention rather than Brussels I Regulation"
+      ],
+      "catchwords": [
+        "Brussels Convention",
+        "Article 21",
+        "Article 22",
+        "lis pendens",
+        "judicial expertise",
+        "stay of proceedings"
+      ],
+      "index_terms": [
+        "Miles Platt",
+        "Townroe",
+        "Sagem",
+        "electro-plating",
+        "Nanterre",
+        "English contract law"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome and Brussels Convention analysis are detailed in the judgment. Listed appellate judges in source metadata do not match the delivering judge, Mrs Justice Black."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/106.json",
+    "status": "done",
+    "notes": "Batch 25 enrichment",
+    "enrichment": {
+      "short_title": "Repudiatory breach of exclusive chemical supply agreement",
+      "area_of_law": [
+        "Contract law",
+        "Commercial law",
+        "Sale of goods and distribution"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Bim Kemi and Blackburn Chemicals disputed whether a December 1993 fax created a binding 1994 exclusive supply and distribution agreement for anti-foam products.",
+        "Bim acquired Cellkem in Finland and, from 1997 to 1998, marketed its own silicone-based Tensidef and Prodex products in competition with Blackburn's BS 470.",
+        "Blackburn refused further BS 470 supplies in December 1998 after reports of competing Cellkem products.",
+        "At trial the judge found a binding 1994 contract and Blackburn in repudiatory breach; the Court of Appeal reversed on repudiation."
+      ],
+      "procedural_posture": "Appeal and respondents' notice from a High Court trial on contract formation, breach, and termination.",
+      "outcome": "Appeal allowed; Bim was in repudiatory breach and Blackburn was entitled to accept that breach by refusing further supplies.",
+      "ratio": "Where parties traded on the terms of the December 1993 fax, Bim/Cellkem's marketing of competing silicone defoamers to key Finnish customers was a repudiatory breach of the exclusive sourcing obligation, entitling Blackburn to terminate by refusing further supplies.",
+      "legal_issues": [
+        "Whether the December 1993 fax became a binding contract",
+        "Construction of exclusivity, sourcing, and 20% market-share clauses",
+        "Whether Bim's sales of competing silicone products were repudiatory",
+        "Whether Blackburn's refusal to supply BS 470 was lawful acceptance of repudiation"
+      ],
+      "catchwords": [
+        "exclusive distribution",
+        "repudiatory breach",
+        "gentleman's agreement",
+        "Cellkem",
+        "BS 470",
+        "commercial contract"
+      ],
+      "index_terms": [
+        "Bim Kemi",
+        "Blackburn Chemicals",
+        "anti-foam agents",
+        "Scandinavia",
+        "Tensidef",
+        "acceptance of repudiation"
+      ],
+      "linked_authorities": [
+        "Barings plc v Coopers Lybrand"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Very long judgment with extensive fact-finding; core contract and repudiation holdings are clear but many subsidiary points were not pursued on appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/214.json",
+    "status": "done",
+    "notes": "Batch 25 enrichment",
+    "enrichment": {
+      "short_title": "Issue-based patent trial costs after section 60(5)(d) win",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Intellectual property"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Patents Act 1977",
+          "provisions": [
+            "section 60(5)(d)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 44.3",
+            "CPR 44.3.2(a)",
+            "CPR 44.3(4)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Stena failed in a patent action against Irish Ferries over multi-hull ferry technology but succeeded on a narrow section 60(5)(d) construction point.",
+        "The trial judge ordered Stena to pay 20% of Irish Ferries' costs and Irish Ferries to pay 80% of Stena's costs.",
+        "Irish Ferries appealed the costs order, arguing costs should follow the event on the action as a whole.",
+        "The section 60(5)(d) issue occupied only a small fraction of trial time and cost."
+      ],
+      "procedural_posture": "Appeal against a trial judge's issue-based costs order after dismissal of the main patent claim and cross-appeal.",
+      "outcome": "Costs appeal dismissed; the judge's issue-based apportionment was upheld.",
+      "ratio": "Where a patent trial comprises a discrete legal issue on which the defendant succeeded and broader validity and infringement issues on which the claimant failed, an issue-based costs order reflecting the time and expense of each issue is a lawful exercise of discretion under CPR 44.3.",
+      "legal_issues": [
+        "Whether costs should follow the event on the action as a whole",
+        "Lawfulness of an issue-based approach under CPR 44.3",
+        "Apportionment between section 60(5)(d) and validity/infringement issues",
+        "Interference with the trial judge's costs discretion"
+      ],
+      "catchwords": [
+        "costs",
+        "issue-based costs",
+        "patent action",
+        "section 60(5)(d)",
+        "CPR 44.3",
+        "costs follow the event"
+      ],
+      "index_terms": [
+        "Irish Ferries",
+        "Stena",
+        "Jonathan Swift",
+        "Summit Property v Pitmans",
+        "Phonographic Performance Ltd v AEI Rediffusion Music Ltd"
+      ],
+      "linked_authorities": [
+        "Summit Property Ltd v Pitmans",
+        "Phonographic Performance Ltd v AEI Rediffusion Music Ltd"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Judgment focuses on costs after the merits appeals were dismissed; patent facts are summarised only briefly. Source metadata lists Lord Woolf twice as judge."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/102.json",
+    "status": "done",
+    "notes": "Batch 25 enrichment",
+    "enrichment": {
+      "short_title": "Qualified privilege in police libel about open undetected file",
+      "area_of_law": [
+        "Defamation",
+        "Tort law",
+        "Employment and child protection"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Prosecution of Offenders Act 1985",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Peter Halford, an education welfare officer, was investigated after his stepson alleged assault; the CPS decided not to prosecute because of conflicting evidence.",
+        "DS Curtis told council personnel by telephone and letter that the police file remained open as an undetected crime.",
+        "Halford was suspended pending disciplinary proceedings but was later reinstated without sanction.",
+        "The judge ruled the publications were on occasions of qualified privilege and that no jury could properly find malice."
+      ],
+      "procedural_posture": "Claimant's appeal from a High Court order entering judgment for the defendants after rulings on qualified privilege and malice.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Communications by a police officer to a local authority about the status of a child-protection investigation attract qualified privilege, and where the officer honestly believed the information given was true and relevant, malice cannot properly be inferred merely because the words left the claimant under suspicion.",
+      "legal_issues": [
+        "Whether the telephone call and letter were published on occasions of qualified privilege",
+        "Whether irrelevant or excessive defamatory matter defeated the defence",
+        "Whether there was sufficient evidence of express malice for the jury",
+        "Objective and subjective meaning of 'open file' and 'undetected crime'"
+      ],
+      "catchwords": [
+        "libel",
+        "qualified privilege",
+        "malice",
+        "police disclosure",
+        "child protection",
+        "Horrocks v Lowe"
+      ],
+      "index_terms": [
+        "Halford",
+        "Hampshire County Council",
+        "education welfare officer",
+        "undetected crime",
+        "Alexander v Arts Council of Wales",
+        "Adam v Ward"
+      ],
+      "linked_authorities": [
+        "Horrocks v Lowe",
+        "Alexander v Arts Council of Wales",
+        "Loveless v Earl",
+        "Adam v Ward"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Legal principles and outcome are clearly reasoned. Source judge metadata includes historical judges not sitting on this appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/193.json",
+    "status": "done",
+    "notes": "Batch 25 enrichment",
+    "enrichment": {
+      "short_title": "HRA damages for delayed Mental Health Review Tribunal hearings",
+      "area_of_law": [
+        "Human rights",
+        "Mental health law",
+        "Damages",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 6",
+            "section 7",
+            "section 8",
+            "section 8(3)",
+            "section 8(4)",
+            "section 9(3)"
+          ]
+        },
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 2",
+            "section 3",
+            "section 37",
+            "section 41",
+            "section 42(3)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 5.4",
+            "Article 5.5",
+            "Article 41"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Multiple detained patients had already succeeded in establishing breaches of Article 5.4 because Mental Health Review Tribunal hearings were delayed.",
+        "This judgment determined whether damages were required under the Human Rights Act 1998 and, if so, in what amounts.",
+        "Claims were mainly for distress and frustration; some claimants also alleged loss of liberty or damage to mental health.",
+        "Modest damages were awarded to several claimants; others received no award where a declaration of breach was sufficient just satisfaction."
+      ],
+      "procedural_posture": "Follow-up damages hearing after earlier judicial review findings of Article 5.4 breaches.",
+      "outcome": "Damages awarded in varying modest sums to PD, GM, JR, MK, TB, and B; no damages to KB and LB where declaratory relief sufficed; exemplary damages refused.",
+      "ratio": "Under sections 8 and 9(3) of the Human Rights Act 1998, damages for Article 5.4 delay are not automatic and must be necessary to afford just satisfaction; awards for distress may be made where compensatable injury is shown, but not for loss of a chance of discharge, and exemplary damages are prohibited.",
+      "legal_issues": [
+        "When an award of damages is necessary under section 8(3) HRA",
+        "Recoverability of damages for distress without pecuniary loss",
+        "Damages for loss of a chance of tribunal discharge",
+        "Power to award exemplary damages under the HRA",
+        "Appropriate quantum for Article 5.4 delay"
+      ],
+      "catchwords": [
+        "Human Rights Act damages",
+        "Article 5.4",
+        "Mental Health Review Tribunal",
+        "just satisfaction",
+        "delay",
+        "section 8"
+      ],
+      "index_terms": [
+        "KB",
+        "Mental Health Review Tribunal",
+        "Article 5.5",
+        "Bernard v Enfield",
+        "exemplary damages",
+        "psychiatric detention"
+      ],
+      "linked_authorities": [
+        "R on the application of KB and ors v Mental Health Review Tribunal",
+        "R on the application of B v Mental Health Review Tribunal",
+        "R (Bernard) v London Borough of Enfield",
+        "Allied Maples Group v Simmons & Simmons"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Long damages judgment with multiple claimants; core HRA principles and individual awards are clear from the text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/382.json",
+    "status": "done",
+    "notes": "Batch 25 enrichment",
+    "enrichment": {
+      "short_title": "Robbery sentence replaced by section 37 hospital order",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Mental health law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 37"
+          ]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 23",
+            "section 23(2)"
+          ]
+        },
+        {
+          "title": "Public Order Act 1986",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The applicant pleaded guilty to robbery after smashing a post office security screen with a sledgehammer and stealing over £2,600.",
+        "He was sentenced to four and a half years' imprisonment on the basis of a psychiatric report that did not recommend hospital disposal.",
+        "Later reports diagnosed paranoid schizophrenia and showed he had been psychotic at the time of the offence but had not disclosed symptoms earlier because of delusional beliefs.",
+        "A bed at the Scott Clinic remained available for treatment."
+      ],
+      "procedural_posture": "Out-of-time application for leave to appeal against sentence with fresh psychiatric evidence.",
+      "outcome": "Extension of time granted, leave granted, and appeal allowed; the custodial sentence was quashed and replaced with a section 37 hospital order.",
+      "ratio": "Fresh psychiatric evidence may be admitted on a late sentence appeal where the applicant's failure to disclose symptoms earlier was itself caused by the mental illness, and where the conditions for a section 37 hospital order are satisfied the court may substitute that disposal for an otherwise appropriate custodial sentence.",
+      "legal_issues": [
+        "Admissibility of fresh evidence under section 23 Criminal Appeal Act 1968",
+        "Whether there was a reasonable explanation for failure to adduce the evidence at sentencing",
+        "Whether section 37 Mental Health Act 1983 criteria were met",
+        "Appropriateness of intervening in an otherwise proper custodial sentence"
+      ],
+      "catchwords": [
+        "sentence appeal",
+        "fresh evidence",
+        "section 37 hospital order",
+        "paranoid schizophrenia",
+        "robbery",
+        "Scott Clinic"
+      ],
+      "index_terms": [
+        "L",
+        "Liverpool Crown Court",
+        "post office robbery",
+        "psychotic illness",
+        "Mental Health Act 1983",
+        "out of time"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Facts, medical evidence, statutory analysis, and outcome are clearly stated in a relatively short judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/67.json",
+    "status": "done",
+    "notes": "Batch 25 enrichment",
+    "enrichment": {
+      "short_title": "Partnership bound by guarantee linked to consultancy agreement",
+      "area_of_law": [
+        "Partnership law",
+        "Banking and finance",
+        "Contract law",
+        "Property and professional services"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Partnership Act 1890",
+          "provisions": [
+            "section 5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Henry Butcher & Co gave a £200,000 bank guarantee for David Hopkins's overdraft under a consultancy agreement to provide surveying and valuation services.",
+        "Four named partners signed the guarantee as partners and individuals; the document was later amended in a way initialled by only two partners.",
+        "The bank sued after Hopkins's borrowing exceeded the limit; the firm argued lack of partnership authority and that the guarantee was delivered in escrow.",
+        "The trial judge held the partnership and signing partners bound; the Court of Appeal dismissed the appeal."
+      ],
+      "procedural_posture": "Appeal from a High Court judgment enforcing a partnership bank guarantee.",
+      "outcome": "Appeal dismissed; HB&Co and the signing partners were held bound by the guarantee.",
+      "ratio": "Under section 5 of the Partnership Act 1890, where a guarantee is an integral part of a consultancy contract validly entered into as partnership business, a partner's execution of the guarantee binds the firm even if other partners did not sign and did not know all details, following Sandilands v Marsh.",
+      "legal_issues": [
+        "Whether HB&Co had authority under the partnership deed to give the guarantee",
+        "Application of section 5 Partnership Act 1890 and Sandilands v Marsh",
+        "Whether individual signatories remained bound under clause 17",
+        "Whether the guarantee was delivered in escrow or invalidated by post-execution amendment"
+      ],
+      "catchwords": [
+        "partnership guarantee",
+        "section 5 Partnership Act 1890",
+        "ostensible authority",
+        "Sandilands v Marsh",
+        "deed delivery",
+        "Pigot's Case"
+      ],
+      "index_terms": [
+        "Bank of Scotland",
+        "Henry Butcher & Co",
+        "consultancy agreement",
+        "overdraft guarantee",
+        "Raiffeisen v Crossseas Shipping",
+        "Vincent v Premo Enterprises"
+      ],
+      "linked_authorities": [
+        "Sandilands v Marsh",
+        "Brettel v Williams",
+        "Duncan v Lowndes and Bateman",
+        "Hasleham v Young",
+        "Raiffeisen Zentralbank Osterreich AG v Crossseas Shipping Ltd",
+        "Vincent v Premo Enterprises (Voucher Sales) Ltd",
+        "James Graham and Co (Timber) Ltd v Southgate-Sands",
+        "United Bank of Kuwait Ltd v Hammoud"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Core partnership authority and guarantee issues are comprehensively reasoned. Source judge metadata includes many historical judges not on the appeal panel."
+      }
+    }
+  }
+]

@@ -1,0 +1,797 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1899.json",
+    "status": "done",
+    "notes": "Complete short ex tempore judgment on challenge to SDT default costs certificate.",
+    "enrichment": {
+      "short_title": "No appeal lies against SDT default costs certificate; CPR 47.12 is the only route",
+      "area_of_law": [
+        "Legal profession regulation",
+        "Costs",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Solicitors Act 1974",
+          "provisions": [
+            "s 43(1)(a)",
+            "s 43(2)",
+            "s 43(4)",
+            "s 49"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 47.9",
+            "CPR 47.12",
+            "CPR 47.12(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Adoko was subject to a Solicitors Disciplinary Tribunal order under section 43(2) of the Solicitors Act 1974 restricting his employment in solicitors' practices.",
+        "The Tribunal ordered him to pay costs of the inquiry, subject to detailed assessment if not agreed.",
+        "After he failed to serve points of dispute, the Office for the Supervision of Solicitors obtained a default costs certificate for £6,119.80 under CPR 47.9.",
+        "Adoko sought to challenge the certificate by private law proceedings (struck out as abuse of process) and then by judicial review (permission refused by Lightman J).",
+        "He then sought permission to appeal against the certificate itself."
+      ],
+      "procedural_posture": "Application for permission to appeal/challenge a default costs certificate issued following SDT disciplinary proceedings.",
+      "outcome": "Application dismissed; no appeal lies against a default costs certificate and the statutory appeal route against the underlying costs order was long out of time.",
+      "ratio": "A default costs certificate under CPR 47.9 cannot be challenged by appeal; the correct route is an application to set aside under CPR 47.12 supported by evidence of a good reason why detailed assessment should continue, and any challenge to the underlying Tribunal costs order must be brought by statutory appeal to the High Court under section 49 of the Solicitors Act 1974 within 14 days of filing of the decision.",
+      "legal_issues": [
+        "Whether a default costs certificate can be challenged by appeal or judicial review",
+        "Whether CPR 47.12 provides the exclusive route to challenge a default certificate",
+        "Whether a section 49 Solicitors Act appeal against the underlying costs order remained available"
+      ],
+      "catchwords": [
+        "default costs certificate",
+        "CPR 47.12",
+        "Solicitors Disciplinary Tribunal",
+        "section 49 Solicitors Act 1974",
+        "detailed assessment",
+        "costs appeal"
+      ],
+      "index_terms": [
+        "Adoko",
+        "Office for the Supervision of Solicitors",
+        "SDT costs",
+        "points of dispute",
+        "section 43 Solicitors Act",
+        "Dyson LJ"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Short, self-contained procedural judgment with clear holdings on costs routes and time limits."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1059.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment; source summary truncated but full_text complete.",
+    "enrichment": {
+      "short_title": "Turkish Kurd asylum appeal remitted after IAT failed to consider McDowall country evidence",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Appeals (Procedure) Rules 2000",
+          "provisions": [
+            "r 27(5)"
+          ]
+        },
+        {
+          "title": "Refugee Convention 1951",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Art 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Bulent Polat, a Turkish Kurd and Alevi, claimed asylum in the UK in December 2000 citing PKK-related activity, prior detentions, and fear of persecution and torture on return.",
+        "An adjudicator dismissed his appeal in May 2002; the Immigration Appeal Tribunal dismissed his further appeal in September 2002, applying guidelines later influential in Turkish Kurd cases.",
+        "The IAT refused leave to appeal but Dyson LJ granted permission; subsequently the differently constituted IAT in Hayser modified the Polat guidelines in light of updated country material.",
+        "The Secretary of State accepted that Polat's case could not be finally determined without reconsideration in light of Hayser and later CIPU reports.",
+        "Mr McDowall's expert report had been before the IAT on the leave application but was not taken into account."
+      ],
+      "procedural_posture": "Statutory appeal to the Court of Appeal against an Immigration Appeal Tribunal determination refusing asylum/human rights protection.",
+      "outcome": "Appeal allowed; IAT decision quashed and matter remitted to the Immigration Appeal Tribunal for reconsideration; no order as to costs save detailed assessment of public funding certificate.",
+      "ratio": "Where fresh country evidence and modified tribunal guidelines (notably Hayser) undermine the basis of an IAT determination, and the IAT failed as a matter of law to consider relevant expert material with a view to directing a rehearing under rule 27(5), the Court of Appeal may quash the decision and remit the case to the specialist tribunal rather than require the appellant to begin again with a fresh asylum claim.",
+      "legal_issues": [
+        "Whether the Polat IAT guidelines remained valid after Hayser",
+        "Whether the Court of Appeal could admit fresh country evidence on a statutory appeal limited to questions of law",
+        "Whether failure to consider McDowall's report was an error of law warranting remittal"
+      ],
+      "catchwords": [
+        "asylum appeal",
+        "Turkish Kurd",
+        "PKK",
+        "Polat guidelines",
+        "Hayser",
+        "Immigration Appeal Tribunal",
+        "country information",
+        "remittal"
+      ],
+      "index_terms": [
+        "Bulent Polat",
+        "McDowall report",
+        "CIPU Turkey",
+        "suspected separatist",
+        "Alevi",
+        "torture risk",
+        "May LJ"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Meral Hayser",
+          "citation": "[2002] UK IAT 0783",
+          "relation": "applied"
+        },
+        {
+          "name": "Turgut v Secretary of State for the Home Department",
+          "citation": "[2001] 1 All ER 719",
+          "relation": "cited"
+        },
+        {
+          "name": "A v Secretary of State for the Home Department",
+          "citation": "[2003] EWCA Civ 175",
+          "relation": "cited"
+        },
+        {
+          "name": "Khan v Secretary of State for the Home Department",
+          "citation": "[2003] EWCA Civ 530",
+          "relation": "cited"
+        },
+        {
+          "name": "Almalikuyu",
+          "citation": "[2002] UK IAT 00749",
+          "relation": "cited"
+        },
+        {
+          "name": "Elidimir",
+          "citation": "[2002] UK IAT 00300",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long but complete judgment; enrichment drawn from full reasoning on remittal and guideline inconsistency."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/1739.json",
+    "status": "done",
+    "notes": "Complete TCC judgment on contract construction and opportunistic invoicing.",
+    "enrichment": {
+      "short_title": "Forensic IT contract 'per database' charge held to mean per Exchange server, not per backup file",
+      "area_of_law": [
+        "Contract law",
+        "Construction",
+        "Technology and computing"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Vogon International contracted with the Serious Fraud Office under Contract 38118B to restore Microsoft Exchange database backups from tapes and produce PST mailbox files for a fraud investigation.",
+        "Vogon completed the work by the deadline but invoiced £314,375 by treating each backup file/session as a separate 'database' chargeable at £1,500–£1,250 per database plus a 150% expedite uplift.",
+        "The SFO contended 'database' meant each original Exchange server (Glaston and Glaston 2), making the proper charge £22,500 plus VAT.",
+        "Expert evidence agreed 'database' has no fixed technical meaning and depends on context; backup files require restoration before access.",
+        "The judge found Vogon's internal staff inflated database counts opportunistically after work began."
+      ],
+      "procedural_posture": "Technology and Construction Court trial on proper construction of a forensic data-processing contract and alternative mistake/estoppel claims.",
+      "outcome": "Claim largely failed on construction; SFO liable to pay only £22,500 plus VAT; Vogon's unilateral mistake and estoppel arguments abandoned and would have failed.",
+      "ratio": "In Contract 38118B, read in context with the covering letter and industry practice, 'per database' referred to each Microsoft Exchange server whose data was being recreated, not to each individual backup file on the tapes; a party who drafts contract terms cannot avoid their objective meaning by later contending a different commercial intention, and opportunistic recharacterisation of backup files as databases after performance does not create liability.",
+      "legal_issues": [
+        "Whether 'database' in the quotation meant each backup session or each Exchange server",
+        "Whether commercial purpose or correspondence supported Vogon's construction",
+        "Whether Vogon could rely on unilateral mistake or estoppel by silence"
+      ],
+      "catchwords": [
+        "contract construction",
+        "database",
+        "Microsoft Exchange",
+        "forensic computing",
+        "backup files",
+        "opportunistic invoicing",
+        "objective interpretation"
+      ],
+      "index_terms": [
+        "Vogon International",
+        "Serious Fraud Office",
+        "Contract 38118B",
+        "PST files",
+        "ICTS02 case",
+        "Lord Hoffmann"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Investors Compensation Scheme Ltd v West Bromwich Building Society",
+          "citation": "[1998] 1 WLR 896",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed judgment with clear construction reasoning and factual findings on Vogon's billing conduct."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2144.json",
+    "status": "done",
+    "notes": "Complete interlocutory judgment in section 42 vexatious litigant proceedings.",
+    "enrichment": {
+      "short_title": "Section 42 vexatious proceedings properly brought under CPR Part 8; Cameron's challenges rejected",
+      "area_of_law": [
+        "Civil procedure",
+        "Vexatious litigants",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "s 42"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR Part 8",
+            "CPR 8.1(2)",
+            "CPR 8.1(6)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Attorney General brought proceedings under section 42 of the Supreme Court Act 1981 alleging Sheila Cameron had habitually and without reasonable grounds instituted vexatious civil proceedings.",
+        "Cameron challenged the Treasury Solicitor's authority to conduct the claim, a point she later abandoned.",
+        "She argued the claim should proceed under CPR Part 7 because disputed facts existed, rather than Part 8.",
+        "The court held Part 8 was mandatory for section 42 claims listed in the Part 8 Practice Direction Table 2.",
+        "Cameron was ordered to pay £500 costs of the unsuccessful interlocutory application."
+      ],
+      "procedural_posture": "Interlocutory application in pending section 42 proceedings brought by the Attorney General against a litigant in person.",
+      "outcome": "Challenges rejected; section 42 proceedings declared properly constituted to proceed under Part 8; Cameron ordered to pay £500 costs.",
+      "ratio": "Claims under section 42 of the Supreme Court Act 1981 must be commenced using the CPR Part 8 procedure by virtue of CPR 8.1(6) and the Part 8 Practice Direction Table 2, even where factual disputes may arise; challenges to the Treasury Solicitor's authority to represent the Attorney General in such proceedings are misconceived.",
+      "legal_issues": [
+        "Whether section 42 proceedings must use CPR Part 8 rather than Part 7",
+        "Whether the Treasury Solicitor had authority to bring the claim",
+        "Whether Cameron should pay costs of a hopeless interlocutory application"
+      ],
+      "catchwords": [
+        "section 42",
+        "vexatious litigant",
+        "CPR Part 8",
+        "Attorney General",
+        "originating motion",
+        "Treasury Solicitor"
+      ],
+      "index_terms": [
+        "Sheila Cameron",
+        "vexatious proceedings order",
+        "Table 2 Part 8 PD",
+        "Bingham",
+        "litigant in person",
+        "Dyson LJ"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Bingham",
+          "citation": "4 September 2002 (Maurice Kay J)",
+          "relation": "followed"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete procedural ruling; underlying merits of section 42 application not decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1740.json",
+    "status": "done",
+    "notes": "Complete Chancery judgment on CPR 3.1(7) variation of conditional set-aside order.",
+    "enrichment": {
+      "short_title": "Defendant cannot revisit £1.175m pay-in condition under CPR 3.1(7) after failing to raise assets at set-aside hearing",
+      "area_of_law": [
+        "Civil procedure",
+        "Contract law",
+        "Equity and trusts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR Part 3.1(7)",
+            "CPR Part 13.3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Lloyds Investment Scandinavia sued Mr Ager-Hanssen over a Cognition AB share purchase and related payments totalling about £2.35m.",
+        "Default judgment was entered in October 2001; Deputy Judge Simon Berry QC set it aside in November 2001 on terms that Ager-Hanssen pay £1.175m into court within 28 days.",
+        "The condition was not met; the claimant obtained charging and sale orders over the defendant's London flat and chattels, realising over £650,000.",
+        "Ager-Hanssen applied nearly a year later to defend without further payment and to stay execution, citing freezing orders and alleged undervaluation of Swedish assets frozen at SEK 78.7m.",
+        "Lloyd J found the defendant had known of the Swedish freezing orders at the Berry hearing but did not put the material before the court."
+      ],
+      "procedural_posture": "High Court application under CPR 3.1(7) to vary a conditional order setting aside default judgment and to stay enforcement.",
+      "outcome": "Application dismissed; the court could not revisit the pay-in condition on the grounds advanced; appeal to the Court of Appeal remained the proper route.",
+      "ratio": "The power under CPR 3.1(7) to vary or revoke an earlier order is not a substitute for appeal; where a party failed at the set-aside hearing to disclose known material about freezing orders and means, he cannot later use CPR 3.1(7) to re-argue the proportionality of a conditional pay-in order on the same available evidence, and a parallel High Court judge cannot effectively hear an appeal from a deputy judge's discretionary case-management order.",
+      "legal_issues": [
+        "Scope of CPR 3.1(7) to vary a conditional set-aside order",
+        "Whether freezing orders and asset valuations justified lifting the pay-in condition",
+        "Whether the flat was sold at an undervalue"
+      ],
+      "catchwords": [
+        "conditional set aside",
+        "pay into court",
+        "CPR 3.1(7)",
+        "default judgment",
+        "freezing order",
+        "material non-disclosure",
+        "share purchase dispute"
+      ],
+      "index_terms": [
+        "Ager-Hanssen",
+        "Cognition AB",
+        "Lloyds Investment Scandinavia",
+        "Simon Berry QC",
+        "charging order",
+        "Olympia Holding",
+        "Lloyd J"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full judgment on jurisdiction limits; underlying contractual merits expressly not determined."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1859.json",
+    "status": "done",
+    "notes": "Complete judicial review refusing challenge to EU national deportation decision.",
+    "enrichment": {
+      "short_title": "EU national's deportation after 12-year Securicor robbery conspiracy upheld as proportionate",
+      "area_of_law": [
+        "Immigration law",
+        "EU free movement",
+        "Deportation",
+        "Criminal law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Act 1971",
+          "provisions": [
+            "s 3(5)"
+          ]
+        },
+        {
+          "title": "Council Directive 64/221/EEC",
+          "provisions": [
+            "Art 3(2)"
+          ]
+        },
+        {
+          "title": "Immigration Rules HC395",
+          "provisions": [
+            "para 364"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Schmelz, a German citizen with indefinite leave to remain since 1985, was convicted in 1995 of conspiracy to rob a Securicor van and sentenced to 12 years' imprisonment.",
+        "The Secretary of State made a deportation order; an adjudicator dismissed his appeal in April 2002, balancing low re-offending risk (OGRS 7%) against offence seriousness.",
+        "The Immigration Appeal Tribunal refused leave to appeal in May 2002.",
+        "Schmelz had lived in the UK since 1979 but had weak employment, property and family ties; much of his residence was spent in prison.",
+        "The robbery involved a bomb threat to a van driver and was masterminded by Schmelz."
+      ],
+      "procedural_posture": "High Court judicial review of an Immigration Appeal Tribunal refusal of leave to appeal against a deportation order.",
+      "outcome": "Application refused; deportation held proportionate; permission to appeal granted on whether sentence length alone engages fundamental interests of society.",
+      "ratio": "For an EU national, deportation requires justification on public policy grounds with a genuine and sufficiently serious threat to a fundamental interest of society and must be proportionate; an adjudicator who expressly weighs personal ties, employment prospects and low re-offending risk against the exceptional seriousness of a carefully planned aggravated robbery may lawfully conclude deportation is justified to protect the public from even a small risk of repetition, following Marchon and Bouchereau.",
+      "legal_issues": [
+        "Whether the adjudicator carried out the required EU proportionality balancing exercise",
+        "Whether low re-offending risk precludes deportation for a serious offence",
+        "Whether the offence engaged fundamental interests of society"
+      ],
+      "catchwords": [
+        "deportation",
+        "EU national",
+        "public policy",
+        "proportionality",
+        "Marchon",
+        "Bouchereau",
+        "Securicor robbery",
+        "re-offending risk"
+      ],
+      "index_terms": [
+        "Schmelz",
+        "OGRS score",
+        "conspiracy to rob",
+        "German citizen",
+        "HC395 paragraph 364",
+        "Nazli",
+        "Sullivan J"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Marchon v Immigration Appeal Tribunal",
+          "citation": "[1993] Imm AR 384",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Bouchereau",
+          "citation": "[1978] 1 QB 732",
+          "relation": "applied"
+        },
+        {
+          "name": "B v Secretary of State for the Home Department",
+          "citation": "[2000] Imm AR 478",
+          "relation": "applied"
+        },
+        {
+          "name": "Nazli",
+          "citation": "[2000] ECR I-957",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed judgment on EU deportation proportionality with clear adjudicator reasoning analysed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1730.json",
+    "status": "done",
+    "notes": "Very long group litigation judgment; complete with detailed summary of conclusions.",
+    "enrichment": {
+      "short_title": "Esso petrol station licensees liable for Tiger Token costs; fee changes lawful; hot fuel sold by observed volume",
+      "area_of_law": [
+        "Commercial law",
+        "Contract law",
+        "Franchise and licensing",
+        "Petroleum retail"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Weights and Measures Act 1985",
+          "provisions": []
+        },
+        {
+          "title": "Hydrocarbon Oil Regulations 1973",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Esso Petroleum sued numerous petrol station licensees under a group litigation order over disputes arising from standard licence agreements.",
+        "The Esso Collection ('Tiger Token') promotion ran from 1986 to 1996; Esso sought recovery of deferred gift costs from licensees after the scheme ended.",
+        "Between 1996 and 1998 Esso adjusted fuel margins, shop fees and operating allowances under Business Process Redesign; licensees alleged commercial impossibility.",
+        "Licensees also claimed Esso breached fuel supply contracts by delivering 'hot fuel' measured in observed litres at terminals, causing wet stock losses on cooling.",
+        "102 licensees were parties; the trial determined generic construction issues common to the group."
+      ],
+      "procedural_posture": "Commercial Court group litigation trial on common issues of construction and law affecting Esso retail licence agreements.",
+      "outcome": "Esso largely succeeded on generic issues: licensees were bound to operate the promotion and liable for gift costs; 1996–1998 fee adjustments were permitted; fuel contracts were for observed volume at delivery temperature, not standard litres.",
+      "ratio": "Under Esso's standard licence agreements a licensee was obliged to join the Esso Collection promotion and became liable for gift and cross-redemption costs either under the licence or an implied scheme contract; Esso could adjust margins and allowances at its discretion provided adjustments were not arbitrary, capricious, dishonest or irrational and did not make operation commercially impossible; contracts for supply of motor fuel between distributor and retailer referred to observed litres at terminal loading temperature, not standard temperature accounting litres.",
+      "legal_issues": [
+        "Whether licensees were contractually liable for Esso Collection promotional costs",
+        "Whether Esso's 1996–1998 financial adjustments exceeded contractual discretion",
+        "Whether fuel supply contracts required measurement in standard litres"
+      ],
+      "catchwords": [
+        "petrol station licence",
+        "Esso Collection",
+        "Tiger Token",
+        "group litigation order",
+        "margin adjustment",
+        "hot fuel",
+        "observed volume",
+        "standard temperature accounting"
+      ],
+      "index_terms": [
+        "Esso Petroleum",
+        "Business Process Redesign",
+        "wet stock losses",
+        "Hythe Stanlow Grangemouth terminals",
+        "scheme contract",
+        "Moore-Bick J"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Extremely long judgment but complete with numbered summary of conclusions; individual licensee fact issues reserved for later proceedings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/981.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on lease forfeiture and service charges.",
+    "enrichment": {
+      "short_title": "Section 81 Housing Act 1996 limits forfeiture relief terms where service charges undetermined",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Leasehold law",
+        "Housing",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1996",
+          "provisions": [
+            "s 81"
+          ]
+        },
+        {
+          "title": "County Courts Act 1984",
+          "provisions": [
+            "s 138",
+            "s 138(3)"
+          ]
+        },
+        {
+          "title": "Law of Property Act 1925",
+          "provisions": [
+            "s 146"
+          ]
+        },
+        {
+          "title": "Landlord and Tenant Act 1985",
+          "provisions": [
+            "s 20B"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Leila Mohammadi withheld ground rent and service charges from 1992 over disrepair at her NW3 flat; landlords served a section 146 notice in May 1996 and re-entered by counterclaim in November 1996.",
+        "Section 81 of the Housing Act 1996 came into force on 24 September 1996, between the section 146 notice and re-entry.",
+        "At re-entry the service charge amount was neither agreed nor determined; the lease did not deem service charges as rent.",
+        "The county court granted relief from forfeiture on onerous terms including payment of over £25,000 service charges.",
+        "The tenant's damages claim for disrepair largely failed; only limited sums were awarded."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against county court orders on forfeiture, relief terms and service charge recovery.",
+      "outcome": "Appeal allowed in part; relief from forfeiture terms varied to exclude undetermined service charges and related costs; separate money judgment for service charges preserved.",
+      "ratio": "Where a landlord re-enters for non-payment of rent after section 81 of the Housing Act 1996 took effect but service charges were neither admitted nor determined, forfeiture for service charge arrears is forbidden and mandatory relief under section 138(3) of the County Courts Act 1984 applies, limiting relief terms to ground rent in arrear and possession-related costs excluding service charge elements; service charges are not 'rent' unless the lease deems them additional rent.",
+      "legal_issues": [
+        "Application of section 81 to terms of relief from forfeiture",
+        "Whether service charges are 'rent in arrear' under section 138 CCA 1984",
+        "Whether a written demand was a precondition to service charge liability under the lease"
+      ],
+      "catchwords": [
+        "forfeiture",
+        "relief from forfeiture",
+        "service charge",
+        "section 81 Housing Act 1996",
+        "section 138 County Courts Act 1984",
+        "section 146 notice",
+        "residential lease"
+      ],
+      "index_terms": [
+        "Leila Mohammadi",
+        "Anston Investments",
+        "Eton Hall NW3",
+        "Escalus Properties",
+        "Maryland Estates",
+        "mesne profits",
+        "May LJ"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Escalus Properties Ltd v Robinson",
+          "citation": "[1996] 2 QB 231",
+          "relation": "applied"
+        },
+        {
+          "name": "Maryland Estates Ltd v Joseph",
+          "citation": "[1999] 1 WLR 83",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Canas Property Co Ltd v KL Television Services",
+          "citation": "[1970] 2 QB 433",
+          "relation": "applied"
+        },
+        {
+          "name": "Khar v Delmounty Ltd",
+          "citation": "75 P & CR 232",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete appellate judgment with detailed statutory analysis and clear partial allowance of appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1037.json",
+    "status": "done",
+    "notes": "Complete second appeal on setting aside default possession for mortgage arrears.",
+    "enrichment": {
+      "short_title": "CPR 39.3(5)(c) applies where defendant knew of proceedings but missed trial date notice",
+      "area_of_law": [
+        "Civil procedure",
+        "Mortgage possession",
+        "Housing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 3.10",
+            "CPR 39.3",
+            "CPR 39.3(3)",
+            "CPR 39.3(5)",
+            "CPR 39.3(5)(a)",
+            "CPR 39.3(5)(b)",
+            "CPR 39.3(5)(c)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Robert Driscoll bought his Hackney flat under right-to-buy with a £30,000 council mortgage; arrears led to possession proceedings in 1996.",
+        "He attended procedural hearings in July and August 1996 but did not receive notice of the 27 November 1996 trial sent to his old address.",
+        "Possession was ordered in his absence; the council evicted his tenant, sold the property in July 1997, and cleared the mortgage debt.",
+        "Driscoll, suffering from schizophrenia, applied to set aside the order in January 2001, over four years later.",
+        "Both the district judge and circuit judge applied CPR 39.3(5) and found no reasonable prospect of success at trial."
+      ],
+      "procedural_posture": "Second appeal to the Court of Appeal against refusal to set aside a default mortgage possession order.",
+      "outcome": "Appeal dismissed; setting aside refused because the defendant lacked a reasonable prospect of success even though he had a good reason for non-attendance.",
+      "ratio": "White v Weston entitles a defendant to set aside judgment as of right only where he had no notice of the proceedings at all; where a defendant knew of the claim and participated but did not receive notice of the trial date, CPR 39.3(5) applies in full—including the requirement of a reasonable prospect of success—and the court need not grant a reheating that would be futile.",
+      "legal_issues": [
+        "Whether White v Weston applies when only the trial date notice was not received",
+        "Whether CPR 39.3(5)(c) must be satisfied before setting aside judgment",
+        "Whether delay and mental illness affected the discretion"
+      ],
+      "catchwords": [
+        "setting aside judgment",
+        "trial in absence",
+        "CPR 39.3(5)",
+        "reasonable prospect of success",
+        "mortgage possession",
+        "White v Weston",
+        "notice of hearing"
+      ],
+      "index_terms": [
+        "Robert Driscoll",
+        "Hackney Council",
+        "right to buy",
+        "Glendown House",
+        "second appeal",
+        "Brooke LJ"
+      ],
+      "linked_authorities": [
+        {
+          "name": "White v Weston",
+          "citation": "[1968] 2 QB 647",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Willowgreen Ltd v Smithers",
+          "citation": "[1994] 2 All ER 533",
+          "relation": "cited"
+        },
+        {
+          "name": "Al-Tobasishi v Aung",
+          "citation": "21 February 1994 (CA)",
+          "relation": "cited"
+        },
+        {
+          "name": "R v London County Quarter Sessions Appeals Committee, ex p Rossi",
+          "citation": "[1956] 1 QB 682",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Approved judgment with clear practice guidance distinguishing total non-service from missed trial date."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2139.json",
+    "status": "done",
+    "notes": "Complete sentencing guideline judgment with individual appeals; source summary truncated.",
+    "enrichment": {
+      "short_title": "Revised alcohol and tobacco duty evasion sentencing guidelines under section 170 CEMA 1979",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Customs and excise"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Customs and Excise Management Act 1979",
+          "provisions": [
+            "s 170"
+          ]
+        },
+        {
+          "title": "Proceeds of Crime Act 2002",
+          "provisions": []
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "s 130",
+            "s 143"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Court of Appeal issued revised sentencing guidelines for fraudulent evasion of excise duty on alcohol and tobacco, modifying Dosanjh in light of Kefford and changed prosecution policy.",
+        "Guidelines set starting points by duty evaded, with aggravating features including organisational role, repeated importations and professional smuggling.",
+        "Czyzewski organised two consignments of about 2.5 million cigarettes each; duty evaded approximately £670,000 plus VAT; his 4-year sentence was upheld.",
+        "Bryan's sentence was reduced from 30 months to 9 months; Mitchell's from 4 years to 2.5 years; Ward's from 9 months to 6 months.",
+        "Diafi's application for leave to appeal a 9-month sentence for repeated small cigarette importations was refused."
+      ],
+      "procedural_posture": "Court of Appeal Criminal Division judgment issuing sentencing guidelines and determining linked appeals and leave applications for section 170 CEMA offences.",
+      "outcome": "New guidelines promulgated; Czyzewski and Diafi appeals refused; Bryan, Mitchell and Ward sentences reduced.",
+      "ratio": "Sentencing for section 170 CEMA duty evasion should follow revised guideline starting points keyed principally to duty evaded and degree of professionalism, with movement up or down for aggravating and mitigating factors; deterrence remains relevant for major fraud but non-custodial or shorter sentences may be appropriate at lower levels, and sentencers should consider ancillary orders including confiscation, compensation and deprivation.",
+      "legal_issues": [
+        "Appropriate starting points for duty evasion by amount and role",
+        "Whether existing sentences were excessive under revised guidelines",
+        "Aggravating and mitigating factors for smuggling offences"
+      ],
+      "catchwords": [
+        "excise duty evasion",
+        "cigarette smuggling",
+        "section 170 CEMA",
+        "Dosanjh",
+        "sentencing guidelines",
+        "professional smuggling",
+        "deterrence"
+      ],
+      "index_terms": [
+        "Czyzewski",
+        "Bryan",
+        "Mitchell",
+        "Diafi",
+        "Ward",
+        "Sentencing Advisory Panel",
+        "Kefford",
+        "cross-channel smuggling"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Dosanjh",
+          "citation": "[1999] 1 Cr App R(S) 107",
+          "relation": "modified"
+        },
+        {
+          "name": "R v Kefford",
+          "citation": "[2002] 2 Cr App R(S) 495",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Powell",
+          "citation": "6 Cr App R(S) 354",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Complete guideline judgment with individual applications; source summary truncated but full_text complete."
+      }
+    }
+  }
+]

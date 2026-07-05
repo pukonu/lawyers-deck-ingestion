@@ -1,0 +1,648 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1020.json",
+    "status": "needs_review",
+    "notes": "Judges metadata polluted with historical figures quoted in the judgment (Denning MR, Bingham); substantive ECJ reference appeal on VAT carousel fraud.",
+    "enrichment": {
+      "short_title": "CCE v Federation of Technological Industries: ECJ reference on VAT anti-abuse powers",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "EU law",
+        "Public law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": [
+            "Schedule 11 paragraph 4",
+            "section 77A"
+          ]
+        },
+        {
+          "title": "Finance Act 2003",
+          "provisions": [
+            "section 17",
+            "section 18"
+          ]
+        },
+        {
+          "title": "Council Directive 77/388/EEC (Sixth VAT Directive)",
+          "provisions": [
+            "Article 21",
+            "Article 22"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mobile phone and computer traders challenged UK anti-abuse VAT provisions introduced to combat carousel and acquisition fraud costing billions annually.",
+        "Sections 17 and 18 of the Finance Act 2003 amended the VAT Act 1994 to create security and joint-and-several liability powers exercisable where traders knew or had reasonable grounds to suspect unpaid VAT.",
+        "Lightman J granted permission for judicial review and referred questions to the ECJ; CCE appealed the reference decision, not the grant of permission.",
+        "Jacob LJ held Article 21.3 acte clair conferred the necessary power, but Ward and Mantell LJJ doubted and the court maintained the ECJ reference."
+      ],
+      "procedural_posture": "Court of Appeal appeal from Lightman J's decision to refer VAT anti-abuse questions to the ECJ following permission for judicial review.",
+      "outcome": "Permission to appeal granted; court held it had jurisdiction to review the reference decision; majority maintained the ECJ reference with proposed questions despite Jacob LJ's view the point was acte clair.",
+      "ratio": "A national court of appeal may review whether a first instance judge was right to refer under Article 234 EC Treaty; whether Article 21.3 permits general joint-and-several liability to combat VAT abuse was not acte clair where purposive construction and legislative history remained arguable.",
+      "legal_issues": [
+        "Whether the Court of Appeal may interfere with a decision to refer questions to the ECJ",
+        "Whether Article 21.3 of the Sixth VAT Directive confers a general power to impose joint and several liability subject only to general principles",
+        "Whether the security and joint-and-several provisions were proportionate anti-abuse measures",
+        "Whether the point was acte clair so that no reference was necessary"
+      ],
+      "catchwords": [
+        "carousel fraud",
+        "VAT",
+        "joint and several liability",
+        "ECJ reference",
+        "acte clair",
+        "Article 21.3"
+      ],
+      "index_terms": [
+        "Customs and Excise",
+        "Federation of Technological Industries",
+        "mobile telephones",
+        "security provision",
+        "Sixth VAT Directive",
+        "Rheinmuhlen"
+      ],
+      "linked_authorities": [
+        "R v International Stock Exchange ex parte Else [1993] QB 534",
+        "Bulmer v Bollinger [1974] 1 Ch 401",
+        "Rheinmuhlen-Dusseldorf v Einfuhr und Vorratsstelle Getreide Case 166/73"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Full appellate reasoning on jurisdiction and Article 21.3, but judges metadata requires correction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/1861.json",
+    "status": "needs_review",
+    "notes": "Judges field empty though Harrison J gave the judgment; section 96(2) certification point is clear.",
+    "enrichment": {
+      "short_title": "Borak v SSHD: section 96(2) certification of fresh asylum claim",
+      "area_of_law": [
+        "Immigration law",
+        "Asylum law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 82(1)",
+            "section 84(1)(g)",
+            "section 92(2)",
+            "section 96(2)",
+            "section 120"
+          ]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 65(1)",
+            "section 75"
+          ]
+        },
+        {
+          "title": "Asylum and Immigration Appeal Act 1993",
+          "provisions": [
+            "section 8(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Croatian claimant of Serbian ethnicity failed asylum and human rights appeals based on fear of return and family killings linked to General Gotovina's indictment.",
+        "After further representations treated as a fresh asylum claim, the Secretary of State refused the claim and certified it under section 96(2) as relying on grounds already raised or required in earlier appeals.",
+        "The claimant argued asylum and Article 3 human rights grounds were distinct legal creatures so certification under section 96(2)(a) was unlawful.",
+        "Permission was limited by Buxton LJ so the claimant proceeded on the basis of no substantial factual difference between the fresh claim and the human rights appeal."
+      ],
+      "procedural_posture": "Judicial review of a section 96(2) certificate preventing appeal against refusal of a fresh asylum claim; permission granted on a restricted basis.",
+      "outcome": "Claim dismissed; Harrison J held a purposive reading of 'ground' permitted certification where factual and legal issues were substantially the same despite different legal labels, and section 96(2)(b) also applied; permission to appeal granted.",
+      "ratio": "For section 96(2) certification 'ground' comprises factual and legal aspects akin to a cause of action; where asylum and Article 3 claims raise the same substantive risk and protection issues, differing legal frameworks do not prevent certification designed to achieve finality.",
+      "legal_issues": [
+        "Meaning of 'ground' in section 96(2) of the 2002 Act",
+        "Whether an asylum ground is distinct from an Article 3 human rights ground for certification purposes",
+        "Application of section 96(2)(b) where indictment evidence existed at the time of the one-stop statement",
+        "Whether certification should follow a purposive or technical approach"
+      ],
+      "catchwords": [
+        "section 96",
+        "certification",
+        "fresh asylum claim",
+        "Article 3",
+        "one-stop appeal",
+        "finality"
+      ],
+      "index_terms": [
+        "General Gotovina",
+        "Croatia",
+        "Zenovics",
+        "Bagdanavicius",
+        "Belamurali",
+        "Devaseelan"
+      ],
+      "linked_authorities": [
+        "R (Belamurali) v Secretary of State for the Home Department [2003] EWHC 1183 (Admin)",
+        "R (Zenovics) v Secretary of State for the Home Department [2002] EWCA Civ 273",
+        "R (Bagdanavicius) v Secretary of State for the Home Department [2003] EWCA Civ 1605"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Statutory analysis and outcome are explicit; missing judge metadata only."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/1899.json",
+    "status": "needs_review",
+    "notes": "Interlocutory case management conference after LSC funding withdrawal; judges metadata includes spurious Lord Chief Justice entry.",
+    "enrichment": {
+      "short_title": "MMR vaccine group litigation: case management after legal aid withdrawal",
+      "area_of_law": [
+        "Personal injury",
+        "Product liability",
+        "Civil procedure",
+        "Group litigation",
+        "Legal aid"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Consumer Protection Act 1987",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Large group litigation alleging MMR/MR vaccine damage faced collapse after the Legal Services Commission withdrew funding for lead and non-lead claimants.",
+        "Claimants divided between those discontinuing, those awaiting possible funding restoration, those proceeding privately, and 110 who had not stated intentions.",
+        "Defendants offered costs amnesties for discontinuance or dismissal; many parents lacked legal advice on limitation, costs exposure, and funding prospects.",
+        "Keith J made directions on notification deadlines, expert report disclosure for FRC appeals, and gave in-principle approval to defendants' settlement terms."
+      ],
+      "procedural_posture": "Case management conference in ongoing group litigation following withdrawal of public funding.",
+      "outcome": "Orders made requiring undecided claimants to notify intentions by 22 October 2004 or face dismissal; discontinuance deadlines extended; expert materials disclosed for funding appeals; court approved settlement terms in principle for SmithKline, APMSD and Merck.",
+      "ratio": "Where public funding ends in mass tort litigation, the court may impose notification sanctions and extend deadlines to allow funding appeals to conclude, while approving costs-amnesty settlements only after balancing limitation, res judicata, and future claim risks for disabled child claimants.",
+      "legal_issues": [
+        "Appropriate sanctions for claimants failing to notify intentions to proceed or discontinue",
+        "Whether group litigation status could be terminated without the Lord Chief Justice revoking the practice direction",
+        "Effect of discontinuance versus dismissal on limitation and future negligence claims",
+        "Whether prospective cost-capping orders were justified",
+        "Court's power to approve settlements for persons under disability under CPR 21.10"
+      ],
+      "catchwords": [
+        "MMR litigation",
+        "group litigation",
+        "legal aid withdrawal",
+        "discontinuance",
+        "costs amnesty",
+        "case management"
+      ],
+      "index_terms": [
+        "Legal Services Commission",
+        "Funding Review Committee",
+        "Alexander Harris",
+        "SmithKline Beecham",
+        "Merck",
+        "Aventis Pasteur"
+      ],
+      "linked_authorities": [
+        "AB v John Wyeth & Brother Ltd [1993] 4 Med LR 1",
+        "AB v Leeds Teaching Hospitals NHS Trust [2003] EWHC 1034",
+        "Rhodes v Swithenbank (1889) 22 QBD 577"
+      ],
+      "confidence": {
+        "score": 0.85,
+        "level": "high",
+        "notes": "Detailed procedural directions but no final merits determination; metadata issues noted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2004/1748.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists Lord Macfadyen and Lord Mustill incorrectly; lengthy quantum judgment following 2002 liability decision.",
+    "enrichment": {
+      "short_title": "Skanska v Egger: quantum assessment after GMP contract dispute",
+      "area_of_law": [
+        "Construction law",
+        "Contract law",
+        "Engineering and infrastructure",
+        "Damages"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Following a May 2002 liability judgment, the court assessed quantum on hundreds of disputed items under a guaranteed maximum price contract between Egger and Skanska (successor to Kvaerner).",
+        "Major claims included removal of spoil, acceleration costs, consequential warehouse and transport losses, professional fees, and rectification of the fire fighting system.",
+        "Quantum experts Wishart and Simper narrowed many items; structural experts Masterton and Walsh assisted on technical valuations.",
+        "Individual claim valuations were determined throughout the judgment; final sums depended on complex agreed interest formulations."
+      ],
+      "procedural_posture": "Technology and Construction Court quantum trial read with the earlier liability judgment.",
+      "outcome": "Individual claim and counterclaim items valued in detail throughout the judgment; several Egger counterclaim items rejected or substantially reduced; parties to reflect agreed interest calculations in the final judgment sum.",
+      "ratio": "Quantum in complex construction disputes should be resolved item-by-item with expert assistance; costs claimed must be substantiated by contemporary evidence and represent genuine professional or contractual entitlement rather than litigation support work.",
+      "legal_issues": [
+        "Valuation of spoil removal and site availability claims",
+        "Recoverability of acceleration agreement costs",
+        "Assessment of consequential warehouse and logistics losses",
+        "Whether professional and WSP fees were contract administration or recoverable damages",
+        "Rectification costs for the fire fighting system"
+      ],
+      "catchwords": [
+        "construction quantum",
+        "GMP contract",
+        "acceleration",
+        "counterclaim",
+        "expert valuation",
+        "consequential loss"
+      ],
+      "index_terms": [
+        "Skanska Construction UK",
+        "Egger Barony",
+        "Kvaerner",
+        "NG Bailey",
+        "Turner & Townsend",
+        "fire fighting system"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.72,
+        "level": "medium",
+        "notes": "Very long itemised quantum judgment without a single consolidated total; judge metadata unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1192.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists HHJ Cowell (trial judge) not Court of Appeal panel; permission to appeal refused on fraud findings.",
+    "enrichment": {
+      "short_title": "Gleave v Holder: permission refused on classic motorcycle auction fraud",
+      "area_of_law": [
+        "Contract law",
+        "Misrepresentation",
+        "Sale of goods",
+        "Civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Buyer Holder rescinded an auction purchase of a 1964 Aermacchi racing motorcycle after discovering it was mainly a 1970-71 road model with mismatched numbers.",
+        "HHJ Cowell found seller Gleave fraudulently misrepresented the year, authenticity of numbers, and racing character, rejecting reliance on auction conditions.",
+        "Expert Linton testified he told Gleave before the auction the description was false; joint expert Bladon confirmed the misrepresentations.",
+        "Gleave sought permission to appeal and to add late evidence from Italian dealer Altinier that he had described the bike as 1964/65 when selling to Gleave."
+      ],
+      "procedural_posture": "Application for permission to appeal from county court judgment for fraudulent misrepresentation.",
+      "outcome": "Permission to appeal dismissed; Potter and Arden LJJ upheld trial judge's fraud findings on circa 1964 and crankcase number representations and rejected challenges to exclusion of late Altinier evidence and joint expert procedure.",
+      "ratio": "Findings of deliberate or reckless misrepresentation at trial are highly resistant to appeal; late witness evidence on central fraud issues should be excluded where not sought before trial, and joint expert reports may be relied on without oral evidence unless bias is substantiated.",
+      "legal_issues": [
+        "Whether the judge erred in excluding a single additional question to witness Altinier",
+        "Admissibility of fresh Altinier evidence on appeal under Ladd v Marshall",
+        "Propriety of relying on joint expert written reports after pre-trial conference with one party",
+        "Whether auction conditions excluded liability for fraudulent misrepresentation"
+      ],
+      "catchwords": [
+        "fraudulent misrepresentation",
+        "auction conditions",
+        "classic motorcycle",
+        "rescission",
+        "joint expert",
+        "permission to appeal"
+      ],
+      "index_terms": [
+        "Aermacchi",
+        "Robert Brookes Auctioneers",
+        "Derry v Peek",
+        "Ladd v Marshall",
+        "Altinier",
+        "Bladon"
+      ],
+      "linked_authorities": [
+        "Derry v Peek (1889) 14 App Cas 337",
+        "Ladd v Marshall [1954] 1 WLR 1489"
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Appellate reasoning clear though metadata lists wrong judges."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2371.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists Lord Phillips but Moses J delivered the judgment; Hard Cases support refusal for failed Zimbabwe asylum seeker.",
+    "enrichment": {
+      "short_title": "Guveya v NASS: Hard Cases support refused for failed Zimbabwe claimant",
+      "area_of_law": [
+        "Immigration law",
+        "Asylum law",
+        "Administrative law",
+        "Human rights",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 4",
+            "section 95"
+          ]
+        },
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 94"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Zimbabwe national Guveya failed asylum with all appeals exhausted and NASS section 95 support terminated.",
+        "He sought Hard Cases support under section 4 after the Home Office maintained a policy of not enforcing removal to Zimbabwe while expecting voluntary return.",
+        "The claimant argued the non-enforcement policy made voluntary return unreasonable and that refusal breached Article 3 positive obligations.",
+        "Interim relief had kept him in accommodation pending this judicial review."
+      ],
+      "procedural_posture": "Judicial review of NASS refusal of section 4 Hard Cases support and accommodation.",
+      "outcome": "Application dismissed; Moses J held the Secretary of State could expect voluntary return despite non-enforcement policy, section 4 was not engaged, and absence of support did not constitute Article 3 'treatment'; permission to appeal refused.",
+      "ratio": "A policy suspending enforced removal to Zimbabwe on political rather than safety grounds does not make refusal of voluntary return unreasonable or require Hard Cases support; section 4 protects those unable to leave, not those choosing to remain destitute; withholding support is not Convention 'treatment'.",
+      "legal_issues": [
+        "Whether non-enforcement of removal to Zimbabwe rendered voluntary return unreasonable",
+        "Correct application of the Hard Cases support policy under section 4",
+        "Whether section 4 provides a safety net analogous to non-removal policy",
+        "Whether refusal of support engages Article 3 positive obligations under Limbuela principles"
+      ],
+      "catchwords": [
+        "Hard Cases support",
+        "section 4",
+        "Zimbabwe",
+        "non-enforcement policy",
+        "destitution",
+        "Article 3"
+      ],
+      "index_terms": [
+        "NASS",
+        "failed asylum seeker",
+        "voluntary return",
+        "UNHCR",
+        "Limbuela",
+        "Niogatu"
+      ],
+      "linked_authorities": [
+        "R (Limbuela) v Secretary of State for the Home Department [2004] EWCA Civ 540",
+        "R (K) v Lambeth London Borough Council [2003] EWCA Civ 1150",
+        "R (Niogatu) v Secretary of State [2004] EWHC 1806 (Admin)"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Policy and Article 3 analysis fully reasoned; judge metadata incorrect."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1190.json",
+    "status": "needs_review",
+    "notes": "Judges field empty; permission to appeal refused on Article 8 immigration removal.",
+    "enrichment": {
+      "short_title": "Hussain v SSHD: Article 8 removal of illegal entrant spouse",
+      "area_of_law": [
+        "Immigration law",
+        "Human rights",
+        "Family law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "section 65(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Pakistani citizen entered the UK illegally in 1995 and married a British citizen with four stepchildren in 1999.",
+        "A consultant psychiatrist reported removal would cause psychological harm because the applicant had become a father figure after a prior kidnapping trauma.",
+        "The Special Adjudicator held out-of-country entry clearance would be disproportionate under Article 8; the IAT reversed, emphasising immigration history and effective control.",
+        "The IAT treated removal as a temporary interference because the applicant could apply from Pakistan within about six months."
+      ],
+      "procedural_posture": "Application for permission to appeal from IAT decision restoring the Secretary of State's removal decision.",
+      "outcome": "Permission to appeal refused; Tuckey and Potter LJJ held the IAT legitimately balanced effective immigration control against family life and had considered impact on wife and stepchildren.",
+      "ratio": "Section 65(1) requires primary focus on the appellant's own Article 8 rights; an illegal entrant's marriage does not queue-jump immigration procedures, and temporary separation for out-of-country entry clearance can be justified where family reunification remains achievable.",
+      "legal_issues": [
+        "Whether the IAT could interfere with the Special Adjudicator's Article 8 assessment after Subesh",
+        "Extent to which impact on stepchildren should be considered",
+        "Whether requiring out-of-country entry clearance was a disproportionate Article 8 interference",
+        "Relevance of the applicant's illegal entry and immigration history"
+      ],
+      "catchwords": [
+        "Article 8",
+        "family life",
+        "illegal entry",
+        "entry clearance",
+        "stepchildren",
+        "immigration control"
+      ],
+      "index_terms": [
+        "spouse visa",
+        "Special Adjudicator",
+        "IAT",
+        "Kehinde",
+        "Subesh",
+        "Dr Steadman"
+      ],
+      "linked_authorities": [
+        "Subesh v Secretary of State for the Home Department [2004] EWCA Civ 56"
+      ],
+      "confidence": {
+        "score": 0.86,
+        "level": "high",
+        "notes": "Short permission judgment with clear ratio; missing appellate judge names."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2004/1885.json",
+    "status": "needs_review",
+    "notes": "Judges field empty; supplementary summary assessment of costs after settled holiday contact application.",
+    "enrichment": {
+      "short_title": "T v T: summary assessment of father's costs after USA trip dispute",
+      "area_of_law": [
+        "Family law",
+        "Child arrangements",
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 43",
+            "Part 44 rule 44.5",
+            "Practice Direction on costs"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Father applied for permission to take his 10-year-old son to the USA for Easter 2004; mother opposed but the dispute settled on undertakings about travel frequency.",
+        "The court had ordered the mother to pay half the father's costs; the father claimed £8,481 including VAT.",
+        "The mother, acting in person, challenged the costs as disproportionate; The Costs Partnership suggested £4,254 was appropriate.",
+        "The judge conducted a summary assessment rather than detailed assessment to avoid further expense on a straightforward order-interpretation application."
+      ],
+      "procedural_posture": "Written submissions on quantum following an earlier costs order in settled children proceedings.",
+      "outcome": "Father's recoverable costs from the mother assessed at £5,000 total, so she pays £2,500 as one half; figure reduced for disproportionate fee earner rates and unnecessary counsel work.",
+      "ratio": "On summary assessment of costs in short one-day family applications, the paying party should only bear sums proportionately and reasonably incurred; senior fee earners and counsel advice may be excessive where solicitors could settle a simple order-interpretation dispute.",
+      "legal_issues": [
+        "Whether summary or detailed assessment was appropriate",
+        "What costs were proportionate for a settled holiday contact application",
+        "Application of CPR 44.5 conduct and proportionality factors",
+        "Extent to which the mother's liability should reflect senior solicitor and counsel charges"
+      ],
+      "catchwords": [
+        "summary assessment",
+        "children proceedings",
+        "holiday contact",
+        "proportionality",
+        "costs",
+        "litigant in person"
+      ],
+      "index_terms": [
+        "USA trip",
+        "undertakings",
+        "fee earner rates",
+        "Costs Partnership",
+        "CPR Part 43"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.84,
+        "level": "high",
+        "notes": "Costs quantum clearly determined; anonymised parties and empty judges metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/2253.json",
+    "status": "needs_review",
+    "notes": "Judges metadata lists Lord Steyn, Lord Millett and duplicate Spencer entries; unprecedented jurisdictional ruling after death of Kay LJ.",
+    "enrichment": {
+      "short_title": "R v Coates and others: jurisdiction after death of Court of Appeal judge",
+      "area_of_law": [
+        "Criminal procedure",
+        "Appellate jurisdiction",
+        "Constitutional law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 55",
+            "section 59"
+          ]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 34"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Appeals against conviction heard by Kay LJ, Evans J and Pitchers J were reserved after full argument.",
+        "The three judges met and agreed outcomes and reasons, but Kay LJ died before drafting the judgment.",
+        "Counsel argued the remaining two judges lacked jurisdiction to determine convictions under section 55 because appeals were not finally 'determined'.",
+        "Kay LJ had announced in open court dismissal of some renewed leave applications in the Terry appeal before his death."
+      ],
+      "procedural_posture": "Preliminary hearing on whether the Court of Appeal Criminal Division could give judgment after the presiding judge's death.",
+      "outcome": "Reserved conviction appeals not determined and must be reheard before a fresh three-judge court; decisions announced in open court before death remain valid and reasons may be given by surviving judges; sentence appeals to follow rehearing.",
+      "ratio": "Under section 55 SCA 1981 an appeal against conviction is not determined until the court's decision is binding on its members, so provisional agreement before draft judgment does not suffice; but an oral announcement of allow/dismiss at the hearing is a final determination surviving a judge's later death.",
+      "legal_issues": [
+        "When an appeal against conviction is 'determined' for section 55 purposes",
+        "Whether surviving judges may deliver reasons for an orally announced decision",
+        "Effect of Kay LJ's death on reserved judgments versus announced decisions",
+        "Consequential listing and constitution directions for rehearing"
+      ],
+      "catchwords": [
+        "Court of Appeal Criminal Division",
+        "jurisdiction",
+        "death of judge",
+        "reserved judgment",
+        "section 55",
+        "rehearing"
+      ],
+      "index_terms": [
+        "Kay LJ",
+        "Coates",
+        "Graves",
+        "Terry",
+        "R v Cannings",
+        "Anufrijeva"
+      ],
+      "linked_authorities": [
+        "R (Anufrijeva) v Secretary of State for the Home Department [2004] 1 AC 604",
+        "R v Cannings [2004] EWCA Crim 1"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed jurisdictional analysis; metadata lists incorrect Law Lords."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1037.json",
+    "status": "done",
+    "notes": "Appeal on overlapping solicitor negligence damages and Allied Maples discount; Neuberger, Nourse and Sedley LJJ.",
+    "enrichment": {
+      "short_title": "Maden v Cliffords: overlapping solicitor negligence and loss of chance",
+      "area_of_law": [
+        "Professional negligence",
+        "Solicitors",
+        "Damages",
+        "Contract law",
+        "Tort law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Maden bought development land negligently searched by Goodwin solicitors, then faced Wardle adverse possession claim over valuable Plot A advised by Cliffords.",
+        "Goodwin paid £100,000 in May 1996 to settle the conveyancing negligence claim; Cliffords wrongly advised payments into court protected against adverse costs in the Wardle action.",
+        "The trial judge found Maden would have settled the Wardle action for £20,000 plus costs by 30 September 1996 if properly advised; Chadburn ultimately won Plot A at trial.",
+        "Cliffords appealed arguing double recovery from the Goodwin settlement and that damages should be discounted for settlement uncertainty."
+      ],
+      "procedural_posture": "Appeal from High Court award of damages against Cliffords for negligent costs advice in adverse possession litigation.",
+      "outcome": "Appeal allowed in part; court rejected double recovery argument but applied a 20% Allied Maples discount because Mrs Chadburn's willingness to settle at £20,000 was high but not certain.",
+      "ratio": "Where successive negligent solicitors cause distinct losses at different times, an earlier settlement with one firm does not reduce damages for a later novus actus by another; loss-of-chance principles require discounting unless the counterparty's acceptance of settlement was virtually certain.",
+      "legal_issues": [
+        "Whether Goodwin settlement precluded recovery against Cliffords for later Wardle action losses",
+        "Admissibility of evidence as to how the Goodwin settlement figure was composed",
+        "Proper discount for uncertainty of Mrs Chadburn accepting a £20,000 settlement",
+        "Application of Allied Maples loss-of-chance principles to solicitor negligence"
+      ],
+      "catchwords": [
+        "solicitor negligence",
+        "double recovery",
+        "loss of chance",
+        "adverse possession",
+        "Allied Maples",
+        "novus actus interveniens"
+      ],
+      "index_terms": [
+        "Clifford Coppock & Carter",
+        "Mark Goodwin",
+        "Wardle action",
+        "payment into court",
+        "Tomlin order",
+        "Plot A"
+      ],
+      "linked_authorities": [
+        "Allied Maples Group Ltd v Simmons & Simmons [1995] 1 WLR 1602",
+        "Ford v White & Co [1964] 1 WLR 885",
+        "Cottrill v Steyning & Littlehampton Building Society [1966] 1 WLR 753"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment on both grounds with clear remedial order."
+      }
+    }
+  }
+]

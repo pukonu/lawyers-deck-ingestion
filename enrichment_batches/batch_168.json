@@ -1,0 +1,714 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1712.json",
+    "status": "done",
+    "notes": "Complete short Court of Appeal judgment on permission to appeal and Tomlin order stay.",
+    "enrichment": {
+      "short_title": "Right-of-way Tomlin order appeal refused as futile where neighbours were not parties",
+      "area_of_law": [
+        "Property law",
+        "Easements",
+        "Civil procedure",
+        "Neighbour disputes"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr and Mrs Hayes owned No.79b Melbury Gardens; access required a right of way over a driveway belonging to neighbouring No.79a (the Pedersens), originally reserved in a 1983 borough transfer but mismatched in the 1989 transfer to the Hayes.",
+        "The Hayes sued Merton rather than the Pedersens; the dispute was compromised by a Tomlin order defining an agreed route, but the Pedersens were never consulted and did not accept the route.",
+        "Rimer J construed the Tomlin order in favour of the Hayes as against the borough, while observing the ruling would have little practical value because the Pedersens were not bound.",
+        "The borough sought permission to appeal; the Court of Appeal treated the appeal as before the court, stayed enforcement of the Tomlin order, and refused permission as lacking practical utility."
+      ],
+      "procedural_posture": "Adjourned application for permission to appeal from a Chancery Division order construing a Tomlin compromise; formally granted permission, appeal heard, and order varied to stay the Tomlin order.",
+      "outcome": "Application for permission to appeal refused in substance; Tomlin order stayed; Hayes awarded costs of £2,158.50; liberty to apply.",
+      "ratio": "Where the real dispute is between neighbours over the line of a right of way and the non-neighbour parties' agreed construction cannot bind the adjoining owner, an appeal on the meaning of a Tomlin order between council and owners is of no practical value and permission should be refused; county court proceedings between the neighbours may be the appropriate forum.",
+      "legal_issues": [
+        "Whether permission to appeal should be granted where the appealed construction cannot bind the adjoining landowners",
+        "Whether the Tomlin order should be stayed pending resolution between the true disputants"
+      ],
+      "catchwords": [
+        "right of way",
+        "easement",
+        "Tomlin order",
+        "permission to appeal",
+        "neighbour dispute",
+        "transfer construction",
+        "stay of order"
+      ],
+      "index_terms": [
+        "London Borough of Merton",
+        "Melbury Gardens",
+        "Pedersen",
+        "Rimer J",
+        "Chadwick LJ",
+        "driveway reservation"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment text with clear reasoning and outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/pat/2003/2787.json",
+    "status": "done",
+    "notes": "Very long two-part summary judgment; full text complete including resumed hearing conclusions.",
+    "enrichment": {
+      "short_title": "Minority shareholders succeed on void patent assignment and equitable compensation against Oystertec",
+      "area_of_law": [
+        "Company law",
+        "Patent law",
+        "Fiduciary duties",
+        "Insolvency law",
+        "Equity",
+        "Derivative actions",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Patents Act 1977",
+          "sections": ["s.32(9)", "s.34"]
+        },
+        {
+          "instrument": "Insolvency Act 1986",
+          "sections": ["s.123", "Part I"]
+        },
+        {
+          "instrument": "Companies Act 1985",
+          "sections": ["s.303"]
+        }
+      ],
+      "key_facts": [
+        "Minority shareholders of Easyrad Limited brought a derivative claim challenging the 1998 assignment of the Oyster Converter patent from Easyrad to majority shareholder Paul Davidson for patent fees alone, pursuant to a 1997 Easyrad Insolvency Agreement.",
+        "Davidson floated Oystertec plc on AIM in February 2001 representing Oystertec as owner of the patent; minority investors Fraser, Barker and Davidson Tools had unsuccessfully negotiated settlement/compensation beforehand.",
+        "Pumfrey J held on summary judgment that the divestiture clause in the insolvency agreement was void as contrary to public policy and that the patent was outside the agreement in any event because it had been acquired for £50,000 not £1.",
+        "On resumed hearing, accord and satisfaction and laches defences failed; equitable compensation succeeded against Oystertec and breach of fiduciary duty succeeded against Davidson but not Binney."
+      ],
+      "procedural_posture": "Summary judgment application in derivative action proceedings permitted by Pumfrey J on 29 July 2002, with a resumed hearing on accord and satisfaction, laches/acquiescence and damages for breach of fiduciary duty.",
+      "outcome": "Claim for equitable financial compensation succeeded against Oystertec plc; claim for damages for breach of fiduciary duty succeeded at summary judgment stage against Paul Davidson but failed against Adrian Binney; permission to appeal indicated; costs and quantum to follow.",
+      "ratio": "An agreement allowing a business to be peremptorily stripped of a substantial unqualified asset on insolvency by unilateral action is void against public policy protecting creditors; where a patent assignment is ineffective, the proper remedy is equitable compensation rather than a declaration of ownership, and a controlling director who procured the assignment for personal benefit cannot show the transaction was in the company's best interests.",
+      "legal_issues": [
+        "Whether the Easyrad Insolvency Agreement validly authorised divestiture of the patent on insolvency",
+        "Whether the Easyrad Assignment was void or voidable for breach of fiduciary duty",
+        "Whether minority shareholders were barred by affirmation, accord and satisfaction, or laches",
+        "Whether Oystertec and Davidson were liable in equitable compensation and/or damages"
+      ],
+      "catchwords": [
+        "patent assignment",
+        "derivative action",
+        "insolvency agreement",
+        "public policy",
+        "equitable compensation",
+        "directors' fiduciary duties",
+        "summary judgment",
+        "laches",
+        "AIM flotation"
+      ],
+      "index_terms": [
+        "Easyrad Limited",
+        "Oystertec plc",
+        "Oyster Converter",
+        "Paul Davidson",
+        "Adrian Binney",
+        "Whitmore v Mason",
+        "Re Jay",
+        "Neuberger J insolvency clauses"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Whitmore v Mason (1861) 2 J & H 204",
+          "role": "applied"
+        },
+        {
+          "citation": "Carreras Rothmans Ltd v Freeman Mathews Treasure Ltd [1985] Ch 207",
+          "role": "distinguished"
+        },
+        {
+          "citation": "Re Jay, ex parte Jay (1880) 14 Ch D 19",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full lengthy judgment read including both September and resumed parts; source metadata lists extraneous judges not appearing in the judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1743.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on pleading requirements in deceit.",
+    "enrichment": {
+      "short_title": "Pilot's deceit judgment set aside where dishonesty finding was never pleaded or put to him",
+      "area_of_law": [
+        "Tort law",
+        "Deceit and fraud",
+        "Employment law",
+        "Civil procedure",
+        "Pleading"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "DHL Air offered pilot Wells employment subject to signing a formal contract; he accepted in writing on 8 October 2001 while still employed by Virgin and began a B757 training course on 5 November without disclosing his continuing Virgin employment.",
+        "He later declined to join DHL; Virgin dismissed him after DHL contacted Virgin; DHL claimed about £13,845 for wasted training costs in contract and deceit.",
+        "The county court judge dismissed the contract claim but found deceit based on conduct at the course—a case not pleaded, not in closing submissions, and not put to Wells in cross-examination.",
+        "The Court of Appeal held Wells was prejudiced and could not uphold the crucial dishonesty finding; the respondent's notice argument on the October letter also failed."
+      ],
+      "procedural_posture": "Appeal with permission from Reading County Court after one-day trial and written closing submissions.",
+      "outcome": "Appeal allowed; judgment entered for the defendant; costs to be assessed if not agreed.",
+      "ratio": "A finding of deceit is a grave matter requiring distinct pleading of fraud; where the judge finds dishonesty on an unpleaded basis not put to the defendant, the finding cannot stand even if much related evidence was ventilated at trial.",
+      "legal_issues": [
+        "Whether the judge's finding of deceit by conduct on 5 November 2001 was procedurally valid",
+        "Whether the appellant was prejudiced by the unpleaded dishonesty finding",
+        "Whether the respondent's notice could uphold deceit based on the October acceptance letter"
+      ],
+      "catchwords": [
+        "deceit",
+        "fraud pleading",
+        "dishonesty",
+        "training costs",
+        "misrepresentation by conduct",
+        "prejudice",
+        "Civil Procedure Rules proportionality"
+      ],
+      "index_terms": [
+        "DHL Air Ltd",
+        "Virgin Air",
+        "First Officer pilot",
+        "Reading County Court",
+        "Davy v Garrett",
+        "Bradford Building Society v Borders"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Davy v Garrett (1877) 5 Ch D 473",
+          "role": "applied"
+        },
+        {
+          "citation": "Bradford Third Equitable Benefit Building Society v Borders [1941] 2 All ER 205",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete appellate judgment with clear procedural ratio."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2776.json",
+    "status": "done",
+    "notes": "Short costs-only judgment following consent order allowing appeal.",
+    "enrichment": {
+      "short_title": "Richmond LEA ordered to pay 75% of SENT appeal costs after conceding tribunal error",
+      "area_of_law": [
+        "Education law",
+        "Special educational needs",
+        "Costs",
+        "Administrative law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The claimant appealed to the High Court against a Special Educational Needs and Disability Tribunal decision.",
+        "Richmond upon Thames conceded on appeal that the tribunal had erred in law, principally because the authority failed to supply critical information.",
+        "The claimant proposed 75% costs reflecting that not all appeal grounds depended on the tribunal's error; the respondent rejected that offer.",
+        "Owen J ordered the respondent to pay 75% of the appellant's appeal costs and the costs of the costs application after 16 September 2003."
+      ],
+      "procedural_posture": "High Court determination of costs liability following a consent order allowing the appeal, on written submissions and papers.",
+      "outcome": "Respondent ordered to pay 75% of appellant's appeal costs and costs of the costs application incurred after 16 September 2003.",
+      "ratio": "Where a local authority concedes a statutory appeal because the SEND tribunal erred in law through the authority's failure to supply critical information, it is plainly appropriate for the authority to pay at least a substantial proportion of the appellant's costs; a reasonable 75% offer rejected by the authority should be reflected in the costs order.",
+      "legal_issues": [
+        "What proportion of appeal costs the conceding local authority should pay where some grounds did not depend on the conceded error"
+      ],
+      "catchwords": [
+        "special educational needs",
+        "SEND tribunal",
+        "costs order",
+        "consent order",
+        "local education authority",
+        "tribunal error of law"
+      ],
+      "index_terms": [
+        "London Borough of Richmond upon Thames",
+        "Ronald",
+        "Special Educational Needs and Disability Tribunal",
+        "costs application"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Short but complete costs judgment; substantive merits not re-decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2839.json",
+    "status": "done",
+    "notes": "Complete judicial review judgment on immigration certification and family links policy.",
+    "enrichment": {
+      "short_title": "Sri Lankan claimant fails JR despite rejection of SSHD's narrow family links policy construction",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Human rights",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Human Rights Act 1998",
+          "sections": ["Article 8 ECHR"]
+        },
+        {
+          "instrument": "Immigration and Asylum Act 1999",
+          "sections": ["s.72(2)(a)"]
+        },
+        {
+          "instrument": "Asylum and Immigration Act 1996",
+          "sections": ["s.2"]
+        }
+      ],
+      "key_facts": [
+        "Sri Lankan claimant entered the UK clandestinely in 1998, was certified as a Dublin/third-country case returnable to Germany, and later relied on his wife and child in the UK for an Article 8 claim.",
+        "The wife had arrived separately, initially denied knowledge of the claimant, and received an initial asylum refusal in February 2001; the Secretary of State certified the November 2002 Article 8 claim as manifestly unfounded.",
+        "Kay J rejected the SSHD's novel construction that the family links policy never applied because a third-country decision had already been taken in 1998.",
+        "Nevertheless the claim failed because, even applying the 1991 policy, discretion and Article 8 proportionality would still have justified certification given the claimant's deceptive history and available reunification routes."
+      ],
+      "procedural_posture": "Application for judicial review of a section 72(2)(a) manifestly unfounded certificate in respect of an Article 8 human rights claim.",
+      "outcome": "Application for judicial review refused; usual legally aided costs assessment ordered.",
+      "ratio": "A potential third-country case may remain reviewable under the family links policy when circumstances change, but an unmeritorious immigration history and concealed family links can justify both adverse exercise of discretion under the policy and a manifestly unfounded certificate where Article 8 interference would still be proportionate.",
+      "legal_issues": [
+        "Construction of the family links policy for spouses present before an initial asylum decision",
+        "Whether the Secretary of State reasonably certified the Article 8 claim as manifestly unfounded",
+        "How Adan and Aitseguer affected the claimant's earlier judicial review history"
+      ],
+      "catchwords": [
+        "manifestly unfounded certificate",
+        "Article 8",
+        "family links policy",
+        "safe third country",
+        "Dublin Convention",
+        "proportionality",
+        "asylum"
+      ],
+      "index_terms": [
+        "Nadesu",
+        "Sri Lanka",
+        "Germany return",
+        "Adan and Aitseguer",
+        "Mahmood",
+        "Ekinci",
+        "Razgar",
+        "Gashi"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Adan and Aitseguer [2001] 2 AC 477",
+          "role": "considered"
+        },
+        {
+          "citation": "Secretary of State for the Home Department v Razgar [2003] EWCA Civ 840",
+          "role": "considered"
+        },
+        {
+          "citation": "R (Gashi) v Secretary of State for the Home Department [2003] EWHC 1198 Admin",
+          "role": "considered"
+        },
+        {
+          "citation": "Mahmood v Secretary of State for the Home Department [2001] 1 WLR 840",
+          "role": "applied"
+        },
+        {
+          "citation": "R (Ekinci) v Secretary of State [2003] EWCA Civ 765",
+          "role": "applied"
+        },
+        {
+          "citation": "Abdullai Osman Conteh v Secretary of State for the Home Department [1992] Imm AR 594",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment with detailed factual chronology and clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2515.json",
+    "status": "done",
+    "notes": "Complete statutory appeal judgment under Medical Act 1983.",
+    "enrichment": {
+      "short_title": "GMC nine-month suspension upheld for inappropriate obesity drug prescribing at slimming clinic",
+      "area_of_law": [
+        "Medical regulation",
+        "Professional discipline",
+        "Public health",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Medical Act 1983",
+          "sections": ["s.40"]
+        },
+        {
+          "instrument": "National Health Service and Health Care Professions Act 2002",
+          "sections": ["s.30"]
+        }
+      ],
+      "key_facts": [
+        "Dr Abu-Romia worked at the Image slimming clinic in Warrington and prescribed Diethylpropion to Ms A (a trading standards officer) and Ms B without adequate history-taking, non-pharmacological management, patient information, or GP notification.",
+        "Diethylpropion lacked a product licence for much of the relevant period and both patients had BMI around 27, below guideline thresholds for pharmacotherapy.",
+        "The GMC Professional Conduct Committee found serious professional misconduct and imposed nine months' suspension with educational conditions before resumption.",
+        "Wall J dismissed the doctor's lay appeal grounds, holding the committee's findings were open on the evidence and the suspension was not disproportionate."
+      ],
+      "procedural_posture": "Statutory appeal under section 40 of the Medical Act 1983 against a GMC Professional Conduct Committee suspension order; appellant appeared in person.",
+      "outcome": "Appeal dismissed on both liability and penalty.",
+      "ratio": "On a section 40 appeal the court reviews whether committee findings were open on the evidence and whether penalty is disproportionate; cursory obesity clinic prescribing contrary to Royal College and GMC guidance, including during licence withdrawal, can justify serious professional misconduct and suspension even after an unblemished career.",
+      "legal_issues": [
+        "Whether the committee's findings on history-taking, counselling, non-pharmacological management, licensing and GP notification were supported by evidence",
+        "Whether nine months' suspension was disproportionate",
+        "Whether use of a trading standards test purchaser invalidated the proceedings"
+      ],
+      "catchwords": [
+        "serious professional misconduct",
+        "General Medical Council",
+        "obesity prescribing",
+        "Diethylpropion",
+        "product licence",
+        "professional discipline appeal",
+        "slimming clinic"
+      ],
+      "index_terms": [
+        "Abu-Romia",
+        "Image Clinic Warrington",
+        "Royal College of Physicians obesity guidance",
+        "McCoan v GMC",
+        "Article 6 fair hearing"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "McCoan v GMC [1964] 3 All ER 143",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed full judgment reviewing committee findings and penalty."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3031.json",
+    "status": "done",
+    "notes": "Complete criminal appeal judgment; source summary field is truncated but full_text is complete.",
+    "enrichment": {
+      "short_title": "Pharmacist's false accounting convictions upheld despite criticism of dishonesty direction",
+      "area_of_law": [
+        "Criminal law",
+        "False accounting",
+        "Theft Act offences",
+        "Criminal procedure",
+        "Sentencing and costs"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Theft Act 1968",
+          "sections": ["s.17(1)(a)", "s.34(2)(a)"]
+        }
+      ],
+      "key_facts": [
+        "Layean Atkinson, a Derby pharmacist, was convicted on 15 of 21 counts of false accounting relating to prescription pricing forms for nursing-home patients, fined £200 per count and ordered to pay £17,142 costs.",
+        "The prosecution case was that she knowingly submitted forms falsely claiming exemption or non-payment; her defence was carelessness under business stress after marital breakdown.",
+        "The judge directed that if she knew it was likely batch-signed forms included false declarations, that could support dishonesty; the Court of Appeal considered this direction borderline but upheld convictions viewing the summing-up as a whole.",
+        "No Ghosh direction was required; inconsistent acquittal on one count did not render other convictions unsafe."
+      ],
+      "procedural_posture": "Appeal against conviction with leave on three grounds and renewed application on a fourth ground concerning inconsistent verdicts.",
+      "outcome": "Appeal dismissed; convictions held safe; renewed application on fourth ground refused.",
+      "ratio": "For section 17(1)(a) false accounting the central issue is whether prescription forms were submitted dishonestly with a view to gain; a direction that knowing a batch likely contained false forms may support dishonesty sits near the carelessness borderline but need not render convictions unsafe when the summing-up as a whole requires knowledge of falsity, and Ghosh is unnecessary where the defence was inadvertence not honest belief.",
+      "legal_issues": [
+        "Whether the judge misdirected on dishonesty by referring to likelihood in batch-signing",
+        "Whether a Ghosh direction was required",
+        "Whether acquittal on count 18 made convictions on other counts unsafe"
+      ],
+      "catchwords": [
+        "false accounting",
+        "Prescription Pricing Authority",
+        "dishonesty direction",
+        "Ghosh test",
+        "majority verdicts",
+        "inconsistent verdicts",
+        "pharmacy fraud"
+      ],
+      "index_terms": [
+        "Atkinson Pharmacy Derby",
+        "nursing home prescriptions",
+        "R v Cunningham",
+        "R v Woollin",
+        "R v Ghosh",
+        "Derby Crown Court"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "R v Cunningham [1957] 2 QB 396",
+          "role": "considered"
+        },
+        {
+          "citation": "R v Woollin [1999] AC 82",
+          "role": "considered"
+        },
+        {
+          "citation": "R v Ghosh [1982] 1 QB 1053",
+          "role": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full appellate judgment; truncated summary in source metadata only."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/2602.json",
+    "status": "done",
+    "notes": "Landmark first-instance decision on Contracts (Rights of Third Parties) Act 1999 and arbitration.",
+    "enrichment": {
+      "short_title": "Chartering brokers held entitled and obliged to arbitrate commission claims under 1999 Act section 8",
+      "area_of_law": [
+        "Contract law",
+        "Privity of contract",
+        "Arbitration",
+        "Shipping and chartering",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Contracts (Rights of Third Parties) Act 1999",
+          "sections": ["s.1", "s.8"]
+        },
+        {
+          "instrument": "Arbitration Act 1996",
+          "sections": ["s.67", "s.9", "Part I"]
+        },
+        {
+          "instrument": "Law of Property Act 1925",
+          "sections": ["s.136"]
+        }
+      ],
+      "key_facts": [
+        "Cleaves, chartering brokers, negotiated nine time charters for Nisshin each containing commission payable to Cleaves and an owners/charterers arbitration clause.",
+        "Nisshin challenged Cleaves' entitlement to commission and referred the dispute to arbitration; arbitrators held they had jurisdiction under sections 1 and 8 of the 1999 Act.",
+        "Colman J held commission clauses purporting to confer benefit on expressly identified brokers engaged section 1(1)(b), not disapplied by section 1(2), including split-commission wording.",
+        "Section 8 treated brokers as parties to the arbitration agreement for enforcement purposes by analogy with assignees taking substantive rights subject to arbitration."
+      ],
+      "procedural_posture": "Section 67 Arbitration Act 1996 application to the Commercial Court to determine whether arbitrators had jurisdiction over third-party broker commission claims.",
+      "outcome": "Application dismissed; arbitrators held to have jurisdiction; brokers entitled and obliged to arbitrate commission disputes.",
+      "ratio": "Where a charterparty commission clause purports to confer a benefit on an identified broker, section 1(1)(b) applies unless the contract clearly negates third-party enforcement; section 8 then binds the broker to the charterparty arbitration agreement when the dispute would have been arbitrable between owner and charterer, reflecting a conditional-benefit/assignment analogy rather than requiring express party intention to extend arbitration to brokers.",
+      "legal_issues": [
+        "Whether Cleaves could enforce commission clauses under section 1",
+        "Whether split-commission wording conferred a separate enforceable benefit",
+        "Whether trust-of-a-promise analysis rebutted third-party enforcement after the 1999 Act",
+        "Whether section 8 subjected brokers to owners/charterers arbitration clauses"
+      ],
+      "catchwords": [
+        "Contracts (Rights of Third Parties) Act 1999",
+        "chartering commission",
+        "arbitration jurisdiction",
+        "section 67 application",
+        "conditional benefit",
+        "privity reform",
+        "time charterparty"
+      ],
+      "index_terms": [
+        "Cleaves & Company",
+        "Nisshin Shipping",
+        "Les Affreteurs Reunis v Walford",
+        "Robertson v Wait",
+        "The Jay Bola",
+        "The Padre Island",
+        "Andrew Burrows LMCLQ"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Les Affreteurs Reunis SA v Leopold Walford (London) Ltd [1919] AC 801",
+          "role": "applied"
+        },
+        {
+          "citation": "Robertson v Wait (1853) 8 Ex 299",
+          "role": "applied"
+        },
+        {
+          "citation": "DVA v Voest Alpine, The Jay Bola [1997] 2 Lloyd's Rep 279",
+          "role": "applied"
+        },
+        {
+          "citation": "The Padre Island [1984] 2 Lloyd's Rep 408",
+          "role": "considered"
+        },
+        {
+          "citation": "The Makhutai [1996] AC 650",
+          "role": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "First judicial consideration of the 1999 Act; comprehensive judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2866.json",
+    "status": "done",
+    "notes": "Complete judgment on limited certification ground plus procedural wasted costs issues.",
+    "enrichment": {
+      "short_title": "Adjudicator's plural reference to certificates did not uphold separate human rights certification",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Judicial review",
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Immigration and Asylum Act 1999",
+          "sections": ["Sch. 4 para 9(3)(b)", "para 9(7)"]
+        },
+        {
+          "instrument": "Civil Procedure Rules 1998",
+          "sections": ["CPR 54.15", "CPR 48"]
+        }
+      ],
+      "key_facts": [
+        "Claimant Tariq obtained limited permission to challenge an adjudicator's purported upholding of a human rights certificate; merits grounds had already been refused permission.",
+        "Out-of-time attempt to add new merits grounds under CPR 54.15 was rejected as a disguised renewal of refused grounds.",
+        "The adjudicator clarified that only one asylum certificate under paragraph 9(3)(b) existed and no separate human rights certification had been made, despite plural wording in the determination.",
+        "The court declared the true position leaving a human rights appeal extant; the Secretary of State applied for wasted costs against the claimant's representatives."
+      ],
+      "procedural_posture": "Judicial review on a ground for which limited permission had been granted; additional merits grounds refused; wasted costs show-cause procedure initiated.",
+      "outcome": "Judicial review granted on the certification point by declaratory judgment; merits challenge refused; claimant's representatives ordered to show cause why wasted costs should not be awarded and to explain public funding.",
+      "ratio": "Where an adjudicator upholds only a Geneva Convention certificate under Schedule 4 paragraph 9(3)(b) and no separate human rights certification exists, a plural reference to certificates does not extinguish the claimant's human rights appeal; CPR 54.15 cannot be used to renew refused merits grounds out of time.",
+      "legal_issues": [
+        "Whether the adjudicator effectively upheld a human rights certificate",
+        "Whether additional Ahmadi persecution grounds could be raised under CPR 54.15",
+        "Whether proceedings were wasteful given the Secretary of State's consistent position"
+      ],
+      "catchwords": [
+        "asylum certification",
+        "human rights appeal",
+        "adjudicator determination",
+        "CPR 54.15",
+        "wasted costs",
+        "Ahmadi faith",
+        "limited permission"
+      ],
+      "index_terms": [
+        "Durashawar Tariq",
+        "Schedule 4 paragraph 9",
+        "Maria Mendes v SSHD",
+        "Treasury Solicitor correspondence",
+        "Legal Services Commission"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Maria Mendes v The Secretary of State for the Home Department [2002] UK IAT 03922",
+          "role": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Complete judgment though partly procedural; broader certification scope question left open."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2817.json",
+    "status": "done",
+    "notes": "Complete case stated appeal on education supervision orders and truancy prosecution.",
+    "enrichment": {
+      "short_title": "Parent may be prosecuted for pre-ESO truancy despite earlier education supervision order",
+      "area_of_law": [
+        "Education law",
+        "Criminal law",
+        "Children law",
+        "Abuse of process",
+        "Case stated appeal"
+      ],
+      "statutes_considered": [
+        {
+          "instrument": "Education Act 1996",
+          "sections": ["s.444(1A)", "s.447(1)"]
+        },
+        {
+          "instrument": "Children Act 1989",
+          "sections": ["s.36", "Sch. 3 paras 12-19"]
+        },
+        {
+          "instrument": "Criminal Justice and Court Services Act 2000",
+          "sections": ["inserting s.444(1A)"]
+        }
+      ],
+      "key_facts": [
+        "Miss G's son failed to attend school regularly; Islington obtained an education supervision order in October 2002 after earlier warning of possible court action.",
+        "The authority later prosecuted Miss G under section 444(1A) for truancy between 29 September and 20 December 2002, relying only on the period before the ESO was made.",
+        "The appellant argued that choosing the ESO route precluded subsequent section 444 prosecution and that prosecution after the ESO was an abuse of process.",
+        "Beatson J held section 447 expressly permits prosecution as well as an ESO; reliance on pre-ESO facts was not an abuse, though post-ESO prosecution would face difficulties."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Inner London Crown Court rejecting a stay for abuse of process after magistrates' conviction under section 444(1A).",
+      "outcome": "Questions answered: (1) No—obtaining an ESO is not necessarily an abuse barring later section 444(1A) prosecution; (2) Yes—the crown court was right that there was no abuse on these facts; matter remitted to crown court.",
+      "ratio": "Section 447(1) of the Education Act 1996 contemplates prosecution instead of or as well as an education supervision order; paragraph 13 of Schedule 3 superseding the section 444 duty does not defeat an express later statutory power to prosecute for completed pre-ESO truancy, and choosing the more severe penalty route for earlier conduct is not per se an abuse of process absent manipulation or unfair representation.",
+      "legal_issues": [
+        "Whether obtaining an education supervision order precludes later section 444(1A) prosecution",
+        "Interaction between Schedule 3 paragraph 13 supersession and section 447",
+        "Whether prosecution limited to pre-ESO facts amounted to abuse of process"
+      ],
+      "catchwords": [
+        "education supervision order",
+        "school attendance",
+        "section 444(1A)",
+        "truancy prosecution",
+        "abuse of process",
+        "case stated",
+        "local education authority"
+      ],
+      "index_terms": [
+        "London Borough of Islington",
+        "Debra G",
+        "Inner London Crown Court",
+        "Attorney-General's Reference (No 2 of 1990)",
+        "Hingley-Smith v DPP",
+        "Bussey v DPP"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Attorney-General's Reference (No 2 of 1990) [1992] 1 QB 630",
+          "role": "applied"
+        },
+        {
+          "citation": "Environment Agency v Stanford [1998] COD 373",
+          "role": "considered"
+        },
+        {
+          "citation": "Hingley-Smith v DPP [1998] 1 Archbold News 2",
+          "role": "applied"
+        },
+        {
+          "citation": "Bussey v DPP [1989] 1 Cr App R (S) 125",
+          "role": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full case stated judgment with statutory analysis and clear answers."
+      }
+    }
+  }
+]

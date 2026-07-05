@@ -1,0 +1,704 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2603.json",
+    "status": "done",
+    "notes": "Complete judicial review judgment; order to be amended with 14-day window for council submissions on wording.",
+    "enrichment": {
+      "short_title": "Section 215 notice amended to permit reasonable residential boats, caravans and motorcycles",
+      "area_of_law": [
+        "Planning law",
+        "Town and country planning",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 215", "section 215(1)", "section 215(2)", "section 217", "section 217(1)", "section 217(1)(c)", "section 218"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 54.19(3)"]
+        }
+      ],
+      "key_facts": [
+        "Canterbury City Council served a section 215 notice on Mr Keeley requiring removal within one month of vehicle panels, parts, tyres, containers, scrap motorbikes, boats and caravans from land at 20 Albion Lane, Herne Bay.",
+        "Mr Keeley appealed unsuccessfully to the magistrates and Crown Court; he challenged the absolute requirement to remove all boats, motorbikes and caravans as excessive under section 217(1)(c).",
+        "The council accepted in correspondence that items incidental to normal residential use need not be treated as a breach, but the Crown Court order required removal of everything.",
+        "Collins J held the Crown Court acted unreasonably in requiring removal of all such items where some were reasonably kept as adjuncts to residential use on about one-third of an acre behind a 6-foot fence."
+      ],
+      "procedural_posture": "Application for judicial review of a Canterbury Crown Court decision dismissing an appeal against a section 215 notice.",
+      "outcome": "Claimant succeeded in principle; Crown Court order to be amended to limit boats, caravans and motorbikes to what is reasonable for normal residential use, with enforcement suspended and council given 14 days to make written submissions on wording; costs in principle awarded to claimant.",
+      "ratio": "Where a section 215 notice is literally excessive because the enforcing authority accepts that items incidental to normal residential use need not be removed, the order should be clarified so that enforcement and any prosecution reflect that limitation rather than an absolute requirement to remove all boats, caravans and motorbikes.",
+      "legal_issues": [
+        "Whether requiring removal of all boats, caravans and motorbikes under a section 215 notice was unreasonable under section 217(1)(c)",
+        "Whether the order should be amended under CPR 54.19(3) rather than remitted to the Crown Court",
+        "Whether an unwritten council concession is sufficient without amendment of the order"
+      ],
+      "catchwords": [
+        "section 215 notice",
+        "amenity notice",
+        "section 217 appeal",
+        "excessive requirements",
+        "residential curtilage",
+        "judicial review",
+        "planning enforcement"
+      ],
+      "index_terms": [
+        "Keeley",
+        "Canterbury City Council",
+        "Canterbury Crown Court",
+        "Herne Bay",
+        "Collins J",
+        "untidy land",
+        "visual amenity"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full first-instance judgment with clear findings and proposed amended order wording."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1494.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on adjudication enforcement and jurisdictional submission.",
+    "enrichment": {
+      "short_title": "Adjudicator's award unenforceable where defendant did not submit to jurisdiction ruling",
+      "area_of_law": [
+        "Construction law",
+        "Adjudication",
+        "Civil procedure",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Grants, Construction and Regeneration Act 1996",
+          "provisions": ["Part II", "section 104", "section 107", "section 107(2)(c)", "section 108", "section 108(3)", "section 108(5)", "section 114(1)"]
+        },
+        {
+          "title": "Scheme for Construction Contracts (England and Wales) Regulations 1998",
+          "provisions": ["paragraph 23(2)"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 24.2"]
+        }
+      ],
+      "key_facts": [
+        "Thomas-Fredric's Construction sought summary judgment to enforce an adjudicator's award of £11,813 against Keith Wilson for works at Pear Tree Farm.",
+        "Wilson contended the August 2002 construction contract was with Gowersand Ltd, not him personally, and that the letter evidencing the contract was signed on behalf of Gowersand.",
+        "Wilson protested jurisdiction in January 2003 but participated in the adjudication without agreeing to be bound by the adjudicator's ruling on identity of the contracting party.",
+        "Judge MacKay granted summary judgment, holding the adjudicator's jurisdiction decision was binding; the Court of Appeal disagreed."
+      ],
+      "procedural_posture": "Appeal with permission of Latham LJ against summary judgment under CPR 24.2 enforcing an adjudicator's award.",
+      "outcome": "Appeal allowed; summary judgment set aside and enforcement application dismissed, with costs here and below.",
+      "ratio": "A defendant resisting enforcement of an adjudicator's award may succeed if he did not submit to the adjudicator's jurisdiction in the full sense of agreeing to be bound by the adjudicator's ruling on jurisdiction, unless the adjudicator's jurisdictional ruling was plainly right; mere participation while protesting jurisdiction does not constitute submission.",
+      "legal_issues": [
+        "Whether Wilson was the contracting party for a construction contract in writing under section 107",
+        "Whether Wilson submitted to the adjudicator's jurisdiction to decide the identity of the contracting party",
+        "Whether an adjudicator's wrong jurisdictional ruling is binding on enforcement if the defendant protested jurisdiction",
+        "Whether summary judgment should have been granted under CPR 24.2"
+      ],
+      "catchwords": [
+        "construction adjudication",
+        "adjudicator jurisdiction",
+        "summary judgment",
+        "construction contract in writing",
+        "identity of contracting party",
+        "pay now argue later",
+        "submission to jurisdiction"
+      ],
+      "index_terms": [
+        "Thomas-Fredric's Construction Ltd",
+        "Keith Wilson",
+        "Gowersand Ltd",
+        "RJT Consulting Engineers Ltd v DM Engineering Ltd",
+        "Project Consultancy Group v Gray Trust",
+        "Westminster Chemicals v Eicholz & Loeser",
+        "Nordot Engineering Services Ltd v Siemens Plc"
+      ],
+      "linked_authorities": [
+        {
+          "name": "RJT Consulting Engineers Ltd v DM Engineering Ltd",
+          "citation": "[2002] 1 WLR 2344",
+          "relation": "applied"
+        },
+        {
+          "name": "The Project Consultancy Group v The Trustees of the Gray Trust",
+          "citation": "[1999] BLR 377",
+          "relation": "applied"
+        },
+        {
+          "name": "Westminster Chemicals & Produce Ltd v Eicholz & Loeser",
+          "citation": "[1954] 1 LLR 99",
+          "relation": "cited"
+        },
+        {
+          "name": "Nordot Engineering Services Ltd v Siemens Plc",
+          "citation": "SF 00901 TCC 16/00",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete reserved judgment with detailed authority analysis and clear concluding propositions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3003.json",
+    "status": "done",
+    "notes": "Complete sentence appeal judgment; anonymisation direction for reporting.",
+    "enrichment": {
+      "short_title": "Historic indecent assault sentences reduced from nine to seven years",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Sexual offences"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "CB, aged 34 and of previous good character, was convicted after trial of indecent assault and indecency with a child against two girls aged 7 to 9 between 1986 and 1993.",
+        "The offences occurred while CB shared a cramped bedroom with the victims at his brother's house shortly after arriving in the UK.",
+        "Offences were reported in 2001; CB denied them at trial despite qualified admissions in a suicide note after arrest.",
+        "He was sentenced to nine years' imprisonment (four years for offences against N, five consecutive for offences against S); the Court of Appeal reduced the total to seven years."
+      ],
+      "procedural_posture": "Application for leave to appeal against sentence, treated as the hearing of the appeal.",
+      "outcome": "Appeal allowed in part; total sentence reduced from nine years to seven years (three years for indecent assault on N, four consecutive for indecent assault on S).",
+      "ratio": "For historic sexual offences against very young children, sentencing should start from the sentence that would have been imposed at the time of the offending, but consecutive sentences and absence of a guilty plea may still justify a severe total; here nine years was moderately excessive and seven years was appropriate.",
+      "legal_issues": [
+        "Whether sentences should be assessed by reference to 1986–1992 rather than 1987–1988 alone",
+        "Whether the total nine-year sentence was excessive for persistent indecent assault on two young girls",
+        "Application of R v Bowers principles to historic offending"
+      ],
+      "catchwords": [
+        "sentence appeal",
+        "indecent assault",
+        "indecency with a child",
+        "historic sexual offences",
+        "totality principle",
+        "consecutive sentences",
+        "R v Bowers"
+      ],
+      "index_terms": [
+        "CB",
+        "HHJ Paget QC",
+        "Mitting J",
+        "child sexual abuse",
+        "anonymisation order"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Bowers",
+          "citation": "[1999] 2 Cr App R (S) 9",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete short judgment with clear factual background and sentence reduction reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2394.json",
+    "status": "done",
+    "notes": "Complete Chancery appeal on Insolvency Rules 2002 amendments and IVA creditor voting.",
+    "enrichment": {
+      "short_title": "IVA creditor proxy held sufficient notice of claim despite chairman excluding vote",
+      "area_of_law": [
+        "Insolvency law",
+        "Individual voluntary arrangements",
+        "Bankruptcy"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": ["Part VIII", "section 262"]
+        },
+        {
+          "title": "Insolvency Rules 1986",
+          "provisions": ["rule 5.18", "rule 5.19", "rule 5.22", "rule 5.22(1)", "rule 5.23", "rule 5.23(1)", "rule 5.23(3)", "rule 5.23(3)(a)", "rule 5.23(5)", "rule 5.23(7)"]
+        },
+        {
+          "title": "Insolvency Amendment (No. 2) Rules 2002",
+          "provisions": ["amendments effective 1 January 2003"]
+        }
+      ],
+      "key_facts": [
+        "Mark Robert Little was made bankrupt in March 2003; insolvency practitioner P A Roberts convened a creditors' meeting to approve an IVA.",
+        "Pinnacle Entertainment Ltd, owed about £135,290 (over 25% of total debts), submitted a proxy voting against the IVA but no separate statement of claim.",
+        "Chairman Roberts excluded Pinnacle's vote for failure to comply with rule 5.23(3)(a); the IVA was approved without Pinnacle's vote.",
+        "Deputy District Judge Taylor revoked approval under section 262; Evans-Lombe J dismissed Roberts's appeal, holding Pinnacle's proxy was sufficient written notice of its claim."
+      ],
+      "procedural_posture": "Appeal to the High Court (Chancery Division) from a county court order revoking IVA approval under section 262 Insolvency Act 1986.",
+      "outcome": "Appeal dismissed; revocation of IVA approval upheld and fresh creditors' meeting ordered.",
+      "ratio": "Under Insolvency Rule 5.23(3)(a), a creditor's written proxy to the chairman is sufficient written notice of its claim for voting purposes, provided the chairman is satisfied under rule 5.22(1) as to the amount of the debt; exclusion of Pinnacle's vote where the debtor admitted a £135,290 debt was a material irregularity justifying revocation under section 262.",
+      "legal_issues": [
+        "Whether rule 5.23(3)(a) requires a separate written notice of claim in addition to a proxy",
+        "Whether a proxy without stated debt amount complies with rules 5.22 and 5.23",
+        "Whether disallowance of Pinnacle's vote was a material irregularity under section 262",
+        "Effect of 2002 amendments abolishing Case 1 and Case 2 creditors"
+      ],
+      "catchwords": [
+        "individual voluntary arrangement",
+        "IVA",
+        "section 262 revocation",
+        "creditor voting",
+        "proxy form",
+        "Insolvency Rule 5.23",
+        "material irregularity",
+        "bankruptcy"
+      ],
+      "index_terms": [
+        "Mark Robert Little",
+        "P A Roberts",
+        "Pinnacle Entertainment Ltd",
+        "Newport County Court",
+        "Evans-Lombe J",
+        "re K.G. Hoare"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re K.G. Hoare",
+          "citation": "1997 BBIR 683",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full reserved judgment with detailed statutory construction of amended Insolvency Rules."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2508.json",
+    "status": "done",
+    "notes": "Complete case stated appeal; metadata lists incorrect judge name but judgment identifies Henriques J.",
+    "enrichment": {
+      "short_title": "HMO registration scheme applies where conversion complied with pre-1985 Building Regulations",
+      "area_of_law": [
+        "Housing law",
+        "Houses in multiple occupation",
+        "Building regulations",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1985",
+          "provisions": ["Part XI", "section 346", "section 346(b)", "section 348(g)"]
+        },
+        {
+          "title": "Building Regulations 1985",
+          "provisions": ["regulation 3", "regulation 19", "regulation 20", "regulation 20(1)(a)", "regulation 20(1)(b)"]
+        },
+        {
+          "title": "Building Act 1984",
+          "provisions": ["section 1(1)"]
+        },
+        {
+          "title": "Interpretation Act 1978",
+          "provisions": ["section 16", "section 17", "section 23"]
+        }
+      ],
+      "key_facts": [
+        "Saxonbest Ltd was convicted of failing to register 220 Bromley High Street under Bromley's HMO Registration and Control Scheme 2001.",
+        "The property comprised self-contained flats created from plans deposited in November 1983 and certified complete on 27 January 1986.",
+        "Saxonbest argued exemption under scheme paragraph 4(1)(h)(ii)(aa) because fire-safety requirements were contained in regulation 20 preserving revoked 1976 regulations for pre-1985 plans.",
+        "Henriques J rejected the argument, holding regulations 19 and 20 must be read together so revoked regulations continue to apply as if not revoked."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Croydon Crown Court dismissing appeal against conviction in Bromley Magistrates' Court.",
+      "outcome": "Appeal dismissed with costs of £2,414.62; permission to appeal refused.",
+      "ratio": "Building Regulations 1985 regulations 19 and 20 must be read together: regulation 19 is subject to regulation 20, which preserves application of revoked regulations to work carried out under plans deposited before 11 November 1985; such requirements are not 'contained in' the 1985 regulations for HMO scheme exemption purposes.",
+      "legal_issues": [
+        "Whether paragraph 4(1)(h)(ii)(aa) of the Bromley HMO scheme exempts flats created under pre-1985 plans completed after November 1985",
+        "Construction of Building Regulations 1985 regulations 19 and 20 together",
+        "Whether revoked 1976 regulations were 'contained in' the 1985 regulations via regulation 20"
+      ],
+      "catchwords": [
+        "house in multiple occupation",
+        "HMO registration scheme",
+        "Building Regulations 1985",
+        "regulation 20 savings",
+        "self-contained flats",
+        "case stated",
+        "statutory interpretation"
+      ],
+      "index_terms": [
+        "Saxonbest Ltd",
+        "London Borough of Bromley",
+        "220 Bromley High Street",
+        "Henriques J",
+        "Boddington v Wisson"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Boddington v Wisson",
+          "citation": "[1951] 1 KB 610",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete judgment on a single construction issue; source metadata incorrectly lists Lord Evershed MR as judge."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2790.json",
+    "status": "done",
+    "notes": "Complete conviction appeal; murder upheld, robbery quashed for misdirection on alternative routes to guilt.",
+    "enrichment": {
+      "short_title": "Murder conviction upheld on joint enterprise; robbery conviction quashed for jury direction error",
+      "area_of_law": [
+        "Criminal law",
+        "Homicide",
+        "Joint enterprise",
+        "Robbery",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mark Anthony Baker was convicted of murder and robbery after a fatal attack on taxi driver Tariq Javed on 9 November 2000 in Manchester.",
+        "The violence began when Baker and co-defendant Jason Power tried to leave without paying; the deceased suffered 20–25 blows and a fatal skull fracture from an accelerated fall.",
+        "Eye-witness evidence supported a sustained joint attack; Baker drove the taxi away over the deceased's body and Power stole his coat.",
+        "Baker appealed on grounds that the summing-up inadequately linked joint enterprise to withdrawal and misdirected on intent and robbery."
+      ],
+      "procedural_posture": "Appeal against conviction by leave of the single judge.",
+      "outcome": "Appeal dismissed on murder (Count 1); appeal allowed on robbery (Count 2) and conviction quashed.",
+      "ratio": "A fair summing-up on joint enterprise need not repeatedly analyse possible withdrawal where the judge has correctly directed on individual responsibility; but on robbery, where multiple routes to guilt existed (vehicle vs coat), the jury must be directed that they must be sure the offence was proved with respect to at least one item and warned against inconsistent verdicts across jurors.",
+      "legal_issues": [
+        "Whether the summing-up adequately addressed Baker's withdrawal from joint enterprise before the fatal blow",
+        "Whether directing the jury to consider intent from later conduct (driving over the deceased) was a misdirection",
+        "Whether the judge's hypothetical example on pulling the driver from the car was unsupported by medical evidence",
+        "Whether the jury required a specific direction on alternative bases for robbery conviction"
+      ],
+      "catchwords": [
+        "murder",
+        "joint enterprise",
+        "withdrawal from joint enterprise",
+        "robbery",
+        "summing-up",
+        "taxi driver killing",
+        "unsafe conviction"
+      ],
+      "index_terms": [
+        "Mark Anthony Baker",
+        "Jason Power",
+        "Tariq Javed",
+        "Manchester Crown Court",
+        "Pill LJ",
+        "fatal assault"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete Court of Appeal judgment with detailed fact summary and clear split outcome on two counts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1639.json",
+    "status": "done",
+    "notes": "Complete Rent Act appeal; possession order made against subtenants.",
+    "enrichment": {
+      "short_title": "Abandoned statutory tenant could not lawfully sublet under Rent Act section 137(2)",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Housing law",
+        "Rent Act 1977"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Rent Act 1977",
+          "provisions": ["section 2", "section 2(1)(a)", "section 137", "section 137(2)"]
+        }
+      ],
+      "key_facts": [
+        "Dahya Dhokia was statutory tenant of a flat at 9A Long Lane, Finchley, but left in about 1986–1987 and abandoned it as his residence.",
+        "In November 1991 he purported to sublet the flat to his brother-in-law Mansukhlal Visavadia and family, who paid only the registered rent with no profit.",
+        "Landlord Moreland Properties accepted rent from Dhokia as statutory tenant until discovering the subletting in 2002.",
+        "County court judge held the subletting lawful under section 137(2); Court of Appeal held Dhokia had lost statutory tenancy status by abandonment."
+      ],
+      "procedural_posture": "Appeal with permission of Wright J from Barnet County Court possession proceedings.",
+      "outcome": "Appeal allowed; order for possession against second to fifth defendants within 28 days, with costs orders on account.",
+      "ratio": "Under section 2(1)(a) Rent Act 1977, statutory tenancy continues only while the tenant occupies the dwelling as his residence; a tenant who abandoned the property four to five years before purporting to sublet had no status or interest from which to create a lawful subtenancy for section 137(2) purposes.",
+      "legal_issues": [
+        "Whether a statutory tenant who had abandoned the dwelling could lawfully sublet under section 137(2)",
+        "Effect of section 2(1)(a) on continued statutory tenancy after abandonment",
+        "Whether Trustees of Henry Smith's Charity v Wilson supports lawful subletting after abandonment"
+      ],
+      "catchwords": [
+        "statutory tenancy",
+        "abandonment",
+        "lawful subletting",
+        "section 137 Rent Act 1977",
+        "section 2 Rent Act 1977",
+        "possession order",
+        "subtenancy"
+      ],
+      "index_terms": [
+        "Moreland Properties (UK) Ltd",
+        "Dahya Dhokia",
+        "Mansukhlal Visavadia",
+        "Finchley",
+        "Sir Martin Nourse",
+        "Trustees of Henry Smith's Charity v Wilson"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Trustees of Henry Smith's Charity v Wilson",
+          "citation": "[1983] QB 316",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete reserved judgment with clear statutory analysis and possession order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2922.json",
+    "status": "done",
+    "notes": "Complete sentence appeal on car-ringing conspiracy; home detention curfew argument rejected.",
+    "enrichment": {
+      "short_title": "Eighteen-month sentence for car-ringing conspiracy not reduced for foreign national HDC ineligibility",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Handling stolen goods"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": ["section 34A"]
+        }
+      ],
+      "key_facts": [
+        "Abdullah Al-Buhairi, a Saudi army captain and dentist studying in Sheffield, was convicted of conspiracy to handle stolen goods.",
+        "The conspiracy involved Mercedes cars hired in continental Europe, given false identities in the UK, and sold to Al-Buhairi for export to Saudi Arabia.",
+        "He was linked to four cars worth about £56,000 for which he paid £38,000; fraudulent French log books named him as owner.",
+        "He was sentenced to 18 months' imprisonment after trial; co-accused Otmani received two years after guilty plea."
+      ],
+      "procedural_posture": "Appeal against sentence by leave of the single judge.",
+      "outcome": "Appeal dismissed; 18-month sentence upheld.",
+      "ratio": "An 18-month sentence after trial for a professional car-ringing conspiracy involving high-value stolen vehicles is within the proper range; sentencing judges should not reduce an otherwise proper sentence because a foreign national may be ineligible for home detention curfew, since early release under HDC is discretionary and speculative.",
+      "legal_issues": [
+        "Whether 18 months was manifestly excessive for conspiracy to handle stolen goods",
+        "Whether sentence should be reduced because a foreign national cannot benefit from home detention curfew",
+        "Whether deportation eligibility for early release should affect sentence length"
+      ],
+      "catchwords": [
+        "sentence appeal",
+        "conspiracy to handle stolen goods",
+        "car ringing",
+        "manifestly excessive sentence",
+        "home detention curfew",
+        "foreign national prisoner",
+        "professional crime"
+      ],
+      "index_terms": [
+        "Abdullah Al-Buhairi",
+        "Otmani",
+        "Sheffield Crown Court",
+        "Hallett J",
+        "stolen Mercedes",
+        "export to Saudi Arabia"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete short sentence appeal with clear rejection of HDC-based reduction argument."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/3555.json",
+    "status": "done",
+    "notes": "Complete urgent interpleader application judgment; all relief refused on discretionary grounds.",
+    "enrichment": {
+      "short_title": "Shipowner refused interpleader relief over disputed fuel oil cargo bound for Singapore",
+      "area_of_law": [
+        "Admiralty and shipping",
+        "Commercial law",
+        "Civil procedure",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR Part 8", "CPR 6.19", "CPR 6.20", "SC17 Rule 1(1a)", "SC17 Rule 5(1)(b)", "SC17 Rule 8(1)"]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": ["section 51"]
+        },
+        {
+          "title": "Lugano Convention",
+          "provisions": ["Article 2", "Article 17"]
+        }
+      ],
+      "key_facts": [
+        "MT Windsor loaded 67,000 tonnes of fuel oil at Odessa for voyage charterer Vitol SA, bound for Singapore after three months' detention from contractual disputes.",
+        "Euro Asian AG claimed ownership of about two-thirds of the cargo, alleging unpaid sale to intermediary Karlak and threatening conversion claims against the owners if cargo was discharged to Vitol.",
+        "Marine Oil Traders sought interpleader relief under SC17 to discharge cargo to Vitol on terms while competing title claims were resolved.",
+        "Gatehouse J refused all relief, holding Euro Asian had no arguable evidenced claim, Vitol need not post security, and Switzerland was the appropriate forum for the title dispute."
+      ],
+      "procedural_posture": "Urgent Part 8 application for interpleader relief in the Admiralty Court on the eve of vessel arrival off Singapore.",
+      "outcome": "All relief refused; owners left to resolve commercial dilemma without court sanction of discharge to Vitol.",
+      "ratio": "Interpleader relief requiring security or trial of a title issue is discretionary; where a claimant has placed no evidence before the court supporting an arguable proprietary claim, the financially strong charterer need not post security, Switzerland is plainly more appropriate for resolving the title dispute between domiciled parties, and the court should not grant partial discharge orders that may be misunderstood abroad as determining title.",
+      "legal_issues": [
+        "Whether interpleader relief under SC17 Rule 8(1) should be granted",
+        "Whether Vitol should be required to pay cargo value into court or provide a bank guarantee",
+        "Whether the English court has jurisdiction under CPR 6.19 and the charterparty clause",
+        "Whether Article 2 Lugano Convention prevents trial of an interpleader issue",
+        "Whether a partial order sanctioning discharge without full interpleader package should be made"
+      ],
+      "catchwords": [
+        "interpleader",
+        "bill of lading",
+        "cargo dispute",
+        "title to goods",
+        "voyage charterparty",
+        "forum non conveniens",
+        "Admiralty jurisdiction",
+        "conversion threat"
+      ],
+      "index_terms": [
+        "Marine Oil Traders",
+        "MT Windsor",
+        "Vitol SA",
+        "Euro Asian AG",
+        "Karlak Participations Ltd",
+        "Odessa",
+        "Singapore",
+        "Gatehouse J",
+        "De La Rue v Hernv Peron & Stockwell Ltd",
+        "Cool Carriers AB v HSBC Bank USA"
+      ],
+      "linked_authorities": [
+        {
+          "name": "De La Rue v Hernv Peron & Stockwell Ltd",
+          "citation": "[1936] 2 KB 164",
+          "relation": "applied"
+        },
+        {
+          "name": "National Justice Compania Naviera SA v Prudential Insurance Co Ltd (The Ikarian Reefer) (No 2)",
+          "citation": "[1999] 2 Lloyd's Rep 621",
+          "relation": "cited"
+        },
+        {
+          "name": "Cool Carriers AB & another v HSBC Bank USA & others",
+          "citation": "[2001] 2 Lloyd's Rep 22",
+          "relation": "cited"
+        },
+        {
+          "name": "Bank of Scotland v A Ltd",
+          "citation": "[2001] 1 WLR 751",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete extempore judgment with full reasoning on jurisdiction and discretion, though some jurisdictional points reserved."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1448.json",
+    "status": "needs_review",
+    "notes": "Very long reserved judgment (7-judge court); enrichment based on introduction, conclusions at paragraphs 105–106 and 193, and final orders — full ratio on Becker/ECJ reference may warrant human check.",
+    "enrichment": {
+      "short_title": "VAT repayment claims — vouchers appeal allowed, teacakes dismissed; Sussex input-tax appeal upheld",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "European Union law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": ["section 25(6)", "section 80", "section 80(3)", "section 80(4)", "section 80(5)"]
+        },
+        {
+          "title": "VAT Regulations 1995",
+          "provisions": ["regulation 19(1)", "regulation 29", "regulation 29(1)", "regulation 29(1A)", "regulation 35"]
+        },
+        {
+          "title": "Finance Act 1997",
+          "provisions": ["section 47"]
+        },
+        {
+          "title": "Sixth VAT Directive (77/388/EEC)",
+          "provisions": ["Title XI", "Article 17", "Articles 18–following", "Article 93"]
+        }
+      ],
+      "key_facts": [
+        "Two conjoined appeals concerned VAT taxpayers' rights to recover overpaid tax and deduct unclaimed input tax after UK retrospective three-year time limits introduced in 1996–1997.",
+        "Marks & Spencer claimed repayment of overpaid output VAT on gift vouchers (about £2.8m) and teacakes (about £3.5m); Commissioners relied on section 80(4) three-year limit and unjust enrichment defence for teacakes.",
+        "University of Sussex claimed repayment of deliberately unclaimed input tax; Commissioners rejected the claim and later introduced regulation 29(1A) time bar.",
+        "Following ECJ reference in Marks & Spencer, the court held M&S had a directly enforceable Community law right on vouchers but not teacakes; Sussex's late input claim fell under regulation 29 not section 80."
+      ],
+      "procedural_posture": "Resumed hearing in the Court of Appeal (seven-judge constitution) of two VAT appeals following ECJ reference; Commissioners appellant in Sussex appeal, respondent in M&S appeal.",
+      "outcome": "Marks & Spencer appeal allowed for entirety of vouchers claim but dismissed for teacakes claim; Commissioners' appeal in University of Sussex case dismissed; leave to appeal to House of Lords refused in both.",
+      "ratio": "Where a taxpayer has a directly enforceable Community law right to VAT repayment, retrospective curtailment of the limitation period without adequate transitional arrangements is incompatible with Community law (vouchers claim); but the second Becker condition blocks direct enforceability for teacakes zero-rating, and late input tax claims fall under regulation 29 rather than section 80 overpayment provisions.",
+      "legal_issues": [
+        "Direct enforceability of Community law VAT repayment rights under Becker conditions",
+        "Whether retrospective three-year section 80(4) limit violates Community law without transitional arrangements",
+        "Application of unjust enrichment defence under section 80(3) to teacakes claim",
+        "Whether late input tax claims are under regulation 29 or section 80",
+        "Whether differential timing of section 80 and regulation 29 limits constituted unlawful state aid"
+      ],
+      "catchwords": [
+        "VAT repayment",
+        "direct effect",
+        "Becker conditions",
+        "retrospective time limit",
+        "input tax deduction",
+        "unjust enrichment",
+        "Marks & Spencer",
+        "Sixth VAT Directive"
+      ],
+      "index_terms": [
+        "Marks & Spencer Plc",
+        "Customs and Excise",
+        "University of Sussex",
+        "gift vouchers",
+        "teacakes",
+        "Becker v Finanzamt Munster-Innenstadt",
+        "Three Rivers District Council v Bank of England (No 3)",
+        "Lord Justice Auld"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Becker v Finanzamt Munster-Innenstadt",
+          "citation": "[1982] ECR 53",
+          "relation": "applied"
+        },
+        {
+          "name": "Three Rivers District Council v Bank of England (No 3)",
+          "citation": "[2000] 2 WLR 1220",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.82,
+        "level": "medium",
+        "notes": "213k-character judgment; enrichment drawn from introduction, numbered conclusions and orders rather than full ECJ-reference analysis throughout."
+      }
+    }
+  }
+]

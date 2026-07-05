@@ -1,0 +1,860 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1559.json",
+    "status": "done",
+    "notes": "Batch 102 enrichment",
+    "enrichment": {
+      "short_title": "Same damage test for solicitor contribution claims",
+      "area_of_law": [
+        "Professional negligence",
+        "Contribution and indemnity",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Liability (Contribution) Act 1978",
+          "provisions": [
+            "section 1(1)",
+            "section 2(1)",
+            "section 6(1)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 24",
+            "rule 24.2"
+          ]
+        },
+        {
+          "title": "Law Reform (Married Women and Tortfeasors) Act 1935",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Luke sued Kingsley Smith for professional negligence in delaying his malicious falsehood claim against the Ministry of Defence, causing a lost chance of trial success.",
+        "After instructing Wansbroughs and counsel Miss Addy, Mr Luke settled the MoD claim for £10,000 plus costs against a pleaded claim exceeding £240,000.",
+        "Kingsley Smith issued Part 20 contribution claims against Wansbroughs and Miss Addy under the 1978 Act; Wansbroughs and Miss Addy applied for summary judgment.",
+        "The defendants argued their alleged negligence (wrong settlement advice) caused different damage from Kingsley Smith's delay, so contribution was unavailable.",
+        "On assumed negligence, the judge held Kingsley Smith had a real prospect of establishing liability for the same indivisible loss of chance."
+      ],
+      "procedural_posture": "Summary judgment applications under CPR Part 24 in professional negligence proceedings with Part 20 contribution claims.",
+      "outcome": "Part 24 applications by Wansbroughs and Miss Addy dismissed; Kingsley Smith's responsive application against Mr Luke fell away.",
+      "ratio": "A contribution claim under the Civil Liability (Contribution) Act 1978 requires potential liability in respect of the same damage, not merely similar damage; where successive solicitors' negligence combines to cause a single loss of the chance to pursue litigation successfully, the statutory same-damage test may be satisfied even though the alleged wrongs differ in character.",
+      "legal_issues": [
+        "Whether Wansbroughs and Miss Addy were liable in respect of the same damage as Kingsley Smith",
+        "Construction of same damage after Royal Brompton Hospital NHS Trust v Hammond",
+        "Whether delay alone had already destroyed the value of the underlying claim before May 2000",
+        "Application of the Part 24 real prospect of success test to contribution proceedings"
+      ],
+      "catchwords": [
+        "contribution",
+        "same damage",
+        "professional negligence",
+        "lost chance",
+        "Part 24",
+        "summary judgment",
+        "solicitors negligence"
+      ],
+      "index_terms": [
+        "Luke v Kingsley Smith",
+        "Royal Brompton",
+        "Rahman v Arearose",
+        "Webb v Barclays Bank",
+        "Hatton v Chafes",
+        "Khan v Falvey",
+        "Wallace v Litwiniuk"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Royal Brompton Hospital NHS Trust v Hammond",
+          "citation": "[2002] 1 WLR 1397",
+          "relation": "applied"
+        },
+        {
+          "name": "Rahman v Arearose Limited",
+          "citation": "[2001] QB 351",
+          "relation": "applied"
+        },
+        {
+          "name": "Webb v Barclays Bank Plc",
+          "citation": "[2001] Lloyd's Rep 500",
+          "relation": "applied"
+        },
+        {
+          "name": "Hatton v Chafes",
+          "citation": "[2003] EWCA Civ 341",
+          "relation": "applied"
+        },
+        {
+          "name": "Howkins & Harrison v Tyler",
+          "citation": "[2001] Lloyd's Rep PN 1",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed first-instance judgment with clear outcome and extensive authority analysis. Judge metadata in source file appears inconsistent with judgment content."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1729.json",
+    "status": "done",
+    "notes": "Batch 102 enrichment",
+    "enrichment": {
+      "short_title": "Blood specimen request and supply under RTA",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal procedure",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Offenders Act 1988",
+          "provisions": [
+            "section 15(5)(a)",
+            "section 15(5)(b)"
+          ]
+        },
+        {
+          "title": "Road Traffic Act 1962",
+          "provisions": [
+            "section 2(4)"
+          ]
+        },
+        {
+          "title": "Road Traffic Act 1972",
+          "provisions": [
+            "section 10(5)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Elaine Jones was convicted by Macclesfield Justices of driving with 90 microgrammes of alcohol per 100 millilitres of blood.",
+        "At Wilmslow police station a police surgeon divided her blood into two samples; she pointed to one sample but never physically took hold of it.",
+        "Both samples were sealed and refrigerated; she left the station without collecting her chosen sample.",
+        "The justices found she had effectively requested a sample and that supply requirements were satisfied.",
+        "On appeal by case stated, the Divisional Court held there was no request and that tendering the sample by offer and pointing was sufficient supply."
+      ],
+      "procedural_posture": "Appeal by way of case stated from magistrates' conviction to the Divisional Court.",
+      "outcome": "Appeal dismissed; conviction upheld and appellant ordered to pay respondent costs of £1,927.",
+      "ratio": "Under section 15(5) of the Road Traffic Offenders Act 1988 the accused must actively request a divided blood specimen at the time it is taken; pointing at a offered sample may amount to tendering supply, but an offer and acceptance cannot be treated as equivalent to a request that triggers the statutory protection.",
+      "legal_issues": [
+        "Whether pointing at one of two blood samples amounted to a request under section 15(5)",
+        "Whether refrigeration of the chosen sample without physical handover satisfied the requirement that the other part be supplied to the accused",
+        "Whether police were obliged to remind the accused to take her sample on release"
+      ],
+      "catchwords": [
+        "drink driving",
+        "blood specimen",
+        "section 15",
+        "request",
+        "supply",
+        "admissibility of evidence",
+        "case stated"
+      ],
+      "index_terms": [
+        "Jones v CPS",
+        "Walton v Rimmer",
+        "Sharp",
+        "Road Traffic Offenders Act 1988",
+        "breathalyser",
+        "police station procedure"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Walton v Rimmer",
+          "citation": "[1986] RTR 31",
+          "relation": "applied"
+        },
+        {
+          "name": "Sharp",
+          "citation": "[1968] 3 All ER 82",
+          "relation": "cited"
+        },
+        {
+          "name": "Jones",
+          "citation": "[1974] RTR 117",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Short, focused judgment on two clearly framed statutory questions with straightforward outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1989.json",
+    "status": "done",
+    "notes": "Batch 102 enrichment",
+    "enrichment": {
+      "short_title": "Good reason defence for bladed article possession",
+      "area_of_law": [
+        "Criminal law",
+        "Offensive weapons",
+        "Sentencing and procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 139(1)",
+            "section 139(4)",
+            "section 139(5)"
+          ]
+        },
+        {
+          "title": "Prevention of Crime Act 1953",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The appellant was stopped in Christchurch with a folded lock knife in his trouser pocket.",
+        "He admitted carrying the knife in a public place for self-harm and had a documented history of depression and self-harm.",
+        "The defence contended self-harm could amount to a good reason under section 139(4); the Crown and defence agreed the issue was for the jury.",
+        "The recorder ruled self-harm was incapable in law of being a good reason and directed a guilty verdict.",
+        "The Court of Appeal held the judge could determine legal capability but here insufficient evidence linked possession in public to intended self-harm."
+      ],
+      "procedural_posture": "Appeal against conviction by leave of the single judge after directed verdict at Crown Court.",
+      "outcome": "Appeal dismissed; conviction upheld.",
+      "ratio": "While a judge may rule that an explanation is incapable as a matter of law of amounting to a good reason under section 139(4), that power should be exercised only in clear cases; the defence requires proof of good reason for having the article in a public place at the relevant time, and absent sufficient evidence of when and where self-harm was intended, withdrawal of the issue from the jury may still be justified.",
+      "legal_issues": [
+        "Whether the judge or jury decides if a reason is capable of being a good reason under section 139(4)",
+        "Whether carrying a knife for self-harm can ever amount to a good reason",
+        "Whether the defence was withdrawn for lack of evidence rather than legal incapacity",
+        "Relevance of Bryan v Mott and Mohammed v Chief Constable of South Yorkshire Police"
+      ],
+      "catchwords": [
+        "bladed article",
+        "section 139",
+        "good reason",
+        "self-harm",
+        "directed verdict",
+        "public place",
+        "possession"
+      ],
+      "index_terms": [
+        "R v Bown",
+        "Brutus v Cozens",
+        "R v Manning",
+        "DPP v Gregson",
+        "Mohammed v Chief Constable of South Yorkshire Police",
+        "lock knife"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Brutus v Cozens",
+          "citation": "[1973] AC 854",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Manning",
+          "citation": "[1998] Crim LR 198",
+          "relation": "applied"
+        },
+        {
+          "name": "Bryan v Mott",
+          "citation": "62 Cr App R 71",
+          "relation": "applied"
+        },
+        {
+          "name": "Mohammed v Chief Constable of South Yorkshire Police",
+          "citation": "[2002] EWHC 406 Admin",
+          "relation": "applied"
+        },
+        {
+          "name": "DPP v Gregson",
+          "citation": "[1976] Cr App R 240",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Clear appellate reasoning on judge/jury roles and evidential sufficiency under section 139(4)."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1883.json",
+    "status": "done",
+    "notes": "Batch 102 enrichment",
+    "enrichment": {
+      "short_title": "Late planning judicial review permission granted",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Environmental law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Senior Courts Act 1981",
+          "provisions": [
+            "section 31(6)",
+            "section 31(7)"
+          ]
+        },
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": []
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 54"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Wolseley Centers Ltd received planning permission in September 2000 to redevelop a site at 460 Archway Road, London.",
+        "Mr Gavin, a neighbouring property owner, applied for judicial review in May 2003, about 32 months late, after discovering works on site.",
+        "Arguable grounds included failure to consider whether an environmental impact assessment was required and defective local newspaper notification.",
+        "The council conceded the claimant did not know of the permission until April 2003 and that notification requirements were breached.",
+        "Development had begun and Wolseley claimed potential losses exceeding £1 million if permission were ultimately quashed."
+      ],
+      "procedural_posture": "Contested oral permission hearing for judicial review after substantial delay.",
+      "outcome": "Permission to apply for judicial review granted; costs of oral permission hearing ordered as claimant's costs in the claim attributable to that hearing.",
+      "ratio": "Even where judicial review is brought after undue delay, permission may be granted where there is a reasonable explanation for lateness and the lesser injustice lies in allowing the claimant to challenge legality rather than shutting out the claim at the permission stage, particularly where alleged procedural defects including EIA screening raise wider public interest concerns.",
+      "legal_issues": [
+        "Whether 32 months' delay was undue and whether it was reasonably explained",
+        "Whether hardship to the developer or interests of good administration should refuse permission",
+        "Whether failure to advertise locally and possible EIA requirements made permission appropriate despite prejudice",
+        "Costs of contested oral permission hearings under CPR practice direction 8.6"
+      ],
+      "catchwords": [
+        "planning permission",
+        "judicial review",
+        "undue delay",
+        "environmental impact assessment",
+        "publicity requirements",
+        "permission stage",
+        "Caswell"
+      ],
+      "index_terms": [
+        "Gavin v Wolseley",
+        "Archway Road",
+        "R v Stratford-on-Avon DC ex parte Jackson",
+        "Caswell",
+        "Carlton v Conway",
+        "planning notification"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Secretary of State for the Environment ex parte Caswell",
+          "citation": "[1990] 2 AC 738",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Stratford-on-Avon District Council, Ex parte Jackson",
+          "citation": "[1985] 1 WLR 1319",
+          "relation": "applied"
+        },
+        {
+          "name": "Carlton v Conway",
+          "citation": null,
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Permission-stage decision with clear Caswell framework; substantive merits and relief at final hearing remain open."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/1477.json",
+    "status": "done",
+    "notes": "Batch 102 enrichment",
+    "enrichment": {
+      "short_title": "PI policy construction for claimant arbitration costs",
+      "area_of_law": [
+        "Insurance law",
+        "Professional negligence",
+        "Construction and engineering"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Third Parties (Rights Against Insurers) Act 1930",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "John Mowlem, assigned rights from insolvent subcontractor CSW, sued CSW's solicitors Neil Jones for professional negligence in an arbitration.",
+        "CSW failed to disclose a anticipated counterclaim on its 1997/98 professional indemnity proposal; new underwriters later avoided the policy.",
+        "The arbitrator awarded substantial sums including about £784,191 net of VAT in claimant costs attributable to the counterclaim.",
+        "On assumed facts, had CSW reported in time the 1996/97 policy would have covered the counterclaim up to its £1 million limit.",
+        "The preliminary issue was whether successful claimant costs fall within the additional costs and expenses clause or consume the £1 million insuring limit."
+      ],
+      "procedural_posture": "Preliminary issue on strike-out application concerning construction of professional indemnity policy wording.",
+      "outcome": "Claimant's costs of a successful claim fall within the insuring clause and £1 million limit; the costs and expenses clause covers only the assured's own defence or settlement costs incurred with underwriters' consent.",
+      "ratio": "In a professional indemnity policy, sums the assured becomes legally liable to pay a successful claimant, including the claimant's costs of prosecuting the claim, are indemnity payments within the main insuring clause and subject to the policy limit; the separate costs and expenses clause covers only defence or settlement costs incurred by the assured with underwriter consent.",
+      "legal_issues": [
+        "Construction of the insuring clause versus the costs and expenses clause",
+        "Whether arbitration award costs payable to the claimant are additional to the limit or part of the indemnity",
+        "Application of Aluminium Wire and Cable Company Ltd v Allstate Insurance Company Ltd"
+      ],
+      "catchwords": [
+        "professional indemnity",
+        "policy construction",
+        "claimant costs",
+        "insuring clause",
+        "defence costs",
+        "arbitration",
+        "non-disclosure"
+      ],
+      "index_terms": [
+        "John Mowlem",
+        "Neil Jones",
+        "Aluminium Wire and Cable v Allstate",
+        "MacGillivray on Insurance Law",
+        "ACE Conditions of Engagement",
+        "claims made policy"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Aluminium Wire and Cable Company Limited v Allstate Insurance Company Limited",
+          "citation": "[1985] 2 Lloyd's Rep 280",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Focused preliminary construction issue resolved on assumed facts with clear two-part holding."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/2965.json",
+    "status": "done",
+    "notes": "Batch 102 enrichment",
+    "enrichment": {
+      "short_title": "Shelltime 4 speed warranties and hire deductions",
+      "area_of_law": [
+        "Shipping and maritime law",
+        "Charterparty",
+        "Commercial contract"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Carmine Shipping chartered the vessel Eleuthera to Hanjin under a Shelltime 4 charterparty from August 1996 to July 1999.",
+        "Charterers deducted about US$1.16 million from hire in years two and three, later admitting many deductions were wrong but claiming performance shortfall.",
+        "Dispute centred on whether recap telexes and laycan dates ordered speeds below service speed, how annual averages were calculated, and interest on wrongful deductions.",
+        "Owners contended laden service speed of 13 knots applied unless expressly ordered otherwise; charterers' recap telexes were informational only.",
+        "Charterers could not retrospectively justify unauthorised monthly hire deductions by a belated clause 24 performance claim."
+      ],
+      "procedural_posture": "Trial judgment on charterparty performance and interest issues after partial strike-out hearing.",
+      "outcome": "Owners largely succeeded on speed-ordering and performance methodology issues; charterers liable for interest on hire wrongly deducted before facts supporting a clause 24 claim were ascertained.",
+      "ratio": "Under a modified Shelltime 4 charterparty, voyage recap telexes summarising fixture terms do not ordinarily constitute orders reducing guaranteed speed below service speed; clause 24 compensation is assessed by modified cumulative averages for ordered speeds, and clause 9 permits hire deductions under clause 24 only once facts supporting the claim have been ascertained and cannot be used to justify earlier arbitrary deductions.",
+      "legal_issues": [
+        "Whether abstract fixture or recap telexes ordered the master to proceed below service speed",
+        "Whether laycan dates implied orders to slow down",
+        "Whether performance should be assessed by cumulative annual averages or voyage-by-voyage averages",
+        "Whether wrongful hire deductions could be replaced retrospectively by a clause 24 performance claim",
+        "Treatment of fuel consumed during cargo tank inerting"
+      ],
+      "catchwords": [
+        "time charter",
+        "Shelltime 4",
+        "speed warranty",
+        "bunker consumption",
+        "hire deduction",
+        "laycan",
+        "performance claim"
+      ],
+      "index_terms": [
+        "Carmine Shipping v Hanjin",
+        "Eleuthera",
+        "clause 24",
+        "clause 9",
+        "The Nanfri",
+        "The Kostas Melas",
+        "modified cumulative average"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Nanfri",
+          "citation": "[1978] 2 Lloyd's Rep 132",
+          "relation": "applied"
+        },
+        {
+          "name": "The Kostas Melas",
+          "citation": "[1981] 1 Lloyd's Rep 18",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Long commercial judgment; enrichment focuses on principal issues of principle rather than voyage-specific quantum."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1674.json",
+    "status": "done",
+    "notes": "Batch 102 enrichment",
+    "enrichment": {
+      "short_title": "Special reasons for drink-drive non-disqualification",
+      "area_of_law": [
+        "Road traffic law",
+        "Sentencing",
+        "Magistrates' courts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 5(5)(a)"
+          ]
+        },
+        {
+          "title": "Road Traffic Offenders Act 1988",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Conroy was convicted of driving with excess alcohol after a breath reading equivalent to 73 microgrammes per 100 millilitres of breath.",
+        "Crewe Justices found special reasons not to disqualify because he drove only about one mile, partly to assist his girlfriend who had difficulty walking.",
+        "He drove erratically and above the speed limit through Congleton town centre at about 3 a.m.; he intended to drive a further 200 yards.",
+        "Medical emergency was not relied on; a taxi could readily have been obtained, as police demonstrated after stopping him.",
+        "The DPP appealed by case stated contending the justices' special reasons finding was perverse."
+      ],
+      "procedural_posture": "Prosecution appeal by case stated against magistrates' finding of special reasons for non-disqualification.",
+      "outcome": "Appeal allowed; special reasons finding held wrong in law; matter remitted to Crewe Justices to impose disqualification; respondent ordered to pay £500 costs.",
+      "ratio": "Special reasons must be a mitigating circumstance directly connected with the offence and properly considered in sentencing; driving about a mile through a town centre erratically and above the speed limit while more than twice the legal limit cannot reasonably amount to special reasons merely because the journey was relatively short and motivated by a passenger's mobility difficulty.",
+      "legal_issues": [
+        "Whether distance driven can amount to special reasons in drink-driving cases",
+        "Application of the Wickens four requirements for special reasons",
+        "Whether the justices' discretion was perverse given manner, location, and extent of driving",
+        "Appropriate appellate remedy where special reasons are wrongly found"
+      ],
+      "catchwords": [
+        "drink driving",
+        "special reasons",
+        "disqualification",
+        "Wickens",
+        "case stated",
+        "magistrates",
+        "excess alcohol"
+      ],
+      "index_terms": [
+        "DPP v Conroy",
+        "Chatters and Burke",
+        "James and Hall",
+        "Coombs and Kehoe",
+        "Wickens",
+        "Congleton"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Wickens",
+          "citation": "42 Cr App R 236",
+          "relation": "applied"
+        },
+        {
+          "name": "Chatters and Burke",
+          "citation": "[1986] 3 All ER 168",
+          "relation": "applied"
+        },
+        {
+          "name": "James and Hall",
+          "citation": "[1972] 2 All ER 59",
+          "relation": "cited"
+        },
+        {
+          "name": "Coombs and Kehoe",
+          "citation": "[1972] 2 All ER 55",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Compact Divisional Court judgment with explicit findings and clear appellate answers to case-stated questions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1462.json",
+    "status": "done",
+    "notes": "Batch 102 enrichment",
+    "enrichment": {
+      "short_title": "Private judgment under Article 6 ECHR",
+      "area_of_law": [
+        "Human rights",
+        "Charity law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 2(1)(a)"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 6.1"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 5.4(2)(c)",
+            "PD 39 para 1.5(10)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Charity trustees applied in private for directions concerning pending proceedings.",
+        "During the private hearing the court considered whether Article 6 required the judgment to be pronounced in public.",
+        "The hearing was listed in private under PD 39 because publicity would prejudice the interests of justice.",
+        "An anonymised or abridged public judgment was not practicable; copies could be supplied under CPR 5.4(2)(c).",
+        "Counsel for the Attorney-General also argued parties could waive the public pronouncement requirement."
+      ],
+      "procedural_posture": "Supplementary public judgment explaining reasons for giving an earlier charity directions judgment in private.",
+      "outcome": "Court held it was entitled to pronounce the judgment in private.",
+      "ratio": "Article 6.1's requirement that judgment be pronounced publicly must be read flexibly in light of the nature of the proceedings; where a hearing is justifiably private, full public pronouncement is not required if practical anonymisation is impossible and controlled access to the judgment remains available, and trustees' directions applications that do not determine civil rights may fall outside Article 6 altogether.",
+      "legal_issues": [
+        "Whether Article 6.1 requires oral or public pronouncement of every judgment",
+        "Whether restrictions applicable to private trials also apply to public pronouncement of judgment",
+        "Whether a charity trustees' directions application determines civil rights under Article 6",
+        "Whether parties may consent to private pronouncement of judgment"
+      ],
+      "catchwords": [
+        "Article 6",
+        "public hearing",
+        "private judgment",
+        "charity trustees",
+        "Human Rights Act",
+        "open justice",
+        "family privacy"
+      ],
+      "index_terms": [
+        "Y v Attorney General",
+        "Sutter v Switzerland",
+        "Campbell and Fell v UK",
+        "B and P v UK",
+        "Craig v Humberclyde",
+        "Hakansson and Sturesson v Sweden"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Sutter v Switzerland",
+          "citation": "(1984) 6 EHRR 272",
+          "relation": "applied"
+        },
+        {
+          "name": "Campbell and Fell v United Kingdom",
+          "citation": "(1985) 7 EHRR 165",
+          "relation": "applied"
+        },
+        {
+          "name": "B and P v United Kingdom",
+          "citation": "[2001] 2 FLR 261",
+          "relation": "applied"
+        },
+        {
+          "name": "Craig v Humberclyde Industrial Finance Ltd",
+          "citation": "[1999] 1 WLR 129",
+          "relation": "cited"
+        },
+        {
+          "name": "Hakansson and Sturesson v Sweden",
+          "citation": "(1991) 13 EHRR 1",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Meta-judgment on procedure rather than merits of underlying charity application; ECHR analysis is explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/837.json",
+    "status": "done",
+    "notes": "Batch 102 enrichment",
+    "enrichment": {
+      "short_title": "Schedule 1 financial provision for wealthy father's child",
+      "area_of_law": [
+        "Family law",
+        "Children law",
+        "Financial remedies"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 15",
+            "Schedule 1 paragraph 1",
+            "Schedule 1 paragraph 3",
+            "Schedule 1 paragraph 4",
+            "Schedule 1 paragraph 5(1)"
+          ]
+        },
+        {
+          "title": "Child Support Act 1991",
+          "provisions": [
+            "section 8(1)",
+            "section 8(3)",
+            "section 8(6)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "GP, aged 28, applied under Schedule 1 of the Children Act 1989 for financial provision for her daughter L, born in July 2000 to the wealthy unmarried father VT.",
+        "The father conceded he could pay any reasonable order and lived a lavish London lifestyle; the mother sought up to £2.3 million housing and about £170,000 per annum.",
+        "The judge awarded £450,000 for housing, £30,000 furnishings, £35,360 periodical payments, and only £7,500 backdating.",
+        "An administrative child support assessment was a necessary gateway before the court could make a top-up order.",
+        "The Court of Appeal increased housing to £1 million, furnishings to £100,000, periodical payments to £70,000, and arrears to £40,000."
+      ],
+      "procedural_posture": "Appeal with permission against a county court Schedule 1 financial provision order.",
+      "outcome": "Appeal allowed in part; substantially increased capital and income provision and backdating; otherwise January 2003 order preserved.",
+      "ratio": "In Schedule 1 cases the child's welfare is a central discretionary factor and a child of a very wealthy absent parent is entitled to provision bearing some relationship to the father's resources and lifestyle; housing location and scale should be decided first, the mother's allowance as primary carer may be generous though she has no personal entitlement, and periodical payments may be backdated to the date the child support assessment took effect where section 8(6) criteria are satisfied.",
+      "legal_issues": [
+        "Proper approach to Schedule 1 claims against fabulously rich non-resident fathers",
+        "Whether housing fund of £450,000 was plainly wrong for Central London",
+        "Whether judge failed to assess the mother's carer allowance separately",
+        "Jurisdiction and discretion to backdate periodical payments after Child Support Act assessment",
+        "Whether anticipated withdrawal of support at majority should limit current provision"
+      ],
+      "catchwords": [
+        "Schedule 1",
+        "financial provision",
+        "non-marital children",
+        "lump sum",
+        "periodical payments",
+        "housing fund",
+        "carer's allowance",
+        "backdating"
+      ],
+      "index_terms": [
+        "Re P (Child)",
+        "Haroutunian v Jennings",
+        "A v A (Minor: Financial Provision)",
+        "J v C",
+        "Child Support Act gateway",
+        "Thorpe LJ"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Haroutunian v Jennings",
+          "citation": "[1980] FLR 62",
+          "relation": "applied"
+        },
+        {
+          "name": "A v A (Minor: Financial Provision)",
+          "citation": "[1994] 1 FLR 657",
+          "relation": "applied"
+        },
+        {
+          "name": "J v C (Child: Financial Provision)",
+          "citation": "[1999] 1 FLR 152",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Leading appellate guidance on Schedule 1 with detailed quantification; parties anonymised in judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1590.json",
+    "status": "done",
+    "notes": "Batch 102 enrichment",
+    "enrichment": {
+      "short_title": "SEND Tribunal appeal on education otherwise than at school",
+      "area_of_law": [
+        "Education law",
+        "Special educational needs",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Education Act 1996",
+          "provisions": [
+            "section 9",
+            "section 315",
+            "section 319",
+            "section 324",
+            "section 326",
+            "section 517",
+            "Schedule 27 paragraph 3"
+          ]
+        },
+        {
+          "title": "Tribunals and Inquiries Act 1992",
+          "provisions": [
+            "section 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Miss C appealed on points of law against a SEND Tribunal decision upholding Brent's statement naming Burlington Danes School for her 16-year-old son M.",
+        "Miss C wanted part 4 to specify Sankofa Learning Centre (SLC), which was not a school and provided education otherwise than at school.",
+        "The Tribunal found M's needs could appropriately be met in a mainstream school and rejected Miss C's evidence that he could not cope in such a setting.",
+        "Because M could be educated in a school, section 319 was not engaged and SLC could not be specified; the Tribunal doubted SLC's suitability in any event.",
+        "Miss C argued misdirection on section 319, breach of natural justice, and failures to consider sections 315, 411 and 517."
+      ],
+      "procedural_posture": "High Court appeal on points of law under section 11 of the Tribunals and Inquiries Act 1992 from SEND Tribunal decision.",
+      "outcome": "Appeal dismissed; Tribunal decision upheld on all grounds.",
+      "ratio": "Where a local authority and SEND Tribunal are satisfied that a child's special educational provision can appropriately be made in a school, section 319 of the Education Act 1996 does not permit specification of education otherwise than at school; challenges to factual suitability of a mainstream school or an non-school provider cannot succeed on appeal if the statutory precondition for section 319 is not met.",
+      "legal_issues": [
+        "Whether the Tribunal misdirected itself on section 319",
+        "Whether SLC's suitability could be considered when it was not a school",
+        "Relevance of section 9 parental wishes, section 315 general provision duties, and section 517 fees",
+        "Whether obiter comments on need for independent evidence of SLC gave rise to breach of natural justice"
+      ],
+      "catchwords": [
+        "special educational needs",
+        "SEND Tribunal",
+        "statement of SEN",
+        "section 319",
+        "mainstream school",
+        "education otherwise than at school",
+        "points of law appeal"
+      ],
+      "index_terms": [
+        "R (C) v Brent",
+        "Burlington Danes",
+        "Sankofa Learning Centre",
+        "T v SENDIST",
+        "P v Harrow",
+        "W v Gloucestershire CC"
+      ],
+      "linked_authorities": [
+        {
+          "name": "T v Special Educational Needs Tribunal and Wiltshire County Council",
+          "citation": "[2002] ELR 704",
+          "relation": "applied"
+        },
+        {
+          "name": "P and Others v Harrow London Borough Council",
+          "citation": "[1993] 2 FCR 341",
+          "relation": "applied"
+        },
+        {
+          "name": "W v Gloucestershire County Council",
+          "citation": "[2001] EWHC Admin 481",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Clear points-of-law appeal with structured disposal of six grounds; factual findings not reopenable on this appeal."
+      }
+    }
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/165.json",
+    "status": "done",
+    "notes": "Batch 27 enrichment",
+    "enrichment": {
+      "short_title": "Restraining use of privileged witness e-mails",
+      "area_of_law": [
+        "Civil procedure",
+        "Evidence",
+        "Equity",
+        "Commercial litigation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Rule 31.14"
+          ]
+        }
+      ],
+      "key_facts": [
+        "ISTIL group claimants sought to restrain defendants from using e-mail correspondence between claimants, their solicitors, and an anonymous source called ISTIL Friend.",
+        "The e-mails related to disputed Appendix 1 documents in a freezing-order dispute over diverted military-equipment commissions.",
+        "Defendants obtained the e-mails after Mr Zahoor e-mailed ISTIL Friend, who forwarded copies of the privileged correspondence.",
+        "Claimants had received a bogus Appendix 1 from the same source days before swearing an affidavit exhibiting a different version without disclosing the forgery."
+      ],
+      "procedural_posture": "Interlocutory application for a final injunction restraining use of litigation-privileged communications obtained by the opposing party.",
+      "outcome": "Injunction refused; the defendants were permitted to rely on the disputed e-mails.",
+      "ratio": "Where privileged communications with a witness come into the hands of the opposing party, the Lord Ashburton v Pape jurisdiction ordinarily protects confidentiality, but the court may refuse an injunction where forgery and materially misleading evidence show that the public interest in the proper administration of justice outweighs legal professional privilege.",
+      "legal_issues": [
+        "Whether communications with a potential witness are protected by litigation privilege in the witness's hands",
+        "Whether an injunction should restrain use of privileged material obtained from the witness",
+        "Whether the fraud exception or waiver defeated privilege",
+        "Whether public interest in disclosure of iniquity justified refusal of relief"
+      ],
+      "catchwords": [
+        "litigation privilege",
+        "legal professional privilege",
+        "injunction",
+        "breach of confidence",
+        "witness communications",
+        "forgery",
+        "freezing order"
+      ],
+      "index_terms": [
+        "Lord Ashburton v Pape",
+        "Calcraft v Guest",
+        "Webster v James Chapman",
+        "Pizzey v Ford Motor Co",
+        "ISTIL Friend",
+        "worldwide freezing order",
+        "misleading affidavit"
+      ],
+      "linked_authorities": [
+        "Lord Ashburton v Pape",
+        "Calcraft v Guest",
+        "Goddard v Nationwide Building Society",
+        "Webster v James Chapman & Co",
+        "Derby & Co v Weldon (No 8)",
+        "Pizzey v Ford Motor Co Ltd",
+        "Harmony Shipping Co v Saudi Europe"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Outcome, privilege analysis, and public-interest reasoning are explicit in Collins J's judgment. Judge metadata in the source file appears unreliable."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/314.json",
+    "status": "done",
+    "notes": "Batch 27 enrichment",
+    "enrichment": {
+      "short_title": "Police medical referee certificate quashed",
+      "area_of_law": [
+        "Police pensions",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Pensions Regulations 1987",
+          "provisions": [
+            "Regulation H1(2)",
+            "Regulation H2",
+            "Regulation H2(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Galvin, a City of London police constable, appealed a selected medical practitioner's certificate finding she was not disabled.",
+        "Medical referee Dr Bidstrup initially failed to answer the four statutory questions and instead recommended psychotherapy before any disablement decision.",
+        "In August 2002 Dr Bidstrup issued an amended certificate finding permanent disablement from duty-related anxiety and depression without new evidence.",
+        "Mrs Galvin later withdrew the claim and Dr Bidstrup did not contest judicial review."
+      ],
+      "procedural_posture": "Unopposed judicial review of medical referee decisions under the Police Pensions Regulations 1987.",
+      "outcome": "Judicial review granted; the March and August 2002 decisions were quashed; costs were refused against Dr Bidstrup.",
+      "ratio": "A medical referee under regulation H2(3) of the Police Pensions Regulations 1987 must give a certificate answering the four prescribed disablement questions; a later inconsistent certificate unsupported by fresh evidence and without reasons for disagreeing with other medical evidence is unlawful.",
+      "legal_issues": [
+        "Whether Dr Bidstrup's March 2002 report complied with regulation H2(3)",
+        "Whether the August 2002 certificate was rational without further information",
+        "Whether reasons were required to disagree with other medical evidence",
+        "Whether costs should be awarded against the medical referee"
+      ],
+      "catchwords": [
+        "police pensions",
+        "medical referee",
+        "disablement pension",
+        "regulation H2",
+        "judicial review",
+        "certificate"
+      ],
+      "index_terms": [
+        "Police Pensions Regulations 1987",
+        "City of London Police",
+        "anxiety and depression",
+        "execution of duty",
+        "quashing order"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory framework, defects in the certificates, and outcome are clearly stated in Sullivan J's short judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/356.json",
+    "status": "done",
+    "notes": "Batch 27 enrichment",
+    "enrichment": {
+      "short_title": "Asylum support switch to arrears payments",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Social welfare",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Asylum Support (Interim Provision) Regulations 1999",
+          "provisions": [
+            "regulation 4(3)",
+            "regulation 6(1)(d)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Szoma and her family received interim asylum support from Southwark, previously paid fortnightly in advance.",
+        "In July 2002 the authority moved to payments in arrears, leaving the family without support for two weeks during transition.",
+        "The local authority gave inconsistent and largely untrue explanations, briefly claimed overpayment recoupment, and later offered a £120.08 hardship payment.",
+        "Permission was granted to challenge the change from advance to arrears payments in principle."
+      ],
+      "procedural_posture": "Judicial review of a local authority decision to pay asylum interim support in arrears rather than in advance.",
+      "outcome": "Challenge to the arrears policy refused; judicial review succeeded only in relation to the manifestly inadequate £120.08 hardship payment, which was remitted for reconsideration.",
+      "ratio": "A local authority may lawfully pay interim asylum support in arrears where rational reasons exist, but regulation 4(3) requires temporary support to be adequate for a destitute supported person and dependants, so a token hardship payment during transition can be unlawful.",
+      "legal_issues": [
+        "Whether payment in arrears under the interim regulations was within the authority's discretion",
+        "Whether the transition caused unlawful destitution",
+        "Whether the £120.08 hardship payment satisfied regulation 4(3)",
+        "Whether permission should extend to the hardship payment amount"
+      ],
+      "catchwords": [
+        "asylum support",
+        "interim provision",
+        "payment in arrears",
+        "destitution",
+        "hardship payment",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Asylum Support (Interim Provision) Regulations 1999",
+        "London Borough of Southwark",
+        "NASS",
+        "regulation 4(3)",
+        "asylum seekers"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Facts, split outcome, and regulatory reasoning are explicit in Wall J's judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/222.json",
+    "status": "done",
+    "notes": "Batch 27 enrichment",
+    "enrichment": {
+      "short_title": "COSHH breach and colophony fume asthma",
+      "area_of_law": [
+        "Personal injury",
+        "Health and safety",
+        "Employment law",
+        "Tort"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Control of Substances Hazardous to Health Regulations 1994",
+          "provisions": [
+            "regulation 6",
+            "regulation 6(2)(a)",
+            "regulation 7(1)"
+          ]
+        },
+        {
+          "title": "Factories Act 1961",
+          "provisions": [
+            "section 29(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Naylor developed occupational asthma after exposure to colophony fumes from rosin-core soldering at Volex.",
+        "The employer had general ventilation but no local exhaust ventilation at temporary repair benches.",
+        "After HSE guidance cast doubt on prior exposure standards in January 1997, no suitable risk reassessment was carried out.",
+        "The trial judge found breaches of regulations 6 and 7; the Court of Appeal dismissed the employer's appeal on liability and causation."
+      ],
+      "procedural_posture": "Employer's appeal against findings of breach of statutory duty and causation in an industrial asthma claim.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Under the 1994 COSHH Regulations, an employer who fails to review a risk assessment when prior exposure standards become unreliable breaches regulation 6, and regulation 7 requires prevention of exposure where reasonably practicable or adequate control; ignorance of risk is not a defence where the employer has not performed the assessment duty.",
+      "legal_issues": [
+        "Construction of regulations 6 and 7 of the 1994 COSHH Regulations",
+        "Whether withdrawal or doubt over HSE exposure standards triggered reassessment",
+        "Whether reasonable practicability or foreseeability limited regulation 7 liability",
+        "Whether the trial judge erred on causation, medical evidence, and Ladd v Marshall fresh evidence"
+      ],
+      "catchwords": [
+        "COSHH",
+        "colophony",
+        "industrial asthma",
+        "risk assessment",
+        "local exhaust ventilation",
+        "breach of statutory duty"
+      ],
+      "index_terms": [
+        "Control of Substances Hazardous to Health Regulations 1994",
+        "Dugmore v Swansea NHS Trust",
+        "Bilton v Fastnet Highlands",
+        "soldering fumes",
+        "occupational exposure standard"
+      ],
+      "linked_authorities": [
+        "Dugmore v Swansea NHS Trust",
+        "Bilton v Fastnet Highlands",
+        "Larner v British Steel",
+        "Ladd v Marshall"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Liability reasoning follows Dugmore closely and is fully explained in the Court of Appeal judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/177.json",
+    "status": "done",
+    "notes": "Batch 27 enrichment",
+    "enrichment": {
+      "short_title": "Sahara Cup cancellation insurance claim",
+      "area_of_law": [
+        "Insurance law",
+        "Commercial law",
+        "Sports and events"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "IMG claimed under a cancellation policy for losses from cancellation of the 2000 Sahara Cup cricket tournament in Toronto.",
+        "Quantum was agreed; liability turned on coverage, warranty compliance, and fair presentation of the risk.",
+        "The policy included a warranty that all necessary licences, visas, and permits would be obtained in time.",
+        "IMG failed to disclose material facts about government permission for Indian and Pakistani teams and about the changed 1999 tournament arrangements."
+      ],
+      "procedural_posture": "Commercial court trial on liability under an event cancellation insurance policy after agreed quantum.",
+      "outcome": "Claim failed; underwriters were discharged from liability for breach of warranty and entitled to avoid for material non-disclosure and unfair presentation.",
+      "ratio": "Breach of a warranty requiring timely licences, visas, and permits discharges underwriters from liability, and nondisclosure or misrepresentation of government permission requirements and the significance of bilateral India-Pakistan cricket arrangements materially induced underwriters and entitled avoidance of the policy.",
+      "legal_issues": [
+        "Whether the cancellation fell within policy coverage",
+        "Whether IMG breached the licences-and-permits warranty",
+        "Whether material facts about government permission were fairly presented",
+        "Whether nondisclosure of the 1999 triangular tournament arrangements induced underwriters"
+      ],
+      "catchwords": [
+        "cancellation insurance",
+        "breach of warranty",
+        "material non-disclosure",
+        "utmost good faith",
+        "event cancellation",
+        "cricket tournament"
+      ],
+      "index_terms": [
+        "Sahara Cup",
+        "International Management Group",
+        "BCCI",
+        "Toronto Cricket Festival",
+        "government permission",
+        "condition precedent"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome and principal grounds are explicit in Cooke J's conclusion. Detailed coverage analysis was not fully extracted but is reflected in the issues listed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/137.json",
+    "status": "done",
+    "notes": "Batch 27 enrichment",
+    "enrichment": {
+      "short_title": "Interlocutory injunction on paroxetine patent",
+      "area_of_law": [
+        "Intellectual property",
+        "Patents",
+        "Pharmaceuticals",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Patents Act 1977",
+          "provisions": [
+            "section 62(3)",
+            "section 63"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 37(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "SmithKline Beecham sought to restrain Apotex from selling paroxetine hydrochloride anhydrate pending trial.",
+        "Pumfrey J had held the patent partially invalid but upheld claim 11; both sides appealed.",
+        "Apotex argued damages would be limited to a reasonable royalty and that no interlocutory injunction should issue.",
+        "The judge found serious issues on infringement and validity, unquantifiable market damage, and maintained the status quo before trial."
+      ],
+      "procedural_posture": "Appeal against grant of an interlocutory injunction restraining sale of a generic pharmaceutical pending patent trial.",
+      "outcome": "Appeal dismissed; interlocutory injunction maintained.",
+      "ratio": "An interlocutory patent injunction may be granted to protect a property right even where damages may be difficult to quantify or partly irrecoverable after amendment, and the court need not refuse relief merely because only a reasonable royalty might ultimately be recoverable.",
+      "legal_issues": [
+        "Whether unquantifiable patent damages justified an interlocutory injunction",
+        "Whether damages would be limited to a reasonable royalty",
+        "Whether section 62(3) Patents Act 1977 prevented arguable damages recovery",
+        "Where the balance of convenience lay pending trial"
+      ],
+      "catchwords": [
+        "patent injunction",
+        "paroxetine",
+        "Seroxat",
+        "interlocutory relief",
+        "reasonable royalty",
+        "balance of convenience"
+      ],
+      "index_terms": [
+        "Patents Act 1977",
+        "American Cyanamid",
+        "Gerber Garment Technology v Lectra Systems",
+        "Polaroid v Eastman Kodak",
+        "claim 11",
+        "generic pharmaceutical"
+      ],
+      "linked_authorities": [
+        "American Cyanamid Co v Ethicon Ltd",
+        "General Tire and Rubber Company v Firestone Tyre and Rubber Company Ltd",
+        "Gerber Garment Technology Inc v Lectra Systems",
+        "Polaroid Corporation v Eastman Kodak Company",
+        "Peaudouce SA v Kimberly-Clark Ltd",
+        "Garden Cottage Foods Ltd v Milk Marketing Board"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Appeal issues, damages reasoning, and discretion analysis are comprehensively addressed in the Court of Appeal judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/271.json",
+    "status": "done",
+    "notes": "Batch 27 enrichment",
+    "enrichment": {
+      "short_title": "Civil jury deadlock and judge pressure",
+      "area_of_law": [
+        "Civil procedure",
+        "Police law",
+        "Tort",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Public Order Act 1986",
+          "provisions": [
+            "section 5"
+          ]
+        },
+        {
+          "title": "Juries Act 1974",
+          "provisions": [
+            "section 17(2)",
+            "section 17(5)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Morrison sued the Chief Constable for unlawful arrest, assault, and malicious prosecution after a 1995 incident.",
+        "A county court jury answered key questions against the police on swearing and honest belief in the arrest.",
+        "After deadlock on two questions, the judge encouraged further deliberation and the jury later reached 7-1 majority answers.",
+        "The police appealed on the ground that the jury had been improperly pressured."
+      ],
+      "procedural_posture": "Appeal against jury liability findings in a county court claim for false imprisonment and related torts.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Where a civil jury indicates deadlock but then itself requests more time to deliberate and returns a majority verdict without a Watson direction or improper pressure, there is no reasonable apprehension of unfair influence on the verdict.",
+      "legal_issues": [
+        "Whether the judge's comments improperly pressured the jury",
+        "Whether a Watson direction was required in civil jury proceedings",
+        "Whether majority verdict answers on arrest and honest belief were unsafe",
+        "Whether parties may agree a narrower civil jury majority under section 17(5)"
+      ],
+      "catchwords": [
+        "civil jury",
+        "majority verdict",
+        "jury pressure",
+        "Watson direction",
+        "false imprisonment",
+        "malicious prosecution"
+      ],
+      "index_terms": [
+        "Juries Act 1974",
+        "Public Order Act 1986",
+        "county court jury trial",
+        "PC Groves",
+        "deadlocked jury"
+      ],
+      "linked_authorities": [
+        "Walhein",
+        "Watson",
+        "Durrant"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Appeal ground, transcript exchanges, and dismissal reasoning are clearly set out in the Court of Appeal judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/372.json",
+    "status": "done",
+    "notes": "Batch 27 enrichment",
+    "enrichment": {
+      "short_title": "Extradition habeas corpus for Czech theft",
+      "area_of_law": [
+        "Extradition",
+        "Criminal law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act 1989",
+          "provisions": [
+            "section 2",
+            "section 6(2)",
+            "section 6(3)",
+            "section 11(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Jan and Milan Bikar applied for habeas corpus after committal pending extradition to the Czech Republic for theft of aluminium plates worth about £164.60.",
+        "They had been convicted in absentia in the Czech Republic but could appeal and request a new trial on return.",
+        "They argued the offence was trivial under section 11(3) and that autrefois convict prevented committal as persons accused.",
+        "They were on conditional bail rather than in custody when judgment was given."
+      ],
+      "procedural_posture": "Habeas corpus applications challenging committal under the Extradition Act 1989 pending return to the Czech Republic.",
+      "outcome": "Applications dismissed.",
+      "ratio": "Theft of property worth £164 is not a trivial offence for section 11(3) of the Extradition Act 1989, and where in absentia convictions can be set aside on return the applicants remain persons accused rather than finally convicted fugitives excluded by section 6(2).",
+      "legal_issues": [
+        "Whether the theft offence was trivial under section 11(3)",
+        "Whether in absentia Czech convictions made the applicants persons unlawfully at large under section 6(2)",
+        "Whether autrefois convict barred committal as persons accused under section 6(3)",
+        "Application of R v Chief Metropolitan Magistrate ex parte Government of Singapore and Foy"
+      ],
+      "catchwords": [
+        "extradition",
+        "habeas corpus",
+        "trivial offence",
+        "in absentia conviction",
+        "person accused",
+        "Extradition Act 1989"
+      ],
+      "index_terms": [
+        "Extradition Act 1989",
+        "Czech Republic",
+        "section 11(3)",
+        "section 6(3)",
+        "Foy v Governor of HM Prison",
+        "Bow Street Magistrates"
+      ],
+      "linked_authorities": [
+        "R v Chief Metropolitan Magistrate ex parte Government of the Republic of Singapore",
+        "Foy v Governor of HM Prison"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Both principal issues and outcome are clearly resolved in the Divisional Court judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/237.json",
+    "status": "done",
+    "notes": "Batch 27 enrichment",
+    "enrichment": {
+      "short_title": "Unduly lenient sentence for robbery campaign",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Robbery"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 80(2)(b)",
+            "section 82A",
+            "section 161(4)"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": [
+            "section 2(2)(b)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Thomas Joyce pleaded guilty to eleven robberies committed in under three months while on licence from a seven-year sentence for earlier robberies.",
+        "He used knives or screwdrivers, threatened victims, and in one incident an accomplice cut a victim with a knife.",
+        "The Crown Court imposed eight years concurrent, to run consecutively to 600 days remaining on licence.",
+        "The Attorney General referred the sentence as unduly lenient; psychiatric and probation reports assessed high risk of reoffending."
+      ],
+      "procedural_posture": "Attorney General's reference under section 36 Criminal Justice Act 1988 against an unduly lenient robbery sentence.",
+      "outcome": "Reference allowed in part; concurrent sentences on ten robbery counts increased from eight to ten years, still consecutive to the outstanding licence period; life sentence not imposed.",
+      "ratio": "A campaign of repeated knife robberies committed while on licence may warrant a longer-than-commensurate determinate sentence for public protection where persistent offending and high reoffending risk are established, even if an indeterminate life sentence is not justified.",
+      "legal_issues": [
+        "Whether an indeterminate life sentence was required",
+        "Whether the eight-year determinate sentence was unduly lenient",
+        "Whether a longer-than-commensurate sentence under section 80(2)(b) was appropriate",
+        "Assessment of future dangerousness from probation and psychiatric evidence"
+      ],
+      "catchwords": [
+        "Attorney General's reference",
+        "unduly lenient sentence",
+        "robbery",
+        "knife crime",
+        "longer than commensurate sentence",
+        "dangerous offender"
+      ],
+      "index_terms": [
+        "Criminal Justice Act 1988 section 36",
+        "Powers of Criminal Courts (Sentencing) Act 2000",
+        "Attorney-General's Reference No 32 of 1996 (Whittaker)",
+        "Ebanks",
+        "on licence"
+      ],
+      "linked_authorities": [
+        "Attorney-General's Reference No 32 of 1996 (Whittaker)",
+        "Ebanks",
+        "Wilkinson"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Aggravating features, sentencing analysis, and substituted sentence are explicit in the Court of Appeal judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/166.json",
+    "status": "done",
+    "notes": "Batch 27 enrichment",
+    "enrichment": {
+      "short_title": "Finality of industrial injuries diagnosis",
+      "area_of_law": [
+        "Social security",
+        "Administrative law",
+        "Industrial injuries"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Social Security Contributions and Benefits Act 1992",
+          "provisions": [
+            "section 94",
+            "section 103",
+            "section 106",
+            "section 108",
+            "Schedule 6",
+            "Schedule 7"
+          ]
+        },
+        {
+          "title": "Social Security Administration Act 1992",
+          "provisions": [
+            "section 1",
+            "section 45",
+            "section 60",
+            "section 60(1)",
+            "section 60(2)"
+          ]
+        },
+        {
+          "title": "Social Security (Industrial Injuries) (Prescribed Diseases) Regulations 1985",
+          "provisions": [
+            "regulation 5",
+            "regulation 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Whalley claimed disablement benefit and reduced earnings allowance for vibration white finger (PD A11).",
+        "In 1991 an AMA found he was not suffering from PD A11 and had not since 1985; that decision was not appealed.",
+        "Later claims and tribunals reached inconsistent findings on date of onset and continued disease.",
+        "The Commissioner held a first negative diagnosis did not bind a later REA claim; the Secretary of State appealed."
+      ],
+      "procedural_posture": "Appeal from a Social Security Commissioner on the finality of an earlier AMA diagnosis decision for a later reduced earnings allowance claim.",
+      "outcome": "Appeal allowed; the 6 September 1991 AMA decision is final for both disablement benefit and REA, so date of onset cannot be earlier than 6 September 1991 and REA is unavailable.",
+      "ratio": "Under section 60(1) of the Social Security Administration Act 1992, a final decision that a claimant is not suffering from a prescribed disease binds later claims for reduced earnings allowance as well as disablement benefit, and section 60(2) does not permit relitigation of that diagnosis question on a different benefit.",
+      "legal_issues": [
+        "Whether section 60(1) makes an AMA diagnosis decision final across different benefits",
+        "Effect of section 60(2) on findings necessary to a disablement benefit decision",
+        "Relationship between disablement benefit and reduced earnings allowance assessments",
+        "Whether REA may be claimed without a disablement benefit claim"
+      ],
+      "catchwords": [
+        "industrial injuries benefit",
+        "disablement benefit",
+        "reduced earnings allowance",
+        "vibration white finger",
+        "section 60",
+        "finality"
+      ],
+      "index_terms": [
+        "Social Security Administration Act 1992",
+        "PD A11",
+        "date of onset",
+        "Adjudicating Medical Authority",
+        "Social Security Commissioner",
+        "prescribed disease"
+      ],
+      "linked_authorities": [
+        "Insurance Officer v McCaffrey"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "The appeal turns on a clearly articulated statutory construction issue resolved by the Court of Appeal."
+      }
+    }
+  }
+]

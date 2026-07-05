@@ -1,0 +1,785 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1324.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on performance guarantee strike-out; first demand validity reserved for trial.",
+    "enrichment": {
+      "short_title": "Whether post-settlement performance guarantee demands could be struck out as lacking present breach",
+      "area_of_law": [
+        "Banking and finance",
+        "Contract law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["Part 24"]
+        }
+      ],
+      "key_facts": [
+        "Manx Electricity Authority (MEA) contracted with Nepco Europe to build the Pulrose generating station; JP Morgan Chase Bank provided an on-demand performance guarantee of about £11.99m.",
+        "After Enron's collapse Nepco repudiated and demobilised in December 2001; MEA made a first demand under the guarantee on 14 December 2001.",
+        "On 19 December 2001 MEA and Nepco's administrators entered a Settlement and Transfer Agreement (STA) releasing mutual contract claims but expressly preserving MEA's rights under the bond.",
+        "In October 2002 MEA served further demands relying on the same December 2001 breaches; the Bank applied under CPR Part 24 to strike out reliance on those later demands."
+      ],
+      "procedural_posture": "Appeal from Tomlinson J's summary strike-out of MEA's amended particulars to the extent they relied on October 2002 demands under the performance guarantee.",
+      "outcome": "Appeal allowed; strike-out set aside and the disputes over the second demand (including whether the STA precluded a statement that Nepco 'is in breach' and whether the guarantee requires an actionable breach) remitted for trial alongside the first demand.",
+      "ratio": "The judge's principal reasoning—that any December 2001 breach was merely anticipatory ('writ in water') and could not survive the STA so as to support later demands—could not be upheld on summary disposal; where waiver, discharge and the construction of the guarantee as requiring an actionable breach remain live and finely balanced, justice requires those issues to be tried rather than determined piecemeal on a partial strike-out.",
+      "legal_issues": [
+        "Whether Nepco's December 2001 conduct amounted to an accrued repudiatory breach or only an anticipatory breach",
+        "Whether the STA prevented MEA from honestly stating in October 2002 that Nepco 'is in breach' under the guarantee wording",
+        "Whether a performance guarantee bites on accrued but non-actionable breaches or requires a breach in respect of which performance or damages could still be demanded",
+        "Whether CPR Part 24 was an appropriate vehicle to resolve those contested issues"
+      ],
+      "catchwords": [
+        "performance guarantee",
+        "demand guarantee",
+        "on-demand bond",
+        "strike out",
+        "CPR Part 24",
+        "anticipatory breach",
+        "repudiatory breach",
+        "settlement agreement",
+        "autonomy of guarantee"
+      ],
+      "index_terms": [
+        "Manx Electricity Authority",
+        "JP Morgan Chase Bank",
+        "Nepco Europe",
+        "Pulrose Station",
+        "Settlement and Transfer Agreement",
+        "Form of Performance Security",
+        "ICC Uniform Rules for Demand Guarantees URDG 458"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Edward Owen Engineering Ltd v Barclays Bank International Ltd",
+          "citation": "[1978] 1 QB 159",
+          "relation": "applied"
+        },
+        {
+          "name": "Bolivinter Oil SA v Chase Manhattan Bank NA",
+          "citation": "[1984] 1 WLR 392",
+          "relation": "applied"
+        },
+        {
+          "name": "Photo Production Ltd v Securicor Transport Ltd",
+          "citation": "[1980] AC 827",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed facts, guarantee terms and reasoning; outcome clear though underlying trial issues expressly left open."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2355.json",
+    "status": "done",
+    "notes": "Source summary field truncated; full judgment text complete and sufficient for enrichment.",
+    "enrichment": {
+      "short_title": "Renewed permission refused where Article 8 removal claim was manifestly unfounded",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": ["section 72(2)(a)"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 8"]
+        }
+      ],
+      "key_facts": [
+        "The claimant challenged a 28 March 2002 Secretary of State decision certifying his Article 8 claim (arising from prospective removal to Greece) as manifestly unfounded under section 72(2)(a) of the Immigration and Asylum Act 1999.",
+        "He also resisted removal on the basis that he lacked proper travel documents, but evidence showed a GV3 could be issued if entry clearance criteria were met.",
+        "The Article 8 claim rested on separation from a spouse or fiancée following a religious but not civil ceremony; the court held he should apply for entry clearance from Greece rather than jump the queue.",
+        "The claimant failed to appear at the renewed permission hearing and the application was dismissed."
+      ],
+      "procedural_posture": "Renewed application for permission to apply for judicial review after refusal by the single judge on the papers.",
+      "outcome": "Application dismissed; permission refused and no basis to resist removal on either the travel document or Article 8 grounds.",
+      "ratio": "Where the Secretary of State has properly certified an Article 8 claim as manifestly unfounded and the claimant has no proper travel-document objection, a person removed under Dublin/EU arrangements must pursue entry clearance from the country of return rather than resist removal on the basis of family ties in the United Kingdom.",
+      "legal_issues": [
+        "Whether certification under section 72(2)(a) IAA 1999 was lawful",
+        "Whether removal could be resisted for lack of travel documents",
+        "Whether Article 8 required the claimant to remain in the UK pending family reunion"
+      ],
+      "catchwords": [
+        "judicial review",
+        "manifestly unfounded",
+        "section 72 certification",
+        "Article 8",
+        "family life",
+        "entry clearance",
+        "removal to Greece",
+        "travel documents"
+      ],
+      "index_terms": [
+        "Kiche",
+        "Secretary of State for the Home Department",
+        "GV3 travel document",
+        "UK Visas",
+        "Dublin removal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ekinci v Secretary of State for the Home Department",
+          "citation": "[2003] EWCA 765",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Short extempore-style judgment but all essential facts and outcome are present in full_text; metadata summary truncated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3073.json",
+    "status": "done",
+    "notes": "Complete Attorney General's reference; sentence increased from three to five-and-a-half years.",
+    "enrichment": {
+      "short_title": "Unduly lenient three-year sentence for planned aggravated burglary increased to five-and-a-half years",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["section 36"]
+        }
+      ],
+      "key_facts": [
+        "The offender pleaded guilty at Bristol Crown Court to aggravated burglary committed on 25 January 2003 at the home of David Small in Locking, Weston-super-Mare.",
+        "Two intruders squirted liquid in the victim's face, punched him, produced an imitation pellet-firing gun, tied him up, ransacked the house and stole about £2,000 plus cards and a camcorder; the offender threatened further violence including use of a knife.",
+        "The offender had an extensive record including GBH with intent and had been made subject to a community rehabilitation order only fifteen days before the offence.",
+        "HH Judge Foley sentenced him to three years' imprisonment; the Attorney General referred the sentence as unduly lenient."
+      ],
+      "procedural_posture": "Attorney General's reference under section 36 Criminal Justice Act 1988 following a lenient sentence for aggravated burglary.",
+      "outcome": "Leave to refer granted; sentence of three years quashed and substituted with five-and-a-half years' imprisonment after allowance for guilty plea and double jeopardy, recognising post-sentence rehabilitative efforts.",
+      "ratio": "A planned evening aggravated burglary by two attackers on a lone householder, involving actual violence, restraint, ransacking, theft of significant property and use of an imitation firearm, was so serious that a three-year sentence did not reflect the gravity of the offence; the appropriate post-trial sentence was about nine years and about seven years after a guilty plea, subject to a double-jeopardy discount.",
+      "legal_issues": [
+        "Whether a three-year sentence for this aggravated burglary was unduly lenient",
+        "The weight to be given to aggravating features including home invasion, planning, violence and imitation firearm",
+        "The appropriate double-jeopardy discount on resentencing"
+      ],
+      "catchwords": [
+        "Attorney General's reference",
+        "unduly lenient sentence",
+        "aggravated burglary",
+        "home invasion",
+        "imitation firearm",
+        "double jeopardy discount",
+        "guilty plea credit"
+      ],
+      "index_terms": [
+        "Attorney General Reference No 34 of 2003",
+        "Bristol Crown Court",
+        "Judge Foley",
+        "Locking Weston-super-Mare",
+        "community rehabilitation order"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Funnell and others",
+          "citation": "(1986) 8 Cr App R (S) 143",
+          "relation": "distinguished"
+        },
+        {
+          "name": "R v Stewart",
+          "citation": "[1996] 2 Cr App R (S) 302",
+          "relation": "considered"
+        },
+        {
+          "name": "Attorney General's Reference No 35 of 2001 (Stuart Barry Girt)",
+          "citation": "[2002] 1 Cr App R (S) 44",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full reference judgment with detailed facts, sentencing analysis and clear substituted sentence."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2384.json",
+    "status": "done",
+    "notes": "Complete judicial review on conflicting exceptional leave letters and legitimate expectation.",
+    "enrichment": {
+      "short_title": "Somali failed asylum seeker could not rely on mistaken four-year ELR letter for legitimate expectation",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Act 1971",
+          "provisions": ["section 2", "section 3"]
+        }
+      ],
+      "key_facts": [
+        "Mr Adam, a Somali national, claimed asylum on arrival in June 2001; on 14 August 2001 the Home Office refused asylum but issued conflicting documents—one covering letter referring to four years' exceptional leave to remain (ELR) while the formal grant letter and decision gave only one year until 14 August 2002.",
+        "A corrected covering letter was later sent stating one year's ELR; the claimant's solicitors wrote in November 2001 asserting legitimate expectation of four years but acknowledging a mistake.",
+        "Two Newcastle MPs were wrongly told orally that four years' ELR had been granted; the Home Office finally confirmed one year in January 2003 after long delay.",
+        "The claimant sought judicial review of the January 2003 decision rejecting a four-year ELR entitlement."
+      ],
+      "procedural_posture": "Application for judicial review of the Secretary of State's 8 January 2003 decision finally rejecting a claim to four years' exceptional leave to remain.",
+      "outcome": "Application dismissed; no legitimate expectation arose from ambiguous or mistaken communications, though the court invited the Home Office to consider an out-of-time extension application fairly and to grant one month's leave if an extension were refused so appeal rights were not prejudiced.",
+      "ratio": "Legitimate expectation requires a clear and unambiguous representation directly from the decision-maker; conflicting Home Office letters, administrative confusion and inaccurate oral information given to MPs cannot override the notice in writing actually granting one year's ELR under the Immigration Act 1971.",
+      "legal_issues": [
+        "Which Home Office document constituted the effective grant of leave",
+        "Whether conflicting letters gave rise to legitimate expectation of four years' ELR",
+        "Whether oral representations via MPs could create or vary immigration status",
+        "Whether delay and confusion should affect out-of-time extension applications"
+      ],
+      "catchwords": [
+        "judicial review",
+        "exceptional leave to remain",
+        "legitimate expectation",
+        "asylum refusal",
+        "conflicting letters",
+        "notice in writing",
+        "Somali nationals",
+        "MP representations"
+      ],
+      "index_terms": [
+        "Adam",
+        "Secretary of State for the Home Department",
+        "exceptional leave to remain",
+        "Tayo Arowojulu",
+        "Jim Cousins MP",
+        "Ronnie Clelland MP",
+        "Immigration Law Practitioners Association"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed chronology and clear legal conclusions on legitimate expectation; full text complete."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2227.json",
+    "status": "done",
+    "notes": "Complete judicial review on Special Hours Certificate statutory construction under Licensing Act 1964.",
+    "enrichment": {
+      "short_title": "Crown Court wrongly granted Special Hours Certificate where late-night drinking was primary use",
+      "area_of_law": [
+        "Licensing law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Licensing Act 1964",
+          "provisions": ["section 76", "section 77", "section 81", "section 83"]
+        }
+      ],
+      "key_facts": [
+        "Luminar Leisure Ltd objected to a Special Hours Certificate (SHC) sought by the licensee of Wetherspoon's Lloyd's No. 1 café-bar in Norwich Riverside to extend weekday hours to midnight.",
+        "Norwich licensing justices refused the application; the Crown Court allowed the licensee's appeal after inspecting premises with substantial drinking areas, a small dance floor and limited late-evening food use.",
+        "The Crown Court found the real motivation was late-night drinking but held statutory preconditions were met because facilities for music, dancing and substantial refreshment would be provided.",
+        "Luminar sought judicial review alleging error of law in construing section 77 and in exercising discretion."
+      ],
+      "procedural_posture": "Judicial review of the Crown Court's decision allowing an appeal against refusal of a Special Hours Certificate under the Licensing Act 1964.",
+      "outcome": "Claim succeeded; Crown Court decision quashed and the SHC appeal remitted for rehearing.",
+      "ratio": "Section 77 requires the licensee's purpose to be that intoxicating liquor sales are ancillary to the provision of music, dancing and substantial refreshment across the permitted hours as a whole; the Crown Court erred by treating liquor as ancillary only for the minority of 'relevant customers' using those facilities rather than for persons resorting to the premises overall, which would effectively licence a late-night pub.",
+      "legal_issues": [
+        "Whether section 77(b) requires ancillary liquor sales for all customers resorting to the premises or only those using music/dancing/food facilities",
+        "The distinction between provision of facilities and actual user under sections 77 and 81",
+        "Whether likely predominance of late-night drinking defeated the section 77 preconditions",
+        "Whether the Crown Court lawfully exercised its discretion"
+      ],
+      "catchwords": [
+        "Special Hours Certificate",
+        "SHC",
+        "licensing justices",
+        "Crown Court appeal",
+        "ancillary sale of liquor",
+        "music and dancing",
+        "substantial refreshment",
+        "late night pub",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Luminar Leisure Ltd",
+        "J D Wetherspoon plc",
+        "Lloyd's No 1 Norwich",
+        "Norwich licensing justices",
+        "HH Judge Mellor",
+        "Riverside Development"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Richards v Bloxham (Binks)",
+          "citation": "(1968) 66 LGR 739",
+          "relation": "applied"
+        },
+        {
+          "name": "Young v O'Connell",
+          "citation": "(1985) The Times 25 May 1985",
+          "relation": "applied"
+        },
+        {
+          "name": "Carter v Bradbeer",
+          "citation": "[1975] 1 WLR 665",
+          "relation": "considered"
+        },
+        {
+          "name": "R v Stafford Crown Court ex parte Shipley",
+          "citation": "[1998] 1 WLR 1438",
+          "relation": "applied"
+        },
+        {
+          "name": "Northern Leisure plc v Schofield",
+          "citation": "[2001] 1 All ER 660",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Substantive judgment with detailed statutory analysis and fact findings; full text complete."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2354.json",
+    "status": "done",
+    "notes": "Complete case stated appeal on PACE s58 delay and breath specimen procedure.",
+    "enrichment": {
+      "short_title": "Seven-minute delay contacting duty solicitor did not require exclusion of breath specimen evidence",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal procedure",
+        "Police powers",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": ["section 5", "section 7"]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": ["section 58", "section 78", "section 66"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["Schedule 1, Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Mr Kirkup was arrested on 7 July 2002 for being in charge of a vehicle while over the limit and asked to see a solicitor while waiting in the police station holding area.",
+        "At 11.03pm he requested the duty solicitor; at 11.10pm he was taken to the intoxilyser room and refused to provide breath specimens before the duty solicitor telephoned at 11.15pm and spoke to him at 11.29pm.",
+        "Magistrates found a breach of section 58 PACE 1984 and Code C paragraph 6.5 but held it neither significant nor substantial and convicted him of failing to provide a specimen under section 7 RTA 1988.",
+        "The High Court held section 58 did not bite before the custody sergeant authorised detention, so the relevant delay was seven minutes after the formal request."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Grantham Magistrates' Court conviction for failing to provide breath specimens.",
+      "outcome": "Appeal dismissed; magistrates were correct to admit the specimen request evidence and to convict; application for leapfrog certificate refused.",
+      "ratio": "A motorist may not delay the section 7 breath-test procedure merely to obtain legal advice unless a solicitor is immediately available; a seven-minute delay by the custody officer in contacting the duty solicitor call centre was a technical breach but neither significant nor substantial, so exclusion under section 78 PACE was not required, following Kennedy v DPP.",
+      "legal_issues": [
+        "When the section 58 right to consult a solicitor arises in a police station",
+        "Whether breath specimen procedures must wait for legal advice",
+        "Whether delay in contacting the duty solicitor call centre warranted exclusion of evidence under section 78",
+        "The interaction between PACE Code C and section 7 RTA 1988"
+      ],
+      "catchwords": [
+        "failing to provide specimen",
+        "section 7 RTA 1988",
+        "section 58 PACE",
+        "Code C",
+        "duty solicitor",
+        "section 78 exclusion",
+        "case stated",
+        "Kennedy v DPP"
+      ],
+      "index_terms": [
+        "Kirkup",
+        "Director of Public Prosecutions",
+        "Grantham Magistrates' Court",
+        "Lion Intoximeter",
+        "Duty Solicitor Call Centre",
+        "Kerawalla"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Kennedy v Director of Public Prosecutions",
+          "citation": "[2002] EWHC Admin 2297",
+          "relation": "applied"
+        },
+        {
+          "name": "DPP v Billington",
+          "citation": "[1998] 1 WLR 435",
+          "relation": "considered"
+        },
+        {
+          "name": "Kerawalla",
+          "citation": "Court of Appeal transcript 7 December 1990",
+          "relation": "applied"
+        },
+        {
+          "name": "Campbell v DPP",
+          "citation": "[2002] EWHC 1314 Admin",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Structured six-part judgment with clear findings and authoritative application of Kennedy v DPP."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/costs/2003/9012.json",
+    "status": "done",
+    "notes": "Complete costs judgment on discovery in detailed assessment following Sun Life Bristol arbitration.",
+    "enrichment": {
+      "short_title": "Paying party's discovery application refused in detailed assessment of arbitration costs",
+      "area_of_law": [
+        "Costs and funding",
+        "Civil procedure",
+        "Arbitration",
+        "Legal professional privilege"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPD 40.14"]
+        }
+      ],
+      "key_facts": [
+        "Following a substantial building arbitration (Sun Life Bristol) won by N G Bailey & Co Ltd, detailed assessment was commenced on a bill of about £1.86m.",
+        "The paying party Amec disputed expert costs of Quantum Solutions/Monde (QSM) and Trett Consulting, noting QSM invoices were headed for related Andover Controls litigation rather than the arbitration.",
+        "Amec applied for disclosure/election under CPD 40.14 in respect of privileged documents supporting apportionment of those expert fees.",
+        "The receiving party contended mis-labelling was an administrative error and that wider discovery would open the floodgates and require oral expert evidence."
+      ],
+      "procedural_posture": "Interlocutory application in detailed assessment proceedings before a High Court costs judge at a case management conference.",
+      "outcome": "Discovery application dismissed; the court declined to order disclosure or compel election, reserving costs of the application.",
+      "ratio": "In detailed assessment the paying party could not obtain broad disclosure of privileged documents merely to probe apportionment of expert costs between related proceedings; absent a genuine retainer or CFA-type issue of the kind addressed in Pamplin and Hollins v Russell, ordering discovery would be disproportionate and contrary to established practice limiting privilege challenges in costs assessment.",
+      "legal_issues": [
+        "Whether a costs judge may order disclosure of privileged documents in detailed assessment",
+        "Whether QSM invoices labelled for Andover proceedings were recoverable arbitration costs",
+        "The scope of CPD 40.14 election where the judge has seen privileged material",
+        "Whether McCreery v Massey Plastic Fabrications should extend discovery in costs proceedings"
+      ],
+      "catchwords": [
+        "detailed assessment",
+        "legal professional privilege",
+        "CPD 40.14",
+        "expert costs",
+        "costs apportionment",
+        "arbitration costs",
+        "paying party",
+        "indemnity principle"
+      ],
+      "index_terms": [
+        "N G Bailey & Co Ltd",
+        "Amec Design & Management Ltd",
+        "John Uff QC arbitrator",
+        "Sun Life Bristol",
+        "Quantum Solutions Monde QSM",
+        "Trett Consulting",
+        "Andover Controls Europe Ltd",
+        "Supreme Court Costs Office"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Pamplin v Express Newspapers Ltd",
+          "citation": "[1985] 1 WLR 689",
+          "relation": "applied"
+        },
+        {
+          "name": "Goldman v Hesper",
+          "citation": "[1988] 1 WLR 1238",
+          "relation": "considered"
+        },
+        {
+          "name": "Bailey v IBC Vehicles Ltd",
+          "citation": "[1998] 3 All ER 570",
+          "relation": "considered"
+        },
+        {
+          "name": "Bourns Inc v Raychem Corp",
+          "citation": "[1999] 3 All ER 154",
+          "relation": "considered"
+        },
+        {
+          "name": "Hollins v Russell",
+          "citation": "[2003] 3 Costs LR 423",
+          "relation": "considered"
+        },
+        {
+          "name": "Dickinson v Rushmer",
+          "citation": "[2002] 1 Costs LR 95",
+          "relation": "considered"
+        },
+        {
+          "name": "Donald McCreery v Massey Plastic Fabrications Ltd",
+          "citation": "[2003] (unreported)",
+          "relation": "rejected"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full costs judgment with chronology and authority review; judge name not in metadata but text identifies Costs Judge Harrison."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1675.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment upholding race discrimination damages awards.",
+    "enrichment": {
+      "short_title": "BT upheld £6,000 injury to feelings and £2,000 aggravated damages for single racist threat",
+      "area_of_law": [
+        "Employment law",
+        "Discrimination law",
+        "Damages"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Reid, a black BT employee, succeeded in a direct race discrimination claim based solely on a 5 November 2000 incident when colleague Norman Edwards threatened him and said 'I will get someone to put you back in your cage'.",
+        "Three earlier workplace incidents were found not to be less favourable treatment; BT was liable because it failed to take reasonably practicable steps to prevent Edwards' conduct.",
+        "Following the incident Reid faced disciplinary investigation for abandoning his shift, was transferred, suffered stress and waited about fourteen months for grievance resolution while Edwards was unpunished and later promoted.",
+        "The employment tribunal awarded £6,000 for injury to feelings and £2,000 aggravated damages; the EAT and Court of Appeal upheld both awards."
+      ],
+      "procedural_posture": "Employer's appeal to the Court of Appeal against compensation awards following upheld findings of direct race discrimination by an employment tribunal.",
+      "outcome": "Appeal dismissed; £8,000 total award (£6,000 injury to feelings plus £2,000 aggravated damages) upheld.",
+      "ratio": "Consequential indignity, health effects, transfer stress and prolonged grievance delay arising out of a proved act of race discrimination may be taken into account in assessing injury to feelings even where those subsequent matters are not themselves discriminatory; an employer's failure to sanction the perpetrator and promotion of him during investigation can justify aggravated damages as high-handed conduct rubbing salt in the wound.",
+      "legal_issues": [
+        "Whether non-discriminatory consequential matters could be included in injury to feelings",
+        "Whether causation between the discriminatory act and subsequent harm was sufficiently established",
+        "Whether aggravated damages were available and appropriate given BT's handling of the complaint",
+        "Risk of double counting between injury to feelings and aggravated damages"
+      ],
+      "catchwords": [
+        "race discrimination",
+        "injury to feelings",
+        "aggravated damages",
+        "employment tribunal",
+        "Vento guidelines",
+        "vicarious liability",
+        "grievance procedure",
+        "employer investigation"
+      ],
+      "index_terms": [
+        "British Telecommunications plc",
+        "Reid",
+        "Norman Edwards",
+        "St Albans",
+        "direct race discrimination",
+        "Employment Appeal Tribunal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Vento v Chief Constable of West Yorkshire Police (No 2)",
+          "citation": "[2003] IRLR 102",
+          "relation": "applied"
+        },
+        {
+          "name": "Alexander v Home Office",
+          "citation": "[1988] IRLR 190",
+          "relation": "applied"
+        },
+        {
+          "name": "Armitage v Marsden",
+          "citation": "[1997] IRLR 162",
+          "relation": "applied"
+        },
+        {
+          "name": "HM Prison Service v Salmon",
+          "citation": "[2001] IRLR 425",
+          "relation": "applied"
+        },
+        {
+          "name": "Broome v Cassell & Co",
+          "citation": "[1972] AC 1027",
+          "relation": "considered"
+        },
+        {
+          "name": "McConnell v Police Authority for Northern Ireland",
+          "citation": "[1997] IRLR 625",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full appellate judgment with detailed damages reasoning; no appeal against liability."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1744.json",
+    "status": "done",
+    "notes": "Complete bankruptcy appeal on amending full title under Insolvency Rule 6.35.",
+    "enrichment": {
+      "short_title": "Bankruptcy title amended where debtor signed loan as Michael Yee Cam Chu but used alias Yee Fun Chu",
+      "area_of_law": [
+        "Insolvency law",
+        "Bankruptcy",
+        "Consumer credit"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Insolvency Rules 1986",
+          "provisions": ["rule 6.35(1)"]
+        },
+        {
+          "title": "Consumer Credit Act 1974",
+          "provisions": []
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["rule 17.4(3)"]
+        }
+      ],
+      "key_facts": [
+        "Independent Trust and Finance Ltd lent to a borrower at 4 Stamford Drive, Groby; the 1992 Consumer Credit Act agreement was in the name Michael Yee Cam Chu but the 1991 application was signed Michael Yee Fun Chu with the same signature.",
+        "The respondent accepted he signed both documents, admitted liability, attended an oral examination as Michael Yee Cam Chu, and only belatedly in 2001 asserted another person called Michael Yee Cam Chu was the true borrower.",
+        "A bankruptcy order was made in the name Michael Yee Cam Chu; the trustee applied under Insolvency Rule 6.35 to add six aliases.",
+        "District Judge Cernik granted the amendment summarily; a deputy High Court judge allowed the debtor's appeal and dismissed the application, but the Court of Appeal restored the district judge's order."
+      ],
+      "procedural_posture": "Trustee's appeal to the Court of Appeal against a deputy judge's decision setting aside a district judge's order amending the full title of bankruptcy proceedings.",
+      "outcome": "Appeal allowed; district judge's order adding aliases restored with costs; permission to appeal to the House of Lords refused.",
+      "ratio": "Where a debtor has held himself out to a creditor under one name and the creditor intended to sue and bankrupt that same person, the court may under Insolvency Rule 6.35 amend the bankruptcy title to include aliases by analogy with Re Myles and CPR 17.4 name-correction principles; belated denial of identity raised no real prospect of success on the facts.",
+      "legal_issues": [
+        "Jurisdiction under Insolvency Rule 6.35(1) to amend the full title after bankruptcy",
+        "Whether the debtor induced ITF to treat him as Michael Yee Cam Chu",
+        "Whether a triable issue existed as to the identity of the contracting party",
+        "Application of Re Myles to alias/name mismatch cases"
+      ],
+      "catchwords": [
+        "bankruptcy",
+        "amend full title",
+        "Insolvency Rule 6.35",
+        "alias",
+        "name correction",
+        "Re Myles",
+        "Consumer Credit Act agreement",
+        "petitioning creditor"
+      ],
+      "index_terms": [
+        "Michael Yee Cam Chu",
+        "Michael Yee Fun Chu",
+        "Independent Trust and Finance Ltd",
+        "trustee in bankruptcy",
+        "Northampton County Court",
+        "4 Stamford Drive Groby",
+        "Magic Wok"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re Myles",
+          "citation": "(1891) 8 Mor 255",
+          "relation": "applied"
+        },
+        {
+          "name": "Singh v Atombrook Ltd",
+          "citation": "[1989] 1 WLR 810",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with detailed documentary chronology and clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2457.json",
+    "status": "done",
+    "notes": "Complete judicial review on custody time limits extension in murder prosecution.",
+    "enrichment": {
+      "short_title": "Custody time limit extension upheld where defence delay caused trial adjournment not prosecution fault",
+      "area_of_law": [
+        "Criminal procedure",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Prosecution of Offences Act 1985",
+          "provisions": ["section 22(3)"]
+        },
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": ["section 51"]
+        },
+        {
+          "title": "Custody Time Limits Regulations 1987",
+          "provisions": ["paragraph 6B"]
+        },
+        {
+          "title": "Crown Court (Advance Notice of Expert Evidence) Rules 1987",
+          "provisions": ["rule 3", "rule 5"]
+        }
+      ],
+      "key_facts": [
+        "Mr Haque was charged with murder on 26 January 2003, transferred under section 51 Crime and Disorder Act 1998 to the Central Criminal Court, and remained in custody with a 182-day custody time limit expiring on 28 July 2003.",
+        "The Crown served expert evidence from Dr Rasul on blood/DNA on trainers matching the deceased; the first report was served on first solicitors in April 2003 but current solicitors did not receive it until August.",
+        "The Crown delayed serving a second Rasul report on a jacket until 7 August 2003; the defence then needed about ten weeks for its own expert, requiring the 1 September 2003 trial to be moved to January 2004.",
+        "Judge Dunn QC extended custody time limits on 1 September 2003; the claimant sought judicial review contending the prosecution lacked due diligence."
+      ],
+      "procedural_posture": "Application for judicial review of the Central Criminal Court's extension of custody time limits under section 22(3) Prosecution of Offences Act 1985.",
+      "outcome": "Application refused; extension upheld and judicial review claim dismissed, though the court clarified that 'before expiry' in section 22(3) includes limits as previously extended.",
+      "ratio": "When considering custody time limit extensions the court should identify the principal/root cause of the need to postpone trial; prosecution delay that did not affect readiness for the original fixture cannot defeat an extension, and here the principal cause of breaking the fixture was the first defence solicitors' failure promptly to obtain expert evidence on the trainers, not the Crown's late service of the second Rasul report which added only marginal evidence.",
+      "legal_issues": [
+        "Whether section 22(3) permits extension after an already-extended custody time limit has expired",
+        "Whether the Crown acted with all due diligence and expedition",
+        "The causal test linking prosecution delay to the need for extension following Quereshi and Rippe",
+        "Whether late service of expert evidence on a jacket required exclusion or affected the extension analysis"
+      ],
+      "catchwords": [
+        "custody time limits",
+        "section 22 POA 1985",
+        "due diligence",
+        "due expedition",
+        "murder trial",
+        "expert evidence",
+        "judicial review",
+        "Quereshi"
+      ],
+      "index_terms": [
+        "Haque",
+        "Central Criminal Court",
+        "Judge Dunn QC",
+        "Dr Syed Rasul",
+        "Guildford murder",
+        "DNA trainers",
+        "Recorder of London"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Leeds Crown Court ex parte Quereshi",
+          "citation": "18 May 1999 (unreported)",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Rippe and others) v Chelmsford Crown Court",
+          "citation": "[2003] (unreported)",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Extempore but comprehensive judgment on causation and CTL extension law; full text complete."
+      }
+    }
+  }
+]

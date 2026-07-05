@@ -1,0 +1,735 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1080.json",
+    "status": "done",
+    "notes": "Batch 74 enrichment",
+    "enrichment": {
+      "short_title": "Special reasons defence where motor insurance lapsed by non-payment",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 143(2)",
+            "Part 6"
+          ]
+        },
+        {
+          "title": "Road Traffic Offenders Act 1988",
+          "provisions": [
+            "section 44",
+            "Schedule 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Smith pleaded guilty to using a motor vehicle without insurance after her insurer cancelled cover when direct debit premium payments failed.",
+        "She received no notification of cancellation because a recorded-delivery letter did not arrive.",
+        "The justices rejected her argument that ignorance of the lapse constituted special reasons not to endorse her licence with six penalty points.",
+        "On appeal by case stated, the Divisional Court held the justices had not misdirected themselves in distinguishing mistaken belief from active misleading."
+      ],
+      "procedural_posture": "Appeal by way of case stated from magistrates' endorsement decision following conviction for driving without insurance.",
+      "outcome": "Appeal dismissed; the justices' refusal to find special reasons was upheld.",
+      "ratio": "An honest but mistaken belief that insurance was in force does not amount to special reasons unless it is based on reasonable grounds or the defendant was actively misled; a motorist who fails to maintain premium payments remains responsible for ensuring cover is in force, and failure of postal notification does not excuse that duty.",
+      "legal_issues": [
+        "Meaning of special reasons under section 44 of the Road Traffic Offenders Act 1988",
+        "Whether justices required proof of active misleading rather than honest mistaken belief",
+        "Application of insurance special-reasons authorities to lapsed direct-debit cover"
+      ],
+      "catchwords": [
+        "special reasons",
+        "driving without insurance",
+        "licence endorsement",
+        "case stated",
+        "direct debit cancellation",
+        "mistaken belief"
+      ],
+      "index_terms": [
+        "Smith",
+        "Director of Public Prosecutions",
+        "Wrexham Maelor",
+        "Labrum v Williamson",
+        "Rennison v Knowler",
+        "Whittall v Kirkby"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Whittall v Kirkby",
+          "citation": "[1946] 2 All ER 552",
+          "relation": "cited"
+        },
+        {
+          "name": "Rennison v Knowler",
+          "citation": "[1947] 1 All ER 302",
+          "relation": "cited"
+        },
+        {
+          "name": "Labrum v Williamson",
+          "citation": "[1947] 1 All ER 824",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete Divisional Court judgment with clear facts, authorities and outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/607.json",
+    "status": "done",
+    "notes": "Batch 74 enrichment",
+    "enrichment": {
+      "short_title": "Judicial review of cold water test for vibration white finger benefits",
+      "area_of_law": [
+        "Social security law",
+        "Administrative law",
+        "Occupational health"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Social Security Contributions and Benefits Act 1992",
+          "provisions": [
+            "section 108"
+          ]
+        },
+        {
+          "title": "Social Security Act 1998",
+          "provisions": [
+            "section 8",
+            "section 12",
+            "section 14",
+            "section 19"
+          ]
+        },
+        {
+          "title": "Social Security (Industrial Injuries) (Prescribed Diseases) Regulations 1985",
+          "provisions": [
+            "regulation 2",
+            "Schedule 1 Part 1 (PDA11)"
+          ]
+        },
+        {
+          "title": "Health and Safety (Enforcing Authority) Regulations 1989",
+          "provisions": [
+            "regulation 3",
+            "Schedule 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "NACODS challenged the Secretary of State's refusal to amend Notes on the Diagnosis of Prescribed Diseases concerning the cold water provocation test for prescribed disease A11 (vibration white finger).",
+        "South Wales miners' benefit appeals showed medical advisers frequently used a negative CWPT result in ways inconsistent with departmental policy.",
+        "Expert evidence indicated the simple immersion test produced unreliable false positives and negatives and was of negligible diagnostic value.",
+        "The Secretary of State accepted a positive result might assist claimants but maintained a negative result should not support refusal of benefit, yet did not state this in the NDPD."
+      ],
+      "procedural_posture": "Judicial review claim challenging the Secretary of State's decision not immediately to revise non-statutory diagnostic guidance for industrial injuries benefit.",
+      "outcome": "Claim allowed; the Secretary of State was ordered to modify guidance so a negative cold water provocation test is treated as of no diagnostic value.",
+      "ratio": "Where departmental policy is that a negative cold water provocation test must not support an unfavourable PDA11 diagnosis but written guidance encourages use of the test, it is irrational to leave that policy unstated when evidence shows a significant risk that medical advisers treat negative results as diagnostically significant.",
+      "legal_issues": [
+        "Wednesbury unreasonableness of maintaining NDPD cold water provocation guidance",
+        "Diagnostic criteria for prescribed disease A11",
+        "Whether negative CWPT results were being misapplied by Benefits Agency medical advisers",
+        "Scope of judicial review of non-statutory departmental medical guidance"
+      ],
+      "catchwords": [
+        "vibration white finger",
+        "PDA11",
+        "industrial injuries benefit",
+        "cold water provocation test",
+        "judicial review",
+        "medical guidance"
+      ],
+      "index_terms": [
+        "NACODS",
+        "Secretary of State for Work and Pensions",
+        "hand-arm vibration syndrome",
+        "Notes on Diagnosis of Prescribed Diseases",
+        "Industrial Injuries Advisory Council",
+        "Professor Welsh"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Gillick v West Norfolk and Wisbech Area Health Authority",
+          "citation": "[1986] 1 AC 112",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Cambridge Health Authority, ex parte B",
+          "citation": "[1995] 1 WLR 898",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long but complete administrative judgment with detailed findings on CWPT use and irrationality."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/654.json",
+    "status": "done",
+    "notes": "Batch 74 enrichment",
+    "enrichment": {
+      "short_title": "Nepalese Maoist asylum appeal remitted for inconsistent tribunal reasoning",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Refugee Convention",
+          "provisions": [
+            "Article 1F"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Gurung, a low-level Nepalese Communist Party (Maoist) student leader, sought asylum after police issued a nationwide arrest warrant.",
+        "The Immigration Appeal Tribunal found prosecution would be legitimate and that he faced no real risk of ill-treatment in detention.",
+        "Five days later, in Indra Gurung, a differently constituted tribunal made broadly contrary findings about risks faced by Maoists in Nepal.",
+        "The Court of Appeal held the tribunal in Shyam Gurung's case had not adequately reasoned its conclusions in light of the conflicting authority."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from an Immigration Appeal Tribunal determination refusing asylum.",
+      "outcome": "Appeal allowed; the matter was remitted to the Immigration Appeal Tribunal for rehearing, with directions for the President to consider constitution and conduct.",
+      "ratio": "Even where Article 1F is not engaged and separate tribunal decisions bind only on their facts, an asylum tribunal must reason fully where its conclusions on country risk appear irreconcilable with very recent broadly stated findings of another tribunal division on the same country conditions.",
+      "legal_issues": [
+        "Risk of persecution versus legitimate prosecution of Maoist activists",
+        "Treatment of detainees with Maoist connections in Nepal",
+        "Effect of inconsistent IAT country guidance decisions",
+        "Whether Article 1F exclusion was applied"
+      ],
+      "catchwords": [
+        "asylum",
+        "Nepal",
+        "Maoist",
+        "Immigration Appeal Tribunal",
+        "remittal",
+        "country conditions"
+      ],
+      "index_terms": [
+        "Shyam Gurung",
+        "Indra Gurung",
+        "Secretary of State for the Home Department",
+        "CPN Maoist",
+        "anxious scrutiny"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Indra Gurung v Secretary of State for the Home Department",
+          "citation": "[2002] UKIAT 04870",
+          "relation": "contrasted"
+        },
+        {
+          "name": "Rajesh Gurung",
+          "citation": "[2002] UKIAT",
+          "relation": "mentioned"
+        },
+        {
+          "name": "Prakesh Sharma",
+          "citation": "[2002] UKIAT 02943",
+          "relation": "mentioned"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with clear procedural outcome and reasoning on tribunal inconsistency."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1158.json",
+    "status": "done",
+    "notes": "Batch 74 enrichment",
+    "enrichment": {
+      "short_title": "Health and safety inspector power to require written answers",
+      "area_of_law": [
+        "Health and safety law",
+        "Statutory interpretation",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Health and Safety at Work Act 1974",
+          "provisions": [
+            "section 18",
+            "section 19",
+            "section 20(2)(d)",
+            "section 20(2)(j)",
+            "section 20(2)(m)",
+            "section 20(7)",
+            "section 33(1)(e)"
+          ]
+        },
+        {
+          "title": "Health and Safety (Enforcing Authority) Regulations 1989",
+          "provisions": [
+            "regulation 3",
+            "Schedule 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Wandsworth laid an information against Travis Perkins' health and safety manager for failing to answer an inspector's questions about forklift training.",
+        "The inspector had sought information by letter from Northamptonshire after routine inspections raised competence concerns.",
+        "A district judge held section 20(2)(j) permitted only face-to-face questioning and dismissed the prosecution.",
+        "The Divisional Court held written questions and answers were permitted where necessary for investigation across a local authority's limited geographical jurisdiction."
+      ],
+      "procedural_posture": "Judicial review challenge to a district judge's ruling on the construction of section 20(2)(j), proceeding by direct challenge rather than case stated.",
+      "outcome": "Application allowed; the district judge's order was quashed and the summons was remitted to a different tribunal.",
+      "ratio": "Section 20(2)(j) of the Health and Safety at Work Act 1974 should be construed broadly to permit inspectors to obtain relevant information in writing as well as face to face, since the power is for investigation only, inspectors lack entry powers outside their authority area, and nothing in the subsection excludes written exchange.",
+      "legal_issues": [
+        "Construction of section 20(2)(j) Health and Safety at Work Act 1974",
+        "Whether health and safety inspectors may require answers in writing",
+        "Effect of the sweeping-up power in section 20(2)(m)",
+        "Practical limits on local authority enforcement investigations"
+      ],
+      "catchwords": [
+        "health and safety inspector",
+        "section 20(2)(j)",
+        "written questions",
+        "statutory construction",
+        "local authority enforcement",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Wandsworth",
+        "Travis Perkins",
+        "Warne",
+        "South Western Magistrates Court",
+        "Sunworld"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Sunworld Ltd v Hammersmith and Fulham London Borough Council",
+          "citation": "[2002] All ER 837",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed statutory construction judgment with clear outcome and reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1079.json",
+    "status": "done",
+    "notes": "Batch 74 enrichment",
+    "enrichment": {
+      "short_title": "Crown Court wrongly allowed appeal for absent prosecution counsel",
+      "area_of_law": [
+        "Criminal procedure",
+        "Administrative law",
+        "Professional conduct"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Richard Proud appealed convictions for common assault and threatening behaviour to Portsmouth Crown Court.",
+        "CPS counsel was briefed in two courts listed at 10.30 and was prosecuting in another court when Judge Hughes called on Proud's appeal.",
+        "The judge allowed the appeal because no prosecutor was present, depriving victims of compensation awards.",
+        "Counsel arrived within minutes but the appeal had already been allowed and could not be reinstated."
+      ],
+      "procedural_posture": "Judicial review of the Crown Court's decision to allow a defendant's appeal in the absence of prosecution counsel.",
+      "outcome": "Decision quashed; the appeal was remitted to a differently constituted court for determination.",
+      "ratio": "A Crown Court judge acts unlawfully in allowing an appeal solely because prosecution counsel is briefly absent without balancing the interests of the appellant, victims and the public interest, making enquiries as to when counsel will arrive, or considering less punitive alternatives such as adjournment or costs sanctions.",
+      "legal_issues": [
+        "Wednesbury reasonableness of allowing an appeal for non-appearance of prosecution",
+        "Duties of counsel under the Bar Code of Conduct when accepting clashing briefs",
+        "Triangulation of interests in criminal appeals",
+        "Availability of certiorari against Crown Court procedural decisions"
+      ],
+      "catchwords": [
+        "judicial review",
+        "Crown Court appeal",
+        "prosecution non-appearance",
+        "Bar Code of Conduct",
+        "victim compensation",
+        "listing clash"
+      ],
+      "index_terms": [
+        "Crown Prosecution Service",
+        "Portsmouth Crown Court",
+        "Richard Proud",
+        "Judge Ian Hughes",
+        "clashing briefs"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Bournemouth Crown Court, ex parte Weight",
+          "citation": "[1984] 1 WLR 980",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Sutton Justices, ex parte Director of Public Prosecutions",
+          "citation": "[1992] 2 All ER 129",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Hendon Justices, ex parte Director of Public Prosecutions",
+          "citation": "[1967] 1 QB 167",
+          "relation": "applied"
+        },
+        {
+          "name": "Attorney General's Reference (No 3 of 1999)",
+          "citation": "[2000] 2 AC 91",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full procedural judgment with detailed chronology and clear legal conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1243.json",
+    "status": "done",
+    "notes": "Batch 74 enrichment",
+    "enrichment": {
+      "short_title": "Security for costs refused against Monaco resident claimant",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 726"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 25.13"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Somerset-Leeke, resident in Monaco for tax purposes, and trustee company Brunel Trustees Ltd pursued a Chancery claim.",
+        "Defendants sought security for costs on grounds including out-of-jurisdiction residence and asset movement.",
+        "The application was procedurally muddled and did not clearly identify which CPR grounds were relied upon.",
+        "Jacob J held English judgments could be registered and enforced in Monaco without requiring disclosure of assets abroad."
+      ],
+      "procedural_posture": "Appeal from a master's refusal to order security for costs under CPR 25.13.",
+      "outcome": "Appeal dismissed; no order for security for costs against either claimant.",
+      "ratio": "Residence outside the Brussels/Lugano Convention area does not justify security for costs unless enforcement risk justifies it; a claimant cannot be required to disclose asset location as a condition of resisting security under ground (a), and moving abroad before litigation without evidence of evasive intent does not engage ground (g).",
+      "legal_issues": [
+        "Exercise of discretion under CPR 25.13 for out-of-jurisdiction claimants",
+        "Enforceability of English costs orders in Monaco",
+        "Security against a claimant company acting as pension trustee",
+        "Whether relocation to Monaco constituted steps to evade enforcement"
+      ],
+      "catchwords": [
+        "security for costs",
+        "out of jurisdiction",
+        "Monaco",
+        "CPR 25.13",
+        "Brussels/Lugano",
+        "enforcement risk"
+      ],
+      "index_terms": [
+        "Somerset-Leeke",
+        "Brunel Trustees",
+        "Kay Trustees",
+        "Nasser v United Bank of Kuwait",
+        "Aines Asset Management"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Nasser v United Bank of Kuwait",
+          "citation": "[2002] 1 All ER 401",
+          "relation": "applied"
+        },
+        {
+          "name": "Aines Asset Management v Kazakhstan Investment Fund",
+          "citation": "[2002] WL 1654967",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Complete judgment on CPR security principles with clear outcome for both claimants."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1240.json",
+    "status": "done",
+    "notes": "Batch 74 enrichment",
+    "enrichment": {
+      "short_title": "Murder conviction appeal on witness credibility and fresh psychiatric evidence",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Terence Smith was convicted of murder with co-defendant Harry Groves for killing Simon Shannon in Clacton-on-Sea in May 1995.",
+        "Prosecution relied heavily on confessions reported by Paul Courtman and Steven Sparkes; the appellant denied involvement.",
+        "Prosecution did not call Adam Crossland, whose later statements undermined his earlier account; the defence chose not to call him either.",
+        "On appeal, fresh psychiatric evidence about Groves was held immaterial to Smith's involvement."
+      ],
+      "procedural_posture": "Appeal against conviction for murder following trial at Norwich Crown Court in October 1997.",
+      "outcome": "Appeal dismissed; the conviction was held safe.",
+      "ratio": "A prosecutor may properly decline to call a witness of primary facts who is not credible without making the conviction unsafe; fresh evidence casting doubt on a co-defendant's reliability does not undermine conviction where pathological and confession evidence still supports the appellant's participation.",
+      "legal_issues": [
+        "Crown's discretion whether to call witnesses under Russell-Jones principles",
+        "Impact of not calling Adam Crossland on fairness of trial",
+        "Admissibility and materiality of fresh psychiatric evidence about co-defendant Groves",
+        "Reliability of prosecution witnesses Courtman and Sparkes"
+      ],
+      "catchwords": [
+        "murder",
+        "unsafe conviction",
+        "prosecution witness discretion",
+        "confession evidence",
+        "co-defendant",
+        "fresh evidence"
+      ],
+      "index_terms": [
+        "Terence Smith",
+        "Harry Groves",
+        "Simon Shannon",
+        "Paul Courtman",
+        "Adam Crossland",
+        "Norwich Crown Court"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Russell-Jones",
+          "citation": "[1995] 1 Cr App R 538",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Brown and Brown",
+          "citation": "[1997] 1 Cr App R 112",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Long criminal appeal judgment; multiple grounds considered but outcome and core principles are clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1073.json",
+    "status": "done",
+    "notes": "Batch 74 enrichment",
+    "enrichment": {
+      "short_title": "Construction reinsurance follow-the-settlements clause construction",
+      "area_of_law": [
+        "Insurance law",
+        "Reinsurance",
+        "Commercial law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR Part 24"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Generali, fronted by Continental Insurance Company, settled Pirelli's Can$4 million claim for damage to submarine power cables in Quebec.",
+        "ILU reinsurers disputed liability under a construction risk declaration slip containing a follow-the-settlements clause.",
+        "Lloyd's co-reinsurers had paid their shares; the ILU defendants resisted on construction and coverage grounds.",
+        "On a Part 24 application, the court determined the proper construction of the follow-the-settlements wording but left ex gratia and factual coverage issues for trial."
+      ],
+      "procedural_posture": "Part 24 summary judgment application on construction of a follow-the-settlements clause in a facultative proportional reinsurance contract.",
+      "outcome": "Summary judgment on construction granted in Generali's favour on its tertiary formulation; ex gratia issue and disputed facts remitted to trial.",
+      "ratio": "In a back-to-back facultative reinsurance with an unqualified follow-the-settlements clause, reinsurers are bound by the reassured's settlement if the claim was recognised by admission or compromise on a basis that, if valid, falls within the reinsurance cover as a matter of law and the reassured acted honestly and took all proper and businesslike steps, subject to the Scor provisos as explained in Hiscox v Outhwaite (No 3).",
+      "legal_issues": [
+        "Proper construction of follow-the-settlements and without question wording",
+        "Application of Insurance Company of Africa v Scor provisos",
+        "Whether Generali's settlement with Pirelli was ex gratia",
+        "Effect of CIC fronting arrangement on reinsurance follow obligations"
+      ],
+      "catchwords": [
+        "reinsurance",
+        "follow the settlements",
+        "construction risk",
+        "summary judgment",
+        "Scor proviso",
+        "ex gratia settlement"
+      ],
+      "index_terms": [
+        "Assicurazioni Generali",
+        "CGU International Insurance",
+        "Pirelli Cables",
+        "Continental Insurance Company",
+        "Hydro Quebec",
+        "Insurance Company of Africa v Scor"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Insurance Company of Africa v Scor (UK) Reinsurance Co Ltd",
+          "citation": "[1985] 1 Lloyd's Rep 312",
+          "relation": "applied"
+        },
+        {
+          "name": "Hill v Mercantile and General Reinsurance Co plc",
+          "citation": "[1996] 1 WLR 1239",
+          "relation": "considered"
+        },
+        {
+          "name": "Hiscox v Outhwaite (No 3)",
+          "citation": "[1991] 2 Lloyd's Rep 524",
+          "relation": "applied"
+        },
+        {
+          "name": "Swain v Hillman",
+          "citation": "[2001] 1 All ER 91",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Detailed commercial judgment; construction decided but several coverage issues expressly left for trial."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/684.json",
+    "status": "done",
+    "notes": "Batch 74 enrichment",
+    "enrichment": {
+      "short_title": "Port equipment damages measured by Saudi market value not European resale price",
+      "area_of_law": [
+        "Carriage of goods",
+        "Tort law",
+        "Damages",
+        "Commercial law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "A container of gas lighters exploded at Damman port, destroying the claimants' straddle carrier and dock truck beyond repair.",
+        "Carriers were held liable under Saudi port rules imposing strict liability on terminal users.",
+        "The judge awarded US$115,800 based on European second-hand equipment prices; the claimants sought US$200,000 and US$26,600 respectively.",
+        "Expert evidence showed Saudi market value reflected transport, import, tropicalisation and related costs not captured by European resale figures."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from a county court quantum award after liability was established at trial.",
+      "outcome": "Appeal allowed; damages increased to US$227,400 plus agreed trailer repair costs.",
+      "ratio": "Where tortious destruction of chattels is governed by English law, the claimant recovers market or resale value at the time and place of loss; value in Saudi Arabia must reflect the costs of importing and adapting equipment for use there, not merely the price of buying second-hand equipment in Europe.",
+      "legal_issues": [
+        "Measure of damages for destruction of port handling equipment",
+        "Market value versus replacement cost",
+        "Assessment of value where there is no local second-hand market",
+        "Application of The Maersk Colombo principles"
+      ],
+      "catchwords": [
+        "quantum",
+        "market value",
+        "replacement cost",
+        "port equipment",
+        "container explosion",
+        "Saudi Arabia"
+      ],
+      "index_terms": [
+        "Ali Reza-Delta Transport",
+        "United Arab Shipping Co",
+        "Damman",
+        "straddle carrier",
+        "Maersk Colombo",
+        "The Baltic Surveyor"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Maersk Colombo",
+          "citation": "[2001] 2 Lloyd's Rep 275",
+          "relation": "applied"
+        },
+        {
+          "name": "The Baltic Surveyor",
+          "citation": "[2002] 1 Lloyd's Rep 623",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Focused appellate judgment on quantum with clear expert evidence analysis and revised award."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1945.json",
+    "status": "needs_review",
+    "notes": "Batch 74 enrichment; source file contains only ECJ reference order and questions, not full substantive judgment.",
+    "enrichment": {
+      "short_title": "ECJ reference on cross-border group relief and EU free movement",
+      "area_of_law": [
+        "Tax law",
+        "European Union law",
+        "Corporate tax"
+      ],
+      "statutes_considered": [
+        {
+          "title": "EC Treaty",
+          "provisions": [
+            "Article 43",
+            "Article 48",
+            "Article 234"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Marks & Spencer appealed tax decisions concerning inability to obtain UK group relief for losses of EU-resident subsidiaries.",
+        "The High Court ordered a preliminary reference to the Court of Justice under Article 234 EC.",
+        "The referred questions ask whether UK group relief rules restricting cross-border loss relief infringe Articles 43 and 48 EC and whether foreign subsidiary loss relief availability affects the answer.",
+        "Further proceedings were stayed pending the ECJ ruling; costs were reserved."
+      ],
+      "procedural_posture": "Chancery tax appeal stayed after order referring questions to the Court of Justice for a preliminary ruling.",
+      "outcome": "Questions referred to the ECJ; domestic proceedings stayed pending the preliminary ruling.",
+      "ratio": "The court considered it necessary to seek a preliminary ruling from the Court of Justice on whether UK corporation tax group relief provisions that prevent a parent from setting off losses of EU-resident subsidiaries, while allowing relief for UK-resident subsidiaries, restrict freedom of establishment under Articles 43 and 48 EC.",
+      "legal_issues": [
+        "Compatibility of UK group relief with EU freedom of establishment",
+        "Cross-border loss relief for EU-resident subsidiaries",
+        "Significance of available loss relief in the subsidiary's member state",
+        "Appropriate questions for Article 234 preliminary reference"
+      ],
+      "catchwords": [
+        "group relief",
+        "corporation tax",
+        "preliminary reference",
+        "Article 43 EC",
+        "freedom of establishment",
+        "cross-border losses"
+      ],
+      "index_terms": [
+        "Marks & Spencer",
+        "HM Inspector of Taxes",
+        "Halsey",
+        "ECJ reference",
+        "EU tax"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.72,
+        "level": "medium",
+        "notes": "Source JSON contains only the reference order and scheduled questions, not the full judgment reasoning; enrichment is necessarily limited to the referral terms."
+      }
+    }
+  }
+]

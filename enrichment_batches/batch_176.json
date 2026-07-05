@@ -1,0 +1,778 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/3011.json",
+    "status": "done",
+    "notes": "Complete Divisional Court appeal by case stated; full reasoning on PACE entry by consent.",
+    "enrichment": {
+      "short_title": "Police obstruction convictions upheld where officer entered family home by consent rather than under PACE s.17",
+      "area_of_law": [
+        "Police law",
+        "Criminal procedure",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Act 1986",
+          "provisions": ["s.89(2)"]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": ["s.17", "s.117"]
+        }
+      ],
+      "key_facts": [
+        "Police attended the Hobson family home in Runcorn on 26 June 2002 to arrest Steven Hobson for criminal damage and taking a vehicle without authority.",
+        "Eric Hobson invited PC Deponeo inside but refused entry to PC Rice; all three appellants then obstructed the officers after the attempted arrest.",
+        "The magistrates convicted the appellants of wilfully obstructing police in execution of duty, finding entry was by informed consent and not under statutory powers."
+      ],
+      "procedural_posture": "Appeal by case stated from Halton Justices to the Administrative Court (Divisional Court).",
+      "outcome": "Appeal dismissed; the three questions posed in the case stated were answered in the affirmative and the convictions stood.",
+      "ratio": "Where a constable enters premises with the occupier's consent to effect an arrest, the coercive notice requirements applicable to entry under PACE s.17 and use of force under s.117 do not apply; obstruction is committed only if the officer was acting in execution of duty at the material time.",
+      "legal_issues": [
+        "Whether PC Deponeo was executing his duty when the alleged obstruction occurred",
+        "Whether informed consent to entry required disclosure of an intention to arrest under s.17 PACE",
+        "Whether O'Loughlin v Chief Constable of Essex applied to entry by consent"
+      ],
+      "catchwords": [
+        "obstructing police",
+        "execution of duty",
+        "PACE entry",
+        "consent to entry",
+        "case stated",
+        "magistrates appeal"
+      ],
+      "index_terms": [
+        "Hobson",
+        "Cheshire Constabulary",
+        "Halton Justices",
+        "Canal Reach Runcorn",
+        "informed consent",
+        "s.17 PACE"
+      ],
+      "linked_authorities": [
+        {
+          "name": "O'Loughlin v Chief Constable of Essex",
+          "citation": "[1998] 1 WLR 374"
+        },
+        {
+          "name": "Riley v Director of Public Prosecutions",
+          "citation": "(1991) 14 Cr App R 14"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete judgment with clear ratio on consent versus statutory entry; no material gaps in source text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2745.json",
+    "status": "done",
+    "notes": "Very long judgment; source summary field truncated but full_text is complete.",
+    "enrichment": {
+      "short_title": "Turkish nationals temporarily admitted in UK may invoke Article 41 EC-Turkey standstill on business immigration rules",
+      "area_of_law": [
+        "Immigration law",
+        "European Union law",
+        "Judicial review",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Act 1971",
+          "provisions": ["s.11"]
+        },
+        {
+          "title": "Asylum and Immigration Act 1996",
+          "provisions": ["s.2"]
+        },
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": ["s.10", "s.11"]
+        },
+        {
+          "title": "EC-Turkey Association Agreement",
+          "provisions": ["Article 13"]
+        },
+        {
+          "title": "Additional Protocol to the EC-Turkey Association Agreement",
+          "provisions": ["Article 41(1)", "Article 41(2)"]
+        }
+      ],
+      "key_facts": [
+        "Mehmet Dari and Veli Tum, Turkish nationals temporarily admitted after failed asylum claims, sought leave to enter or remain to establish businesses relying on the EC-Turkey Association Agreement.",
+        "The Home Office refused their applications and applied current immigration rules (HC 395), which were less favourable than the rules in force on 1 January 1973 (HC 509/510).",
+        "Counsel agreed both claimants were to be treated as applicants for leave to enter to establish a business because of the deeming provision in s.11 Immigration Act 1971."
+      ],
+      "procedural_posture": "Substantive judicial review of refusal decisions; permission granted and heard together for both claimants.",
+      "outcome": "Claims succeeded; decision letters quashed; Turkish nationals entitled to have applications assessed under 1973 immigration rules; permission to appeal granted to the Secretary of State.",
+      "ratio": "Article 41(1) of the Additional Protocol has direct effect and prohibits the UK from applying post-1973 immigration restrictions on freedom of establishment for Turkish nationals seeking to establish a business; although first admission remains governed by domestic law, that law must be the more favourable rules prevailing when the Protocol entered into force.",
+      "legal_issues": [
+        "Whether Article 41(1) applies to Turkish nationals seeking initial leave to enter to establish a business",
+        "Whether s.11 Immigration Act 1971 meant claimants were applicants for leave to enter despite physical presence",
+        "Whether Savas and related ECJ/Court of Appeal authorities required application of 1973 rules",
+        "Whether a reference to the ECJ should be made"
+      ],
+      "catchwords": [
+        "EC-Turkey Association Agreement",
+        "Article 41 standstill",
+        "freedom of establishment",
+        "immigration rules 1973",
+        "temporary admission",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Tum",
+        "Dari",
+        "Savas",
+        "Abatay",
+        "HC 395",
+        "HC 509",
+        "business immigration",
+        "Turkish nationals"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Secretary of State for the Home Department ex parte Savas",
+          "citation": "Case C-37/98; [2000] ECR I-2927"
+        },
+        {
+          "name": "R v Secretary of State for the Home Department ex parte A",
+          "citation": "[2002] EWCA Civ 1008"
+        },
+        {
+          "name": "Abatay and Sahin",
+          "citation": "Cases C-317/01 and C-369/01"
+        },
+        {
+          "name": "R v International Stock Exchange ex parte Else",
+          "citation": "[1993] QB 534"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full reasoning available in full_text despite truncated summary metadata; outcome and ratio clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1741.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on contract formation by offer, revocation and acceptance.",
+    "enrichment": {
+      "short_title": "Relocation contract formed on capped acceptance of earlier per-load quotation, not later fixed-price proposal",
+      "area_of_law": [
+        "Contract law",
+        "Commercial law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Pickfords faxed Celestica a budget quotation on 13 September 2001 based on £890 per vehicle load plus extras, estimated at about £100,000 total.",
+        "On 27 September Pickfords sent a detailed fixed-price proposal for £98,760 incorporating standard terms and conditions.",
+        "Celestica's fax of 15 October 2001 confirmed an order by reference to the 13 September fax and added 'Not to exceed 100K'; Pickfords performed the relocation work."
+      ],
+      "procedural_posture": "Appeal from county court recorder's decision on which offer was accepted and contract terms.",
+      "outcome": "Appeal dismissed with costs; contract held to be on the first-offer terms subject to the £100,000 cap, not the fixed-price proposal.",
+      "ratio": "A later inconsistent offer may impliedly revoke an earlier offer where the documents show a superseding regime rather than alternative quotations; an acceptance referring expressly to the first offer and capping liability at the earlier budget figure creates a counter-offer accepted by conduct, even where the parties argued different analyses.",
+      "legal_issues": [
+        "Whether the 27 September proposal revoked the 13 September offer",
+        "Which offer was accepted by Celestica's 15 October fax",
+        "Effect of the 'Not to exceed 100K' wording on contract price",
+        "Whether 'CONFIRMATION' pointed to the second offer"
+      ],
+      "catchwords": [
+        "offer and acceptance",
+        "revocation of offer",
+        "counter-offer",
+        "acceptance by conduct",
+        "fixed price",
+        "battle of forms"
+      ],
+      "index_terms": [
+        "Pickfords",
+        "Celestica",
+        "Bradwell Wood",
+        "relocation contract",
+        "commercial construction"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Chitty on Contracts",
+          "citation": "28th ed (1999), para 2-083"
+        }
+      ],
+      "confidence": {
+        "score": 0.97,
+        "level": "high",
+        "notes": "Self-contained contract formation dispute with complete facts and reasoning."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1689.json",
+    "status": "done",
+    "notes": "Single-judge permission decision on state immunity and employment tribunal jurisdiction.",
+    "enrichment": {
+      "short_title": "Saudi embassy employee refused permission to appeal state immunity bar to unfair dismissal claim",
+      "area_of_law": [
+        "Employment law",
+        "State immunity",
+        "Public international law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "State Immunity Act 1978",
+          "provisions": ["s.4", "s.16(1)(a)"]
+        },
+        {
+          "title": "Diplomatic Privileges Act 1964",
+          "provisions": ["Schedule (Vienna Convention on Diplomatic Relations)"]
+        }
+      ],
+      "key_facts": [
+        "Mr Hassan, an Egyptian interpreter in the Saudi Military Attaché's department in London, claimed constructive unfair dismissal after refusing less favourable 1998 contracts imposing tax and NI obligations.",
+        "The employment tribunal held the claim failed because s.16(1)(a) State Immunity Act 1978 disapplied the employment exception in s.4 for members of a diplomatic mission.",
+        "The EAT dismissed an estoppel argument, finding estoppel cannot enlarge tribunal jurisdiction over a statutory immunity bar."
+      ],
+      "procedural_posture": "Application for permission to appeal to the Court of Appeal against EAT dismissal; extension of time granted.",
+      "outcome": "Permission to appeal refused; application dismissed.",
+      "ratio": "Where s.16(1)(a) State Immunity Act 1978 applies, the employment tribunal lacks jurisdiction and estoppel cannot be used to circumvent the statutory bar; 'members of a mission' takes its meaning from Article 1 Vienna Convention and includes administrative and technical staff.",
+      "legal_issues": [
+        "Whether administrative and technical embassy staff fall within s.16(1)(a)",
+        "Whether estoppel could prevent Saudi Arabia relying on state immunity",
+        "Whether disputes over Vienna Convention interpretation must go to the ICJ"
+      ],
+      "catchwords": [
+        "state immunity",
+        "embassy employment",
+        "employment tribunal jurisdiction",
+        "estoppel",
+        "Vienna Convention",
+        "permission to appeal"
+      ],
+      "index_terms": [
+        "Al-Kadhimi",
+        "Saudi Arabia",
+        "Military Attaché",
+        "constructive dismissal",
+        "Globe Elastic"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ahmed v Government of the Kingdom of Saudi Arabia",
+          "citation": "[1996] ICR 25"
+        },
+        {
+          "name": "Secretary of State for Employment v Globe Elastic Thread Co Ltd",
+          "citation": "[1979] ICR 706"
+        },
+        {
+          "name": "Shah v Shah",
+          "citation": "[2001] 4 All ER 138"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete permission judgment with clear disposal and authority review."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3514.json",
+    "status": "done",
+    "notes": "Combined Attorney-General reference and sentence appeal with general DTTO guidance.",
+    "enrichment": {
+      "short_title": "Court of Appeal guidance on drug treatment and testing orders in serious burglary cases",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Drugs and crime"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["s.36"]
+        },
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": ["s.52(3)"]
+        }
+      ],
+      "key_facts": [
+        "Moussin Boujettif received a two-year DTTO after pleading guilty to aggravated burglary and numerous domestic burglaries committed while on licence, including knife threats to occupants including a ten-day-old baby.",
+        "John Harrison was sentenced to four years for burglary and six months concurrent for ABH after a drug-related assault at an acquaintance's home; a DTTO had been considered but not imposed.",
+        "The Attorney General referred Boujettif's sentence as unduly lenient; Harrison appealed on the basis a DTTO should have been made."
+      ],
+      "procedural_posture": "Attorney General's reference under s.36 Criminal Justice Act 1988 and appeal against sentence heard together by the full Court of Appeal.",
+      "outcome": "Boujettif: reference upheld; DTTO replaced with four years' imprisonment concurrently. Harrison: appeal allowed in principle and two-year community rehabilitation order imposed after video-link hearing the following day.",
+      "ratio": "DTTOs should target acquisitive drug-driven offending where there is clear motivation to become drug-free and proportionality permits rehabilitation, but they are very rarely appropriate for serious violent domestic burglary involving weapons, repeated night-time intrusions and extensive criminal history while on licence.",
+      "legal_issues": [
+        "When a DTTO is appropriate despite serious offending",
+        "Factors relevant to public interest in drug treatment sentences",
+        "Whether Boujettif's DTTO was unduly lenient",
+        "Whether Harrison should have received a community sentence with rehabilitation"
+      ],
+      "catchwords": [
+        "drug treatment and testing order",
+        "DTTO",
+        "unduly lenient sentence",
+        "aggravated burglary",
+        "community rehabilitation order",
+        "Attorney General reference"
+      ],
+      "index_terms": [
+        "Boujettif",
+        "Harrison",
+        "Belli",
+        "McCollins",
+        "crack cocaine",
+        "domestic burglary"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Belli",
+          "citation": "[2003] EWCA Crim 2752"
+        },
+        {
+          "name": "Attorney-General's Reference No 28 of 2001 (R v McCollins)",
+          "citation": "[2001] EWCA Crim 1373"
+        },
+        {
+          "name": "R v Robinson",
+          "citation": "[2002] EWCA Crim 535"
+        },
+        {
+          "name": "Attorney-General's Reference No 35 of 2001 (R v Girt)",
+          "citation": "[2002] 1 Cr App R(S) 187"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full judgment including general sentencing principles and both case disposals."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2879.json",
+    "status": "done",
+    "notes": "Complete case stated appeal on documentary hearsay admissibility under CJA 1988.",
+    "enrichment": {
+      "short_title": "Driver time sheets admissible as business documents under Criminal Justice Act 1988 s.24 without maker evidence",
+      "area_of_law": [
+        "Criminal evidence",
+        "Transport law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Transport Act 1968",
+          "provisions": ["s.97(1)(a)(iii)", "s.97B", "s.99", "s.99(1)(c)"]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["s.24", "s.25", "s.26"]
+        }
+      ],
+      "key_facts": [
+        "VOSA prosecuted George Jenkins Transport Ltd and 29 drivers for tachograph and drivers' hours offences relating to hundreds of journeys.",
+        "The prosecution's case depended on driver time sheets obtained under s.99 Transport Act 1968, which matched tachograph discs.",
+        "The district judge ruled the time sheets inadmissible for lack of proof of maker and business-document status; the prosecution offered no evidence and all charges were dismissed."
+      ],
+      "procedural_posture": "Appeal by case stated from Isle of Wight Magistrates' Court on a preliminary ruling on admissibility.",
+      "outcome": "Appeal allowed; s.24 gateway criteria satisfied on the face of the documents; matter remitted to the magistrates' court; prosecution awarded costs.",
+      "ratio": "Under s.24 Criminal Justice Act 1988 a court may infer from a document's nature and circumstances that it was created in the course of business and supplied by someone with personal knowledge without oral evidence from the maker; requiring such evidence in every case would defeat Parliament's purpose of admitting documentary hearsay subject to ss.25-26 safeguards.",
+      "legal_issues": [
+        "Whether proof of due execution by a witness is a precondition to s.24 admissibility",
+        "Whether continuity objections defeated admissibility",
+        "Whether Article 6 ECHR prevented hearsay admission",
+        "Whether Foxley governed the present documents"
+      ],
+      "catchwords": [
+        "documentary hearsay",
+        "business documents",
+        "s.24 CJA 1988",
+        "tachograph",
+        "drivers hours",
+        "case stated"
+      ],
+      "index_terms": [
+        "VOSA",
+        "George Jenkins Transport",
+        "time sheets",
+        "Foxley",
+        "Ilyas and Knight",
+        "Isle of Wight Magistrates"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Foxley",
+          "citation": "[1995] 2 Cr App R 523"
+        },
+        {
+          "name": "R v Ilyas and Knight",
+          "citation": "[1996] Crim LR 810"
+        },
+        {
+          "name": "R v Case",
+          "citation": "[1991] Crim LR 192"
+        },
+        {
+          "name": "R v M",
+          "citation": "[2003] 2 Cr App R 322"
+        },
+        {
+          "name": "Luca v Italy",
+          "citation": "36 EHRR 46"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete appellate reasoning with clear ratio on s.24 construction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1676.json",
+    "status": "done",
+    "notes": "Full Court of Appeal judgment on illegality in employment contracts and commission entitlement.",
+    "enrichment": {
+      "short_title": "Employment tribunal wrongly treated joint spousal commission arrangement as illegal tax evasion",
+      "area_of_law": [
+        "Employment law",
+        "Contract law",
+        "Tax law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": ["s.459"]
+        }
+      ],
+      "key_facts": [
+        "Mr and Mrs Colen, shareholder-employees of Cebrian (UK) Ltd, claimed unfair dismissal, wrongful dismissal and unpaid commission after dismissal in June 1995.",
+        "They had long received low basic salaries plus 10% sales commission shared between spouses in a tax-efficient manner advised by accountants.",
+        "The employment tribunal found Mrs Colen had no contractual commission entitlement and that the contracts were tainted by revenue fraud, dismissing all claims."
+      ],
+      "procedural_posture": "Appeal with permission from Employment Appeal Tribunal decision reversing the tribunal on illegality but remitting quantum.",
+      "outcome": "Appeal dismissed; employment tribunal decision held flawed; matter remitted to assess commission and notice remedies on basis of joint entitlement.",
+      "ratio": "Illegality in performance of an otherwise lawful joint commission contract does not automatically render the whole employment contract unenforceable; the employer bore the burden of proving fraud on the Revenue and the tribunal erred in finding Mrs Colen had no contractual share in commission, especially given conceded joint entitlement before 1988 and insufficient evidence of any 1988 change.",
+      "legal_issues": [
+        "Whether Mrs Colen was contractually entitled to a share of commission",
+        "Whether tax-efficient splitting of joint commission rendered contracts illegal",
+        "Burden of proof where illegality is pleaded in employment claims",
+        "How remedies should be assessed for jointly earned commission"
+      ],
+      "catchwords": [
+        "illegality",
+        "ex turpi causa",
+        "employment contract",
+        "commission",
+        "tax-efficient remuneration",
+        "unfair dismissal"
+      ],
+      "index_terms": [
+        "Colen",
+        "Cebrian UK",
+        "Percival",
+        "Hall v Woolston Hall",
+        "Newland v Simons",
+        "employment tribunal remittal"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hall v Woolston Hall Leisure Ltd",
+          "citation": "[2001] ICR 99"
+        },
+        {
+          "name": "Holman v Johnson",
+          "citation": "(1775) 1 Cowp 341"
+        },
+        {
+          "name": "Tinsley v Milligan",
+          "citation": "[1994] 1 AC 340"
+        },
+        {
+          "name": "Ashmore, Benson, Pease & Co v A V Dawson Ltd",
+          "citation": "[1973] 1 WLR 828"
+        },
+        {
+          "name": "Coral Leisure Group Ltd v Barnett",
+          "citation": "[1981] ICR 503"
+        },
+        {
+          "name": "Newland v Simons & Willer (Hairdressers) Ltd",
+          "citation": "[1981] ICR 521"
+        },
+        {
+          "name": "Mensah v East Hertfordshire NHS Trust",
+          "citation": "[1998] IRLR 531"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed multi-judge judgment with thorough illegality analysis and clear disposal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/3525.json",
+    "status": "done",
+    "notes": "Complete criminal appeal on lawful excuse and direction to convict; conviction held safe.",
+    "enrichment": {
+      "short_title": "Political protestor's criminal damage conviction safe despite judge's direction to convict on lawful excuse",
+      "area_of_law": [
+        "Criminal law",
+        "Human rights",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Damage Act 1971",
+          "provisions": ["s.1(1)", "s.3", "s.5"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": ["s.2(1)"]
+        }
+      ],
+      "key_facts": [
+        "Paul Kelleher damaged a temporary statue of Lady Thatcher in the Guildhall Gallery with a cricket bat and metal stanchion to publicise anti-globalisation and political concerns.",
+        "At first trial Aikens J left lawful excuse to the jury, which failed to agree; at retrial Bathurst-Norman HHJ ruled the defence unavailable and directed the jury that only a guilty verdict was possible.",
+        "Kelleher admitted the damage and sought to rely on political motives and concern for his son's future under section 5 lawful excuse."
+      ],
+      "procedural_posture": "Appeal against conviction with leave of the single judge after reserved judgment and supplemental hearing on safety of conviction.",
+      "outcome": "Appeal dismissed; conviction held safe despite improper direction to convict.",
+      "ratio": "Lawful excuse under section 5 Criminal Damage Act 1971 requires destruction or damage objectively done in order to protect property or a proprietary right or interest in immediate need of protection by reasonable means; political belief and generalised fears for the future do not engage the defence, but even where a judge wrongly directs conviction a safe verdict may stand where the evidence overwhelmingly establishes guilt and no defence could succeed.",
+      "legal_issues": [
+        "Whether Kelleher's motives raised lawful excuse under s.5 CDA 1971",
+        "Whether Hunt, Ashford and Smith and Hill and Hall govern political protest cases",
+        "Whether the judge was entitled to direct a verdict of guilty",
+        "Whether the conviction remained safe despite the misdirection"
+      ],
+      "catchwords": [
+        "criminal damage",
+        "lawful excuse",
+        "direction to convict",
+        "safe conviction",
+        "political protest",
+        "Human Rights Act"
+      ],
+      "index_terms": [
+        "Kelleher",
+        "Guildhall Gallery",
+        "Lady Thatcher statue",
+        "Stonehouse",
+        "Hill and Hall",
+        "jury verdict"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Hunt",
+          "citation": "(1978) 66 Cr App R 105"
+        },
+        {
+          "name": "R v Ashford and Smith",
+          "citation": "(1988) Crim LR 682"
+        },
+        {
+          "name": "R v Hill and Hall",
+          "citation": "(1989) 89 Cr App R 74"
+        },
+        {
+          "name": "DPP v Stonehouse",
+          "citation": "[1978] AC 55"
+        },
+        {
+          "name": "R v Gent",
+          "citation": "(1989) 89 Cr App R 247"
+        },
+        {
+          "name": "R v Davis",
+          "citation": "[2001] 1 Cr App R 115"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete reserved judgment with detailed authority review and clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/2792.json",
+    "status": "needs_review",
+    "notes": "Phase 5 interim Metro litigation judgment; liability and construction largely resolved but quantum and some coverage issues reserved; source summary truncated.",
+    "enrichment": {
+      "short_title": "Insurers cannot avoid Glencore open cover over Fujairah oil losses after Metro Group collapse",
+      "area_of_law": [
+        "Insurance law",
+        "Commercial law",
+        "Commodity trading",
+        "Marine insurance"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Phase 5 of the Metro litigation concerned Glencore's claim under commodity open-cover policies with Alpina following the February 1998 collapse of Metro Trading International and Metro Oil Corporation at Fujairah.",
+        "Alpina defended on grounds of fraud, misrepresentation/non-disclosure and coverage, seeking to avoid policies for the 1996-97 and 1997-98 years.",
+        "Large quantities of Glencore's oil stored in MTI's floating storage and blending operation were misappropriated or lost around the Metro Group collapse."
+      ],
+      "procedural_posture": "Commercial Court trial of preliminary and coverage issues in multi-phase Metro litigation; quantum and some coverage points reserved for later stages.",
+      "outcome": "Alpina not entitled to avoid the open cover and liable to indemnify Glencore for losses proved later, subject to the court's construction decisions on valuation, location of loss and related policy terms.",
+      "ratio": "In a worldwide commodity-trader open cover, the duty of disclosure is measured against the broad risks accepted and Alpina failed to establish avoidance grounds; fraud allegations were withdrawn and misrepresentation/non-disclosure defences failed, leaving cover effective subject to detailed policy construction on stored and diverted cargoes.",
+      "legal_issues": [
+        "Whether Alpina could avoid the open cover for non-disclosure or misrepresentation",
+        "Scope of utmost good faith disclosure in worldwide open-cover policies",
+        "Construction of storage and transit cover conditions after Metro's collapse",
+        "Basis of valuation clauses for sold and unsold cargoes",
+        "Which losses fell within condition 1.29 and related policy terms"
+      ],
+      "catchwords": [
+        "open cover",
+        "marine cargo insurance",
+        "utmost good faith",
+        "non-disclosure",
+        "Metro litigation",
+        "Fujairah oil storage"
+      ],
+      "index_terms": [
+        "Glencore",
+        "Alpina Insurance",
+        "Metro Trading International",
+        "Metrotank",
+        "commodity insurance",
+        "Phase 5 Metro"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Glencore International AG v Metro Trading International Inc (Phase 2)",
+          "citation": "[2001] 1 Lloyd's Rep 283"
+        }
+      ],
+      "confidence": {
+        "score": 0.82,
+        "level": "medium",
+        "notes": "Very large judgment with interim disposals and reserved quantum/coverage points; enrichment focused on established liability conclusions rather than unresolved quantification."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2797.json",
+    "status": "done",
+    "notes": "Complete judicial review on juvenile murder tariff reset under detention at HM's pleasure.",
+    "enrichment": {
+      "short_title": "Juvenile murderer's 16-year minimum term upheld despite welfare challenge and oral hearing request",
+      "area_of_law": [
+        "Sentencing",
+        "Public law",
+        "Human rights",
+        "Prison law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children and Young Persons Act 1933",
+          "provisions": ["s.44", "s.53(1)"]
+        },
+        {
+          "title": "Crime (Sentences) Act 1997",
+          "provisions": ["s.28(4)"]
+        },
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": ["s.82A"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 5(4)", "Article 6(1)"]
+        },
+        {
+          "title": "United Nations Convention on the Rights of the Child",
+          "provisions": ["Article 37(b)"]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Anthony Dudson was convicted aged 16 of murder in the torture and killing of Suzanne Capper and sentenced to detention at Her Majesty's pleasure with an original 18-year tariff.",
+        "Following T and V v UK and transitional procedures, the Lord Chief Justice reset the minimum term to 16 years in January 2002, recognising progress in custody.",
+        "Dudson challenged the reset tariff for failure to reflect welfare under s.44 Children and Young Persons Act 1933 and for lack of an oral hearing before the Lord Chief Justice."
+      ],
+      "procedural_posture": "Judicial review of Secretary of State's adoption of the Lord Chief Justice's recommended minimum term; permission to appeal granted.",
+      "outcome": "Claim dismissed; 16-year minimum term not unlawful; no entitlement to oral hearing on the facts and any such right was waived; permission to appeal granted.",
+      "ratio": "When resetting a s.53(1) tariff after Venables and T v UK, the Lord Chief Justice undertook a fresh judicial tariff-setting exercise in which welfare is one factor but does not require building in speculative exceptional progress or the lowest possible term; Article 6 does not require an oral hearing where detailed written representations fully address the issues, and continued pursuit of written submissions may waive an earlier conditional request for a hearing.",
+      "legal_issues": [
+        "Whether the Lord Chief Justice failed to give proper weight to welfare under s.44 when resetting tariff",
+        "Whether absence of periodic review required a lower minimum term",
+        "Whether Article 6 required an oral hearing before the Lord Chief Justice",
+        "Whether the claimant waived any right to an oral hearing"
+      ],
+      "catchwords": [
+        "minimum term",
+        "tariff",
+        "detention at Her Majesty's pleasure",
+        "juvenile murder",
+        "welfare principle",
+        "Article 6 oral hearing"
+      ],
+      "index_terms": [
+        "Dudson",
+        "Suzanne Capper",
+        "Venables",
+        "T and V v UK",
+        "Smith judicial review",
+        "Lord Chief Justice tariff"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Home Secretary ex parte Venables",
+          "citation": "[1998] AC 407"
+        },
+        {
+          "name": "T and V v United Kingdom",
+          "citation": "[2000] 30 EHRR 121"
+        },
+        {
+          "name": "R (Smith) v Secretary of State for the Home Department",
+          "citation": "[2003] 1 WLR 2176"
+        },
+        {
+          "name": "R v Home Secretary ex parte Furber",
+          "citation": "[1998] 1 All ER 23"
+        },
+        {
+          "name": "R (Bulger) v Secretary of State",
+          "citation": "[2001] 3 All ER 449"
+        },
+        {
+          "name": "Easterbrook v The United Kingdom",
+          "citation": "48015/99"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Comprehensive joint judgment covering welfare, procedure and ECHR issues with clear dismissal."
+      }
+    }
+  }
+]

@@ -1,0 +1,675 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2004/298.json",
+    "status": "needs_review",
+    "notes": "Asylum persecution threshold analysis is clear; source judges metadata does not match the panel named in the judgment (Kennedy, Chadwick, Kay).",
+    "enrichment": {
+      "short_title": "Zimbabwe asylum appeal on persecution threshold",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Refugee Convention 1951",
+          "provisions": [
+            "Article 1A(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Zimbabwean Shona cultural artist appealed after the Immigration Appeal Tribunal dismissed his asylum appeal against an adjudicator's refusal.",
+        "The appellant had been assaulted by Zanu-PF youths after performing at MDC rallies but had not been arrested or detained in Zimbabwe.",
+        "The adjudicator found him credible and accepted a well-founded fear of ill treatment, but held past violence did not amount to persecution.",
+        "The tribunal misread the adjudicator as having failed to assess future risk and failed to distinguish ill treatment from persecution."
+      ],
+      "procedural_posture": "Court of Appeal appeal against an Immigration Appeal Tribunal decision dismissing an asylum appeal.",
+      "outcome": "Appeal dismissed with costs; the adjudicator's finding that past ill treatment fell short of persecution was upheld.",
+      "ratio": "An adjudicator may properly distinguish ill treatment from persecution where a single beating was not particularly vicious and future risk was assessed; the tribunal erred by misinterpreting the adjudicator's reasoning and substituting its own view without first finding the adjudicator wrong.",
+      "legal_issues": [
+        "Whether past assaults by political opponents amounted to persecution",
+        "Whether the adjudicator adequately considered future risk of ill treatment",
+        "Whether the tribunal correctly applied Demirkaya and Ravichandran on the persecution threshold",
+        "Whether the internal flight alternative was available"
+      ],
+      "catchwords": [
+        "asylum",
+        "persecution",
+        "Zimbabwe",
+        "ill treatment",
+        "Immigration Appeal Tribunal",
+        "refugee status"
+      ],
+      "index_terms": [
+        "Hovarth test",
+        "Demirkaya",
+        "Ravichandran",
+        "MDC",
+        "Zanu-PF",
+        "internal flight alternative",
+        "cultural artist"
+      ],
+      "linked_authorities": [
+        "Ravichandran v Secretary of State for the Home Department [1996] Imm AR 97",
+        "Demirkaya v Secretary of State for the Home Department [1999] IAR 498",
+        "Hovarth [2000] Imm AR 552"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome and legal reasoning are explicit. Source metadata on judges is inconsistent with the judgment text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/385.json",
+    "status": "done",
+    "notes": "Commercial stay and solicitor authority application; Donsland analysis and Polish law issues are fully reasoned.",
+    "enrichment": {
+      "short_title": "Stay refused in shareholders' dispute over solicitor authority",
+      "area_of_law": [
+        "Commercial law",
+        "Company law",
+        "Civil procedure",
+        "Conflict of laws"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "ZP and Euroafrica disputed Events of Default under a 1996 Shareholders' Agreement governing a Polonia Lines joint venture.",
+        "ZP applied to stay conjoined English proceedings pending Polish proceedings on whether Euroafrica's boards were validly constituted after disputed 2002 EGMs.",
+        "Richards Butler had been retained on a general basis through Polish lawyers before the alleged constitutional defects arose.",
+        "A July 2004 trial was fixed and substantial preparation had already been undertaken."
+      ],
+      "procedural_posture": "Application in the Commercial Court for a stay of English proceedings pending determination of related Polish proceedings.",
+      "outcome": "Application refused; Richards Butler had continuing authority to act and a stay would prejudice both parties without realistic risk of re-litigation.",
+      "ratio": "Under Donsland, a solicitor retained on a general litigation retainer retains authority to conduct proceedings even if later unable easily to obtain instructions from a disputed management board; where Polish constitutional issues do not affect the central contractual issues, a stay pending Polish proceedings is unnecessary.",
+      "legal_issues": [
+        "Whether Euroafrica's solicitors had authority to conduct the English proceedings",
+        "Whether proceedings should be stayed pending Polish court determination of board validity",
+        "Effect of Polish company law on shareholder resolutions and board composition",
+        "Whether a judgment obtained by authorised solicitors would bind Euroafrica regardless of later Polish findings"
+      ],
+      "catchwords": [
+        "stay of proceedings",
+        "want of authority",
+        "shareholders' agreement",
+        "Polish law",
+        "solicitor's retainer",
+        "joint venture"
+      ],
+      "index_terms": [
+        "Donsland",
+        "Euroafrica",
+        "Polonia Lines",
+        "Richards Butler",
+        "Szczecin",
+        "Event of Default",
+        "Commercial Court"
+      ],
+      "linked_authorities": [
+        "Donsland Ltd v Van Hoogstraten [2002] EWCA Civ 253",
+        "Underwood Son & Piper v Lewis [1894] 2 QB 306"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed first-instance judgment with clear outcome on stay and authority."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/742.json",
+    "status": "done",
+    "notes": "Operation Puma informant nondisclosure appeal; Crown concession and quashing of convictions are clear.",
+    "enrichment": {
+      "short_title": "Operation Puma convictions quashed for informant nondisclosure",
+      "area_of_law": [
+        "Criminal law",
+        "Revenue and excise fraud",
+        "Criminal procedure",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": [
+            "section 9"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 71"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Ghuman, Prior, Parmenter and Bamidele were convicted of conspiracy to cheat the public revenue in a bonded warehouse diversion fraud exceeding £25 million.",
+        "After conviction it emerged that London City Bond directors Alfred and Edward Allington were participating informants known to Customs and Excise.",
+        "Judge Focke was not told of their informant status at a PII hearing and Alfred Allington gave misleading or dishonest evidence.",
+        "Customs officer Bernie Small failed to keep proper informant records and AAD exhibit continuity was compromised."
+      ],
+      "procedural_posture": "Court of Appeal criminal appeal and late applications for leave to appeal against conviction, including a CCRC reference in Ghuman's case.",
+      "outcome": "Leave granted to Prior, Parmenter and Bamidele; all four appellants' convictions quashed, including Bamidele who had pleaded guilty without proper disclosure.",
+      "ratio": "Inadequate disclosure of participating informants, dishonest prosecution evidence at PII hearings, and broken exhibit continuity can taint a prosecution beyond redemption; defendants who pleaded guilty without adequate disclosure should not be in a worse position than those who contested trial.",
+      "legal_issues": [
+        "Whether nondisclosure of participating informants undermined the convictions",
+        "Whether an abuse of process application would likely have succeeded with full disclosure",
+        "Whether a guilty plea entered without adequate disclosure should stand",
+        "Effect of Alfred Allington's dishonest evidence on the safety of convictions"
+      ],
+      "catchwords": [
+        "nondisclosure",
+        "participating informant",
+        "excise fraud",
+        "bonded warehouse",
+        "abuse of process",
+        "Operation Puma"
+      ],
+      "index_terms": [
+        "London City Bond",
+        "Customs and Excise",
+        "AAD",
+        "Early",
+        "Villiers",
+        "conspiracy to cheat the public revenue",
+        "CCRC"
+      ],
+      "linked_authorities": [
+        "R v Villiers & Ors [2001] EWCA Crim 2505",
+        "Early & Ors [2003] 1 Cr App R 288"
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Prosecution conceded the appeals and the court's reasoning closely follows Early and Villiers."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/946.json",
+    "status": "done",
+    "notes": "Section 41 sexual history ruling and R v A distinction are comprehensively analysed.",
+    "enrichment": {
+      "short_title": "Rape appeal: prostitution evidence excluded under section 41",
+      "area_of_law": [
+        "Criminal law",
+        "Sexual offences",
+        "Evidence",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Youth Justice and Criminal Evidence Act 1999",
+          "provisions": [
+            "section 41"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 3"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant was convicted by a 10-2 majority of rape after a night of drinking and cannabis at the complainant's flat.",
+        "The complainant had worked as a prostitute and the defence sought to cross-examine her about past and contemporaneous prostitution.",
+        "The trial judge refused leave under section 41 but permitted limited questioning about payment expectations on the night.",
+        "The defence argued exclusion rendered the conviction unsafe and that R v A required a wider reading of section 41."
+      ],
+      "procedural_posture": "Court of Appeal appeal against conviction by leave of the single judge, adjourned for argument on R v A.",
+      "outcome": "Appeal dismissed; conviction safe and cross-examination about prostitution was properly excluded.",
+      "ratio": "General evidence that a complainant was or had been a prostitute does not satisfy section 41(6)'s requirement of specific instances with probative force; R v A does not support reading down section 41 to admit sexual behaviour with third parties where ordinary construction excludes it.",
+      "legal_issues": [
+        "Whether cross-examination about prostitution was admissible under section 41(3)",
+        "Whether section 41(6) required specific instances of sexual behaviour",
+        "Whether exclusion rendered the jury's verdict on consent unsafe",
+        "Whether R v A required section 41 to be read compatibly with article 6 for third-party sexual history"
+      ],
+      "catchwords": [
+        "rape",
+        "section 41",
+        "sexual history",
+        "consent",
+        "cross-examination",
+        "prostitution"
+      ],
+      "index_terms": [
+        "R v A (No 2)",
+        "Youth Justice and Criminal Evidence Act 1999",
+        "article 6",
+        "credibility",
+        "specific instances",
+        "majority verdict"
+      ],
+      "linked_authorities": [
+        "R v A (No 2) [2002] 1 AC 45",
+        "R v Seaboyer",
+        "R v Holmes (1871) LR 1 CCR 334"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Detailed analysis of section 41 and R v A with a clear dismissal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/836.json",
+    "status": "done",
+    "notes": "Extended sentence and section 28 disqualification construction clearly resolved.",
+    "enrichment": {
+      "short_title": "Extended sentence and section 28 disqualification upheld",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Sexual offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Powers of Criminal Courts (Sentencing) Act 2000",
+          "provisions": [
+            "section 76",
+            "section 85"
+          ]
+        },
+        {
+          "title": "Criminal Justice and Court Services Act 2000",
+          "provisions": [
+            "section 28",
+            "section 30",
+            "Schedule 4"
+          ]
+        },
+        {
+          "title": "Sexual Offences Act 1956",
+          "provisions": [
+            "section 14"
+          ]
+        },
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": [
+            "section 58"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The appellant pleaded guilty to indecent assault on a 14-year-old girl met online and to possession of category 1 indecent pseudo-photographs.",
+        "He received a six-month custodial term with an 18-month extension period under section 85 and a section 28 disqualification from working with children.",
+        "A pre-sentence report assessed medium risk of reoffending and noted lack of insight and refusal to undertake a sex offender programme.",
+        "On release, probation imposed a licence condition preventing residence with his own children."
+      ],
+      "procedural_posture": "Court of Appeal sentence appeal limited to the extension period and the section 28 disqualification order.",
+      "outcome": "Appeal dismissed; section 28 order was lawful and the 18-month extension was not manifestly excessive, though registration should be for 10 not 7 years.",
+      "ratio": "For section 28 purposes an extended sentence's qualifying term includes the extension period because a custodial sentence under section 76 comprises both custody and licence; Graham S was decided per incuriam on this point.",
+      "legal_issues": [
+        "Whether an extended sentence with a custodial term under 12 months is a qualifying sentence for section 28",
+        "Whether the 18-month extension period was manifestly excessive",
+        "Construction of custodial sentence for extended sentences under section 85",
+        "Effect of probation licence conditions on the appeal"
+      ],
+      "catchwords": [
+        "extended sentence",
+        "section 28",
+        "disqualification from working with children",
+        "indecent assault",
+        "qualifying sentence",
+        "licence period"
+      ],
+      "index_terms": [
+        "Graham S",
+        "Sex Offenders Register",
+        "pseudo-photographs",
+        "Oliver categories",
+        "internet grooming",
+        "probation licence"
+      ],
+      "linked_authorities": [
+        "R v Graham S [2001] 1 Cr App R(S) 335",
+        "R v Oliver [2003] 2 Cr App R(S) 15"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory construction and sentencing outcome are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/337.json",
+    "status": "done",
+    "notes": "Workplace steps negligence appeal; foreseeability and regulation 12 analysis are clear.",
+    "enrichment": {
+      "short_title": "Employer not liable for missing handrail on factory steps",
+      "area_of_law": [
+        "Personal injury",
+        "Employment law",
+        "Health and safety",
+        "Negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Workplace (Health, Safety and Welfare) Regulations 1992",
+          "provisions": [
+            "regulation 5",
+            "regulation 12"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Coates tripped on four shallow factory steps used by about 100 employees daily and seriously injured his arm.",
+        "The trial judge found Jaguar negligent for failing to provide a handrail and apportioned 25% contributory negligence.",
+        "The steps were in good condition, unusually deep, and had been used without incident for years before the accident.",
+        "A handrail was installed after the accident on the safety officer's recommendation."
+      ],
+      "procedural_posture": "Employer's appeal and claimant's cross appeal from Birmingham County Court judgment on negligence and statutory duty.",
+      "outcome": "Appeal allowed with costs; claim dismissed and the judge's order set aside.",
+      "ratio": "Foreseeability of a trip on ordinary workplace steps does not automatically impose a duty to install a handrail; regulation 5 concerns maintenance rather than provision, and regulation 12(5) did not apply because the steps were not a staircase.",
+      "legal_issues": [
+        "Whether failure to provide a handrail was negligent",
+        "Whether regulation 12(5) required handrails on the steps",
+        "Whether regulation 5 imposed an absolute duty to provide a handrail",
+        "Whether the claimant contributed to the accident"
+      ],
+      "catchwords": [
+        "employer's liability",
+        "handrail",
+        "workplace steps",
+        "contributory negligence",
+        "foreseeability",
+        "traffic routes"
+      ],
+      "index_terms": [
+        "Jaguar Cars",
+        "Coventry factory",
+        "Workplace Regulations 1992",
+        "risk assessment",
+        "staircase",
+        "maintenance"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Unanimous Court of Appeal with clear reasoning on negligence and regulations."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/costs/2004/9002.json",
+    "status": "done",
+    "notes": "Detailed assessment on CFA Regulation 3(2)(c) and Hollins materiality test; decision complete on enforceability.",
+    "enrichment": {
+      "short_title": "CFA held enforceable despite Regulation 3(2)(c) breach",
+      "area_of_law": [
+        "Costs and funding",
+        "Defamation",
+        "Civil procedure",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Conditional Fee Agreements Regulations 2000",
+          "provisions": [
+            "regulation 2",
+            "regulation 3",
+            "regulation 4"
+          ]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": [
+            "section 58"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Rachid Ghannouchi sued Al Arab over allegations linking An Nahda to Al Qaeda and obtained a £61,000 jury verdict after the defendants withdrew justification.",
+        "Carter-Ruck acted under a 100% success fee CFA and billed over £1.3 million including substantial Arabic translation costs.",
+        "The defendants challenged CFA validity under Regulations 3(2)(c) and 4 at detailed assessment.",
+        "The Costs Judge found the CFA breached Regulation 3(2)(c) but that the breach was not materially adverse under Hollins v Russell."
+      ],
+      "procedural_posture": "Detailed assessment of costs following a defamation trial and liability judgment.",
+      "outcome": "CFA enforceable; although Regulation 3(2)(c) was breached, the departure had no materially adverse effect on client protection or administration of justice.",
+      "ratio": "Regulation 3(2)(c) on settlement of costs limits recovery of both base costs and success fee unless the court orders otherwise, distinct from Regulation 3(2)(b) on assessment; under Hollins, immaterial regulatory departures do not render a CFA unenforceable, judged at detailed assessment stage.",
+      "legal_issues": [
+        "Construction of Regulation 3(2)(c) on agreed costs reductions",
+        "Whether the CFA complied with Regulation 4 explanation requirements",
+        "Whether breach of the Regulations rendered the CFA unenforceable",
+        "Application of the Hollins v Russell materiality test"
+      ],
+      "catchwords": [
+        "conditional fee agreement",
+        "success fee",
+        "detailed assessment",
+        "indemnity principle",
+        "Regulation 3(2)(c)",
+        "defamation costs"
+      ],
+      "index_terms": [
+        "Hollins v Russell",
+        "Law Society model CFA",
+        "An Nahda",
+        "Carter-Ruck",
+        "Al Arab",
+        "translation costs",
+        "Quintavalle"
+      ],
+      "linked_authorities": [
+        "Hollins v Russell",
+        "R (Quintavalle) v Secretary of State for Health [2003] 2 WLR 692",
+        "Awwad v Geraghty"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Long costs judgment with explicit holdings on both Regulation 3 and 4 issues."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/381.json",
+    "status": "done",
+    "notes": "GMC erasure appeal on rehearing; findings on credibility and sanction are fully reasoned.",
+    "enrichment": {
+      "short_title": "GMC erasure upheld for doctor's sexual misconduct with patient",
+      "area_of_law": [
+        "Medical regulation",
+        "Professional discipline",
+        "Administrative law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Medical Act 1983",
+          "provisions": [
+            "section 40"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Dr Wentzel, a psychiatric SHO, formed an improper emotional and later sexual relationship with vulnerable patient Ms X.",
+        "The GMC found he had sexual intercourse with her in January 1999 and lied to superiors that the relationship was platonic.",
+        "After transfer to Taunton he resumed the relationship despite instructions not to contact Ms X.",
+        "The GMC erased his name from the register for serious professional misconduct."
+      ],
+      "procedural_posture": "High Court appeal by way of rehearing under section 40 of the Medical Act 1983 against GMC liability and sanction decisions.",
+      "outcome": "Appeal dismissed; findings on sexual intercourse in January 1999 and erasure were upheld.",
+      "ratio": "The GMC was entitled to accept Ms X's evidence on the January 1999 intercourse corroborated by surrounding conduct; maintaining public confidence in the profession is paramount and may require erasure even for an otherwise competent doctor with no risk of repetition.",
+      "legal_issues": [
+        "Whether Ms X was a credible witness on the disputed January 1999 intercourse",
+        "Whether erasure was disproportionate given Dr Wentzel's abilities and lack of repetition risk",
+        "Whether the GMC properly found lack of insight",
+        "Balancing public confidence against the doctor's and health service interests"
+      ],
+      "catchwords": [
+        "GMC",
+        "erasure",
+        "serious professional misconduct",
+        "doctor and patient",
+        "sexual relationship",
+        "medical register"
+      ],
+      "index_terms": [
+        "Professional Conduct Committee",
+        "Bolton v The Law Society",
+        "Bijl v GMC",
+        "Yeovil District Hospital",
+        "psychiatric patient",
+        "public confidence"
+      ],
+      "linked_authorities": [
+        "Bolton v The Law Society [1994] 1 WLR 512",
+        "Bijl v GMC [2002] Lloyds Med Rep 60",
+        "Gupta v GMC [2002] LLR (Med) 82"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Full rehearing judgment with clear outcomes on fact and sanction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/397.json",
+    "status": "done",
+    "notes": "Share pre-emption and register rectification issues coherently resolved with Hunter and Tett analysis.",
+    "enrichment": {
+      "short_title": "Register rectified after breach of share pre-emption articles",
+      "area_of_law": [
+        "Company law",
+        "Equity",
+        "Private companies",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 35A",
+            "section 359"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Cottrell was registered as holder of 75% of shares after her husband Mervyn Cottrell died without pre-emption procedures being followed.",
+        "Mr King, the 25% shareholder, later relied on article 12 pre-emption rights and sought rectification of the register.",
+        "Mr King said he was unaware of the pre-emption provisions until late 2001; Mrs Cottrell argued waiver and section 35A protection.",
+        "The court found Mr King's pre-emption right became an equitable option when Mrs Cottrell gave notice to the company."
+      ],
+      "procedural_posture": "Part 8 claim for declarations of ownership with counterclaim for rectification of the company register.",
+      "outcome": "Order for rectification of the register; Mrs Cottrell took shares subject to Mr King's equitable pre-emption interest and waiver was not established.",
+      "ratio": "Failure to comply with pre-emption articles converts a shareholder's right into an equitable option prior to registration; a transferee who is not a purchaser for value takes legal title subject to that equity, and section 35A does not defeat a shareholder's pre-emption equity.",
+      "legal_issues": [
+        "Effect of non-compliance with article 12 pre-emption provisions",
+        "Whether Mrs Cottrell was protected by section 35A as a person dealing in good faith",
+        "Whether Mr King waived his pre-emption rights",
+        "Whether rectification under section 359 was appropriate"
+      ],
+      "catchwords": [
+        "pre-emption",
+        "articles of association",
+        "register rectification",
+        "equitable interest",
+        "share transfer",
+        "Table A"
+      ],
+      "index_terms": [
+        "Hunter v Hunter",
+        "Tett v Phoenix Property",
+        "Regulation 30 Table A",
+        "transfer notice",
+        "personal representatives",
+        "Macro v Thompson"
+      ],
+      "linked_authorities": [
+        "Hunter v Hunter [1936] AC 222",
+        "Tett v Phoenix Property and Investments Co Ltd [1984] BCLC 599",
+        "Smith v Henniker-Major & Co [2003] Ch 182",
+        "EIC Services Ltd v Phipps [2003] EWHC 1507 (Ch)"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed Chancery judgment with clear findings on pre-emption, section 35A and waiver."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2004/456.json",
+    "status": "done",
+    "notes": "Soliciting murder appeal on self-defence summing-up; court found conviction safe despite absent tailored direction.",
+    "enrichment": {
+      "short_title": "El-Faisal soliciting murder appeal dismissed",
+      "area_of_law": [
+        "Criminal law",
+        "Terrorism-related offences",
+        "Public order",
+        "Criminal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": [
+            "section 4"
+          ]
+        },
+        {
+          "title": "Public Order Act 1986",
+          "provisions": [
+            "section 18",
+            "section 21"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Sheikh El-Faisal distributed audio tapes urging Muslims to kill non-believers, Jews, Americans and Hindus.",
+        "He was convicted of soliciting murder on three counts and racial hatred offences, receiving seven years on the murder counts.",
+        "The defence said his references to killing were limited to battlefield self-defence against oppressors of Muslims.",
+        "The prosecution case was that the tapes solicited indiscriminate unlawful killing regardless of immediate attack."
+      ],
+      "procedural_posture": "Court of Appeal against conviction, limited to whether the judge adequately directed the jury on lawful self-defence in soliciting murder.",
+      "outcome": "Appeal against conviction dismissed; conviction safe despite absence of a more tailored self-defence direction.",
+      "ratio": "Soliciting murder requires the killing encouraged to be unlawful; while a specific direction on battlefield-limited self-defence would have been better, the judge's conventional direction was not erroneous and the jury must have rejected the appellant's limited-intent explanation.",
+      "legal_issues": [
+        "Whether the judge adequately directed the jury on lawful justification for killing solicited",
+        "Whether the appellant's battlefield limitation raised a defence to soliciting murder",
+        "Whether the prosecution proved solicitation of unlawful rather than self-defensive killing",
+        "Safety of conviction where no tailored self-defence direction was requested at trial"
+      ],
+      "catchwords": [
+        "soliciting murder",
+        "jihad",
+        "self-defence",
+        "audio tapes",
+        "racial hatred",
+        "unlawful killing"
+      ],
+      "index_terms": [
+        "R v Most",
+        "Kaffar",
+        "Osama bin Laden",
+        "Central Criminal Court",
+        "distribution of recordings",
+        "battlefield"
+      ],
+      "linked_authorities": [
+        "R v Most (1881) 7 QBD 244"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full appellate reasons on the sole surviving ground with detailed summing-up analysis."
+      }
+    }
+  }
+]

@@ -1,0 +1,857 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/474.json",
+    "status": "done",
+    "notes": "Batch 49 enrichment",
+    "enrichment": {
+      "short_title": "Forum stay in Indian company control dispute",
+      "area_of_law": [
+        "Company law",
+        "Conflict of laws",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 6.20",
+            "Part 11",
+            "Part 19.9"
+          ]
+        }
+      ],
+      "key_facts": [
+        "SMAY and Mr Bachchan disputed control of Reliance Silicones (India) Ltd with Mr Sachdev, Manasvi and RSIL over a 1996 Tripartite Agreement and a 2001 Guildford Agreement.",
+        "Parallel proceedings were underway in Bombay over share disenfranchisement, derivative claims and alleged RMSP trading abuses.",
+        "The claimants obtained without-notice freezing orders and permission to serve RSIL and Manasvi outside the jurisdiction.",
+        "Mr Sachdev applied for a stay on forum non conveniens grounds; RSIL and Manasvi sought to set aside service."
+      ],
+      "procedural_posture": "Inter partes applications to continue Mareva relief, set aside service out of the jurisdiction, and stay English proceedings on forum non conveniens grounds.",
+      "outcome": "English action stayed; service on RSIL and Manasvi set aside; freezing orders discharged; claimants permitted to continue Indian proceedings.",
+      "ratio": "Where a dispute concerns ownership of shares in a foreign company, derivative claims and related personal claims based on an agreement made in England, India as the place of incorporation is clearly the natural forum when parallel Indian litigation will determine the shareholder's locus and the parties can be joined there.",
+      "legal_issues": [
+        "Whether Mr Sachdev and RSIL submitted to the jurisdiction by their conduct",
+        "Whether England or India is the appropriate forum under Spiliada",
+        "Whether non-disclosure vitiated the without-notice freezing orders",
+        "Permission to bring a derivative claim and breach of undertaking to commence Indian proceedings"
+      ],
+      "catchwords": [
+        "forum non conveniens",
+        "service out of jurisdiction",
+        "derivative action",
+        "Mareva injunction",
+        "submission to jurisdiction",
+        "foreign company shares"
+      ],
+      "index_terms": [
+        "Smay Investments",
+        "Reliance Silicones",
+        "Guildford Agreement",
+        "Tripartite Agreement",
+        "Manasvi",
+        "RSIL",
+        "India",
+        "Spiliada"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Spiliada Maritime Corporation v Cansulex Ltd",
+          "citation": "[1987] AC 460",
+          "relation": "applied"
+        },
+        {
+          "name": "Konamaneni v Rolls Royce Industrial Power (India) Ltd",
+          "citation": "[2002] 1 WLR 1269",
+          "relation": "applied"
+        },
+        {
+          "name": "Esal (Commodities) Ltd v Pujara",
+          "citation": "[1989] 2 Lloyd's Rep 479",
+          "relation": "cited"
+        },
+        {
+          "name": "Prudential Assurance Co Ltd v Newman Industries Ltd (No 2)",
+          "citation": "[1982] Ch 204",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long interlocutory judgment with clear holdings on jurisdiction, forum and relief; complex factual background but legal conclusions are explicit."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/499.json",
+    "status": "done",
+    "notes": "Batch 49 enrichment",
+    "enrichment": {
+      "short_title": "Barrister negligence claim struck out as abuse",
+      "area_of_law": [
+        "Professional negligence",
+        "Partnership law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 3.4",
+            "Part 24"
+          ]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 14A"
+          ]
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": [
+            "section 375(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Hurst's Malkin Janners partnership dissolved in 1990; Carnwath J dismissed his claims in 1995 and refused a partnership account.",
+        "Mr Leeming QC acted for Hurst at trial and on appeal; Hurst later sued Leeming twice over conduct of those proceedings.",
+        "The first Leeming action was dismissed by consent with £55,000 costs after Lightman J found the claim hopeless.",
+        "The second action alleged Leeming failed to advise that Hurst's March 1995 schedule of accounting queries was unsustainable."
+      ],
+      "procedural_posture": "Cross-applications for summary judgment and strike-out in a second negligence claim against counsel, with an Ebert v Venvil restriction sought.",
+      "outcome": "Claim struck out as abuse of process and for no real prospect of success; summary judgment for Mr Leeming; Ebert v Venvil order made.",
+      "ratio": "A second negligence claim against counsel raising matters that could and should have been raised in an earlier dismissed action is an abuse of process under Henderson v Henderson principles; section 14A does not assist where the claimant, a solicitor, should have known after the 1997 Court of Appeal decision that the account claim could not succeed.",
+      "legal_issues": [
+        "Whether the second action is an abuse of process after the first action",
+        "Whether the claim is statute-barred",
+        "Whether section 14A extends limitation for latent damage",
+        "Whether Mr Leeming breached his duty by failing to advise the schedule was unsustainable",
+        "Whether mediation should have been attempted"
+      ],
+      "catchwords": [
+        "barrister negligence",
+        "abuse of process",
+        "Henderson v Henderson",
+        "partnership account",
+        "summary judgment",
+        "limitation",
+        "Ebert v Venvil"
+      ],
+      "index_terms": [
+        "Hurst",
+        "Leeming",
+        "Malkin Janners",
+        "Carnwath J",
+        "partnership dissolution",
+        "litigation campaign",
+        "bankruptcy"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Johnson v Gore Wood & Co",
+          "citation": "[2002] 2 AC 1",
+          "relation": "applied"
+        },
+        {
+          "name": "Henderson v Henderson",
+          "citation": "(1843) 3 Hare 100",
+          "relation": "applied"
+        },
+        {
+          "name": "Hurst v Bryk",
+          "citation": "[2002] 1 AC 185",
+          "relation": "cited"
+        },
+        {
+          "name": "Ebert v Venvil",
+          "citation": "[2000] Ch 484",
+          "relation": "applied"
+        },
+        {
+          "name": "Glaister v Greenwood",
+          "citation": "[2001] Lloyd's Rep PN 412",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed procedural history and clear reasoning on abuse, limitation and merits; outcome and grounds are fully stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/583.json",
+    "status": "done",
+    "notes": "Batch 49 enrichment",
+    "enrichment": {
+      "short_title": "Refusal of exceptional leave after adjudicator recommendation",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A Kosovan claimant arrived in 1998 and claimed asylum; human rights grounds were rejected by a special adjudicator.",
+        "The adjudicator recommended four years' exceptional leave because of torture, family ties, long residence and conditions in Kosovo.",
+        "The Secretary of State refused to follow the recommendation in letters of July 2002 and February 2003.",
+        "Judicial review challenged the Secretary of State's treatment of torture findings and Dr Steadman's medical report."
+      ],
+      "procedural_posture": "Judicial review of the Secretary of State's refusal to grant exceptional leave following an adjudicator's strong recommendation.",
+      "outcome": "Claim dismissed; the Secretary of State's discretion was not Wednesbury unreasonable.",
+      "ratio": "Where Convention breaches have been ruled out and exceptional leave policy is not challenged, acceptance of past torture and consideration of medical evidence in a decision letter can suffice; it is not irrational to conclude that anxiety and sleep disturbance common among former Yugoslav residents do not amount to exceptional compassionate circumstances.",
+      "legal_issues": [
+        "Whether the Secretary of State properly considered allegations of torture",
+        "Whether Dr Steadman's medical report was adequately weighed",
+        "Wednesbury unreasonableness of refusing exceptional leave"
+      ],
+      "catchwords": [
+        "exceptional leave",
+        "judicial review",
+        "asylum",
+        "torture",
+        "medical evidence",
+        "Kosovo",
+        "Wednesbury"
+      ],
+      "index_terms": [
+        "Prela",
+        "Kosovo",
+        "Dr Steadman",
+        "special adjudicator recommendation",
+        "compassionate circumstances",
+        "exceptional leave to remain"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Short administrative judgment with two focused grounds; factual findings largely follow the adjudicator and decision letters."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/458.json",
+    "status": "done",
+    "notes": "Batch 49 enrichment",
+    "enrichment": {
+      "short_title": "Service out upheld in equity trading profits dispute",
+      "area_of_law": [
+        "Contract law",
+        "Conflict of laws",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 6.20",
+            "Part 11"
+          ]
+        },
+        {
+          "title": "Contracts (Applicable Law) Act 1990",
+          "provisions": []
+        },
+        {
+          "title": "Rome Convention on the Law Applicable to Contractual Obligations",
+          "provisions": [
+            "Article 3",
+            "Article 4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Staines claimed an oral agreement with fund manager Mr Walsh to share net equity trading profits, allegedly made in London in 1997.",
+        "Walsh contended the contract was made in Thailand and concerned a Hong Kong corporate structure including Mondial.",
+        "A disputed account suggested about $250,000 was owed after termination in March 2001.",
+        "Walsh applied to set aside service outside the jurisdiction; the second defendant had judgment entered against him."
+      ],
+      "procedural_posture": "Application under CPR Part 11 to set aside service out of the jurisdiction and contest England as the appropriate forum.",
+      "outcome": "Application refused; claimant had a good arguable case the contract was made in England and England was clearly the appropriate forum.",
+      "ratio": "On an inter partes jurisdiction application, contemporaneous documentary evidence supporting the claimant's account of where and how the contract was formed can establish a good arguable case under CPR 6.20(5)(a); where credit, accounting and witnesses are predominantly in England, England may be clearly the most convenient forum even for a Hong Kong-linked trading dispute.",
+      "legal_issues": [
+        "Whether the contract was made within the jurisdiction",
+        "Whether English law governs the contract under the Rome Convention",
+        "Whether Walsh was sued in the correct capacity or as part of a Hong Kong organisation",
+        "Whether there is a serious issue to be tried",
+        "Whether England is clearly the appropriate forum under Spiliada"
+      ],
+      "catchwords": [
+        "service out of jurisdiction",
+        "good arguable case",
+        "forum conveniens",
+        "oral contract",
+        "equity trading",
+        "account of profits",
+        "Rome Convention"
+      ],
+      "index_terms": [
+        "Staines",
+        "Walsh",
+        "Mondial",
+        "Ropemaker Road",
+        "Hong Kong",
+        "Global Settlements",
+        "freezing order"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Canada Trust Co v Stolzenberg (No 2)",
+          "citation": "[1998] 1 WLR 547",
+          "relation": "applied"
+        },
+        {
+          "name": "Spiliada Maritime Corporation v Cansulex Ltd",
+          "citation": "[1987] AC 460",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Full inter partes judgment on jurisdiction with explicit findings on contract formation, serious issue and forum; proper law analysis was obiter."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/945.json",
+    "status": "done",
+    "notes": "Batch 49 enrichment",
+    "enrichment": {
+      "short_title": "Tourniquet assistance during heroin self-injection",
+      "area_of_law": [
+        "Criminal law",
+        "Drugs offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Offences Against the Person Act 1861",
+          "provisions": [
+            "section 23"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Rodgers held a belt tourniquet on Michael Tippett's arm while Tippett injected himself with heroin.",
+        "Tippett suffered cardiac arrest and died eight days later.",
+        "The trial judge ruled there was no defence; Rodgers pleaded guilty to section 23 and manslaughter and received three years on each count.",
+        "The appeal turned on whether Rodgers was a principal or merely aiding a non-criminal self-injection."
+      ],
+      "procedural_posture": "Appeal with leave against conviction and sentence after a trial ruling that no defence was available.",
+      "outcome": "Appeals against conviction and sentence dismissed.",
+      "ratio": "Applying and holding a tourniquet to facilitate another's self-injection is part of the mechanics of administering heroin and constitutes principal participation in an unlawful act under section 23; Dias does not assist where the defendant actively participates in the injection process rather than merely supplying the drug.",
+      "legal_issues": [
+        "Principal versus secondary party liability for self-injection",
+        "Whether section 23 requires administration by the defendant",
+        "Whether causation must be left to the jury",
+        "Appropriate sentence for manslaughter arising from assisted injection"
+      ],
+      "catchwords": [
+        "section 23",
+        "administering poison",
+        "manslaughter",
+        "heroin injection",
+        "tourniquet",
+        "principal liability",
+        "self-injection"
+      ],
+      "index_terms": [
+        "Rodgers",
+        "Dias",
+        "Kennedy",
+        "Cato",
+        "drug abuse",
+        "causation",
+        "unlawful act manslaughter"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Dias",
+          "citation": "[2002] Cr App R 96",
+          "relation": "distinguished"
+        },
+        {
+          "name": "R v Kennedy",
+          "citation": "[1999] Crim LR 65",
+          "relation": "distinguished"
+        },
+        {
+          "name": "R v Cato",
+          "citation": "62 Cr App R 41",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Richards",
+          "citation": "[2002] EWCA Crim 3175",
+          "relation": "followed"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Short appellate judgment on a discrete point of criminal liability with clear reasoning and explicit dismissal of both appeals."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/350.json",
+    "status": "done",
+    "notes": "Batch 49 enrichment",
+    "enrichment": {
+      "short_title": "CPR 47.19 offer in costs-only proceedings",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 44.12A",
+            "Part 47.18",
+            "Part 47.19"
+          ]
+        },
+        {
+          "title": "Access to Justice Act 1999",
+          "provisions": [
+            "section 29"
+          ]
+        }
+      ],
+      "key_facts": [
+        "After a road traffic claim settled without proceedings, the claimant started Part 8 costs-only proceedings under CPR 44.12A.",
+        "The defendant offered £2,650 all-inclusive under CPR 47.19 to settle the detailed assessment claim.",
+        "The claimant accepted the offer but then sought separate costs of the Part 8 proceedings.",
+        "The costs judge held the offer covered all costs; the county court judge dismissed the appeal."
+      ],
+      "procedural_posture": "Appeal from county court decisions on whether a CPR 47.19 offer included the costs of Part 8 costs-only proceedings.",
+      "outcome": "Appeal allowed; the Part 47.19 offer related only to costs leading up to settlement of the substantive claim, not the Part 8 assessment proceedings.",
+      "ratio": "In costs-only proceedings under CPR 44.12A, 'the proceedings which gave rise to the assessment proceedings' in CPR 47.19 means the pre-settlement dealings over substantive liability and damages, not the Part 8 proceedings themselves; an all-inclusive offer therefore settles the bill-related costs but leaves Part 8 costs to be determined separately.",
+      "legal_issues": [
+        "Construction of 'proceedings which gave rise to the assessment proceedings' in CPR 47.19",
+        "Whether an all-inclusive CPR 47.19 offer covers Part 8 costs-only proceedings",
+        "Interaction between CPR 44.12A and detailed assessment procedure",
+        "Whether CPD 46.2 affects the scope of such offers"
+      ],
+      "catchwords": [
+        "CPR 47.19",
+        "costs-only proceedings",
+        "Part 8 claim",
+        "detailed assessment",
+        "Calderbank offer",
+        "without prejudice save as to costs"
+      ],
+      "index_terms": [
+        "Crosbie",
+        "Munroe",
+        "road traffic accident",
+        "Part 8 costs",
+        "Callery v Gray",
+        "Liverpool County Court"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Callery v Gray (No 1)",
+          "citation": "[2001] EWCA Civ 1117",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Authoritative Court of Appeal guidance on CPR 47.19 in the costs-only context with straightforward facts and unanimous court."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/342.json",
+    "status": "done",
+    "notes": "Batch 49 enrichment",
+    "enrichment": {
+      "short_title": "Ground 8 possession and uncleared rent cheque",
+      "area_of_law": [
+        "Housing law",
+        "Landlord and tenant"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1988",
+          "provisions": [
+            "section 8",
+            "section 9",
+            "Schedule 2 Part 1 Ground 8"
+          ]
+        },
+        {
+          "title": "Agricultural Holdings Act 1948",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The tenant fell into eight weeks' rent arrears after housing benefit delays and received a valid section 8 notice on Ground 8.",
+        "Four days before the possession hearing he posted a cheque for the full arrears, which the landlord's solicitors received and did not reject.",
+        "The cheque cleared on first presentation after the hearing; the deputy district judge adjourned but the circuit judge ordered possession.",
+        "Rent had habitually been paid by cheque under an implied course of dealing."
+      ],
+      "procedural_posture": "Tenant's appeal against a mandatory Ground 8 possession order where rent was paid by accepted but uncleared cheque before the hearing.",
+      "outcome": "Appeal allowed; possession order set aside; district judge had jurisdiction to adjourn pending clearance.",
+      "ratio": "Rent is not 'unpaid' at the date of a Ground 8 hearing if an uncleared cheque for the arrears is delivered to and accepted by the landlord or agent before the hearing and is subsequently met on first presentation; the general law on conditional payment by cheque applies to Ground 8, though the landlord may refuse a last-minute cheque if not bound to accept it.",
+      "legal_issues": [
+        "Meaning of 'unpaid' rent at the date of hearing under Ground 8",
+        "Whether cheque payment accepted before hearing satisfies Ground 8",
+        "Application of Homes v Smith and Marreco v Richardson principles",
+        "Whether adjournment defeats the mandatory nature of Ground 8",
+        "Effect of housing benefit delay on possession claims"
+      ],
+      "catchwords": [
+        "Ground 8",
+        "assured tenancy",
+        "rent arrears",
+        "cheque payment",
+        "mandatory possession",
+        "housing benefit",
+        "section 8 notice"
+      ],
+      "index_terms": [
+        "Coltrane",
+        "Day",
+        "Ferntower Road",
+        "Highbury",
+        "Mary Ward Legal Centre",
+        "conditional payment"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Homes v Smith",
+          "citation": "(2000) Lloyd's Rep (Banking) 139",
+          "relation": "applied"
+        },
+        {
+          "name": "Marreco v Richardson",
+          "citation": "(1908) 2 KB 584",
+          "relation": "applied"
+        },
+        {
+          "name": "Beevor v Mason",
+          "citation": "(1978) 37 P & CR 452",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Clear unanimous Court of Appeal decision on a defined statutory construction issue with agreed facts."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/693.json",
+    "status": "done",
+    "notes": "Batch 49 enrichment",
+    "enrichment": {
+      "short_title": "Unsafe convictions after Operation Care fresh evidence",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 23"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 74"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Williams-Rigby and Lawson were convicted after Operation Care investigations into alleged sexual abuse at a Liverpool residential community home.",
+        "Williams-Rigby was convicted on 22 of 47 counts; fresh dormitory witness evidence undermined complainants BS and MO.",
+        "Lawson's trial was affected by Williams-Rigby's convictions and a Scene 22 list of arrested staff, most of whom were not convicted.",
+        "Fresh evidence suggested complainant Charlene Blundell may have fabricated evidence to obtain compensation for gender reassignment."
+      ],
+      "procedural_posture": "Consecutive appeals against conviction with applications to admit fresh evidence under section 23 of the Criminal Appeal Act 1968.",
+      "outcome": "Both appeals allowed; all remaining convictions quashed as unsafe; Crown did not seek retrial.",
+      "ratio": "Fresh credible evidence that dormitory abuse could not have occurred unnoticed, together with misuse at trial of another defendant's convictions and a misleading Scene 22 document, can render convictions unsafe under section 23 even where the court cannot determine guilt; the test is whether the fresh evidence might reasonably have affected the jury's decision.",
+      "legal_issues": [
+        "Admissibility and effect of fresh evidence under section 23(2)",
+        "Whether dormitory witnesses rebut accepted complainants' evidence",
+        "Fairness of relying on Williams-Rigby convictions at Lawson's trial",
+        "Impact of Scene 22 list on defence witnesses and jury perception",
+        "Whether Charlene Blundell's evidence was tainted by compensation motive",
+        "Adequacy of good character and similar-fact directions"
+      ],
+      "catchwords": [
+        "fresh evidence",
+        "unsafe conviction",
+        "Operation Care",
+        "residential home abuse",
+        "similar fact evidence",
+        "good character direction",
+        "Scene 22"
+      ],
+      "index_terms": [
+        "Williams-Rigby",
+        "Lawson",
+        "St George's",
+        "Liverpool",
+        "dormitory evidence",
+        "Pendleton",
+        "Carl Andrew Smith"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Pendleton",
+          "citation": "[2002] 1 Cr App R 441",
+          "relation": "applied"
+        },
+        {
+          "name": "Carl Andrew Smith",
+          "citation": "20 December 1999",
+          "relation": "cited"
+        },
+        {
+          "name": "Makanjuola",
+          "citation": "[1995] 2 Cr App R 469",
+          "relation": "cited"
+        },
+        {
+          "name": "DPP v P",
+          "citation": "[1991] AC 447",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Long judgment addressing two linked appeals with detailed fact summaries and explicit unsafe verdict conclusions; some grounds were not pursued."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/413.json",
+    "status": "done",
+    "notes": "Batch 49 enrichment",
+    "enrichment": {
+      "short_title": "Solicitor-litigant costs rate on indemnity assessment",
+      "area_of_law": [
+        "Costs",
+        "Solicitors",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Solicitors Act 1974",
+          "provisions": [
+            "section 70"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 48.6",
+            "Part 51",
+            "Part 44.4"
+          ]
+        },
+        {
+          "title": "Rules of the Supreme Court Order 62",
+          "provisions": [
+            "rule 18"
+          ]
+        },
+        {
+          "title": "Companies Act 1985",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Miss Joseph, a solicitor and costs draftsman, disputed her former solicitors' bill after a personal injury claim.",
+        "After years of taxation and review proceedings, Jacob J ordered the defendants to pay her costs of the original taxation on an indemnity basis.",
+        "Costs Judge Wright allowed a £120 hourly rate treating her as a practising solicitor throughout.",
+        "The defendants appealed on transitional RSC/CPR rules, litigant-in-person status after 1996, and the hourly rate."
+      ],
+      "procedural_posture": "Appeal against a costs judge's rulings on the detailed assessment of indemnity costs following Jacob J's 2001 review order.",
+      "outcome": "Appeal allowed in part; CPR governs post-April 1999 assessment; Joseph treated as litigant in person after March 1996; hourly rate remitted; document items upheld.",
+      "ratio": "Where a bill was taxed before 26 April 1999 but reassessment of costs begins after that date without a prior assessment of those costs, CPR Parts 43-48 apply subject to 51PD.18(2); a solicitor practising without indemnity insurance under Rule 27 cannot recover own-time costs as a practising solicitor under the Chorley rule and is restricted to litigant-in-person rates unless financial loss is proved.",
+      "legal_issues": [
+        "Whether RSC Order 62 or CPR governs assessment of pre-1999 costs",
+        "Whether Miss Joseph was a practising solicitor or litigant in person",
+        "Application of London Scottish Benefit Society v Chorley under CPR 48.6",
+        "Reasonableness of £120 hourly rate on indemnity basis",
+        "Allowance for document preparation items"
+      ],
+      "catchwords": [
+        "detailed assessment",
+        "indemnity costs",
+        "litigant in person",
+        "practising solicitor",
+        "Chorley rule",
+        "transitional costs rules",
+        "hourly rate"
+      ],
+      "index_terms": [
+        "Joseph",
+        "Boyd",
+        "Hutchinson",
+        "costs taxation",
+        "Morris v Wiltshire",
+        "Malkinson v Trim",
+        "Rule 27 practice"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Morris v Wiltshire",
+          "citation": "[2002] 1 Costs LR 167",
+          "relation": "distinguished"
+        },
+        {
+          "name": "London Scottish Benefit Society v Chorley",
+          "citation": "[1884] 13 QBD 872",
+          "relation": "applied"
+        },
+        {
+          "name": "Malkinson v Trim",
+          "citation": "[2003] 1 WLR 463",
+          "relation": "applied"
+        },
+        {
+          "name": "Johnson v Reed Corrugated Cases Ltd",
+          "citation": "[1992] 1 All ER 169",
+          "relation": "cited"
+        },
+        {
+          "name": "Stubblefield v Kemp",
+          "citation": "[2001] 1 Costs LR 30",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed costs appeal with assessors; transitional and Chorley issues clearly resolved though some matters remitted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/496.json",
+    "status": "done",
+    "notes": "Batch 49 enrichment",
+    "enrichment": {
+      "short_title": "Extradition to Germany in WBB asset-stripping case",
+      "area_of_law": [
+        "Extradition",
+        "Criminal law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act 1989",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 7",
+            "section 9",
+            "section 11"
+          ]
+        },
+        {
+          "title": "Companies Act 1985",
+          "provisions": [
+            "section 458",
+            "section 735"
+          ]
+        },
+        {
+          "title": "European Convention on Extradition",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Michael Rottmann was committed for extradition to Germany on charges relating to asset-stripping of WBB Wärmeanlagenbau GmbH after reunification.",
+        "German criminal and civil courts had acquitted or rejected similar allegations against co-accused, but prosecution maintained strong suspicion against Rottmann.",
+        "Rottmann challenged committal on the basis German judgments showed no extradition crime and delay made return oppressive.",
+        "The court held Charge 10 did not disclose an equivalent theft offence under English law."
+      ],
+      "procedural_posture": "Habeas corpus application reviewing committal under section 9(8) and seeking discharge under section 11(3) of the Extradition Act 1989.",
+      "outcome": "Application dismissed; Charge 10 deleted from committal as not an extradition crime; extradition on remaining counts upheld.",
+      "ratio": "On extradition review the court looks to conduct and law in the warrant of arrest, not foreign acquittals of co-accused; fraudulent trading under section 458 is an extradition crime if the equivalent conduct involves carrying on the business of a company formed in the requesting state, and section 11(3) does not require discharge where acquittal of others does not establish the applicant would inevitably be acquitted.",
+      "legal_issues": [
+        "Whether German court judgments negate extradition crimes in the warrant",
+        "Use of expert evidence on foreign law in habeas corpus proceedings",
+        "Whether section 458 fraudulent trading requires an English registered company",
+        "Whether charges 5, 7, 8 and 9 disclose equivalent theft offences",
+        "Whether twelve-year delay makes extradition unjust or oppressive"
+      ],
+      "catchwords": [
+        "extradition",
+        "habeas corpus",
+        "extradition crime",
+        "fraudulent trading",
+        "theft equivalence",
+        "German reunification",
+        "section 11(3)"
+      ],
+      "index_terms": [
+        "Rottmann",
+        "WBB",
+        "Chematec",
+        "Treuhandanstalt",
+        "Germany",
+        "asset stripping",
+        "Re Evans",
+        "Cox v Army Council"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re Evans",
+          "citation": "[1994] 1 WLR 1006",
+          "relation": "applied"
+        },
+        {
+          "name": "Kakis v Government of the Republic of Cyprus",
+          "citation": "[1978] 1 WLR 779",
+          "relation": "applied"
+        },
+        {
+          "name": "Cox v Army Council",
+          "citation": "[1963] AC 48",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Preddy",
+          "citation": "[1996] AC 815",
+          "relation": "applied"
+        },
+        {
+          "name": "Gale v Governor of HMP Holloway",
+          "citation": "[2001] EWHC Admin 430",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Complex extradition judgment with multiple counts analysed individually; Charge 10 deletion and main habeas challenge outcomes are clear."
+      }
+    }
+  }
+]

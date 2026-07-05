@@ -1,0 +1,867 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2003/789.json",
+    "status": "done",
+    "notes": "Batch 96 enrichment",
+    "enrichment": {
+      "short_title": "Finance Act 1995 transitional rules for reinsured life assurance tax",
+      "area_of_law": [
+        "Tax law",
+        "Insurance law",
+        "Statutory interpretation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Finance Act 1995",
+          "provisions": [
+            "Schedule 8 paragraph 55(2)",
+            "Schedule 8 paragraph 55(3)",
+            "Schedule 8 paragraph 57(2)"
+          ]
+        },
+        {
+          "title": "Income and Corporation Taxes Act 1988",
+          "provisions": [
+            "section 431",
+            "section 431D",
+            "section 431F",
+            "section 441B",
+            "section 442A"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Royal London Mutual Insurance Society Ltd reinsured overseas life assurance business under a treaty dated 25 November 1994, ceding underlying policies issued before 1 November 1994.",
+        "The Special Commissioners and Peter Smith J held that paragraph 55(2) of Schedule 8 to the Finance Act 1995 looked to the date of the underlying policies, so much of the business remained old BLAGAB rather than new OLAB.",
+        "HM Inspector of Taxes appealed, contending that for a reinsurer the critical date is the reinsurance treaty itself.",
+        "The dispute concerned whether transitional provisions disapplying the new overseas life assurance business regime turned on the underlying policy date or the reinsurance contract date."
+      ],
+      "procedural_posture": "Inland Revenue appeal with permission against a High Court decision upholding the Special Commissioners on a point of statutory construction.",
+      "outcome": "Appeal allowed; the reinsurance treaty was new OLAB because paragraph 55(2) refers to the taxpayer's reinsurance contract, not the underlying policies.",
+      "ratio": "In paragraph 55(2) of Schedule 8 to the Finance Act 1995, the phrase 'policy or contract for any life assurance business' includes a reinsurance treaty, and the business identified in the opening and operative parts of the paragraph is the taxpayer's own business; for a reinsurer the critical date is therefore entry into the reinsurance treaty, not the issue date of underlying ceded policies.",
+      "legal_issues": [
+        "Whether paragraph 55(2) refers to underlying direct policies or to the reinsurance contract",
+        "Whether a reinsurance treaty is a 'policy or contract for life assurance business'",
+        "Whether paragraph 57(2) indicates a different meaning in paragraph 55(2)",
+        "Whether the judge's construction produced an absurd mismatch between the opening and operative clauses"
+      ],
+      "catchwords": [
+        "overseas life assurance business",
+        "BLAGAB",
+        "OLAB",
+        "reinsurance",
+        "transitional provisions",
+        "corporation tax",
+        "statutory construction"
+      ],
+      "index_terms": [
+        "Royal London Mutual Insurance Society",
+        "Finance Act 1995",
+        "Schedule 8",
+        "reinsurance treaty",
+        "life assurance tax",
+        "Inland Revenue"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Royal London Mutual Insurance Society Ltd v HM Inspector of Taxes",
+          "citation": "[2002] STC 1020",
+          "relation": "appeal from"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Single issue of construction with clear appellate reasoning and explicit order; outcome and ratio are directly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/752.json",
+    "status": "done",
+    "notes": "Batch 96 enrichment",
+    "enrichment": {
+      "short_title": "Worldwide freezing orders under s.25 CJJA without jurisdictional connection",
+      "area_of_law": [
+        "Civil procedure",
+        "Conflict of laws",
+        "Injunctions and freezing orders"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Jurisdiction and Judgments Act 1982",
+          "provisions": [
+            "section 25",
+            "section 33"
+          ]
+        },
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 37(1)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 6.20(4)"
+          ]
+        },
+        {
+          "title": "Administration of Justice Act 1960",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Motorola obtained worldwide freezing and cross-examination orders under section 25 of the CJJA in support of US fraud proceedings against members of the Uzan family over Telsim financing.",
+        "D2 and D3 were Turkish residents with no shown assets or other connection to England, unlike D1 who had London property and D4 who had residence and assets here.",
+        "Steel J refused to discharge the worldwide orders; the defendants were later committed for contempt for non-compliance.",
+        "The central issue was whether ancillary worldwide relief was expedient where defendants had no domicile, residence or substantial connection with England."
+      ],
+      "procedural_posture": "Consolidated appeals and permission applications against worldwide freezing and cross-examination orders made under section 25 CJJA, including appeals against committal for contempt.",
+      "outcome": "Appeals allowed for D2 and D3 (freezing orders set aside and imprisonment orders quashed, but contempt findings stand); appeals dismissed for D1 and D4.",
+      "ratio": "Under section 25 of the Civil Jurisdiction and Judgments Act 1982 the court applies a two-stage test—first whether the facts would justify the relief if the main action were in England, then whether lack of substantive jurisdiction makes relief inexpedient—and it is normally inexpedient to grant worldwide freezing relief against defendants with no assets in and no connecting link to the jurisdiction, even where co-defendants do have such links.",
+      "legal_issues": [
+        "When section 25 CJJA relief is inexpedient for non-resident defendants with no English assets",
+        "Whether connecting factors relating to other defendants justify worldwide orders against unconnected defendants",
+        "The two-stage Refco test for interim relief in support of foreign proceedings",
+        "Whether a reasoned foreign interlocutory merits decision binds the English court on 'good arguable case'",
+        "Whether contempt findings survive discharge of the underlying freezing orders"
+      ],
+      "catchwords": [
+        "Mareva injunction",
+        "worldwide freezing order",
+        "section 25 CJJA",
+        "inexpediency",
+        "comity",
+        "good arguable case",
+        "contempt"
+      ],
+      "index_terms": [
+        "Motorola Credit Corporation",
+        "Uzan",
+        "Telsim",
+        "New York fraud proceedings",
+        "ancillary jurisdiction",
+        "cross-examination order"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Credit Suisse Trust v Cuoghi",
+          "citation": "[1998] QB 818",
+          "relation": "applied"
+        },
+        {
+          "name": "Republic of Haiti v Duvalier",
+          "citation": "[1990] 1 QB 202",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Refco Inc v Eastern Trading Co",
+          "citation": "[1999] 1 Lloyd's Rep 159",
+          "relation": "applied"
+        },
+        {
+          "name": "Derby & Co Ltd v Weldon (No 3)",
+          "citation": "[1990] Ch 65",
+          "relation": "cited"
+        },
+        {
+          "name": "Adams v Cape Industries",
+          "citation": "[1990] Ch 433",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Very long reserved judgment but principal s.25 issue and split outcome for defendants are clearly articulated in the conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1323.json",
+    "status": "done",
+    "notes": "Batch 96 enrichment",
+    "enrichment": {
+      "short_title": "Further breath specimens after unreliable evidential readings",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal procedure",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": [
+            "section 5(1)",
+            "section 7",
+            "section 8",
+            "section 11"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Stewart was found asleep in a running car after consuming excess alcohol and gave two breath specimens of 66 and 56 microgrammes, a variance exceeding 15%.",
+        "PC Sanders invited him to choose between two further breath specimens or a blood sample; Stewart chose further breath tests yielding 63 and 59 microgrammes.",
+        "The magistrates convicted on the lower 59 reading; Stewart appealed by case stated, arguing section 7 permitted only two breath specimens and thereafter blood or urine only.",
+        "The issue was whether unreliable first specimens permitted a further breath procedure or obliged a blood/urine requirement."
+      ],
+      "procedural_posture": "Appeal by case stated from magistrates' conviction for excess alcohol driving.",
+      "outcome": "Appeal dismissed; the officer lawfully invited further breath specimens and the conviction on the second reliable lower reading stood.",
+      "ratio": "Where two breath specimens are provided but section 11(3)(b) is not satisfied because the objective of analysis is not achieved—here because the 15% variance means no reliable indication—the officer may invite or require further breath specimens under section 7(1); section 7(3)(bb) enables but does not oblige a move to blood or urine, and an invitation followed by the suspect's choice to provide further breath is not an unlawful requirement.",
+      "legal_issues": [
+        "Whether section 7(1) limits breath testing to one pair of specimens regardless of reliability",
+        "Construction of section 11(3)(b) when breath specimens fail the 15% reliability rule",
+        "Whether section 7(3)(bb) requires blood or urine once breath readings are unreliable",
+        "Effect of Home Office guidance and Form MG DD/A on statutory interpretation"
+      ],
+      "catchwords": [
+        "drink driving",
+        "evidential breath test",
+        "breath difference",
+        "section 7 RTA 1988",
+        "specimen of breath",
+        "case stated"
+      ],
+      "index_terms": [
+        "Stewart",
+        "Intoximeter",
+        "59 microgrammes",
+        "Maidstone Police Station",
+        "Jubb v DPP",
+        "Creech"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Jubb v DPP",
+          "citation": "[2002] EWHC 2317",
+          "relation": "considered"
+        },
+        {
+          "name": "Creech",
+          "citation": "[1986] RTR 87",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Focused statutory appeal with explicit answers to the questions posed by the magistrates."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1824.json",
+    "status": "done",
+    "notes": "Batch 96 enrichment",
+    "enrichment": {
+      "short_title": "Attorney General reference on lenient abduction and assault sentence",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Sexual offences"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 36"
+          ]
+        },
+        {
+          "title": "Sexual Offences Act 1956",
+          "provisions": [
+            "section 17(1)"
+          ]
+        },
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 28",
+            "section 37",
+            "section 41",
+            "sections 47-49"
+          ]
+        }
+      ],
+      "key_facts": [
+        "W.M., aged 23, pleaded guilty to abducting a 13-year-old schoolgirl at imitation-gunpoint, indecently assaulting her, and possessing an imitation firearm with intent to cause fear.",
+        "He forced the victim to strip and fondle her before releasing her when she pleaded; Crown Court sentenced him to three years concurrent.",
+        "The Attorney General referred the sentence as unduly lenient; further psychiatric reports showed schizotypal disorder and paedophilia with serious risk to peri-pubertal girls.",
+        "Mental Health Act detention under section 37/41 or the DSPD pilot was unavailable on the material before the court."
+      ],
+      "procedural_posture": "Attorney General's reference under section 36 of the Criminal Justice Act 1988 against an unduly lenient Crown Court sentence, with fresh psychiatric evidence.",
+      "outcome": "Reference upheld; indecent assault sentence increased to ten years (five years for the offence plus three years public protection under section 82(b), eight years total to serve).",
+      "ratio": "Notwithstanding early guilty pleas, previous good character and voluntary release of the victim, a sentence of three years for abduction at gunpoint and sexual assault of a child was unduly lenient where updated psychiatric evidence showed the offender posed a grave continuing risk to young females and public protection required a substantially longer custodial term.",
+      "legal_issues": [
+        "Whether the original three-year sentence was unduly lenient",
+        "Appropriate sentence where psychiatric disorder indicates high risk but Mental Health Act disposal is unavailable",
+        "Use of extended/public protection sentencing powers where DSPD pilot admission criteria are not met",
+        "Balancing mitigation against serious psychological harm to a child victim"
+      ],
+      "catchwords": [
+        "unduly lenient sentence",
+        "Attorney General's reference",
+        "abduction",
+        "indecent assault",
+        "sex offender",
+        "public protection",
+        "schizotypal disorder"
+      ],
+      "index_terms": [
+        "Reading Crown Court",
+        "section 36 CJA 1988",
+        "paedophilia",
+        "DSPD",
+        "Broadmoor",
+        "imitation firearm"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Outcome and new sentence are explicit; some statutory references in the source text appear garbled but the unduly lenient finding and revised term are clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1321.json",
+    "status": "done",
+    "notes": "Batch 96 enrichment",
+    "enrichment": {
+      "short_title": "Lawfulness of Essex Police offender naming posters scheme",
+      "area_of_law": [
+        "Public law",
+        "Human rights",
+        "Policing",
+        "Data protection"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": [
+            "section 17"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "Article 8"
+          ]
+        },
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": [
+            "section 29",
+            "Schedule 2",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8(1)",
+            "Article 8(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Essex Police proposed an Offender Naming Scheme displaying convicted burglars' photographs and details at Brentwood travel locations to deter crime and reassure the public.",
+        "Gary Ellis, selected as the first candidate, challenged the scheme by judicial review; inclusion would interfere with Article 8 rights of offenders and their families.",
+        "Probation and borough council partners expressed serious reservations; the police accepted Ellis should be reappraised and asked the court to rule on the scheme in principle.",
+        "Posters were to appear shortly after sentence for three weeks, at least twelve months before release."
+      ],
+      "procedural_posture": "Judicial review of the lawfulness in principle of a local police Offender Naming Scheme, with the individual claimant treated as background only.",
+      "outcome": "No order made; the court declined to declare the scheme lawful or unlawful in principle and said operation could only be assessed case by case once proper investigation and advice were available.",
+      "ratio": "A police offender-naming scheme engaging Article 8 requires proportionality scrutiny, not mere Wednesbury review; the scheme is not incapable of lawful operation during a monitored trial, but the court cannot give it a green light without structured risk assessment, professional advice and case-specific justification, and police may not use publicity as punishment beyond the court sentence.",
+      "legal_issues": [
+        "Whether the Offender Naming Scheme is a proportionate Article 8 interference for crime prevention",
+        "Application of Hellewell, Thorpe and Daly principles to police disclosure of offender images",
+        "Whether the scheme amounts to unlawful additional punishment by naming and shaming",
+        "Impact on rehabilitation, family Article 8 rights and children of offenders",
+        "Whether Data Protection Act processing is necessary for crime prevention functions"
+      ],
+      "catchwords": [
+        "offender naming",
+        "naming and shaming",
+        "Article 8",
+        "proportionality",
+        "police publicity",
+        "judicial review",
+        "rehabilitation"
+      ],
+      "index_terms": [
+        "Essex Police",
+        "Brentwood",
+        "Gary Ellis",
+        "Crime and Disorder Act 1998",
+        "Hellewell",
+        "NACRO"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hellewell v Chief Constable of Derbyshire",
+          "citation": "[1995] 1 WLR 804",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Chief Constable of North Wales Police ex p Thorpe",
+          "citation": "[1999] QB 396",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Daly) v Secretary of State for the Home Department",
+          "citation": "[2001] 2 AC 532",
+          "relation": "applied"
+        },
+        {
+          "name": "Marcel v Commissioner of Police of the Metropolis",
+          "citation": "[1992] Ch 225",
+          "relation": "cited"
+        },
+        {
+          "name": "Raymond v Honey",
+          "citation": "[1982] AC 1",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Deliberately inconclusive remedial outcome is clearly explained; ratio on legal approach and limits of police publicity is well developed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/798.json",
+    "status": "done",
+    "notes": "Batch 96 enrichment; source ORDER line contradicts judgment but appeal allowed on merits",
+    "enrichment": {
+      "short_title": "Compulsory purchase compensation agreement and limitation period",
+      "area_of_law": [
+        "Compulsory purchase",
+        "Property law",
+        "Limitation of actions",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Limitation Act 1980",
+          "provisions": [
+            "section 9",
+            "section 29(5)"
+          ]
+        },
+        {
+          "title": "Compulsory Purchase Act 1965",
+          "provisions": [
+            "section 3",
+            "section 9",
+            "section 11(1)"
+          ]
+        },
+        {
+          "title": "Land Compensation Act 1973",
+          "provisions": [
+            "section 52"
+          ]
+        },
+        {
+          "title": "Lands Tribunal Act 1949",
+          "provisions": [
+            "section 1(3)",
+            "section 1(5)"
+          ]
+        },
+        {
+          "title": "Compulsory Purchase (Vesting Declarations) Act 1981",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Kent County Council compulsorily acquired part of BP's petrol filling station land for the A299 dualling scheme and entered in August 1995.",
+        "BP referred compensation to the Lands Tribunal in January 2002, more than six years after entry, but relied on a February 1996 agreement setting consideration for the transfer.",
+        "The Tribunal held the claim was statute-barred under Limitation Act 1980 section 9 as a claim for compensation for compulsory acquisition.",
+        "BP argued the agreement created an enforceable contractual right to payment that restarted or avoided limitation."
+      ],
+      "procedural_posture": "Appeal from Lands Tribunal preliminary issue decision that a compulsory purchase compensation claim was time-barred.",
+      "outcome": "Appeal allowed; the February 1996 agreement conferred enforceable contractual rights so the reference could proceed as an arbitration under Lands Tribunal Act 1949 section 1(5).",
+      "ratio": "A post-entry agreement under Compulsory Purchase Act 1965 section 3 to pay consideration for transfer of compulsorily acquired land creates an enforceable contractual obligation distinct from the bare statutory compensation claim, so Limitation Act 1980 section 9 does not bar enforcement of that contract even where the statutory claim would be out of time.",
+      "legal_issues": [
+        "Whether Limitation Act 1980 section 9 applies to compulsory purchase compensation claims",
+        "Whether the February 1996 agreement supplanted or merely supplemented statutory compensation rights",
+        "Whether clause (4) created a contractual right to consideration notwithstanding the compulsory purchase code",
+        "Whether the agreement amounted to an acknowledgment under Limitation Act 1980 section 29(5)",
+        "Whether interest under Compulsory Purchase Act 1965 section 11(1) is implied into the agreement"
+      ],
+      "catchwords": [
+        "compulsory purchase",
+        "limitation",
+        "section 9 Limitation Act",
+        "agreement for sale",
+        "Lands Tribunal",
+        "injurious affection",
+        "accommodation works"
+      ],
+      "index_terms": [
+        "BP Oil UK",
+        "Kent County Council",
+        "A299 Thanet Way",
+        "Links Service Station",
+        "Hillingdon LBC v ARC Ltd",
+        "notice to treat"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Hillingdon LBC v ARC Ltd",
+          "citation": "[1999] Ch 139",
+          "relation": "applied"
+        },
+        {
+          "name": "Capital Investments Ltd v Wednesfield UDC",
+          "citation": "[1965] Ch 774",
+          "relation": "cited"
+        },
+        {
+          "name": "West Midland Baptist Association v Birmingham City Corp",
+          "citation": "[1970] AC 874",
+          "relation": "cited"
+        },
+        {
+          "name": "Amantilla Ltd v Telefusion plc",
+          "citation": "[1987] 9 ConLR 139",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Core contractual/limitation analysis is detailed and unanimous; appended ORDER text in source appears inconsistent with the judgment but merits clearly allow the appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2003/1376.json",
+    "status": "done",
+    "notes": "Batch 96 enrichment",
+    "enrichment": {
+      "short_title": "Specific issue orders requiring childhood immunisation",
+      "area_of_law": [
+        "Family law",
+        "Children law",
+        "Medical law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 1",
+            "section 1(5)",
+            "section 8"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        },
+        {
+          "title": "Vaccine Damage Payments Act 1979",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Two unconnected cases involved girls aged 4 and 10 living with their mothers, who opposed all immunisation; fathers with parental responsibility sought vaccination.",
+        "Neither child had received any immunisation; the court treated this as the first determination of a specific issue order for routine childhood vaccination.",
+        "Expert evidence from Dr Conway and Professor Kroll, supported by the children's guardian, favoured age-appropriate immunisation including MMR; mothers relied partly on Dr Donegan.",
+        "Mothers opposed on health-risk and holistic-belief grounds; the court weighed impact on the mother-child relationship against medical benefit."
+      ],
+      "procedural_posture": "Concurrent applications by fathers for specific issue orders under section 8 of the Children Act 1989 concerning routine childhood immunisation.",
+      "outcome": "Applications granted; the court declared immunisation in the programme set out was in each child's best interests and should prevail over the mothers' opposition.",
+      "ratio": "Where parents disagree on non-essential but medically recommended immunisation, the court must apply the section 1 welfare test; Article 8 permits interference for protection of health, and compelling evidence of medical benefit can justify a specific issue order even against a primary carer's strongly held objections, though the court will weigh carefully any risk of damage to the child-carer relationship.",
+      "legal_issues": [
+        "Whether routine immunisation requires a specific issue order when parents disagree",
+        "Application of the section 1 welfare checklist and section 1(5) no-order principle",
+        "Weight to be given to expert medical evidence on vaccination risks and benefits",
+        "Whether Article 8 rights of mothers and children prevent court-ordered immunisation",
+        "How far a parent's opposition based on belief or anxiety can defeat objectively beneficial medical treatment"
+      ],
+      "catchwords": [
+        "immunisation",
+        "vaccination",
+        "specific issue order",
+        "parental responsibility",
+        "welfare principle",
+        "MMR",
+        "Article 8"
+      ],
+      "index_terms": [
+        "A & D v B & E",
+        "childhood vaccines",
+        "BCG",
+        "DPT",
+        "Hib",
+        "Men C",
+        "polio",
+        "CAFCASS"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Re R (A Minor) (Expert's evidence)",
+          "citation": "[1991] 1 FLR 291",
+          "relation": "cited"
+        },
+        {
+          "name": "Re AB (Child Abuse: Expert Witness)",
+          "citation": "[1995] 1 FLR 192",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Very long judgment with detailed vaccine-by-vaccine analysis; overall outcome and welfare/Article 8 ratio are clearly stated though individual vaccine conclusions vary."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1381.json",
+    "status": "done",
+    "notes": "Batch 96 enrichment",
+    "enrichment": {
+      "short_title": "Disclosure of third-party litigation funder under section 51 SCA",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Banking and finance litigation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 51(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Raiffeisen sued Ajay Shah on a US$5 million personal guarantee; after losing a preliminary issue and appeal he discontinued representation for lack of funds yet continued defending in Kenya.",
+        "Shah disclosed no bank accounts under a worldwide freezing order; judgment of US$5.97 million and £50,650 costs remained unpaid.",
+        "Claimants applied for Shah and former solicitors Lawrence Jones to disclose who funded his English defence and appeal, inferring third-party funding from the costs incurred.",
+        "Shah did not oppose the application; solicitors would disclose only sources of their own fees."
+      ],
+      "procedural_posture": "Application for disclosure of litigation funders as ancillary to a potential non-party costs order under section 51 of the Supreme Court Act 1981.",
+      "outcome": "Application granted; Shah and Lawrence Jones ordered to disclose the identity of parties who maintained the defence and appeal.",
+      "ratio": "Where section 51 of the Supreme Court Act 1981 empowers the court to order costs against non-parties, there is an inherent ancillary power to order a party or its former solicitors to disclose the identity of those who funded the litigation, so that an effective costs remedy is available; such disclosure does not itself determine liability for costs.",
+      "legal_issues": [
+        "Whether the court has power to order disclosure of litigation funders before any section 51 costs order",
+        "Whether ancillary disclosure is necessary to make a potential non-party costs remedy effective",
+        "Scope of disclosure against a defendant who did not oppose and solicitors with limited information"
+      ],
+      "catchwords": [
+        "non-party costs",
+        "section 51 SCA 1981",
+        "litigation funding",
+        "disclosure",
+        "personal guarantee",
+        "freezing order",
+        "costs against funder"
+      ],
+      "index_terms": [
+        "Raiffeisen Zentralbank",
+        "Ajay Shah",
+        "Lawrence Jones",
+        "Stephenson Harwood",
+        "Singh v Observer",
+        "Abraham v Thompson"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Singh v Observer Ltd",
+          "citation": "[1989] 3 All ER 777",
+          "relation": "applied"
+        },
+        {
+          "name": "McFarlane v EE Caledonia Ltd (No 2)",
+          "citation": "[1995] 1 WLR 366",
+          "relation": "applied"
+        },
+        {
+          "name": "Abraham v Thompson",
+          "citation": "[1997] 4 All ER 326",
+          "relation": "applied"
+        },
+        {
+          "name": "Hamilton v Al Fayed",
+          "citation": "21 December 1999 (unreported)",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Short, focused commercial judgment with explicit order and well-established authority chain."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1361.json",
+    "status": "done",
+    "notes": "Batch 96 enrichment",
+    "enrichment": {
+      "short_title": "Police pension permanent disablement certificate validity",
+      "area_of_law": [
+        "Pensions law",
+        "Police law",
+        "Public law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Pensions Regulations 1987 (SI 1987/257)",
+          "provisions": [
+            "regulation A12(1)",
+            "regulation A12(2)",
+            "regulation B4",
+            "regulation B5",
+            "regulation H1(2)",
+            "regulation H5",
+            "regulation K1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Former Sussex constable Paul Hamlin was dismissed after a conduct tribunal found he fabricated illness to obtain medical retirement.",
+        "He applied for early payment of a deferred pension on grounds of permanent disablement from back pain and depression; the Crown Court ordered medical reference of disablement questions only.",
+        "Dr Beck certified permanent disablement but qualified his certificate and addressed injury-duty questions outside his remit.",
+        "Sussex Police Authority judicially reviewed the certificate; Dr Beck did not contest but Hamlin opposed."
+      ],
+      "procedural_posture": "Judicial review of a selected medical practitioner's certificate of permanent disablement under regulation H1 of the Police Pensions Regulations 1987.",
+      "outcome": "Certificate quashed in full; disablement questions to be reconsidered by a fresh medical practitioner.",
+      "ratio": "Under regulation A12(2) disablement means inability to perform the ordinary duties of a police officer anywhere in the service, not merely inability to serve in one force or in non-police employment; a certificate of permanent disablement under regulation H1 must answer without qualification whether disablement is likely to be permanent, and may not validly determine injury-pension questions not referred to the practitioner.",
+      "legal_issues": [
+        "Whether disablement looks to duties in a particular force or in police service generally",
+        "Whether antipathy to a former force can constitute permanent disablement",
+        "Whether Dr Beck's qualified certificate satisfied regulation H1",
+        "Whether paragraphs on injury in execution of duty were within the Crown Court referral"
+      ],
+      "catchwords": [
+        "police pension",
+        "deferred pension",
+        "permanent disablement",
+        "regulation H1",
+        "medical certificate",
+        "judicial review",
+        "Police Pensions Regulations 1987"
+      ],
+      "index_terms": [
+        "Sussex Police Authority",
+        "Paul Hamlin",
+        "Dr Edwin Beck",
+        "regulation A12",
+        "early pension",
+        "medical retirement"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Sussex Police Authority ex p Stewart",
+          "citation": "[2000] ICR 1122",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Focused regulatory construction with clear quashing order and detailed reasoning on disablement definition."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1367.json",
+    "status": "done",
+    "notes": "Batch 96 enrichment",
+    "enrichment": {
+      "short_title": "Pre-action disclosure of UK tax lease documents refused",
+      "area_of_law": [
+        "Civil procedure",
+        "Commercial law",
+        "Contract law",
+        "Misrepresentation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 31.16"
+          ]
+        },
+        {
+          "title": "Misrepresentation Act 1967",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Snowstar agreed to sell a container newbuild to Graig/Fortis subject to satisfactory UK tax lease documentation; after extensions Graig withdrew citing Fortis credit committee and tax documentation failure.",
+        "Snowstar suspected misrepresentation that funding and tax authority approval were in place, and sought pre-action disclosure of communications with HMRC and advisers.",
+        "Graig contended the buyer was to be a Fortis SPC, contract and misrepresentation claims were speculative, and disclosure would be privileged or commercially sensitive.",
+        "The application sought all documents between Graig, representatives and tax authorities about the proposed scheme."
+      ],
+      "procedural_posture": "Application under CPR rule 31.16 for pre-action disclosure before contemplated arbitration or litigation over a failed ship sale.",
+      "outcome": "Application dismissed; CPR rule 31.16 conditions not satisfied and discretion exercised against ordering broad pre-action disclosure.",
+      "ratio": "Pre-action disclosure under CPR rule 31.16 requires a narrowly focused document class that would be subject to standard disclosure and materially advance clearly defined issues; speculative commercial claims with a whiff of fraud, fragile contract analysis and wide fishing requests—including privileged tax-adviser communications—do not satisfy condition (c) and will rarely be ordered in discretion.",
+      "legal_issues": [
+        "Whether CPR rule 31.16 conditions (a) to (d) are satisfied for tax-scheme communications",
+        "Whether a binding contract existed with Graig or only a Fortis nominee",
+        "Availability of misrepresentation claims against Graig when Fortis was the nominated buyer",
+        "Whether requested disclosure was too wide, sought privileged material or non-disclosable date confirmations"
+      ],
+      "catchwords": [
+        "pre-action disclosure",
+        "CPR 31.16",
+        "misrepresentation",
+        "UK tax lease",
+        "shipping sale",
+        "speculative claim",
+        "legal professional privilege"
+      ],
+      "index_terms": [
+        "Snowstar Shipping",
+        "Graig Shipping",
+        "Fortis Bank",
+        "container newbuild",
+        "Black v Sumitomo",
+        "Arrow brokers"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Black v Sumitomo Corporation",
+          "citation": "[2001] 1 WLR 1562",
+          "relation": "applied"
+        },
+        {
+          "name": "Bermuda International Securities Ltd v KPMG",
+          "citation": "[2001] Lloyd's Rep PN 392",
+          "relation": "cited"
+        },
+        {
+          "name": "The Blankenstein",
+          "citation": "[1985] 1 Lloyd's Rep 93",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed application of Black v Sumitomo principles with explicit dismissal on condition (c) and discretion grounds."
+      }
+    }
+  }
+]

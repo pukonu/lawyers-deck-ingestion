@@ -1,0 +1,648 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2779.json",
+    "status": "done",
+    "notes": "Historic Timothy Evans CCRC referral JR; discretion and pardon effect clearly reasoned.",
+    "enrichment": {
+      "short_title": "Westlake JR: CCRC discretion not to refer historic Evans conviction",
+      "area_of_law": [
+        "Criminal law",
+        "Public law",
+        "Administrative law",
+        "Miscarriage of justice"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": [
+            "section 9",
+            "section 13"
+          ]
+        },
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": [
+            "section 2",
+            "section 44"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mary Westlake, Timothy Evans's half-sister, sought judicial review of the CCRC's refusal to refer his 1950 murder conviction to the Court of Appeal.",
+        "Evans had been executed after conviction for murdering his daughter Geraldine; Christie later confessed to killing his wife Beryl and a 1966 royal pardon exonerated him.",
+        "The CCRC accepted a real possibility the conviction would be quashed but exercised discretion not to refer, citing the pardon, publicity and compensation already paid.",
+        "The family sought referral mainly to remove any slur from the Brabin inquiry finding that Evans probably killed his wife."
+      ],
+      "procedural_posture": "High Court judicial review of the Criminal Cases Review Commission's decision not to refer a posthumous conviction despite satisfaction of section 13 preconditions.",
+      "outcome": "Claim dismissed with costs to the CCRC; the court nonetheless stated in open court that Evans should be regarded as innocent of both murders.",
+      "ratio": "Section 9 confers a real discretion whether to refer once section 13 is satisfied; fairness does not create a presumption of referral, especially in historic posthumous cases where a royal pardon and compensation have already vindicated innocence and referral would consume resources for limited benefit.",
+      "legal_issues": [
+        "Whether there is a presumption in favour of referral once section 13 preconditions are met",
+        "Whether quashing the conviction would bring tangible benefit after a free pardon",
+        "Whether the Court of Appeal could address Brabin report findings about Beryl Evans's murder",
+        "Whether the CCRC misdirected itself on the effect of R v Foster on royal pardons"
+      ],
+      "catchwords": [
+        "Criminal Cases Review Commission",
+        "unduly lenient discretion",
+        "posthumous appeal",
+        "royal pardon",
+        "Timothy Evans",
+        "miscarriage of justice"
+      ],
+      "index_terms": [
+        "Rillington Place",
+        "section 29 reference analogy rejected",
+        "Brabin inquiry",
+        "Lord Brennan compensation",
+        "real possibility test",
+        "resources of the court"
+      ],
+      "linked_authorities": [
+        "R v CCRC ex parte Pearson [2000] 1 Cr.App.R 141",
+        "Clark [2001] EWCA Crim 884",
+        "R (Hunt) v Criminal Cases Review Commission [2001] 2 Cr.App.R (S) 76",
+        "Hanratty [2002] EWCA Crim 1141",
+        "R v Foster [1985] QB 115"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory framework, CCRC reasoning and dismissal are all clearly recorded."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1813.json",
+    "status": "done",
+    "notes": "Unless-order debarral and substantive appeal with county court retrial directions.",
+    "enrichment": {
+      "short_title": "Windmill Racing Stables: debarred appellant; Lewis appeal allowed for retrial",
+      "area_of_law": [
+        "Civil procedure",
+        "Contract law",
+        "Appeals",
+        "Case management"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Stephen Barnett trading as Windmill Racing Stables resisted Gerald Lewis's appeal after a county court judgment on a £2,000 payment dispute.",
+        "The Court of Appeal had ordered Barnett to disclose pleadings and documents from related Piper and Wakefield litigation by 13 July 2004; he did not comply.",
+        "At a show-cause hearing Barnett argued Ward LJ had earlier discharged a similar disclosure order and treated the June order as ineffective.",
+        "The court debarred Barnett from resisting the appeal, allowed it on the basis the claim rested on a false legal premise, and remitted for retrial with liberty to amend."
+      ],
+      "procedural_posture": "Court of Appeal hearing on unless-order compliance, fresh evidence applications, charging-order discharge, and the substantive appeal listed together.",
+      "outcome": "Barnett debarred from resisting the appeal; appeal allowed, recorder's order set aside, retrial ordered with amendment permission and charging/possession proceedings set aside.",
+      "ratio": "Blatant non-compliance with a clear and unequivocal disclosure order warrants enforcing an unless order debarring resistance to appeal; where a county court claim failed on a redeemable legal error, justice requires remission for retrial with permission to plead on a corrected basis rather than final disposal on the flawed claim.",
+      "legal_issues": [
+        "Whether Barnett showed cause against debarral for breach of the disclosure order",
+        "Whether fresh evidence should be admitted to excuse non-compliance",
+        "Whether the substantive appeal should succeed on the legal basis of the claim",
+        "Whether charging orders should be discharged pending retrial"
+      ],
+      "catchwords": [
+        "unless order",
+        "debarred from resisting appeal",
+        "non-compliance",
+        "disclosure order",
+        "retrial",
+        "litigant in person"
+      ],
+      "index_terms": [
+        "Recorder Ross-Martin",
+        "Piper litigation",
+        "Wakefield litigation",
+        "Wandsworth County Court",
+        "clean slate remission",
+        "case management conference"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Procedural history and final order are explicit though the underlying contract issue is not fully re-decided."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1634.json",
+    "status": "done",
+    "notes": "Three consolidated supplier appeals on delivery to fraudster at serviced offices.",
+    "enrichment": {
+      "short_title": "Computer 2000 v ICM: suppliers entitled to price after fraudulent AMEC delivery",
+      "area_of_law": [
+        "Sale of goods",
+        "Contract law",
+        "Commercial law",
+        "Fraud"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Three computer suppliers sued ICM for goods sold and delivered under purchase orders naming AMEC Plc at South Bank House FAO Richard Cole.",
+        "A fraudster using the AMEC name rented serviced office space; security guard Bee received goods and Richard Cole collected them within minutes.",
+        "AMEC Plc had no connection with the address; the goods were lost to fraud and ICM refused to pay the suppliers.",
+        "Judge Catlin held delivery was made to the person ICM held out as authorised and dismissed ICM's non-delivery defence."
+      ],
+      "procedural_posture": "Consolidated appeals to the Court of Appeal from three Reading County Court judgments refusing permission to appeal.",
+      "outcome": "Appeals dismissed with costs; suppliers' judgments upheld including indemnity costs and interest orders against ICM for Imago.",
+      "ratio": "Where a buyer's purchase order directs delivery to a named addressee FAO a specified person, delivery to that person satisfies the seller's obligation; on Galbraith and Grant principles delivery to an apparently authorised recipient at designated premises also discharges the seller even if a fraudster misappropriates the goods.",
+      "legal_issues": [
+        "Whether suppliers proved delivery in accordance with ICM purchase orders",
+        "Whether Mr Bee or Richard Cole had authority from AMEC Plc to accept delivery",
+        "Whether ICM held out Richard Cole as the person authorised to receive goods",
+        "Whether C2K's standard terms superseded ICM's conditions"
+      ],
+      "catchwords": [
+        "goods sold and delivered",
+        "delivery instructions",
+        "apparent authority",
+        "Galbraith and Grant",
+        "fraudulent third party",
+        "purchase order"
+      ],
+      "index_terms": [
+        "ICM Computer Solutions",
+        "South Bank House",
+        "ship FAO Richard Cole",
+        "Storm Operative Security",
+        "Reading County Court",
+        "indemnity costs"
+      ],
+      "linked_authorities": [
+        "Galbraith and Grant Ltd v Block [1922] 2 KB 155",
+        "Freeman & Lockyer v Buckhurst Park Properties (Mangal) Ltd [1964] 2 QB 480"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Facts, contractual analysis and disposal on all three appeals are comprehensively reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1671.json",
+    "status": "done",
+    "notes": "Housing benefit voluntary payment disregard under Schedule 4 paragraph 13.",
+    "enrichment": {
+      "short_title": "Perkins housing benefit: son's gifts disregarded under paragraph 13(2)",
+      "area_of_law": [
+        "Social security law",
+        "Housing benefit",
+        "Public law",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Benefit (General) Regulations 1987",
+          "provisions": [
+            "Schedule 4 paragraph 13"
+          ]
+        },
+        {
+          "title": "Child Support, Pensions and Social Security Act 2000",
+          "provisions": [
+            "section 68",
+            "Schedule 7"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Major Perkins received housing benefit from Ryedale District Council based on pension income below the applicable threshold.",
+        "He disclosed a second bank account receiving £280 monthly gifts from his son in Australia; the council treated these as income and recovered £7,750.15.",
+        "The appeal tribunal rejected his appeal; Commissioner Rowland held paragraph 13(2) permitted full disregard where gifts were intended and used for non-basic items.",
+        "The Secretary of State appealed after not appearing before the Commissioner, arguing impermissible presumptions were applied."
+      ],
+      "procedural_posture": "Secretary of State's appeal to the Court of Appeal against a Social Security Commissioner's decision allowing Major Perkins's housing benefit appeal.",
+      "outcome": "Appeal dismissed; Commissioner's decision upheld on the peculiar facts though not treated as a general precedent.",
+      "ratio": "Paragraph 13(1) allows only £20 disregard of regular voluntary payments unless paragraph 13(2) applies where payments are both intended and used for items other than food, fuel, rent or ordinary clothing; tribunals may draw case-specific inferences from evidence but must not apply general presumptions, and the Secretary of State may appeal even if he did not appear below.",
+      "legal_issues": [
+        "Whether the Commissioner erred by presuming intention and use of voluntary payments",
+        "Whether the Secretary of State should be refused a hearing after non-appearance below",
+        "How paragraph 13(1) and 13(2) interact on regular gifts from a donor",
+        "Whether sufficient evidence supported disregard of the son's monthly payments"
+      ],
+      "catchwords": [
+        "housing benefit",
+        "voluntary payment",
+        "Schedule 4 paragraph 13",
+        "overpayment recovery",
+        "Social Security Commissioner",
+        "applicable amount"
+      ],
+      "index_terms": [
+        "Ryedale District Council",
+        "two bank accounts",
+        "Major Perkins",
+        "Secretary of State v Hughes",
+        "intention and use",
+        "eligible rent"
+      ],
+      "linked_authorities": [
+        "Secretary of State for Work and Pensions v Hughes (A Minor) [2004] EWCA Civ 16"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Regulatory construction and fact-specific application are clearly explained."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1655.json",
+    "status": "done",
+    "notes": "Restrictive covenant parking construction on Uppingham Hall Gardens roadway.",
+    "enrichment": {
+      "short_title": "Smith v Garrard: parking covenant construed as obstruction-based not absolute",
+      "area_of_law": [
+        "Property law",
+        "Restrictive covenants",
+        "Landlord and tenant",
+        "Neighbour disputes"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Martin Smith owned The Hall at Uppingham; Jeanne Garrard owned No 4 Hall Gardens with rights over a shared driveway from a 1997 transfer.",
+        "Paragraph 10 of the transfer covenant prohibited parking on the roadway over which others had rights of way.",
+        "Mrs Garrard and visitors parked alongside her property on an area shown as visitors' parking on the development plan without blocking passage.",
+        "Judge Norris awarded £100 for annoyance under paragraph 6 but refused an absolute parking injunction; Smith appealed on paragraph 10 construction."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal from Birmingham County Court on construction of a restrictive covenant and related costs order.",
+      "outcome": "Appeal dismissed with costs; parking in the approved space without impeding rights of way did not breach paragraph 10.",
+      "ratio": "Reading paragraph 10 in context, the restriction on parking vehicles on the roadway is linked to obstruction of rights of way rather than an absolute ban; the phrase 'over which other persons have rights of way' indicates parking is prohibited only where it interferes with passage, not where it merely affects amenity.",
+      "legal_issues": [
+        "Whether paragraph 10 absolutely forbids all parking on the roadway",
+        "Whether the qualifying words relate to obstruction or define the servient land",
+        "Whether approved visitors' parking on the development plan breaches the covenant",
+        "Whether the judge erred in refusing an injunction and awarding nominal damages only"
+      ],
+      "catchwords": [
+        "restrictive covenant",
+        "right of way",
+        "parking",
+        "covenant construction",
+        "Investors Compensation Scheme",
+        "surplusage"
+      ],
+      "index_terms": [
+        "The Hall Uppingham",
+        "Hall Gardens",
+        "Park Portfolio",
+        "Fourth Schedule paragraph 10",
+        "plan AL1/1",
+        "Grade II listed building"
+      ],
+      "linked_authorities": [
+        "Investors Compensation Scheme Ltd v West Bromwich Building Society [1998] 1 WLR 896",
+        "Tea Trade Properties Ltd v CIN Properties Ltd [1991] EGLR 155"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Covenant text, factual parking layout and purposive construction are fully analysed."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2794.json",
+    "status": "done",
+    "notes": "Unlimited civil proceedings order under section 42 against habitual litigant.",
+    "enrichment": {
+      "short_title": "Attorney General v Lewis: unlimited civil proceedings order under section 42",
+      "area_of_law": [
+        "Civil procedure",
+        "Public law",
+        "Vexatious litigants",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Supreme Court Act 1981",
+          "provisions": [
+            "section 42"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Attorney General applied for a civil proceedings order against Kess Thomas Lewis under section 42 of the Supreme Court Act 1981.",
+        "Since September 1999 Lewis had commenced over 40 sets of proceedings, almost all struck out or dismissed, repeatedly suing landlords, Tesco and public authorities.",
+        "Prior civil restraint orders had not stopped further litigation including five judicial review claims about a 1998 washing machine theft.",
+        "Lewis denied vexatious conduct, alleged racial discrimination by the courts, and immediately announced an intention to appeal."
+      ],
+      "procedural_posture": "High Court application by the Attorney General for a civil proceedings order after extensive litigation history summarised in a schedule.",
+      "outcome": "Section 42 civil proceedings order made with unlimited duration; permission to appeal refused from the bench.",
+      "ratio": "Section 42 requires habitual, persistent and groundless institution of vexatious civil proceedings; hallmarks include claims with little legal basis, repeated relitigation, abuse of process and refusal to accept adverse decisions, and where restraint orders have failed an unlimited order may properly follow.",
+      "legal_issues": [
+        "Whether Lewis habitually and persistently instituted vexatious proceedings without reasonable ground",
+        "Whether employment tribunal proceedings could support the application",
+        "Whether the court should exercise discretion to make a civil proceedings order",
+        "What duration the order should have given prior limited restraints failed"
+      ],
+      "catchwords": [
+        "civil proceedings order",
+        "vexatious litigant",
+        "section 42",
+        "Attorney General",
+        "habitual and persistent",
+        "abuse of process"
+      ],
+      "index_terms": [
+        "civil restraint order",
+        "Attorney General v Barker",
+        "Attorney General v Matthews",
+        "repeated defendants",
+        "judicial review",
+        "unlimited order"
+      ],
+      "linked_authorities": [
+        "In re Vernazza [1959] 1 WLR 622",
+        "Attorney General v Barker [2000] 1 FLR 759",
+        "Attorney General v Matthews [2001] EWCA Civ 254",
+        "Attorney General v Jones [1991] W.L.R. 859"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Statutory test, litigation history and order made are clearly documented."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/2659.json",
+    "status": "done",
+    "notes": "Nine interlocutory applications in Teamtrend corporate control dispute.",
+    "enrichment": {
+      "short_title": "Shahar v Tsitsekkos: Teamtrend jurisdiction and service applications decided",
+      "area_of_law": [
+        "Company law",
+        "Conflict of laws",
+        "Civil procedure",
+        "Tort law",
+        "Injunctions"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "CPR 6.20",
+            "CPR 6.21",
+            "CPR Part 20"
+          ]
+        },
+        {
+          "title": "Council Regulation (EC) No 44/2001 (Judgments Regulation)",
+          "provisions": [
+            "Article 5(3)",
+            "Article 22"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Michael Shahar claimed Kolomoisky and Cheklanov conspired to seize control of English company Teamtrend and strip Ukrainian assets held via Ged companies.",
+        "Parallel actions challenged corporate steps as invalid and sought beneficial ownership of Teamtrend shares under a June 2002 agreement.",
+        "Nine applications raised service out, Brussels Regulation jurisdiction, summary judgment, discharge of ex parte injunctions and Privatbank joinder.",
+        "Shahar held Teamtrend shares as nominee; tort and subrogation claims largely concerned conduct in Ukraine."
+      ],
+      "procedural_posture": "Chancery hearing of nine grouped interlocutory applications in two related actions concerning Teamtrend Limited and Ukrainian asset disputes.",
+      "outcome": "Tort claims against several defendants struck out or stayed for forum non conveniens; summary judgment refused; ex parte injunctions largely maintained; service on Privatbank set aside; amendment application dismissed without being pursued.",
+      "ratio": "Tort claims depending on stripping nominee-held assets abroad do not satisfy CPR 6.20 gateways or Article 5(3) where loss occurred outside England; Ukraine is the appropriate forum; without-notice relief may survive innocent non-disclosure where balance of convenience favours retention; a completed VAT-style internal assessment analogy aside, protective service requires full material disclosure including nominee arrangements.",
+      "legal_issues": [
+        "Whether tort claims fall within CPR 6.20 and the Judgments Regulation for service out",
+        "Whether England is the proper forum for conspiracy and economic tort claims",
+        "Whether summary judgment should declare corporate steps invalid",
+        "Whether Lindsay J's without-notice injunctions should be discharged for non-disclosure",
+        "Whether Privatbank was properly joined and served in Ukraine"
+      ],
+      "catchwords": [
+        "service out of jurisdiction",
+        "forum non conveniens",
+        "Teamtrend",
+        "corporate governance",
+        "without notice injunction",
+        "Part 20 counterclaim"
+      ],
+      "index_terms": [
+        "Privatbank",
+        "Ged Plaza",
+        "Ged Invest",
+        "Allbest Nominees",
+        "Brink's Mat principles",
+        "Konamaneni v Rolls Royce"
+      ],
+      "linked_authorities": [
+        "Konamaneni v Rolls Royce [2002] 1 WLR 1269",
+        "In re Banco Nacional de Cuba [2001] 1 WLR 2039"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Very long judgment with multiple discrete rulings; core jurisdictional holdings are clear though some corporate validity issues remain for trial."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1527.json",
+    "status": "done",
+    "notes": "Protective VAT assessment validity after Primback litigation.",
+    "enrichment": {
+      "short_title": "Courts plc v HMRC: December 1999 protective VAT assessment held valid",
+      "area_of_law": [
+        "Tax law",
+        "Value added tax",
+        "Administrative law",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Value Added Tax Act 1994",
+          "provisions": [
+            "section 73",
+            "section 77"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Courts plc accounted for VAT on retail finance sales net of finance charges following Primback in the Court of Appeal.",
+        "HMRC completed a VAT641 on 16 December 1999 for over £5.3m but did not process it, notifying Courts by letter pending the Primback appeal.",
+        "Further assessments in May and June 2000 revised figures; a November 2001 VAT641 was processed generating a duplicate VAT655 later withdrawn.",
+        "Courts argued no valid assessment was made because the officer followed internal advice and processing was omitted."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against dismissal of Courts plc's challenge to protective VAT assessments before the VAT and Duties Tribunal.",
+      "outcome": "Appeal dismissed; December 1999 assessment valid though figures later varied by alternative May/June 2000 assessments; November 2001 did not supersede it.",
+      "ratio": "A protective assessment under section 73 is a normal assessment once an officer exercises best judgment and records it in a completed VAT641, even if not processed to ledger; notification by letter can create an immediate debt pending Primback; later alternative assessments may reduce amounts but do not withdraw the earlier assessment unless expressly superseded.",
+      "legal_issues": [
+        "Whether a decision to assess was made when the officer followed protective assessment guidance",
+        "Whether processing and issue of VAT655 is part of making an assessment",
+        "Whether December 1999 assessments were conditional and therefore invalid",
+        "Whether May/June 2000 or November 2001 assessments superseded the protective assessment"
+      ],
+      "catchwords": [
+        "protective assessment",
+        "VAT641",
+        "section 73",
+        "Primback",
+        "notification of assessment",
+        "best judgment"
+      ],
+      "index_terms": [
+        "interest free credit",
+        "finance charge",
+        "VAT655",
+        "alternative assessments",
+        "Glasgow University Court v Customs",
+        "Don Pasquale"
+      ],
+      "linked_authorities": [
+        "Primback v Customs and Excise Commissioners [1996] STC 757",
+        "Don Pasquale v Commrs for Customs & Excise [1990] STC 556",
+        "Cheesman v Commrs for Customs & Excise [2000] STC 1119",
+        "University Court of the University of Glasgow v Customs & Excise Commrs [2003] STC 495",
+        "Pegasus Birds v Commrs for Customs & Excise [2004] EWCA 1015"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Assessment issue and subsequent events issue are both comprehensively reasoned with clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/2806.json",
+    "status": "done",
+    "notes": "Judicial review of magistrates' refusal to accept company-laid assault information.",
+    "enrichment": {
+      "short_title": "Gladstone plc JR: company may lay common assault information at AGM",
+      "area_of_law": [
+        "Criminal procedure",
+        "Company law",
+        "Administrative law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 39"
+          ]
+        },
+        {
+          "title": "Prosecution of Offences Act 1985",
+          "provisions": [
+            "section 3(2)(a)"
+          ]
+        },
+        {
+          "title": "Magistrates' Courts Rules 1981",
+          "provisions": [
+            "rule 4(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Gladstone plc sought judicial review after a district judge held Bradley Lee had no authority to lay an information alleging Norman Guiver assaulted CEO Benjamin Merrett at an AGM.",
+        "The board resolved to pursue the shareholder resolutely and fund Merrett's prosecution costs; solicitors laid the information in the company's name.",
+        "The judge ruled only the individually aggrieved victim could prosecute and a body corporate lacked locus and authority.",
+        "Guiver, a dissenting minority shareholder, resisted as interested party; the court treated the issues as questions of law."
+      ],
+      "procedural_posture": "High Court judicial review with Lord Justice Rose of the district judge's ruling dismissing a common assault summons for want of prosecutorial locus.",
+      "outcome": "Decision quashed including costs ruling; information held valid; summons restored and hearing remitted; no order as to costs.",
+      "ratio": "Where an alleged assault at a public company's AGM concerns public interest in orderly governance, the company may lay an information through an authorised solicitor under rule 4(1) if its objects include managing and controlling company operations; Rubin v DPP on bodies corporate as informants need not be resolved when a natural person solicitor lays the information on the company's authority.",
+      "legal_issues": [
+        "Whether Gladstone plc had locus to institute criminal proceedings for an AGM assault",
+        "Whether prosecution required the individually aggrieved victim as informant",
+        "Whether the board resolution authorised the solicitors to lay the information",
+        "Whether the challenge was properly brought by judicial review rather than case stated"
+      ],
+      "catchwords": [
+        "judicial review",
+        "lay an information",
+        "common assault",
+        "company prosecution",
+        "Annual General Meeting",
+        "locus standi"
+      ],
+      "index_terms": [
+        "Norman Guiver",
+        "Benjamin Merrett",
+        "Bradley Lee",
+        "Cole v Coulton",
+        "Rubin v DPP",
+        "interested party"
+      ],
+      "linked_authorities": [
+        "Rubin v DPP [1989] 2 All ER 241",
+        "R v Ealing Justices, ex parte Dixon [1990] 2 QB 91",
+        "Cole v Coulton (1860) 24 JP 596"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Facts, statutory framework and quashing order are clearly set out."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/1507.json",
+    "status": "done",
+    "notes": "Collective agreement incorporation and no compulsory redundancy promise.",
+    "enrichment": {
+      "short_title": "Kaur v MG Rover: Way Ahead redundancy pledge not incorporated into contract",
+      "area_of_law": [
+        "Employment law",
+        "Contract law",
+        "Collective bargaining",
+        "Industrial relations"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Rights Act 1996",
+          "provisions": [
+            "Part X",
+            "section 92"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Kaur, a Longbridge staff employee, faced compulsory redundancy in March 2003 and sought declarations that collective agreements barred compulsory redundancy.",
+        "Her 2000 contract incorporated Standard Conditions subject to collective agreements where appropriate, including a notice clause permitting company termination on notice.",
+        "The New Deal 1992 principles included a no-redundancy aspiration but amendments were in a separate agreement part; The Way Ahead 1997 stated 'THERE WILL BE NO COMPULSORY REDUNDANCY'.",
+        "The judge declared paragraph 2.1 of The Way Ahead incorporated and barred compulsory redundancy; MG Rover appealed."
+      ],
+      "procedural_posture": "Appeal and cross-appeal to the Court of Appeal from a High Court declaration on incorporation of collective agreements into an individual employment contract.",
+      "outcome": "Appeal allowed and cross-appeal dismissed; declaratory relief set aside; no contractual bar to compulsory redundancy found.",
+      "ratio": "Collective agreements are incorporated only where appropriate and the particular provision is apt for individual enforcement; The New Deal principles were aspirational and not carried into contractual amendments, and The Way Ahead paragraph 2.1 expressed a collective objective contingent on workforce co-operation rather than a binding individual term, and even if incorporated would not override an express notice termination clause without incompatible construction.",
+      "legal_issues": [
+        "Whether The New Deal principles on job security were incorporated",
+        "Whether The Way Ahead paragraph 2.1 was apt for incorporation into individual contracts",
+        "Whether a no compulsory redundancy term prevails over express notice of termination provisions",
+        "How Alexander v Standard Telephones principles apply to expressly incorporated collective agreements"
+      ],
+      "catchwords": [
+        "collective agreement",
+        "incorporation",
+        "compulsory redundancy",
+        "contract of employment",
+        "notice of termination",
+        "partnership agreement"
+      ],
+      "index_terms": [
+        "MG Rover Longbridge",
+        "Standard Conditions of Employment",
+        "Rover Tomorrow",
+        "The Way Ahead",
+        "Alexander v Standard Telephones",
+        "Johnson v Unisys"
+      ],
+      "linked_authorities": [
+        "Alexander v Standard Telephones and Cables Ltd (No. 2) [1991] IRLR 286",
+        "National Coal Board v National Union of Mineworkers [1986] IRLR 439",
+        "Johnson v Unisys Limited [2001] UKHL 13",
+        "Reda v Flag Limited [2002] UKPC 38"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Legal principles and detailed analysis of both collective agreements are thoroughly reasoned."
+      }
+    }
+  }
+]

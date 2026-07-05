@@ -1,0 +1,801 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/comm/2003/1278.json",
+    "status": "done",
+    "notes": "Batch 95 enrichment",
+    "enrichment": {
+      "short_title": "Bill of lading jurisdiction clause incorporation under Brussels I",
+      "area_of_law": [
+        "Conflict of laws",
+        "Shipping and carriage of goods",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Council Regulation (EC) No 44/2001 (Brussels I)",
+          "provisions": [
+            "Article 2",
+            "Article 23"
+          ]
+        },
+        {
+          "title": "Carriage of Goods by Sea Act 1992",
+          "provisions": [
+            "section 2(1)",
+            "section 3(1)"
+          ]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "Part 11"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The shipowner Siboti K/S claimed freight and demurrage from BP France SA as bill of lading holder after Enron failed to pay for a gasoil cargo discharged at Sete.",
+        "The charterparty contained an exclusive English jurisdiction clause, including clause 49(e) requiring bills of lading to incorporate that dispute resolution clause.",
+        "The bill of lading incorporated charterparty terms by general wording only: all the terms whatsoever of the said charter.",
+        "BP France applied under CPR Part 11 to set aside service, contending it must be sued in France under Brussels I Article 2.",
+        "Gross J held the English jurisdiction clause was not incorporated into the bill of lading under English or Community law."
+      ],
+      "procedural_posture": "Application under CPR Part 11 to declare lack of jurisdiction and set aside service of claim form and particulars of claim.",
+      "outcome": "Defendant's application succeeded; English jurisdiction clause not incorporated and proceedings should not continue in England.",
+      "ratio": "General words of incorporation in a bill of lading, even all terms whatsoever, do not incorporate ancillary charterparty jurisdiction clauses; a charterparty clause prescribing the form of bills of lading cannot supply the explicit reference required, and under Article 23 of Brussels I a consensus to exclusive English jurisdiction was not clearly and precisely demonstrated between the bill of lading parties.",
+      "legal_issues": [
+        "Whether an exclusive English jurisdiction clause in a charterparty was incorporated into the bill of lading",
+        "Whether jurisdiction clauses are treated like arbitration clauses for incorporation purposes",
+        "Whether clause 49(e) of the charterparty provided an explicit reference sufficient to incorporate the jurisdiction clause",
+        "Whether Article 23 of Brussels I displaced the Article 2 domicile rule"
+      ],
+      "catchwords": [
+        "jurisdiction clause",
+        "bill of lading",
+        "charterparty incorporation",
+        "Brussels Regulation",
+        "Article 23",
+        "CPR Part 11",
+        "freight lien"
+      ],
+      "index_terms": [
+        "Siboti",
+        "BP France",
+        "Enron",
+        "Sete",
+        "ECTRIC clauses",
+        "The Varenna",
+        "The Federal Bulker",
+        "The Annefield"
+      ],
+      "linked_authorities": [
+        {
+          "name": "The Varenna",
+          "citation": "[1984] QB 599",
+          "relation": "applied"
+        },
+        {
+          "name": "The Federal Bulker",
+          "citation": "[1989] 1 Lloyd's Rep 103",
+          "relation": "applied"
+        },
+        {
+          "name": "The Annefield",
+          "citation": "[1971] P 168",
+          "relation": "applied"
+        },
+        {
+          "name": "Thomas v Portsea",
+          "citation": "[1912] AC 1",
+          "relation": "cited"
+        },
+        {
+          "name": "AIG Europe v Ethniki",
+          "citation": "[2000] 2 All ER 566",
+          "relation": "cited"
+        },
+        {
+          "name": "Salotti v RUWA",
+          "citation": "[1976] ECR 1831",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Long reserved judgment with detailed analysis of English and Community law on incorporation; outcome and principal issue are clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/858.json",
+    "status": "done",
+    "notes": "Batch 95 enrichment",
+    "enrichment": {
+      "short_title": "Race discrimination comparator error in employment appeal",
+      "area_of_law": [
+        "Employment law",
+        "Discrimination law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Race Relations Act 1976",
+          "provisions": [
+            "section 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Onuegbu, a black solicitor of Nigerian origin, complained that Ms Campbell, director of Tottenham Legal Advice Centre, discriminated against him in a supervisor recruitment process.",
+        "The employment tribunal found less favourable treatment in qualification assessment, failure to notify him of recruitment, and leaving a desk note about an application form.",
+        "The tribunal inferred direct race discrimination after rejecting Ms Campbell's explanations.",
+        "The Employment Appeal Tribunal held the tribunal applied the wrong test by focusing on managerial duty rather than proper comparators and adequate reasons.",
+        "Keene LJ refused permission to appeal, finding the EAT's criticisms disclosed errors of law."
+      ],
+      "procedural_posture": "Application for permission to appeal to the Court of Appeal against an Employment Appeal Tribunal decision allowing the employer's appeal.",
+      "outcome": "Application for permission to appeal dismissed.",
+      "ratio": "An employment tribunal commits an error of law if it finds less favourable treatment by asking whether an employer breached managerial duties rather than whether the employer would have acted differently towards a proper or hypothetical comparator of a different race; where alternative non-racial explanations exist, the tribunal must explain adequately why it rejects them before inferring discrimination on racial grounds.",
+      "legal_issues": [
+        "Whether the employment tribunal correctly applied the less favourable treatment comparator test",
+        "Whether Mr Bild was a valid comparator for notification of the recruitment process",
+        "Whether the tribunal gave adequate reasons for inferring treatment was on racial grounds",
+        "Whether the EAT erred in overturning the tribunal's findings"
+      ],
+      "catchwords": [
+        "race discrimination",
+        "direct discrimination",
+        "comparator",
+        "employment tribunal",
+        "Employment Appeal Tribunal",
+        "permission to appeal",
+        "less favourable treatment"
+      ],
+      "index_terms": [
+        "Onuegbu",
+        "Campbell",
+        "Tottenham Legal Advice Centre",
+        "legal aid franchise",
+        "Zafar v Glasgow City Council",
+        "King v Great Britain-China Centre"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Zafar v Glasgow City Council",
+          "citation": "[1998] IRLR 36",
+          "relation": "applied"
+        },
+        {
+          "name": "King v The Great Britain-China Centre",
+          "citation": "[1991] IRLR 513",
+          "relation": "cited"
+        },
+        {
+          "name": "Yeboah v Crofton",
+          "citation": "[2002] EWCA Civ 794",
+          "relation": "cited"
+        },
+        {
+          "name": "Anya v University of Oxford",
+          "citation": "[2001] IRLR 377",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Permission application with clear EAT reasoning on comparator and inference errors; factual background fully set out."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/860.json",
+    "status": "done",
+    "notes": "Batch 95 enrichment",
+    "enrichment": {
+      "short_title": "Immigration adviser suspension and alternative tribunal remedy",
+      "area_of_law": [
+        "Immigration law",
+        "Administrative law",
+        "Professional regulation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": [
+            "Schedule 6"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Kaikai traded as Emerson Oxford & Co and applied to renew registration with the Immigration Services Commissioner.",
+        "The Commissioner refused registration in September 2002 for code breaches, financial concerns, and alleged abuse of process.",
+        "Judge Cripps refused to suspend the refusal pending appeal, relying on admissions about insurance, client accounts, and dishonoured cheques.",
+        "Mr Kaikai then sought judicial review of the non-suspension decision instead of pursuing his statutory appeal.",
+        "Permission was refused at first instance and on renewal because an adequate alternative remedy existed before the Immigration Services Tribunal."
+      ],
+      "procedural_posture": "Renewed application to the Court of Appeal for permission for judicial review of a tribunal refusal to suspend the Commissioner's registration decision.",
+      "outcome": "Application refused.",
+      "ratio": "Where an immigration adviser has a statutory right of appeal to the Immigration Services Tribunal on the substantive refusal of registration, the High Court will not entertain judicial review of an interlocutory refusal to suspend that decision; Judge Cripps acted within his discretion on the material before him and natural justice was not breached.",
+      "legal_issues": [
+        "Whether judicial review was available where a statutory appeal lay to the Immigration Services Tribunal",
+        "Whether the refusal to suspend the Commissioner's decision involved procedural unfairness",
+        "Whether the tribunal chairman erred in law in refusing suspension"
+      ],
+      "catchwords": [
+        "judicial review",
+        "alternative remedy",
+        "Immigration Services Commissioner",
+        "registration",
+        "suspension",
+        "immigration adviser",
+        "natural justice"
+      ],
+      "index_terms": [
+        "Kaikai",
+        "Emerson Oxford & Co",
+        "Immigration Services Tribunal",
+        "Judge Cripps",
+        "Schedule 6 IAA 1999"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Short procedural judgment with straightforward alternative-remedy reasoning; no complex merits review."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/750.json",
+    "status": "done",
+    "notes": "Batch 95 enrichment",
+    "enrichment": {
+      "short_title": "Solicitor negligence and lost chance on completion notice",
+      "area_of_law": [
+        "Professional negligence",
+        "Conveyancing",
+        "Damages"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Farming partners bought Pen y Coed Farm but completion was delayed because the vendor could not give vacant possession of the farmhouse.",
+        "The county court found solicitor Glyn Owen negligently failed to advise serving a completion notice under the Law Society Conditions of Sale 1984.",
+        "Had a notice been served on 12 November 1993, the purchaser could have terminated and recovered deposit plus interest by 3 December 1993.",
+        "The judge awarded only £591.75 representing interest on the deposit, treating other losses as recoverable from the vendor or not proved.",
+        "The Court of Appeal held the true loss was a 40% chance of buying breeding ewes before the end of November and awarded £4,238."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against quantum of damages and costs orders in a county court solicitor negligence action.",
+      "outcome": "Appeal allowed in part; damages substituted at £4,238; costs orders to be revisited.",
+      "ratio": "Where a solicitor's failure to advise on serving a completion notice caused delayed completion past the breeding-ewe market window, damages may be assessed as a percentage chance of avoiding that loss; the claimant was not required as a matter of mitigation to sue the vendor first, and loss of profit on a 1994 lamb crop could not be recovered solely from late termination after the market had closed.",
+      "legal_issues": [
+        "Correct measure of damages for failure to advise on a completion notice",
+        "Whether loss of the 1994 lambing season was caused by the solicitor's negligence",
+        "Whether the claimant failed to mitigate by not suing the vendor",
+        "Whether the expert evidence showed the breeding-ewe market was already lost by 3 December 1993"
+      ],
+      "catchwords": [
+        "solicitor negligence",
+        "completion notice",
+        "loss of chance",
+        "mitigation",
+        "property purchase",
+        "damages",
+        "agricultural loss"
+      ],
+      "index_terms": [
+        "Williams",
+        "Glyn Owen",
+        "Pen y Coed Farm",
+        "Law Society Conditions of Sale 1984",
+        "condition 23",
+        "Walker v Medlicott",
+        "Banco de Portugal v Waterlow"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Walker v Medlicott",
+          "citation": "[1999] 1 WLR 727",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Banco de Portugal v Waterlow",
+          "citation": "[1932] AC 452",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed Court of Appeal judgment on damages with agreed liability; loss-of-chance analysis is fully reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1458.json",
+    "status": "done",
+    "notes": "Batch 95 enrichment",
+    "enrichment": {
+      "short_title": "Parole Board hearsay evidence and rape recall",
+      "area_of_law": [
+        "Prison law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 5(4)"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": [
+            "section 32(3)"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1967",
+          "provisions": [
+            "section 9"
+          ]
+        },
+        {
+          "title": "Parole Board Rules 1997",
+          "provisions": [
+            "rule 7",
+            "rule 9"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Brooks, a discretionary life prisoner convicted of rape, was recalled after his partner Shirley Langhorne alleged further rapes and assaults.",
+        "Ms Langhorne made statements to probation officers and police but refused to attend the Parole Board hearing or give court evidence.",
+        "The Board admitted hearsay from probation officers and found it more probable than not that the rape allegations were true.",
+        "The Board refused release on licence in January 2003.",
+        "Mr Brooks challenged the lawfulness of relying on untested hearsay on a central issue."
+      ],
+      "procedural_posture": "Application for judicial review of the Parole Board's refusal to direct release on life licence following recall.",
+      "outcome": "Application dismissed; leave to appeal refused with indication the Court of Appeal might consider linking the case with R (Sim) v Parole Board.",
+      "ratio": "The Parole Board may in principle rely on hearsay evidence when assessing risk to the public, even where a reluctant complainant cannot be cross-examined; fairness does not require exclusion of central untested allegations where the Board carefully weighs reliability, the prisoner's own evidence, and its preventive function, though compulsion of attendance is not always required where the prisoner pressed for a speedy hearing.",
+      "legal_issues": [
+        "Whether it was unfair to admit hearsay rape allegations without cross-examination of the complainant",
+        "Whether the Parole Board should have compelled Ms Langhorne's attendance",
+        "Whether the Board's conclusion that the rapes probably occurred was rational",
+        "Relationship between common law fairness and Article 5(4) ECHR in parole proceedings"
+      ],
+      "catchwords": [
+        "Parole Board",
+        "life licence",
+        "recall",
+        "hearsay evidence",
+        "Article 5(4)",
+        "fair hearing",
+        "risk to public"
+      ],
+      "index_terms": [
+        "Brooks",
+        "Langhorne",
+        "discretionary life sentence",
+        "R v Parole Board ex parte Watson",
+        "R (Sim) v Parole Board",
+        "R (West) v Parole Board",
+        "St Germain"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Parole Board ex parte Watson",
+          "citation": "[1996] 2 All ER 641",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Sim) v Parole Board",
+          "citation": "[2003] EWHC 152 (Admin)",
+          "relation": "applied"
+        },
+        {
+          "name": "R (West) v Parole Board",
+          "citation": "[2003] 1 WLR 705",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Hull Prison Visitors ex parte St Germain",
+          "citation": "[1979] 1 WLR 1401",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Detailed admin judgment on hearsay in parole proceedings; leave issue noted but merits decision is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/1341.json",
+    "status": "done",
+    "notes": "Batch 95 enrichment",
+    "enrichment": {
+      "short_title": "Contractors All Risks cover for defective sea-wall blocks",
+      "area_of_law": [
+        "Insurance law",
+        "Construction law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "AMEC claimed under a Contractors All Risks policy after replacing precast terrace blocks for a Jersey sea defence wall at West of Albert Phase II.",
+        "Norwich Union rejected the claim, alleging negligent workmanship and inadequate concrete cover over reinforcement.",
+        "Only limited blocks showed surface rust staining; AMEC replaced blocks that did not meet contract specification.",
+        "The insurer argued defective items were not insured loss or damage and were excluded by the defects and wear-and-tear clauses.",
+        "The claim failed at trial despite the judge finding AMEC vindicated its professional reputation against the insurer's attack."
+      ],
+      "procedural_posture": "Trial in the Technology and Construction Court on AMEC's insurance claim following rejection of indemnity under a Contractors All Risks policy.",
+      "outcome": "Claim dismissed; no indemnity payable under the policy.",
+      "ratio": "Under a standard Contractors All Risks policy, the cost of replacing the contractor's own precast units that merely fail to meet contract specification is not indemnifiable loss or damage to insured property; such items remain intact and are excluded as defective work, and any internal rusting would also fall within the gradual deterioration exclusion.",
+      "legal_issues": [
+        "Whether replacement of non-compliant precast blocks constituted loss or damage to insured property",
+        "Construction of the principal insuring clause and Item A insured property definition",
+        "Application of the defects exclusion and Exclusion 4 on wear, tear and gradual deterioration",
+        "Whether rusting of reinforcement was insured damage or excluded gradual deterioration"
+      ],
+      "catchwords": [
+        "Contractors All Risks",
+        "construction insurance",
+        "defective workmanship",
+        "wear and tear exclusion",
+        "precast concrete",
+        "reinforcement cover",
+        "indemnity"
+      ],
+      "index_terms": [
+        "AMEC Civil Engineering",
+        "Norwich Union",
+        "Jersey",
+        "West of Albert Phase II",
+        "terrace blocks",
+        "sea defence wall",
+        "Exclusion 4"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Very long TCC trial judgment; core insurance construction point and dismissal are clearly stated though judge name is not in source metadata."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/926.json",
+    "status": "done",
+    "notes": "Batch 95 enrichment",
+    "enrichment": {
+      "short_title": "Oral land agreement, specific performance and clean hands",
+      "area_of_law": [
+        "Land law",
+        "Contract law",
+        "Equity"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Wilkie owned three acres at Detling used for pig farming and later allowed Mr Redsell to use workshops on the land.",
+        "In 1988 the men orally agreed that Redsell would pay £30,000 for a share or interest in most of the land; terms were disputed and undocumented.",
+        "Redsell built a house on the land, paid only small instalments, and breached the payment agreement.",
+        "The trial judge found a joint-ownership sharing agreement, not an outright transfer, and granted Wilkie possession.",
+        "Redsell could not show he was ready, willing and able to pay the balance or come to equity with clean hands."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against refusal of specific performance, trust declarations, and a possession order in a land dispute between former friends.",
+      "outcome": "Appeal dismissed; possession order upheld; costs ordered against Redsell.",
+      "ratio": "A claimant seeking specific performance or a proprietary interest under an oral land agreement must presently be ready, willing and able to complete payment; equitable relief may also be refused where the claimant has sworn inconsistent accounts to another court about his interest, and Ramsden v Dyson estoppel does not assist where the owner stood by only on terms that the agreed price be paid.",
+      "legal_issues": [
+        "Terms of the undocumented 1988 oral agreement",
+        "Whether specific performance or constructive trust relief should be granted",
+        "Application of Ramsden v Dyson and Crabb v Arun principles",
+        "Whether the clean hands doctrine barred equitable relief"
+      ],
+      "catchwords": [
+        "specific performance",
+        "oral contract",
+        "proprietary estoppel",
+        "clean hands",
+        "joint ownership",
+        "possession",
+        "equitable remedy"
+      ],
+      "index_terms": [
+        "Wilkie",
+        "Redsell",
+        "Detling",
+        "Ramsden v Dyson",
+        "Crabb v Arun",
+        "Williams v Greatrex",
+        "Moody v Cox"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ramsden v Dyson",
+          "citation": "(1866) LR 1 HL 129",
+          "relation": "applied"
+        },
+        {
+          "name": "Crabb v Arun District Council",
+          "citation": "[1976] 1 Ch 179",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Williams v Greatrex",
+          "citation": "[1957] 1 WLR 31",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Moody v Cox",
+          "citation": "[1917] 2 Ch 71",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with clear equitable principles applied to oral land transaction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1498.json",
+    "status": "done",
+    "notes": "Batch 95 enrichment",
+    "enrichment": {
+      "short_title": "Asylum leave to appeal and Sri Lankan cease-fire risk",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Administrative law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Kirupakaran, a Tamil from Sri Lanka, appealed against refusal of asylum; the adjudicator accepted his past persecution account but rejected future risk because of the cease-fire.",
+        "The Immigration Appeal Tribunal refused leave to appeal with inadequately reasoned decision.",
+        "The Secretary of State conceded the IAT decision was insufficiently motivated and should be set aside unless remittal would be pointless.",
+        "The adjudicator appeared to treat durability of the cease-fire and risk to a returnee on a wanted list as a single question.",
+        "Stanley Burnton J quashed the IAT decision and required reconsideration of leave to appeal."
+      ],
+      "procedural_posture": "Judicial review of the Immigration Appeal Tribunal's refusal of leave to appeal from an adjudicator's asylum decision.",
+      "outcome": "Claim succeeded; IAT decision quashed and matter remitted for reconsideration of leave to appeal.",
+      "ratio": "Where an adjudicator conflates whether a Sri Lankan cease-fire is more than transitory with the separate question of risk of detention and ill-treatment to a returnee on a wanted list, an application for leave to appeal to the IAT has a reasonable prospect of success; the IAT must give a properly reasoned decision and the High Court will not itself decide the asylum merits unless leave would be hopeless.",
+      "legal_issues": [
+        "Whether the IAT's refusal of leave to appeal was adequately reasoned",
+        "Whether the adjudicator erred by conflating cease-fire durability with return risk",
+        "Whether remittal to the IAT was pointless because the appeal had no reasonable prospect of success",
+        "Assessment of risk to Tamils on wanted lists following the Sri Lankan cease-fire"
+      ],
+      "catchwords": [
+        "asylum",
+        "judicial review",
+        "leave to appeal",
+        "Immigration Appeal Tribunal",
+        "Sri Lanka",
+        "cease-fire",
+        "real risk"
+      ],
+      "index_terms": [
+        "Kirupakaran",
+        "Tamil",
+        "PLOTE",
+        "LTTE",
+        "Prevention of Terrorism Act",
+        "country assessment",
+        "wanted list"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Clear procedural defect identified; court expressly declined to determine ultimate asylum risk on merits."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2003/1358.json",
+    "status": "done",
+    "notes": "Batch 95 enrichment",
+    "enrichment": {
+      "short_title": "Terror-financing libel and defective justification plea",
+      "area_of_law": [
+        "Defamation",
+        "Media law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Evidence Act 1995",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Al Rajhi Banking sued over a Wall Street Journal Europe article reporting SAMA monitored its accounts at US request due to suspected terrorist associations.",
+        "The bank pleaded meanings including reasonable grounds to suspect terrorist ties and close account monitoring.",
+        "The defendant sought late permission to amend by adding a lengthy justification plea supported by terrorism-finance consultants.",
+        "Eady J held the proposed Lucas-Box meanings were loose and ineffective, relying on guilt by association and post-publication events.",
+        "Permission to amend was refused; trial date of 21 July 2003 remained."
+      ],
+      "procedural_posture": "Application to amend defence to add justification shortly before trial in corporate libel proceedings.",
+      "outcome": "Application to amend refused; no justification plea permitted on current drafting.",
+      "ratio": "A libel defendant may not justify a corporate claimant's alleged terrorist ties by pleading only that it associated with persons or institutions suspected of terrorism or that law enforcement took an interest; a plea of justification must identify a defamatory sting capable of proof with indictment-like particularity and, for Chase category-two meanings, primary facts giving rise to reasonable grounds for suspicion objectively judged, not mere official suspicion or post-publication raids.",
+      "legal_issues": [
+        "Whether proposed Lucas-Box meanings were capable of supporting justification",
+        "Application of Chase v News Group three-tier meanings in terrorism libel",
+        "Whether guilt by association is permissible in a justification plea",
+        "Whether post-publication Operation Green Quest events could be relied upon",
+        "Delay and prejudice from late amendment application"
+      ],
+      "catchwords": [
+        "libel",
+        "justification",
+        "Lucas-Box meaning",
+        "terrorist financing",
+        "reasonable grounds to suspect",
+        "repetition rule",
+        "amendment"
+      ],
+      "index_terms": [
+        "Al Rajhi Banking",
+        "Wall Street Journal Europe",
+        "SAMA",
+        "Saudi Arabia",
+        "Chase v News Group Newspapers",
+        "Derbyshire County Council v Times Newspapers",
+        "Operation Green Quest"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Chase v News Group Newspapers Ltd",
+          "citation": "[2003] EMLR 218",
+          "relation": "applied"
+        },
+        {
+          "name": "Derbyshire County Council v Times Newspapers Ltd",
+          "citation": "[1993] AC 534",
+          "relation": "applied"
+        },
+        {
+          "name": "Evans v Granada Television Ltd",
+          "citation": "[1996] EMLR 429",
+          "relation": "applied"
+        },
+        {
+          "name": "Shah v Standard Chartered Bank",
+          "citation": "[1999] QB 241",
+          "relation": "applied"
+        },
+        {
+          "name": "Associated Leisure Ltd v Associated Newspapers Group Ltd",
+          "citation": "[1970] 2 QB 450",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed interlocutory libel ruling with explicit Chase principles; no trial on merits."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/1632.json",
+    "status": "done",
+    "notes": "Batch 95 enrichment",
+    "enrichment": {
+      "short_title": "RIPA section 17 and private telephone intercept evidence",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Surveillance law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Regulation of Investigatory Powers Act 2000",
+          "provisions": [
+            "section 1",
+            "section 2",
+            "section 17",
+            "section 18"
+          ]
+        },
+        {
+          "title": "Interception of Communications Act 1985",
+          "provisions": [
+            "section 1",
+            "section 9"
+          ]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "section 78"
+          ]
+        },
+        {
+          "title": "Telecommunications Act 1984",
+          "provisions": [
+            "section 4",
+            "section 9"
+          ]
+        },
+        {
+          "title": "Criminal Justice Act 1972",
+          "provisions": [
+            "section 36"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Detective Sergeant W and other police officers were tried for misconduct in public office after internal PABX telephone intercepts at a police station.",
+        "The Crown said interceptions were on a private system with chief constable consent; the defence said they were on a public system and section 17 RIPA barred inquiry.",
+        "The trial judge held section 17 prevented the defence testing whether the system was public and excluded the Crown's evidence under section 78 PACE.",
+        "The Crown offered no evidence and the defendants were acquitted.",
+        "The Attorney General referred questions on the construction of section 17 RIPA and its relationship with the repealed 1985 Act regime."
+      ],
+      "procedural_posture": "Attorney General's reference under section 36 of the Criminal Justice Act 1972 following acquittal on indictment after exclusion of intercept evidence.",
+      "outcome": "Court answered: (1) section 17 does not prevent inquiry whether a system is public or private; (2) same answer for pre-RIPA events; (3) questions may be asked to establish controller consent on a private system, before and after RIPA; court indicated possible House of Lords reference.",
+      "ratio": "Section 17 RIPA does not prohibit evidence or questions directed solely to whether intercepted communications passed over a public or private telecommunications system, consistently with authority under section 9 of the 1985 Act; where interception on a private system is excluded from criminal liability under section 1(6) RIPA because the controller consented, section 17 does not bar proof of that consent and the contents may be admissible subject to section 78 PACE.",
+      "legal_issues": [
+        "Whether section 17 RIPA prevents inquiry into public versus private telecommunications systems",
+        "Whether the answer differs for interceptions occurring before RIPA commenced",
+        "Whether evidence may be adduced that a private-system intercept was made with controller consent",
+        "Relationship between section 17 RIPA and section 9 of the Interception of Communications Act 1985"
+      ],
+      "catchwords": [
+        "Attorney General's reference",
+        "RIPA",
+        "section 17",
+        "telephone interception",
+        "private telecommunications system",
+        "public telecommunications system",
+        "PACE section 78",
+        "misconduct in public office"
+      ],
+      "index_terms": [
+        "R v W",
+        "PABX",
+        "Dial Up interception",
+        "Morgans v DPP",
+        "R v Effik",
+        "R v Allan",
+        "Halford v United Kingdom"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v Effik",
+          "citation": "[1995] 1 AC 309",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Allan, Bunting and Boodhoo",
+          "citation": "[2001] EWCA Crim 1025",
+          "relation": "applied"
+        },
+        {
+          "name": "Morgans v DPP",
+          "citation": "[2001] 1 AC 315",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Preston",
+          "citation": "[1994] 2 AC 130",
+          "relation": "cited"
+        },
+        {
+          "name": "Malone v United Kingdom",
+          "citation": "(1984) 7 EHRR 14",
+          "relation": "cited"
+        },
+        {
+          "name": "Halford v United Kingdom",
+          "citation": "(1997) 24 EHRR 523",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Formal Attorney General reference with explicit numbered answers; extensive statutory and case-law analysis."
+      }
+    }
+  }
+]

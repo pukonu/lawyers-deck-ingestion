@@ -1,0 +1,638 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/qb/2005/813.json",
+    "status": "done",
+    "notes": "Liability-only trial judgment is complete; source judge metadata incorrectly lists Lord Diplock.",
+    "enrichment": {
+      "short_title": "Milstead v Wessex Roofline: ladder footing and Construction Regulations liability",
+      "area_of_law": [
+        "Personal injury",
+        "Employment law",
+        "Health and safety",
+        "Negligence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Construction (Health, Safety and Welfare) Regulations 1996",
+          "provisions": [
+            "regulation 4",
+            "regulation 6",
+            "Schedule 5"
+          ]
+        },
+        {
+          "title": "Law Reform (Contributory Negligence) Act 1945",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr Milstead, an experienced UPVC fitter, fell from an unsecured ladder over three metres long at a domestic job in Woking on 14 May 2001 and suffered severe knee injuries.",
+        "He alleged his trainee Mr Calder failed to foot the ladder after being instructed to do so when Milstead untied it from scaffolding at the end of the day.",
+        "The defendants admitted breach of Schedule 5(2)(c) but relied on Boyle v Kodak to argue the breach was caused solely by Milstead's own acts.",
+        "The claim was commenced shortly before limitation expired, over two years after the accident."
+      ],
+      "procedural_posture": "Split trial on liability only following amendment to plead breach of statutory duty.",
+      "outcome": "Defendants held liable in negligence and for breach of statutory duty; no contributory negligence; quantum to be assessed separately if not agreed.",
+      "ratio": "Where a ladder over three metres is used unsecured, an employer is vicariously liable for a trainee's failure to foot it unless it proves the injured employee alone caused the breach; inadequate ladder training and Calder's misunderstanding of the Regulations defeated the Boyle v Kodak defence.",
+      "legal_issues": [
+        "Whether Milstead instructed Calder to foot the untied ladder",
+        "Whether breach of Schedule 5(2)(c) was caused solely by Milstead",
+        "Application of Boyle v Kodak to employer training and vicarious liability",
+        "Whether Milstead was contributorily negligent"
+      ],
+      "catchwords": [
+        "ladder footing",
+        "Construction Regulations",
+        "breach of statutory duty",
+        "vicarious liability",
+        "Boyle v Kodak",
+        "contributory negligence"
+      ],
+      "index_terms": [
+        "Wessex Roofline",
+        "UPVC fitter",
+        "scaffolding",
+        "Schedule 5",
+        "on-the-job training",
+        "split trial"
+      ],
+      "linked_authorities": [
+        "Boyle v Kodak Ltd [1969] 1 WLR 661",
+        "Wilsons and Clyde Coal Co Ltd v English [1938] AC 57",
+        "James v Hepworth & Grandage Ltd [1968] 1 QB 94"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed liability findings and legal analysis are clear despite erroneous judge metadata in the source file."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/452.json",
+    "status": "done",
+    "notes": "Full Court of Appeal judgment on VWF foreseeability and damages apportionment.",
+    "enrichment": {
+      "short_title": "Brookes v SYPTE: date of employer liability for hand-arm vibration syndrome",
+      "area_of_law": [
+        "Personal injury",
+        "Employment law",
+        "Occupational health",
+        "Negligence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Brookes developed vibration white finger after years using pneumatic tools as a bus-fleet fitter for South Yorkshire PTE and its successor from 1982.",
+        "The recorder found the employers liable from 1975 on constructive knowledge of DD43, but the daily vibration dose exceeding 2.8 m/s² was accepted on appeal.",
+        "The employers argued they could not reasonably have known of the risk before HSE guidance in 1994.",
+        "Symptoms first appeared in 1999 and damages of £4,780 were not challenged on quantum."
+      ],
+      "procedural_posture": "Appeal from Sheffield County Court on liability date and whether damages should be apportioned.",
+      "outcome": "Appeal partly allowed; liability substituted from 1989 rather than throughout employment, but full damages upheld with no apportionment because symptoms arose only after negligent exposure.",
+      "ratio": "A large transport employer with dedicated safety staff ought to have known of BS 6842 (1987) shortly after publication and to have investigated and remedied vibration exposure within about two years; the date of negligence is fact-specific and not fixed at 1989 for all transport employers.",
+      "legal_issues": [
+        "When the employers ought constructively to have known of VWF risk from DD43 and BS 6842",
+        "Whether the recorder's 1975 finding was supported by evidence",
+        "Whether damages should be reduced for non-negligent pre-1989 exposure",
+        "Application of Stokes v GKN and Thompson v British Shiprepairers"
+      ],
+      "catchwords": [
+        "hand-arm vibration syndrome",
+        "vibration white finger",
+        "constructive knowledge",
+        "BS 6842",
+        "employer's duty",
+        "apportionment of damages"
+      ],
+      "index_terms": [
+        "South Yorkshire Passenger Transport Executive",
+        "pneumatic tools",
+        "DD43",
+        "HSE H5(G)88",
+        "dose-related injury",
+        "Allen v British Rail Engineering"
+      ],
+      "linked_authorities": [
+        "Stokes v GKN (Bolts and Nuts) Ltd [1968] 1 WLR 1776",
+        "Thompson v British Shiprepairers [1984] QB 405",
+        "Allen v British Rail Engineering Ltd [2001] ICR 942"
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Appellate reasoning on liability timing and damages is explicit and complete."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2005/873.json",
+    "status": "needs_review",
+    "notes": "Interim ADR/mediation order only; anti-suit injunction application not finally determined.",
+    "enrichment": {
+      "short_title": "C v RHL: interim mediation order in Russian satellite litigation",
+      "area_of_law": [
+        "Commercial law",
+        "Arbitration",
+        "Conflict of laws",
+        "Civil procedure",
+        "Alternative dispute resolution"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "C sought an anti-suit injunction to restrain RHL and related entities from pursuing Moscow Arbitrazhnye Court proceedings challenging a July 2004 share purchase agreement.",
+        "The SPA contained an ICC arbitration clause with London as the seat; C had commenced ICC arbitration for wrongful repudiation.",
+        "RHL challenged jurisdiction and denied substance in C's injunction claim.",
+        "Pending Russian proceedings were adjourned and C had notified the ICC tribunal of a similar injunctive application."
+      ],
+      "procedural_posture": "Interim hearing on anti-suit injunction application following an earlier order expiring on 28 April 2005.",
+      "outcome": "Court ordered ADR/mediation within 28 days targeting conclusion by 27 May 2005, with parties to preserve the status quo and not commence further proceedings; merits of the injunction not finally decided.",
+      "ratio": "Where complex cross-border commercial disputes arise from a collapsed SPA and parallel Russian and ICC proceedings, mediation may better serve all parties than immediate satellite litigation, provided it is driven forward rapidly without undue delay to arbitration or existing court proceedings.",
+      "legal_issues": [
+        "Whether the English court had jurisdiction to grant an anti-suit injunction",
+        "Whether Russian nullity proceedings should be restrained pending ICC arbitration",
+        "Whether interim ADR was appropriate before substantive relief",
+        "Coordination with parallel ICC tribunal injunctive application"
+      ],
+      "catchwords": [
+        "anti-suit injunction",
+        "ICC arbitration",
+        "share purchase agreement",
+        "Moscow proceedings",
+        "mediation",
+        "ADR order"
+      ],
+      "index_terms": [
+        "Arbitrazhnye Court",
+        "satellite litigation",
+        "status quo",
+        "commercial collapse",
+        "injunctive relief",
+        "Colman J"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.78,
+        "level": "medium",
+        "notes": "Text records only interim procedural directions; final jurisdiction and injunction merits remain undetermined."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/887.json",
+    "status": "done",
+    "notes": "Full section 63 listed building consent challenge dismissed; judge metadata lists unrelated historical figures.",
+    "enrichment": {
+      "short_title": "Judge v SoS: challenge to relocation of Sir Samuel Sadler memorial",
+      "area_of_law": [
+        "Planning law",
+        "Listed buildings",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Planning (Listed Buildings and Conservation Areas) Act 1990",
+          "provisions": [
+            "section 7",
+            "section 16",
+            "section 17",
+            "section 63"
+          ]
+        },
+        {
+          "title": "Planning (Listed Buildings and Conservation Areas) Regulations 1990",
+          "provisions": [
+            "regulation 13"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Middlesbrough Council sought listed building consent to relocate the Grade II Sir Samuel Sadler statue within Victoria Square as part of town-centre regeneration.",
+        "The Secretary of State granted consent by letter of 8 September 2004 subject to dismantling and re-erection conditions.",
+        "Mr Judge, a litigant in person with a strong local historical interest, challenged the decision under section 63.",
+        "The memorial comprises a bronze figure, plinth, dwarf wall and commemorative plaques; dismantling had already begun."
+      ],
+      "procedural_posture": "Section 63 application to quash listed building consent granted by the Secretary of State.",
+      "outcome": "Application dismissed; all grounds held misconceived and the Secretary of State had adequate material to grant consent for demolition and reconstruction at a new site.",
+      "ratio": "Listed building consent may authorise demolition followed by reconstruction elsewhere using 'relocation' as shorthand; whether components become chattels pending re-erection is irrelevant to the statutory planning code, following Leominster District Council ex p Antique Country Buildings.",
+      "legal_issues": [
+        "Whether the Secretary of State had sufficient information on the memorial's significance",
+        "Whether consent covered the whole memorial including dwarf wall and plinth",
+        "Whether relocation was outside the Act because components became chattels",
+        "Whether conditions requiring dismantling and re-erection within one year were lawful"
+      ],
+      "catchwords": [
+        "listed building consent",
+        "relocation",
+        "demolition and reconstruction",
+        "section 63",
+        "Victoria Square",
+        "Wednesbury unreasonableness"
+      ],
+      "index_terms": [
+        "Sir Samuel Sadler memorial",
+        "Middlesbrough",
+        "Grade II listed",
+        "dwarf wall",
+        "English Heritage",
+        "litigant in person"
+      ],
+      "linked_authorities": [
+        "R v Leominster District Council ex parte Antique Country Buildings Ltd [1987] 56 P & CR 240"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Final disposition on all grounds is clear though source judge metadata is corrupted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/473.json",
+    "status": "done",
+    "notes": "Full reserved Court of Appeal judgment on Consumer Credit Act overdraft conditions.",
+    "enrichment": {
+      "short_title": "Coutts v Sebestyen: OFT determination and unauthorised overdraft credit",
+      "area_of_law": [
+        "Banking law",
+        "Consumer credit",
+        "Contract law",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Consumer Credit Act 1974",
+          "provisions": [
+            "section 8",
+            "section 10",
+            "section 13",
+            "section 57",
+            "section 65",
+            "section 74",
+            "section 82"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Sebestyen held a Coutts current account used for direct debits and accepted a £2,000 overdraft facility by letter in April 2002 at 8% interest.",
+        "From May 2002 the account remained persistently overdrawn beyond the agreed limit; Coutts continued paying debits and charged 26% unauthorised overdraft interest.",
+        "Coutts sued for about £20,074; Sebestyen argued Part V formalities and the OFT section 74 determination conditions were not satisfied.",
+        "Each payment beyond the credit limit was treated as a modifying agreement under section 82."
+      ],
+      "procedural_posture": "Appeal with permission limited to Consumer Credit Act and OFT Determination issues; OFT commented by letter.",
+      "outcome": "Appeal dismissed; conditions (b) and (c) of the OFT Determination were satisfied by Coutts' April 2002 offer letter and June 2002 notification letters.",
+      "ratio": "OFT Determination conditions (b) and (c) are mutually exclusive: (b) applies to express overdraft agreements and (c) to tacit extensions; 'charges' means charges for granting credit not ordinary account or dishonour fees; condition (c) sets a deadline not a narrow notification window.",
+      "legal_issues": [
+        "Whether section 82(4) disapplied OFT condition (c) for temporary excesses",
+        "Whether conditions (b) and (c) were mutually exclusive",
+        "Construction of 'charges' in the OFT Determination",
+        "Whether June 2002 letters prematurely failed condition (c)"
+      ],
+      "catchwords": [
+        "Consumer Credit Act",
+        "running-account credit",
+        "OFT determination",
+        "unauthorised overdraft",
+        "section 82 modifying agreement",
+        "current account"
+      ],
+      "index_terms": [
+        "Coutts & Co",
+        "section 74(1)(b)",
+        "condition (c)",
+        "26% interest",
+        "direct debits",
+        "Office of Fair Trading"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed appellate analysis of statutory and OFT conditions with clear dismissal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/954.json",
+    "status": "done",
+    "notes": "Full judicial review on section 1C ASBO procedure; source judge list includes unrelated names.",
+    "enrichment": {
+      "short_title": "W v Acton Youth Court: civil ASBO procedure after driving convictions",
+      "area_of_law": [
+        "Criminal law",
+        "Public law",
+        "Judicial review",
+        "Anti-social behaviour"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Crime and Disorder Act 1998",
+          "provisions": [
+            "section 1",
+            "section 1C"
+          ]
+        },
+        {
+          "title": "Police Reform Act 2002",
+          "provisions": [
+            "section 64"
+          ]
+        },
+        {
+          "title": "Civil Evidence Act 1995",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "A 14-year-old pleaded guilty to vehicle offences and was made subject to a section 1C ASBO with wide prohibitions across England and Wales.",
+        "The prosecution relied on a same-day police statement detailing 32 incidents, much of it hearsay from reluctant residents.",
+        "The youth's solicitor had 12 minutes to take instructions after the statement was served; he did not seek a further adjournment.",
+        "Terms included bans on associating with persons committing offences and exclusion from named Northolt areas."
+      ],
+      "procedural_posture": "Judicial review of Acton Youth Court's post-conviction section 1C ASBO, with Crown Court appeal adjourned pending this decision.",
+      "outcome": "Relief refused; proceedings held civil so hearsay admissible, but procedural criticisms left to Crown Court appeal; no finding of excess of jurisdiction.",
+      "ratio": "Section 1C ASBO proceedings are civil for Article 6 and hearsay purposes following McCann; while fairness requires adequate time to meet wide allegations, represented defendants who do not seek adjournment cannot complain the justices failed to adjourn of their own motion.",
+      "legal_issues": [
+        "Whether section 1C ASBO proceedings are civil or criminal",
+        "Admissibility of hearsay under the Civil Evidence Act 1995",
+        "Whether insufficient adjournment vitiated jurisdiction",
+        "Whether ASBO terms were too wide or insufficiently clear"
+      ],
+      "catchwords": [
+        "anti-social behaviour order",
+        "section 1C",
+        "hearsay evidence",
+        "McCann",
+        "youth court",
+        "procedural fairness"
+      ],
+      "index_terms": [
+        "Acton Youth Court",
+        "PC McNair",
+        "Shane Tony P",
+        "C v Sunderland Youth Court",
+        "criminal standard of proof",
+        "Crown Court appeal"
+      ],
+      "linked_authorities": [
+        "R (McCann) v Crown Court at Manchester [2003] 1 AC 787",
+        "Gough v Chief Constable of the Derbyshire Constabulary [2002] QB 459",
+        "B v Chief Constable of Avon and Somerset Constabulary [2001] 1 WLR 340"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Substantive procedural ruling is complete though ASBO merits remain for Crown Court appeal."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/613.json",
+    "status": "done",
+    "notes": "Full costs appeal with re-exercise of discretion; possession/right-to-buy context clear.",
+    "enrichment": {
+      "short_title": "Hackney v Campbell: costs after failed possession and right-to-buy claim",
+      "area_of_law": [
+        "Housing law",
+        "Landlord and tenant",
+        "Civil procedure",
+        "Costs"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Hackney sought possession of Flat D, 43 Upper Clapton Road, contending Mrs Campbell had lost her tenancy and right to buy.",
+        "Mrs Campbell succeeded on the right to buy; her son Lawrence Campbell's separate counterclaims on repairs, harassment, human rights and adverse possession failed.",
+        "The judge awarded both Campbells their costs, treating Lawrence as having had a case throughout because of Hackney's conduct.",
+        "Lawrence Campbell's adverse possession claim targeted freeholders who were not parties; Hackney held only a leasehold interest."
+      ],
+      "procedural_posture": "Appeal against county court costs order following two-and-a-half day possession trial.",
+      "outcome": "Appeal allowed in part; Lawrence Campbell's costs order set aside and replaced with no order as to costs on his defence and counterclaim.",
+      "ratio": "Where a tenant succeeds on possession/right-to-buy but a co-defendant fails on separable counterclaim issues, costs should reflect issue-based success; without a workable percentage apportionment and where possession failed, no order may better reflect justice than awarding all costs to the unsuccessful counterclaimant.",
+      "legal_issues": [
+        "Whether the judge erred in treating Lawrence Campbell as equally successful",
+        "Whether Hackney's conduct justified his costs award",
+        "Whether adverse possession against non-parties could succeed",
+        "Appropriate CPR costs order where counterclaim issues were peripheral at trial"
+      ],
+      "catchwords": [
+        "costs follow the event",
+        "right to buy",
+        "possession proceedings",
+        "counterclaim",
+        "no order as to costs",
+        "issue-based costs"
+      ],
+      "index_terms": [
+        "London Borough of Hackney",
+        "Upper Clapton Road",
+        "Lawrence Campbell",
+        "English v Emery Reimbold",
+        "percentage order",
+        "detailed assessment"
+      ],
+      "linked_authorities": [
+        "English v Emery Reimbold & Strick Ltd [2002] 1 WLR 2409"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Appellate re-exercise of costs discretion and reasoning are fully recorded."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/1049.json",
+    "status": "done",
+    "notes": "Full confiscation appeal judgment with partial allowance for double-counting.",
+    "enrichment": {
+      "short_title": "R v Barnham: hidden assets and Drug Trafficking Act confiscation",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation",
+        "Drug trafficking",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Drug Trafficking Act 1994",
+          "provisions": [
+            "section 2",
+            "section 4",
+            "section 5",
+            "section 6",
+            "section 11",
+            "section 12"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Barnham was convicted of two conspiracies to evade cannabis importation and sentenced to 11 and 9 years; benefit was assessed at £1,525,615.",
+        "Undercover officers recorded discussions of large-scale Moroccan cannabis importation and money laundering from 1995 to 1998.",
+        "At the realisable assets stage Barnham and his wife gave evidence the judge found untruthful; no credible account was given of hidden proceeds.",
+        "The judge ordered confiscation equal to assessed benefit because Barnham failed to prove lower realisable assets."
+      ],
+      "procedural_posture": "Appeal against confiscation order with leave of the Full Court after two-stage benefit and assets hearings.",
+      "outcome": "Appeal allowed only to reduce the order by £65,000 for double-counting refurbishment expenditure already included in the house value; otherwise order upheld.",
+      "ratio": "At the second stage of confiscation the persuasive burden shifts to the defendant to prove realisable assets; the prosecution need not establish a prima facie case of hidden assets, but the judge must stand back to avoid serious injustice under Benjafield.",
+      "legal_issues": [
+        "Whether Article 6 required the prosecution to prove hidden assets at stage two",
+        "Whether failed conspiracies meant drug stocks could not be realisable assets",
+        "Whether allowance should be made for co-conspirators' contributions",
+        "Whether £65,000 refurbishment was double-counted in benefit and house value"
+      ],
+      "catchwords": [
+        "confiscation order",
+        "hidden assets",
+        "Drug Trafficking Act",
+        "realisable property",
+        "reverse burden",
+        "Benjafield"
+      ],
+      "index_terms": [
+        "cannabis importation",
+        "undercover officer Murray",
+        "section 11 statement",
+        "assumed benefit",
+        "Morocco",
+        "double counting"
+      ],
+      "linked_authorities": [
+        "R v Benjafield [2001] 3 WLR 75",
+        "R v Barwick [2001] 1 Cr App R (S) 445",
+        "Phillips v United Kingdom (2001) Application No 41087/98"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Stage-two legal principles and factual findings supporting the reduced order are comprehensively reasoned."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/573.json",
+    "status": "needs_review",
+    "notes": "Interim disposal only; McKenzie Friend principles reserved for later combined judgment.",
+    "enrichment": {
+      "short_title": "Re O (Children): interim orders pending McKenzie Friend guidance",
+      "area_of_law": [
+        "Family law",
+        "Children proceedings",
+        "Civil procedure",
+        "Litigation rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 91(14)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The applicant sought transfer to the High Court, recusal of HHJ Milligan, permission to issue a residence application despite a section 91(14) restriction, and McKenzie Friend assistance.",
+        "The section 91(14) order had been made by Judge Milligan about five years earlier for an indefinite period.",
+        "The court reserved judgment on the proper approach to McKenzie Friend applications across related cases.",
+        "Judge Milligan's observations at the without-notice hearing led the court to order he take no further part in the case."
+      ],
+      "procedural_posture": "Interim appeal disposal pending reserved judgment on McKenzie Friend principles.",
+      "outcome": "Permission to issue residence/shared residence proceedings granted; future hearings allocated to Coleridge J or another judge excluding Milligan; McKenzie Friend disclosure order deferred to reserved judgment.",
+      "ratio": "An indefinite section 91(14) order should be addressed on application rather than adjourned indefinitely; where a litigant cannot expect fair hearing before a judge who has made gratuitous observations, permanent recusal and referral to another judge is appropriate pending substantive McKenzie Friend guidance.",
+      "legal_issues": [
+        "Proper approach to applications for McKenzie Friend assistance",
+        "Whether section 91(14) permission should have been decided on 1 November 2004",
+        "Whether Judge Milligan should recuse himself",
+        "Whether papers could be disclosed to a McKenzie Friend"
+      ],
+      "catchwords": [
+        "McKenzie Friend",
+        "section 91(14)",
+        "recusal",
+        "residence order",
+        "litigant in person",
+        "reserved judgment"
+      ],
+      "index_terms": [
+        "Southampton County Court",
+        "HHJ Milligan",
+        "Coleridge J",
+        "without notice hearing",
+        "shared residence",
+        "indefinite restriction"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.8,
+        "level": "medium",
+        "notes": "Interim orders are clear but the leading McKenzie Friend issue was expressly reserved for a later judgment."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/728.json",
+    "status": "done",
+    "notes": "Substantive Article 2 inquiry judgment is complete; source judge metadata lists House of Lords members not the presiding judge.",
+    "enrichment": {
+      "short_title": "R (D) v SSHD: Article 2 public inquiry after near-fatal prison suicide",
+      "area_of_law": [
+        "Public law",
+        "Human rights",
+        "Prison law",
+        "Judicial review",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 3"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "D, a known suicide-risk remand prisoner at HMP Pentonville, hanged himself on 27 December 2001 and suffered irreversible brain damage.",
+        "An internal Draper investigation report was critical but key records and annexes were lost or destroyed.",
+        "The Secretary of State proposed a private inquiry by Mr Shaw without powers to compel witnesses or allow full participation by D's representatives.",
+        "Potential civil negligence proceedings and the prior internal inquiry were argued to satisfy Article 2 investigative obligations."
+      ],
+      "procedural_posture": "Judicial review claim by the Official Solicitor as litigation friend seeking a public Article 2 compliant inquiry.",
+      "outcome": "Claim succeeded in principle: proposed private inquiry inadequate; tailored declarations granted on participation and disclosure; permission to appeal given to the Secretary of State.",
+      "ratio": "A near-miss suicide of a prisoner known to be at real and immediate risk engages the same Article 2 investigative standards as a death in custody; a private inquiry lacking public scrutiny, compellability, and meaningful family participation cannot satisfy Jordan, Edwards and Amin, and prior internal or civil proceedings did not displace that obligation here.",
+      "legal_issues": [
+        "Whether Article 2 required a public inquiry after a non-fatal custodial suicide attempt",
+        "Adequacy of the Draper investigation and proposed Shaw inquiry",
+        "Relevance of potential civil proceedings and lost prison records",
+        "Required level of legal funding and family participation"
+      ],
+      "catchwords": [
+        "Article 2",
+        "prison suicide",
+        "public inquiry",
+        "investigative obligation",
+        "Pentonville",
+        "near miss"
+      ],
+      "index_terms": [
+        "Draper report",
+        "Mr Shaw inquiry",
+        "Official Solicitor",
+        "Jordan v United Kingdom",
+        "R (Amin) v SSHD",
+        "self-harm"
+      ],
+      "linked_authorities": [
+        "Jordan v United Kingdom (2001) 37 EHRR 52",
+        "Edwards v United Kingdom (2002) 35 EHRR 487",
+        "R (Amin) v Secretary of State for the Home Department [2003] UKHL 51"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Long judgment but outcome, Article 2 analysis and declarations are clearly stated despite corrupted judge metadata."
+      }
+    }
+  }
+]

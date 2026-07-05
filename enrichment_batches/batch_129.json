@@ -1,0 +1,822 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1895.json",
+    "status": "done",
+    "notes": "Complete planning judicial review judgment on lawful development certificate and use classes.",
+    "enrichment": {
+      "short_title": "Lawful development certificate refused where riding centre use had ceased and mixed use could not rely on Class D2",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 55",
+            "section 192",
+            "section 195",
+            "section 288"
+          ]
+        },
+        {
+          "title": "Town and Country Planning (Use Classes) Order 1987",
+          "provisions": [
+            "Class D2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Belmont Riding Centre applied for a lawful development certificate to change use from a riding centre to a health and fitness club within Class D2 at Mill Hill, London.",
+        "London Borough of Barnet failed to determine the application; the Secretary of State's inspector dismissed the appeal on the basis that no riding centre use survived on the application site and any change to a health club would be a material change of use.",
+        "The site formed part of a larger Belmont Estate planning unit with a composite mixed use including racehorse breeding, training, polo and limited riding holidays.",
+        "Belmont challenged the inspector's decision under section 288 of the 1990 Act."
+      ],
+      "procedural_posture": "High Court judicial review under section 288 of the Town and Country Planning Act 1990 of an inspector's decision dismissing a lawful development certificate appeal.",
+      "outcome": "Claim dismissed; inspector's decision upheld.",
+      "ratio": "A mixed use spanning a planning unit does not fall within a use class and cannot benefit from section 55(2)(f); where an applicant's case rests solely on a same-class substitution under the Use Classes Order, the inspector need not go on to consider material change of use in the abstract if that case fails, and it is not irrational to find that a former commercial riding centre use had ceased where stabling had become the predominant activity.",
+      "legal_issues": [
+        "Whether the inspector irrationally found that the riding centre use had ceased",
+        "Whether a change from one component of a mixed Class D2 use to another Class D2 use avoids material change of use",
+        "Whether the inspector was obliged to consider material change of use as a matter of general planning judgment after rejecting the Class D2 argument"
+      ],
+      "catchwords": [
+        "lawful development certificate",
+        "use classes",
+        "Class D2",
+        "mixed use",
+        "planning unit",
+        "material change of use",
+        "riding centre"
+      ],
+      "index_terms": [
+        "Belmont Riding Centre",
+        "Mill Hill",
+        "London Borough of Barnet",
+        "section 192 certificate",
+        "health and fitness club",
+        "composite use"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Beach v Secretary of State for the Environment, Transport and the Regions",
+          "citation": "[2001] EWHC Admin 381",
+          "relation": "considered"
+        },
+        {
+          "name": "Secretary of State for Transport, Local Government and the Regions v Waltham Forest London Borough Council",
+          "citation": "[2002] JPL 1093",
+          "relation": "considered"
+        },
+        {
+          "name": "Panton and Farmer v Secretary of State for the Environment, Transport and the Regions",
+          "citation": "[1999] JPL 461",
+          "relation": "applied"
+        },
+        {
+          "name": "Burdle v Secretary of State for the Environment",
+          "citation": "[1972] 3 All ER 240",
+          "relation": "applied"
+        },
+        {
+          "name": "Lilo Blum v Secretary of State for the Environment",
+          "citation": "[1986] JPL 278",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Full judgment with detailed inspector findings and clear conclusions on mixed use and use class law."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2219.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on murder conviction appeal covering ineffective assistance, causation and section 34 directions.",
+    "enrichment": {
+      "short_title": "Murder appeal dismissed where counsel reasonably abandoned causation issue and section 34 direction held adequate",
+      "area_of_law": [
+        "Criminal law",
+        "Appeals",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice and Public Order Act 1994",
+          "provisions": [
+            "section 34"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Carl Robinson was convicted of murder, wounding and ABH after a knife incident in a block of flats in Islington in May 2000.",
+        "At trial the defence was self-defence; the appellant had said in interview only 'self-defence, by myself. That's it.'",
+        "On appeal, with new leading counsel, he argued his trial lawyers failed to pursue causation, the judge misdirected on causation, and the section 34 silence direction was flawed.",
+        "The Court of Appeal heard fresh evidence from the appellant and his trial solicitor and counsel after privilege was waived."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Criminal Division) against murder conviction by leave of the single judge.",
+      "outcome": "Appeal dismissed on all three grounds.",
+      "ratio": "Trial counsel were entitled to abandon a moribund causation point where the appellant himself recognised by note that the Peter Murray issue should be 'buried'; causation need not be summed up if no longer live; and a section 34 direction emphasising whether the accused could reasonably have been expected to mention relied-on facts is not a misdirection merely because it critiques reliance on bare solicitor advice without exploring advice quality.",
+      "legal_issues": [
+        "Whether trial lawyers failed to act on instructions that Peter Murray may have inflicted the fatal wound",
+        "Whether counsel could tactically abandon part of the defence without express instructions",
+        "Whether the trial judge should have directed the jury that causation was a live issue",
+        "Whether the section 34 direction complied with Betts and Hall"
+      ],
+      "catchwords": [
+        "murder",
+        "self-defence",
+        "causation",
+        "ineffective assistance",
+        "section 34",
+        "adverse inference",
+        "silence in interview"
+      ],
+      "index_terms": [
+        "Carl Robinson",
+        "Islington stabbing",
+        "Peter Murray",
+        "legal professional privilege",
+        "JSB specimen direction"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Betts and Hall",
+          "citation": "[2001] 2 Cr App R 257",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Argent",
+          "citation": "[1997] 2 Cr App R 27",
+          "relation": "applied"
+        },
+        {
+          "name": "R v Roble",
+          "citation": "[1997] Crim LR 449",
+          "relation": "applied"
+        },
+        {
+          "name": "Condron v United Kingdom",
+          "citation": "[2001] EHRR 1",
+          "relation": "considered"
+        },
+        {
+          "name": "Francom and others",
+          "citation": "[2001] 1 Cr App R 237",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.97,
+        "level": "high",
+        "notes": "Very full judgment with detailed fact-finding on ground 1 and comprehensive section 34 authority review."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2117.json",
+    "status": "done",
+    "notes": "Complete section 289 planning appeal on gypsy enforcement notice and educational needs balancing.",
+    "enrichment": {
+      "short_title": "Gypsy enforcement appeal dismissed where educational needs did not outweigh Green Belt harm",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Gypsy and Traveller accommodation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 174",
+            "section 289"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Doherty occupied a Green Belt caravan site at Summerswood Lane, Ridge, Hertfordshire without planning permission.",
+        "He appealed an enforcement notice on grounds including very special circumstances, seeking only temporary permission for two years to find an alternative site.",
+        "The Secretary of State dismissed the appeal, finding substantial harm to Green Belt, highway safety and sustainability, not outweighed by gypsy accommodation need or the family's educational and health needs.",
+        "Permission to appeal was granted on two grounds relating to weight given to gypsy site shortage and treatment of children's schooling."
+      ],
+      "procedural_posture": "High Court appeal under section 289 of the Town and Country Planning Act 1990 against the Secretary of State's dismissal of an enforcement notice appeal.",
+      "outcome": "Appeal dismissed with costs; permission to appeal to Court of Appeal refused.",
+      "ratio": "Where specialist gypsy education support is available elsewhere in the county and the appellant had no strong local ties, the Secretary of State was entitled to conclude that educational needs did not add significant weight even if it was not certain an alternative site near the same schools could be found; observing that no certainty existed is a tentative finding, not an unsupported positive finding of availability.",
+      "legal_issues": [
+        "Whether the Secretary of State gave proper weight to shortage of lawful gypsy sites in Hertsmere",
+        "Whether paragraph 14 of the decision letter improperly assumed alternative sites might be found without evidence",
+        "Whether educational needs of gypsy children required greater weight in the balancing exercise"
+      ],
+      "catchwords": [
+        "enforcement notice",
+        "gypsy site",
+        "Green Belt",
+        "very special circumstances",
+        "temporary permission",
+        "educational needs"
+      ],
+      "index_terms": [
+        "Hertsmere Borough Council",
+        "Summerswood Lane",
+        "Circular 1/94",
+        "PPG3",
+        "PPG13",
+        "Pylon Site appeal"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full judgment though judge not listed in source metadata; reasoning on educational needs and speculative findings is clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1852.json",
+    "status": "done",
+    "notes": "Complete tax judicial review on refusal to repay tax after conflicting Special Commissioner decisions.",
+    "enrichment": {
+      "short_title": "Revenue not obliged to repay section 739 tax paid after earlier appeal where later Commissioner reached different factual conclusions",
+      "area_of_law": [
+        "Tax law",
+        "Administrative law",
+        "Judicial review",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Income and Corporation Taxes Act 1988",
+          "provisions": [
+            "section 739",
+            "section 741"
+          ]
+        },
+        {
+          "title": "Taxes Management Act 1970",
+          "provisions": [
+            "section 1",
+            "section 29",
+            "section 33",
+            "section 34",
+            "section 36",
+            "section 54"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 1 Protocol 1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Carvill paid over £4.5 million in tax and interest following dismissal of his appeals on section 739 transfer-of-assets assessments for 1987-88 to 1992-93.",
+        "A later Commissioner, Dr Avery-Jones, allowed appeals for 1993-94 to 1995-96 on different evidence concerning the same underlying transactions.",
+        "The Revenue refused to repay tax for the earlier years, treating both Commissioner decisions as binding and declining to 'second guess' factual findings.",
+        "Carvill sought judicial review alleging irrationality, unfairness, abuse of power and breach of Article 1 Protocol 1."
+      ],
+      "procedural_posture": "High Court judicial review following preliminary issues determined by Hart J and strike-out of parallel restitution claim.",
+      "outcome": "Application for judicial review dismissed.",
+      "ratio": "The Revenue is not required administratively to choose between conflicting Special Commissioner decisions on separate years of assessment or to re-weigh witness credibility; refusal to repay tax finally determined on appeal is not Wednesbury irrational merely because a later tribunal reached different factual conclusions on different evidence, and a discretionary expectation of fair consideration for repayment is not a 'possession' under Article 1 Protocol 1.",
+      "legal_issues": [
+        "Whether the Revenue abused care and management powers by refusing repayment after the second Commissioner decision",
+        "Whether Willoughby press release policy or equitable liability applied analogously",
+        "Whether there was symmetry between Revenue discovery assessment powers and taxpayer repayment rights",
+        "Whether Article 1 Protocol 1 protected a right to be considered for repayment",
+        "Whether 41% of tax attributable to 'Old Minority Shares' should be repaid"
+      ],
+      "catchwords": [
+        "section 739",
+        "transfer of assets abroad",
+        "Special Commissioners",
+        "care and management",
+        "repayment",
+        "Unilever",
+        "equitable liability"
+      ],
+      "index_terms": [
+        "Carvill",
+        "Commissioners of Inland Revenue",
+        "Avery-Jones",
+        "Everett",
+        "Old Minority Shares",
+        "Willoughby"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R v IRC, ex p Unilever plc",
+          "citation": "[1996] STC 682",
+          "relation": "applied"
+        },
+        {
+          "name": "IRC v Preston",
+          "citation": "[1985] 1 AC 835",
+          "relation": "applied"
+        },
+        {
+          "name": "R v IRC, ex p MFK Underwriting Agencies Ltd",
+          "citation": "(1989) 62 TC 607",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Wilkinson) v Commissioners of Inland Revenue",
+          "citation": "[2003] EWCA Civ 814",
+          "relation": "applied"
+        },
+        {
+          "name": "IRC v Willoughby",
+          "citation": "[1997] 1 WLR 1071",
+          "relation": "considered"
+        },
+        {
+          "name": "Pine Valley Developments Ltd v Ireland",
+          "citation": "(1991) 14 EHRR 319",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long but complete judgment; source metadata lists spurious historical judges but substantive text and outcome are clear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1273.json",
+    "status": "done",
+    "notes": "Complete costs appeal from case management conference with partial success analysis.",
+    "enrichment": {
+      "short_title": "No-order-as-to-costs at case management conference set aside where claimants had greater success on Part 20 application",
+      "area_of_law": [
+        "Civil procedure",
+        "Costs",
+        "Case management"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Companies sued former director Mr Thewlis for allegedly taking large sums; related section 459 petition also pending.",
+        "At a January 2003 case management conference the judge heard applications including joinder of family members, confirmation of charging order and stay, and permission to serve a Part 20 claim against Mr Ennis.",
+        "The judge made no order as to costs of the conference, treating outcomes as broadly neutral.",
+        "Claimants appealed, arguing they succeeded on the stay application and substantially defeated the Part 20 application."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Civil Division) against a no-order-as-to-costs decision following a case management conference.",
+      "outcome": "Appeal allowed; substituted costs order including two-thirds of hearing costs to claimants, one-third costs in the case, and injunction application costs to defendant.",
+      "ratio": "A judge exercising costs discretion at a case management conference may only justify 'no order' where one party can properly be treated as overall successful; where claimants succeeded on the stay and achieved substantial success restricting a Part 20 claim—especially after amendments reflecting their legal objections—the judge erred in treating the Part 20 outcome as a defendant success warranting no order.",
+      "legal_issues": [
+        "Whether the judge's no-order-as-to-costs decision was within the discretion in English v Emery Reimbold & Strick",
+        "Who succeeded on the Part 20 application to join Mr Ennis",
+        "What costs order should replace the judge's order"
+      ],
+      "catchwords": [
+        "costs",
+        "case management conference",
+        "Part 20 claim",
+        "Foss v Harbottle",
+        "discretion",
+        "stay of execution"
+      ],
+      "index_terms": [
+        "Jim Ennis Construction",
+        "Thewlis",
+        "charging order",
+        "summary assessment",
+        "misappropriation claim"
+      ],
+      "linked_authorities": [
+        {
+          "name": "English v Emery Reimbold & Strick Ltd",
+          "citation": "[2002] 1 WLR 2409",
+          "relation": "applied"
+        },
+        {
+          "name": "Foss v Harbottle",
+          "citation": "(1843) 2 Hare 461",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete judgment with detailed breakdown of CMC applications and substituted costs order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1877.json",
+    "status": "done",
+    "notes": "Complete Patents Court judgment refusing post-invalidity claim amendment.",
+    "enrichment": {
+      "short_title": "Patent amendment refused where 'emulsified concentrate' claims still covered invalid suspension treatment for sea lice",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Patents Act 1977",
+          "provisions": [
+            "section 4(2)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Vericore sought to amend patent GB 2,270,261 for using pyrethroid pesticides to treat sea lice on farmed salmon after Comptroller and Patents Court held original claims invalid for lack of novelty and obviousness.",
+        "Proposed amended claim 1 was limited to use of a pyrethroid to manufacture a composition that is an emulsified concentrate.",
+        "Alpharma argued the claim still covered treatment by suspension in seawater, as all patent examples used concentrate mixed with alcohol to create suspensions.",
+        "The judge held Vericore's narrow construction—that only emulsions in seawater were covered—was inconsistent with the specification."
+      ],
+      "procedural_posture": "Patents Court application to amend claims following dismissal of appeal from Comptroller invalidity decision.",
+      "outcome": "Amendment application refused; patent remains invalid.",
+      "ratio": "In Swiss-form pharmaceutical patent claims, limiting the product to an emulsified concentrate does not exclude use of that concentrate to generate a suspension in seawater where the specification's examples all produce suspensions and describe such use as illustrating the invention; even on Vericore's narrower construction, delivery by emulsion would have been obvious over prior art D1, D2 and D9.",
+      "legal_issues": [
+        "Construction of amended claim requiring composition to be an emulsified concentrate",
+        "Whether amended claims add matter or remain obvious",
+        "Whether prior art D2 deterred skilled person from using emulsion delivery"
+      ],
+      "catchwords": [
+        "patent amendment",
+        "sea lice",
+        "pyrethroid",
+        "emulsified concentrate",
+        "suspension",
+        "Swiss form claim",
+        "obviousness"
+      ],
+      "index_terms": [
+        "Vericore",
+        "Vetrepharm",
+        "Alpharma",
+        "salmon farming",
+        "cypermethrin",
+        "alphacypermethrin",
+        "GB 2270261"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Coflexip SA v Stolt Comex Seaway MS Ltd",
+          "citation": "[2000] EWCA Civ 242",
+          "relation": "applied"
+        },
+        {
+          "name": "Adhesive Dry Mounting Co Ltd v Trapp",
+          "citation": "[1910] 27 RPC 341",
+          "relation": "applied"
+        },
+        {
+          "name": "Pfizer Ltd's Patent",
+          "citation": "[2001] FSR 201",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete technical judgment with clear claim construction and obviousness findings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1047.json",
+    "status": "done",
+    "notes": "Complete pensions inalienability appeal with freezing and consent order analysis.",
+    "enrichment": {
+      "short_title": "Occupational pension inalienability under section 91 Pensions Act 1995 invalidated Mareva and consent orders assigning pension benefits to judgment creditors",
+      "area_of_law": [
+        "Pensions law",
+        "Civil procedure",
+        "Trusts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Pensions Act 1995",
+          "provisions": [
+            "section 68",
+            "section 91",
+            "section 92",
+            "section 94",
+            "section 124"
+          ]
+        },
+        {
+          "title": "Attachment of Earnings Act 1971",
+          "provisions": []
+        },
+        {
+          "title": "Insolvency Act 1986",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Assignees of Oakstone Ltd sued Mr and Mrs Harrison for breach of share sale warranties and obtained judgment for about £24,582 plus costs.",
+        "Mr Harrison had accrued pension rights under a B J Harrison Ltd occupational scheme administered by NPI; the company trustee failed to process his 1996 retirement benefits.",
+        "Assignees obtained a freezing order in April 1998 and a consent order in May 2000 directing pension benefits to their solicitors in satisfaction of the judgment.",
+        "The pension scheme's rule 19(b) and sections 91-92 of the Pensions Act 1995 were not drawn to the courts' attention until this appeal."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Civil Division), re-argued before three judges with advocate to the court, against HHJ Kershaw's declaration of forfeiture and trust claims over pension benefits.",
+      "outcome": "Appeal dismissed; freezing order and consent order set aside; appellants may re-apply for limited freezing relief over sums absolutely due by May 2000.",
+      "ratio": "Section 91(2) precludes court orders restraining receipt of future pension instalments; accrued rights under section 124 exclude absolute entitlements to sums already payable, so lump sums and arrears due before assignment may be dealt with differently from future benefits; rule 19(b) forfeiture applies only to future benefits, not matured payment rights; and a consent order assigning all scheme benefits is unenforceable and cannot be severed where it embraces future assigned rights.",
+      "legal_issues": [
+        "Scope of section 91(1) and (2) as to accrued versus absolute pension payment rights",
+        "Construction of scheme rule 19(b) forfeiture for attempted assignment",
+        "Whether consent order could be severed to enforce rights to lump sum and arrears",
+        "Validity of 1998 freezing order covering future pension payments"
+      ],
+      "catchwords": [
+        "occupational pension",
+        "section 91",
+        "inalienability",
+        "Mareva injunction",
+        "consent order",
+        "forfeiture clause",
+        "accrued rights"
+      ],
+      "index_terms": [
+        "Fisher",
+        "Harrison",
+        "Oakstone",
+        "NPI policy",
+        "BJ Harrison Retirement Benefits Scheme",
+        "Goode Report"
+      ],
+      "linked_authorities": [
+        {
+          "name": "In re Scientific Instrument Pension Plan Trusts",
+          "citation": "[1999] Ch 53",
+          "relation": "applied"
+        },
+        {
+          "name": "Caboche v Ramsay",
+          "citation": "(1993) 119 ALR 215",
+          "relation": "applied"
+        },
+        {
+          "name": "Krasner v Dennison",
+          "citation": "[2000] 3 All ER 234",
+          "relation": "applied"
+        },
+        {
+          "name": "Chamberlain v De la Mare",
+          "citation": "[1982] 4 FLR 434",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Very full judgment with detailed statutory analysis and clear remedial order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1924.json",
+    "status": "done",
+    "notes": "Complete planning judicial review quashing gypsy site permissions for inspector errors on Policy C1 and Article 8.",
+    "enrichment": {
+      "short_title": "Gypsy caravan site planning permissions quashed where inspector misapplied Green Belt Policy C1 and Article 8",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Human rights",
+        "Gypsy and Traveller accommodation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 54A",
+            "section 78",
+            "section 174"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Three gypsy families occupied plots with mobile homes and caravans on Green Belt land at Ratham Lane, West Ashling, Chichester without permission.",
+        "An inspector allowed enforcement appeals and granted planning permission for a private four-pitch gypsy site, finding substantial unmet need and personal/family circumstances outweighed environmental harm.",
+        "Chichester District Council challenged the decision, particularly the treatment of Structure Plan Policy C1 and Article 8 proportionality.",
+        "One enforcement notice relating to plot D had already been quashed for uncertainty and was not appealed."
+      ],
+      "procedural_posture": "High Court planning judicial review of inspector decisions on enforcement and planning appeals.",
+      "outcome": "Claim allowed; planning permissions quashed and matter remitted to Secretary of State; permission to appeal refused.",
+      "ratio": "Development of gypsy caravan residential use in open countryside is in breach of Structure Plan Policy C1, which permits only defined exceptions and cannot be read as allowing gypsy sites by spirit rather than letter; the inspector erred in finding no material breach; and Article 8 does not impose on a local planning authority a duty to provide adequate gypsy sites—Chapman confirms no such positive obligation, though personal circumstances may still be weighed in proportionality analysis.",
+      "legal_issues": [
+        "Whether the inspector should have found clear breach of Policy C1 before weighing countervailing gypsy need",
+        "Whether PPG7 paragraph 3.21 special justification was adequately considered",
+        "Whether the inspector's assessment of Paul Eames' personal circumstances was internally consistent",
+        "Whether Article 8 analysis wrongly treated the council as obliged to meet gypsy site need"
+      ],
+      "catchwords": [
+        "gypsy site",
+        "Green Belt",
+        "Policy C1",
+        "Policy RE22",
+        "enforcement notice",
+        "Article 8",
+        "very special circumstances"
+      ],
+      "index_terms": [
+        "Chichester District Council",
+        "Ratham Lane",
+        "West Ashling",
+        "Circular 1/94",
+        "PPG7",
+        "Chapman v United Kingdom"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Chapman v United Kingdom",
+          "citation": "(2001) 33 EHRR 18",
+          "relation": "applied"
+        },
+        {
+          "name": "Simplex GE (Holdings) Ltd v Secretary of State for the Environment",
+          "citation": "[1988] 3 PLR 25",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete judgment with detailed policy analysis; outcome limited to quashing permissions rather than full inspector decision."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1153.json",
+    "status": "done",
+    "notes": "Complete employment/commercial agency status appeal.",
+    "enrichment": {
+      "short_title": "Sales representative held self-employed commercial agent under 1998 agency agreement despite CSA-driven relabelling",
+      "area_of_law": [
+        "Employment law",
+        "Commercial agency",
+        "Contract law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Commercial Agents (Council Directive) Regulations 1993",
+          "provisions": [
+            "regulation 3",
+            "regulation 5"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Julian Smith worked as a sales representative for Reliance Water Controls from 1996 until summary dismissal in January 1999.",
+        "From January 1998 he signed an agency agreement paying commission rather than salary, bearing his own expenses, car and phone, to avoid Child Support Agency deduction from earnings orders.",
+        "The county court judge found he remained an employee and awarded modest wrongful dismissal damages.",
+        "Smith appealed, contending the written agency agreement genuinely changed status and the Commercial Agents Regulations governed compensation."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Civil Division) against county court finding of employment status and dismissal.",
+      "outcome": "Appeal allowed; appellant held self-employed commercial agent; cross-appeal on good faith dismissed; damages remitted to Birmingham Mercantile Court.",
+      "ratio": "Where parties genuinely intend and implement a change from employment to agency status for legitimate reasons and the agreement is not a sham, the court must weigh all contractual features; commission-only pay, self-funded expenses and tools, freedom to take non-competing agencies and absence of employee benefits are inconsistent with MacKenna J's third condition for a contract of service in Ready Mixed Concrete.",
+      "legal_issues": [
+        "Whether the 1998 agency agreement was a sham preserving employment",
+        "Application of Ready Mixed Concrete and Market Investigations tests to agency status",
+        "Whether breach of regulation 3 good faith disentitles agent from compensation"
+      ],
+      "catchwords": [
+        "employee or self-employed",
+        "commercial agent",
+        "agency agreement",
+        "Ready Mixed Concrete",
+        "commission",
+        "wrongful dismissal",
+        "sham contract"
+      ],
+      "index_terms": [
+        "Reliance Water Controls",
+        "Julian Smith",
+        "Child Support Agency",
+        "Massey v Crown Life",
+        "Birmingham Mercantile Court"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ready Mixed Concrete (South East) Ltd v Minister of Pensions",
+          "citation": "[1968] 2 QB 497",
+          "relation": "applied"
+        },
+        {
+          "name": "Massey v Crown Life Insurance",
+          "citation": "[1978] 2 All ER 576",
+          "relation": "applied"
+        },
+        {
+          "name": "Market Investigations Ltd v Minister of Social Security",
+          "citation": "[1969] 2 QB 173",
+          "relation": "applied"
+        },
+        {
+          "name": "Montgomery v Underwood Ltd",
+          "citation": "[2001] EWCA Civ 318",
+          "relation": "applied"
+        },
+        {
+          "name": "Carmichael v National Power plc",
+          "citation": "[1999] 1 WLR 2042",
+          "relation": "considered"
+        },
+        {
+          "name": "IRC v Duke of Westminster",
+          "citation": "[1936] AC 1",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete judgment with detailed analysis of agreed contractual terms and status tests."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1149.json",
+    "status": "done",
+    "notes": "Complete joint relocation appeal judgment for two step-father relocation cases.",
+    "enrichment": {
+      "short_title": "Leave to remove granted in step-father relocation cases where Payne guidelines under-weighted new family realities",
+      "area_of_law": [
+        "Family law",
+        "Child arrangements",
+        "International relocation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Two separate appeals were heard together in July 2003 from refusals of mothers' applications to relocate children abroad with new partners.",
+        "In B (Children), the mother sought to move to South Africa with two children to join Mr K, a South African businessman, after marriage breakdown.",
+        "In S (Child), the mother sought to relocate to Perth with her six-year-old son to marry Mr EA, a Filipino-Australian facial surgeon's assistant.",
+        "Trial judges applied Payne v Payne guidance but, the Court of Appeal held, insufficient weight was given to the step-father's career and the new family's natural emigration."
+      ],
+      "procedural_posture": "Joint appeals to the Court of Appeal (Civil Division) against county court refusals of leave to remove children from the jurisdiction.",
+      "outcome": "Both appeals allowed; relocation permission granted subject to liberal contact arrangements.",
+      "ratio": "In step-father relocation cases the court must carefully evaluate refusal's impact on the new family; where the primary carer's future lies with a partner whose work, nationality and ties require relocation abroad, frustrating that emigration jeopardises the child's welfare in the new family unit—following Chamberlain v De la Mare and Poel v Poel—even though contact with the left-behind father will be reduced.",
+      "legal_issues": [
+        "Correct weight under Payne v Payne where relocation is driven by step-father's employment and nationality rather than return to homeland",
+        "Whether trial judges erred in treating relationships as untested or manageable by long-distance contact",
+        "Whether mother's oral evidence of devastating impact of refusal was adequately considered in S (Child)"
+      ],
+      "catchwords": [
+        "leave to remove",
+        "relocation",
+        "Payne v Payne",
+        "step-father",
+        "primary carer",
+        "contact",
+        "welfare checklist"
+      ],
+      "index_terms": [
+        "Re B children",
+        "Re S child",
+        "South Africa relocation",
+        "Perth relocation",
+        "Chamberlain v De la Mare",
+        "Poel v Poel"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Payne v Payne",
+          "citation": "[2001] EWCA Civ 166",
+          "relation": "applied"
+        },
+        {
+          "name": "Poel v Poel",
+          "citation": "[1970] 1 WLR 1469",
+          "relation": "applied"
+        },
+        {
+          "name": "Chamberlain v De la Mare",
+          "citation": "[1982] 4 FLR 434",
+          "relation": "applied"
+        },
+        {
+          "name": "Nash v Nash",
+          "citation": "[1973] 2 All ER 704",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete joint judgment clarifying Payne guidance for step-father relocation category."
+      }
+    }
+  }
+]

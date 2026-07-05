@@ -1,0 +1,843 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/tcc/2003/2114.json",
+    "status": "done",
+    "notes": "Complete TCC summary judgment on limitation and accrual of tort claims in cladding dispute.",
+    "enrichment": {
+      "short_title": "When negligent cladding supervision claim accrued for limitation purposes",
+      "area_of_law": [
+        "Construction law",
+        "Tort law",
+        "Limitation of actions",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 24", "CPR 3.4"]
+        },
+        {
+          "title": "Limitation Act 1980",
+          "provisions": ["section 14", "section 14A"]
+        }
+      ],
+      "key_facts": [
+        "Lewisham sued MR Ltd in tort over defective Swisslab overcladding at Dolphin and Mermaid Towers; overcladding works completed before October 1996 and defects appeared from June 1996.",
+        "MR applied under CPR 24 for summary judgment on pleaded negligent supervision, inspection and quality-control allegations (draft amended particulars paras 44.1–44.8), contending those causes of action accrued before issue of the claim form and were time-barred under section 14 Limitation Act 1980.",
+        "A separate claim based on MR's October 1996 written report was accepted as not statute-barred; the dispute turned on whether relevant damage occurred at practical completion (8 November 1996) or when defective installation occurred (August 1996 or earlier)."
+      ],
+      "procedural_posture": "Application for summary judgment at a preliminary hearing in TCC proceedings on limitation/accrual of tort claims, following agreed amendments to pleadings.",
+      "outcome": "Summary judgment granted for MR on the time-barred supervision/inspection allegations; Lewisham had no real prospect of success on those issues.",
+      "ratio": "Where a manufacturer allegedly owed a duty not to cause economic loss through negligent on-site supervision during installation, the pleaded damage was allowing non-conforming work to be achieved; that damage occurred when the sub-contractor's defective work was done (by completion in August 1996 at the latest), not at practical completion under the main contract, which was irrelevant to MR's tortious duties.",
+      "legal_issues": [
+        "Whether MR owed a duty extending beyond negligent advice to performance of supervisory services",
+        "What constituted the relevant damage for limitation purposes",
+        "When the tort cause of action accrued: defective installation date v practical completion date",
+        "Whether Invercargill, Nykredit or New Islington supported Lewisham's practical completion argument"
+      ],
+      "catchwords": [
+        "summary judgment",
+        "limitation",
+        "economic loss",
+        "Hedley Byrne",
+        "Henderson v Merrett",
+        "Pirelli",
+        "Murphy v Brentwood",
+        "cladding defects",
+        "accrual of cause of action"
+      ],
+      "index_terms": [
+        "Lewisham",
+        "MR Limited",
+        "Swisslab",
+        "Dolphin Tower",
+        "Mermaid Tower",
+        "practical completion",
+        "overcladding",
+        "building contract chain"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Henderson v Merrett Syndicates Ltd",
+          "citation": "[1995] 2 AC 145",
+          "relation": "applied"
+        },
+        {
+          "name": "Murphy v Brentwood District Council",
+          "citation": "[1991] 1 AC 398",
+          "relation": "applied"
+        },
+        {
+          "name": "Pirelli General Cable Works Ltd v Oscar Faber & Partners",
+          "citation": "[1983] 2 AC 1",
+          "relation": "applied"
+        },
+        {
+          "name": "Cartledge v E Jopling & Sons Ltd",
+          "citation": "[1963] AC 758",
+          "relation": "applied"
+        },
+        {
+          "name": "Nykredit Mortgage Bank Plc v Edward Erdman Group Ltd (No 2)",
+          "citation": "[1997] 1 WLR 1627",
+          "relation": "distinguished"
+        },
+        {
+          "name": "New Islington and Hackney Housing Association Ltd v Pollard Thomas and Edwards Ltd",
+          "citation": "[2001] BLR 74",
+          "relation": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Full judgment with clear conclusion; source metadata lists incorrect historic judges but substantive text is complete and internally consistent."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1881.json",
+    "status": "done",
+    "notes": "Complete judicial review judgment on section 73(8) certification under the 1999 Act.",
+    "enrichment": {
+      "short_title": "Quashing section 73(8) certificate blocking appeal on exceptional leave request",
+      "area_of_law": [
+        "Immigration and asylum law",
+        "Administrative law",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": ["sections 65(1)", "sections 73(1)", "sections 73(2)-(9)", "sections 74-78"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 3", "Article 8"]
+        }
+      ],
+      "key_facts": [
+        "Ethnic Albanian claimant from Kosovo claimed asylum in December 1999; adjudicator dismissed asylum and Article 3 appeal in January 2001 but hoped the Secretary of State would consider exceptional leave to remain based on his relationship with a British partner.",
+        "Repeated representations for exceptional leave (including mental health and family life grounds) went unanswered until after judicial review was lodged; removal directions then issued and a section 73(8) certificate was served to block further appeal.",
+        "The claimant and his partner later married; the JR challenge was confined to lawfulness of the section 73(8) certificate."
+      ],
+      "procedural_posture": "Judicial review of the Secretary of State's decision to certify under section 73(8) Immigration and Asylum Act 1999, after amendment of the original JR claim.",
+      "outcome": "Certificate under section 73(8) quashed; claimant permitted to appeal under section 65(1) on human rights grounds against refusal of exceptional leave, subject to possible future certificates under sections 73(2) or 73(5).",
+      "ratio": "Section 73(8) was not intended to sanction non-compliance with the one-stop procedure where other subsections already address that; the claimant's request for exceptional leave on human rights grounds had at least one legitimate purpose (asking the Secretary of State to consider matters not yet determined), so certification on delay grounds was unlawful.",
+      "legal_issues": [
+        "Whether section 73(8) applies to requests for exceptional leave on human rights grounds",
+        "Meaning of 'legitimate purpose' under section 73(8)(b)",
+        "Whether the Secretary of State could certify based on one-stop non-compliance rather than delay",
+        "How adjudicator paragraphs 62-65 should be read on Article 8"
+      ],
+      "catchwords": [
+        "judicial review",
+        "section 73(8)",
+        "exceptional leave to remain",
+        "one-stop appeal",
+        "Article 8",
+        "Article 3",
+        "certification",
+        "asylum"
+      ],
+      "index_terms": [
+        "Alia",
+        "Secretary of State for the Home Department",
+        "Kosovo",
+        "exceptional leave",
+        "section 65 appeal",
+        "Vemenac",
+        "Balamurali",
+        "Nyakonya"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (Vemenac) v Secretary of State for the Home Department",
+          "citation": "[2002] EWHC 1636 (Admin)",
+          "relation": "considered"
+        },
+        {
+          "name": "R (Balamurali) v Secretary of State for the Home Department",
+          "citation": "[2003] EWHC 1183 (Admin)",
+          "relation": "considered"
+        },
+        {
+          "name": "R (Soylemez) v Secretary of State for the Home Department",
+          "citation": "[2003] EWHC 1056 (Admin)",
+          "relation": "considered"
+        },
+        {
+          "name": "R (Ngamguem) v Secretary of State for the Home Department",
+          "citation": "[2002] EWHC 1550 (Admin)",
+          "relation": "cited"
+        },
+        {
+          "name": "R (Nyakonya) v Immigration Appeal Tribunal",
+          "citation": "[2002] EWHC 1544 (Admin)",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Long but complete judgment with detailed statutory analysis and clear outcome."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2246.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on section 72A postponement of confiscation proceedings.",
+    "enrichment": {
+      "short_title": "Whether judge manifestly postponed confiscation before sentencing brothel defendants",
+      "area_of_law": [
+        "Criminal law",
+        "Confiscation",
+        "Sentencing procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["section 71(1)(a)", "section 72A", "section 93(4)"]
+        }
+      ],
+      "key_facts": [
+        "Three appellants ran brothels in Northampton and Leicester; they pleaded guilty in July 2000 to conspiracy and immoral earnings offences.",
+        "Before sentencing on 15 September 2000, Judge Bray said 'if everybody agrees to that, I will do that' after the Crown proposed sentencing before postponed confiscation proceedings; further exchanges on 18 September fixed a timetable.",
+        "Years later, before confiscation hearings, appellants argued Judge Bray failed to make a manifest judicial postponement decision under section 72A; Judge Eccles rejected that and the Court of Appeal agreed."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal (Criminal Division) against a preliminary ruling that section 72A postponement had been validly decided before sentence.",
+      "outcome": "Appeal dismissed; Judge Bray had reached and manifestly communicated a postponement decision understood by all counsel before sentencing.",
+      "ratio": "A decision to postpone confiscation under section 72A is a judicial decision that must be reached before sentence and made manifest, but no particular form of words is required; acquiescence by counsel and subsequent scheduling can suffice, and the decision need not be articulated before sentence is passed if reached beforehand.",
+      "legal_issues": [
+        "Whether section 72A requires an explicit pre-sentence judicial decision to postpone",
+        "Whether Judge Bray's exchanges amounted to a manifest postponement decision",
+        "Whether the court must advert to needing further information under section 72A(1)"
+      ],
+      "catchwords": [
+        "confiscation",
+        "section 72A",
+        "postponement",
+        "sentencing",
+        "Proceeds of Crime",
+        "manifest decision"
+      ],
+      "index_terms": [
+        "Haisman",
+        "Judge Bray",
+        "Judge Eccles",
+        "Northampton Crown Court",
+        "brothel",
+        "Steele and Shevki",
+        "Ross",
+        "McCready"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Steele and Shevki",
+          "citation": "[2001] 2 Cr App R (S) 40",
+          "relation": "applied"
+        },
+        {
+          "name": "Ross",
+          "citation": "[2001] 2 Cr App R (S) 484",
+          "relation": "applied"
+        },
+        {
+          "name": "Steven Davies",
+          "citation": "[2001] EWCA Crim 2902",
+          "relation": "applied"
+        },
+        {
+          "name": "Sekhon and others",
+          "citation": "[2003] 1 Cr App R 34",
+          "relation": "cited"
+        },
+        {
+          "name": "McCready",
+          "citation": "[2003] EWCA Crim 02",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete appellate judgment endorsing first-instance ruling with full transcript analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2244.json",
+    "status": "done",
+    "notes": "Complete judgment on conflict-of-interest and fair trial challenge to heroin conspiracy conviction.",
+    "enrichment": {
+      "short_title": "Shared solicitors did not make heroin conspiracy conviction unsafe",
+      "area_of_law": [
+        "Criminal law",
+        "Legal professional ethics",
+        "Appeals against conviction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Appellant Saracoglu was convicted by majority verdict of conspiracy to supply Class A heroin after police observed 14.7 kg recovered from a Berwick Road distribution operation in January 1998.",
+        "He and co-tenant Kiprit were represented by the same firm; appellant claimed he instructed counsel to identify Kiprit as the man in a black jacket seen carrying drugs, but counsel advised against a cut-throat defence and did not put that case.",
+        "On appeal, with privilege waived, the court heard evidence from appellant, counsel, solicitor and interpreter; Kiprit was not called at trial."
+      ],
+      "procedural_posture": "Appeal against conviction to the Court of Appeal (Criminal Division) following grant of leave after initial refusal by the single judge.",
+      "outcome": "Appeal dismissed; no operative unfairness from solicitor conflict where counsel independently advised appellant; conviction safe even if instructions were ignored.",
+      "ratio": "Shared representation giving rise to a potential conflict does not itself ground an appeal; the question is whether steps taken or omitted because of the conflict caused unfairness or affected safety of conviction, and here counsel's independent advice and the overwhelming identification evidence meant any conflict had no operative effect.",
+      "legal_issues": [
+        "Whether Stewart & Co acting for both appellant and Kiprit caused an unfair trial",
+        "Whether failure to advance that Kiprit was the man in the black jacket made the conviction unsafe",
+        "Article 6 fair trial requirements in cut-throat defence scenarios"
+      ],
+      "catchwords": [
+        "conflict of interest",
+        "joint representation",
+        "cut-throat defence",
+        "heroin conspiracy",
+        "unsafe conviction",
+        "Article 6",
+        "identification evidence"
+      ],
+      "index_terms": [
+        "Saracoglu",
+        "Kiprit",
+        "36 Berwick Road",
+        "Operation Hydra",
+        "Stewart & Co",
+        "Kingston Crown Court"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Very long factual judgment but complete with clear appellate conclusions."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2015.json",
+    "status": "done",
+    "notes": "Complete Chancery judgment on partial summary judgment in pharmaceutical trade mark parallel import dispute.",
+    "enrichment": {
+      "short_title": "Partial summary judgment on diverted Glaxo HIV drugs parallel import",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade mark law",
+        "Pharmaceutical regulation",
+        "Civil procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": ["section 12"]
+        },
+        {
+          "title": "Trade Marks Directive",
+          "provisions": ["Article 5", "Article 7"]
+        },
+        {
+          "title": "Council Regulation 40/94 (Community Trade Mark)",
+          "provisions": ["Article 98"]
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["rule 24.2"]
+        }
+      ],
+      "key_facts": [
+        "GlaxoSmithKline sold anti-retroviral drugs (Trizivir, Combivir, Epivir) to African purchasers via French intermediaries; Horn & Cie supplied parallel importer Dowelhurst, which repackaged goods for UK hospitals.",
+        "Defendants argued trade mark rights were exhausted because goods were first placed on the EEA market when sold to French purchasers; Glaxo contended export-only sales outside the EEA did not exhaust rights.",
+        "Of 16 consignments, only consignment #16 (100 units Trizivir to L'Afrique aide L'Afrique under a CIP Dakar contract with strict territorial restrictions) was held clearly infringing on summary judgment."
+      ],
+      "procedural_posture": "Application for summary judgment for trade mark infringement and joint tortfeasor liability against parallel importers and their managing director.",
+      "outcome": "Summary judgment succeeded only for consignment #16 Trizivir infringement; arguable exhaustion defence for other consignments; qualified injunction granted rather than absolute injunction.",
+      "ratio": "Where goods were sold to independent middlemen in France who obtained the right of disposal within the EEA, it is arguable the trade mark proprietor first placed them on the EEA market and rights were exhausted notwithstanding contractual restrictions on re-sale in Europe; but goods delivered under the humanitarian L'Afrique aide L'Afrique contract to Senegal were not so placed and their UK import infringed.",
+      "legal_issues": [
+        "When trade marked goods are first placed on the market in the EEA",
+        "Whether FCA delivery to French forwarding agents constitutes EEA marketing",
+        "Consent and exhaustion under Article 7 and Zino Davidoff",
+        "Scope of injunctive relief where packaging does not distinguish export stock",
+        "Personal liability of managing director as joint tortfeasor"
+      ],
+      "catchwords": [
+        "trade mark exhaustion",
+        "parallel imports",
+        "pharmaceuticals",
+        "anti-retrovirals",
+        "summary judgment",
+        "repackaging",
+        "EEA",
+        "joint tortfeasor"
+      ],
+      "index_terms": [
+        "Glaxo Group",
+        "Dowelhurst",
+        "Horn & Cie",
+        "Trizivir",
+        "Combivir",
+        "Epivir",
+        "Stone Business Park",
+        "parallel import"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Zino Davidoff SA v A&G Imports Ltd",
+          "citation": "Joined Cases C-414/99 to C-416/99",
+          "relation": "applied"
+        },
+        {
+          "name": "Three Rivers District Council v Bank of England",
+          "citation": "[2001] UKHL 16",
+          "relation": "cited"
+        },
+        {
+          "name": "Glaxo Group Ltd v Kohlpharma GmbH",
+          "citation": "Hanover Higher Regional Court, 20 March 2003",
+          "relation": "considered"
+        },
+        {
+          "name": "Unilever plc v Gillette (UK) Ltd",
+          "citation": "[1989] RPC 583",
+          "relation": "applied"
+        },
+        {
+          "name": "Commission v French Republic",
+          "citation": "Case C-23/99",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Extensive but complete judgment; partial summary judgment outcome clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1586.json",
+    "status": "done",
+    "notes": "Complete Divisional Court judgment on admissibility of unsigned section 172 driver identity forms.",
+    "enrichment": {
+      "short_title": "Unsigned section 172 forms admissible as PACE confessions for driver ID",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal evidence",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": ["section 172"]
+        },
+        {
+          "title": "Road Traffic Offenders Act 1988",
+          "provisions": ["section 12(1)", "Schedule 2"]
+        },
+        {
+          "title": "Road Traffic Regulation Act 1984",
+          "provisions": ["section 17(4)", "section 89(1)"]
+        },
+        {
+          "title": "Motorways Traffic (Speed Limit) Regulations 1974",
+          "provisions": ["Regulation 3"]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": ["section 76(1)", "section 82(1)", "Code C paragraph 10.1"]
+        },
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": ["section 27"]
+        },
+        {
+          "title": "Criminal Justice and Public Order Act 1994",
+          "provisions": ["section 35(3)"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Michael Mawdesley and Dwight Yorke were convicted of speeding based partly on section 172 response forms naming them as driver but leaving the signature box blank.",
+        "Magistrates in Mawdesley treated block-capital name insertion as a signature under section 12(1)(b) RTOA; Crown Court in Yorke rejected no-case submission and later heard that an agent completed the form.",
+        "Prosecutions relied on camera/laser speed evidence plus returned section 172 forms after notices of intended prosecution."
+      ],
+      "procedural_posture": "Linked appeals by case stated from magistrates and Crown Court to the Divisional Court on admissibility and evidential effect of unsigned section 172 forms.",
+      "outcome": "Mawdesley: section 12 route failed; conviction set aside and remitted for rehearing on confession basis. Yorke: unsigned form admissible in principle but conviction quashed because prosecution did not run confession case and agent's evidence showed form not made by defendant.",
+      "ratio": "An unsigned section 172 form is not a statement 'purporting to be signed' under section 12(1)(b) RTOA, but if properly inferred to have been completed by the defendant it may be admissible as a confession under PACE without caution because section 172 requests fall within the statutory information exception in Code C 10.1; such evidence can establish a case to answer on driver identity.",
+      "legal_issues": [
+        "Whether unsigned section 172 forms satisfy section 12(1)(b) RTOA",
+        "Admissibility of unsigned forms as confessions under PACE",
+        "Need for caution when serving section 172 notices",
+        "Article 6 compatibility following Brown v Stott",
+        "Whether unsigned completion avoids section 172(3) offence"
+      ],
+      "catchwords": [
+        "section 172",
+        "driver identity",
+        "speeding",
+        "unsigned form",
+        "confession",
+        "PACE",
+        "section 12 RTOA",
+        "case stated"
+      ],
+      "index_terms": [
+        "Mawdesley",
+        "Dwight Yorke",
+        "Notice of Intended Prosecution",
+        "camera enforcement",
+        "Brown v Stott"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Brown v Stott",
+          "citation": "[2001] 2 WLR 817",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Complete judgment with detailed statutory analysis and distinct outcomes for each appellant."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1169.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on covert recording and breach of confidence in cohabitation dispute.",
+    "enrichment": {
+      "short_title": "No injunction over covert tape of partner's private sexual admissions",
+      "area_of_law": [
+        "Privacy law",
+        "Breach of confidence",
+        "Human rights",
+        "Equity"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 39.2(3)(c)"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["Article 8", "Article 10"]
+        }
+      ],
+      "key_facts": [
+        "Musician claimant D cohabited with respondent L; after relationship breakdown L covertly recorded private conversations about D's sexual proclivities using a voice-activated recorder.",
+        "During property proceedings D introduced aspects of his sexuality in evidence; L disclosed tapes late and gave unreliable disclosure assurances.",
+        "Judge Norris refused injunction to restrain publication of tape extracts; Court of Appeal held he misdirected himself on law but would still refuse relief on discretion."
+      ],
+      "procedural_posture": "Appeal against refusal of interim/permanent injunction restraining use or publication of covert tape recordings in cohabitation proceedings.",
+      "outcome": "Appeal dismissed; no injunctive relief granted despite legal misdirection, because of lack of intended publication, public domain disclosure, unclean hands and balancing exercise.",
+      "ratio": "Covert recording of a private conversation can impose a duty of confidence separate from confidentiality of the information disclosed, analogous to improperly obtained photographs; but equity may refuse relief where the recorded matters are already public, the recorder has shown no present intention to publish, and the claimant's conduct gives rise to unclean hands.",
+      "legal_issues": [
+        "Whether covert taping of private conversation is actionable breach of confidence",
+        "Distinction between confidentiality of information and confidentiality of the recording itself",
+        "Balancing Article 8 privacy against Article 10 freedom of expression",
+        "Whether relationship breakdown ended obligations of confidence",
+        "Discretionary refusal for unclean hands and lack of publication threat"
+      ],
+      "catchwords": [
+        "covert recording",
+        "breach of confidence",
+        "privacy",
+        "injunction",
+        "Article 8",
+        "Article 10",
+        "cohabitation",
+        "clean hands"
+      ],
+      "index_terms": [
+        "D v L",
+        "tape recording",
+        "Douglas v Hello!",
+        "A v B plc",
+        "Campbell v MGN",
+        "surreptitious surveillance"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Ashburton v Pape",
+          "citation": "[1913] 2 Ch 469",
+          "relation": "cited"
+        },
+        {
+          "name": "Douglas v Hello! Ltd",
+          "citation": "[2001] QB 967",
+          "relation": "applied"
+        },
+        {
+          "name": "A v B plc",
+          "citation": "[2003] QB 195",
+          "relation": "applied"
+        },
+        {
+          "name": "Campbell v MGN Ltd",
+          "citation": "[2003] QB 633",
+          "relation": "cited"
+        },
+        {
+          "name": "Creation Records Ltd v News Group Newspapers Ltd",
+          "citation": "[1997] EMLR 444",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Anonymised but complete appellate judgment with clear ratio on covert recording and discretion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/1940.json",
+    "status": "done",
+    "notes": "Complete habeas corpus judgment under Extradition Act 1989 section 11(3)(c).",
+    "enrichment": {
+      "short_title": "Extradition to Switzerland partly blocked for bad-faith Brink fraud allegations",
+      "area_of_law": [
+        "Extradition",
+        "Criminal law",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Extradition Act 1989",
+          "provisions": ["section 11(3)(c)"]
+        }
+      ],
+      "key_facts": [
+        "South African businesswoman applicant was committed for extradition to Switzerland on fraud and theft charges brought by Georg Rafael (perfume venture Deux Amis) and Nina Brink (Filver/ICM investment).",
+        "Applicant argued complaints were bargaining tools in parallel civil disputes and contained demonstrable falsehoods; Swiss civil court had rejected Brink's freezing order.",
+        "Negotiations had included draft settlements requiring withdrawal of criminal complaints if sums were repaid; applicant was arrested in London in June 2001."
+      ],
+      "procedural_posture": "Application for writ of habeas corpus following committal for extradition, relying on section 11(3)(c) Extradition Act 1989 (accusation not in good faith / unjust or oppressive return).",
+      "outcome": "Discharged in relation to Brink charges; extradition on Rafael charges upheld.",
+      "ratio": "Under section 11(3)(c), good faith of complainants as well as requesting state may be examined; a complainant's predominant motive to recover money does not alone negate good faith, but Brink's extradition allegations were inconsistent with the written Filver agreement and rejected by Swiss civil courts, so those accusations were not made in good faith and return on those charges would be oppressive.",
+      "legal_issues": [
+        "Scope of 'accusation' and good faith under section 11(3)(c)",
+        "Whether using criminal complaints as civil bargaining tools negates good faith",
+        "Unjust and oppressive return under Lord Diplock's test in Kakis",
+        "Separate assessment of Rafael and Brink complainants"
+      ],
+      "catchwords": [
+        "habeas corpus",
+        "extradition",
+        "good faith",
+        "section 11(3)(c)",
+        "fraud",
+        "obtaining by deception",
+        "Switzerland"
+      ],
+      "index_terms": [
+        "Sutej",
+        "Georg Rafael",
+        "Nina Brink",
+        "Deux Amis",
+        "Filver",
+        "Geneva",
+        "Re Osman"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Kakis v Government of the Republic of Cyprus",
+          "citation": "[1978] 1 WLR 779",
+          "relation": "applied"
+        },
+        {
+          "name": "Re Osman",
+          "citation": "25 February 1992, unreported",
+          "relation": "applied"
+        },
+        {
+          "name": "R (Saifi) v Governor of Brixton Prison",
+          "citation": "[2001] 1 WLR 1134",
+          "relation": "applied"
+        },
+        {
+          "name": "Re Murat Calis",
+          "citation": "19 November 1993, unreported",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Long fact-intensive judgment but complete with split outcome clearly explained."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/1891.json",
+    "status": "done",
+    "notes": "Complete section 45 Arbitration Act reference on rent review comparables clause.",
+    "enrichment": {
+      "short_title": "Rent review must treat Tamworth/Minworth comparables as on Stone Business Park",
+      "area_of_law": [
+        "Landlord and tenant",
+        "Commercial property",
+        "Contract construction",
+        "Arbitration"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": ["section 45"]
+        }
+      ],
+      "key_facts": [
+        "Beegas Nominees (Lattice Pension trustee landlord) let a 111,815 sq ft warehouse at Stone Business Park to Decco for 25 years from 1996 at initial rent £428,000 with five-yearly upward-only reviews.",
+        "Clause 3.2(6) required the surveyor/arbitrator to assume evidence of lettings of 50,000+ sq ft B1/B8 units within five miles of Tamworth or Minworth was evidence of market rental value 'as if those premises were situated upon the Stone Business Park'.",
+        "Stone Business Park was relatively undeveloped compared with established Tamworth and Minworth distribution centres when the lease was granted."
+      ],
+      "procedural_posture": "Section 45 Arbitration Act 1996 application for court determination of a question of construction referred from rent review arbitration.",
+      "outcome": "Court answered in favour of landlord (alternative (a)): arbitrator must treat Tamworth/Minworth comparable rents as if located on Stone Business Park without location discount.",
+      "ratio": "The concluding words of clause 3.2(6) are not redundant; they require the valuer to treat comparable lettings in Tamworth and Minworth as if situated on Stone Business Park and preclude discounting their rents solely because those premises are in more established locations, even though that may produce a higher reviewed rent than the actual Stone market would justify.",
+      "legal_issues": [
+        "Construction of clause 3.2(6) rent review comparables assumption",
+        "Whether location adjustments remain permissible for non-geographic differences",
+        "Presumption of reality in rent review clauses",
+        "Admissibility of pre-contract valuation report as background"
+      ],
+      "catchwords": [
+        "rent review",
+        "market rental value",
+        "comparable evidence",
+        "warehouse lease",
+        "contract construction",
+        "section 45 arbitration"
+      ],
+      "index_terms": [
+        "Beegas Nominees",
+        "Decco",
+        "Stone Business Park",
+        "Tamworth",
+        "Minworth",
+        "distribution warehouse",
+        "hypothetical lease"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Basingstoke and Deane Borough Council v Host Group Ltd",
+          "citation": "[1988] 1 WLR 348",
+          "relation": "cited"
+        },
+        {
+          "name": "Dukeminster (Ebbgate House One) Ltd v Somerfield Properties Co Ltd",
+          "citation": "[1997] 2 EGLR 125",
+          "relation": "cited"
+        },
+        {
+          "name": "Investors Compensation Scheme Ltd v West Bromwich Building Society",
+          "citation": "[1998] 1 WLR 896",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Focused construction judgment with clear declaration; complete text."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1269.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on fairness of written Parole Board recall proceedings.",
+    "enrichment": {
+      "short_title": "No Article 5/6 right to oral Parole Board hearing on licence recall",
+      "area_of_law": [
+        "Prison law",
+        "Parole",
+        "Human rights",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1991",
+          "provisions": ["section 32", "section 33(2)", "section 39", "section 44"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 5", "Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Claimant Smith served a determinate sentence for rape and threats to kill with extended licence; released automatically after two-thirds of sentence in November 2001.",
+        "He tested positive for drugs including cocaine while in probation hostels; Parole Board recommended recall in February 2002 and written representations under section 39(3) were rejected in April 2002.",
+        "He sought judicial review contending recall proceedings were unfair without an oral hearing and breached Articles 5 and 6."
+      ],
+      "procedural_posture": "Judicial review appeal in the Court of Appeal against refusal of permission (later granted in part) to challenge Parole Board written recall procedure.",
+      "outcome": "Application dismissed; no Article 5.4 or Article 6 entitlement to oral hearing on recall during a determinate sentence; common law fairness did not require oral hearing on these facts.",
+      "ratio": "For prisoners serving determinate sentences, recall to prison is detention in pursuance of the original sentence so Article 5.4 review is incorporated in the sentencing decision (Giles); Article 6 is not engaged because no surviving civil right to liberty exists before sentence expiry; at common law an oral hearing is required only where a central disputed fact cannot fairly be resolved without oral evidence.",
+      "legal_issues": [
+        "Whether Article 5.4 requires oral review of licence recall",
+        "Whether Article 6 applies to Parole Board recall determinations",
+        "Whether written section 39(3) representations satisfy common law fairness",
+        "Distinction between determinate and indeterminate sentence recall procedures"
+      ],
+      "catchwords": [
+        "Parole Board",
+        "licence recall",
+        "section 39",
+        "Article 5",
+        "Article 6",
+        "oral hearing",
+        "determinate sentence",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Smith",
+        "recall representations",
+        "drug testing",
+        "extended licence",
+        "Giles",
+        "West v Parole Board",
+        "ex parte Doody"
+      ],
+      "linked_authorities": [
+        {
+          "name": "R (Giles) v Parole Board",
+          "citation": "[2003] UKHL 42",
+          "relation": "applied"
+        },
+        {
+          "name": "R (West) v Parole Board",
+          "citation": "[2003] EWCA Civ 1641",
+          "relation": "applied"
+        },
+        {
+          "name": "Waite v United Kingdom",
+          "citation": "10 March 2003",
+          "relation": "distinguished"
+        },
+        {
+          "name": "Brown v Stott",
+          "citation": "[2001] 2 WLR 817",
+          "relation": "cited"
+        },
+        {
+          "name": "R v Secretary of State for the Home Department, ex parte Doody",
+          "citation": "[1994] 1 AC 531",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Complete appellate judgment; marginal editorial queries at end of source text do not affect substantive holdings."
+      }
+    }
+  }
+]

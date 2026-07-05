@@ -1,0 +1,707 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2582.json",
+    "status": "done",
+    "notes": "Complete judgment; source summary field is truncated but full_text is intact.",
+    "enrichment": {
+      "short_title": "GMC interim orders appeals dismissed after CPP order superseded IOC conditions",
+      "area_of_law": [
+        "Medical regulation",
+        "Professional discipline",
+        "Administrative law",
+        "Statutory appeal"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Medical Act 1983",
+          "provisions": ["section 41A(10)(b)"]
+        },
+        {
+          "title": "Data Protection Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Dr Aaalamani, a psychiatrist, appealed three Interim Orders Committee decisions imposing or varying conditions on his GMC registration following performance concerns arising from a Cardiff complaint.",
+        "The Committee on Professional Performance later imposed substantive conditions for three years and directed revocation of the 18 March 2002 IOC order; the Privy Council struck out and dismissed Dr Aaalamani's appeal against the CPP decision in February 2003.",
+        "By 27 February 2003 the CPP order took effect and the IOC conditions ceased to apply, so there were no live interim conditions against which to appeal.",
+        "Dr Aaalamani sought adjournment pending an ECtHR complaint and access to GMC files; disclosure applications had already been dealt with by Elias J."
+      ],
+      "procedural_posture": "Statutory appeals under section 41A(10)(b) of the Medical Act 1983 against three IOC decisions, with subsidiary disclosure challenges and a costs application.",
+      "outcome": "All three statutory appeals dismissed; permission to appeal refused; GMC awarded summary assessed costs of £4,671.80.",
+      "ratio": "Where interim registration conditions imposed by the IOC have ceased to apply because a substantive CPP order has taken effect following dismissal of the practitioner's Privy Council appeal, there is nothing left against which a statutory appeal to the High Court can lie; the court has no jurisdiction over substantive CPP orders, which lie with the Privy Council.",
+      "legal_issues": [
+        "Whether statutory appeals against expired IOC conditions could proceed",
+        "Whether adjournment was required pending an ECtHR application",
+        "Whether the claimant needed access to IOC papers to pursue the appeals",
+        "Costs assessment following prolonged proceedings"
+      ],
+      "catchwords": [
+        "General Medical Council",
+        "Interim Orders Committee",
+        "Committee on Professional Performance",
+        "statutory appeal",
+        "medical registration conditions",
+        "Privy Council appeal",
+        "costs assessment"
+      ],
+      "index_terms": [
+        "Aaalamani",
+        "GMC",
+        "Medical Act 1983",
+        "Henriques J",
+        "professional performance",
+        "interim suspension"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Full first-instance judgment with clear procedural history and outcome; truncated summary field in source metadata only."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2470.json",
+    "status": "done",
+    "notes": "Complete case stated appeal with agreed evidence amendment.",
+    "enrichment": {
+      "short_title": "No case to answer upheld where expert implied goldfinches were wild British birds",
+      "area_of_law": [
+        "Wildlife law",
+        "Criminal law",
+        "Magistrates' courts",
+        "Evidence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Wildlife and Countryside Act 1981",
+          "provisions": ["section 1(2)(a)", "section 1(6)", "section 19", "section 21", "section 27"]
+        },
+        {
+          "title": "Magistrates' Courts Rules 1981",
+          "provisions": ["rule 81(3)"]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 6"]
+        }
+      ],
+      "key_facts": [
+        "Maurice Hughes was convicted by Camborne magistrates of possessing five live goldfinches contrary to section 1(2)(a) of the Wildlife and Countryside Act 1981 after a search warrant execution at his home.",
+        "Expert Roger Caton testified the birds had not been bred in captivity but was not expressly asked whether goldfinches were wild birds within section 27.",
+        "The magistrates rejected a submission of no case to answer partly because a warrant had been granted under section 19, but the defective case stated was later amended by agreement.",
+        "The real trial issue was whether the birds had been bred in captivity; the defence point on section 27 was raised only at the close of the prosecution case."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Camborne Magistrates' Court to the High Court (Administrative Division).",
+      "outcome": "Appeal dismissed; magistrates held justified in finding a case to answer.",
+      "ratio": "Where a British bird expert testifies that captive-bred goldfinches in possession were wild and not bred in captivity, it is implicit that they are wild birds within section 27; magistrates may also take judicial notice that goldfinches are ordinarily resident in or visitors to Great Britain. On a section 1 prosecution the defendant bears the burden of showing on the balance of probabilities that a bird was bred in captivity.",
+      "legal_issues": [
+        "Whether the prosecution proved goldfinches were wild birds within section 27",
+        "Whether expert evidence that birds were not bred in captivity sufficed without express section 27 evidence",
+        "Whether judicial notice could be taken of goldfinches as British wild birds",
+        "Who bears the burden on the section 1(6) captive-bred exception",
+        "Whether magistrates should permit the prosecution to recall a witness to cure an evidential omission"
+      ],
+      "catchwords": [
+        "wild bird possession",
+        "goldfinches",
+        "bred in captivity",
+        "no case to answer",
+        "judicial notice",
+        "case stated",
+        "Wildlife and Countryside Act 1981"
+      ],
+      "index_terms": [
+        "Hughes",
+        "Director of Public Prosecutions",
+        "Roger Caton",
+        "Stanley Burnton J",
+        "RSPCA",
+        "section 27 definition"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Commonwealth Shipping Representative v Peninsular and Oriental Branch Services",
+          "citation": "[1923] AC 191",
+          "role": "cited"
+        },
+        {
+          "name": "R v Francis",
+          "citation": "[1990] 1 WLR 1264",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete judgment with statutory analysis, agreed evidence, and clear conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1637.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on EAT constitution and informed consent.",
+    "enrichment": {
+      "short_title": "EAT lacked jurisdiction where unrepresented appellant did not give informed consent to two-member panel",
+      "area_of_law": [
+        "Employment law",
+        "Employment tribunals",
+        "Civil procedure",
+        "Administrative justice"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Employment Tribunals Act 1996",
+          "provisions": ["section 4", "section 21", "section 28(2)", "section 28(3)", "section 28(4)"]
+        },
+        {
+          "title": "Public Interest Disclosure Act 1998",
+          "provisions": []
+        },
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": ["CPR 52.11(3)"]
+        }
+      ],
+      "key_facts": [
+        "Jasmine De Haney appealed to the EAT against dismissal of her race discrimination and whistleblowing claims against Brent Mind.",
+        "At the full EAT hearing she appeared in person and initially consented to a two-member panel comprising a judge and one lay member, Mr Hodgkins, an employers' representative.",
+        "After lunch she refused to sign a consent form, learned Mr Hodgkins was an employers' representative, and asked the EAT to discharge itself; the EAT refused and dismissed her appeal.",
+        "There was no employees' representative on the two-member panel and dispute as to whether she knew Mr Hodgkins' status before consenting."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal with permission of Mummery LJ against the EAT's refusal to discharge itself and its dismissal of the substantive appeal.",
+      "outcome": "Appeal allowed; EAT order set aside; case remitted to a differently constituted EAT with costs.",
+      "ratio": "Consent under section 28(3) of the Employment Tribunals Act 1996 to hear an appeal by a judge and one lay member must be informed consent, including knowledge of whether the sole lay member represents employers or workers; without such consent the EAT lacks jurisdiction and CPR 52.11(3) requires the appeal to be allowed for serious procedural irregularity.",
+      "legal_issues": [
+        "What information must be given before valid consent to a two-member EAT panel",
+        "Whether Miss De Haney gave informed consent to the panel constitution",
+        "Whether the EAT could continue after mid-hearing objection",
+        "Whether the Court of Appeal should determine the substantive appeal on the merits"
+      ],
+      "catchwords": [
+        "Employment Appeal Tribunal",
+        "section 28(3) consent",
+        "informed consent",
+        "lay members",
+        "employers' representative",
+        "rule of equality",
+        "procedural irregularity"
+      ],
+      "index_terms": [
+        "De Haney",
+        "Brent Mind",
+        "Peter Gibson LJ",
+        "McMullen QC",
+        "Donovan Commission",
+        "unrepresented litigant"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.97,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with detailed factual analysis and practice guidance."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2920.json",
+    "status": "done",
+    "notes": "Complete renewed judicial review judgment on commissioner leave refusal.",
+    "enrichment": {
+      "short_title": "Judicial review refused where claimant missed tribunal hearing after failing to update address",
+      "area_of_law": [
+        "Social security",
+        "Industrial injuries",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Teresa Roberts sought judicial review of Social Security Commissioner Jacobs' refusal of leave to appeal against an Appeal Tribunal decision dismissing her Industrial Injuries Disablement Benefit claim.",
+        "The tribunal issue was whether continuing disablement resulted from an industrial injury suffered many years earlier.",
+        "Miss Roberts and her representative did not attend the 26 June 2002 tribunal hearing; the tribunal proceeded in her absence and decided against her.",
+        "Notice had been sent to her registered address but she had moved without informing the tribunal; her late application to set aside was refused."
+      ],
+      "procedural_posture": "Renewed application for permission to apply for judicial review of a commissioner's refusal of leave to appeal.",
+      "outcome": "Permission for judicial review refused.",
+      "ratio": "A commissioner acts lawfully in refusing leave to appeal where a claimant's non-attendance at a tribunal hearing resulted from her failure to notify a change of address rather than tribunal default, and where attendance would in any event have made no material difference because the issue turned on medical causation already fully considered in the evidence.",
+      "legal_issues": [
+        "Whether the commissioner erred in refusing leave to appeal",
+        "Whether the tribunal should have set aside its in-absentia decision",
+        "Whether the claimant's absence was caused by tribunal or claimant fault",
+        "Whether attendance would have materially affected the outcome"
+      ],
+      "catchwords": [
+        "Industrial Injuries Disablement Benefit",
+        "Appeal Tribunal",
+        "social security commissioner",
+        "judicial review",
+        "hearing in absence",
+        "change of address",
+        "causation"
+      ],
+      "index_terms": [
+        "Roberts",
+        "Department for Work and Pensions",
+        "Stanley Burnton J",
+        "disablement benefit",
+        "set aside application"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete short judgment with clear findings on jurisdiction and reasonableness."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1673.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on statutory construction of asylum support appeals.",
+    "enrichment": {
+      "short_title": "No section 103(2) stoppage appeal where section 95 support ends for breach of dispersal condition",
+      "area_of_law": [
+        "Immigration and asylum",
+        "Asylum support",
+        "Statutory interpretation",
+        "Administrative law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration and Asylum Act 1999",
+          "provisions": ["section 94(1)", "section 95", "section 95(9)", "section 97", "section 98", "section 98(2)", "section 102", "section 103(1)", "section 103(2)", "section 103(3)", "section 103(7)", "section 122(3)", "Schedule 8 paragraph 7", "Schedule 8 paragraph 8"]
+        }
+      ],
+      "key_facts": [
+        "Ahmet Dogan, a Turkish Kurdish asylum seeker supported in Luton, was offered section 95 accommodation in Liverpool subject to travelling there by 3 January 2002.",
+        "NASS warned that support at Luton would end if he failed to travel; he did not travel and support was withdrawn.",
+        "The Chief Asylum Support Adjudicator treated the appeal as a section 103(2) stoppage appeal and remitted the case for inadequate notice; the Secretary of State sought judicial review of jurisdiction.",
+        "By the time of the Court of Appeal hearing Dogan had been recognised as a refugee and the case proceeded on a public-interest basis."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal against Silber J's decision allowing judicial review and quashing the Chief Asylum Support Adjudicator's determination.",
+      "outcome": "Appeal dismissed; section 103(2) held not to confer a stoppage appeal on these facts.",
+      "ratio": "Section 103(2) of the Immigration and Asylum Act 1999 applies only where section 95 support previously granted to an asylum seeker is stopped prematurely before it would otherwise have ended; where support is provided subject to a condition such as relocation to a dispersal area, withdrawal for breach of that condition is not a premature stoppage and no stoppage appeal lies, otherwise section 103 would improperly create a general or de facto location appeal absent regulations under section 103(7).",
+      "legal_issues": [
+        "The true construction of section 103(2) stoppage appeals",
+        "Whether withdrawal of support for failing to accept dispersal accommodation is a stoppage appeal",
+        "Whether support subject to conditions can end without a prior unconditional grant",
+        "Whether the Secretary of State could structure decisions to exclude appeal rights"
+      ],
+      "catchwords": [
+        "asylum support",
+        "NASS",
+        "section 103(2)",
+        "stoppage appeal",
+        "dispersal",
+        "conditions on support",
+        "statutory interpretation"
+      ],
+      "index_terms": [
+        "Dogan",
+        "Secretary of State for the Home Department",
+        "Chief Asylum Support Adjudicator",
+        "Laws LJ",
+        "Luton",
+        "Liverpool"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Full Court of Appeal judgment with detailed statutory analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2698.json",
+    "status": "done",
+    "notes": "Complete Divisional Court case stated appeal on noise nuisance prosecution.",
+    "enrichment": {
+      "short_title": "Magistrates wrongly dismissed busker noise case at close of prosecution evidence",
+      "area_of_law": [
+        "Environmental law",
+        "Noise nuisance",
+        "Criminal law",
+        "Magistrates' courts",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Environmental Protection Act 1990",
+          "provisions": ["section 79(1)(ga)", "section 79(7)", "section 80(1)", "section 80(2)", "section 80(3)", "section 80(4)", "section 80(5)"]
+        },
+        {
+          "title": "Control of Pollution Act 1974",
+          "provisions": ["section 58"]
+        },
+        {
+          "title": "Noise Act 1996",
+          "provisions": []
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": ["Article 7"]
+        }
+      ],
+      "key_facts": [
+        "Westminster City Council prosecuted Mr McDonald for breaching an abatement notice after he continued amplified busking in Leicester Square despite a prior notice served by environmental health officers.",
+        "Three council environmental health officers gave unchallenged expert evidence that the amplified guitar and singing amounted to a statutory nuisance interfering with work at nearby Queen's House.",
+        "The district judge dismissed the information of her own motion at the close of the prosecution case, citing lack of occupier evidence, absence of acoustic measurement, short observation time, and vague evidence.",
+        "The defendant did not dispute service of the notice, identification, or the officers' qualifications."
+      ],
+      "procedural_posture": "Appeal by way of case stated from Horseferry Road Magistrates' Court to the Divisional Court.",
+      "outcome": "Appeal allowed; district judge held wrong to find no case to answer; matter sent back for retrial before a different district judge; costs order in favour of the council.",
+      "ratio": "A prosecution for breach of an abatement notice under section 80(4) may prove statutory nuisance by expert environmental health officer evidence without calling affected occupiers or acoustic measurements; a reasonable tribunal could convict on such evidence, and absence of those witnesses or decibel readings is not a mandatory precondition to conviction.",
+      "legal_issues": [
+        "Whether occupier evidence is required to prove noise nuisance",
+        "Whether acoustic measurement evidence is mandatory",
+        "Whether short expert observations can support a prima facie case",
+        "Whether an abatement notice satisfies Article 7 ECHR certainty requirements"
+      ],
+      "catchwords": [
+        "statutory nuisance",
+        "abatement notice",
+        "noise nuisance",
+        "busking",
+        "no case to answer",
+        "environmental health officer",
+        "Leicester Square"
+      ],
+      "index_terms": [
+        "Westminster City Council",
+        "McDonald",
+        "Royce J",
+        "Kennedy LJ",
+        "Cooke v Adatia",
+        "London Borough of Lewisham v Hall"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Cooke v Adatia and others",
+          "citation": "(1988) 153 JP 129",
+          "role": "applied"
+        },
+        {
+          "name": "London Borough of Lewisham v Hall",
+          "citation": "[2002] EWHC 960 (Admin)",
+          "role": "applied"
+        },
+        {
+          "name": "Godfrey v Conwy County Borough Council",
+          "citation": "[2001] Env LR 38",
+          "role": "applied"
+        },
+        {
+          "name": "Murdoch and Murdoch v Glacier Metal Co Ltd",
+          "citation": "",
+          "role": "cited"
+        },
+        {
+          "name": "Budd v Colchester BC",
+          "citation": "[1999] JPL 717",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.95,
+        "level": "high",
+        "notes": "Complete Divisional Court judgment with detailed evidential analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2003/1490.json",
+    "status": "done",
+    "notes": "Complete Court of Appeal judgment on tree-root subsidence causation.",
+    "enrichment": {
+      "short_title": "Wrong causation test applied in council tree-root subsidence nuisance claim",
+      "area_of_law": [
+        "Tort law",
+        "Nuisance",
+        "Negligence",
+        "Property damage",
+        "Causation"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr and Mrs Loftus-Brigham claimed the London Borough of Ealing's street trees caused subsidence damage to their Victorian house on London clay through root-induced desiccation.",
+        "Council trees were felled without admission shortly after proceedings began; Virginia creeper and wisteria on the claimants' house also contributed to moisture abstraction.",
+        "After a three-day trial Judge Hallgarten dismissed the claim, holding the claimants had not shown the council's trees were probably the dominant cause.",
+        "Experts agreed vegetation caused the damage but disputed whether council trees or the claimants' climbers were the primary cause."
+      ],
+      "procedural_posture": "Appeal to the Court of Appeal with permission of Latham LJ against dismissal of a county court nuisance and negligence claim.",
+      "outcome": "Appeal allowed; May 2003 order set aside; claim remitted for retrial before a different judge.",
+      "ratio": "In concurrent-cause nuisance and negligence claims for tree-root subsidence, a claimant need only show on the balance of probabilities that the defendant's tree roots materially contributed to the damage as an effective cause; requiring proof that council trees were the dominant or most probable cause misstates the law following Bonnington Castings v Wardlaw and Banque Bruxelles SA v Eagle Star.",
+      "legal_issues": [
+        "The correct causation test in tree-root subsidence cases",
+        "Whether the judge wrongly required proof of dominant cause",
+        "Whether nuisance and negligence share the same causation rules",
+        "Whether the Court of Appeal could decide causation without remission",
+        "Whether the court could apportion loss without a liability finding"
+      ],
+      "catchwords": [
+        "tree root subsidence",
+        "nuisance",
+        "neighbouring trees",
+        "causation",
+        "material contribution",
+        "dominant cause",
+        "clay desiccation"
+      ],
+      "index_terms": [
+        "Loftus-Brigham",
+        "London Borough of Ealing",
+        "Delaware Mansions v Westminster City Council",
+        "Bonnington Castings v Wardlaw",
+        "Fairchild v Glenhaven Funeral Services",
+        "Paterson v Humberside CC"
+      ],
+      "linked_authorities": [
+        {
+          "name": "Delaware Mansions Ltd v Westminster City Council",
+          "citation": "[2002] 1 AC 321",
+          "role": "applied"
+        },
+        {
+          "name": "Banque Bruxelles Lambert SA v Eagle Star Insurance Co Ltd",
+          "citation": "[1995] QB 375",
+          "role": "applied"
+        },
+        {
+          "name": "Bonnington Castings Ltd v Wardlaw",
+          "citation": "[1956] AC 613",
+          "role": "applied"
+        },
+        {
+          "name": "Fairchild v Glenhaven Funeral Services Ltd",
+          "citation": "[2003] 1 AC 32",
+          "role": "applied"
+        },
+        {
+          "name": "Paterson v Humberside County Council",
+          "citation": "(1996) Const LJ 64",
+          "role": "cited"
+        },
+        {
+          "name": "Galoo (G) Ltd v Bright Grahame Murray",
+          "citation": "[1994] 1 WLR 1360",
+          "role": "distinguished"
+        }
+      ],
+      "confidence": {
+        "score": 0.97,
+        "level": "high",
+        "notes": "Complete Court of Appeal judgment with detailed causation analysis."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2003/2580.json",
+    "status": "done",
+    "notes": "Complete judicial review judgment quashing section 36 YJCEA directions.",
+    "enrichment": {
+      "short_title": "Section 36 cross-examination ban quashed for lack of fair procedure",
+      "area_of_law": [
+        "Criminal procedure",
+        "Evidence",
+        "Magistrates' courts",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Youth Justice and Criminal Evidence Act 1999",
+          "provisions": ["section 36", "section 36(3)", "section 37(2)"]
+        }
+      ],
+      "key_facts": [
+        "Mr Hillman, a self-represented defendant in magistrates' court proceedings arising from a dispute with a former public-house landlady, faced an application to prevent him cross-examining the complainant in person under section 36 YJCEA 1999.",
+        "On 14 November 2002 the court clerk told him he could not cross-examine the complainant; the CPS record stated a section 36 order was made but the clerk's note and defendant said no magistrates' order was made and no section 36(3) factors were considered.",
+        "On 5 December 2002 the justices made or affirmed a section 36 direction, but their reasons mixed section 36(3) criteria with section 37 material-change-of-circumstances language.",
+        "Neither the magistrates nor the CPS attended the judicial review hearing despite notice."
+      ],
+      "procedural_posture": "Application for judicial review with leave granted by Scott Baker LJ and Pitchford J of Richmond magistrates' section 36 direction(s).",
+      "outcome": "Orders made on 14 November and/or 5 December 2002 quashed; case remitted for fresh section 36 consideration with procedural safeguards.",
+      "ratio": "A section 36 direction prohibiting an accused from cross-examining a witness in person must be made by the justices after the accused has had a full opportunity to make representations in open court and after the court has expressly considered the mandatory matters in section 36(3); a clerk's informal indication or a confused section 37 review cannot substitute for that process.",
+      "legal_issues": [
+        "Whether a valid section 36 order was made on 14 November 2002",
+        "Whether the 5 December hearing was conducted under section 36 or section 37",
+        "Whether section 36(3) mandatory considerations were addressed",
+        "Whether the defendant was denied a fair opportunity to make representations"
+      ],
+      "catchwords": [
+        "section 36 YJCEA 1999",
+        "cross-examination in person",
+        "special measures",
+        "magistrates' court",
+        "judicial review",
+        "natural justice",
+        "unrepresented defendant"
+      ],
+      "index_terms": [
+        "Hillman",
+        "Richmond Magistrates' Court",
+        "Henriques J",
+        "Crown Prosecution Service",
+        "complainant witness",
+        "section 37 discharge"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Complete judgment though underlying magistrates' factual record was contested and CPS did not appear."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2003/2516.json",
+    "status": "done",
+    "notes": "Complete Chancery judgment on section 459 unfair prejudice valuation directions.",
+    "enrichment": {
+      "short_title": "Section 459 buy-out valuation fixed at December 2003 with no deferred NASS contract element",
+      "area_of_law": [
+        "Company law",
+        "Shareholder remedies",
+        "Unfair prejudice",
+        "Valuation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": ["section 459", "section 460(2)(d)", "section 461(2)(d)"]
+        }
+      ],
+      "key_facts": [
+        "Mr Bilkus and Mr King orally agreed equal ownership of Clearsprings (Management) Ltd, which held a lucrative Home Office NASS contract to house asylum seekers.",
+        "Mr King excluded Mr Bilkus from management in August 2000 and refused to issue his half share until specific performance proceedings succeeded before Judge Weeks QC in November 2001.",
+        "Mr Bilkus petitioned under section 459 seeking buy-out relief; after protracted litigation the court directed that Mr Bilkus sell his share to Mr King.",
+        "The main valuation dispute concerned whether to use a two-stage process tied to NASS contract renewal in 2005, how to treat challenged payments, and whether to award interest or an interim payment."
+      ],
+      "procedural_posture": "Trial of remaining issues in a section 459 unfair prejudice petition after split trials and late settlement negotiations.",
+      "outcome": "Two-stage deferred valuation rejected; single valuation ordered as at 1 December 2003 on a going-concern basis with no minority discount; challenged payments left to valuer discretion; interest and interim payment refused; costs split with Mr King succeeding overall from March 2002.",
+      "ratio": "In section 459 buy-out cases the court should normally order a clean-break valuation at a date close to the actual sale rather than a deferred two-stage process tied to future contract renewal; disputed misfeasance is for the court but a valuer may disregard non-recurring payments when assessing profitability without determining their propriety; interest or quasi-interest is not available as a late afterthought absent clear pleading and evidence.",
+      "legal_issues": [
+        "Whether a two-stage valuation tied to NASS contract renewal should be ordered",
+        "The appropriate valuation date for a going concern",
+        "Whether challenged payments should be determined by the court or valuer",
+        "Whether interest at 8% should augment the purchase price",
+        "Whether an interim payment should be made pending valuation"
+      ],
+      "catchwords": [
+        "section 459 petition",
+        "unfair prejudice",
+        "share valuation",
+        "minority shareholding",
+        "O'Neill v Phillips",
+        "clean break",
+        "going concern valuation"
+      ],
+      "index_terms": [
+        "Bilkus",
+        "King",
+        "Clearsprings Management Ltd",
+        "Lawrence Collins J",
+        "NASS contract",
+        "Profinance Trust SA v Gladstone"
+      ],
+      "linked_authorities": [
+        {
+          "name": "O'Neill v Phillips",
+          "citation": "[1999] 1 WLR 1092",
+          "role": "applied"
+        },
+        {
+          "name": "Profinance Trust SA v Gladstone",
+          "citation": "[2002] 1 BCLC 141",
+          "role": "applied"
+        },
+        {
+          "name": "Re London School of Electronics Ltd",
+          "citation": "[1986] Ch 211",
+          "role": "applied"
+        },
+        {
+          "name": "North Holdings Ltd v Southern Tropics Ltd",
+          "citation": "[1999] 2 BCLC 625",
+          "role": "applied"
+        },
+        {
+          "name": "Ferguson v Maclennan Salmon & Co",
+          "citation": "[1990] BCC 707",
+          "role": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.96,
+        "level": "high",
+        "notes": "Complete lengthy Chancery judgment with detailed valuation and costs rulings."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2003/2957.json",
+    "status": "done",
+    "notes": "Very long CCRC reference judgment; full_text complete and analysed in full.",
+    "enrichment": {
+      "short_title": "Cameo cinema murder convictions quashed after non-disclosure of Graham's first statement",
+      "area_of_law": [
+        "Criminal law",
+        "Appeals against conviction",
+        "Disclosure",
+        "Miscarriage of justice"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Appeal Act 1968",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "George Kelly and Charles Connolly were convicted in 1950 for the March 1949 Cameo Cinema double murder and robbery in Liverpool; Kelly was hanged after a retrial.",
+        "Prisoner Robert Graham's September 1949 statement that Donald Johnson had confessed to the murders was never disclosed to defence or prosecution counsel; Graham later gave crucial evidence of prison confessions by Kelly and Connolly.",
+        "Statements by James Northam and Jacqueline Dickson implicating Kelly and Connolly were also not disclosed; CI Balmer's handling of Graham was central to both trials.",
+        "The CCRC referred the convictions to the Court of Appeal after discovery of Graham's first statement in police files in the 1990s."
+      ],
+      "procedural_posture": "References by the Criminal Cases Review Commission to the Court of Appeal Criminal Division against historic murder and robbery convictions.",
+      "outcome": "Appeals allowed; convictions of Kelly and Connolly quashed as unsafe; Cameo murders remain unsolved with no prospect of retrial.",
+      "ratio": "Kelly's conviction was unsafe because Graham's undisclosed first statement, which undermined Graham and CI Balmer, should have been disclosed even by 1949 standards; once Kelly's conviction is unsafe it is unrealistic to treat Connolly's guilty pleas to robbery as safe, particularly where the pleas were said to have been induced by duress of circumstances and severance from Kelly's retrial lacked proper basis.",
+      "legal_issues": [
+        "Whether non-disclosure of Graham's first statement rendered Kelly's conviction unsafe",
+        "Whether non-disclosure of Northam's and Dickson's statements affected safety",
+        "Whether severance of Kelly's retrial from Connolly's was justified",
+        "Whether Connolly's guilty pleas were voluntary or induced by duress of circumstances",
+        "Whether Connolly's robbery convictions could remain safe if Kelly's conviction was unsafe"
+      ],
+      "catchwords": [
+        "Cameo cinema murders",
+        "unsafe conviction",
+        "non-disclosure",
+        "Criminal Cases Review Commission",
+        "Graham witness",
+        "guilty plea",
+        "severance of trials"
+      ],
+      "index_terms": [
+        "Kelly",
+        "Connolly",
+        "George Kelly",
+        "Charles Connolly",
+        "Liverpool",
+        "Donald Johnson",
+        "Robert Graham",
+        "Rix LJ",
+        "Walton Prison"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Extremely long judgment but complete; core ratio and outcome clearly established from full text."
+      }
+    }
+  }
+]

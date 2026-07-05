@@ -1,0 +1,748 @@
+{
+  "batch_id": "batch_04",
+  "enriched_at": "2026-06-24",
+  "notes": "Enrichment batch for 10 judgments; manifest and source judgment files not modified.",
+  "judgments": [
+    {
+      "source_path": "data/judgments/ewca/civ/2003/57.json",
+      "tna_uri": "ewca/civ/2003/57",
+      "neutral_citation": "[2003] EWCA Civ 57",
+      "case_name": "Tucker, R (on the application of) v National Crime Squad Director General",
+      "short_title": "Judicial review of summary NCS secondment termination",
+      "area_of_law": [
+        "Administrative law",
+        "Judicial review",
+        "Police law",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Police Act 1997",
+          "provisions": [
+            "section 48",
+            "section 55(5)"
+          ]
+        },
+        {
+          "title": "Police Act 1996",
+          "provisions": [
+            "section 97"
+          ]
+        },
+        {
+          "title": "Regulation of Investigatory Powers Act 2000",
+          "provisions": [
+            "section 5",
+            "section 17",
+            "section 19"
+          ]
+        }
+      ],
+      "key_facts": [
+        "A Derbyshire detective inspector was seconded to the National Crime Squad under conditions allowing summary termination without notice.",
+        "During Operation Lancelot into drug-related crime, his secondment was terminated immediately because the Deputy Director General lost confidence in his management performance, without disciplinary proceedings.",
+        "The officer was returned to his home force with no reasons given beyond a general reference to professional standards and operational integrity.",
+        "His judicial review claim failed at first instance on fairness, but the amenability of the decision to judicial review remained in issue on appeal."
+      ],
+      "procedural_posture": "Appeal from refusal of judicial review at first instance, with a respondent's notice challenging jurisdiction.",
+      "outcome": "Appeal dismissed; the decision was not amenable to judicial review and there was no breach of fairness.",
+      "ratio": "Termination of a police officer's voluntary NCS secondment for loss of operational confidence is a domestic management decision without a sufficient public law element, even where the NCS is a statutory body. Where sensitive intelligence information is involved, fairness may require no more than honest, unbiased decision-making and limited disclosure rather than full reasons or a hearing.",
+      "legal_issues": [
+        "Amenability to judicial review of summary termination of NCS secondment",
+        "Whether operational police deployment decisions engage public law",
+        "Fairness and disclosure where sensitive intelligence information underpins the decision",
+        "Legitimate expectation and natural justice in secondment termination"
+      ],
+      "catchwords": [
+        "judicial review",
+        "National Crime Squad",
+        "police secondment",
+        "operational decision",
+        "natural justice",
+        "sensitive intelligence",
+        "public law element"
+      ],
+      "index_terms": [
+        "Police Act 1997",
+        "National Crime Squad",
+        "secondment conditions",
+        "Datafin",
+        "Morgan v Chief Constable of South Wales",
+        "ex parte Doody",
+        "ex parte Hosenball"
+      ],
+      "linked_authorities": [
+        "R v Panel on Take-overs and Mergers ex parte Datafin PLC",
+        "R v East Berkshire Health Authority ex parte Walsh",
+        "The Queen on the application of Morgan v Chief Constable of South Wales",
+        "The Queen on the application of O'Leary v The Chief Constable of Merseyside",
+        "R v Secretary of State for the Home Department ex parte Doody",
+        "R v Secretary of State for the Home Department ex parte Hosenball",
+        "R v Secretary of State for the Home Department ex parte Adams",
+        "Condron v United Kingdom"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome, jurisdiction analysis, fairness reasoning, and cited authorities are explicit. Judge metadata in source data appears unreliable and was not corrected."
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/20.json",
+      "tna_uri": "ewca/civ/2003/20",
+      "neutral_citation": "[2003] EWCA Civ 20",
+      "case_name": "North Hertfordshire District Council v Carthy & Anor",
+      "short_title": "Secure tenancy obtained by false housing representation",
+      "area_of_law": [
+        "Housing law",
+        "Landlord and tenant",
+        "Possession proceedings"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1985",
+          "provisions": [
+            "Schedule 2 Ground 5",
+            "section 84(2)(a)"
+          ]
+        },
+        {
+          "title": "Housing Act 1996",
+          "provisions": [
+            "section 175",
+            "section 193(6)",
+            "section 196",
+            "section 214"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Mr and Mrs Carthy obtained temporary and then secure council housing after representing that they had nowhere to live, having returned from the Philippines.",
+        "They failed to tell the council that their house in the Philippines had become habitable after they used sale proceeds to complete building work.",
+        "The council sought possession under Ground 5 for a tenancy induced by a false statement made knowingly or recklessly.",
+        "The recorder found a false representation but held it had not induced the grant of the secure tenancy and did not decide reasonableness."
+      ],
+      "procedural_posture": "Local authority appeal against refusal of a possession order at county court trial.",
+      "outcome": "Appeal allowed; the case was remitted for a fresh trial on whether it was reasonable to make a possession order, with no order for costs.",
+      "ratio": "Where a tenant's continuing failure to correct a material representation about homelessness induces a local authority to grant secure accommodation, Ground 5 may be established. Once the ground is made out, the court must still determine separately whether it is reasonable to make a possession order.",
+      "legal_issues": [
+        "Whether a continuing false representation induced grant of a secure tenancy",
+        "Duty to notify a housing authority of changed circumstances",
+        "Reasonableness under section 84 Housing Act 1985",
+        "Proportionality of eviction under the Human Rights Act 1998"
+      ],
+      "catchwords": [
+        "secure tenancy",
+        "Ground 5",
+        "false statement",
+        "possession order",
+        "homelessness",
+        "reasonableness",
+        "continuing representation"
+      ],
+      "index_terms": [
+        "Housing Act 1985",
+        "Housing Act 1996",
+        "social housing",
+        "Philippines property",
+        "right to buy",
+        "county court possession"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Ground 5 analysis, concession on causation, and remission for reasonableness are clear. Some factual details on remitted issues remain undecided."
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/173.json",
+      "tna_uri": "ewca/civ/2003/173",
+      "neutral_citation": "[2003] EWCA Civ 173",
+      "case_name": "Mellham Ltd. v Collector of Taxes",
+      "short_title": "Advance corporation tax payment and set-off",
+      "area_of_law": [
+        "Tax law",
+        "Corporation tax",
+        "Set-off"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Income and Corporation Taxes Act 1988",
+          "provisions": [
+            "section 14",
+            "Schedule 13 paragraph 3",
+            "section 87",
+            "section 239(1)",
+            "section 246",
+            "section 246N(2)",
+            "section 246Q(2)"
+          ]
+        },
+        {
+          "title": "Taxes Management Act 1970",
+          "provisions": [
+            "section 87",
+            "section 826(1)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mellham made a qualifying foreign distribution but paid no advance corporation tax (ACT) when it fell due.",
+        "Double taxation relief reduced its eventual corporation tax liability, so unpaid ACT would largely have been repaid or set off if actually paid.",
+        "The Revenue claimed interest on unpaid ACT; Mellham argued repayment entitlement meant no interest was payable after corporation tax settlement.",
+        "The dispute turned on whether statutory references to payment or paying could include equitable set-off."
+      ],
+      "procedural_posture": "Appeal from a Mercantile Court decision on construction of ACT and interest provisions.",
+      "outcome": "Appeal dismissed with costs.",
+      "ratio": "In the ACT regime, payment means actual payment and not equitable set-off. Repayment and balancing provisions under section 246N ICTA only operate where ACT has been paid; a contingent right to repayment cannot extinguish an admitted liability to pay ACT or interest under section 87 TMA.",
+      "legal_issues": [
+        "Whether statutory payment includes equitable set-off",
+        "Interaction of ACT, corporation tax, and double taxation relief",
+        "Continued liability for interest on unpaid ACT",
+        "Applicability of Federal Commerce equitable set-off principles to tax statutes"
+      ],
+      "catchwords": [
+        "advance corporation tax",
+        "corporation tax",
+        "set-off",
+        "interest",
+        "statutory construction",
+        "double taxation relief",
+        "foreign income dividend"
+      ],
+      "index_terms": [
+        "ICTA 1988",
+        "Taxes Management Act 1970",
+        "ACT repayment",
+        "section 246N",
+        "Federal Commerce and Navigation",
+        "Hanak v Green"
+      ],
+      "linked_authorities": [
+        "Hanak v Green",
+        "Federal Commerce and Navigation Co Ltd v Molena Alpha",
+        "Gilbert Ash v Modern Engineering",
+        "Aries Tanker Corporation v Total Transport Ltd",
+        "Ralston v South Greta Colliery Co",
+        "Spargo's case, Harmony and Montague Tin and Copper Mining Company"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Statutory construction issue and outcome are clearly reasoned. Rounded figures were used at trial but do not affect the legal ratio."
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1.json",
+      "tna_uri": "ewca/civ/2003/1",
+      "neutral_citation": "[2003] EWCA Civ 1",
+      "case_name": "Roe v Sheffield City Council & Ors",
+      "short_title": "Supertram rail height statutory liability after road accident",
+      "area_of_law": [
+        "Personal injury",
+        "Highways and transport",
+        "Statutory duty",
+        "Tort"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Tramways Act 1870",
+          "provisions": [
+            "section 25",
+            "section 28",
+            "section 55"
+          ]
+        },
+        {
+          "title": "South Yorkshire Light Rail Transit Act 1988",
+          "provisions": [
+            "section 15"
+          ]
+        },
+        {
+          "title": "Highways Act 1980",
+          "provisions": [
+            "section 41"
+          ]
+        }
+      ],
+      "key_facts": [
+        "William Roe lost control of his car on Norton Avenue, Sheffield, collided with a central reservation post, and suffered serious injuries on a wet road beside the Supertram line.",
+        "Evidence suggested the tram rail height relative to the adjacent carriageway may have contributed to loss of control.",
+        "The claimant sued the tram operator and Sheffield City Council in negligence, nuisance, and breach of statutory duty under incorporated Tramways Act provisions.",
+        "Holland J held the operator liable in principle but rejected several statutory claims against the council; the Secretary of State intervened on public transport policy."
+      ],
+      "procedural_posture": "Appeal and cross-appeal from a personal injury trial judgment, with intervention by the Secretary of State.",
+      "outcome": "Appeal allowed in part and cross-appeal allowed by a majority; remission deferred pending possible further appeals.",
+      "ratio": "Private law causes of action arise from sections 25 and 28 of the Tramways Act 1870 as incorporated in the South Yorkshire Light Rail Transit Act 1988, protecting road users against tramway construction and maintenance defects. Section 25 requires rails to be kept level with the adjacent roadway to the extent the statutory language demands, and liability follows breach that causes or materially contributes to an accident.",
+      "legal_issues": [
+        "Whether sections 25 and 28 Tramways Act 1870 create actionable private law duties",
+        "Construction of level rail maintenance obligations",
+        "Highway authority liability under section 41 Highways Act 1980",
+        "Effect of section 15 of the 1988 Act on council responsibility",
+        "Relationship between statutory and common law claims after Sadler"
+      ],
+      "catchwords": [
+        "tramway accident",
+        "Supertram",
+        "section 25 Tramways Act",
+        "breach of statutory duty",
+        "highway maintenance",
+        "personal injury",
+        "light rail"
+      ],
+      "index_terms": [
+        "Tramways Act 1870",
+        "South Yorkshire Light Rail Transit Act 1988",
+        "Sheffield Supertram",
+        "rail height",
+        "Norton Avenue",
+        "Sadler v South Staffordshire Tramways"
+      ],
+      "linked_authorities": [
+        "Sadler v The South Staffordshire and Birmingham District Steam Tramways Company",
+        "X (Minors) v Bedfordshire County Council"
+      ],
+      "confidence": {
+        "score": 0.84,
+        "level": "high",
+        "notes": "Complex multi-issue judgment with split reasoning on some points, but core statutory liability holdings and overall order are explicit. Full remitted issues not finally resolved."
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/crim/2003/1.json",
+      "tna_uri": "ewca/crim/2003/1",
+      "neutral_citation": "[2003] EWCA Crim 1",
+      "case_name": "Howell, R v",
+      "short_title": "Adverse inference from silence on solicitor's advice",
+      "area_of_law": [
+        "Criminal law",
+        "Evidence",
+        "Human rights",
+        "Appeal against conviction"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice and Public Order Act 1994",
+          "provisions": [
+            "section 34",
+            "section 35"
+          ]
+        },
+        {
+          "title": "Criminal Appeal Act 1995",
+          "provisions": [
+            "section 9(1)",
+            "section 14(5)"
+          ]
+        },
+        {
+          "title": "Rehabilitation of Offenders Act 1974",
+          "provisions": []
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": [
+            "Code C paragraph 16.1"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Jeffrey Howell was convicted of wounding with intent after a knife incident with Kevin Johns in shared accommodation.",
+        "He gave a no-comment police interview on solicitor's advice because the complainant's written statement had not been disclosed.",
+        "The trial judge directed the jury they could draw adverse inferences under section 34, while noting no explanation had been given for the solicitor's advice because Mr Owens was not called.",
+        "The Criminal Cases Review Commission referred the case on Article 6 fairness concerns about silence and non-disclosure of the solicitor's advice."
+      ],
+      "procedural_posture": "Appeal against conviction following CCRC reference after earlier refusal of leave to appeal.",
+      "outcome": "Appeal against conviction dismissed.",
+      "ratio": "Reliance on a solicitor's advice to remain silent does not automatically prevent adverse inferences under section 34 where there is no sound objective reason for silence. Fairness requires the jury to consider whether silence could reasonably be explained by genuine reliance on advice, but inadequate reasons such as absent complainant disclosure do not necessarily exclude inference drawing.",
+      "legal_issues": [
+        "Adverse inferences under section 34 CJPOA 1994",
+        "Effect of legal advice to remain silent at interview",
+        "Article 6 ECHR fair trial and Condron principles",
+        "Whether trial judge's summing-up withdrew the solicitor-advice explanation",
+        "Failure to call solicitor or adduce earlier statement"
+      ],
+      "catchwords": [
+        "section 34",
+        "no comment interview",
+        "adverse inference",
+        "legal advice",
+        "silence",
+        "Article 6",
+        "CCRC reference"
+      ],
+      "index_terms": [
+        "Criminal Justice and Public Order Act 1994",
+        "Condron",
+        "Argent",
+        "Betts and Hall",
+        "Beckles v UK",
+        "wounding with intent",
+        "PACE Code C"
+      ],
+      "linked_authorities": [
+        "Condron v United Kingdom",
+        "R v Argent",
+        "Betts and Hall",
+        "Beckles v United Kingdom",
+        "R v Secretary of State for the Home Department ex parte Doody"
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Principal section 34 and fairness issues are fully addressed. Several subsidiary grounds were briefly dismissed."
+      }
+    },
+    {
+      "source_path": "data/judgments/ewhc/admin/2003/64.json",
+      "tna_uri": "ewhc/admin/2003/64",
+      "neutral_citation": "[2003] EWHC 64",
+      "case_name": "The Department of Works and Pensions v Barton-Harvey",
+      "short_title": "Benefits prosecution dismissed for want of prosecutor",
+      "area_of_law": [
+        "Administrative law",
+        "Criminal procedure",
+        "Social security",
+        "Case stated"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Sarah Jane Barton-Harvey faced magistrates' court proceedings for false representations to obtain benefits in December 1999 and January 2000.",
+        "The case was repeatedly adjourned over many months because of non-appearance, missing papers, and the defendant's pregnancy.",
+        "On 13 November 2001 she was arrested on a warrant and brought before Chippenham magistrates, but no prosecutor attended from the Cardiff-based DWP prosecution unit.",
+        "The magistrates dismissed the information for want of prosecution, citing her time in custody, repayment by benefit deduction, and unfair delay."
+      ],
+      "procedural_posture": "High Court appeal by case stated from magistrates' dismissal of an information for want of prosecution.",
+      "outcome": "Appeal allowed; answer to the stated case was that the justices were not right to dismiss the information.",
+      "ratio": "Where a defendant appears before magistrates after arrest on a warrant and the prosecution is unavailable, the proper course is normally to release the defendant on bail and adjourn for the prosecutor to attend, not to dismiss the charge for want of prosecution, especially where benefit overpayments were being repaid.",
+      "legal_issues": [
+        "Whether magistrates may dismiss for want of prosecution when the prosecutor is absent after arrest",
+        "Fairness to an unrepresented defendant in custody",
+        "Appropriate adjournment versus termination of proceedings"
+      ],
+      "catchwords": [
+        "case stated",
+        "want of prosecution",
+        "magistrates court",
+        "benefit fraud",
+        "adjournment",
+        "bail",
+        "DWP prosecution"
+      ],
+      "index_terms": [
+        "Department for Work and Pensions",
+        "false representation",
+        "social security benefits",
+        "Chippenham magistrates",
+        "warrant arrest"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.87,
+        "level": "high",
+        "notes": "Short procedural judgment with clear outcome and reasoning. Specific benefit offence provisions are referenced factually but not analysed in detail."
+      }
+    },
+    {
+      "source_path": "data/judgments/ewhc/comm/2003/3.json",
+      "tna_uri": "ewhc/comm/2003/3",
+      "neutral_citation": "[2003] EWHC 3",
+      "case_name": "General Star International Indemnity Ltd. v Stirling Cooke Brown Reinsurance Brokers Ltd & Anor",
+      "short_title": "Forum dispute over film finance broker negligence claim",
+      "area_of_law": [
+        "Conflict of laws",
+        "Insurance and reinsurance",
+        "Civil procedure",
+        "Negligence"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Genstar issued English proceedings against London brokers SCB and solicitors Richards Butler for negligence and breach of duty in the Litto film finance reinsurance placement.",
+        "SCB responded by commencing proceedings in New York seeking declarations and an anti-suit injunction to stop the English claim.",
+        "Related New York litigation between Axa and SCB had already been tried before Justice Gammerman, but Genstar was not a party.",
+        "All parties were English, the placement occurred in London, and English law governed the alleged duties."
+      ],
+      "procedural_posture": "Application for anti-suit injunction and declaration that England is the appropriate forum, following SCB's New York complaint and an interim stay application.",
+      "outcome": "England declared the natural forum; anti-suit injunction granted restraining further pursuit of the New York complaint.",
+      "ratio": "Where English parties, English law, and acts in England are central, this court should decide forum issues rather than defer to parallel foreign proceedings begun after valid English service. Pursuing New York proceedings to restrain an English claim in its natural forum is vexatious and oppressive.",
+      "legal_issues": [
+        "Forum non conveniens and appropriate forum for broker negligence claim",
+        "Whether New York familiarity from prior Axa litigation displaces English jurisdiction",
+        "Anti-suit injunction where parallel proceedings are oppressive",
+        "Issue estoppel and collateral estoppel under English and New York law"
+      ],
+      "catchwords": [
+        "forum non conveniens",
+        "anti-suit injunction",
+        "reinsurance brokers",
+        "film finance",
+        "jurisdiction",
+        "English law",
+        "parallel proceedings"
+      ],
+      "index_terms": [
+        "Litto film slate",
+        "Stirling Cooke Brown",
+        "General Star International",
+        "Richards Butler",
+        "Spiliada",
+        "Airbus Industrie v Patel",
+        "Chase Manhattan Bank"
+      ],
+      "linked_authorities": [
+        "Spiliada Maritime Corporation v Cansulex Ltd",
+        "Airbus Industrie v Patel"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Jurisdiction reasoning and order are explicit. Underlying merits of the negligence claim were not decided."
+      }
+    },
+    {
+      "source_path": "data/judgments/ewhc/comm/2003/16.json",
+      "tna_uri": "ewhc/comm/2003/16",
+      "neutral_citation": "[2003] EWHC 16",
+      "case_name": "Nippon Yusen Kubishiki Kaisha v Golden Strait Corporation",
+      "short_title": "Charter-back option not early redelivery right",
+      "area_of_law": [
+        "Shipping and maritime law",
+        "Contract construction",
+        "Arbitration"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "NYK chartered the MT Golden Victory from Golden Strait Corporation for seven years from delivery in January 1999.",
+        "A memorandum of agreement gave options after three and five years to charter the vessel back to GOL, the owners' parent company, on a back-to-back basis.",
+        "After corporate restructuring, NYK sought to redeliver the vessel early in December 2001 relying on the charter-back option as a termination right.",
+        "The sole arbitrator held the option was to sub-charter to GOL, not to end the time charter by redelivery; owners treated redelivery as repudiatory."
+      ],
+      "procedural_posture": "Appeal on questions of law from an interim declaratory arbitration award under charterparty clause 41.",
+      "outcome": "Appeal dismissed; the arbitrator's construction was upheld.",
+      "ratio": "On its proper construction, a charter-back option in the MOA allowed the charterers to transfer ongoing charter obligations to GOL on identical terms after three or five years, bridging the parties' differing commercial needs. It was not an option to redeliver the vessel and terminate the seven-year charter early.",
+      "legal_issues": [
+        "Construction of charter-back option in MOA and Shelltime 4 charterparty",
+        "Whether option permitted early redelivery or only back-to-back sub-charter to GOL",
+        "Admissibility and weight of fixture memorandum in contractual interpretation",
+        "Effect of corporate changes to GOL on option exercise"
+      ],
+      "catchwords": [
+        "time charter",
+        "charter-back option",
+        "contract construction",
+        "redelivery",
+        "VLCC",
+        "arbitration appeal",
+        "Shelltime 4"
+      ],
+      "index_terms": [
+        "MT Golden Victory",
+        "Golden Ocean Group",
+        "NYK",
+        "memorandum of agreement",
+        "time charter",
+        "back-to-back charter",
+        "maritime arbitration"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Construction issue and factual matrix are clearly set out in the arbitrator's findings adopted by the court."
+      }
+    },
+    {
+      "source_path": "data/judgments/ewhc/admin/2003/235.json",
+      "tna_uri": "ewhc/admin/2003/235",
+      "neutral_citation": "[2003] EWHC 235",
+      "case_name": "Regester & Ors, R (on the application of) v Children and Family Court Advisory and Support Service",
+      "short_title": "CAFCASS immediate children's guardian availability duty",
+      "area_of_law": [
+        "Children law",
+        "Administrative law",
+        "Judicial review",
+        "Family procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 1",
+            "section 31",
+            "section 33",
+            "section 38",
+            "section 41",
+            "section 42",
+            "section 44",
+            "section 45",
+            "Part IV",
+            "Part V"
+          ]
+        },
+        {
+          "title": "Criminal Justice and Court Services Act 2000",
+          "provisions": [
+            "section 11",
+            "section 12",
+            "section 13",
+            "section 15(1)",
+            "Schedule 2"
+          ]
+        },
+        {
+          "title": "Matrimonial and Family Proceedings Act 1984",
+          "provisions": []
+        },
+        {
+          "title": "Adoption and Children Act 2002",
+          "provisions": [
+            "section 122(1)(b)"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Conjoined judicial review claims arose from care proceedings where children were removed under emergency protection or interim care orders before a CAFCASS officer was available for appointment as children's guardian.",
+        "Children's solicitors did not oppose the interim orders and, in one case, opposed discharge before a guardian was appointed.",
+        "Applicants argued CAFCASS was under an absolute duty to make a guardian available immediately or forthwith on any court request in specified proceedings.",
+        "CAFCASS accepted it should make guardians available as soon as possible subject to resources, but denied an immediate statutory duty."
+      ],
+      "procedural_posture": "Conjoined judicial review applications on statutory construction, with Human Rights Act damages claim deferred.",
+      "outcome": "Applications dismissed; leave to appeal refused.",
+      "ratio": "Section 12(2) of the Criminal Justice and Court Services Act 2000 requires CAFCASS to make provision for performance of guardians' functions but does not impose a duty to make an officer available immediately or forthwith on request. Rule 4.10 FPR 1991 appointment as soon as practicable includes practical availability constraints, and gaps before appointment do not of themselves render interim orders unlawful.",
+      "legal_issues": [
+        "Whether CAFCASS must make a children's guardian available immediately on court request",
+        "Construction of section 12(2) CJCSA 2000 and section 41 Children Act 1989",
+        "Meaning of as soon as practicable in FPR 4.10",
+        "Role of children's guardian at EPO and ICO hearings",
+        "Deferred Human Rights Act damages claim"
+      ],
+      "catchwords": [
+        "CAFCASS",
+        "children's guardian",
+        "specified proceedings",
+        "interim care order",
+        "emergency protection order",
+        "no delay principle",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Children Act 1989",
+        "Criminal Justice and Court Services Act 2000",
+        "FPR 4.10",
+        "family proceedings",
+        "guardian appointment",
+        "Re S, Re W",
+        "interim removal"
+      ],
+      "linked_authorities": [
+        "Re S, Re W",
+        "Re H and Others (Minors: Sexual Abuse: Standard of Proof)",
+        "R v Cornwall County Council ex parte G",
+        "R (oao NAGALOR) v CAFCASS",
+        "Re C and B (Care Order: Future Harm)",
+        "P, C and S v United Kingdom",
+        "R v Secretary of State for Social Services ex parte Child Poverty Action Group"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Issue was deliberately limited to statutory construction on timing; damages and Convention arguments were excluded or deferred. Long judgment but central holding is clear."
+      }
+    },
+    {
+      "source_path": "data/judgments/ewhc/admin/2003/8.json",
+      "tna_uri": "ewhc/admin/2003/8",
+      "neutral_citation": "[2003] EWHC 8",
+      "case_name": "Gillespie v Secretary of State & Anor",
+      "short_title": "EIA required before contaminated gasworks redevelopment",
+      "area_of_law": [
+        "Planning law",
+        "Environmental law",
+        "Administrative law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288"
+          ]
+        },
+        {
+          "title": "Town and Country Planning (Assessment of Environmental Effects) Regulations 1988",
+          "provisions": [
+            "regulation 2(1)",
+            "regulation 4",
+            "regulation 5",
+            "Schedule 2 paragraph 10(b)",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Council Directive 85/337/EEC",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "The Secretary of State granted planning permission for housing and community uses on a heavily contaminated former Stepney gasworks site.",
+        "The inspector recommended refusal, but the Secretary of State allowed Bellway's appeal and imposed conditions requiring further site investigation and a detailed remediation scheme.",
+        "Save Stepney Campaign argued an environmental impact assessment was required because unmitigated development would have significant environmental effects from contamination.",
+        "Detailed remediation proposals existed in outline, but full investigation was impossible until existing gas holders were removed."
+      ],
+      "procedural_posture": "Section 288 challenge to recovered planning appeal decision after public inquiry.",
+      "outcome": "Planning permission quashed on the EIA ground; reasons challenge failed.",
+      "ratio": "When deciding whether a Schedule 2 urban development project requires an EIA, the decision-maker must assess likely significant environmental effects without taking proposed remediation measures into account. Where uncontaminated development would clearly have significant effects, an EIA is required and mitigation cannot be relied on at the screening stage to avoid it.",
+      "legal_issues": [
+        "Whether EIA was required for contaminated gasworks redevelopment",
+        "Whether remediation measures could be considered at EIA screening stage",
+        "Lawfulness of deciding no significant effects while imposing conditions for further contamination assessment",
+        "Duty to give reasons for deciding an EIA is not required"
+      ],
+      "catchwords": [
+        "environmental impact assessment",
+        "contaminated land",
+        "planning permission",
+        "Schedule 2 development",
+        "remediation",
+        "gasworks",
+        "screening"
+      ],
+      "index_terms": [
+        "Town and Country Planning Act 1990",
+        "EIA Regulations 1988",
+        "PPG23",
+        "Stepney gasworks",
+        "Bellway Urban Renewal",
+        "Berkeley",
+        "British Telecommunications v Gloucester",
+        "Lebus v South Cambridgeshire"
+      ],
+      "linked_authorities": [
+        "Berkeley v Secretary of State for the Environment",
+        "R v Rochdale Metropolitan Borough Council ex parte Tew",
+        "R v Rochdale Metropolitan Borough Council ex parte Milne",
+        "British Telecommunications Plc v Gloucester City Council",
+        "R (on the application of Lebus) v South Cambridgeshire District Council",
+        "R v Cornwall County Council ex parte Hardy",
+        "R v Secretary of State for the Environment, Transport and the Regions ex parte Marson",
+        "Kraaijveld BV v Gedeputeerde Staten van Zuid-Holland",
+        "World Wildlife Fund (WWF) v Autonome Provinz Bozen"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "EIA screening ratio follows established post-Berkeley/Lebus approach and is clearly articulated. Reasons ground was rejected but does not affect enrichment quality."
+      }
+    }
+  ]
+}

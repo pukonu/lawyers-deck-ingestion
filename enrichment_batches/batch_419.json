@@ -1,0 +1,605 @@
+[
+  {
+    "source_path": "data/judgments/ewca/crim/2005/112.json",
+    "status": "done",
+    "notes": "Compensation order appeal; Beatson J set aside order requiring sale of shared family home.",
+    "enrichment": {
+      "short_title": "Ranjitkumar: compensation order set aside where family home would be sold",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Compensation orders",
+        "Confiscation"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The appellant, a Halifax Building Society cashier, pleaded guilty to conspiracy to defraud and false accounting after cloning customer card details and processing a fraudulent £14,500 cheque.",
+        "Forty-five accounts were cloned causing HBOS a loss of £73,853.81; the appellant's agreed benefit was £14,600.",
+        "The sentencing judge imposed a confiscation order of £14,600 and a compensation order of £73,853.81, largely to be satisfied from equity in the shared family home at Chase Lane.",
+        "The appellant's stepmother was joint proprietor of Chase Lane and sale would have risked making occupying family members homeless."
+      ],
+      "procedural_posture": "Appeal against sentence confined to the compensation order, by leave of the single judge.",
+      "outcome": "Appeal allowed; the compensation order of £73,853.81 was set aside.",
+      "ratio": "A compensation order is a summary means of making good loss, not punishment; it is inappropriate where satisfaction would require sale of a shared family home and leave occupants homeless, and punitive or irrelevant considerations about family ostracism cannot justify such an order.",
+      "legal_issues": [
+        "Whether a compensation order requiring sale of the family home was permissible",
+        "Whether the order failed to account for the stepmother's beneficial interest",
+        "Whether the judge improperly treated the order as partly punitive"
+      ],
+      "catchwords": [
+        "compensation order",
+        "confiscation",
+        "family home",
+        "card fraud",
+        "false accounting",
+        "homelessness"
+      ],
+      "index_terms": [
+        "Halifax Building Society",
+        "card cloning",
+        "realisable property",
+        "Chase Lane Barkingside",
+        "breach of trust",
+        "HBOS"
+      ],
+      "linked_authorities": [
+        "R v Jorge [1999] 2 Cr App R (S) 1",
+        "R v Hackett (1988) 10 Cr App R (S) 388",
+        "R v Butt (1986) 8 Cr App R (S) 216",
+        "R v Blackmore (1984) 6 Cr App R (S) 284",
+        "R v McGuire (1992) 13 Cr App R (S) 1"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Limited appeal point, clear authorities and explicit setting aside of the compensation order."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/1.json",
+    "status": "done",
+    "notes": "Post-Montila money laundering conspiracy appeal; conviction held unsafe where proceeds of crime not proved.",
+    "enrichment": {
+      "short_title": "Harmer: unsafe conspiracy conviction where illicit origin of money not proved",
+      "area_of_law": [
+        "Criminal law",
+        "Money laundering",
+        "Conspiracy",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 1988",
+          "provisions": [
+            "section 93A",
+            "section 93C"
+          ]
+        },
+        {
+          "title": "Drug Trafficking Act 1994",
+          "provisions": [
+            "section 49",
+            "section 50"
+          ]
+        },
+        {
+          "title": "Criminal Law Act 1977",
+          "provisions": [
+            "section 1(1)",
+            "section 1(2)"
+          ]
+        },
+        {
+          "title": "Proceeds of Crime Act 2002",
+          "provisions": [
+            "Part 7"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Roy Peter Harmer and Paul Andrew Hadley were convicted after a 15-day trial of conspiracy to convert currency they had reasonable grounds to suspect represented another person's proceeds of criminal conduct or drug trafficking.",
+        "Counts 1 and 3 were withdrawn because the prosecution conceded it could not prove the money was proceeds of crime or of a particular person's criminal conduct.",
+        "The jury were not directed that proof the money was illicit was a requirement of the substantive offence underlying the conspiracy charge.",
+        "Following the House of Lords decision in R v Montila, the appellant appealed on the basis the conviction was inconsistent with the need to prove criminal property."
+      ],
+      "procedural_posture": "Appeal against conviction by leave of the single judge, with an additional ground added after Montila.",
+      "outcome": "Appeal allowed; the jury's verdict was held unsafe and the conviction quashed.",
+      "ratio": "Where a conspiracy charge depends on an underlying money laundering offence requiring property to represent another person's proceeds of crime, the prosecution must prove that element; reasonable grounds to suspect are insufficient if the Crown cannot establish the money was in fact illicit, and section 1(2) of the Criminal Law Act 1977 is not satisfied without the requisite intention or knowledge.",
+      "legal_issues": [
+        "Whether Montila requires proof that property was criminal property for a conspiracy conviction",
+        "Application of section 1(2) of the Criminal Law Act 1977 to money laundering conspiracies",
+        "Whether an attempt verdict could be substituted under the Criminal Appeal Act 1968",
+        "Interaction of sections 93C CJA 1988 and section 49 DTA 1994"
+      ],
+      "catchwords": [
+        "money laundering",
+        "conspiracy",
+        "criminal property",
+        "reasonable suspicion",
+        "Montila",
+        "unsafe conviction"
+      ],
+      "index_terms": [
+        "Hadley",
+        "Middlesex Guildhall",
+        "confiscation order",
+        "drug trafficking proceeds",
+        "section 93C",
+        "El Kurd"
+      ],
+      "linked_authorities": [
+        "R v Montila [2004] UKHL 50",
+        "R v Singh [2003] EWCA Crim 3712",
+        "R v El Kurd"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Detailed post-Montila analysis and explicit allowance of the appeal are clearly recorded."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/ch/2005/13.json",
+    "status": "done",
+    "notes": "Major SPAM/SPAMBUSTER trade mark trial; both invalidity and revocation claims dismissed.",
+    "enrichment": {
+      "short_title": "Hormel v Antilles: SPAM and SPAMBUSTER trade mark invalidity battle",
+      "area_of_law": [
+        "Intellectual property",
+        "Trade marks",
+        "Internet law",
+        "Commercial law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Trade Marks Act 1994",
+          "provisions": [
+            "section 3",
+            "section 46",
+            "section 47",
+            "section 72",
+            "section 100"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Hormel Foods manufactures canned luncheon meat sold under the SPAM trade mark registered since 1938.",
+        "Antilles Landscape Investments, through former subsidiary Cablenet/Themail, registered SPAMBUSTER for anti-spam email services in 1997.",
+        "Hormel sought invalidity or revocation of SPAMBUSTER; Antilles counterclaimed to invalidate Hormel's SPAM registration as generic or descriptive.",
+        "The dispute turned on whether SPAM had become generic, whether SPAMBUSTER was descriptive of anti-spam services, and abuse of process issues from prior proceedings."
+      ],
+      "procedural_posture": "Chancery Division trial of cross-claims for trade mark invalidity and revocation.",
+      "outcome": "Hormel's claims were dismissed and Antilles' counterclaim was also dismissed; both marks remained valid on the Register.",
+      "ratio": "SPAM had not become the common name for canned meat despite some loose descriptive use; SPAMBUSTER was not shown to be invalidly registered or revoked for non-use or genericism, and dictionary evidence did not establish that SPAM had lost distinctiveness as Hormel's proprietary mark.",
+      "legal_issues": [
+        "Whether SPAM had become generic for canned luncheon meat under section 46",
+        "Whether SPAMBUSTER was descriptive or devoid of distinctive character under section 3",
+        "Distinction between invalidity at registration and subsequent revocation",
+        "Whether prior proceedings created issue estoppel or Henderson abuse of process"
+      ],
+      "catchwords": [
+        "trade mark",
+        "SPAM",
+        "SPAMBUSTER",
+        "genericism",
+        "invalidity",
+        "anti-spam software"
+      ],
+      "index_terms": [
+        "Hormel Foods",
+        "Cablenet",
+        "Themail Ltd",
+        "internet service provider",
+        "Class 29 canned meats",
+        "Class 42 computer programming"
+      ],
+      "linked_authorities": [
+        "Johnson v Gore Wood & Co [2002] 2 AC 1",
+        "Henderson v Henderson (1843) 3 Hare 100"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Final result and principal trade mark reasoning are explicit though the judgment is lengthy and procedural history was complex."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/crim/2005/173.json",
+    "status": "done",
+    "notes": "Schedule 21 minimum term appeal; 23-year tariff reduced to about 18 years after pub shooting.",
+    "enrichment": {
+      "short_title": "R v O'Brien: minimum term reduced after retaliatory pub shotgun killing",
+      "area_of_law": [
+        "Criminal law",
+        "Sentencing",
+        "Murder",
+        "Firearms"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Criminal Justice Act 2003",
+          "provisions": [
+            "Schedule 21"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Michael O'Brien, aged 22, was convicted of murder and making a threat to kill after a feud involving the Gunn family in Nottingham.",
+        "After being struck with an ashtray at The Sporting Chance pub, he armed himself with a shotgun, returned and shot driver Marvyn Bradshaw in the head from close range, causing his death.",
+        "The judge imposed life imprisonment with a minimum term of 23 years 1 month and 23 days under Schedule 21.",
+        "O'Brien had previous convictions including two robberies but no prior firearms or serious violence offences."
+      ],
+      "procedural_posture": "Appeal against the minimum term specified under Schedule 21 of the Criminal Justice Act 2003, by leave of the single judge.",
+      "outcome": "Appeal allowed in part; the minimum term was reduced to 17 years 1 month and 28 days after deducting time on remand.",
+      "ratio": "A calculated retaliatory shooting with a firearm after arming oneself and announcing an intention to kill warrants a 15/16-year starting point rather than 12 years, but a 23-year minimum term was manifestly excessive where the offence was not 'especially grave' under paragraph IV 49.33; an 18-year term before remand credit was appropriate.",
+      "legal_issues": [
+        "Correct Schedule 21 starting point for a retaliatory pub shooting",
+        "Whether the offence fell within the 'especially grave' 20-year category",
+        "Application of Sullivan transitional principles to pre-commencement offences",
+        "Weight of age, premeditation and prior record in fixing the minimum term"
+      ],
+      "catchwords": [
+        "minimum term",
+        "Schedule 21",
+        "murder",
+        "shotgun",
+        "retaliatory killing",
+        "starting point"
+      ],
+      "index_terms": [
+        "Gunn family",
+        "Nottingham",
+        "Sporting Chance",
+        "Marvyn Bradshaw",
+        "practice direction",
+        "Sullivan"
+      ],
+      "linked_authorities": [
+        "R v Sullivan [2004] EWCA Crim 1762",
+        "R v Anderson [2002] UKHL 46"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Facts, starting point analysis and precise substituted minimum term are clearly stated."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/205.json",
+    "status": "done",
+    "notes": "Procedural dismissal of litigant-in-person property appeal for non-attendance and delay.",
+    "enrichment": {
+      "short_title": "Cook v Bates: property appeal dismissed for non-attendance and delay",
+      "area_of_law": [
+        "Civil procedure",
+        "Property law",
+        "Appeals"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Mr Bates, a litigant in person confined to a wheelchair, appealed against a county court property judgment affecting Miss Cook's ability to sell her land.",
+        "The appeal was listed by video link from Middlesbrough after Mr Bates said he could not attend London; he then emailed requesting adjournment but did not attend.",
+        "Mr Bates had previously been debarred for failing to file a defence, applied 67 days late for permission to appeal, and relied on witness statements disputed by the witnesses themselves.",
+        "Miss Cook had been unable to sell her property for 11 months because of the pending appeal."
+      ],
+      "procedural_posture": "Listed appeal hearing by video conference after permission granted in exceptional circumstances by Jonathan Parker LJ.",
+      "outcome": "Appeal dismissed for non-attendance and unwarranted delay; Mr Bates ordered to pay costs summarily assessed.",
+      "ratio": "Where a litigant in person repeatedly delays proceedings, fails to attend a hearing arranged for his convenience, and seeks further adjournment without adequate justification, the court may dismiss the appeal to prevent serious prejudice to the respondent despite prior exceptional permission to appeal.",
+      "legal_issues": [
+        "Whether adjournment was justified for lack of pro bono representation or a scale plan",
+        "Admissibility of disputed witness statements on appeal",
+        "Whether further delay should be permitted after extensive prior litigation delay",
+        "Appropriate case management where a litigant in person defaults on a video hearing"
+      ],
+      "catchwords": [
+        "litigant in person",
+        "appeal dismissed",
+        "non-attendance",
+        "delay",
+        "video hearing",
+        "property dispute"
+      ],
+      "index_terms": [
+        "Middlesbrough County Court",
+        "Citizens Advice Bureau",
+        "Jonathan Parker LJ",
+        "witness statements",
+        "scale plan",
+        "summarily assessed costs"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Procedural disposition is clear though the underlying property merits were not re-decided on this occasion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2005/149.json",
+    "status": "done",
+    "notes": "Green belt gypsy site planning challenge dismissed; inspector's very special circumstances balancing upheld.",
+    "enrichment": {
+      "short_title": "Evans: gypsy green belt site challenge dismissed on balancing exercise",
+      "area_of_law": [
+        "Planning law",
+        "Administrative law",
+        "Human rights",
+        "Gypsy and traveller law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": [
+            "section 288"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mr Evans challenged an inspector's dismissal of his appeal against refusal of planning permission for a private gypsy caravan site with structures in Wigan green belt.",
+        "The inspector found significant harm to green belt openness and visual amenity, but had to weigh Article 8 rights and gypsy accommodation needs.",
+        "The claimant relied on personal circumstances including a child's special educational needs, family health needs and horse welfare.",
+        "The challenge focused on the inspector's assessment of alternative authorised gypsy accommodation, including possible availability at the Little Lane site."
+      ],
+      "procedural_posture": "High Court judicial review under section 288 of the 1990 Act of a planning inspector's appeal decision.",
+      "outcome": "Claim dismissed; the inspector's very special circumstances balancing exercise was not irrational or unlawful.",
+      "ratio": "Gypsy applicants are entitled to have alternative accommodation assessed by reference to authorised pitches rather than conventional housing, but an inspector's conclusion that alternative accommodation possibilities existed and that dismissal would not necessarily lead to roadside encampment was a permissible factual evaluation within a holistic green belt balancing exercise.",
+      "legal_issues": [
+        "Whether the inspector misinterpreted evidence on availability of alternative gypsy pitches",
+        "Proper weight to be given to Article 8 and gypsy accommodation needs in green belt cases",
+        "Whether very special circumstances existed to outweigh green belt harm",
+        "Lawfulness of treating Little Lane relocation as a possible alternative"
+      ],
+      "catchwords": [
+        "green belt",
+        "gypsy site",
+        "planning permission",
+        "very special circumstances",
+        "Article 8",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Wigan Metropolitan Borough Council",
+        "Douglas Valley",
+        "Little Lane",
+        "private caravan site",
+        "special educational needs",
+        "roadside encampment"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Inspector's reasoning and the limited scope of the challenge are clearly analysed, though many gypsy planning authorities are cited generally."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/55.json",
+    "status": "done",
+    "notes": "Occupiers' liability trip claim upheld on appeal; upstand at hotel exit found hazardous.",
+    "enrichment": {
+      "short_title": "Brioland v Searson: hotel upstand trip hazard and occupiers' liability",
+      "area_of_law": [
+        "Personal injury",
+        "Occupiers' liability",
+        "Negligence",
+        "Hotels and hospitality"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Occupiers' Liability Act 1957",
+          "provisions": [
+            "section 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Mrs Searson, aged 82, tripped on a 2.8cm floor upstand when leaving a hotel conference centre entrance en route to the car park during her granddaughter's wedding.",
+        "She accepted the upstand was visible if looked for but did not expect a sill or step hazard when exiting the premises.",
+        "The defendants argued she should have looked where she was going and relied partly on joint expert evidence about building regulations compliance.",
+        "HHJ Collins found the premises were not reasonably safe and judgment was entered for Mrs Searson."
+      ],
+      "procedural_posture": "Appeal from Central London County Court after a short trial on occupiers' liability.",
+      "outcome": "Appeal dismissed; the judge's finding that the upstand and step down were a hazard without warning was upheld.",
+      "ratio": "Whether premises are reasonably safe under section 2 of the Occupiers' Liability Act 1957 is largely a question of fact for the trial judge; an unexpected upstand at a principal guest exit followed by a step down may render premises unsafe without clear warning, and broad expert evidence on building regulations does not displace that judgment.",
+      "legal_issues": [
+        "Whether the judge erred in finding the hotel exit was not reasonably safe",
+        "Admissibility and weight of joint expert evidence on causation and building regulations",
+        "Expectation of hazards when exiting rather than entering premises",
+        "Scope for appellate interference with a county court occupiers' liability finding"
+      ],
+      "catchwords": [
+        "occupiers' liability",
+        "trip hazard",
+        "hotel premises",
+        "upstand",
+        "reasonable safety",
+        "elderly claimant"
+      ],
+      "index_terms": [
+        "Mrs Searson",
+        "conference centre entrance",
+        "Building Regulations 1985",
+        "Approved Document M",
+        "Mr Walsh expert",
+        "Central London County Court"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Simple fact-sensitive appeal with clear appellate reasoning endorsing the judge's conclusion."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/170.json",
+    "status": "done",
+    "notes": "International child relocation appeal; permission granted in principle with consequential issues remitted.",
+    "enrichment": {
+      "short_title": "SG v CG: permission to relocate children to Argentina remitted for detail",
+      "area_of_law": [
+        "Family law",
+        "Child abduction and relocation",
+        "Private international law",
+        "Contact orders"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Veronica Gurney, an Argentinian-born mother, sought permanent removal of twin daughters aged five to Argentina after separation from the English father.",
+        "The father had obtained contact orders and earlier sought prohibited steps orders fearing removal; contact developed slowly from 2002.",
+        "HHJ Ibbotson refused relocation, finding the mother's motivation partly included controlling contact, but granted extension to appeal.",
+        "The mother proposed to forego periodical payments to fund travel and had strong family support in Argentina."
+      ],
+      "procedural_posture": "Appeal with permission to follow from Harrogate County Court refusal of leave to remove the children from the jurisdiction.",
+      "outcome": "Permission granted; appeal allowed in principle and relocation permitted subject to remittal of all consequential contact, schooling, funding and mirror-order issues to Harrogate unless agreed.",
+      "ratio": "A genuine relocation application by a primary carer with roots abroad should not be refused merely because contact history has been difficult; once relocation in principle is justified, detailed safeguards for contact, education funding and enforcement must be resolved before departure.",
+      "legal_issues": [
+        "Whether the judge wrongly attributed controlling motives to the mother",
+        "Proper approach to international relocation of young children after marital breakdown",
+        "What contact and funding arrangements must be fixed before removal",
+        "Whether retrial of the primary relocation issue was warranted"
+      ],
+      "catchwords": [
+        "leave to remove",
+        "international relocation",
+        "contact order",
+        "twins",
+        "Argentina",
+        "prohibited steps order"
+      ],
+      "index_terms": [
+        "Veronica Gurney",
+        "Harrogate County Court",
+        "Judge Ibbotson",
+        "periodical payments",
+        "Buenos Aires mirror order",
+        "primary carer"
+      ],
+      "linked_authorities": [
+        "Payne v Payne [2001] EWCA Civ 166"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Appellate disposition and remittal directions are explicit though many contact details remain for the county court."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/17.json",
+    "status": "done",
+    "notes": "Baltime charter appeal; charterers liable for chief officer injury caused by negligent stevedores during hatch work.",
+    "enrichment": {
+      "short_title": "Flintermar v Sea Malta: charterers liable for stevedore injury during hatch closing",
+      "area_of_law": [
+        "Shipping law",
+        "Admiralty and shipping",
+        "Charterparty",
+        "Personal injury",
+        "Contract law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Dutch owners Flintermar chartered the multipurpose vessel Flintermar to Sea Malta under a Baltime 1939 time charter.",
+        "Chief officer Mr T'Lam was injured at Gioia Tauro while closing hatch pontoons during container loading and discharging operations.",
+        "The effective cause was negligence of the charterers' stevedores in the overall cargo operation, not the master's system of work.",
+        "The owners settled the chief officer's Dutch law claim and sought indemnity or damages from the charterers."
+      ],
+      "procedural_posture": "Appeal from a High Court judgment on allocation of responsibility for a chief officer's injury under time charter clauses.",
+      "outcome": "Appeal allowed; judgment entered for the owners for €220,924.46 plus €26,284.58 costs of defending the claim, with interest and costs orders against the charterers.",
+      "ratio": "Where charterers' stevedores are negligent in loading and discharging operations within their sphere under the Baltime charter, the charterers are liable in contract for injury to the chief officer caused by that negligence during hatch closing, even if hatch operations straddle owners' and charterers' responsibilities; the stevedores' negligence was the effective cause.",
+      "legal_issues": [
+        "Whether hatch closing fell within owners' or charterers' operational responsibilities under clauses 4, 13 and 48",
+        "Causation where the master used a system later criticised but stevedore negligence was the effective cause",
+        "Charterers' indemnity obligations for stevedore negligence",
+        "Relevance of The Azuero on allocation of hatch operation risk"
+      ],
+      "catchwords": [
+        "time charter",
+        "Baltime 1939",
+        "stevedore negligence",
+        "hatch cover",
+        "chief officer injury",
+        "indemnity"
+      ],
+      "index_terms": [
+        "Flintermar",
+        "Sea Malta",
+        "Gioia Tauro",
+        "Mr T'Lam",
+        "container feeder service",
+        "pontoon hatch"
+      ],
+      "linked_authorities": [
+        "The Azuero [1957] P 125",
+        "E E Caledonia Ltd v Orbit Valve Co Europe [1993] 2 Lloyd's Rep 418"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Detailed charterparty analysis with explicit quantum and final orders in favour of the owners."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2005/87.json",
+    "status": "done",
+    "notes": "Compulsory purchase VAT permission appeal on equivalent reinstatement compensation; Carnwath LJ granted permission.",
+    "enrichment": {
+      "short_title": "Scouts v SoS: VAT and equivalent reinstatement compensation permission granted",
+      "area_of_law": [
+        "Compulsory purchase",
+        "Compensation",
+        "Tax law",
+        "VAT",
+        "Property law"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "The Scout Association claimed compensation on an equivalent reinstatement basis after compulsory acquisition of Buckmore Park premises.",
+        "A separate VAT-registered company had been set up on Customs advice but Customs later said that treatment was mistaken, while giving assurances they would not recover wrongly repaid VAT.",
+        "The Lands Tribunal judge included VAT in the reinstatement sum; the acquiring authority challenged whether VAT should be deducted given future tax risk.",
+        "Customs' August 2004 letter said they would not re-examine input tax claimed, but the authority argued Capital Goods Scheme risks remained."
+      ],
+      "procedural_posture": "Application for permission to appeal a Lands Tribunal decision on equivalent reinstatement compensation and VAT accounting.",
+      "outcome": "Permission to appeal granted for a one-day hearing before a court including Chancery or tax expertise, though Carnwath LJ indicated the appeal would likely fail.",
+      "ratio": "Whether equivalent reinstatement compensation should include or exclude VAT turns on the reasonable cost of reinstatement as a compensation question of fact; Customs assurances and the Sheldon doctrine may support inclusion, but unresolved VAT risk in an unusual case can justify granting permission even where the challenge may not succeed.",
+      "legal_issues": [
+        "Whether VAT should be included in equivalent reinstatement compensation",
+        "Effect of Customs assurances and the Sheldon doctrine on compensation quantum",
+        "Application of Stoke-on-Trent v Wood Mitchell to VAT in compulsory purchase",
+        "Risk of future Customs recovery under the Capital Goods Scheme"
+      ],
+      "catchwords": [
+        "equivalent reinstatement",
+        "compulsory purchase",
+        "VAT",
+        "compensation",
+        "Sheldon doctrine",
+        "permission to appeal"
+      ],
+      "index_terms": [
+        "Scout Association",
+        "Buckmore Park",
+        "Lands Tribunal",
+        "Capital Goods Scheme",
+        "Customs and Excise",
+        "acquiring authority"
+      ],
+      "linked_authorities": [
+        "Stoke-on-Trent City Council v Wood Mitchell & Co [1980] 1 WLR 254"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Interlocutory permission decision with clear reasoning though final merits of the VAT point remain undecided."
+      }
+    }
+  }
+]

@@ -1,0 +1,783 @@
+[
+  {
+    "source_path": "data/judgments/ewhc/ch/2004/135.json",
+    "status": "done",
+    "notes": "Long Part 24 judgment on share purchase warranty claims; Peter Smith J identified from full text.",
+    "enrichment": {
+      "short_title": "Share purchase warranty notice and misrepresentation strike-out",
+      "area_of_law": [
+        "Company and commercial law",
+        "Contract law",
+        "Misrepresentation and negligent misstatement",
+        "Civil procedure and summary judgment"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 1985",
+          "provisions": ["section 725"]
+        },
+        {
+          "title": "Misrepresentation Act 1967",
+          "provisions": ["section 2(1)", "section 3"]
+        },
+        {
+          "title": "Unfair Contract Terms Act 1977",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Bottin subscribed £10 million for preference shares in Venson under a December 1999 share purchase agreement with extensive warranties and notice clauses.",
+        "The defendants applied for summary judgment on warranty breach claims, arguing invalid service and inadequate clause 3(o) claim notices.",
+        "Bottin sought to amend to add negligent misrepresentation claims relating to unwarranted October and December 1999 profit forecasts.",
+        "Peter Smith J held personal service under clause 19 required delivery to the recipient or authorised agent, not mere deposit at an address.",
+        "Only Venson was validly served; claim notices failed for insufficient detail and quantification; contractual warranty claim struck out.",
+        "Permission to amend for misrepresentation was granted subject to a tight timetable, but summary judgment on that head was refused at this stage."
+      ],
+      "procedural_posture": "Interlocutory applications including Part 24 summary judgment, permission to amend, and appeal from a master's preliminary issue on service.",
+      "outcome": "Original warranty claim struck out; misrepresentation amendment permitted with rigorous further pleading timetable; clause 8 independent consultant application adjourned.",
+      "ratio": "Under a commercial share purchase agreement, warranty claims require valid personal service and detailed clause 3(o) notices specifying available facts and estimated loss; entire agreement and non-reliance clauses may bar parallel misrepresentation claims but are not suitable for summary disposal before disclosure.",
+      "legal_issues": [
+        "Construction of personal service and recorded delivery clauses in a commercial agreement",
+        "Whether ADR notices could satisfy warranty claim notice requirements",
+        "Adequacy of clause 3(o) claim notices for detail and quantum",
+        "Whether entire agreement and non-reliance clauses exclude negligent misrepresentation claims",
+        "Part 24 test for proposed misrepresentation amendments"
+      ],
+      "catchwords": [
+        "share purchase agreement",
+        "warranty claim notice",
+        "personal service",
+        "Part 24",
+        "entire agreement clause",
+        "Misrepresentation Act 1967",
+        "negligent misstatement"
+      ],
+      "index_terms": [
+        "Venson Group",
+        "Bottin Investments",
+        "clause 19 notices",
+        "clause 3(o) warranties",
+        "Mannai Investment",
+        "Thomas Witter",
+        "Grimstone v McGarrigan"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Mannai Investment Ltd v Eagle Star Life Assurance Co [1997] AC 749",
+          "relation": "considered"
+        },
+        {
+          "citation": "Thomas Witter Ltd v TBP Industries [1996] 2 All ER 573",
+          "relation": "applied"
+        },
+        {
+          "citation": "E A Grimstone and Sons Ltd v McGarrigan [1999] CA",
+          "relation": "applied"
+        },
+        {
+          "citation": "Watford Electronics Ltd v Sanderson CFL Ltd [2001] EWCA Civ 317",
+          "relation": "considered"
+        },
+        {
+          "citation": "ICS Ltd v West Bromwich Building Society [1998] 1 All ER 98",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Core outcomes on service, notice content and strike-out are explicit; misrepresentation limb is partly interlocutory."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/54.json",
+    "status": "done",
+    "notes": "Practice guidance judgment of the Court; metadata lists additional Law Lords beyond Wall LJ.",
+    "enrichment": {
+      "short_title": "Human Rights Act issues in pending care proceedings",
+      "area_of_law": [
+        "Family law",
+        "Children law",
+        "Human rights",
+        "Administrative law and judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": ["section 1(2)", "section 1(3)", "section 31", "section 38(6)", "section 100(2)"]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": ["section 3(1)", "section 4", "section 6(1)", "section 7(1)(b)", "section 8"]
+        }
+      ],
+      "key_facts": [
+        "Care proceedings concerning MV, born July 2003, were adjourned on the first day of the final hearing before a county court judge.",
+        "The parents sought transfer to the High Court for declarations that the local authority breached Articles 6 and 8 by refusing to fund therapeutic treatment.",
+        "Neither Re L nor other key authorities were cited to the circuit judge, who ordered urgent transfer of a discrete Human Rights Act application.",
+        "The Court of Appeal held Children Act proceedings are HRA-compliant and Convention issues should be determined in the pending care proceedings.",
+        "There is no power to compel a local authority to fund parental treatment; section 38(6) assessment powers are available in the county court.",
+        "The appeal was allowed, the adjournment set aside, and the case remitted for prompt final hearing before a different judge."
+      ],
+      "procedural_posture": "Appeal with permission granted at the hearing against a county court adjournment and transfer order made on day one of a final care hearing.",
+      "outcome": "Appeal allowed; adjournment and transfer order set aside; freestanding HRA application stayed; care proceedings remitted to the county court.",
+      "ratio": "Human Rights Act and Convention claims arising before a final care order must normally be determined within the pending Part IV Children Act proceedings by the court seized of them; applications to transfer such issues to the High Court are strongly discouraged and usually an abuse of process.",
+      "legal_issues": [
+        "Whether HRA and Article 6/8 issues must be heard in pending care proceedings",
+        "Power of county courts versus High Court to grant Convention remedies",
+        "Whether local authorities can be compelled to fund parental therapy",
+        "Availability of declarations of incompatibility and inherent jurisdiction during interim care orders",
+        "Effect of K and T v Finland on positive Article 8 reunification duties"
+      ],
+      "catchwords": [
+        "care proceedings",
+        "Human Rights Act 1998",
+        "Article 8",
+        "transfer to High Court",
+        "Re L",
+        "section 38(6)",
+        "local authority funding"
+      ],
+      "index_terms": [
+        "West Sussex County Council",
+        "MV child",
+        "Schedule 1 offender parents",
+        "Munby J Re L",
+        "Re S; Re W",
+        "Children Act Protocol",
+        "wasted costs"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Re L (Care Proceedings: Human Rights Claims) [2003] 2 FLR 160",
+          "relation": "applied"
+        },
+        {
+          "citation": "Re S; Re W (minors) (implementation of care plan) [2002] 2 AC 291",
+          "relation": "applied"
+        },
+        {
+          "citation": "K and T v Finland [2001] 2 FLR 707",
+          "relation": "distinguished"
+        },
+        {
+          "citation": "Gloucestershire County Council v P [2000] Fam 1",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Authoritative practice guidance with clear dispositive orders; judge metadata in source file is atypical."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/fam/2004/142.json",
+    "status": "done",
+    "notes": "Anonymised published reasons of Wall J; source judges field includes non-sitting titles.",
+    "enrichment": {
+      "short_title": "Shared residence after intractable contact dispute",
+      "area_of_law": [
+        "Family law",
+        "Children law",
+        "Contact and residence"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": ["section 8", "section 9(6)", "section 37", "section 91(14)"]
+        }
+      ],
+      "key_facts": [
+        "Two professional parents had litigated residence and contact since separating in 1997, with the mother initially having residence.",
+        "The daughter C refused contact from 2002 after false sexual impropriety allegations; NYAS guardian Mrs P restored contact and recommended interim residence with the father.",
+        "Wall J found the sexual allegations untrue at a finding-of-fact hearing, but contact was again frustrated; interim residence passed to the father in December 2002.",
+        "By late 2003 the children were spending equal time with each parent under a structured shared care regime.",
+        "The court made joint residence until age 18 and a section 91(14) order barring further applications without permission."
+      ],
+      "procedural_posture": "Final directions hearing following High Court transfer of an urgent interim application in long-running private law children proceedings.",
+      "outcome": "Shared residence order until each child is 18, with agreed contact schedule and section 91(14) restriction; proceedings ended.",
+      "ratio": "Where children genuinely live equally with separated parents in close proximity, a shared residence order may properly reflect reality and parental equality even though it does not resolve underlying parental hostility; false abuse allegations in contact disputes require great caution.",
+      "legal_issues": [
+        "Appropriateness of shared residence where parents remain hostile",
+        "Use of section 91(14) to terminate intractable litigation",
+        "Assessment of false sexual abuse allegations arising mid-contact dispute",
+        "Role of children's guardians and NYAS in restoring contact",
+        "Whether sole residence with one parent is necessary to preserve shared care"
+      ],
+      "catchwords": [
+        "shared residence",
+        "intractable contact",
+        "parental alienation",
+        "finding of fact",
+        "section 91(14)",
+        "NYAS guardian",
+        "false sexual allegations"
+      ],
+      "index_terms": [
+        "D v D",
+        "Re A (Children) (Shared Residence)",
+        "Re F (Shared Residence Order)",
+        "Re H standard of proof",
+        "parental responsibility schedule",
+        "judicial continuity"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "D v D (Shared Residence Order) [2001] 1 FLR 495",
+          "relation": "applied"
+        },
+        {
+          "citation": "Re A (Children) (Shared Residence) [2002] 1 FCR 177",
+          "relation": "applied"
+        },
+        {
+          "citation": "Re F (Shared Residence Order) [2003] 2 FLR 397",
+          "relation": "applied"
+        },
+        {
+          "citation": "Re H (minors) (sexual abuse: standard of proof) [1996] AC 563",
+          "relation": "applied"
+        },
+        {
+          "citation": "Re P (Section 91(14) Guidelines) [1999] 2 FLR 573",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Final orders and reasoning are clear in this anonymised judgment; parties are pseudonymous."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/129.json",
+    "status": "done",
+    "notes": "Source judges field includes cited Court of Appeal judges; David Steel J identified from full text.",
+    "enrichment": {
+      "short_title": "Service out on confirming bank in letter of credit claim",
+      "area_of_law": [
+        "Banking and finance",
+        "Conflict of laws",
+        "Civil procedure and jurisdiction",
+        "Commercial contracts"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Rome Convention on the Law Applicable to Contractual Obligations",
+          "provisions": ["Article 4", "Article 8"]
+        }
+      ],
+      "key_facts": [
+        "Marconi supplied telephone equipment to Indonesian buyers under an English-law sale contract with letters of credit through Standard Chartered Bank London.",
+        "Panin Bank confirmed the final letter of credit but refused drafts presented for two shipments, relying on Hastin Bank's documentary discrepancies.",
+        "Marconi claimed about £1.1 million after credit insurers paid; proceedings were served out and alternatively on Panin's English solicitors.",
+        "David Steel J held there was a good arguable case the confirming bank contract was governed by English law and England was the appropriate forum.",
+        "Alternative service on English solicitors was permitted given likely delay serving in Indonesia."
+      ],
+      "procedural_posture": "Application to set aside permission to serve out of the jurisdiction and alternative service in a commercial claim for breach of a confirming bank's obligations.",
+      "outcome": "Applications to set aside service and challenge jurisdiction dismissed.",
+      "ratio": "Where a letter of credit is advised and payable in England through a London negotiating bank, Article 4(5) of the Rome Convention may displace the confirming bank's habitual residence presumption so English law governs the beneficiary-confirming bank contract; delay in Indonesian service can justify alternative service on known English solicitors.",
+      "legal_issues": [
+        "Governing law of a confirming bank's contract under the Rome Convention",
+        "Whether CPR 6.20 gateways for service out were satisfied",
+        "Appropriate forum where UCP issues dominate and documents are in English",
+        "Whether alternative service under CPR 6.80 was justified",
+        "Confirming bank duties on communicating documentary discrepancies under UCP 500"
+      ],
+      "catchwords": [
+        "letter of credit",
+        "confirming bank",
+        "service out of jurisdiction",
+        "Rome Convention",
+        "UCP 500",
+        "alternative service",
+        "jurisdiction"
+      ],
+      "index_terms": [
+        "Panin Bank",
+        "Marconi Communications",
+        "Standard Chartered Bank",
+        "Bank of Baroda v Vysya Bank",
+        "Offshore International v Banco Central",
+        "documentary credits",
+        "Indonesia forum"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Seaconsar Far East Ltd v Bank Markazi Jomhouri Islami Iran [1994] 1 AC 438",
+          "relation": "applied"
+        },
+        {
+          "citation": "Bank of Baroda v Vysya Bank [1994] 2 Lloyd's Rep 87",
+          "relation": "applied"
+        },
+        {
+          "citation": "Offshore International SA v Banco Central SA [1977] 1 WLR 399",
+          "relation": "applied"
+        },
+        {
+          "citation": "Power Curber International Ltd v National Bank of Kuwait SAK [1981] 1 WLR 1233",
+          "relation": "applied"
+        },
+        {
+          "citation": "Knauf UK GmbH v British Gypsum Ltd [2002] 1 WLR 907",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.89,
+        "level": "high",
+        "notes": "Jurisdictional ruling is clear; documentary discrepancy merits on the merits were not finally determined."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/comm/2004/121.json",
+    "status": "done",
+    "notes": "Section 67 challenge to ICC award; Langley J identified from full text.",
+    "enrichment": {
+      "short_title": "ICC tribunal jurisdiction over group company losses",
+      "area_of_law": [
+        "Arbitration",
+        "Commercial contracts",
+        "Conflict of laws",
+        "Company law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Arbitration Act 1996",
+          "provisions": ["section 30", "section 31", "section 46", "section 67", "section 73"]
+        }
+      ],
+      "key_facts": [
+        "Peterson Farms sold poultry to C&M under an Arkansas-law agreement with ICC arbitration in London.",
+        "An ICC tribunal awarded damages including losses of non-signatory C&M group entities for infected grandparent stock.",
+        "Peterson applied under section 67 to set aside the parent-loss portion for lack of substantive jurisdiction.",
+        "The tribunal wrongly applied a group of companies doctrine instead of Arkansas law to identify parties to the arbitration agreement.",
+        "Langley J held a section 67 application is a rehearing and set aside the award in part for want of jurisdiction."
+      ],
+      "procedural_posture": "Section 67 application to the Commercial Court challenging an ICC final award on substantive jurisdiction.",
+      "outcome": "Award of parent-company losses set aside; costs element remitted to the tribunal; remainder of award unaffected.",
+      "ratio": "Party identification in an arbitration agreement is a matter of the chosen substantive law, here Arkansas law, not ICC group-of-companies doctrine; a section 67 challenge requires the court to decide whether the tribunal was correct on jurisdiction, not merely whether it was entitled to decide.",
+      "legal_issues": [
+        "Whether section 67 is a rehearing or review of tribunal jurisdiction",
+        "Whether delay defeated Peterson's jurisdictional objection",
+        "Applicability of the group of companies doctrine under Arkansas and English law",
+        "Agency and estoppel bases for binding non-signatory affiliates",
+        "Proper law of the arbitration agreement under clause 19 of the contract"
+      ],
+      "catchwords": [
+        "section 67",
+        "ICC arbitration",
+        "group of companies doctrine",
+        "non-signatory",
+        "substantive jurisdiction",
+        "Arkansas law",
+        "poultry contract"
+      ],
+      "index_terms": [
+        "Peterson Farms",
+        "C&M Farming",
+        "Dow Chemical ICC case",
+        "Gulf Azov v Baltic Shipping",
+        "separability of arbitration agreement",
+        "affiliate damages"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Gulf Azov v Baltic Shipping [1999] 1 Lloyd's Rep 68",
+          "relation": "applied"
+        },
+        {
+          "citation": "Dow Chemical ICC case No 4131",
+          "relation": "considered"
+        },
+        {
+          "citation": "Astra SA Insurance v Sphere Drake Insurance [2002] 2 Lloyd's Rep 550",
+          "relation": "cited"
+        }
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Dispositive section 67 ruling with detailed procedural history; costs remittal noted."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/50.json",
+    "status": "done",
+    "notes": "Complex habitats licensing judicial review; Pitchford J identified from full text.",
+    "enrichment": {
+      "short_title": "Great crested newt translocation licence refusal",
+      "area_of_law": [
+        "Environmental law",
+        "Planning and land use",
+        "Administrative law and judicial review",
+        "European Union law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Conservation (Natural Habitats etc) Regulations 1994",
+          "provisions": ["regulation 39", "regulation 40", "regulation 44", "regulation 45"]
+        },
+        {
+          "title": "Wildlife and Countryside Act 1981",
+          "provisions": ["section 28(1)"]
+        },
+        {
+          "title": "Town and Country Planning Act 1990",
+          "provisions": ["section 192"]
+        },
+        {
+          "title": "Environment Act 1995",
+          "provisions": ["Schedule 13"]
+        },
+        {
+          "title": "Council Directive 92/43/EEC (Habitats Directive)",
+          "provisions": ["Article 12", "Article 16"]
+        }
+      ],
+      "key_facts": [
+        "Duke of Westminster trustees sought a regulation 44(2)(e) licence to translocate great crested newts from Pen-yr-Henblas quarry to Wern-y-Gaer before resuming quarrying under old permissions.",
+        "A section 192 certificate confirmed quarrying remained lawful, but the Welsh Assembly refused the translocation licence for lack of overriding public interest.",
+        "The Assembly treated the case as requiring proof of current social or economic need for limestone rather than environmental benefit of protecting the species.",
+        "Pitchford J quashed the refusal for failing to treat species protection itself as a potentially overriding public interest where lawful quarrying could proceed under regulation 40(3)(c)."
+      ],
+      "procedural_posture": "Judicial review of the Welsh Assembly Government's refusal of a regulation 44 Habitats Regulations licence.",
+      "outcome": "Decision quashed; matter remitted to the Welsh Assembly for reconsideration.",
+      "ratio": "Regulation 44(2)(e) may be satisfied by beneficial environmental consequences of protecting a European protected species where the developer could lawfully resume operations under existing planning permission and regulation 40(3)(c); the existence of planning permission does not automatically establish overriding public interest but can make species protection itself an admissible public interest.",
+      "legal_issues": [
+        "Construction of regulation 44(2)(e) overriding public interest",
+        "Interaction between planning permission, regulation 39 offences and regulation 40(3)(c) defence",
+        "Whether semi-natural quarry habitats fall within the Habitats Regulations",
+        "Relationship of regulation 44 licensing to planning and ROMP processes",
+        "Wednesbury rationality of refusing licence based on current aggregate demand"
+      ],
+      "catchwords": [
+        "great crested newt",
+        "regulation 44 licence",
+        "Habitats Directive",
+        "translocation",
+        "quarrying",
+        "regulation 40(3)(c)",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Pen-yr-Henblas quarry",
+        "Welsh Assembly Government",
+        "Countryside Council for Wales",
+        "Commission v UK C-434/01",
+        "Greenpeace v Secretary of State",
+        "ROMP review",
+        "section 192 certificate"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Commission of the European Communities v United Kingdom (Case C-434/01)",
+          "relation": "considered"
+        },
+        {
+          "citation": "R v Secretary of State for Trade and Industry, ex parte Greenpeace Ltd [1999]",
+          "relation": "applied"
+        },
+        {
+          "citation": "R v Cornwall County Council, ex parte Hardy [2001] JPL 786",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed statutory construction judgment; declaration sought on natural habitats issue refused."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/141.json",
+    "status": "needs_review",
+    "notes": "Source file dates for the President's direction vary between 2002 and 2003; Newman J identified from full text.",
+    "enrichment": {
+      "short_title": "PAT president's power to set aside clothing allowance decision",
+      "area_of_law": [
+        "Administrative law and judicial review",
+        "Pensions and military compensation",
+        "Tribunal procedure"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Pensions Appeal Tribunals Act 1943",
+          "provisions": ["section 1", "section 5A", "section 6"]
+        },
+        {
+          "title": "Child Support, Pensions and Social Security Act 2000",
+          "provisions": ["section 57"]
+        },
+        {
+          "title": "Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 1983",
+          "provisions": ["Article 17"]
+        },
+        {
+          "title": "Pensions Appeal Tribunals (England and Wales) Rules 1980",
+          "provisions": ["Rule 5", "Rule 20", "Rule 37"]
+        }
+      ],
+      "key_facts": [
+        "Mr Jones appealed to a Pensions Appeal Tribunal after refusal of a war pension clothing allowance for asthma-related clothing soiling.",
+        "The tribunal dismissed the appeal in Mr Jones's absence in February 2002; he then applied for leave to appeal to the High Court.",
+        "The PAT President used Rule 37 to set aside the decision, finding the Secretary of State's statement of case did not address the steroids link.",
+        "The Secretary of State for Defence sought judicial review, arguing Rule 37 does not permit setting aside a final PAT decision except under Rules 20, 21 or section 6(2A).",
+        "Newman J quashed the President's direction for lack of power, breach of natural justice, and irrationality."
+      ],
+      "procedural_posture": "Judicial review of the President of the Pensions Appeal Tribunals' Rule 37 direction setting aside a tribunal decision.",
+      "outcome": "Claim upheld; President's set-aside direction quashed; matter remitted for directions on leave to appeal.",
+      "ratio": "Once a Pensions Appeal Tribunal has reached a final decision, Rule 37 cannot be used to set it aside for irregularity; correction lies in leave to appeal to the High Court, joint section 6(2A) rehearing, or the limited absence powers in Rules 20 and 21, with affected parties entitled to make representations.",
+      "legal_issues": [
+        "Scope of Rule 37 to mitigate procedural irregularities after a final PAT decision",
+        "Whether the President could set aside a decision without hearing the Secretary of State",
+        "Distinction between inadequate tribunal reasons and Rule 5 statement of case defects",
+        "Interaction between section 6(2A) and Rule 37",
+        "Finality of PAT decisions under section 6(3)"
+      ],
+      "catchwords": [
+        "Pensions Appeal Tribunal",
+        "Rule 37",
+        "clothing allowance",
+        "war pension",
+        "natural justice",
+        "judicial review",
+        "Article 17 SPO"
+      ],
+      "index_terms": [
+        "Mr Jones war pension",
+        "Akewushola v Secretary of State for the Home Department",
+        "Rule 20 absence rehearing",
+        "section 5A specified decision",
+        "War Pensions Agency",
+        "statement of case"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Akewushola v Secretary of State for the Home Department [2000] 1 WLR 2295",
+          "relation": "applied"
+        },
+        {
+          "citation": "Secretary of State for the Home Department v Immigration Appeal Tribunal [2001] QB 1224",
+          "relation": "applied"
+        }
+      ],
+      "confidence": {
+        "score": 0.84,
+        "level": "high",
+        "notes": "Legal conclusion is clear but chronology in the source contains inconsistent dates for the President's direction."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2004/104.json",
+    "status": "done",
+    "notes": "Contract construction appeal; May, Phillips and Parker LJJ; judge's adverse honesty findings set aside on procedural fairness grounds.",
+    "enrichment": {
+      "short_title": "Meaning of per database in SFO forensic contract",
+      "area_of_law": [
+        "Contract law",
+        "Commercial contracts",
+        "Costs and civil procedure"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Vogon contracted with the Serious Fraud Office to restore Microsoft Exchange databases from backup tapes and produce PST mailbox files.",
+        "Quotation 38118B charged set-up fees plus amounts per database, but Vogon invoiced on the basis each PST file was a separate database.",
+        "The judge held database meant each MS Exchange database recovered from tape, limiting recovery to about £22,500 rather than over £300,000.",
+        "The SFO had tendered the lower sum and paid £77,948 into court after mediation.",
+        "The Court of Appeal dismissed the construction appeal but held the judge should not have made unprompted findings of opportunism and dishonesty without fair notice."
+      ],
+      "procedural_posture": "Appeal against a Technology and Construction Court judge's construction of a forensic services quotation and related costs orders.",
+      "outcome": "Appeal on construction dismissed with costs; adverse honesty findings rejected as procedurally unfair; indemnity costs order upheld on other grounds.",
+      "ratio": "In the context of Vogon's accompanying letter and quotation, per database referred to each MS Exchange database restored from tape, not each resulting PST mailbox file; serious findings of dishonesty should not be made without putting a party on notice and allowing response.",
+      "legal_issues": [
+        "Construction of per database in a computer forensic services contract",
+        "Relevance of pre-contract correspondence and commercial sense",
+        "Whether capitalisation of MS Exchange Database changed meaning",
+        "Procedural fairness in making adverse credibility and dishonesty findings at trial",
+        "Indemnity costs where full sum tendered and paid into court"
+      ],
+      "catchwords": [
+        "contract construction",
+        "database",
+        "Microsoft Exchange",
+        "forensic IT services",
+        "indemnity costs",
+        "tender",
+        "procedural fairness"
+      ],
+      "index_terms": [
+        "Vogon International",
+        "Serious Fraud Office",
+        "PST files",
+        "backup tapes",
+        "quotation 38118B",
+        "Richard Seymour QC",
+        "mediation payment in"
+      ],
+      "linked_authorities": [],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Construction issue and appeal outcome are clearly resolved; no statutes were central."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/admin/2004/278.json",
+    "status": "needs_review",
+    "notes": "Case stated appeal; source judges array empty though Buxton LJ and Curtis J identified in full text.",
+    "enrichment": {
+      "short_title": "Drink-driving conviction quashed on breathalyser evidence",
+      "area_of_law": [
+        "Road traffic law",
+        "Criminal procedure",
+        "Evidence and admissibility",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Road Traffic Act 1988",
+          "provisions": ["section 5(1)(a)", "section 172"]
+        },
+        {
+          "title": "Police and Criminal Evidence Act 1984",
+          "provisions": ["section 78"]
+        }
+      ],
+      "key_facts": [
+        "Miss Kemsley admitted at the roadside that she had driven a Volkswagen Polo involved in an accident and provided a breath reading of 96 micrograms at Ealing police station.",
+        "She was convicted of driving with excess alcohol before Ealing magistrates after unsuccessful section 78 challenges to her admission.",
+        "Expert evidence suggested the Intoximeter EC/IR device used was fundamentally modified after Home Office approval and was not the approved type.",
+        "The case stated recorded that the district judge accepted that evidence, though its accuracy was disputed.",
+        "The Divisional Court allowed the appeal and quashed the conviction because the machine was treated as unapproved, without deciding general EC/IR issues."
+      ],
+      "procedural_posture": "Appeal by case stated from Ealing Magistrates' Court following a drink-driving trial with evidential and device-approval challenges.",
+      "outcome": "Appeal allowed; conviction quashed; costs prior to legal aid ordered from central funds.",
+      "ratio": "Where a magistrates' court accepts evidence that the breath-testing device used was not the type approved by the Secretary of State, the breath analysis evidence is inadmissible and conviction cannot stand; this decision turns on the particular case stated and does not generally impugn EC/IR approval.",
+      "legal_issues": [
+        "Admissibility under section 78 of an uncautioned roadside admission of driving",
+        "Availability of section 172 as an alternative route to proof of driving",
+        "Whether magistrates may review Secretary of State approval of breath-testing devices",
+        "Effect of post-approval modification making a device a different unapproved type",
+        "Limited scope of case stated appeals on intoximeter evidence"
+      ],
+      "catchwords": [
+        "excess alcohol",
+        "Intoximeter EC/IR",
+        "case stated",
+        "section 78 PACE",
+        "section 172 RTA",
+        "approved device",
+        "mouth alcohol"
+      ],
+      "index_terms": [
+        "Fiona Kemsley",
+        "Ealing Magistrates Court",
+        "DPP v Memery",
+        "Brown v Stott",
+        "Hayes v DPP",
+        "Professor Makin",
+        "breathalyser approval"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Brown v Stott [2001] 2 WLR 817",
+          "relation": "applied"
+        },
+        {
+          "citation": "DPP v Memery [2002]",
+          "relation": "applied"
+        },
+        {
+          "citation": "Hayes v Director of Public Prosecutions",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.82,
+        "level": "high",
+        "notes": "Outcome is narrow and fact-specific; judge metadata missing and district judge's acceptance of expert evidence may not reflect trial reality per Curtis J."
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewhc/qb/2004/140.json",
+    "status": "needs_review",
+    "notes": "Very long liability trial judgment; trial judge not named in source metadata or opening passages of full text.",
+    "enrichment": {
+      "short_title": "Goodwood racing fatality and circuit safety duty",
+      "area_of_law": [
+        "Personal injury and negligence",
+        "Occupiers' liability",
+        "Sports and recreation law",
+        "Tort law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Occupiers' Liability Act 1957",
+          "provisions": ["section 2"]
+        }
+      ],
+      "key_facts": [
+        "Simon Wattleworth died when his Austin Healey left the Lavant bend at Goodwood circuit and struck a tyre-fronted earth bank in November 1998.",
+        "His widow sued Goodwood, the MSA and the FIA alleging negligent design or selection of the tyre barrier caused fatal head injuries.",
+        "The two-and-a-half-week trial was limited to liability and causation, with damages reserved.",
+        "The court found Goodwood not in breach of occupiers' duty, the MSA owed but did not breach a duty, and the FIA owed no duty or none breached.",
+        "Causation was not proved; contributory negligence would have been assessed at 20% had negligence been found."
+      ],
+      "procedural_posture": "High Court liability trial in a fatal track accident claim against the circuit operator and motorsport governing bodies.",
+      "outcome": "Claim dismissed against all defendants on liability and causation.",
+      "ratio": "A circuit operator's common duty under the Occupiers' Liability Act 1957 and a regulator's assumed responsibility duty must be judged against contemporary motorsport safety standards and the driver's acceptance of racing risks; alleged defects in tyre barrier design did not establish breach or causation on the evidence.",
+      "legal_issues": [
+        "Scope of occupiers' duty to racing drivers at a reopened historic circuit",
+        "Whether MSA and FIA owed tortious duties to circuit users",
+        "Assumption of responsibility in sports regulation cases",
+        "Causation of fatal head injury from barrier design",
+        "Volenti and contributory negligence in motor sport"
+      ],
+      "catchwords": [
+        "Goodwood circuit",
+        "motorsport safety",
+        "Occupiers' Liability Act 1957",
+        "tyre barrier",
+        "assumption of responsibility",
+        "causation",
+        "contributory negligence"
+      ],
+      "index_terms": [
+        "Simon Wattleworth",
+        "Lavant bend",
+        "MSA",
+        "FIA",
+        "track safety expert evidence",
+        "Watson v British Boxing Board",
+        "Perrett v Nicholson"
+      ],
+      "linked_authorities": [
+        {
+          "citation": "Watson v British Boxing Board of Control [2001] QB 1134",
+          "relation": "considered"
+        },
+        {
+          "citation": "Perrett v Nicholson [2002] EWCA Civ 1882",
+          "relation": "considered"
+        }
+      ],
+      "confidence": {
+        "score": 0.8,
+        "level": "medium",
+        "notes": "Principal conclusions are explicit but the presiding judge is not identified in the available source fields."
+      }
+    }
+  }
+]
