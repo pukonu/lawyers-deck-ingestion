@@ -3,7 +3,7 @@
   "purpose": "Temporary catchup tracker for storyline backfill on judgments already enriched before storyline became mandatory. Archive or delete when complete.",
   "created_at": "2026-07-04",
   "batch_size": 10,
-  "next_batch": 2,
+  "next_batch": 4,
   "status_values": [
     "pending",
     "done",
@@ -12,8 +12,8 @@
   ],
   "stats": {
     "total": 4990,
-    "pending": 4990,
-    "done": 0,
+    "pending": 4983,
+    "done": 7,
     "needs_review": 0,
     "failed": 0
   },
@@ -22,91 +22,91 @@
       "source_path": "data/judgments/ewca/civ/2003/103.json",
       "tna_uri": "ewca/civ/2003/103",
       "neutral_citation": "[2003] EWCA Civ 103",
-      "status": "pending",
-      "batch_number": null,
-      "storylined_at": null,
-      "notes": null
+      "status": "done",
+      "batch_number": 3,
+      "storylined_at": "2026-07-05",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py"
     },
     {
       "source_path": "data/judgments/ewca/civ/2003/1030.json",
       "tna_uri": "ewca/civ/2003/1030",
       "neutral_citation": "[2003] EWCA Civ 1030",
-      "status": "pending",
-      "batch_number": null,
-      "storylined_at": null,
-      "notes": null
+      "status": "done",
+      "batch_number": 3,
+      "storylined_at": "2026-07-05",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py"
     },
     {
       "source_path": "data/judgments/ewca/civ/2003/1031.json",
       "tna_uri": "ewca/civ/2003/1031",
       "neutral_citation": "[2003] EWCA Civ 1031",
-      "status": "pending",
-      "batch_number": null,
-      "storylined_at": null,
-      "notes": null
+      "status": "done",
+      "batch_number": 3,
+      "storylined_at": "2026-07-05",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py"
     },
     {
       "source_path": "data/judgments/ewca/civ/2003/1032.json",
       "tna_uri": "ewca/civ/2003/1032",
       "neutral_citation": "[2003] EWCA Civ 1032",
-      "status": "pending",
-      "batch_number": null,
-      "storylined_at": null,
-      "notes": null
+      "status": "done",
+      "batch_number": 3,
+      "storylined_at": "2026-07-05",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py"
     },
     {
       "source_path": "data/judgments/ewca/civ/2003/1033.json",
       "tna_uri": "ewca/civ/2003/1033",
       "neutral_citation": "[2003] EWCA Civ 1033",
-      "status": "pending",
-      "batch_number": null,
-      "storylined_at": null,
-      "notes": null
+      "status": "done",
+      "batch_number": 3,
+      "storylined_at": "2026-07-05",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py"
     },
     {
       "source_path": "data/judgments/ewca/civ/2003/1034.json",
       "tna_uri": "ewca/civ/2003/1034",
       "neutral_citation": "[2003] EWCA Civ 1034",
-      "status": "pending",
-      "batch_number": null,
-      "storylined_at": null,
-      "notes": null
+      "status": "done",
+      "batch_number": 3,
+      "storylined_at": "2026-07-05",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py"
     },
     {
       "source_path": "data/judgments/ewca/civ/2003/1035.json",
       "tna_uri": "ewca/civ/2003/1035",
       "neutral_citation": "[2003] EWCA Civ 1035",
-      "status": "pending",
-      "batch_number": null,
-      "storylined_at": null,
-      "notes": null
+      "status": "done",
+      "batch_number": 3,
+      "storylined_at": "2026-07-05",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py"
     },
     {
       "source_path": "data/judgments/ewca/civ/2003/1036.json",
       "tna_uri": "ewca/civ/2003/1036",
       "neutral_citation": "[2003] EWCA Civ 1036",
       "status": "pending",
-      "batch_number": null,
+      "batch_number": 3,
       "storylined_at": null,
-      "notes": null
+      "notes": "Reset after transient network failure in batch 3."
     },
     {
       "source_path": "data/judgments/ewca/civ/2003/1037.json",
       "tna_uri": "ewca/civ/2003/1037",
       "neutral_citation": "[2003] EWCA Civ 1037",
       "status": "pending",
-      "batch_number": null,
+      "batch_number": 3,
       "storylined_at": null,
-      "notes": null
+      "notes": "Reset after transient network failure in batch 3."
     },
     {
       "source_path": "data/judgments/ewca/civ/2003/1038.json",
       "tna_uri": "ewca/civ/2003/1038",
       "neutral_citation": "[2003] EWCA Civ 1038",
       "status": "pending",
-      "batch_number": null,
+      "batch_number": 3,
       "storylined_at": null,
-      "notes": null
+      "notes": "Reset after transient network failure in batch 3."
     },
     {
       "source_path": "data/judgments/ewca/civ/2003/1043.json",

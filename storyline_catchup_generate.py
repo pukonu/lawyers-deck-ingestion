@@ -121,7 +121,9 @@ def generate_storyline(judgment: dict) -> dict:
         "contents": [{"role": "user", "parts": [{"text": build_prompt(judgment)}]}],
         "generationConfig": {
             "temperature": 0.2,
-            "maxOutputTokens": 4096,
+            # Generous cap: thinking models spend output tokens on reasoning
+            # before the JSON, and 4096 was truncating storylines mid-string.
+            "maxOutputTokens": 32768,
             "responseMimeType": "application/json",
         },
     }
@@ -137,15 +139,14 @@ def generate_storyline(judgment: dict) -> dict:
             )
             with urllib.request.urlopen(req, timeout=120) as res:
                 body = json.loads(res.read().decode("utf-8"))
-            text = (
-                body.get("candidates", [{}])[0]
-                .get("content", {})
-                .get("parts", [{}])[0]
-                .get("text", "")
-                .strip()
-            )
+            candidate = body.get("candidates", [{}])[0]
+            finish_reason = candidate.get("finishReason")
+            parts = candidate.get("content", {}).get("parts", [])
+            text = "".join(part.get("text", "") for part in parts).strip()
             if not text:
-                raise RuntimeError("Gemini returned empty content")
+                raise RuntimeError(f"Gemini returned empty content (finishReason={finish_reason})")
+            if finish_reason == "MAX_TOKENS":
+                raise RuntimeError("Gemini output truncated at token limit")
             try:
                 parsed = json.loads(text)
             except json.JSONDecodeError:

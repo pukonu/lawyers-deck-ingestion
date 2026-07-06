@@ -5,7 +5,7 @@ This guide defines how to capture UK Acts (primary legislation) from the officia
 - `ACTS_INDEXING_README.md` — how captured acts are imported, chunked, embedded, and indexed in the app database.
 - `data/acts/README.md` — local layout of the captured corpus (the `data/` folder is gitignored).
 
-Status: **specification only — no capture has been run yet.** Do not start bulk capture until the plan below is approved.
+Status: **`acts_worker.py` is implemented and pilot-tested** (Pension Schemes Act 2021, Equality Act 2010, and the PDF-only Metropolis Water Act 1902). No bulk capture has been run yet — do not start it until the plan below is approved.
 
 ## 1. Source of Truth
 
@@ -102,7 +102,18 @@ Rule: the file path is always the legislation URI path segments joined as direct
 
 ## 3. Capture Workflow (two-phase, like `worker.py`)
 
-Implement as `acts_worker.py` (not yet written). Resumable state in `acts_cursor.txt` (gitignored).
+Implemented in `acts_worker.py`. Resumable state in `acts_cursor.txt` (gitignored).
+
+```bash
+python acts_worker.py                        # run / resume (ukpga only)
+python acts_worker.py --types ukpga,asp,nia  # choose legislation types
+python acts_worker.py --pages-only           # only build the index
+python acts_worker.py --limit 10             # pilot: stop after N fetches
+python acts_worker.py --uri ukpga/2021/1     # (re-)fetch specific acts
+python acts_worker.py --skip-pdfs            # skip the PDF fallback
+```
+
+PDF fallback: when an Act's `/data.xml` is missing or is a metadata shell with no body text (scanned historical Acts), the worker saves a metadata-only JSON (`"format": "pdf_only"`) and downloads the print PDF to `data/acts/pdfs/{uri}.pdf`, recording it as `pdf_path`. Extracting text from those PDFs (OCR) is deliberately out of scope for now.
 
 ### Phase A — Indexing
 

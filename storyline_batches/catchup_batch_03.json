@@ -1,0 +1,1294 @@
+{
+  "judgments": [
+    {
+      "source_path": "data/judgments/ewca/civ/2003/103.json",
+      "status": "done",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py",
+      "storyline": {
+        "title": "Cream Holdings Ltd v Banerjee",
+        "summary": "A landmark dispute concerning the threshold for obtaining pre-trial injunctions against media publications under section 12(3) of the Human Rights Act 1998. The Court of Appeal clarified that 'likely' means a 'real prospect of success' rather than 'more likely than not', balancing the right to freedom of expression against duties of commercial confidentiality.",
+        "span": "1992-2003",
+        "parties": [
+          {
+            "name": "Cream Holdings Ltd & Ors",
+            "role": "Claimants / Respondents"
+          },
+          {
+            "name": "Ms Banerjee",
+            "role": "First Defendant / First Appellant"
+          },
+          {
+            "name": "Daily Post and Liverpool Echo",
+            "role": "Second Defendant / Second Appellant"
+          }
+        ],
+        "stages": [
+          {
+            "id": "stage_1_cream_founded",
+            "order": 1,
+            "date": "1992-01-01",
+            "date_label": "1992",
+            "date_precision": "year",
+            "title": "Establishment of Cream Holdings",
+            "category": "background",
+            "actor": "Cream Holdings Ltd",
+            "what_happened": "Cream Holdings begins operations with a nightclub in Liverpool, subsequently expanding and diversifying its business worldwide.",
+            "why_it_matters": "Establishes the commercial presence and brand value of the claimant group, which later sought to protect its confidential business information.",
+            "legal_hook": "Commercial confidentiality and brand reputation."
+          },
+          {
+            "id": "stage_2_banerjee_employment",
+            "order": 2,
+            "date": "1998-02-01",
+            "date_label": "February 1998",
+            "date_precision": "month",
+            "title": "Employment of Ms Banerjee",
+            "category": "factual",
+            "actor": "Ms Banerjee",
+            "what_happened": "Ms Banerjee, a qualified chartered accountant, is employed directly by Cream as their in-house accountant.",
+            "why_it_matters": "This employment relationship placed Ms Banerjee in a position of trust, giving her access to Cream's confidential financial documents.",
+            "legal_hook": "Equitable duty of confidence arising from employment."
+          },
+          {
+            "id": "stage_3_employment_ends",
+            "order": 3,
+            "date": "2001-02-01",
+            "date_label": "February 2001",
+            "date_precision": "month",
+            "title": "Termination of Employment",
+            "category": "factual",
+            "actor": "Ms Banerjee",
+            "what_happened": "Ms Banerjee's employment with Cream ends, leading to a dispute.",
+            "why_it_matters": "Marks the end of the active employment relationship, preceding her subsequent disclosures.",
+            "legal_hook": "Post-employment duties of confidentiality."
+          },
+          {
+            "id": "stage_4_tribunal_settlement",
+            "order": 4,
+            "date": "2002-02-01",
+            "date_label": "February 2002",
+            "date_precision": "month",
+            "title": "Employment Tribunal Settlement",
+            "category": "procedural",
+            "actor": "Employment Tribunal",
+            "what_happened": "Ms Banerjee's claim for unfair dismissal against Cream is settled at an Employment Tribunal hearing.",
+            "why_it_matters": "Concludes the formal employment dispute, after which Ms Banerjee approached the media.",
+            "legal_hook": "Settlement of employment disputes."
+          },
+          {
+            "id": "stage_5_disclosure_to_echo",
+            "order": 5,
+            "date": "2002-05-15",
+            "date_label": "Mid-2002",
+            "date_precision": "approximate",
+            "title": "Disclosure of Documents to the Press",
+            "category": "factual",
+            "actor": "Ms Banerjee",
+            "what_happened": "Ms Banerjee approaches the Liverpool Echo with allegations of financial irregularities, supported by copied documents taken without permission.",
+            "why_it_matters": "This act of disclosure is the direct catalyst for the threatened publication and subsequent injunction proceedings.",
+            "legal_hook": "Breach of confidence and unauthorized taking of documents."
+          },
+          {
+            "id": "stage_6_police_arrests",
+            "order": 6,
+            "date": "2002-06-12",
+            "date_label": "12 June 2002",
+            "date_precision": "exact",
+            "title": "Arrests of Cream Director and Council Officer",
+            "category": "factual",
+            "actor": "Merseyside Police",
+            "what_happened": "Following notification by the Echo, police arrest a Cream director (Mr Davenport) and a local council officer (Mr Wadkin) on corruption allegations.",
+            "why_it_matters": "Provides factual support for the public interest in the initial corruption story published by the Echo.",
+            "legal_hook": "Public interest exception to breach of confidence."
+          },
+          {
+            "id": "stage_7_first_publication",
+            "order": 7,
+            "date": "2002-06-13",
+            "date_label": "13 June 2002",
+            "date_precision": "exact",
+            "title": "First Publication and Threat of Further Articles",
+            "category": "factual",
+            "actor": "Liverpool Echo",
+            "what_happened": "The Echo publishes a story alleging corruption and sends a letter to Cream inviting responses to further allegations under investigation.",
+            "why_it_matters": "Triggers Cream's immediate need to seek injunctive relief to prevent the publication of further confidential information.",
+            "legal_hook": "Freedom of expression under Article 10 of the ECHR."
+          },
+          {
+            "id": "stage_8_injunction_application",
+            "order": 8,
+            "date": "2002-06-14",
+            "date_label": "Mid-June 2002",
+            "date_precision": "approximate",
+            "title": "Application for Interlocutory Relief",
+            "category": "procedural",
+            "actor": "Cream Holdings Ltd",
+            "what_happened": "Cream applies for an injunction to restrain further publication; the Echo agrees not to publish pending the hearing, and both sides file evidence.",
+            "why_it_matters": "Initiates the formal legal battle over prior restraint under section 12 of the Human Rights Act 1998.",
+            "legal_hook": "Interim injunctions and section 12 of the Human Rights Act 1998."
+          },
+          {
+            "id": "stage_9_injunction_hearing",
+            "order": 9,
+            "date": "2002-07-03",
+            "date_label": "3 July 2002",
+            "date_precision": "exact",
+            "title": "Injunction Hearing before Lloyd J",
+            "category": "hearing",
+            "actor": "High Court (Chancery Division)",
+            "what_happened": "The application for interlocutory relief is argued before Timothy Lloyd J, involving both open and confidential evidence.",
+            "why_it_matters": "The primary forum where the competing interests of confidentiality and freedom of expression are first balanced under s12(3) HRA.",
+            "legal_hook": "Judicial balancing of Article 8/confidentiality and Article 10."
+          },
+          {
+            "id": "stage_10_lloyd_j_decision",
+            "order": 10,
+            "date": "2002-07-05",
+            "date_label": "5 July 2002",
+            "date_precision": "exact",
+            "title": "Grant of Interlocutory Injunction",
+            "category": "decision",
+            "actor": "Timothy Lloyd J",
+            "what_happened": "Lloyd J grants an injunction restraining the appellants from publishing confidential information until trial, applying a 'real prospect of success' threshold.",
+            "why_it_matters": "Establishes the prior restraint order that is the subject of the appeal, setting up the key statutory interpretation dispute.",
+            "legal_hook": "Section 12(3) Human Rights Act 1998 threshold test."
+          },
+          {
+            "id": "stage_11_ca_judgment",
+            "order": 11,
+            "date": "2003-02-13",
+            "date_label": "13 February 2003",
+            "date_precision": "exact",
+            "title": "Court of Appeal Judgment",
+            "category": "outcome",
+            "actor": "Court of Appeal (Civil Division)",
+            "what_happened": "The Court of Appeal dismisses the appeal, holding that 'likely' in s12(3) HRA means a 'real prospect of success' rather than 'more likely than not'.",
+            "why_it_matters": "Settles a critical point of statutory construction on the threshold for prior restraint of media publications under the Human Rights Act 1998.",
+            "legal_hook": "Statutory construction of section 12(3) of the Human Rights Act 1998."
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "stage_5_disclosure_to_echo",
+            "description": "Ms Banerjee's disclosure of confidential documents to the press, which transformed an employment dispute into a media law conflict."
+          },
+          {
+            "stage_id": "stage_10_lloyd_j_decision",
+            "description": "The High Court's decision to grant the injunction using the 'real prospect of success' standard, setting up the central legal issue on appeal."
+          },
+          {
+            "stage_id": "stage_11_ca_judgment",
+            "description": "The Court of Appeal's definitive ruling on the meaning of 'likely' in s12(3) HRA."
+          }
+        ],
+        "confidence": {
+          "state": "high",
+          "notes": [
+            "All dates and factual stages are directly extracted from the judgment text, including the employment history, the timeline of the June 2002 publications, and the subsequent July 2002 hearings.",
+            "The Court of Appeal's decision date of 13 February 2003 is verified from the neutral citation [2003] EWCA Civ 103."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1030.json",
+      "status": "done",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py",
+      "storyline": {
+        "title": "Jewson Ltd. v Boyhan",
+        "summary": "A dispute over whether electric boilers supplied by Jewsons for a flat conversion project breached the implied terms of satisfactory quality and fitness for purpose under the Sale of Goods Act 1979 due to low SAP energy ratings. The Court of Appeal ultimately held there was no breach.",
+        "span": "1997 - 2003",
+        "parties": [
+          {
+            "name": "Jewson Ltd.",
+            "role": "Appellant (Seller)"
+          },
+          {
+            "name": "Boyhan (as personal representative of the estate of Mr Kelly, deceased)",
+            "role": "Respondent (Buyer's Estate)"
+          }
+        ],
+        "stages": [
+          {
+            "id": "stg_1",
+            "order": 1,
+            "date": "1997-10-01",
+            "date_label": "October 1997",
+            "date_precision": "month",
+            "title": "Acquisition of York House",
+            "category": "background",
+            "actor": "Mr Kelly",
+            "what_happened": "Mr Kelly acquired York House to convert it into 13 self-contained flats, opting for individual electric heating systems instead of gas or oil.",
+            "why_it_matters": "This established the commercial context and the specific requirement for individual boilers in each flat.",
+            "legal_hook": "The commercial background of the buyer's project."
+          },
+          {
+            "id": "stg_2",
+            "order": 2,
+            "date": "1998-02-01",
+            "date_label": "Early February 1998",
+            "date_precision": "approximate",
+            "title": "Inquiry at Jewsons Bideford",
+            "category": "factual",
+            "actor": "Mr Kelly",
+            "what_happened": "Mr Kelly inquired at Jewsons' Bideford branch about suitable electric boilers, prompting Jewsons to source Amptec boilers.",
+            "why_it_matters": "This was the initial contact where the buyer sought the seller's assistance in finding a product.",
+            "legal_hook": "Sale of Goods Act 1979 section 14(3) - making known the purpose."
+          },
+          {
+            "id": "stg_3",
+            "order": 3,
+            "date": "1998-02-06",
+            "date_label": "6 February 1998",
+            "date_precision": "exact",
+            "title": "Site Meeting and Representations",
+            "category": "factual",
+            "actor": "Mr Kelly",
+            "what_happened": "A site meeting was held with Mr Kelly, Jewsons representatives, and an Amptec sales manager, where promotional literature was provided.",
+            "why_it_matters": "This meeting defined the scope of representations made to the buyer regarding the boilers' efficiency and suitability.",
+            "legal_hook": "The nature of representations and reliance under section 14(3)."
+          },
+          {
+            "id": "stg_4",
+            "order": 4,
+            "date": "1998-02-15",
+            "date_label": "February 1998",
+            "date_precision": "approximate",
+            "title": "Purchase of Boilers",
+            "category": "factual",
+            "actor": "Mr Kelly",
+            "what_happened": "Mr Kelly purchased 12 Amptec electric boilers from Jewsons for approximately £7,500 plus VAT.",
+            "why_it_matters": "This concluded the contract of sale, triggering the statutory implied terms.",
+            "legal_hook": "Implied terms of satisfactory quality and fitness for purpose."
+          },
+          {
+            "id": "stg_5",
+            "order": 5,
+            "date": "1999-06-01",
+            "date_label": "Post-Installation",
+            "date_precision": "unknown",
+            "title": "Discovery of Low SAP Ratings",
+            "category": "factual",
+            "actor": "Mr Kelly",
+            "what_happened": "The boilers worked fine as boilers, but because they lacked BRE coding, they caused low SAP energy ratings, making the flats difficult to sell or mortgage.",
+            "why_it_matters": "This led to Mr Kelly's financial collapse and formed the basis of his claim of breach.",
+            "legal_hook": "Whether low SAP ratings constitute a breach of satisfactory quality or fitness for purpose."
+          },
+          {
+            "id": "stg_6",
+            "order": 6,
+            "date": "2000-06-01",
+            "date_label": "Commencement of Litigation",
+            "date_precision": "unknown",
+            "title": "Debt Claim and Counterclaim",
+            "category": "procedural",
+            "actor": "Jewsons Ltd.",
+            "what_happened": "Jewsons sued Mr Kelly for an unpaid balance of £53,322.43, and Mr Kelly counterclaimed for damages over the boilers.",
+            "why_it_matters": "This framed the legal dispute around the price of goods and the counterclaim for breach of warranty.",
+            "legal_hook": "Set-off and counterclaim for breach of contract."
+          },
+          {
+            "id": "stg_7",
+            "order": 7,
+            "date": "2000-12-20",
+            "date_label": "20 December 2000",
+            "date_precision": "exact",
+            "title": "First Preliminary Issues Trial",
+            "category": "decision",
+            "actor": "HHJ Playford QC",
+            "what_happened": "The judge held that Jewsons' standard terms applied, and clauses 8.7 and 8.10 were reasonable under UCTA.",
+            "why_it_matters": "This established that Jewsons could rely on clauses excluding reliance on advice and excluding consequential loss.",
+            "legal_hook": "Reasonableness of exclusion clauses under the Unfair Contract Terms Act 1977."
+          },
+          {
+            "id": "stg_8",
+            "order": 8,
+            "date": "2002-08-02",
+            "date_label": "2 August 2002",
+            "date_precision": "exact",
+            "title": "First Judgment on Second Preliminary Issues",
+            "category": "decision",
+            "actor": "Mr David Foskett QC",
+            "what_happened": "The Deputy High Court Judge resolved several preliminary issues, finding Jewsons in breach of sections 14(2) and 14(3).",
+            "why_it_matters": "This initial determination held Jewsons liable for the low SAP ratings of the boilers.",
+            "legal_hook": "Application of Sale of Goods Act 1979 sections 14(2) and 14(3)."
+          },
+          {
+            "id": "stg_9",
+            "order": 9,
+            "date": "2002-09-02",
+            "date_label": "2 September 2002",
+            "date_precision": "exact",
+            "title": "Second Judgment on Second Preliminary Issues",
+            "category": "decision",
+            "actor": "Mr David Foskett QC",
+            "what_happened": "The Deputy High Court Judge delivered his second judgment, resolving the remaining preliminary issues.",
+            "why_it_matters": "This completed the High Court's determination of the preliminary issues prior to the formal order.",
+            "legal_hook": "Finalization of preliminary issues on liability and recoverable loss."
+          },
+          {
+            "id": "stg_10",
+            "order": 10,
+            "date": "2002-10-02",
+            "date_label": "2 October 2002",
+            "date_precision": "exact",
+            "title": "Formal Order Stamped",
+            "category": "procedural",
+            "actor": "High Court of Justice",
+            "what_happened": "An undated order reflecting the judgments of 2 August and 2 September 2002 was stamped.",
+            "why_it_matters": "This formalised the High Court's decision, enabling Jewsons to appeal with the judge's permission.",
+            "legal_hook": "Right of appeal from a formal High Court order."
+          },
+          {
+            "id": "stg_11",
+            "order": 11,
+            "date": "2003-07-01",
+            "date_label": "July 2003",
+            "date_precision": "approximate",
+            "title": "Court of Appeal Judgment",
+            "category": "outcome",
+            "actor": "Court of Appeal (Civil Division)",
+            "what_happened": "The Court of Appeal allowed Jewsons' appeal, holding that there was no breach of section 14(2) or 14(3).",
+            "why_it_matters": "It clarified that satisfactory quality under s14(2) relates to intrinsic quality, and s14(3) requires reliance on the seller's skill for the buyer's specific purpose.",
+            "legal_hook": "Interpretation of sections 14(2) and 14(3) of the Sale of Goods Act 1979."
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "stg_7",
+            "explanation": "The ruling that Jewsons' standard terms (clauses 8.7 and 8.10) were reasonable set a high bar for the buyer to establish reliance and recover consequential losses."
+          },
+          {
+            "stage_id": "stg_8",
+            "explanation": "The Deputy High Court Judge's finding of breach under sections 14(2) and 14(3) initially established Jewsons' liability, prompting their appeal."
+          },
+          {
+            "stage_id": "stg_11",
+            "explanation": "The Court of Appeal's decision reversed the High Court's findings, clarifying the limits of satisfactory quality and fitness for purpose in commercial sales."
+          }
+        ],
+        "confidence": {
+          "score": 5,
+          "notes": [
+            "All dates and procedural steps are directly extracted from the judgment text.",
+            "The transition of the respondent from Mr Kelly to his personal representative Boyhan is accurately reflected.",
+            "The chronological order of the preliminary issues trials and judgments is preserved."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1031.json",
+      "status": "done",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py",
+      "storyline": {
+        "title": "Okta Crude Oil Refinery AD v Mamidoil-Jetoil Greek Petroleum Company S.A. & Anor",
+        "summary": "A commercial dispute arising from Okta's failure to perform an exclusive oil handling contract and an oil supply contract. Okta sought to rely on a force majeure clause triggered by FYROM government requests, but the courts rejected this defence because Okta had actively instigated those requests to escape its contractual obligations. The courts also upheld the validity of a separate oil supply contract despite claims of pricing uncertainty.",
+        "span": "1993 to 2003",
+        "parties": [
+          {
+            "name": "Okta Crude Oil Refinery AD",
+            "role": "Defendant / Appellant"
+          },
+          {
+            "name": "Mamidoil-Jetoil Greek Petroleum Company S.A.",
+            "role": "First Claimant / Respondent"
+          },
+          {
+            "name": "Moil-Coal",
+            "role": "Second Claimant / Respondent"
+          }
+        ],
+        "stages": [
+          {
+            "id": "stg_1",
+            "order": 1,
+            "date": "1993-03-05",
+            "date_label": "5 March 1993",
+            "date_precision": "exact",
+            "title": "Execution of the 1993 Contract",
+            "category": "background",
+            "actor": "Mamidoil-Jetoil Greek Petroleum Company S.A. and Okta Crude Oil Refinery AD",
+            "what_happened": "Jetoil and Okta entered into a 10-year contract giving Jetoil exclusive crude oil handling rights at its Thessaloniki terminal and a right of first refusal to supply crude oil to Okta's Skopje refinery.",
+            "why_it_matters": "This contract established the long-term commercial relationship and exclusive rights that form the core of the primary dispute.",
+            "legal_hook": "The contract contained an English law and arbitration clause, alongside a force majeure clause in its annex."
+          },
+          {
+            "id": "stg_2",
+            "order": 2,
+            "date": "1998-09-01",
+            "date_label": "September 1998",
+            "date_precision": "month",
+            "title": "Execution of the 1998 Oil Supply Contract",
+            "category": "background",
+            "actor": "Moil-Coal and Okta Crude Oil Refinery AD",
+            "what_happened": "Moil-Coal and Okta entered into a contract for the supply of 500,000 metric tons of crude oil over a one-year period.",
+            "why_it_matters": "This contract is the subject of the second action, where Okta later disputed its enforceability due to alleged pricing uncertainty.",
+            "legal_hook": "The contract's validity turned on whether its pricing mechanism was sufficiently certain to be legally binding."
+          },
+          {
+            "id": "stg_3",
+            "order": 3,
+            "date": "1999-01-01",
+            "date_label": "Early 1999",
+            "date_precision": "approximate",
+            "title": "Privatisation of Okta",
+            "category": "factual",
+            "actor": "Hellenic Petroleum SA and the FYROM Government",
+            "what_happened": "Okta, previously a state-owned corporation of the Former Yugoslav Republic of Macedonia (FYROM), was privatised. Hellenic Petroleum SA acquired a significant shareholding interest through a joint venture.",
+            "why_it_matters": "This shift in ownership aligned Okta's commercial interests with Hellenic Petroleum, creating an incentive to bypass Jetoil.",
+            "legal_hook": "The change of control provided the commercial motive for Okta's subsequent breaches of the 1993 contract."
+          },
+          {
+            "id": "stg_4",
+            "order": 4,
+            "date": "1999-07-01",
+            "date_label": "July 1999",
+            "date_precision": "month",
+            "title": "Okta Commences Breaches of the 1993 Contract",
+            "category": "factual",
+            "actor": "Okta Crude Oil Refinery AD",
+            "what_happened": "Okta stopped permitting Jetoil to handle non-heated crude oil and ceased offering Jetoil the right of first refusal, choosing instead to deal with Hellenic Petroleum.",
+            "why_it_matters": "This constituted an admitted breach of the 1993 contract, forcing Jetoil to seek legal redress.",
+            "legal_hook": "Okta admitted the physical non-performance but sought to excuse it under the contract's force majeure provisions."
+          },
+          {
+            "id": "stg_5",
+            "order": 5,
+            "date": "1999-11-11",
+            "date_label": "11 November 1999",
+            "date_precision": "exact",
+            "title": "Jetoil Obtains Commercial Court Injunction",
+            "category": "procedural",
+            "actor": "Mamidoil-Jetoil Greek Petroleum Company S.A. and the Commercial Court",
+            "what_happened": "Jetoil obtained a without-notice 7-day injunction from Longmore J preventing Okta from using any other party to handle crude oil destined for its refinery.",
+            "why_it_matters": "The injunction legally blocked Okta from executing its preferred arrangement with Hellenic, prompting urgent action from Okta's management.",
+            "legal_hook": "An interim injunction was granted to preserve the status quo and enforce negative covenants in a contract."
+          },
+          {
+            "id": "stg_6",
+            "order": 6,
+            "date": "1999-11-15",
+            "date_label": "15 November 1999",
+            "date_precision": "exact",
+            "title": "Okta's Lawyers Draft Government Request Letter",
+            "category": "factual",
+            "actor": "Okta's Legal Advisors",
+            "what_happened": "Following discussions between Okta's management and FYROM officials, Okta's Greek lawyer drafted a letter to be signed by the FYROM Minister of Trade instructing Okta not to perform the Jetoil contract.",
+            "why_it_matters": "This proved that the 'governmental request' was not an independent sovereign act but was actively engineered by Okta to escape the injunction.",
+            "legal_hook": "A party cannot rely on a force majeure event that it has itself actively instigated or brought about."
+          },
+          {
+            "id": "stg_7",
+            "order": 7,
+            "date": "1999-11-16",
+            "date_label": "16 November 1999",
+            "date_precision": "exact",
+            "title": "FYROM Minister of Trade Issues First Request Letter",
+            "category": "factual",
+            "actor": "FYROM Minister of Trade",
+            "what_happened": "Following a meeting with the Prime Minister, the FYROM Minister of Trade signed and sent the drafted letter to Okta, followed by a second letter on 26 November 1999.",
+            "why_it_matters": "These letters formed the factual basis of Okta's force majeure defence.",
+            "legal_hook": "Whether compliance with a requested sovereign directive constitutes a force majeure event 'beyond the control' of the affected party."
+          },
+          {
+            "id": "stg_8",
+            "order": 8,
+            "date": "2000-01-15",
+            "date_label": "January 2000",
+            "date_precision": "month",
+            "title": "Commercial Court Rules on Contract Expiry",
+            "category": "procedural",
+            "actor": "Thomas J (Commercial Court)",
+            "what_happened": "Thomas J ruled that the 1993 contract had expired on 31 December 1999, meaning Okta could not be in breach after that date.",
+            "why_it_matters": "This temporarily limited Okta's exposure to damages, but the ruling was subsequently appealed.",
+            "legal_hook": "Contractual interpretation regarding the duration and termination date of a long-term commercial agreement."
+          },
+          {
+            "id": "stg_9",
+            "order": 9,
+            "date": "2001-03-15",
+            "date_label": "March 2001",
+            "date_precision": "month",
+            "title": "Court of Appeal Reinstates the 1993 Contract",
+            "category": "procedural",
+            "actor": "Court of Appeal",
+            "what_happened": "The Court of Appeal reversed Thomas J's decision, holding that the 1993 contract remained valid and in force until March 2003.",
+            "why_it_matters": "This revived Jetoil's claims for ongoing breaches and forced Okta to seek further governmental intervention.",
+            "legal_hook": "Appellate review of contractual construction concerning duration."
+          },
+          {
+            "id": "stg_10",
+            "order": 10,
+            "date": "2001-05-30",
+            "date_label": "30 May 2001",
+            "date_precision": "exact",
+            "title": "FYROM Government Issues Third Request Letter",
+            "category": "factual",
+            "actor": "FYROM Government",
+            "what_happened": "Following the Court of Appeal's decision, the FYROM government issued another letter requesting Okta not to perform the contract, which was again instigated by Okta and its lawyers.",
+            "why_it_matters": "This letter was Okta's secondary line of defence for breaches occurring after March 2001.",
+            "legal_hook": "The requirement of independence in governmental requests invoked under a force majeure clause."
+          },
+          {
+            "id": "stg_11",
+            "order": 11,
+            "date": "2002-12-01",
+            "date_label": "Late 2002",
+            "date_precision": "approximate",
+            "title": "Commercial Court Trial and Judgments",
+            "category": "decision",
+            "actor": "Aikens J (Commercial Court)",
+            "what_happened": "Aikens J tried both actions together. He rejected Okta's force majeure defence because the letters were instigated by Okta, and held the 1998 oil supply contract enforceable despite pricing uncertainty.",
+            "why_it_matters": "This established Okta's liability for damages in both actions.",
+            "legal_hook": "Factual causation in force majeure clauses and the legal test for contractual certainty in pricing mechanisms."
+          },
+          {
+            "id": "stg_12",
+            "order": 12,
+            "date": "2003-07-17",
+            "date_label": "2003",
+            "date_precision": "year",
+            "title": "Court of Appeal Dismisses Okta's Appeals",
+            "category": "outcome",
+            "actor": "Court of Appeal (Longmore LJ)",
+            "what_happened": "The Court of Appeal dismissed both of Okta's appeals, confirming that a party cannot rely on a force majeure clause for government requests it instigated, and that the 1998 contract was sufficiently certain.",
+            "why_it_matters": "This final judgment solidified the principle that force majeure clauses require genuine, independent external events and upheld the commercial validity of the contracts.",
+            "legal_hook": "A force majeure clause does not excuse non-performance where the governmental request was instigated by the affected party itself."
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "stg_5",
+            "description": "The granting of the interim injunction on 11 November 1999 legally blocked Okta's bypass of Jetoil, forcing Okta to seek alternative means to escape its contractual obligations."
+          },
+          {
+            "stage_id": "stg_6",
+            "description": "The drafting of the government request letter by Okta's own legal advisors on 15 November 1999 fatally undermined their subsequent force majeure defence by proving the request was not independent."
+          },
+          {
+            "stage_id": "stg_9",
+            "description": "The Court of Appeal's March 2001 decision to reverse Thomas J and reinstate the 1993 contract until 2003 revived Okta's substantial liability and prompted the third government letter."
+          }
+        ],
+        "confidence": {
+          "score": 5,
+          "notes": [
+            "The exact date of the trial judgments by Aikens J is not explicitly stated in the excerpt, so it is represented with approximate precision.",
+            "The exact date of the Court of Appeal judgment is represented by the year 2003 based on the neutral citation [2003] EWCA Civ 1031."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1032.json",
+      "status": "done",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py",
+      "storyline": {
+        "title": "AE & Anor v Secretary of State for the Home Department",
+        "summary": "An appeal concerning the correct approach to the 'internal relocation' alternative under the Refugee Convention, specifically whether a spouse's severe PTSD makes relocation to Colombo 'unduly harsh'.",
+        "span": "1998 - 2003",
+        "parties": [
+          {
+            "name": "AE & Anor",
+            "role": "Appellants (Sri Lankan asylum seekers)"
+          },
+          {
+            "name": "Secretary of State for the Home Department",
+            "role": "Respondent"
+          }
+        ],
+        "stages": [
+          {
+            "id": "stage_1",
+            "order": 1,
+            "date": "1998-01-01",
+            "date_label": "January 1998",
+            "date_precision": "month",
+            "title": "Arrest and Detention of Husband",
+            "category": "factual",
+            "actor": "Sri Lankan Army",
+            "what_happened": "The husband was arrested by the army in Jaffna for assisting the LTTE and was seriously ill-treated during his detention.",
+            "why_it_matters": "This established the initial well-founded fear of persecution in northern Sri Lanka.",
+            "legal_hook": "Article 1A(2) of the Refugee Convention (well-founded fear of persecution)."
+          },
+          {
+            "id": "stage_2",
+            "order": 2,
+            "date": "1998-06-01",
+            "date_label": "June 1998",
+            "date_precision": "month",
+            "title": "Release from Detention",
+            "category": "factual",
+            "actor": "The Wife",
+            "what_happened": "The wife paid a bribe to secure the husband's release from army detention.",
+            "why_it_matters": "The husband was freed but remained at risk within Sri Lanka.",
+            "legal_hook": "Factual background to the asylum claim."
+          },
+          {
+            "id": "stage_3",
+            "order": 3,
+            "date": "1998-09-01",
+            "date_label": "September 1998",
+            "date_precision": "month",
+            "title": "Resumed LTTE Assistance",
+            "category": "factual",
+            "actor": "The Husband",
+            "what_happened": "The husband reluctantly resumed assisting the LTTE to prevent his 16-year-old son from being recruited.",
+            "why_it_matters": "This renewed his exposure to risk and persecution by the state authorities.",
+            "legal_hook": "Factual background to the ongoing fear of persecution."
+          },
+          {
+            "id": "stage_4",
+            "order": 4,
+            "date": "1999-01-01",
+            "date_label": "January 1999",
+            "date_precision": "month",
+            "title": "Husband Goes into Hiding and Wife is Raped",
+            "category": "factual",
+            "actor": "Sri Lankan Army",
+            "what_happened": "The husband went into hiding to escape the army. During a search for him, army soldiers raped his wife.",
+            "why_it_matters": "This traumatic event caused the wife's severe PTSD, which became the central issue in the internal relocation assessment.",
+            "legal_hook": "Factual basis for the wife's psychiatric condition and fear."
+          },
+          {
+            "id": "stage_5",
+            "order": 5,
+            "date": "1999-03-20",
+            "date_label": "20 March 1999",
+            "date_precision": "exact",
+            "title": "Wife and Children Arrive in the UK",
+            "category": "procedural",
+            "actor": "The Wife",
+            "what_happened": "The wife and her four children attempted a clandestine entry at Dover, were discovered, and immediately claimed asylum.",
+            "why_it_matters": "This initiated the formal asylum process for the wife and children in the UK.",
+            "legal_hook": "Application for refugee status under the 1951 Refugee Convention."
+          },
+          {
+            "id": "stage_6",
+            "order": 6,
+            "date": "1999-07-06",
+            "date_label": "6 July 1999",
+            "date_precision": "exact",
+            "title": "Husband Arrives in the UK",
+            "category": "procedural",
+            "actor": "The Husband",
+            "what_happened": "After staying in Colombo, the husband travelled to England with the help of an agent and claimed asylum.",
+            "why_it_matters": "Both spouses were now in the UK with active, separate asylum claims.",
+            "legal_hook": "Application for refugee status under the 1951 Refugee Convention."
+          },
+          {
+            "id": "stage_7",
+            "order": 7,
+            "date": "2000-01-01",
+            "date_label": "Circa 2000",
+            "date_precision": "approximate",
+            "title": "Secretary of State Refuses Asylum",
+            "category": "institutional",
+            "actor": "Secretary of State for the Home Department",
+            "what_happened": "The Secretary of State refused the asylum claims of both the husband and the wife.",
+            "why_it_matters": "This decision forced the family to appeal to an adjudicator.",
+            "legal_hook": "Refusal of refugee status under Article 1A(2) of the Refugee Convention."
+          },
+          {
+            "id": "stage_8",
+            "order": 8,
+            "date": "2001-06-26",
+            "date_label": "26 June 2001",
+            "date_precision": "exact",
+            "title": "Adjudicator Allows Appeals",
+            "category": "decision",
+            "actor": "The Adjudicator",
+            "what_happened": "The adjudicator found that while there was no fear of persecution in Colombo, relocating there would be 'unduly harsh' due to the wife's severe PTSD, and allowed both appeals.",
+            "why_it_matters": "This established the 'unduly harsh' test as a barrier to internal relocation based on non-Convention medical factors.",
+            "legal_hook": "Application of the 'unduly harsh' test for internal relocation under Robinson."
+          },
+          {
+            "id": "stage_9",
+            "order": 9,
+            "date": "2002-11-12",
+            "date_label": "12 November 2002",
+            "date_precision": "exact",
+            "title": "Immigration Appeal Tribunal Overturns Adjudicator",
+            "category": "decision",
+            "actor": "Immigration Appeal Tribunal",
+            "what_happened": "The Tribunal allowed the Home Secretary's appeal, holding that medical conditions alone do not make someone a refugee if adequate treatment is available in the relocation area.",
+            "why_it_matters": "This reversed the adjudicator's decision and narrowed the scope of the 'unduly harsh' test regarding medical conditions.",
+            "legal_hook": "Interpretation of 'unduly harsh' in the context of internal relocation and medical treatment."
+          },
+          {
+            "id": "stage_10",
+            "order": 10,
+            "date": "2002-11-30",
+            "date_label": "Late 2002",
+            "date_precision": "approximate",
+            "title": "Permission to Appeal Granted",
+            "category": "procedural",
+            "actor": "Collins J",
+            "what_happened": "Collins J granted the appellants permission to appeal to the Court of Appeal to clarify the correct approach to internal relocation.",
+            "why_it_matters": "It allowed the Court of Appeal to reconsider the leading authority (Robinson) in light of the Human Rights Act 1998.",
+            "legal_hook": "Permission to appeal on a point of law."
+          },
+          {
+            "id": "stage_11",
+            "order": 11,
+            "date": "2003-01-01",
+            "date_label": "2003",
+            "date_precision": "year",
+            "title": "Court of Appeal Dismisses Appeal",
+            "category": "outcome",
+            "actor": "Court of Appeal (Civil Division)",
+            "what_happened": "The Court of Appeal dismissed the appeal, holding that the family could reasonably relocate to Colombo and that the wife's psychiatric condition was a neutral factor for refugee status.",
+            "why_it_matters": "It clarified that the 'unduly harsh' test compares conditions in the home area with the relocation area, not the country of asylum, and that non-Convention medical conditions do not establish refugee status.",
+            "legal_hook": "Clarification of the internal relocation alternative under Article 1A(2) of the Refugee Convention."
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "stage_4",
+            "title": "The Rape of the Wife",
+            "explanation": "This traumatic event caused the severe PTSD that became the central medical and legal issue in the internal relocation assessment."
+          },
+          {
+            "stage_id": "stage_8",
+            "title": "Adjudicator Introduces PTSD as a Relocation Barrier",
+            "explanation": "The adjudicator's decision introduced the wife's psychiatric condition as a factor making relocation 'unduly harsh', setting up the core legal dispute."
+          },
+          {
+            "stage_id": "stage_9",
+            "title": "Tribunal Restricts Medical Arguments",
+            "explanation": "The IAT's reversal established that medical conditions are generally neutral factors if treatment is available, prompting the appeal on a point of law."
+          }
+        ],
+        "confidence": {
+          "notes": [
+            "Factual dates are extracted directly from the judgment text.",
+            "The date of the Secretary of State's refusal is estimated as it is not explicitly dated in the text, but occurred between July 1999 and June 2001.",
+            "The date of Collins J granting permission is estimated as shortly after the IAT decision in November 2002."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1033.json",
+      "status": "done",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py",
+      "storyline": {
+        "title": "Dunblane Property Ltd v Motorcare Holdings Ltd: Construction of Preferred Supplier Rights",
+        "summary": "A dispute arising from a 1995 Share Sale Agreement (SSA) where Dunblane Property and Mr Rand claimed damages for breach of preferred supplier rights. The Court of Appeal determined the geographical scope of these rights (construed as a 10-mile first refusal) and the extent to which a subsequent 1996 Key Repairers Agreement (KRA) varied the original SSA.",
+        "span": {
+          "start": "1991",
+          "end": "2003",
+          "label": "1991 to 2003"
+        },
+        "parties": [
+          {
+            "name": "Dunblane Property Limited",
+            "role": "Claimant / Respondent"
+          },
+          {
+            "name": "Mr Rand",
+            "role": "Claimant / Respondent"
+          },
+          {
+            "name": "Motorcare Holdings Limited",
+            "role": "Defendant / Appellant"
+          },
+          {
+            "name": "Powerstore (Services) Limited",
+            "role": "Defendant / Appellant"
+          },
+          {
+            "name": "Motorcare Services Limited (MSL)",
+            "role": "Subject Company"
+          },
+          {
+            "name": "Knightsbridge Cars (Bodyshop) Limited (KBL)",
+            "role": "Subsidiary of Dunblane"
+          }
+        ],
+        "stages": [
+          {
+            "id": "stage_1",
+            "order": 1,
+            "date": "1991",
+            "date_label": "1991",
+            "date_precision": "year",
+            "title": "Incorporation of MSL",
+            "category": "background",
+            "actor": "Mr Rand",
+            "what_happened": "Mr Rand incorporates Motorcare Services Ltd (MSL) to provide vehicle accident repair services for motor insurers.",
+            "why_it_matters": "This established the business model of managing accident repair notifications (ARNs) through a network of approved repairers.",
+            "legal_hook": "The commercial context of MSL's operations is central to interpreting the subsequent preferred supplier agreements."
+          },
+          {
+            "id": "stage_2",
+            "order": 2,
+            "date": "1994-03-17",
+            "date_label": "17 March 1994",
+            "date_precision": "exact",
+            "title": "Share Allotment to Powerstore",
+            "category": "factual",
+            "actor": "Powerstore (Services) Limited and Mr Rand",
+            "what_happened": "An agreement is made where MSL issues 667 ordinary shares to Powerstore, and Clive Vlotman becomes a director and chairman of MSL.",
+            "why_it_matters": "This brought Powerstore and Mr Vlotman into the ownership and management of MSL alongside Mr Rand.",
+            "legal_hook": "Establishes the corporate relationship and shareholding structure prior to the dispute."
+          },
+          {
+            "id": "stage_3",
+            "order": 3,
+            "date": "1994-07",
+            "date_label": "July 1994",
+            "date_precision": "month",
+            "title": "Exclusion of Mr Rand",
+            "category": "factual",
+            "actor": "MSL Board",
+            "what_happened": "Following a deterioration in boardroom relationships, Mr Rand is asked not to attend MSL's offices from the end of July 1994.",
+            "why_it_matters": "This dispute led directly to the negotiation of the Share Sale and Purchase Agreement (SSA) to buy out Mr Rand's interests.",
+            "legal_hook": "The breakdown of relations forms the immediate factual matrix for the settlement terms in the SSA."
+          },
+          {
+            "id": "stage_4",
+            "order": 4,
+            "date": "1995-05-16",
+            "date_label": "16 May 1995",
+            "date_precision": "exact",
+            "title": "Execution of the Share Sale Agreement",
+            "category": "factual",
+            "actor": "Dunblane Property Ltd, Mr Rand, Powerstore, and MSL",
+            "what_happened": "The parties execute a Share Sale and Purchase Agreement (SSA) under which Dunblane sells its shares in MSL to Powerstore, and Dunblane/subsidiaries are granted preferred supplier rights under Schedule 3.",
+            "why_it_matters": "This agreement settled the initial dispute but created the preferred supplier obligations that became the subject of the current litigation.",
+            "legal_hook": "The construction of Schedule 3, paragraph 4 of this agreement is the primary legal issue on appeal."
+          },
+          {
+            "id": "stage_5",
+            "order": 5,
+            "date": "1995-08-21",
+            "date_label": "21 August 1995",
+            "date_precision": "exact",
+            "title": "Execution of the Approved Repairer Agreement",
+            "category": "factual",
+            "actor": "MSL and Knightsbridge Cars (Bodyshop) Ltd",
+            "what_happened": "The parties enter into an Approved Repairer Agreement (ARA), which contains a clause stating MSL is under no obligation to refer work to the repairer.",
+            "why_it_matters": "This clause directly conflicted with the preferred supplier rights granted in Schedule 3 of the SSA.",
+            "legal_hook": "The court had to determine the effect of the 21 August 1995 ARA on the pre-existing rights under the SSA."
+          },
+          {
+            "id": "stage_6",
+            "order": 6,
+            "date": "1996-03-14",
+            "date_label": "14 March 1996",
+            "date_precision": "exact",
+            "title": "Compromise Meeting",
+            "category": "factual",
+            "actor": "Mr Rand and Mr Vlotman",
+            "what_happened": "A meeting is held between Mr Rand and Mr Vlotman to discuss ongoing disputes regarding preferred supplier status and referral failures.",
+            "why_it_matters": "The defendants argued that past disputes and breaches of the SSA were compromised at this meeting.",
+            "legal_hook": "Whether oral agreements or understandings at this meeting legally compromised past claims for breach of the SSA."
+          },
+          {
+            "id": "stage_7",
+            "order": 7,
+            "date": "1996-03-26",
+            "date_label": "26 March 1996",
+            "date_precision": "exact",
+            "title": "Execution of the Key Repairers Agreement",
+            "category": "factual",
+            "actor": "Mr Rand and Mr Vlotman",
+            "what_happened": "Mr Rand and Mr Vlotman agree a Key Repairers Agreement (KRA) fixing 40 ARNs per month and specified postcodes for the Kingsbury site.",
+            "why_it_matters": "This agreement attempted to resolve the practical difficulties of implementing the preferred supplier status.",
+            "legal_hook": "Whether the KRA varied, replaced, or merely implemented the preferred supplier rights under the SSA."
+          },
+          {
+            "id": "stage_8",
+            "order": 8,
+            "date": "2002-12-20",
+            "date_label": "20 December 2002",
+            "date_precision": "exact",
+            "title": "High Court Preliminary Issues Judgment",
+            "category": "decision",
+            "actor": "Mr Arthur Marriott QC (Deputy High Court Judge)",
+            "what_happened": "The Deputy High Court Judge determines the preliminary issues, holding that the KRA did not affect SSA rights and interpreting the preferred supplier provisions.",
+            "why_it_matters": "This decision formed the basis of the appeal, with the defendants challenging almost all of the judge's findings.",
+            "legal_hook": "The judge's construction of 'locality' and the effect of the KRA were the key legal determinations appealed."
+          },
+          {
+            "id": "stage_9",
+            "order": 9,
+            "date": "2003",
+            "date_label": "2003",
+            "date_precision": "year",
+            "title": "Court of Appeal Judgment",
+            "category": "outcome",
+            "actor": "Court of Appeal (Civil Division)",
+            "what_happened": "The Court of Appeal allows the appeal in part, construing Schedule 3 as a 10-mile first refusal and holding that the KRA varied the SSA for Kingsbury from its effective date.",
+            "why_it_matters": "It clarified the geographical scope of the preferred supplier rights and the legal effect of the subsequent KRA on the original SSA.",
+            "legal_hook": "Contractual construction of preferred supplier clauses and the doctrine of variation of contract by subsequent agreement."
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "stage_4",
+            "title": "Establishment of Preferred Supplier Rights",
+            "change_of_direction": "The execution of the SSA settled the initial boardroom dispute but introduced the complex preferred supplier framework that led to the current litigation."
+          },
+          {
+            "stage_id": "stage_7",
+            "title": "Execution of the Key Repairers Agreement",
+            "change_of_direction": "The KRA varied the implementation of the SSA for the Kingsbury site, altering the contractual rights of the parties from that date forward."
+          },
+          {
+            "stage_id": "stage_9",
+            "title": "Court of Appeal's Partial Allowance of Appeal",
+            "change_of_direction": "The Court of Appeal corrected the High Court's finding on the KRA, ruling that it did vary the SSA for Kingsbury, while upholding the 10-mile first refusal construction."
+          }
+        ],
+        "confidence": {
+          "score": 0.95,
+          "notes": [
+            "Dates and events are directly extracted from the judgment text, including the exact dates of the SSA, ARA, KRA, and the High Court judgment.",
+            "The neutral citation year 2003 is used for the Court of Appeal judgment stage."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1034.json",
+      "status": "done",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py",
+      "storyline": {
+        "title": "Young v Western Power Distribution (South West) Plc",
+        "summary": "A widow's derivative claims under the Fatal Accidents Act 1976 and the Law Reform (Miscellaneous Provisions) Act 1934 were held to be statute-barred because her deceased husband had previously issued and discontinued a personal injury action within the primary limitation period, triggering the Walkley bar on the court's section 33 discretion.",
+        "span": "1959 - 2003",
+        "parties": [
+          {
+            "name": "Barry Young",
+            "role": "Deceased Claimant"
+          },
+          {
+            "name": "Jean Young",
+            "role": "Respondent (Widow and Executrix)"
+          },
+          {
+            "name": "Western Power Distribution (South West) Plc",
+            "role": "Appellant (Defendant / Former Employer)"
+          }
+        ],
+        "stages": [
+          {
+            "id": "stage_1",
+            "order": 1,
+            "date": "1959-01-01",
+            "date_label": "1959 to January 1994",
+            "date_precision": "year",
+            "title": "Employment and Asbestos Exposure",
+            "category": "background",
+            "actor": "Barry Young",
+            "what_happened": "Barry Young worked for the South Western Electricity Board (later Western Power Distribution) and was exposed intermittently to asbestos from 1961 until his retirement on medical grounds.",
+            "why_it_matters": "This exposure laid the factual foundation for his subsequent asbestos-related illness and the resulting litigation.",
+            "legal_hook": "Employer's common law duty of care and statutory duties regarding occupational exposure to hazardous substances."
+          },
+          {
+            "id": "stage_2",
+            "order": 2,
+            "date": "1993-12-21",
+            "date_label": "21 December 1993",
+            "date_precision": "exact",
+            "title": "Initial Diagnosis and Date of Knowledge",
+            "category": "factual",
+            "actor": "Barry Young",
+            "what_happened": "Barry Young was advised by his treating specialist that he had an asbestos-related malignant mesothelioma, based on an initial histological report.",
+            "why_it_matters": "This advice established his 'date of knowledge' under the Limitation Act 1980, starting the three-year primary limitation period.",
+            "legal_hook": "Section 11(4)(b) and Section 14 of the Limitation Act 1980."
+          },
+          {
+            "id": "stage_3",
+            "order": 3,
+            "date": "1995-01-06",
+            "date_label": "6 January 1995",
+            "date_precision": "exact",
+            "title": "First Personal Injury Claim Issued",
+            "category": "procedural",
+            "actor": "Barry Young",
+            "what_happened": "Barry Young issued a personal injury claim against his employers within the primary three-year limitation period.",
+            "why_it_matters": "Because the action was brought within the primary limitation period, the Walkley precedent would later apply to restrict subsequent actions.",
+            "legal_hook": "Section 11 of the Limitation Act 1980."
+          },
+          {
+            "id": "stage_4",
+            "order": 4,
+            "date": "1996-07-26",
+            "date_label": "26 July 1996",
+            "date_precision": "exact",
+            "title": "Defendants Disclose Conflicting Medical Evidence",
+            "category": "factual",
+            "actor": "Western Power Distribution (South West) Plc",
+            "what_happened": "The defendants disclosed medical evidence concluding that Barry Young suffered from adenocarcinoma (which was not asbestos-related) rather than mesothelioma.",
+            "why_it_matters": "This cast severe doubt on the viability of the claimant's action, leading his own medical expert to accept there was 'considerable doubt' as to the diagnosis.",
+            "legal_hook": "Civil litigation disclosure of expert medical evidence."
+          },
+          {
+            "id": "stage_5",
+            "order": 5,
+            "date": "1997-01-17",
+            "date_label": "17 January 1997",
+            "date_precision": "exact",
+            "title": "Discontinuance of First Action",
+            "category": "procedural",
+            "actor": "Barry Young",
+            "what_happened": "In light of the medical uncertainty, Barry Young discontinued his personal injury action, with the defendants agreeing to bear their own costs.",
+            "why_it_matters": "Discontinuing a timeous action meant that, under the Walkley rule, he (and his estate/dependants) could not later ask the court to disapply limitation under section 33.",
+            "legal_hook": "Discontinuance of proceedings and the rule in Walkley v Precision Forgings Ltd."
+          },
+          {
+            "id": "stage_6",
+            "order": 6,
+            "date": "1999-03-02",
+            "date_label": "2 March 1999",
+            "date_precision": "exact",
+            "title": "Death of Barry Young",
+            "category": "factual",
+            "actor": "Barry Young",
+            "what_happened": "Barry Young died at the age of 55.",
+            "why_it_matters": "His death triggered potential derivative claims under the Fatal Accidents Act 1976 and the Law Reform (Miscellaneous Provisions) Act 1934.",
+            "legal_hook": "Section 1 of the Fatal Accidents Act 1976 and Section 1(1) of the Law Reform (Miscellaneous Provisions) Act 1934."
+          },
+          {
+            "id": "stage_7",
+            "order": 7,
+            "date": "1999-03-17",
+            "date_label": "March 1999",
+            "date_precision": "month",
+            "title": "Post-Mortem Confirms Mesothelioma",
+            "category": "factual",
+            "actor": "Jean Young",
+            "what_happened": "A post-mortem examination and subsequent inquest confirmed that Barry Young's death was indeed caused by mesothelioma.",
+            "why_it_matters": "This established that the original diagnosis was correct and that the disease was asbestos-related, giving Jean Young a factual basis to sue.",
+            "legal_hook": "Establishing causation and the date of knowledge for the personal representative under Section 11(5) and Section 12(2) of the Limitation Act 1980."
+          },
+          {
+            "id": "stage_8",
+            "order": 8,
+            "date": "2002-05-22",
+            "date_label": "22 May 2002",
+            "date_precision": "exact",
+            "title": "Widow Commences Fresh Proceedings",
+            "category": "procedural",
+            "actor": "Jean Young",
+            "what_happened": "Jean Young, as widow and executrix, effectively issued fresh proceedings under the 1976 and 1934 Acts.",
+            "why_it_matters": "The claims were issued more than three years after the date of death/knowledge (March 1999), meaning they were prima facie time-barred.",
+            "legal_hook": "Section 11(5) and Section 12(2) of the Limitation Act 1980."
+          },
+          {
+            "id": "stage_9",
+            "order": 9,
+            "date": "2003-03-05",
+            "date_label": "5 March 2003",
+            "date_precision": "exact",
+            "title": "Preliminary Issue Trial on Limitation",
+            "category": "decision",
+            "actor": "HHJ Mackay",
+            "what_happened": "HHJ Mackay held that the court's section 33 discretion was available and exercised it to allow Jean Young's claims to proceed.",
+            "why_it_matters": "The judge bypassed the Walkley restriction, prompting an appeal by the employers.",
+            "legal_hook": "Section 33 of the Limitation Act 1980."
+          },
+          {
+            "id": "stage_10",
+            "order": 10,
+            "date": "2003-07-15",
+            "date_label": "July 2003",
+            "date_precision": "approximate",
+            "title": "Court of Appeal Allows Employers' Appeal",
+            "category": "outcome",
+            "actor": "Court of Appeal (Civil Division)",
+            "what_happened": "The Court of Appeal allowed the appeal, holding that the Walkley precedent barred the exercise of section 33 discretion for both the 1934 Act and 1976 Act claims.",
+            "why_it_matters": "This confirmed that a widow's derivative claims are barred if the deceased had previously issued and discontinued a timeous action.",
+            "legal_hook": "The rule in Walkley v Precision Forgings Ltd and its application to derivative claims."
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "stage_5",
+            "rationale": "The discontinuance of the first action by Barry Young triggered the Walkley rule, which ultimately barred his widow from seeking the exercise of section 33 discretion years later."
+          },
+          {
+            "stage_id": "stage_7",
+            "rationale": "The post-mortem examination revived the factual viability of the mesothelioma claim, but occurred too late to undo the legal consequences of the prior discontinuance."
+          },
+          {
+            "stage_id": "stage_10",
+            "rationale": "The Court of Appeal's decision established that the Walkley bar extends to derivative claims brought under the Fatal Accidents Act 1976 and the Law Reform (Miscellaneous Provisions) Act 1934."
+          }
+        ],
+        "confidence": {
+          "score": 5,
+          "notes": [
+            "All key dates, including the dates of diagnosis, discontinuance, death, and subsequent filings, are directly supported by the judgment text.",
+            "The legal relationships and statutory provisions are accurately represented in accordance with English limitation law."
+          ]
+        }
+      }
+    },
+    {
+      "source_path": "data/judgments/ewca/civ/2003/1035.json",
+      "status": "done",
+      "notes": "Catchup batch 3 generated via storyline_catchup_generate.py",
+      "storyline": {
+        "title": "Northern & Shell Plc v John Laing Construction Ltd.",
+        "summary": "A dispute over whether a building warranty deed took retrospective effect from the day after practical completion for limitation purposes, ultimately determining that the 12-year limitation period had expired.",
+        "span": "1988 - 2003",
+        "parties": [
+          {
+            "name": "Northern & Shell Plc",
+            "role": "Claimant / Appellant"
+          },
+          {
+            "name": "John Laing Construction Ltd",
+            "role": "Defendant / Respondent"
+          }
+        ],
+        "stages": [
+          {
+            "id": "stage_1",
+            "order": 1,
+            "date": "1988-02-10",
+            "date_label": "10 February 1988",
+            "date_precision": "exact",
+            "title": "Execution of Main Building Contract",
+            "category": "background",
+            "actor": "John Laing Construction Ltd and Brunel Centre Ltd",
+            "what_happened": "The developer, Brunel Centre Ltd, and the contractor, John Laing Construction Ltd, entered into a JCT building contract under seal for the construction of Merchants House.",
+            "why_it_matters": "Clause 45 of the contract obliged the contractor to enter into collateral warranties under seal with initial occupational tenants holding leases of 15 years or more.",
+            "legal_hook": "The contractual obligation to provide warranties established the legal framework and commercial context for the subsequent Deed of Warranty."
+          },
+          {
+            "id": "stage_2",
+            "order": 2,
+            "date": "1989-05-23",
+            "date_label": "23 May 1989",
+            "date_precision": "exact",
+            "title": "Acquisition of Leasehold by Stockley Academy",
+            "category": "factual",
+            "actor": "Stockley Academy Ltd",
+            "what_happened": "Stockley Academy Ltd purchased a long leasehold interest in excess of 15 years from the developer.",
+            "why_it_matters": "As an initial occupational tenant with a lease over 15 years, Stockley Academy became an 'Entitled Party' under the building contract, eligible to receive a warranty under seal.",
+            "legal_hook": "This transaction triggered the contractor's obligation under Clause 45 of the building contract to execute a warranty."
+          },
+          {
+            "id": "stage_3",
+            "order": 3,
+            "date": "1989-08-25",
+            "date_label": "25 August 1989",
+            "date_precision": "exact",
+            "title": "Practical Completion of External Works",
+            "category": "factual",
+            "actor": "John Laing Construction Ltd",
+            "what_happened": "The final certificate of practical completion in respect of the external works was issued.",
+            "why_it_matters": "This marked the completion of the physical works and the transition to the defects liability period.",
+            "legal_hook": "Practical completion is the standard milestone in construction contracts from which defects liability and limitation periods typically run."
+          },
+          {
+            "id": "stage_4",
+            "order": 4,
+            "date": "1989-08-26",
+            "date_label": "26 August 1989",
+            "date_precision": "exact",
+            "title": "Contractual Effective Date of Warranty",
+            "category": "factual",
+            "actor": "John Laing Construction Ltd and Stockley Academy Ltd",
+            "what_happened": "This was the day following the issue of the certificate of practical completion, designated by Clause 5 of the Deed of Warranty as the date the deed 'shall come into effect'.",
+            "why_it_matters": "The court later determined that this clause operated retrospectively, meaning the 12-year limitation period began to run from this date.",
+            "legal_hook": "The interpretation of Clause 5 and whether it could retrospectively trigger the limitation period was the central legal issue in the case."
+          },
+          {
+            "id": "stage_5",
+            "order": 5,
+            "date": "1990-01-16",
+            "date_label": "16 January 1990",
+            "date_precision": "exact",
+            "title": "Execution of the Deed of Warranty",
+            "category": "factual",
+            "actor": "John Laing Construction Ltd and Stockley Academy Ltd",
+            "what_happened": "The parties executed the Deed of Warranty. The language of Clause 5 was left unamended, despite the deed being signed four and a half months after practical completion.",
+            "why_it_matters": "The Claimants argued that because a contract cannot exist before it is signed, the cause of action could only accrue on this date.",
+            "legal_hook": "The execution of a deed under seal usually marks the commencement of its obligations, unless a contrary intention is shown."
+          },
+          {
+            "id": "stage_6",
+            "order": 6,
+            "date": "1990-08-31",
+            "date_label": "August 1990",
+            "date_precision": "month",
+            "title": "Expiry of Defects Liability Period",
+            "category": "factual",
+            "actor": "John Laing Construction Ltd",
+            "what_happened": "The 12-month defects liability period under the main building contract expired for the external works.",
+            "why_it_matters": "This marked the end of the contractor's immediate contractual obligation to remedy defects under the main contract.",
+            "legal_hook": "The alignment of the warranty's effective date with the day after practical completion mirrored the transition of obligations under the main contract."
+          },
+          {
+            "id": "stage_7",
+            "order": 7,
+            "date": "2002-01-15",
+            "date_label": "January 2002",
+            "date_precision": "approximate",
+            "title": "Commencement of Legal Proceedings",
+            "category": "procedural",
+            "actor": "Northern & Shell Plc",
+            "what_happened": "Northern & Shell Plc, as successor in title to Stockley Academy, commenced legal proceedings against John Laing Construction Ltd alleging defects in the cladding and weatherproofing.",
+            "why_it_matters": "If the limitation period ran from 26 August 1989, the 12-year period expired in August 2001, making this claim late. If it ran from 16 January 1990, the claim was in time.",
+            "legal_hook": "The timing of the claim's filing relative to the two potential accrual dates created the limitation dispute."
+          },
+          {
+            "id": "stage_8",
+            "order": 8,
+            "date": "2002-10-04",
+            "date_label": "4 October 2002",
+            "date_precision": "exact",
+            "title": "High Court Grants Summary Judgment",
+            "category": "decision",
+            "actor": "HHJ Thornton QC",
+            "what_happened": "HHJ Thornton QC granted summary judgment to John Laing Construction Ltd, dismissing Northern & Shell's action on the basis that the claims were statute-barred.",
+            "why_it_matters": "The judge held that Clause 5 successfully backdated the deed's effect to 26 August 1989, meaning the 12-year limitation period had expired.",
+            "legal_hook": "The court applied the principle that the retrospective effect of a deed depends on the objective intention of the parties."
+          },
+          {
+            "id": "stage_9",
+            "order": 9,
+            "date": "2003-07-01",
+            "date_label": "2003",
+            "date_precision": "year",
+            "title": "Court of Appeal Dismisses Appeal",
+            "category": "outcome",
+            "actor": "Court of Appeal (Civil Division)",
+            "what_happened": "The Court of Appeal dismissed Northern & Shell's appeal, upholding the High Court's decision.",
+            "why_it_matters": "The court confirmed that a deed can operate retrospectively to start the limitation period if that was the clear intention of the parties, even without a pre-existing direct contract.",
+            "legal_hook": "The judgment clarified that retrospectivity of a deed does not require a prior contractual relationship between the parties, provided equivalent commercial relationships exist."
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "stage_4",
+            "note": "The contractual effective date of 26 August 1989 was determined to be the retrospective start date for the 12-year limitation period, ultimately barring the claim."
+          },
+          {
+            "stage_id": "stage_5",
+            "note": "The execution of the deed on 16 January 1990 without amending Clause 5 created the ambiguity that led to this litigation."
+          },
+          {
+            "stage_id": "stage_8",
+            "note": "The High Court's summary judgment established that the claim was statute-barred, a decision subsequently upheld on appeal."
+          }
+        ],
+        "confidence": {
+          "score": 5,
+          "notes": [
+            "All key dates (10 Feb 1988, 23 May 1989, 25 Aug 1989, 26 Aug 1989, 16 Jan 1990, 4 Oct 2002) are directly sourced from the judgment text.",
+            "The exact date of the initiation of proceedings is not specified, but is logically inferred to be in early 2002 based on the 12-year limitation arguments.",
+            "The Court of Appeal judgment year (2003) is derived from the neutral citation [2003] EWCA Civ 1035."
+          ]
+        }
+      }
+    }
+  ]
+}
