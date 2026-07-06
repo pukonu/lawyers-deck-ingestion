@@ -98,10 +98,10 @@ def apply_storyline(
     new_data: dict = {}
     inserted = False
     for key, value in base.items():
-        new_data[key] = value
         if not inserted and key == "full_text":
             new_data[STORYLINE_FIELD] = storyline
             inserted = True
+        new_data[key] = value
 
     if not inserted:
         new_data[STORYLINE_FIELD] = storyline

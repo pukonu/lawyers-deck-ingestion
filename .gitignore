@@ -25,7 +25,13 @@ env/
 
 # Data
 data/
+enrichment_batches/
+storyline_batches/
 
 # Cursor / state files
 cursor.txt
 acts_cursor.txt
+
+# indexs
+_*
+
