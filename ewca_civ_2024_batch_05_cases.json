@@ -1,0 +1,2373 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2024/95.json",
+    "judges": [
+      "Lord Justice Bean",
+      "Lord Justice Males",
+      "Lord Justice Lewis"
+    ],
+    "enrichment": {
+      "short_title": "DBS mistake-of-fact appeal after oral evidence before UT",
+      "area_of_law": [
+        "Administrative law",
+        "Safeguarding",
+        "Fact-finding appeals",
+        "Disclosure and barring"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Safeguarding Vulnerable Groups Act 2006",
+          "provisions": [
+            "section 2",
+            "section 3",
+            "section 4",
+            "Schedule 3"
+          ]
+        },
+        {
+          "title": "Tribunals, Courts and Enforcement Act 2007",
+          "provisions": [
+            "section 13"
+          ]
+        }
+      ],
+      "key_facts": [
+        "RI, a support worker, was barred from regulated activity after MTVH concluded she stole £2,800 from a vulnerable service user; police took no further action.",
+        "The Upper Tribunal heard oral evidence from RI, found she had not stolen the money, and directed removal from the Adults' Barred List.",
+        "DBS appealed on whether the UT permissibly exercised its section 4(2)(b) mistake-of-fact jurisdiction after JHB and Kihembo.",
+        "Bean, Males and Lewis LJJ held the UT could overturn the DBS finding where credible oral evidence showed RI did not commit the impugned act."
+      ],
+      "procedural_posture": "Appeal on points of law from the Upper Tribunal (Administrative Appeals Chamber) under section 13 TCEA 2007, following parallel guidance in DBS v JHB and Kihembo v DBS.",
+      "outcome": "Appeal dismissed; UT decision removing RI from the Adults' Barred List upheld.",
+      "ratio": "On a section 4(2)(b) SGVA appeal the UT may hear oral evidence and, if satisfied on the balance of probabilities that the barred person did not do the relevant act, find a mistake of fact; that is not reducible to Wednesbury review of paper findings or to requiring wholly new documentary evidence, and JHB is confined to cases where the UT hears no relevant oral evidence.",
+      "legal_issues": [
+        "Scope of UT mistake-of-fact jurisdiction under section 4(2)(b) SGVA 2006",
+        "Interaction of PF v DBS, JHB and Kihembo authorities",
+        "Whether oral credibility findings by the UT constitute impermissible re-evaluation of DBS paper decision"
+      ],
+      "catchwords": [
+        "Disclosure and Barring Service",
+        "Adults' Barred List",
+        "mistake of fact",
+        "Upper Tribunal",
+        "oral evidence",
+        "safeguarding"
+      ],
+      "index_terms": [
+        "DBS v RI",
+        "JHB v DBS",
+        "Kihembo v DBS",
+        "PF v DBS",
+        "regulated activity",
+        "support worker"
+      ],
+      "linked_authorities": [
+        "AB v DBS",
+        "DBS v JHB",
+        "Kihembo v DBS",
+        "PF v DBS",
+        "Volpi v Volpi",
+        "Henderson v Foxworth Investments Ltd"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Manual batch 05 enrichment from judgment full_text; judges corrected to Bean, Males and Lewis LJJ (spurious Laing and other historical names removed)."
+      },
+      "storyline": {
+        "title": "Barred-list mistake-of-fact fight after UT hears support worker",
+        "summary": "After the DBS barred RI for alleged theft from a vulnerable adult, the Upper Tribunal heard her oral evidence, cleared her, and ordered removal from the list. The Court of Appeal rejected the DBS's narrow reading of mistake-of-fact jurisdiction and dismissed the appeal.",
+        "span": {
+          "start": "2020-03-25",
+          "end": null,
+          "label": "March 2020 barring decision onwards"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Disclosure and Barring Service",
+            "short_name": "DBS"
+          },
+          {
+            "role": "respondent",
+            "name": "RI",
+            "short_name": "RI"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "dbs-decision",
+            "order": 1,
+            "date": "2020-03-25",
+            "date_label": "25 March 2020",
+            "date_precision": "exact",
+            "title": "DBS includes RI on Adults' Barred List",
+            "category": "institutional",
+            "actor": "DBS",
+            "what_happened": "DBS decided RI had stolen £2,800 from service user RV and barred her from regulated activity.",
+            "why_it_matters": "Triggered statutory appeal rights under section 4 SGVA.",
+            "legal_hook": "section 4 SGVA 2006"
+          },
+          {
+            "id": "police-no-action",
+            "order": 2,
+            "date": "2019-07-04",
+            "date_label": "July 2019",
+            "date_precision": "month",
+            "title": "Police close investigation",
+            "category": "background",
+            "actor": "Metropolitan Police",
+            "what_happened": "Police found insufficient evidence to prosecute RI for theft.",
+            "why_it_matters": "Criminal standard not met though DBS uses balance of probabilities.",
+            "legal_hook": null
+          },
+          {
+            "id": "ut-hearing",
+            "order": 3,
+            "date": "2022-04-26",
+            "date_label": "26 April 2022",
+            "date_precision": "exact",
+            "title": "UT oral hearing with RI's evidence",
+            "category": "hearing",
+            "actor": "Upper Tribunal",
+            "what_happened": "UT heard RI give oral evidence, tested in cross-examination, on whether she stole from RV.",
+            "why_it_matters": "Fresh evidential basis distinguishing this case from JHB.",
+            "legal_hook": "section 4(2)(b)"
+          },
+          {
+            "id": "ut-allowed",
+            "order": 4,
+            "date": "2022-05-18",
+            "date_label": "18 May 2022",
+            "date_precision": "exact",
+            "title": "UT allows appeal and directs removal",
+            "category": "decision",
+            "actor": "Upper Tribunal",
+            "what_happened": "UT found DBS mistake of fact that RI stole money and directed removal from barred list.",
+            "why_it_matters": "Independent judicial reversal of safeguarding decision.",
+            "legal_hook": "section 4(6)(a)"
+          },
+          {
+            "id": "permission-ca",
+            "order": 5,
+            "date": "2023-04-18",
+            "date_label": "18 April 2023",
+            "date_precision": "exact",
+            "title": "Permission to appeal granted",
+            "category": "procedural",
+            "actor": "Lord Justice Bean",
+            "what_happened": "Court of Appeal granted permission on principle shared with JHB but refused stay of removal order.",
+            "why_it_matters": "Appeal stood behind JHB/Kihembo guidance.",
+            "legal_hook": "section 13 TCEA 2007"
+          },
+          {
+            "id": "jhb-kihembo",
+            "order": 6,
+            "date": "2023-12-21",
+            "date_label": "December 2023",
+            "date_precision": "month",
+            "title": "Supplemental submissions after Kihembo",
+            "category": "procedural",
+            "actor": "Court of Appeal",
+            "what_happened": "Parties filed further skeletons after Kihembo v DBS clarified PF remains good law.",
+            "why_it_matters": "Refined legal framework for Ground 1.",
+            "legal_hook": "Kihembo v DBS"
+          },
+          {
+            "id": "ground1-analysis",
+            "order": 7,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Bean LJ rejects narrow mistake test",
+            "category": "decision",
+            "actor": "Lord Justice Bean",
+            "what_happened": "Held UT may accept appellant's denial supported by oral evidence as mistake of fact, not mere re-evaluation.",
+            "why_it_matters": "Core ratio on SGVA appeals with oral evidence.",
+            "legal_hook": "PF v DBS"
+          },
+          {
+            "id": "males-addendum",
+            "order": 8,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Males LJ on statutory purpose",
+            "category": "decision",
+            "actor": "Lord Justice Males",
+            "what_happened": "Parliament intended UT could hear 'I did not do it' evidence; JHB confined to same-material cases.",
+            "why_it_matters": "Policy and textual support for broad jurisdiction.",
+            "legal_hook": "section 4(2)(b)"
+          },
+          {
+            "id": "grounds2-3",
+            "order": 9,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Grounds 2 and 3 rejected",
+            "category": "decision",
+            "actor": "Court of Appeal",
+            "what_happened": "Challenges to UT inference about other possible thieves and cash-card arrangement dismissed as fact appeals.",
+            "why_it_matters": "Primary finding on theft untouched.",
+            "legal_hook": null
+          },
+          {
+            "id": "outcome",
+            "order": 10,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "DBS appeal dismissed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Bean, Males and Lewis LJJ dismissed appeal; RI's removal from list stands.",
+            "why_it_matters": "Affirms UT's role hearing oral evidence in barring appeals.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "ut-hearing",
+            "label": "Oral evidence before UT",
+            "impact": "Distinguished JHB and supported mistake-of-fact finding."
+          },
+          {
+            "stage_id": "ground1-analysis",
+            "label": "Broad section 4 jurisdiction",
+            "impact": "Rejected DBS policy arguments against credibility findings."
+          }
+        ],
+        "confidence": {
+          "score": 0.92,
+          "level": "high",
+          "notes": "Manual storyline from judgment narrative; batch 05."
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/98.json",
+    "judges": [
+      "Lady Justice Asplin",
+      "Sir Launcelot Henderson",
+      "Lord Justice Bean"
+    ],
+    "enrichment": {
+      "short_title": "Atos Section Rule 21 shortfall and Article 7 Protection Order",
+      "area_of_law": [
+        "Pensions",
+        "Occupational pension schemes",
+        "Statutory interpretation",
+        "Railway privatisation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Railways Act 1993",
+          "provisions": [
+            "Schedule 11",
+            "paragraph 7"
+          ]
+        },
+        {
+          "title": "Railway Pensions (Protection and Designation of Schemes) Order 1994 (SI 1994/1432)",
+          "provisions": [
+            "Article 4",
+            "Article 5",
+            "Article 7"
+          ]
+        }
+      ],
+      "key_facts": [
+        "The Atos Section of the Railways Pension Scheme had a large deficit with very few active members funding past-service liabilities.",
+        "Atos argued Rule 21 required full shortfall repair by actuarial calculation; the trustee said the actuary exercises professional judgment and Article 7 imposes a freestanding employer top-up.",
+        "The Chancellor held Rule 21 was not an exhaustive code and Article 7 imposed a balance-of-cost obligation after Rule 21(1)(ii).",
+        "The Court of Appeal upheld that construction and dismissed Atos's appeal."
+      ],
+      "procedural_posture": "Appeal from the Chancellor's construction judgment in Part 8 proceedings on the Atos Section Rules and the Protection Order.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Rule 21(1) shortfall repair is not a mandatory full elimination code; 'determine' in Rule 21(1)(ii) and (iv) imports actuarial professional judgment including collectability; Article 7(1) of the Protection Order imposes a freestanding sufficiency-of-funding obligation on employers of Protected Persons, taking effect after Rule 21(1)(ii).",
+      "legal_issues": [
+        "Whether Rule 21 is an exhaustive shortfall elimination regime",
+        "Meaning of 'as determined by the Actuary' in Rule 21(1)(ii) and (iv)",
+        "Relationship between Rule 21 and Article 7 Protection Order funding duties"
+      ],
+      "catchwords": [
+        "Railways Pension Scheme",
+        "Rule 21 shortfall",
+        "Protection Order",
+        "Protected Person",
+        "actuarial discretion"
+      ],
+      "index_terms": [
+        "Atos Section",
+        "Railways Pension Trustee Company",
+        "balance of cost",
+        "shared cost section"
+      ],
+      "linked_authorities": [
+        "Barnardo's v Buckinghamshire & Ors",
+        "Britvic plc v Britvic Pensions Ltd",
+        "In re Courage Group's Pension Schemes"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Manual batch 05 enrichment; judges corrected to Asplin, Henderson and Bean."
+      },
+      "storyline": {
+        "title": "Railway pension shortfall: Rule 21 tools and Article 7 top-up",
+        "summary": "Facing a crippling Atos Section deficit, the parties disputed whether Rule 21 compels full repair by calculation or permits actuarial judgment, and whether Article 7 adds employer funding beyond the rules. The Court of Appeal agreed with the Chancellor and dismissed Atos's appeal.",
+        "span": {
+          "start": "1994-05-31",
+          "end": null,
+          "label": "1994 RPS establishment onwards"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Atos IT Services UK Limited and Atos UK International IT Services Limited",
+            "short_name": "Atos"
+          },
+          {
+            "role": "respondent",
+            "name": "Railways Pension Trustee Company Limited",
+            "short_name": "Trustee"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "privatisation",
+            "order": 1,
+            "date": "1994-05-31",
+            "date_label": "31 May 1994",
+            "date_precision": "exact",
+            "title": "RPS and Protection Order established",
+            "category": "background",
+            "actor": "Secretary of State for Transport",
+            "what_happened": "Railways Pension Scheme created on privatisation with Protected Person safeguards.",
+            "why_it_matters": "Statutory context for Article 7 duties.",
+            "legal_hook": "Railways Act 1993"
+          },
+          {
+            "id": "atos-section",
+            "order": 2,
+            "date": "1997-01-31",
+            "date_label": "January 1997",
+            "date_precision": "month",
+            "title": "Atos Section created",
+            "category": "institutional",
+            "actor": "Atos predecessor",
+            "what_happened": "Atos joined RPS with Shared Cost Arrangement Rules including Rule 21.",
+            "why_it_matters": "Source of disputed deficit repair mechanics.",
+            "legal_hook": "Rule 21"
+          },
+          {
+            "id": "shortfall",
+            "order": 3,
+            "date": "2013-12-31",
+            "date_label": "31 December 2013",
+            "date_precision": "exact",
+            "title": "Last completed valuation shows deficit",
+            "category": "factual",
+            "actor": "Scheme actuary",
+            "what_happened": "2013 valuation revealed about £6m shortfall; later drafts showed much larger deficits.",
+            "why_it_matters": "Acute funding crisis driving litigation.",
+            "legal_hook": "Rule 21"
+          },
+          {
+            "id": "part8",
+            "order": 4,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Trustee Part 8 questions",
+            "category": "procedural",
+            "actor": "Railways Pension Trustee",
+            "what_happened": "Trustee sought declarations on Rule 21 and Articles 5 and 7.",
+            "why_it_matters": "Framed issues for Chancellor.",
+            "legal_hook": "CPR Part 8"
+          },
+          {
+            "id": "chancellor",
+            "order": 5,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Chancellor answers checklist",
+            "category": "decision",
+            "actor": "Sir Julian Flaux",
+            "what_happened": "Held Rule 21 not exhaustive; actuary has judgment; Article 7 freestanding after Rule 21(1)(ii).",
+            "why_it_matters": "First-instance ratio under appeal.",
+            "legal_hook": "[2022] EWHC 3236 (Ch)"
+          },
+          {
+            "id": "not-exhaustive",
+            "order": 6,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "CA confirms non-exhaustive Rule 21",
+            "category": "decision",
+            "actor": "Lady Justice Asplin",
+            "what_happened": "Stem read with sub-rules; Cap and triviality show tools may not erase deficit.",
+            "why_it_matters": "Rejects Atos waterfall approach.",
+            "legal_hook": "Rule 21(1)"
+          },
+          {
+            "id": "actuary",
+            "order": 7,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Professional judgment not pure maths",
+            "category": "decision",
+            "actor": "Lady Justice Asplin",
+            "what_happened": "'Determine' includes collectability and opt-out assumptions, not mandatory full repair calculation.",
+            "why_it_matters": "Central to Rule 21(1)(ii) dispute.",
+            "legal_hook": "Rule 21(1)(ii)"
+          },
+          {
+            "id": "article7",
+            "order": 8,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Article 7 overlay after Rule 21(ii)",
+            "category": "decision",
+            "actor": "Lady Justice Asplin",
+            "what_happened": "Article 7 balance-of-cost duty freestanding; naturally follows contribution increases under Rule 21(1)(ii).",
+            "why_it_matters": "Protected Persons receive additional employer funding.",
+            "legal_hook": "Article 7(1)"
+          },
+          {
+            "id": "article5",
+            "order": 9,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Article 5 covers voluntary opt-out",
+            "category": "decision",
+            "actor": "Lady Justice Asplin",
+            "what_happened": "No requirement of deliberate intent where contribution increases cause opt-out.",
+            "why_it_matters": "Protects continued participation.",
+            "legal_hook": "Article 5"
+          },
+          {
+            "id": "outcome",
+            "order": 10,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Appeal dismissed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Asplin, Henderson and Bean dismissed Atos appeal.",
+            "why_it_matters": "Trustee/Chancellor construction stands.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "not-exhaustive",
+            "label": "Rule 21 not complete code",
+            "impact": "Undermined Atos full-repair construction."
+          },
+          {
+            "stage_id": "article7",
+            "label": "Freestanding Article 7 duty",
+            "impact": "Employer must top up funding beyond Rule 21 tools."
+          }
+        ],
+        "confidence": {
+          "score": 0.91,
+          "level": "high",
+          "notes": "Manual storyline; batch 05."
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/100.json",
+    "judges": [
+      "Lady Justice King",
+      "Lord Justice Moylan"
+    ],
+    "enrichment": {
+      "short_title": "Financial remedy appeal costs after partial success",
+      "area_of_law": [
+        "Family law",
+        "Financial remedies",
+        "Costs",
+        "Litigation conduct"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules 1998",
+          "provisions": [
+            "rule 44.2",
+            "rule 44.4"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Following a successful financial remedy appeal, the wife sought £425,000 costs including return of £175,000 LSPO and £250,000 appeal costs.",
+        "The husband had succeeded on several grounds but lost others and had made an unagreed settlement offer above £12m.",
+        "The court found litigation misconduct against the husband including unmeritorious ancillary applications extending the hearing.",
+        "King and Moylan LJJ refused the wife's costs application but ordered her to pay £175,000 (already received via LSPO) plus £17,378 LSPO application costs."
+      ],
+      "procedural_posture": "Post-judgment costs applications following substantive financial remedy appeal (Xanthopoulos v Rakshina).",
+      "outcome": "Wife's application for costs refused; husband awarded £175,000 plus £17,378 LSPO costs with discount for misconduct.",
+      "ratio": "CPR r.44.2(3) displaces the general costs-follows-event rule in Family Division appeals, but the unsuccessful party's responsibility for generating costs remains a decisive factor; litigation misconduct on appeal justifies a significant discount though an order for costs remains appropriate.",
+      "legal_issues": [
+        "Application of CPR Part 44 costs rules to Family Division appeals",
+        "Effect of partial success and litigation misconduct on costs",
+        "Treatment of LSPO sums already paid toward appeal costs"
+      ],
+      "catchwords": [
+        "financial remedy",
+        "costs order",
+        "LSPO",
+        "litigation misconduct",
+        "Family Division appeal"
+      ],
+      "index_terms": [
+        "Xanthopoulos",
+        "Rakshina",
+        "Rothschild v de Souza",
+        "Baker v Rowe"
+      ],
+      "linked_authorities": [
+        "Baker v Rowe",
+        "Rothschild v de Souza"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Manual batch 05 enrichment from costs judgment; judges King and Moylan confirmed."
+      },
+      "storyline": {
+        "title": "Costs skirmish after financial remedy appeal",
+        "summary": "After the husband partially succeeded on a substantial financial remedy appeal, both parties sought costs. The Court of Appeal refused the wife's £425,000 claim but ordered her to pay the husband's LSPO-funded appeal costs, discounted for his litigation misconduct.",
+        "span": {
+          "start": "2023-09-23",
+          "end": null,
+          "label": "September 2023 LSPO onwards"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Lazaros Panagiotis Xanthopoulos",
+            "short_name": "Husband"
+          },
+          {
+            "role": "respondent",
+            "name": "Alla Aleksandrovna Rakshina",
+            "short_name": "Wife"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "substantive-appeal",
+            "order": 1,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Husband succeeds in part on appeal",
+            "category": "decision",
+            "actor": "Court of Appeal",
+            "what_happened": "Appeal improved award though less than full sum sought; needs order adjusted for misconduct.",
+            "why_it_matters": "Background to costs dispute.",
+            "legal_hook": null
+          },
+          {
+            "id": "lspo",
+            "order": 2,
+            "date": "2023-09-23",
+            "date_label": "23 September 2023",
+            "date_precision": "exact",
+            "title": "Peel J grants LSPO",
+            "category": "decision",
+            "actor": "Peel J",
+            "what_happened": "£175,000 LSPO ordered for proportionate appeal; about 60% of total appeal costs.",
+            "why_it_matters": "Sum already paid to husband's solicitors.",
+            "legal_hook": null
+          },
+          {
+            "id": "wife-costs",
+            "order": 3,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Wife seeks £425,000 costs",
+            "category": "procedural",
+            "actor": "Wife",
+            "what_happened": "Claimed return of LSPO plus £250,000 appeal costs via needs reduction.",
+            "why_it_matters": "Unusual successful-party costs claim.",
+            "legal_hook": "CPR 44.2(3)"
+          },
+          {
+            "id": "misconduct",
+            "order": 4,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Husband's litigation misconduct found",
+            "category": "factual",
+            "actor": "Court of Appeal",
+            "what_happened": "Unmeritorious ancillary applications added half day; no settlement offer except above £12m.",
+            "why_it_matters": "Justifies costs discount.",
+            "legal_hook": null
+          },
+          {
+            "id": "wife-refused",
+            "order": 5,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Wife's costs application refused",
+            "category": "decision",
+            "actor": "Lady Justice King",
+            "what_happened": "Despite husband's misconduct, wife did not succeed on appeal and made no offer.",
+            "why_it_matters": "Rejects reciprocal costs claim.",
+            "legal_hook": "Baker v Rowe"
+          },
+          {
+            "id": "husband-costs",
+            "order": 6,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Husband awarded discounted costs",
+            "category": "decision",
+            "actor": "Lady Justice King",
+            "what_happened": "Wife to pay £175,000 appeal costs (already received) and £17,378 LSPO hearing costs.",
+            "why_it_matters": "Partial recovery despite misconduct discount.",
+            "legal_hook": "Rothschild v de Souza"
+          },
+          {
+            "id": "moylan-agrees",
+            "order": 7,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Moylan LJ agrees",
+            "category": "decision",
+            "actor": "Lord Justice Moylan",
+            "what_happened": "Moylan LJ agreed with King's costs disposition on this short judgment.",
+            "why_it_matters": "Unanimous panel on costs.",
+            "legal_hook": null
+          },
+          {
+            "id": "outcome",
+            "order": 8,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Costs order sealed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Final costs order made within 14 days of sealing.",
+            "why_it_matters": "Final costs outcome.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "wife-refused",
+            "label": "No costs to unsuccessful wife",
+            "impact": "Rejected £425,000 claim."
+          },
+          {
+            "stage_id": "husband-costs",
+            "label": "LSPO costs recovered",
+            "impact": "Husband regains funded appeal costs with misconduct discount."
+          }
+        ],
+        "confidence": {
+          "score": 0.9,
+          "level": "high",
+          "notes": "Manual storyline; batch 05."
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/118.json",
+    "judges": [
+      "Lord Justice Birss",
+      "Lord Justice Snowden",
+      "Lord Justice Stuart-Smith"
+    ],
+    "enrichment": {
+      "short_title": "CPR Part 71 committal appeal and jurisdiction",
+      "area_of_law": [
+        "Civil procedure",
+        "Enforcement",
+        "Contempt of court",
+        "Judgment debtor examination"
+      ],
+      "statutes_considered": [
+        {
+          "title": "County Courts Act 1984",
+          "provisions": [
+            "section 5"
+          ]
+        },
+        {
+          "title": "Administration of Justice Act 1960",
+          "provisions": [
+            "section 13"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Judgment creditor Roberts pursued Part 71 information orders against debtor Jones over a caravan rent debt; Jones repeatedly failed to attend.",
+        "On 5 April 2022 Jones was arrested and questioned by a court officer without creditor notice; HHJ Beard imposed 14 days suspended imprisonment.",
+        "The Court of Appeal held the creditor's appeal route was to the High Court not direct to the CA under section 13; Birss LJ sat as HC judge to decide merits.",
+        "Suspended sentence quashed for defective November 2021 order; slip-rule amendment struck out; matter remitted for questioning before judge with creditor notice."
+      ],
+      "procedural_posture": "Appeal (reconstituted as High Court appeal under Massie v H and M) against Part 71 suspended committal and procedural orders.",
+      "outcome": "Appeal allowed in part: suspended sentence quashed, slip-rule amendment set aside, Part 71 proceedings remitted to county court.",
+      "ratio": "A judgment creditor's appeal from a Part 71 committal is to the High Court not the Court of Appeal under section 13 AJA 1960; questioning under an order requiring examination before a judge cannot proceed before a court officer without notice to the creditor; a defective suspended committal order without specified sentence cannot support later activation.",
+      "legal_issues": [
+        "Route of appeal from Part 71 committal orders",
+        "Proper conduct of judgment debtor examination under CPR Part 71",
+        "Validity of suspended committal where no sentence specified",
+        "Permissible use of CPR 40.12 slip rule"
+      ],
+      "catchwords": [
+        "CPR Part 71",
+        "judgment debtor",
+        "suspended committal",
+        "bench warrant",
+        "slip rule",
+        "Massie v H and M"
+      ],
+      "index_terms": [
+        "Roberts v Jones",
+        "Westrop v Harrath",
+        "information order",
+        "Swansea County Court"
+      ],
+      "linked_authorities": [
+        "Westrop v Harrath",
+        "Massie v H and M",
+        "Chadwick v Hollingsworth",
+        "Hurst v Barnet"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Manual batch 05 enrichment; judges corrected to Birss, Snowden and Stuart-Smith LJJ."
+      },
+      "storyline": {
+        "title": "Part 71 committal quashed after defective process",
+        "summary": "A judgment creditor challenged a suspended committal imposed when the debtor was arrested and examined by a court officer without creditor notice. The Court of Appeal quashed the sentence and remitted the Part 71 process, having reconstituted to decide the appeal in the High Court.",
+        "span": {
+          "start": "2019-03-06",
+          "end": "2024-02-14",
+          "label": "March 2019 judgment to February 2024"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Andrew Paul Roberts",
+            "short_name": "Roberts"
+          },
+          {
+            "role": "respondent",
+            "name": "Kathryn Jayne Jones",
+            "short_name": "Jones"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal / High Court",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "judgment",
+            "order": 1,
+            "date": "2019-03-06",
+            "date_label": "6 March 2019",
+            "date_precision": "exact",
+            "title": "Default judgment for rent share",
+            "category": "decision",
+            "actor": "County Court",
+            "what_happened": "Roberts obtained judgment for just under £12,000 against ex-partner Jones.",
+            "why_it_matters": "Underlying debt.",
+            "legal_hook": null
+          },
+          {
+            "id": "part71",
+            "order": 2,
+            "date": "2021-05-05",
+            "date_label": "5 May 2021",
+            "date_precision": "exact",
+            "title": "Order to attend before judge",
+            "category": "institutional",
+            "actor": "County Court",
+            "what_happened": "Jones ordered to attend Swansea to provide means information before a judge with documents.",
+            "why_it_matters": "Governs proper examination procedure.",
+            "legal_hook": "CPR 71.2"
+          },
+          {
+            "id": "defective-order",
+            "order": 3,
+            "date": "2021-11-05",
+            "date_label": "5 November 2021",
+            "date_precision": "exact",
+            "title": "Defective suspended committal",
+            "category": "decision",
+            "actor": "HHJ Beard",
+            "what_happened": "Order stated suspended committal made but specified no sentence period.",
+            "why_it_matters": "Fatal flaw for later activation.",
+            "legal_hook": "CPR 71.8"
+          },
+          {
+            "id": "arrest",
+            "order": 4,
+            "date": "2022-04-05",
+            "date_label": "5 April 2022",
+            "date_precision": "exact",
+            "title": "Jones arrested and examined",
+            "category": "hearing",
+            "actor": "HHJ Beard",
+            "what_happened": "Jones brought under warrant; questioned by court officer without Roberts present; 14 days suspended imposed.",
+            "why_it_matters": "Procedural errors under appeal.",
+            "legal_hook": "CPR 71.6"
+          },
+          {
+            "id": "jurisdiction",
+            "order": 5,
+            "date": "2023-12-12",
+            "date_label": "12 December 2023",
+            "date_precision": "exact",
+            "title": "Route of appeal resolved",
+            "category": "decision",
+            "actor": "Court of Appeal",
+            "what_happened": "Held section 13 AJA 1960 did not give creditor direct CA appeal; Massie reconstitution adopted.",
+            "why_it_matters": "Procedural framework for decision.",
+            "legal_hook": "Massie v H and M"
+          },
+          {
+            "id": "ground1",
+            "order": 6,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Court officer examination wrong",
+            "category": "decision",
+            "actor": "Lord Justice Birss (HC)",
+            "what_happened": "Variation of judge-examination order without creditor notice invalid; remitted for proper directions.",
+            "why_it_matters": "Protects creditor's Part 71 rights.",
+            "legal_hook": "CPR 71.6(3)"
+          },
+          {
+            "id": "sentence-quashed",
+            "order": 7,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Suspended sentence quashed",
+            "category": "decision",
+            "actor": "Lord Justice Birss (HC)",
+            "what_happened": "14-day sentence quashed because November 2021 order was fundamentally flawed.",
+            "why_it_matters": "No valid basis for committal.",
+            "legal_hook": "CPR 71.8"
+          },
+          {
+            "id": "slip-rule",
+            "order": 8,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Slip-rule amendment struck out",
+            "category": "decision",
+            "actor": "Lord Justice Birss (HC)",
+            "what_happened": "Recital linking family contempt proceedings had no basis in papers.",
+            "why_it_matters": "Corrects order record.",
+            "legal_hook": "CPR 40.12"
+          },
+          {
+            "id": "remitted",
+            "order": 9,
+            "date": "2024-02-14",
+            "date_label": "14 February 2024",
+            "date_precision": "exact",
+            "title": "Part 71 remitted to Swansea",
+            "category": "outcome",
+            "actor": "Court of Appeal / High Court",
+            "what_happened": "Proceedings remitted for further directions including possible PD 1A special measures.",
+            "why_it_matters": "Fresh lawful enforcement process.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "defective-order",
+            "label": "No sentence specified",
+            "impact": "Undermined all later committal."
+          },
+          {
+            "stage_id": "ground1",
+            "label": "Creditor entitled to notice",
+            "impact": "Quashed shortcut examination."
+          }
+        ],
+        "confidence": {
+          "score": 0.93,
+          "level": "high",
+          "notes": "Manual storyline; batch 05."
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/123.json",
+    "judges": [
+      "Lady Justice Falk",
+      "Lord Justice Birss",
+      "Lady Justice King"
+    ],
+    "enrichment": {
+      "short_title": "Unfair prejudice petition and disputed share transfers",
+      "area_of_law": [
+        "Company law",
+        "Unfair prejudice",
+        "Share transfers",
+        "Appeals on fact"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Companies Act 2006",
+          "provisions": [
+            "Part 30"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Le Chef plc was incorporated in 2014 for an online food ordering business; Rahman held 25%, Munim 65% and Ahmed 10%.",
+        "Munim contended Rahman and Ahmed agreed to transfer shares for additional investment shortly after incorporation; stock transfer forms dated 31 October 2014.",
+        "HHJ Jarman KC found Rahman signed transfers and resolutions reflecting a 5% stake; handwriting expert evidence supported Munim.",
+        "Falk, Birss and King LJJ dismissed Rahman's appeal on Volpi plainly-wrong standard and cross-examination fairness grounds."
+      ],
+      "procedural_posture": "Appeal with permission on four grounds against dismissal of unfair prejudice petition and related copyright claim (copyright permission refused).",
+      "outcome": "Appeal dismissed.",
+      "ratio": "Trial judge entitled to prefer Munim's commercial account that further investment required share transfers; findings on Rahman's signatures and subsequent resolutions were not plainly wrong; imperfect cross-examination on Ahmed's transfers caused no prejudice to Rahman given his bare denials.",
+      "legal_issues": [
+        "Volpi plainly-wrong standard for fact appeals",
+        "Cross-examination rule after Griffiths v TUI",
+        "Validity of share transfers and written resolutions"
+      ],
+      "catchwords": [
+        "unfair prejudice",
+        "section 994",
+        "stock transfer",
+        "Volpi v Volpi",
+        "cross-examination",
+        "Chefonline"
+      ],
+      "index_terms": [
+        "Le Chef plc",
+        "Rahman v Munim",
+        "handwriting expert",
+        "Ali v Dinc"
+      ],
+      "linked_authorities": [
+        "Volpi v Volpi",
+        "Griffiths v TUI (UK) Ltd",
+        "Simetra Global Assets Ltd v Ikon Finance Ltd",
+        "Ali v Dinc"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Manual batch 05 enrichment; judges corrected to Falk, Birss and King (spurious Hodge and Jarman removed)."
+      },
+      "storyline": {
+        "title": "Chefonline share transfer battle on unfair prejudice",
+        "summary": "Rahman challenged findings that he transferred most of his Le Chef shares to Munim in late 2014. The Court of Appeal held the judge's signature and commercial findings were not plainly wrong and dismissed the appeal.",
+        "span": {
+          "start": "2014-10-21",
+          "end": null,
+          "label": "October 2014 incorporation onwards"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Hafizur Rahman",
+            "short_name": "Rahman"
+          },
+          {
+            "role": "respondent",
+            "name": "Mohammed Abdul Munim",
+            "short_name": "Munim"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "incorporation",
+            "order": 1,
+            "date": "2014-10-21",
+            "date_label": "21 October 2014",
+            "date_precision": "exact",
+            "title": "Le Chef incorporated",
+            "category": "institutional",
+            "actor": "Founders",
+            "what_happened": "Company formed for Chefonline with 65/25/10 share split.",
+            "why_it_matters": "Starting cap table.",
+            "legal_hook": null
+          },
+          {
+            "id": "transfers",
+            "order": 2,
+            "date": "2014-10-31",
+            "date_label": "31 October 2014",
+            "date_precision": "exact",
+            "title": "Stock transfer forms executed",
+            "category": "factual",
+            "actor": "Shareholders",
+            "what_happened": "Forms dated transferring Rahman's 20 shares and Ahmed's 10 shares to Munim.",
+            "why_it_matters": "Central disputed documents.",
+            "legal_hook": null
+          },
+          {
+            "id": "resolutions",
+            "order": 3,
+            "date": "2014-11-01",
+            "date_label": "1 November 2014",
+            "date_precision": "exact",
+            "title": "Written resolutions show 95/5 split",
+            "category": "factual",
+            "actor": "Munim and Rahman",
+            "what_happened": "Resolutions recorded Munim 95% and Rahman 5% shareholdings.",
+            "why_it_matters": "Corroborated transfer case.",
+            "legal_hook": null
+          },
+          {
+            "id": "petition",
+            "order": 4,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Unfair prejudice petition",
+            "category": "procedural",
+            "actor": "Rahman and Ahmed",
+            "what_happened": "Petition alleging breach of articles in registering transfers without agreement.",
+            "why_it_matters": "Triggered trial.",
+            "legal_hook": "Companies Act 2006 Part 30"
+          },
+          {
+            "id": "trial",
+            "order": 5,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Trial before HHJ Jarman KC",
+            "category": "hearing",
+            "actor": "High Court judge",
+            "what_happened": "Judge found Rahman signed transfers; Munim's investment account preferred.",
+            "why_it_matters": "Primary fact findings.",
+            "legal_hook": null
+          },
+          {
+            "id": "permission",
+            "order": 6,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Limited permission to appeal",
+            "category": "procedural",
+            "actor": "Arnold LJ",
+            "what_happened": "Permission on four unfair prejudice grounds; copyright appeal refused.",
+            "why_it_matters": "High Volpi hurdle acknowledged.",
+            "legal_hook": "Volpi v Volpi"
+          },
+          {
+            "id": "signatures",
+            "order": 7,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Signature findings upheld",
+            "category": "decision",
+            "actor": "Lady Justice Falk",
+            "what_happened": "Expert and documentary evidence supported Rahman signed transfers and later 5% resolutions.",
+            "why_it_matters": "Core of appeal rejected.",
+            "legal_hook": null
+          },
+          {
+            "id": "fairness",
+            "order": 8,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "No cross-examination prejudice",
+            "category": "decision",
+            "actor": "Lady Justice Falk",
+            "what_happened": "Imperfect Ahmed signature cross-examination would not have changed Rahman's bare denials.",
+            "why_it_matters": "Fairness point fails.",
+            "legal_hook": "Griffiths v TUI"
+          },
+          {
+            "id": "email-2017",
+            "order": 9,
+            "date": "2017-04-23",
+            "date_label": "April 2017",
+            "date_precision": "month",
+            "title": "2017 email considered",
+            "category": "factual",
+            "actor": "Rahman",
+            "what_happened": "April 2017 email about dilution did not undermine judge's assessment of intervening signed resolutions.",
+            "why_it_matters": "Ground 4 fails.",
+            "legal_hook": null
+          },
+          {
+            "id": "outcome",
+            "order": 10,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Appeal dismissed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Falk, Birss and King LJJ dismissed appeal.",
+            "why_it_matters": "Transfer findings stand.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "signatures",
+            "label": "Documentary corroboration",
+            "impact": "Supported Munim's transfer case."
+          },
+          {
+            "stage_id": "trial",
+            "label": "Commercial rationale accepted",
+            "impact": "Investment need explained transfers."
+          }
+        ],
+        "confidence": {
+          "score": 0.92,
+          "level": "high",
+          "notes": "Manual storyline; batch 05."
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/126.json",
+    "judges": [
+      "Mr Justice Cobb",
+      "Lady Justice Whipple",
+      "Lord Justice Peter Jackson"
+    ],
+    "enrichment": {
+      "short_title": "Non-contact sexual abuse finding in care proceedings",
+      "area_of_law": [
+        "Family law",
+        "Public law children",
+        "Threshold criteria",
+        "Safeguarding definitions"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 31",
+            "section 31(2)",
+            "section 31(9)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Care proceedings concerned O, aged seven, exposed to adult pornography and sexual material in both parents' homes.",
+        "HHJ Earley found unintentional negligent exposure constituted 'sexual abuse' supporting section 31 threshold; O placed with maternal grandparents.",
+        "Mother appealed that exposure without intent could not be sexual abuse under Working Together guidance; NSPCC definition added post draft judgment.",
+        "Cobb, Whipple and Peter Jackson LJJ dismissed appeal; non-contact exposure can be sexual abuse under section 31(9)."
+      ],
+      "procedural_posture": "Appeal against threshold finding of sexual abuse (not against placement outcome) in Part IV care proceedings.",
+      "outcome": "Appeal dismissed.",
+      "ratio": "'Sexual abuse' in section 31(9) Children Act 1989 is a statutory category of ill-treatment distinct from criminal labels; repeated negligent exposure of a young child to pornography and adult sexual material can properly be so classified; adding NSPCC guidance after draft judgment was not procedurally unfair.",
+      "legal_issues": [
+        "Whether negligent exposure to pornography is 'sexual abuse' under section 31",
+        "Use of Working Together and NSPCC safeguarding definitions",
+        "Procedural fairness when judge relies on NSPCC definition after draft judgment"
+      ],
+      "catchwords": [
+        "sexual abuse",
+        "threshold criteria",
+        "non-contact abuse",
+        "Working Together",
+        "pornography exposure",
+        "care proceedings"
+      ],
+      "index_terms": [
+        "Re O",
+        "Hackett Continuum",
+        "Re P sexual abuse",
+        "Re R fact-finding labels"
+      ],
+      "linked_authorities": [
+        "Re P (Sexual Abuse: Finding of Fact Hearing)",
+        "Re R (Children)",
+        "Re G & B (Fact-Finding Hearing)",
+        "A v B"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Manual batch 05 enrichment; judges corrected to Cobb, Whipple and Peter Jackson (spurious McFarlane P removed)."
+      },
+      "storyline": {
+        "title": "Care threshold and non-contact sexual abuse label",
+        "summary": "A judge found parents sexually abused their daughter by negligently exposing her to pornography and adult sexual content. The Court of Appeal upheld the label as a valid section 31 finding though neither parent intended abuse.",
+        "span": {
+          "start": "2022-05-28",
+          "end": null,
+          "label": "May 2022 police removal onwards"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Mother of O",
+            "short_name": "Mother"
+          },
+          {
+            "role": "respondent",
+            "name": "Local authority",
+            "short_name": "Local authority"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "exposure",
+            "order": 1,
+            "date": "2022-05-28",
+            "date_label": "28 May 2022",
+            "date_precision": "exact",
+            "title": "Sexualised images on O's phone",
+            "category": "factual",
+            "actor": "Police",
+            "what_happened": "100+ self-taken sexualised images found; father failed to act despite prior knowledge.",
+            "why_it_matters": "Triggered protection investigation.",
+            "legal_hook": null
+          },
+          {
+            "id": "hearing",
+            "order": 2,
+            "date": "2023-07-10",
+            "date_label": "July 2023",
+            "date_precision": "month",
+            "title": "Eight-day final hearing",
+            "category": "hearing",
+            "actor": "HHJ Earley",
+            "what_happened": "Findings on pornography exposure in both homes and sexualised behaviour.",
+            "why_it_matters": "Foundation for threshold.",
+            "legal_hook": "section 31 CA 1989"
+          },
+          {
+            "id": "sg-order",
+            "order": 3,
+            "date": "2023-07-10",
+            "date_label": "10 July 2023",
+            "date_precision": "exact",
+            "title": "Special guardianship ordered",
+            "category": "decision",
+            "actor": "HHJ Earley",
+            "what_happened": "O to live with maternal grandparents; outcome not appealed.",
+            "why_it_matters": "Welfare outcome agreed.",
+            "legal_hook": null
+          },
+          {
+            "id": "abuse-finding",
+            "order": 4,
+            "date": "2023-08-21",
+            "date_label": "21 August 2023",
+            "date_precision": "exact",
+            "title": "Sexual abuse threshold finding",
+            "category": "decision",
+            "actor": "HHJ Earley",
+            "what_happened": "Negligent exposure to adult sexual material held to constitute sexual abuse.",
+            "why_it_matters": "Focus of appeal.",
+            "legal_hook": "section 31(9)"
+          },
+          {
+            "id": "nspcc",
+            "order": 5,
+            "date": "2023-08-21",
+            "date_label": "August 2023",
+            "date_precision": "month",
+            "title": "NSPCC definition added",
+            "category": "procedural",
+            "actor": "HHJ Earley",
+            "what_happened": "Final judgment amplified with NSPCC non-contact definition after clarification request.",
+            "why_it_matters": "Ground 2 procedural challenge.",
+            "legal_hook": "English v Emery Reimbold"
+          },
+          {
+            "id": "permission",
+            "order": 6,
+            "date": "2023-11-20",
+            "date_label": "20 November 2023",
+            "date_precision": "exact",
+            "title": "Permission granted",
+            "category": "procedural",
+            "actor": "Peter Jackson LJ",
+            "what_happened": "Permission to appeal threshold sexual abuse finding only.",
+            "why_it_matters": "Appeal limited to label.",
+            "legal_hook": null
+          },
+          {
+            "id": "statutory",
+            "order": 7,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Statutory label distinguished",
+            "category": "decision",
+            "actor": "Mr Justice Cobb",
+            "what_happened": "Section 31(9) sexual abuse is statutory ill-treatment, not criminal shorthand.",
+            "why_it_matters": "Rejects criminal-label caution.",
+            "legal_hook": "section 31(9)"
+          },
+          {
+            "id": "non-contact",
+            "order": 8,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Non-contact abuse upheld",
+            "category": "decision",
+            "actor": "Mr Justice Cobb",
+            "what_happened": "Repeated pornography exposure properly classified as non-contact sexual abuse.",
+            "why_it_matters": "Core ratio.",
+            "legal_hook": "Working Together 2018"
+          },
+          {
+            "id": "procedure-ok",
+            "order": 9,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "NSPCC reference not unfair",
+            "category": "decision",
+            "actor": "Mr Justice Cobb",
+            "what_happened": "Finding within schedule scope; NSPCC amplified reasoning only.",
+            "why_it_matters": "Ground 2 fails.",
+            "legal_hook": "Re G & B"
+          },
+          {
+            "id": "outcome",
+            "order": 10,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Appeal dismissed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Cobb, Whipple and Peter Jackson LJJ dismissed appeal.",
+            "why_it_matters": "Threshold finding stands.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "statutory",
+            "label": "Statutory not criminal label",
+            "impact": "Validated sexual abuse classification."
+          },
+          {
+            "stage_id": "non-contact",
+            "label": "Exposure can be abuse",
+            "impact": "Affirmed safeguarding approach."
+          }
+        ],
+        "confidence": {
+          "score": 0.93,
+          "level": "high",
+          "notes": "Manual storyline; batch 05."
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/128.json",
+    "judges": [
+      "Lord Justice Birss",
+      "Lord Justice Moylan",
+      "Lord Justice Lewison"
+    ],
+    "enrichment": {
+      "short_title": "SPC product definition for safinamide Parkinson's therapy",
+      "area_of_law": [
+        "Intellectual property",
+        "Pharmaceutical patents",
+        "Supplementary protection certificates",
+        "EU retained law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Regulation (EC) No 469/2009 (SPC Regulation)",
+          "provisions": [
+            "Article 1",
+            "Article 3",
+            "Article 4"
+          ]
+        },
+        {
+          "title": "Regulation (EC) No 726/2004",
+          "provisions": [
+            "Article 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Newron sought an SPC for safinamide (Xadago) based on EP (UK) 1 613 296 claiming safinamide with levodopa/PDI for Parkinson's disease.",
+        "Patent claim 1 protects a three-ingredient combination; the marketing authorisation authorises safinamide alone as add-on therapy to levodopa.",
+        "Hearing Officer and Recorder held the MA product was safinamide only; therapeutic indication references to levodopa describe use not product composition.",
+        "Birss, Moylan and Lewison LJJ applied Santen strict product definition and dismissed the appeal."
+      ],
+      "procedural_posture": "Appeal against refusal of SPC application by Comptroller; expert evidence application refused.",
+      "outcome": "Appeal dismissed; SPC refused.",
+      "ratio": "Under Article 1(b) and Article 3(b) of Regulation 469/2009, 'product' means the active ingredient or combination of active ingredients authorised as the medicinal product; references in the SmPC to add-on use with levodopa or PDIs describe manner of use and do not make the authorised product a combination; Santen restored strict interpretation over Neurim.",
+      "legal_issues": [
+        "Meaning of 'product' in SPC Regulation Article 3(b)",
+        "Distinction between product identity and therapeutic use in marketing authorisation",
+        "Application of Santen, Yeda and Medeva authorities"
+      ],
+      "catchwords": [
+        "supplementary protection certificate",
+        "safinamide",
+        "Xadago",
+        "marketing authorisation",
+        "Santen",
+        "active ingredient"
+      ],
+      "index_terms": [
+        "Newron Pharmaceuticals",
+        "Parkinson's disease",
+        "levodopa",
+        "SmPC",
+        "Comptroller General of Patents"
+      ],
+      "linked_authorities": [
+        "Santen SAS v Generics UK",
+        "Neurim Pharmaceuticals v Comptroller",
+        "Yeda v Comptroller",
+        "Pharmacia Italia SpA"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Manual batch 05 enrichment; judges Birss, Moylan and Lewison confirmed."
+      },
+      "storyline": {
+        "title": "Safinamide SPC refused: product is not the combination",
+        "summary": "Newron's patent protected safinamide combined with levodopa and a PDI, but its marketing authorisation covered safinamide alone. The Court of Appeal held the MA product was safinamide only and dismissed the SPC appeal.",
+        "span": {
+          "start": "2004-04-08",
+          "end": "2024-04-07",
+          "label": "April 2004 patent filing to expiry"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Newron Pharmaceuticals SpA",
+            "short_name": "Newron"
+          },
+          {
+            "role": "respondent",
+            "name": "Comptroller General of Patents, Trademarks and Designs",
+            "short_name": "Comptroller"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "patent",
+            "order": 1,
+            "date": "2004-04-08",
+            "date_label": "8 April 2004",
+            "date_precision": "exact",
+            "title": "Patent filed",
+            "category": "institutional",
+            "actor": "Newron",
+            "what_happened": "EP (UK) 1 613 296 claiming safinamide with levodopa/PDI for Parkinson's.",
+            "why_it_matters": "SPC basic patent.",
+            "legal_hook": null
+          },
+          {
+            "id": "ma",
+            "order": 2,
+            "date": "2015-02-24",
+            "date_label": "24 February 2015",
+            "date_precision": "exact",
+            "title": "Xadago marketing authorisation",
+            "category": "institutional",
+            "actor": "European Commission",
+            "what_happened": "MA granted for safinamide (Xadago) tablets; add-on therapy to levodopa in SmPC.",
+            "why_it_matters": "SPC authorisation document.",
+            "legal_hook": "Regulation 726/2004"
+          },
+          {
+            "id": "spc-application",
+            "order": 3,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "SPC application filed",
+            "category": "procedural",
+            "actor": "Newron",
+            "what_happened": "Application based on patent and MA seeking term extension.",
+            "why_it_matters": "Triggered Comptroller proceedings.",
+            "legal_hook": "Article 3 SPC Regulation"
+          },
+          {
+            "id": "hearing-officer",
+            "order": 4,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Hearing Officer refuses SPC",
+            "category": "decision",
+            "actor": "Dr Cullen",
+            "what_happened": "Held MA product is safinamide alone; levodopa references are use not composition.",
+            "why_it_matters": "First-instance rejection.",
+            "legal_hook": "Article 1(b)"
+          },
+          {
+            "id": "high-court",
+            "order": 5,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Recorder upholds refusal",
+            "category": "decision",
+            "actor": "Recorder Douglas Campbell KC",
+            "what_happened": "Rejected error-of-law challenge; confirmed product mismatch.",
+            "why_it_matters": "Appeal to CA.",
+            "legal_hook": null
+          },
+          {
+            "id": "santen",
+            "order": 6,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Santen strict product test applied",
+            "category": "decision",
+            "actor": "Lord Justice Birss",
+            "what_happened": "Product not dependent on manner of use; Neurim teleology rejected.",
+            "why_it_matters": "Governing CJEU orthodoxy.",
+            "legal_hook": "Santen C-673/18"
+          },
+          {
+            "id": "yeda",
+            "order": 7,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Yeda analogy rejected",
+            "category": "decision",
+            "actor": "Lord Justice Birss",
+            "what_happened": "SmPC combination references insufficient to authorise combination product.",
+            "why_it_matters": "Confirms approach.",
+            "legal_hook": "Yeda v Comptroller"
+          },
+          {
+            "id": "authorisation-scope",
+            "order": 8,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "MA authorises safinamide only",
+            "category": "decision",
+            "actor": "Lord Justice Birss",
+            "what_happened": "Newron authorised to market Xadago (safinamide) only, not levodopa or PDIs.",
+            "why_it_matters": "Decisive product identification.",
+            "legal_hook": "Article 3(b)"
+          },
+          {
+            "id": "outcome",
+            "order": 9,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Appeal dismissed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Birss, Moylan and Lewison LJJ dismissed appeal; no SPC.",
+            "why_it_matters": "Patent/MA mismatch fatal.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "santen",
+            "label": "Strict product definition",
+            "impact": "Use references cannot expand product."
+          },
+          {
+            "stage_id": "authorisation-scope",
+            "label": "Only safinamide marketed",
+            "impact": "Combination patent cannot match MA."
+          }
+        ],
+        "confidence": {
+          "score": 0.94,
+          "level": "high",
+          "notes": "Manual storyline; batch 05."
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/131.json",
+    "judges": [
+      "Lord Justice Baker",
+      "Lady Justice Andrews",
+      "Lady Justice Asplin"
+    ],
+    "enrichment": {
+      "short_title": "UAE summary return order set aside for flawed welfare analysis",
+      "area_of_law": [
+        "Family law",
+        "International child abduction",
+        "Inherent jurisdiction",
+        "Domestic abuse",
+        "Welfare"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Children Act 1989",
+          "provisions": [
+            "section 1",
+            "section 1(3)"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Two children retained in England after family holiday; father sought summary return to UAE under inherent jurisdiction.",
+        "After fact-finding, judge found father physically abused mother and children but ordered summary return relying on Cafcass recommendation.",
+        "Mother appealed that judge treated case as summary return after full fact-finding and failed to apply PD 12J to abuse findings.",
+        "Baker, Andrews and Asplin LJJ allowed appeal and remitted for fresh welfare hearing before different judge."
+      ],
+      "procedural_posture": "Appeal against inherent jurisdiction return order following fact-finding on domestic abuse allegations.",
+      "outcome": "Appeal allowed on ground 2; return order set aside; remitted for welfare hearing.",
+      "ratio": "Once a full fact-finding hearing has occurred, the court is no longer deciding summary return but making a long-term welfare decision; where domestic abuse is found, PD 12J requires welfare checklist analysis with reference to abuse, which was fundamentally absent here despite serious findings of physical violence.",
+      "legal_issues": [
+        "Summary return vs full welfare decision after fact-finding",
+        "Application of Practice Direction 12J to inherent jurisdiction proceedings",
+        "Weight to be given to Cafcass recommendation where abuse findings minimised"
+      ],
+      "catchwords": [
+        "summary return",
+        "inherent jurisdiction",
+        "UAE",
+        "domestic abuse",
+        "PD 12J",
+        "welfare checklist",
+        "fact-finding"
+      ],
+      "index_terms": [
+        "Re R and Y",
+        "Re J child returned abroad",
+        "Re NY",
+        "Re A and B UAE",
+        "Cafcass"
+      ],
+      "linked_authorities": [
+        "Re J (A Child) (Child Returned Abroad: Convention Rights)",
+        "Re NY (A Child)",
+        "Re A and B (Children: Return Order: UAE)",
+        "Re H-N and Others"
+      ],
+      "confidence": {
+        "score": 0.94,
+        "level": "high",
+        "notes": "Manual batch 05 enrichment; judges corrected to Baker, Andrews and Asplin (spurious Cohen, Hale and Wilson removed)."
+      },
+      "storyline": {
+        "title": "UAE return order quashed after abuse findings ignored",
+        "summary": "Despite finding the father had physically abused the mother and children, the judge ordered their summary return to the UAE. The Court of Appeal held he applied the wrong framework and failed PD 12J analysis, remitting for a proper welfare decision.",
+        "span": {
+          "start": "2022-08-01",
+          "end": null,
+          "label": "August 2022 retention onwards"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Mother of R and Y",
+            "short_name": "Mother"
+          },
+          {
+            "role": "respondent",
+            "name": "Father of R and Y",
+            "short_name": "Father"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "retention",
+            "order": 1,
+            "date": "2022-08-01",
+            "date_label": "August 2022",
+            "date_precision": "month",
+            "title": "Children retained in England",
+            "category": "factual",
+            "actor": "Mother",
+            "what_happened": "Family did not return to UAE after holiday; mother reported abuse to police.",
+            "why_it_matters": "Trigger for return application.",
+            "legal_hook": null
+          },
+          {
+            "id": "return-application",
+            "order": 2,
+            "date": "2022-10-03",
+            "date_label": "3 October 2022",
+            "date_precision": "exact",
+            "title": "Father seeks summary return",
+            "category": "procedural",
+            "actor": "Father",
+            "what_happened": "High Court inherent jurisdiction application for return to UAE; passport orders made.",
+            "why_it_matters": "Original procedural framing.",
+            "legal_hook": "inherent jurisdiction"
+          },
+          {
+            "id": "fact-finding",
+            "order": 3,
+            "date": "2023-05-22",
+            "date_label": "22 May 2023",
+            "date_precision": "exact",
+            "title": "Fact-finding judgment",
+            "category": "decision",
+            "actor": "Deputy High Court judge",
+            "what_happened": "Findings of physical abuse of mother and children, psychological and financial abuse.",
+            "why_it_matters": "Should have driven welfare analysis.",
+            "legal_hook": "PD 12J"
+          },
+          {
+            "id": "cafcass",
+            "order": 4,
+            "date": "2023-07-17",
+            "date_label": "17 July 2023",
+            "date_precision": "exact",
+            "title": "Cafcass recommends return",
+            "category": "institutional",
+            "actor": "Cafcass officer",
+            "what_happened": "Officer recommended UAE return; summary minimised physical abuse findings.",
+            "why_it_matters": "Influenced judge erroneously.",
+            "legal_hook": null
+          },
+          {
+            "id": "return-order",
+            "order": 5,
+            "date": "2023-09-01",
+            "date_label": "1 September 2023",
+            "date_precision": "exact",
+            "title": "Judge orders summary return",
+            "category": "decision",
+            "actor": "Deputy High Court judge",
+            "what_happened": "Children to return to UAE with settlement agreement condition; mother unrepresented.",
+            "why_it_matters": "Decision under appeal.",
+            "legal_hook": "Re J principles"
+          },
+          {
+            "id": "stay",
+            "order": 6,
+            "date": "2023-10-25",
+            "date_label": "25 October 2023",
+            "date_precision": "exact",
+            "title": "Stay pending appeal",
+            "category": "procedural",
+            "actor": "Moylan LJ",
+            "what_happened": "Return order stayed; permission granted on welfare approach grounds.",
+            "why_it_matters": "Children remained in England.",
+            "legal_hook": null
+          },
+          {
+            "id": "wrong-framework",
+            "order": 7,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Summary return framework wrong",
+            "category": "decision",
+            "actor": "Lord Justice Baker",
+            "what_happened": "After fact-finding and detailed Cafcass assessment, decision was welfare not summary return.",
+            "why_it_matters": "Core legal error.",
+            "legal_hook": "Re J"
+          },
+          {
+            "id": "pd12j",
+            "order": 8,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "PD 12J analysis absent",
+            "category": "decision",
+            "actor": "Lord Justice Baker",
+            "what_happened": "Judge failed to apply welfare checklist with reference to domestic abuse findings.",
+            "why_it_matters": "Fundamentally flawed analysis.",
+            "legal_hook": "PD 12J paragraph 36"
+          },
+          {
+            "id": "remitted",
+            "order": 9,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Fresh welfare hearing ordered",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Return order set aside; remitted to different Family Division judge.",
+            "why_it_matters": "Children's future reconsidered.",
+            "legal_hook": "section 1(3) CA 1989"
+          },
+          {
+            "id": "outcome",
+            "order": 10,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Appeal allowed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Baker, Andrews and Asplin LJJ allowed appeal on ground 2.",
+            "why_it_matters": "Return to UAE halted pending welfare hearing.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "fact-finding",
+            "label": "Serious abuse findings",
+            "impact": "Required PD 12J welfare analysis."
+          },
+          {
+            "stage_id": "wrong-framework",
+            "label": "Not summary return",
+            "impact": "Invalidated judge's approach."
+          }
+        ],
+        "confidence": {
+          "score": 0.94,
+          "level": "high",
+          "notes": "Manual storyline; batch 05."
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/136.json",
+    "judges": [
+      "Sir Christopher Floyd",
+      "Lord Justice Nugee",
+      "Sir Geoffrey Vos"
+    ],
+    "enrichment": {
+      "short_title": "Patent joinder under section 67 and indemnity costs",
+      "area_of_law": [
+        "Intellectual property",
+        "Patents",
+        "Civil procedure",
+        "Costs",
+        "Fraudulent claims"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Patents Act 1977",
+          "provisions": [
+            "section 67"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Price falsely claimed patent ownership via fictitious 2011 assignment to Fred Bridge after bankruptcy; patents vested in Official Receiver.",
+        "Supawall succeeded as exclusive licensee on Old Injectawall infringement but failed to join OR as required by section 67(3).",
+        "Deputy judge permitted post-judgment joinder of OR; apportioned costs 60/40 between Price and Supawall claims with indemnity costs against Price.",
+        "Flitcraft's joinder appeal dismissed; costs appeal mostly dismissed but Supawall interim payment order set aside."
+      ],
+      "procedural_posture": "Dual appeals on section 67 joinder discretion and multi-claimant patent litigation costs apportionment.",
+      "outcome": "Flitcraft appeal dismissed; costs appeal dismissed save setting aside £12,775.50 interim payment against Supawall.",
+      "ratio": "Section 67(3) is procedural; post-judgment joinder of true proprietor permissible where remedies can still be fairly allocated; separate claims by proprietor and exclusive licensee warrant separate costs orders; Price's fictitious assignment warranted indemnity costs; Supawall's claim unaffected by Price's fraud.",
+      "legal_issues": [
+        "Post-judgment joinder to satisfy section 67(3) Patents Act 1977",
+        "Costs apportionment between proprietor and exclusive licensee claims",
+        "Indemnity costs for fraudulent title claim"
+      ],
+      "catchwords": [
+        "section 67",
+        "exclusive licensee",
+        "Official Receiver",
+        "patent infringement",
+        "indemnity costs",
+        "joinder",
+        "Injectawall"
+      ],
+      "index_terms": [
+        "Flitcraft",
+        "Supawall",
+        "Price",
+        "Summers v Fairclough",
+        "Pablo Star"
+      ],
+      "linked_authorities": [
+        "Summers v Fairclough",
+        "In re Pablo Star Limited",
+        "Beoco Ltd v Alfa Laval Co Ltd",
+        "L'Oréal SA v RN Ventures Ltd"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Manual batch 05 enrichment; judges corrected to Floyd, Nugee and Vos MR (spurious Lord Clarke removed)."
+      },
+      "storyline": {
+        "title": "Patent fraud, OR joinder and split costs",
+        "summary": "After Price's fraudulent proprietorship claim failed, Supawall sought to join the Official Receiver to save its infringement claim. The Court of Appeal upheld joinder and split costs, penalising Price's dishonesty while allowing Supawall partial recovery.",
+        "span": {
+          "start": null,
+          "end": null,
+          "label": "Injectawall patent litigation"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Flitcraft Limited and others",
+            "short_name": "Flitcraft"
+          },
+          {
+            "role": "respondent",
+            "name": "Philip Price and Supawall Limited",
+            "short_name": "Claimants"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "litigation",
+            "order": 1,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Multi-IP claim issued",
+            "category": "procedural",
+            "actor": "Price and Supawall",
+            "what_happened": "Patent, copyright and passing off claims against Flitcraft over Injectawall products.",
+            "why_it_matters": "Complex costs landscape.",
+            "legal_hook": null
+          },
+          {
+            "id": "fictitious-assignment",
+            "order": 2,
+            "date": "2011-03-28",
+            "date_label": "28 March 2011",
+            "date_precision": "exact",
+            "title": "Fictitious Bridge assignment",
+            "category": "factual",
+            "actor": "Price",
+            "what_happened": "Price falsely claimed 2011 assignment to keep patents from trustee in bankruptcy.",
+            "why_it_matters": "Drove indemnity costs.",
+            "legal_hook": null
+          },
+          {
+            "id": "trial",
+            "order": 3,
+            "date": "2022-12-20",
+            "date_label": "20 December 2022",
+            "date_precision": "exact",
+            "title": "Liability judgment",
+            "category": "decision",
+            "actor": "Deputy High Court judge",
+            "what_happened": "Price's claim dismissed for want of title; Supawall succeeded on Old Product infringement but OR not joined.",
+            "why_it_matters": "Section 67(3) issue arose.",
+            "legal_hook": "section 67"
+          },
+          {
+            "id": "joinder",
+            "order": 4,
+            "date": "2023-05-26",
+            "date_label": "26 May 2023",
+            "date_precision": "exact",
+            "title": "OR joined post-judgment",
+            "category": "decision",
+            "actor": "Deputy High Court judge",
+            "what_happened": "Permission to join Official Receiver; OR confirmed no interest in overturning liability findings.",
+            "why_it_matters": "Saved Supawall claim.",
+            "legal_hook": "CPR 19.2"
+          },
+          {
+            "id": "costs",
+            "order": 5,
+            "date": "2023-04-03",
+            "date_label": "3 April 2023",
+            "date_precision": "exact",
+            "title": "Costs judgment",
+            "category": "decision",
+            "actor": "Deputy High Court judge",
+            "what_happened": "75% patent/20% copyright/5% passing off; 60/40 patent split; indemnity costs against Price.",
+            "why_it_matters": "Dual appeals.",
+            "legal_hook": "CPR 44.2"
+          },
+          {
+            "id": "joinder-upheld",
+            "order": 6,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Joinder discretion upheld",
+            "category": "decision",
+            "actor": "Sir Christopher Floyd",
+            "what_happened": "Post-judgment OR joinder permissible; Supawall claim independent of Price fraud.",
+            "why_it_matters": "Flitcraft appeal fails.",
+            "legal_hook": "Pablo Star"
+          },
+          {
+            "id": "costs-split",
+            "order": 7,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Separate claims separate costs",
+            "category": "decision",
+            "actor": "Lord Justice Nugee",
+            "what_happened": "60/40 apportionment justified; Price pays indemnity costs of failed proprietorship claim.",
+            "why_it_matters": "Costs appeal largely fails.",
+            "legal_hook": null
+          },
+          {
+            "id": "interim",
+            "order": 8,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Supawall interim payment set aside",
+            "category": "decision",
+            "actor": "Lord Justice Nugee",
+            "what_happened": "£12,775.50 interim payment against Supawall set aside as net recipient.",
+            "why_it_matters": "Only costs appeal success.",
+            "legal_hook": null
+          },
+          {
+            "id": "outcome",
+            "order": 9,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Dual appeals largely dismissed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Floyd, Nugee and Vos MR dismissed joinder appeal and most of costs appeal.",
+            "why_it_matters": "Supawall infringement claim proceeds.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "fictitious-assignment",
+            "label": "Price's fraud exposed",
+            "impact": "Indemnity costs and title failure."
+          },
+          {
+            "stage_id": "joinder-upheld",
+            "label": "OR joinder allowed",
+            "impact": "Preserved licensee claim."
+          }
+        ],
+        "confidence": {
+          "score": 0.93,
+          "level": "high",
+          "notes": "Manual storyline; batch 05."
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/138.json",
+    "judges": [
+      "Lord Justice Underhill",
+      "Lady Justice Andrews",
+      "Dame Victoria Sharp"
+    ],
+    "enrichment": {
+      "short_title": "Ex turpi defence unavailable after NGRI insanity verdict",
+      "area_of_law": [
+        "Tort law",
+        "Illegality defence",
+        "Mental health",
+        "Clinical negligence",
+        "Human rights"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Mental Health Act 1983",
+          "provisions": [
+            "section 37",
+            "section 41"
+          ]
+        },
+        {
+          "title": "Human Rights Act 1998",
+          "provisions": [
+            "section 7"
+          ]
+        },
+        {
+          "title": "Trial of Lunatics Act 1883",
+          "provisions": [
+            "section 2"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Lewis-Ranwell killed three men during psychotic episode; found not guilty by reason of insanity and detained under sections 37/41 MHA 1983.",
+        "He sued police, NHS trust, G4S and council for negligent release before killings; defendants sought strike-out on ex turpi causa.",
+        "Garnham J held NGRI verdict meant no requisite turpitude; illegality defence unavailable.",
+        "Majority (Underhill LJ and Sharp P) dismissed appeal; Andrews LJ dissenting would allow and strike out negligence claim."
+      ],
+      "procedural_posture": "Appeal against refusal to strike out negligence claim on ex turpi/illegality grounds (Human Rights Act claim unaffected).",
+      "outcome": "Appeal dismissed by majority; negligence claim may proceed alongside HRA claim.",
+      "ratio": "A verdict of not guilty by reason of insanity under the M'Naghten rules means the defendant did not know his acts were wrong and lacks the turpitude required for ex turpi causa; illegality defence therefore unavailable as a matter of law for the negligence claim arising from pre-offence failures, though Andrews LJ dissenting would align NGRI with Clunis/Gray/Henderson.",
+      "legal_issues": [
+        "Whether ex turpi applies where claimant acquitted NGRI for homicide",
+        "Distinction between insanity and diminished responsibility for illegality defence",
+        "Application of Patel v Mirza policy approach to mental illness"
+      ],
+      "catchwords": [
+        "ex turpi causa",
+        "illegality defence",
+        "not guilty by reason of insanity",
+        "M'Naghten",
+        "clinical negligence",
+        "strike-out"
+      ],
+      "index_terms": [
+        "Lewis-Ranwell",
+        "Broadmoor",
+        "Devon Partnership NHS Trust",
+        "G4S Health Services",
+        "Gray v Thames Trains",
+        "Henderson v Dorset Healthcare"
+      ],
+      "linked_authorities": [
+        "Patel v Mirza",
+        "Gray v Thames Trains Ltd",
+        "Henderson v Dorset Healthcare University NHS Foundation Trust",
+        "Clunis v Camden LBC",
+        "Traylor v Kent & Medway NHS Trust"
+      ],
+      "confidence": {
+        "score": 0.93,
+        "level": "high",
+        "notes": "Manual batch 05 enrichment; judges corrected to Underhill, Andrews and Sharp P."
+      },
+      "storyline": {
+        "title": "NGRI killer's negligence claim survives ex turpi challenge",
+        "summary": "After being found not guilty by reason of insanity for three killings, Lewis-Ranwell sued those who had released him from custody. The Court of Appeal majority held ex turpi could not bar the claim because insanity negated turpitude.",
+        "span": {
+          "start": "2019-02-10",
+          "end": null,
+          "label": "February 2019 offences onwards"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "G4S Health Services (UK) Ltd and others",
+            "short_name": "Defendants"
+          },
+          {
+            "role": "respondent",
+            "name": "Alexander Lewis-Ranwell",
+            "short_name": "Claimant"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "arrests",
+            "order": 1,
+            "date": "2019-02-08",
+            "date_label": "8 February 2019",
+            "date_precision": "exact",
+            "title": "Two pre-offence arrests",
+            "category": "factual",
+            "actor": "Devon and Cornwall Police",
+            "what_happened": "Claimant arrested twice; mental health assessment not completed; released.",
+            "why_it_matters": "Alleged negligent failures.",
+            "legal_hook": null
+          },
+          {
+            "id": "offences",
+            "order": 2,
+            "date": "2019-02-10",
+            "date_label": "10 February 2019",
+            "date_precision": "exact",
+            "title": "Three homicides committed",
+            "category": "factual",
+            "actor": "Claimant",
+            "what_happened": "Claimant killed three elderly men during psychotic episode in Exeter.",
+            "why_it_matters": "Underlying unlawful acts.",
+            "legal_hook": null
+          },
+          {
+            "id": "ngri",
+            "order": 3,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "NGRI verdict at trial",
+            "category": "decision",
+            "actor": "Exeter Crown Court",
+            "what_happened": "Jury found not guilty by reason of insanity; hospital order with restrictions.",
+            "why_it_matters": "Central to turpitude analysis.",
+            "legal_hook": "Trial of Lunatics Act 1883"
+          },
+          {
+            "id": "claim",
+            "order": 4,
+            "date": "2020-02-04",
+            "date_label": "4 February 2020",
+            "date_precision": "exact",
+            "title": "High Court claim issued",
+            "category": "procedural",
+            "actor": "Claimant",
+            "what_happened": "Negligence and HRA section 7 claims against police, trust, G4S and council.",
+            "why_it_matters": "Triggered strike-out applications.",
+            "legal_hook": "section 7 HRA 1998"
+          },
+          {
+            "id": "strike-out",
+            "order": 5,
+            "date": "2021-07-20",
+            "date_label": "20 July 2021",
+            "date_precision": "exact",
+            "title": "Strike-out applications issued",
+            "category": "procedural",
+            "actor": "Defendants",
+            "what_happened": "G4S, trust and council applied to strike negligence claim on ex turpi grounds.",
+            "why_it_matters": "HRA claim continued regardless.",
+            "legal_hook": "ex turpi causa"
+          },
+          {
+            "id": "garnham",
+            "order": 6,
+            "date": "2022-05-20",
+            "date_label": "20 May 2022",
+            "date_precision": "exact",
+            "title": "Garnham J dismisses applications",
+            "category": "decision",
+            "actor": "Garnham J",
+            "what_happened": "Held NGRI verdict meant no knowing wrongfulness; no turpitude for ex turpi.",
+            "why_it_matters": "First-instance ratio under appeal.",
+            "legal_hook": null
+          },
+          {
+            "id": "authorities",
+            "order": 7,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Insanity distinguished from diminished responsibility",
+            "category": "decision",
+            "actor": "Lord Justice Underhill",
+            "what_happened": "Gray and Henderson on diminished responsibility not determinative; foreign cases favour no ex turpi for insanity.",
+            "why_it_matters": "Majority reasoning.",
+            "legal_hook": "Patel v Mirza"
+          },
+          {
+            "id": "dissent",
+            "order": 8,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Andrews LJ dissent",
+            "category": "decision",
+            "actor": "Lady Justice Andrews",
+            "what_happened": "Would allow appeal; deliberate killing should not support negligence claim despite lack of knowledge of wrong.",
+            "why_it_matters": "Significant split.",
+            "legal_hook": "Clunis v Camden LBC"
+          },
+          {
+            "id": "outcome",
+            "order": 9,
+            "date": null,
+            "date_label": null,
+            "date_precision": "unknown",
+            "title": "Appeal dismissed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Underhill LJ and Sharp P dismissed appeal; negligence claim proceeds.",
+            "why_it_matters": "Claimants with NGRI verdict may sue for pre-offence negligence.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "ngri",
+            "label": "Insanity not turpitude",
+            "impact": "Majority's basis for rejecting ex turpi."
+          },
+          {
+            "stage_id": "dissent",
+            "label": "Andrews LJ dissent",
+            "impact": "Would strike out negligence claim."
+          }
+        ],
+        "confidence": {
+          "score": 0.93,
+          "level": "high",
+          "notes": "Manual storyline; batch 05."
+        }
+      }
+    }
+  }
+]

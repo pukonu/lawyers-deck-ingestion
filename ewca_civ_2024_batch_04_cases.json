@@ -1,0 +1,2355 @@
+[
+  {
+    "source_path": "data/judgments/ewca/civ/2024/73.json",
+    "judges": [
+      "Lewison LJ",
+      "Macur LJ",
+      "Newey LJ"
+    ],
+    "enrichment": {
+      "short_title": "Secure tenancy succession after joint tenant's departure",
+      "area_of_law": [
+        "Housing law",
+        "Landlord and tenant",
+        "Secure tenancies"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Housing Act 1985",
+          "provisions": [
+            "section 79",
+            "section 81",
+            "section 87",
+            "section 88",
+            "section 91"
+          ]
+        },
+        {
+          "title": "Localism Act 2011",
+          "provisions": []
+        }
+      ],
+      "key_facts": [
+        "Westminster granted Mr Kazam and Mrs Hussain a joint secure tenancy of Flat 5, Brackley Court in 2005.",
+        "Mr Kazam left in 2011; Westminster amended internal records from joint to sole tenant while Mrs Hussain continued paying rent alone.",
+        "Mrs Hussain died in July 2020; her grandson Mr Rahimi claimed succession but Westminster terminated the tenancy as vesting in Mr Kazam.",
+        "HHJ Hellman found an implied surrender and regrant to Mrs Hussain alone; Lane J on appeal held there was none."
+      ],
+      "procedural_posture": "Tenant's appeal from Lane J's decision reversing the county court finding of surrender and regrant.",
+      "outcome": "Appeal dismissed (2:1); no surrender and regrant; grandson cannot succeed to secure tenancy.",
+      "ratio": "Where a joint secure tenancy continues, survivorship vests the tenancy in the absent joint tenant and succession is unavailable to a family member; implied surrender and regrant requires unequivocal conduct by landlord and all joint tenants, and Westminster's internal rent-account changes did not establish a new sole tenancy to Mrs Hussain.",
+      "legal_issues": [
+        "Whether Westminster granted Mrs Hussain a new sole tenancy with Mr Kazam's consent",
+        "Whether internal records and rent payments amounted to surrender and regrant",
+        "Whether Mr Rahimi could succeed under Housing Act 1985 section 87"
+      ],
+      "catchwords": [
+        "secure tenancy",
+        "succession",
+        "surrender and regrant",
+        "joint tenancy",
+        "survivorship"
+      ],
+      "index_terms": [
+        "Housing Act 1985",
+        "Westminster",
+        "implied surrender",
+        "one succession rule"
+      ],
+      "linked_authorities": [
+        "Brent LBC v Sharma",
+        "Bassetlaw DC v Renshaw",
+        "Marcroft Wagons Ltd v Smith",
+        "Sable v QFS Scaffolding Ltd"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Outcome, split decision, and core housing law analysis are explicit; judge metadata corrected."
+      },
+      "storyline": {
+        "title": "A grandson's succession claim and whether Westminster ever re-granted a sole tenancy",
+        "summary": "When Mrs Hussain died in a Westminster flat, her grandson argued she had become sole tenant after her husband left. The county court agreed there had been a surrender and regrant, but the High Court reversed. The Court of Appeal dismissed the appeal 2:1, holding the joint tenancy survived and Mr Rahimi could not succeed.",
+        "span": {
+          "start": "2005-02-21",
+          "end": null,
+          "label": "February 2005 – 2024"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Armin Rahimi",
+            "short_name": "Mr Rahimi"
+          },
+          {
+            "role": "defendant",
+            "name": "City of Westminster Council",
+            "short_name": "Westminster"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "joint-tenancy-granted",
+            "order": 1,
+            "date": "2005-02-21",
+            "date_label": "21 February 2005",
+            "date_precision": "exact",
+            "title": "Joint secure tenancy granted",
+            "category": "background",
+            "actor": "Westminster CC",
+            "what_happened": "Westminster granted Mr Kazam and Mrs Hussain a joint tenancy of Flat 5, Brackley Court.",
+            "why_it_matters": "Established the original joint tenancy from which all later succession analysis flowed.",
+            "legal_hook": "Housing Act 1985"
+          },
+          {
+            "id": "husband-departs",
+            "order": 2,
+            "date": "2011-03-18",
+            "date_label": "March–August 2011",
+            "date_precision": "approximate",
+            "title": "Mr Kazam leaves the flat",
+            "category": "factual",
+            "actor": "Mr Kazam",
+            "what_happened": "Mr Kazam left the property; Westminster removed him from the rent account and recorded 'joint to sole' internally.",
+            "why_it_matters": "Central factual backdrop to the alleged surrender and regrant.",
+            "legal_hook": null
+          },
+          {
+            "id": "grandson-arrives",
+            "order": 3,
+            "date": "2017-09-13",
+            "date_label": "13 September 2017",
+            "date_precision": "exact",
+            "title": "Mr Rahimi joins grandmother",
+            "category": "factual",
+            "actor": "Mr Rahimi",
+            "what_happened": "Mr Rahimi arrived in the UK and lived with Mrs Hussain until her death.",
+            "why_it_matters": "Supported his later succession claim as a family member resident for twelve months.",
+            "legal_hook": null
+          },
+          {
+            "id": "death-and-possession",
+            "order": 4,
+            "date": "2020-07-10",
+            "date_label": "10 July 2020",
+            "date_precision": "exact",
+            "title": "Mrs Hussain dies; possession proceedings",
+            "category": "procedural",
+            "actor": "Westminster CC",
+            "what_happened": "After Mrs Hussain's death Westminster served notice and issued possession, treating Mr Kazam as survivor.",
+            "why_it_matters": "Triggered the dispute over who was tenant at death.",
+            "legal_hook": "Housing Act 1985 section 87"
+          },
+          {
+            "id": "county-court-success",
+            "order": 5,
+            "date": null,
+            "date_label": "County court trial",
+            "date_precision": "unknown",
+            "title": "HHJ Hellman finds surrender and regrant",
+            "category": "hearing",
+            "actor": "HHJ Hellman",
+            "what_happened": "At trial HHJ Hellman held there had been an implied surrender and regrant to Mrs Hussain alone and that Mr Rahimi had succeeded.",
+            "why_it_matters": "First-instance victory for Mr Rahimi on succession.",
+            "legal_hook": null
+          },
+          {
+            "id": "high-court-reversal",
+            "order": 6,
+            "date": null,
+            "date_label": "High Court appeal",
+            "date_precision": "unknown",
+            "title": "Lane J reverses county court",
+            "category": "decision",
+            "actor": "Lane J",
+            "what_happened": "Lane J held there was no unequivocal surrender and regrant and reversed HHJ Hellman.",
+            "why_it_matters": "Removed the basis for Mr Rahimi's succession claim.",
+            "legal_hook": "[2023] EWHC 825 (KB)"
+          },
+          {
+            "id": "ca-argument",
+            "order": 7,
+            "date": null,
+            "date_label": "Court of Appeal hearing",
+            "date_precision": "unknown",
+            "title": "Court considers implied tenancy grant",
+            "category": "hearing",
+            "actor": "Court of Appeal",
+            "what_happened": "The court debated whether Westminster had granted a new sole tenancy to Mrs Hussain with Mr Kazam's consent.",
+            "why_it_matters": "Framed the principal issue on appeal.",
+            "legal_hook": null
+          },
+          {
+            "id": "macur-dissent",
+            "order": 8,
+            "date": null,
+            "date_label": "Macur LJ dissent",
+            "date_precision": "unknown",
+            "title": "Macur LJ would remit for rehearing",
+            "category": "decision",
+            "actor": "Macur LJ",
+            "what_happened": "Macur LJ disagreed with Lewison LJ, treating internal records as strong inferential evidence a sole tenancy could be found.",
+            "why_it_matters": "2:1 split; she would have allowed appeal and remitted.",
+            "legal_hook": null
+          },
+          {
+            "id": "lewison-majority",
+            "order": 9,
+            "date": null,
+            "date_label": "Majority judgment",
+            "date_precision": "unknown",
+            "title": "Lewison LJ dismisses appeal",
+            "category": "decision",
+            "actor": "Lewison LJ",
+            "what_happened": "Lewison LJ held there was no proper basis to infer a new sole tenancy; joint tenancy vested in Mr Kazam.",
+            "why_it_matters": "Majority reasoning defeating succession.",
+            "legal_hook": "Marcroft Wagons Ltd v Smith"
+          },
+          {
+            "id": "appeal-dismissed",
+            "order": 10,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Appeal dismissed 2:1",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Lewison and Newey LJJ dismissed the appeal; Mr Rahimi could not succeed to the secure tenancy.",
+            "why_it_matters": "Final binding outcome.",
+            "legal_hook": "Housing Act 1985 sections 87–88"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "husband-departs",
+            "label": "Internal 'joint to sole' change",
+            "impact": "Central evidence for both sides on whether a new tenancy was granted."
+          },
+          {
+            "stage_id": "high-court-reversal",
+            "label": "Lane J rejects surrender and regrant",
+            "impact": "Shifted momentum to Westminster before the Court of Appeal."
+          },
+          {
+            "stage_id": "appeal-dismissed",
+            "label": "Majority holds no new sole tenancy",
+            "impact": "Confirmed survivorship in Mr Kazam defeated succession."
+          }
+        ],
+        "confidence": {
+          "score": 0.88,
+          "level": "high",
+          "notes": [
+            "Dates for tenancy, departure and death are in the judgment.",
+            "Exact county court and CA hearing dates not stated."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/74.json",
+    "judges": [
+      "Underhill LJ",
+      "King LJ",
+      "Warby LJ"
+    ],
+    "enrichment": {
+      "short_title": "Part 5A deportation assessment for serious foreign offender",
+      "area_of_law": [
+        "Immigration law",
+        "Human rights",
+        "Deportation"
+      ],
+      "statutes_considered": [
+        {
+          "title": "UK Borders Act 2007",
+          "provisions": [
+            "section 32",
+            "section 33"
+          ]
+        },
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": [
+            "Part 5A",
+            "section 117A",
+            "section 117C",
+            "section 117D"
+          ]
+        },
+        {
+          "title": "Borders, Citizenship and Immigration Act 2009",
+          "provisions": [
+            "section 55"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Turkish national Mr Yalcin was sentenced to over five years for possessing a prohibited firearm.",
+        "The FTT allowed his human rights appeal, finding deportation disproportionate given impact on British children, especially D with special needs.",
+        "The UT set aside the FTT decision, holding it erred by failing to apply the unduly harsh test and by treating public-funds savings as countervailing public interest.",
+        "Andrews LJ granted permission only on whether the FTT erred in law."
+      ],
+      "procedural_posture": "Appeal against Upper Tribunal decision setting aside FTT allowance of human rights claim resisting deportation.",
+      "outcome": "Appeal allowed; FTT deportation decision restored; UT erred on Part 5A assessment.",
+      "ratio": "For a foreign criminal sentenced to four years or more, tribunals need not expressly find 'unduly harsh' under Exception 2 before finding very compelling circumstances under section 117C(6); mischaracterising welfare/financial impact as a separate public interest rather than Article 8 interference is not necessarily fatal if immaterial to the balance.",
+      "legal_issues": [
+        "Whether FTT had to apply unduly harsh test expressly before section 117C(6) assessment",
+        "Whether reference to public-funds savings redefined statutory public interest",
+        "Materiality of procedural shortcomings in FTT reasons"
+      ],
+      "catchwords": [
+        "deportation",
+        "Part 5A",
+        "Article 8",
+        "very compelling circumstances",
+        "unduly harsh"
+      ],
+      "index_terms": [
+        "section 117C",
+        "foreign criminal",
+        "FTT",
+        "Upper Tribunal",
+        "HA (Iraq)"
+      ],
+      "linked_authorities": [
+        "HA (Iraq) v SSHD",
+        "NA (Pakistan) v SSHD",
+        "Hesham Ali v SSHD",
+        "AA (Nigeria) v SSHD"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Outcome and Part 5A analysis are central and explicit."
+      },
+      "storyline": {
+        "title": "A firearms sentence, a child's special needs, and restoring the FTT's deportation refusal",
+        "summary": "After a five-year sentence for a Glock pistol offence, Mr Yalcin's deportation turned on Article 8 and Part 5A. The FTT found deportation disproportionate because of his British children, especially D's disabilities; the UT set that aside for legal errors, but the Court of Appeal restored the FTT decision.",
+        "span": {
+          "start": "2016-03-04",
+          "end": null,
+          "label": "March 2016 – 2024"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Engin Yalcin",
+            "short_name": "Mr Yalcin"
+          },
+          {
+            "role": "respondent",
+            "name": "Secretary of State for the Home Department",
+            "short_name": "SSHD"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "firearm-offence",
+            "order": 1,
+            "date": "2016-03-04",
+            "date_label": "4 March 2016",
+            "date_precision": "exact",
+            "title": "Conviction for prohibited firearm",
+            "category": "factual",
+            "actor": "Mr Yalcin",
+            "what_happened": "Mr Yalcin pleaded guilty to possessing a Glock 17 semi-automatic pistol and was sentenced to five years four months.",
+            "why_it_matters": "Triggered mandatory deportation consideration as a foreign criminal.",
+            "legal_hook": "UK Borders Act 2007 section 32"
+          },
+          {
+            "id": "deportation-notice",
+            "order": 2,
+            "date": "2016-12-19",
+            "date_label": "19 December 2016",
+            "date_precision": "exact",
+            "title": "Deportation intention notified",
+            "category": "institutional",
+            "actor": "SSHD",
+            "what_happened": "The Secretary of State notified intention to deport and later refused his human rights claim.",
+            "why_it_matters": "Started the Article 8 proportionality pathway.",
+            "legal_hook": null
+          },
+          {
+            "id": "ftt-hearing",
+            "order": 3,
+            "date": "2021-03-17",
+            "date_label": "17 March 2021",
+            "date_precision": "exact",
+            "title": "FTT hears human rights appeal",
+            "category": "hearing",
+            "actor": "FTJ Cohen",
+            "what_happened": "The FTT heard the appeal together with an asylum claim; judgment was promulgated in October 2021.",
+            "why_it_matters": "First specialist tribunal assessment of proportionality.",
+            "legal_hook": null
+          },
+          {
+            "id": "ftt-allows",
+            "order": 4,
+            "date": "2021-10-19",
+            "date_label": "19 October 2021",
+            "date_precision": "exact",
+            "title": "FTT allows human rights appeal",
+            "category": "decision",
+            "actor": "FTJ Cohen",
+            "what_happened": "The FTT dismissed the asylum appeal but allowed the human rights appeal, finding deportation disproportionate given impact on D.",
+            "why_it_matters": "Key victory for Mr Yalcin at first tier.",
+            "legal_hook": "section 117C(6)"
+          },
+          {
+            "id": "ut-set-aside",
+            "order": 5,
+            "date": "2023-02-01",
+            "date_label": "1 February 2023",
+            "date_precision": "exact",
+            "title": "UT sets aside FTT decision",
+            "category": "decision",
+            "actor": "UTJ Stephen Smith",
+            "what_happened": "The UT held the FTT erred in Part 5A analysis and remade the decision, allowing the Secretary of State's appeal.",
+            "why_it_matters": "Removed the FTT's protective outcome.",
+            "legal_hook": null
+          },
+          {
+            "id": "permission-ca",
+            "order": 6,
+            "date": null,
+            "date_label": "Permission to appeal",
+            "date_precision": "unknown",
+            "title": "Andrews LJ grants limited permission",
+            "category": "procedural",
+            "actor": "Andrews LJ",
+            "what_happened": "Permission was granted only on whether the FTT had erred in law as found by the UT.",
+            "why_it_matters": "Narrowed the Court of Appeal issue.",
+            "legal_hook": null
+          },
+          {
+            "id": "ca-hearing",
+            "order": 7,
+            "date": null,
+            "date_label": "Court of Appeal hearing",
+            "date_precision": "unknown",
+            "title": "Court re-examines Part 5A errors",
+            "category": "hearing",
+            "actor": "Court of Appeal",
+            "what_happened": "Underhill LJ analysed whether express unduly harsh findings and public-funds reasoning were required.",
+            "why_it_matters": "Determined whether UT intervention was lawful.",
+            "legal_hook": "section 117C"
+          },
+          {
+            "id": "ca-allows",
+            "order": 8,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Appeal allowed; FTT restored",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "The court allowed the appeal and restored the FTT decision refusing deportation.",
+            "why_it_matters": "Binding outcome reinstating FTT proportionality finding.",
+            "legal_hook": "Part 5A"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "ftt-allows",
+            "label": "FTT finds deportation disproportionate",
+            "impact": "Established factual and evaluative basis later restored on appeal."
+          },
+          {
+            "stage_id": "ut-set-aside",
+            "label": "UT finds legal errors",
+            "impact": "Temporary reversal of Mr Yalcin's protection."
+          },
+          {
+            "stage_id": "ca-allows",
+            "label": "Court of Appeal restores FTT",
+            "impact": "Final outcome refusing deportation on human rights grounds."
+          }
+        ],
+        "confidence": {
+          "score": 0.9,
+          "level": "high",
+          "notes": [
+            "Key procedural dates stated in judgment.",
+            "Exact CA hand-down date not given."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/75.json",
+    "judges": [
+      "Stuart-Smith LJ",
+      "Macur LJ",
+      "Lewison LJ"
+    ],
+    "enrichment": {
+      "short_title": "Pit bull destruction order after CDO breach",
+      "area_of_law": [
+        "Animal law",
+        "Dangerous dogs",
+        "Public law",
+        "Judicial review"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Dangerous Dogs Act 1991",
+          "provisions": [
+            "section 1",
+            "section 4",
+            "section 4A",
+            "section 4B"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Kayleigh Dawson's pit bull terrier Lightning was subject to a contingent destruction order after being found to be a prohibited type.",
+        "On 7 February 2020 Lightning escaped and seriously attacked another dog and its handler while unmuzzled and off-lead.",
+        "Magistrates and the Crown Court ordered destruction under section 4B; Fordham J dismissed judicial review.",
+        "The owner argued the Crown Court applied too high a test and failed to consider CDO mitigation conditions."
+      ],
+      "procedural_posture": "Appeal against Fordham J's dismissal of judicial review of Crown Court refusal to state a case and destruction order.",
+      "outcome": "Appeal dismissed; Lightning destruction order upheld.",
+      "ratio": "Section 4B requires the owner to prove on the balance of probabilities that the dog would not constitute a danger to public safety; the Crown Court correctly applied that test and was entitled to reject expert evidence; future CDO conditions cannot be relied on at the section 4B stage under the scheme in R (Golding) v Chief Constable of Kent.",
+      "legal_issues": [
+        "Whether Crown Court applied an impermissibly strict test for prohibited-type dogs",
+        "Whether compliance breaches and escape were relevant to section 4B(2A) assessment",
+        "Whether future muzzling and lead conditions should be taken into account"
+      ],
+      "catchwords": [
+        "dangerous dogs",
+        "pit bull terrier",
+        "destruction order",
+        "contingent destruction order",
+        "section 4B",
+        "judicial review"
+      ],
+      "index_terms": [
+        "Lightning",
+        "Dangerous Dogs Act 1991",
+        "R v Singh",
+        "R (Golding)",
+        "Fordham J"
+      ],
+      "linked_authorities": [
+        "R v Singh",
+        "R (Golding) v Chief Constable of Kent",
+        "R v Flack",
+        "R (Grant) v Crown Court at Sheffield"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome and statutory framework clearly stated; judge metadata corrected."
+      },
+      "storyline": {
+        "title": "Lightning the pit bull, a violent escape, and a upheld destruction order",
+        "summary": "After Lightning breached his exemption conditions and attacked another dog in the street, magistrates and the Crown Court ordered his destruction. The owner challenged the decision by judicial review, but Fordham J and the Court of Appeal upheld the order.",
+        "span": {
+          "start": "2019-06-29",
+          "end": null,
+          "label": "June 2019 – 2024"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Kayleigh Dawson",
+            "short_name": "Ms Dawson"
+          },
+          {
+            "role": "defendant",
+            "name": "Crown Court at Preston",
+            "short_name": "Crown Court"
+          },
+          {
+            "role": "authority",
+            "name": "Lancashire Constabulary",
+            "short_name": "Police"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "dog-seized",
+            "order": 1,
+            "date": "2019-06-29",
+            "date_label": "29 June 2019",
+            "date_precision": "exact",
+            "title": "Lightning seized as pit bull type",
+            "category": "institutional",
+            "actor": "Lancashire Constabulary",
+            "what_happened": "Lightning was seized and assessed as a pit bull terrier type.",
+            "why_it_matters": "Started proceedings under the Dangerous Dogs Act.",
+            "legal_hook": "section 1 Dangerous Dogs Act 1991"
+          },
+          {
+            "id": "cdo-granted",
+            "order": 2,
+            "date": "2019-11-09",
+            "date_label": "9 November 2019",
+            "date_precision": "exact",
+            "title": "Contingent destruction order and exemption",
+            "category": "decision",
+            "actor": "Magistrates' Court",
+            "what_happened": "Lightning was returned subject to a CDO requiring muzzle, lead, insurance and secure housing.",
+            "why_it_matters": "Established conditions later breached.",
+            "legal_hook": "section 4A"
+          },
+          {
+            "id": "attack-incident",
+            "order": 3,
+            "date": "2020-02-07",
+            "date_label": "7 February 2020",
+            "date_precision": "exact",
+            "title": "Escape and sustained attack",
+            "category": "factual",
+            "actor": "Lightning",
+            "what_happened": "Lightning escaped unmuzzled and off-lead, attacking another dog and biting its handler for several minutes until police intervened.",
+            "why_it_matters": "Central incident triggering destruction application.",
+            "legal_hook": null
+          },
+          {
+            "id": "magistrates-order",
+            "order": 4,
+            "date": "2021-05-01",
+            "date_label": "May 2021",
+            "date_precision": "month",
+            "title": "Magistrates order destruction",
+            "category": "decision",
+            "actor": "Magistrates' Court Burnley",
+            "what_happened": "Magistrates made a section 4B destruction order after the owner failed to prove Lightning was not a danger.",
+            "why_it_matters": "First formal destruction order.",
+            "legal_hook": "section 4B"
+          },
+          {
+            "id": "crown-court",
+            "order": 5,
+            "date": null,
+            "date_label": "Crown Court appeal",
+            "date_precision": "unknown",
+            "title": "Crown Court dismisses appeal",
+            "category": "hearing",
+            "actor": "Crown Court Preston",
+            "what_happened": "The Crown Court upheld destruction, finding Lightning's temperament and past behaviour showed he remained a danger.",
+            "why_it_matters": "Detailed evaluative reasoning reviewed on JR.",
+            "legal_hook": "section 4B(2A)"
+          },
+          {
+            "id": "case-stated-refused",
+            "order": 6,
+            "date": "2021-12-16",
+            "date_label": "December 2021",
+            "date_precision": "month",
+            "title": "Application to state a case refused",
+            "category": "procedural",
+            "actor": "Crown Court Preston",
+            "what_happened": "The Crown Court refused to state a case, finding the application frivolous.",
+            "why_it_matters": "Led to judicial review proceedings.",
+            "legal_hook": null
+          },
+          {
+            "id": "fordham-j",
+            "order": 7,
+            "date": "2023-03-08",
+            "date_label": "8 March 2023",
+            "date_precision": "exact",
+            "title": "Fordham J dismisses judicial review",
+            "category": "decision",
+            "actor": "Fordham J",
+            "what_happened": "The High Court held the Crown Court's evaluative assessment was lawful and sufficient.",
+            "why_it_matters": "Rejected all five grounds of challenge.",
+            "legal_hook": "[2023] EWHC 497 (Admin)"
+          },
+          {
+            "id": "ca-ground5",
+            "order": 8,
+            "date": null,
+            "date_label": "Court of Appeal hearing",
+            "date_precision": "unknown",
+            "title": "Court rejects Golding challenge",
+            "category": "hearing",
+            "actor": "Stuart-Smith LJ",
+            "what_happened": "The court held future CDO conditions could not be weighed at the section 4B stage and the Crown Court had considered mitigation.",
+            "why_it_matters": "Disposed of the main legal argument on conditions.",
+            "legal_hook": "R (Golding)"
+          },
+          {
+            "id": "appeal-dismissed",
+            "order": 9,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Appeal dismissed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Stuart-Smith, Macur and Lewison LJJ dismissed the appeal on all grounds.",
+            "why_it_matters": "Destruction order stands.",
+            "legal_hook": "section 4B"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "attack-incident",
+            "label": "Violent escape while exempt",
+            "impact": "Provided decisive evidence of danger despite prior exemption."
+          },
+          {
+            "stage_id": "crown-court",
+            "label": "Crown Court rejects expert view",
+            "impact": "Upheld destruction on temperament and past behaviour."
+          },
+          {
+            "stage_id": "appeal-dismissed",
+            "label": "CA upholds section 4B test",
+            "impact": "Confirmed no error in applying danger test to prohibited type."
+          }
+        ],
+        "confidence": {
+          "score": 0.89,
+          "level": "high",
+          "notes": [
+            "Attack date and key procedural dates explicit.",
+            "Exact CA judgment date not stated."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/78.json",
+    "judges": [
+      "Arnold LJ",
+      "Birss LJ",
+      "King LJ"
+    ],
+    "enrichment": {
+      "short_title": "Patent sub-licence royalties on Zejula sales",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Contract interpretation",
+        "Pharmaceutical licensing"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "AstraZeneca sub-licensed PARP inhibitor patents to Tesaro for niraparib (Zejula) under agreements mirroring head licences with Sheffield and ICR.",
+        "Richards J held Tesaro must pay royalties on all Zejula cancer-treatment sales; Tesaro argued royalties applied only to patented uses.",
+        "The Compound definition linked licence scope and royalties to uses 'may be claimed or covered by' the Licensed Patents.",
+        "Tesaro contended only a minority of Zejula sales fell within the patent claims."
+      ],
+      "procedural_posture": "Appeal against High Court interpretation of 2012 patent sub-licence royalty obligations.",
+      "outcome": "Appeal allowed; royalties only on patented uses not all Zejula sales.",
+      "ratio": "The italicised words in the Compound definition align the royalty obligation with the scope of the licensed patents, not all sales of niraparib as a cancer treatment; 'may be' connotes futurity and the Head Licences support co-extensive royalty and infringement scope; AZ's interpretation risked US patent misuse.",
+      "legal_issues": [
+        "Meaning of 'the use of which may be claimed or covered by' the Licensed Patents",
+        "Whether royalty obligation extended to all Zejula sales for cancer treatment",
+        "Relevance of head licence wording and US patent misuse doctrine"
+      ],
+      "catchwords": [
+        "patent licence",
+        "royalties",
+        "second medical use",
+        "contract interpretation",
+        "PARP inhibitor",
+        "Zejula"
+      ],
+      "index_terms": [
+        "AstraZeneca",
+        "Tesaro",
+        "niraparib",
+        "sub-licence",
+        "patent misuse"
+      ],
+      "linked_authorities": [
+        "Unwired Planet v Huawei",
+        "Merrell Dow v Norton",
+        "Lilly ICOS v Pfizer",
+        "Collins v Claughton"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Core contractual issue and unanimous outcome clearly reasoned."
+      },
+      "storyline": {
+        "title": "Zejula royalties and whether every cancer sale was chargeable",
+        "summary": "Tesaro licensed PARP patents from AstraZeneca for niraparib. When Zejula reached the market, AZ claimed royalties on all sales but Tesaro said only sales for patented uses counted. The High Court favoured AZ; the Court of Appeal unanimously reversed.",
+        "span": {
+          "start": "2012-10-04",
+          "end": null,
+          "label": "October 2012 licence – 2024"
+        },
+        "parties": [
+          {
+            "role": "claimant",
+            "name": "AstraZeneca UK Limited",
+            "short_name": "AZ"
+          },
+          {
+            "role": "defendant",
+            "name": "Tesaro Inc",
+            "short_name": "Tesaro"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "head-licences",
+            "order": 1,
+            "date": "2004-07-25",
+            "date_label": "2004–2005",
+            "date_precision": "approximate",
+            "title": "Head licences with Sheffield and ICR",
+            "category": "background",
+            "actor": "AZ / KuDOS",
+            "what_happened": "University and ICR granted KuDOS exclusive rights to PARP inhibitor second medical use patents.",
+            "why_it_matters": "Source of AZ's sub-licence rights and upstream royalty structure.",
+            "legal_hook": null
+          },
+          {
+            "id": "sublicence",
+            "order": 2,
+            "date": "2012-10-04",
+            "date_label": "4 October 2012",
+            "date_precision": "exact",
+            "title": "Sub-licence agreements signed",
+            "category": "factual",
+            "actor": "AZ and Tesaro",
+            "what_happened": "AZ granted Tesaro exclusive sub-licences for niraparib and MK-2512 with royalty clauses tied to Compound definition.",
+            "why_it_matters": "Contract whose interpretation was in dispute.",
+            "legal_hook": null
+          },
+          {
+            "id": "zejula-launch",
+            "order": 3,
+            "date": "2017-01-01",
+            "date_label": "2017",
+            "date_precision": "year",
+            "title": "Zejula marketed for ovarian cancer",
+            "category": "factual",
+            "actor": "Tesaro",
+            "what_happened": "Tesaro obtained US and EU marketing authorisations for Zejula as a cancer treatment.",
+            "why_it_matters": "Generated sales triggering royalty dispute.",
+            "legal_hook": null
+          },
+          {
+            "id": "high-court",
+            "order": 4,
+            "date": "2023-04-05",
+            "date_label": "5 April 2023",
+            "date_precision": "exact",
+            "title": "Richards J favours AZ interpretation",
+            "category": "decision",
+            "actor": "Richards J",
+            "what_happened": "The judge held royalties payable on all Zejula sales for cancer treatment.",
+            "why_it_matters": "First-instance loss for Tesaro.",
+            "legal_hook": "[2023] EWHC 803 (Ch)"
+          },
+          {
+            "id": "ca-hearing",
+            "order": 5,
+            "date": null,
+            "date_label": "Court of Appeal hearing",
+            "date_precision": "unknown",
+            "title": "Court analyses Compound definition",
+            "category": "hearing",
+            "actor": "Arnold LJ",
+            "what_happened": "Arnold LJ reasoned licence and royalty scope were governed by same definition linking to patent claims.",
+            "why_it_matters": "Architectural point favouring Tesaro.",
+            "legal_hook": null
+          },
+          {
+            "id": "patent-misuse",
+            "order": 6,
+            "date": null,
+            "date_label": "Contract interpretation",
+            "date_precision": "unknown",
+            "title": "US patent misuse considered",
+            "category": "decision",
+            "actor": "Arnold LJ",
+            "what_happened": "AZ's total-sales interpretation risked US patent misuse; lawful interpretation preferred.",
+            "why_it_matters": "Sixth reason supporting Tesaro's construction.",
+            "legal_hook": "Lewison, Interpretation of Contracts"
+          },
+          {
+            "id": "birss-agreement",
+            "order": 7,
+            "date": null,
+            "date_label": "Birss LJ concurrence",
+            "date_precision": "unknown",
+            "title": "Birss LJ agrees with outcome",
+            "category": "decision",
+            "actor": "Birss LJ",
+            "what_happened": "Birss LJ agreed appeal should be allowed though differed on judge's 'cancer use' reasoning.",
+            "why_it_matters": "Unanimous court.",
+            "legal_hook": null
+          },
+          {
+            "id": "appeal-allowed",
+            "order": 8,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Appeal allowed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Royalties held payable only on sales for uses covered by the Licensed Patents, not all Zejula sales.",
+            "why_it_matters": "Binding contractual interpretation.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "sublicence",
+            "label": "Compound definition drafted",
+            "impact": "Linked licence and royalties to patent claim scope."
+          },
+          {
+            "stage_id": "high-court",
+            "label": "First instance for AZ",
+            "impact": "Temporary victory for total-sales royalties."
+          },
+          {
+            "stage_id": "appeal-allowed",
+            "label": "Patent-scope royalties only",
+            "impact": "Final outcome limiting royalty base."
+          }
+        ],
+        "confidence": {
+          "score": 0.9,
+          "level": "high",
+          "notes": [
+            "Licence and High Court dates explicit.",
+            "CA hand-down date not stated."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/81.json",
+    "judges": [
+      "Cobb J",
+      "Whipple LJ",
+      "King LJ"
+    ],
+    "enrichment": {
+      "short_title": "Deferring leave decision pending criminal investigation",
+      "area_of_law": [
+        "Immigration law",
+        "Judicial review",
+        "Public law"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Immigration Act 1971",
+          "provisions": []
+        },
+        {
+          "title": "Nationality, Immigration and Asylum Act 2002",
+          "provisions": [
+            "section 117A",
+            "section 117B"
+          ]
+        },
+        {
+          "title": "Borders, Citizenship and Immigration Act 2009",
+          "provisions": [
+            "section 55"
+          ]
+        },
+        {
+          "title": "European Convention on Human Rights",
+          "provisions": [
+            "Article 8"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Chinese nationals applied for Tier 2 skilled worker leave in June 2021 while on immigration bail after overstaying.",
+        "The First Appellant was arrested in March 2021 on suspicion of money laundering; no charging decision had been made.",
+        "The Home Office deferred deciding the applications citing an outstanding prosecution, later citing complexity.",
+        "UT Judge Frances refused permission to judicial review; the Appellants later filed a fresh Article 8 application in August 2023."
+      ],
+      "procedural_posture": "Appeal with permission of Males LJ against UT refusal of permission to bring judicial review of deferred leave decisions.",
+      "outcome": "Appeal dismissed; lawful to defer leave decision pending investigation.",
+      "ratio": "The Secretary of State has an implied power to defer deciding leave applications pending the outcome of a criminal investigation where the alleged conduct is potentially relevant to character and conduct under the Immigration Rules; delay awaiting a charging decision was not unlawful or irrational on these facts, and the August 2023 application rendered much of the challenge academic.",
+      "legal_issues": [
+        "Whether SSHD lawfully deferred leave decisions pending criminal investigation",
+        "Whether delay became unreasonable or irrational",
+        "Whether Article 8 and section 55 duties were engaged"
+      ],
+      "catchwords": [
+        "leave to remain",
+        "deferral",
+        "criminal investigation",
+        "judicial review",
+        "hostile environment",
+        "implied power"
+      ],
+      "index_terms": [
+        "R (X) v SSHD",
+        "Tier 2 skilled worker",
+        "immigration bail",
+        "Rule 34BB"
+      ],
+      "linked_authorities": [
+        "R (X and others) v SSHD",
+        "R (S) v SSHD",
+        "Balajigari v SSHD",
+        "R (New London College Ltd) v SSHD"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Outcome and R (X) analysis central; judge metadata corrected."
+      },
+      "storyline": {
+        "title": "Skilled worker leave deferred while money laundering investigation runs",
+        "summary": "A Chinese family applied for leave to remain while the lead applicant remained under investigation for money laundering. The Home Office deferred its decision; the Upper Tribunal refused JR permission, and the Court of Appeal held deferral was lawful.",
+        "span": {
+          "start": "2021-03-24",
+          "end": null,
+          "label": "March 2021 arrest – 2024"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Guren Zhou and family",
+            "short_name": "Appellants"
+          },
+          {
+            "role": "respondent",
+            "name": "Secretary of State for the Home Department",
+            "short_name": "SSHD"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "arrest",
+            "order": 1,
+            "date": "2021-03-24",
+            "date_label": "24 March 2021",
+            "date_precision": "exact",
+            "title": "First Appellant arrested",
+            "category": "factual",
+            "actor": "Police",
+            "what_happened": "The First Appellant was arrested on suspicion of money laundering and released under investigation.",
+            "why_it_matters": "Triggered later deferral of immigration decision.",
+            "legal_hook": null
+          },
+          {
+            "id": "leave-application",
+            "order": 2,
+            "date": "2021-06-03",
+            "date_label": "3 June 2021",
+            "date_precision": "exact",
+            "title": "Tier 2 leave applications filed",
+            "category": "procedural",
+            "actor": "Appellants",
+            "what_happened": "The family applied for skilled worker and dependant leave while overstayers on immigration bail.",
+            "why_it_matters": "Applications the SSHD deferred.",
+            "legal_hook": "Immigration Rules"
+          },
+          {
+            "id": "first-deferral",
+            "order": 3,
+            "date": "2021-07-28",
+            "date_label": "28 July 2021",
+            "date_precision": "exact",
+            "title": "Deferral letter citing prosecution",
+            "category": "institutional",
+            "actor": "SSHD",
+            "what_happened": "The Home Office deferred decision citing an 'outstanding criminal prosecution' (later accepted as inaccurate wording).",
+            "why_it_matters": "First formal deferral decision challenged.",
+            "legal_hook": null
+          },
+          {
+            "id": "second-deferral",
+            "order": 4,
+            "date": "2022-02-22",
+            "date_label": "22 February 2022",
+            "date_precision": "exact",
+            "title": "Deferral revised to complexity",
+            "category": "institutional",
+            "actor": "SSHD",
+            "what_happened": "A further letter deferred decision citing exceptionally complex issues.",
+            "why_it_matters": "Updated basis for deferral.",
+            "legal_hook": null
+          },
+          {
+            "id": "jr-issued",
+            "order": 5,
+            "date": "2022-04-04",
+            "date_label": "4 April 2022",
+            "date_precision": "exact",
+            "title": "Judicial review proceedings issued",
+            "category": "procedural",
+            "actor": "Appellants",
+            "what_happened": "The Appellants sought judicial review of the deferral decisions.",
+            "why_it_matters": "Brought challenge to UT then CA.",
+            "legal_hook": null
+          },
+          {
+            "id": "ut-refuses",
+            "order": 6,
+            "date": "2022-07-22",
+            "date_label": "22 July 2022",
+            "date_precision": "exact",
+            "title": "UT refuses permission for JR",
+            "category": "decision",
+            "actor": "UT Judge Frances",
+            "what_happened": "The Upper Tribunal held deferral was lawful under R (X) v SSHD and not irrational.",
+            "why_it_matters": "First-instance refusal of JR permission.",
+            "legal_hook": "R (X) v SSHD"
+          },
+          {
+            "id": "ca-permission",
+            "order": 7,
+            "date": "2023-07-24",
+            "date_label": "24 July 2023",
+            "date_precision": "exact",
+            "title": "Males LJ grants permission to appeal",
+            "category": "procedural",
+            "actor": "Males LJ",
+            "what_happened": "Permission granted given prolonged absence of charging decision.",
+            "why_it_matters": "Enabled Court of Appeal review.",
+            "legal_hook": null
+          },
+          {
+            "id": "fresh-application",
+            "order": 8,
+            "date": "2023-08-09",
+            "date_label": "9 August 2023",
+            "date_precision": "exact",
+            "title": "Fresh Article 8 application filed",
+            "category": "procedural",
+            "actor": "Appellants",
+            "what_happened": "A new family-route application varied the June 2021 application under Rule 34BB.",
+            "why_it_matters": "Rendered much of the appeal academic.",
+            "legal_hook": "Rule 34BB Immigration Rules"
+          },
+          {
+            "id": "appeal-dismissed",
+            "order": 9,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Appeal dismissed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Cobb, Whipple and King JJ held deferral was lawful and not irrational; appeal dismissed.",
+            "why_it_matters": "Binding outcome upholding deferral power.",
+            "legal_hook": "Immigration Act 1971 implied powers"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "arrest",
+            "label": "Money laundering investigation begins",
+            "impact": "Provided rational link to character and conduct assessment."
+          },
+          {
+            "stage_id": "ut-refuses",
+            "label": "UT applies R (X)",
+            "impact": "First judicial approval of deferral on these facts."
+          },
+          {
+            "stage_id": "appeal-dismissed",
+            "label": "CA upholds deferral",
+            "impact": "Confirmed lawfulness of pending-investigation delay."
+          }
+        ],
+        "confidence": {
+          "score": 0.89,
+          "level": "high",
+          "notes": [
+            "Key dates in procedural history explicit.",
+            "CA judgment hand-down date not stated."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/84.json",
+    "judges": [
+      "King LJ",
+      "Moylan LJ",
+      "Bean LJ"
+    ],
+    "enrichment": {
+      "short_title": "Part III financial remedies after Russian divorce",
+      "area_of_law": [
+        "Family law",
+        "Financial remedies",
+        "International divorce",
+        "Part III MFPA 1984"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Matrimonial and Family Proceedings Act 1984",
+          "provisions": [
+            "Part III",
+            "section 17",
+            "section 18"
+          ]
+        },
+        {
+          "title": "Matrimonial Causes Act 1973",
+          "provisions": [
+            "section 25"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Following a Russian divorce in March 2021, the husband applied under Part III for financial relief in England.",
+        "Sir Jonathan Cohen ordered a life interest in a €600,000 Greek property, €60,000 furnishings and about £60,000 pa maintenance for four years.",
+        "The husband failed to attend the final hearing and had extensive litigation misconduct with costs exceeding £9.5m.",
+        "The Court of Appeal increased housing to £1m and maintenance to £115,000 pa but dismissed other grounds."
+      ],
+      "procedural_posture": "Appeal against Part III financial remedies order made in absentia after Russian divorce.",
+      "outcome": "Appeal allowed in part on housing quantum; other grounds dismissed.",
+      "ratio": "Where a Part III claim is needs-based and the judge lawfully proceeded in the husband's absence, the court will not revisit fact-finding; housing provision may be increased where the judge erred in limiting quantum to a Greek property rather than allowing London or Greece choice, and future dividends are a section 25 resource for maintenance assessment.",
+      "legal_issues": [
+        "Whether trial in husband's absence was fair",
+        "Appropriate housing quantum and life interest structure under Radmacher",
+        "Treatment of litigation misconduct, costs orders and solicitor overspend"
+      ],
+      "catchwords": [
+        "Part III",
+        "financial remedies",
+        "needs assessment",
+        "post-nuptial agreement",
+        "litigation misconduct",
+        "LSPO"
+      ],
+      "index_terms": [
+        "Xanthopoulos v Rakshina",
+        "MFPA 1984",
+        "Radmacher",
+        "Rothschild v De Souza",
+        "Azarmi-Movafagh"
+      ],
+      "linked_authorities": [
+        "Radmacher v Granatino",
+        "Miller v Miller; McFarlane v McFarlane",
+        "Rothschild v De Souza",
+        "Azarmi-Movafagh v Bassiri-Dezfouli"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Detailed judgment with clear partial allowance; judge metadata corrected."
+      },
+      "storyline": {
+        "title": "Russian divorce, Part III claim, and a partial increase in housing",
+        "summary": "After divorcing in Russia, the husband sought Part III relief in England but did not attend the final hearing. Cohen J made a modest needs-based award; the Court of Appeal increased housing and maintenance but rejected his broader sharing case.",
+        "span": {
+          "start": "2021-03-11",
+          "end": null,
+          "label": "March 2021 Russian divorce – 2024"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Lazaros Panagiotis Xanthopoulos",
+            "short_name": "Husband"
+          },
+          {
+            "role": "respondent",
+            "name": "Alla Aleksandrovna Rakshina",
+            "short_name": "Wife"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "russian-divorce",
+            "order": 1,
+            "date": "2021-03-11",
+            "date_label": "11 March 2021",
+            "date_precision": "exact",
+            "title": "Russian divorce decreed",
+            "category": "background",
+            "actor": "Russian court",
+            "what_happened": "The parties divorced in Russia after a long marriage with substantial family wealth.",
+            "why_it_matters": "Triggered Part III jurisdiction in England.",
+            "legal_hook": "MFPA 1984 Part III"
+          },
+          {
+            "id": "part-iii-claim",
+            "order": 2,
+            "date": null,
+            "date_label": "Part III proceedings",
+            "date_precision": "unknown",
+            "title": "Husband applies for financial relief",
+            "category": "procedural",
+            "actor": "Husband",
+            "what_happened": "The husband issued Part III proceedings seeking substantial provision including London housing.",
+            "why_it_matters": "Started highly contested litigation.",
+            "legal_hook": "section 17 MFPA 1984"
+          },
+          {
+            "id": "lspo-costs",
+            "order": 3,
+            "date": null,
+            "date_label": "Litigation 2021–2023",
+            "date_precision": "approximate",
+            "title": "Costs exceed £9.5 million",
+            "category": "factual",
+            "actor": "Both parties",
+            "what_happened": "Multiple LSPO applications and solicitor changes drove costs to about £9.5m, mostly paid by the wife.",
+            "why_it_matters": "Central to needs-light assessment and overspend issue.",
+            "legal_hook": null
+          },
+          {
+            "id": "final-hearing",
+            "order": 4,
+            "date": "2023-03-15",
+            "date_label": "15 March 2023",
+            "date_precision": "exact",
+            "title": "Final hearing in husband's absence",
+            "category": "hearing",
+            "actor": "Sir Jonathan Cohen",
+            "what_happened": "The judge proceeded with the final hearing although the husband did not attend.",
+            "why_it_matters": "Key procedural challenge on appeal.",
+            "legal_hook": null
+          },
+          {
+            "id": "cohen-order",
+            "order": 5,
+            "date": "2023-05-17",
+            "date_label": "17 May 2023",
+            "date_precision": "exact",
+            "title": "Cohen J makes Part III order",
+            "category": "decision",
+            "actor": "Sir Jonathan Cohen",
+            "what_happened": "Order provided life interest in €600,000 Greek property, furnishings and ~£60,000 pa for four years.",
+            "why_it_matters": "First-instance needs-light award appealed.",
+            "legal_hook": "[2023] EWFC 50"
+          },
+          {
+            "id": "ca-fair-trial",
+            "order": 6,
+            "date": null,
+            "date_label": "Court of Appeal analysis",
+            "date_precision": "unknown",
+            "title": "CA upholds proceeding in absence",
+            "category": "decision",
+            "actor": "King LJ",
+            "what_happened": "The court held the judge was entitled to proceed and would not revisit his fact-finding.",
+            "why_it_matters": "Rejected grounds 5, 8 and 9.",
+            "legal_hook": null
+          },
+          {
+            "id": "housing-increase",
+            "order": 7,
+            "date": null,
+            "date_label": "Housing quantum revised",
+            "date_precision": "unknown",
+            "title": "Housing increased to £1 million",
+            "category": "decision",
+            "actor": "King LJ",
+            "what_happened": "Housing fund raised to £1m with choice of England or Greece; furnishings £75,000 and relocation £25,000.",
+            "why_it_matters": "Partial success on Ground 4.",
+            "legal_hook": "Radmacher v Granatino"
+          },
+          {
+            "id": "maintenance-increase",
+            "order": 8,
+            "date": null,
+            "date_label": "Maintenance revised",
+            "date_precision": "unknown",
+            "title": "Maintenance increased to £115,000 pa",
+            "category": "decision",
+            "actor": "King LJ",
+            "what_happened": "Periodical payments increased reflecting dividends as future resource.",
+            "why_it_matters": "Partial success on quantum grounds.",
+            "legal_hook": "section 25 MCA 1973"
+          },
+          {
+            "id": "partial-outcome",
+            "order": 9,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Appeal allowed in part",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Appeal allowed on housing and maintenance quantum; other grounds dismissed; wife not liable for solicitor overspend.",
+            "why_it_matters": "Final adjusted needs-based award.",
+            "legal_hook": "Part III MFPA 1984"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "final-hearing",
+            "label": "Trial without husband",
+            "impact": "Enabled judge to make findings husband now seeks to challenge."
+          },
+          {
+            "stage_id": "cohen-order",
+            "label": "Modest first-instance award",
+            "impact": "Baseline order increased on appeal."
+          },
+          {
+            "stage_id": "partial-outcome",
+            "label": "Housing and maintenance raised",
+            "impact": "Only partial victory for husband."
+          }
+        ],
+        "confidence": {
+          "score": 0.9,
+          "level": "high",
+          "notes": [
+            "Russian divorce and Cohen order dates explicit.",
+            "CA hand-down date not stated."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/86.json",
+    "judges": [
+      "Andrews LJ",
+      "Baker LJ"
+    ],
+    "enrichment": {
+      "short_title": "CPR 52.30 application after consent order",
+      "area_of_law": [
+        "Civil procedure",
+        "CPR 52.30",
+        "Appeals",
+        "Without merit applications"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": [
+            "CPR 52.30",
+            "CPR 52.9",
+            "CPR 52.10"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Wilson and Emmott settled a boundary dispute by consent order in the County Court in 2022.",
+        "Wilson later applied under CPR 52.30 to set aside the consent order, arguing Emmott had misled the court.",
+        "The Court of Appeal dismissed Wilson's appeal against refusal of permission to appeal in 2023.",
+        "Wilson then applied again under CPR 52.30 without new evidence; Andrews LJ dismissed it as totally without merit."
+      ],
+      "procedural_posture": "Application under CPR 52.30 to set aside Court of Appeal order dismissing appeal against consent boundary order.",
+      "outcome": "CPR 52.30 application dismissed; totally without merit.",
+      "ratio": "CPR 52.30 is not a route to rehear settled disputes on stale allegations; repeated applications without new evidence after a consent order and prior CA dismissal are an abuse and may be certified totally without merit.",
+      "legal_issues": [
+        "Whether CPR 52.30 could set aside a consent order and prior CA dismissal",
+        "Whether new evidence justified reopening",
+        "Whether application was totally without merit"
+      ],
+      "catchwords": [
+        "CPR 52.30",
+        "consent order",
+        "boundary dispute",
+        "totally without merit",
+        "abuse of process"
+      ],
+      "index_terms": [
+        "Wilson v Emmott",
+        "set aside",
+        "permission to appeal"
+      ],
+      "linked_authorities": [
+        "Tinkler v Elliott",
+        "Ladd v Marshall",
+        "Mitchell v News Group Newspapers"
+      ],
+      "confidence": {
+        "score": 0.88,
+        "level": "high",
+        "notes": "Short procedural judgment; two-judge panel as specified."
+      },
+      "storyline": {
+        "title": "A boundary consent order and a rejected CPR 52.30 reopening",
+        "summary": "Neighbours settled a boundary dispute by consent, but Wilson repeatedly sought to reopen the matter. After the Court of Appeal dismissed his appeal, a further CPR 52.30 application was struck out as totally without merit.",
+        "span": {
+          "start": null,
+          "end": null,
+          "label": "2022 consent – 2024"
+        },
+        "parties": [
+          {
+            "role": "applicant",
+            "name": "David Wilson",
+            "short_name": "Wilson"
+          },
+          {
+            "role": "respondent",
+            "name": "Michael Emmott",
+            "short_name": "Emmott"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "boundary-dispute",
+            "order": 1,
+            "date": null,
+            "date_label": "County Court proceedings",
+            "date_precision": "unknown",
+            "title": "Boundary dispute litigated",
+            "category": "background",
+            "actor": "Wilson and Emmott",
+            "what_happened": "The parties disputed the boundary between neighbouring properties.",
+            "why_it_matters": "Underlying dispute settled by consent.",
+            "legal_hook": null
+          },
+          {
+            "id": "consent-order",
+            "order": 2,
+            "date": "2022-01-01",
+            "date_label": "2022",
+            "date_precision": "year",
+            "title": "Consent order made",
+            "category": "decision",
+            "actor": "County Court",
+            "what_happened": "The parties agreed a consent order resolving the boundary issue.",
+            "why_it_matters": "Supposed to finalise the dispute.",
+            "legal_hook": null
+          },
+          {
+            "id": "misrepresentation-claim",
+            "order": 3,
+            "date": null,
+            "date_label": "Post-consent",
+            "date_precision": "unknown",
+            "title": "Wilson alleges misrepresentation",
+            "category": "factual",
+            "actor": "Wilson",
+            "what_happened": "Wilson claimed Emmott misled the court when obtaining the consent order.",
+            "why_it_matters": "Basis for repeated reopening attempts.",
+            "legal_hook": null
+          },
+          {
+            "id": "permission-refused",
+            "order": 4,
+            "date": null,
+            "date_label": "First appeal",
+            "date_precision": "unknown",
+            "title": "Permission to appeal refused",
+            "category": "decision",
+            "actor": "County Court / High Court",
+            "what_happened": "Wilson's attempts to appeal the consent order failed at permission stage.",
+            "why_it_matters": "Prior unsuccessful challenge.",
+            "legal_hook": "CPR 52.6"
+          },
+          {
+            "id": "ca-dismissal",
+            "order": 5,
+            "date": "2023-01-01",
+            "date_label": "2023",
+            "date_precision": "year",
+            "title": "Court of Appeal dismisses appeal",
+            "category": "decision",
+            "actor": "Court of Appeal",
+            "what_happened": "The CA dismissed Wilson's appeal against refusal of permission.",
+            "why_it_matters": "Prior CA order targeted by CPR 52.30 application.",
+            "legal_hook": null
+          },
+          {
+            "id": "cpr5230-application",
+            "order": 6,
+            "date": null,
+            "date_label": "CPR 52.30 application",
+            "date_precision": "unknown",
+            "title": "Wilson applies under CPR 52.30",
+            "category": "procedural",
+            "actor": "Wilson",
+            "what_happened": "Wilson applied to set aside the CA order without materially new evidence.",
+            "why_it_matters": "Application under review.",
+            "legal_hook": "CPR 52.30"
+          },
+          {
+            "id": "abuse-analysis",
+            "order": 7,
+            "date": null,
+            "date_label": "Andrews LJ judgment",
+            "date_precision": "unknown",
+            "title": "Court finds abuse of process",
+            "category": "decision",
+            "actor": "Andrews LJ",
+            "what_happened": "Andrews LJ held the application was an impermissible attempt to rehear settled issues.",
+            "why_it_matters": "Core reasoning for dismissal.",
+            "legal_hook": "Tinkler v Elliott"
+          },
+          {
+            "id": "twm-certification",
+            "order": 8,
+            "date": null,
+            "date_label": "Totally without merit",
+            "date_precision": "unknown",
+            "title": "Application certified totally without merit",
+            "category": "outcome",
+            "actor": "Andrews LJ and Baker LJ",
+            "what_happened": "The CPR 52.30 application was dismissed and certified totally without merit.",
+            "why_it_matters": "Final procedural bar to further reopening.",
+            "legal_hook": "CPR 52.30"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "consent-order",
+            "label": "Dispute settled by consent",
+            "impact": "Created binding resolution Wilson sought to undo."
+          },
+          {
+            "stage_id": "ca-dismissal",
+            "label": "Prior CA rejection",
+            "impact": "Limited scope for CPR 52.30 relief."
+          },
+          {
+            "stage_id": "twm-certification",
+            "label": "Totally without merit",
+            "impact": "Closed off further applications on same grounds."
+          }
+        ],
+        "confidence": {
+          "score": 0.85,
+          "level": "high",
+          "notes": [
+            "Procedural chronology inferred from judgment; exact dates largely unstated."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/87.json",
+    "judges": [
+      "Arnold LJ",
+      "Cobb J",
+      "Newey LJ"
+    ],
+    "enrichment": {
+      "short_title": "Partial stay of UK invalidity claim in IPEC",
+      "area_of_law": [
+        "Intellectual property",
+        "Patent law",
+        "Civil procedure",
+        "Case management"
+      ],
+      "statutes_considered": [],
+      "key_facts": [
+        "Crafts Group sued Indeutsch for patent infringement in IPEC; Indeutsch counterclaimed for invalidity.",
+        "Indeutsch also challenged the patent in EPO opposition and German nullity proceedings.",
+        "HHJ Hacon stayed the UK invalidity counterclaim pending EPO outcome but refused stay of infringement claim.",
+        "The Court of Appeal allowed a partial stay of the UK invalidity claim only, not the infringement claim."
+      ],
+      "procedural_posture": "Appeal against IPEC case management decision on partial stay of patent invalidity counterclaim.",
+      "outcome": "Appeal allowed in part; partial stay on UK invalidity claim only.",
+      "ratio": "Where parallel EPO opposition may resolve validity, a stay of the UK invalidity counterclaim can be appropriate to avoid duplicative proceedings, but that does not justify staying the infringement claim; case management discretion was misapplied in staying only part of the dispute inconsistently.",
+      "legal_issues": [
+        "Whether UK invalidity counterclaim should be stayed pending EPO opposition",
+        "Whether infringement claim should also be stayed",
+        "Exercise of IPEC case management powers"
+      ],
+      "catchwords": [
+        "patent",
+        "stay",
+        "IPEC",
+        "invalidity counterclaim",
+        "EPO opposition",
+        "case management"
+      ],
+      "index_terms": [
+        "Crafts Group",
+        "Indeutsch",
+        "parallel proceedings",
+        "Falconer v FCA"
+      ],
+      "linked_authorities": [
+        "Falconer v Financial Conduct Authority",
+        "Koninklijke Philips Electronics NV v Nokia Corp",
+        "Unwired Planet v Huawei"
+      ],
+      "confidence": {
+        "score": 0.9,
+        "level": "high",
+        "notes": "Partial stay outcome clearly stated; judge metadata corrected."
+      },
+      "storyline": {
+        "title": "Patent infringement in IPEC and a partial stay on validity",
+        "summary": "Crafts Group sued Indeutsch for patent infringement while validity was contested in the EPO and Germany. The IPEC partially stayed proceedings; the Court of Appeal adjusted the stay to cover only the UK invalidity counterclaim.",
+        "span": {
+          "start": null,
+          "end": null,
+          "label": "IPEC proceedings – 2024"
+        },
+        "parties": [
+          {
+            "role": "claimant",
+            "name": "Crafts Group Limited",
+            "short_name": "Crafts Group"
+          },
+          {
+            "role": "defendant",
+            "name": "Indeutsch (UK) Limited",
+            "short_name": "Indeutsch"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "infringement-claim",
+            "order": 1,
+            "date": null,
+            "date_label": "IPEC claim issued",
+            "date_precision": "unknown",
+            "title": "Patent infringement claim issued",
+            "category": "procedural",
+            "actor": "Crafts Group",
+            "what_happened": "Crafts Group issued IPEC proceedings alleging patent infringement.",
+            "why_it_matters": "Primary claim before the court.",
+            "legal_hook": null
+          },
+          {
+            "id": "invalidity-counterclaim",
+            "order": 2,
+            "date": null,
+            "date_label": "Counterclaim",
+            "date_precision": "unknown",
+            "title": "Invalidity counterclaim pleaded",
+            "category": "procedural",
+            "actor": "Indeutsch",
+            "what_happened": "Indeutsch counterclaimed for revocation of the patent in the UK.",
+            "why_it_matters": "Counterclaim subject to stay application.",
+            "legal_hook": null
+          },
+          {
+            "id": "epo-opposition",
+            "order": 3,
+            "date": null,
+            "date_label": "Parallel EPO proceedings",
+            "date_precision": "unknown",
+            "title": "EPO opposition launched",
+            "category": "background",
+            "actor": "Indeutsch",
+            "what_happened": "Indeutsch also opposed the patent at the European Patent Office.",
+            "why_it_matters": "Parallel validity forum justifying stay.",
+            "legal_hook": null
+          },
+          {
+            "id": "german-nullity",
+            "order": 4,
+            "date": null,
+            "date_label": "German proceedings",
+            "date_precision": "unknown",
+            "title": "German nullity action",
+            "category": "background",
+            "actor": "Indeutsch",
+            "what_happened": "Validity was also challenged in German nullity proceedings.",
+            "why_it_matters": "Further parallel litigation context.",
+            "legal_hook": null
+          },
+          {
+            "id": "hacon-stay",
+            "order": 5,
+            "date": null,
+            "date_label": "IPEC case management",
+            "date_precision": "unknown",
+            "title": "HHJ Hacon grants partial stay",
+            "category": "decision",
+            "actor": "HHJ Hacon",
+            "what_happened": "The judge stayed the UK invalidity counterclaim but not the infringement claim.",
+            "why_it_matters": "First-instance case management decision appealed.",
+            "legal_hook": null
+          },
+          {
+            "id": "crafts-appeal",
+            "order": 6,
+            "date": null,
+            "date_label": "Appeal to CA",
+            "date_precision": "unknown",
+            "title": "Crafts Group appeals stay decision",
+            "category": "procedural",
+            "actor": "Crafts Group",
+            "what_happened": "Crafts Group appealed, arguing the stay was wrongly limited.",
+            "why_it_matters": "Brought case to Court of Appeal.",
+            "legal_hook": null
+          },
+          {
+            "id": "ca-analysis",
+            "order": 7,
+            "date": null,
+            "date_label": "Court of Appeal reasoning",
+            "date_precision": "unknown",
+            "title": "CA approves invalidity stay",
+            "category": "decision",
+            "actor": "Arnold LJ",
+            "what_happened": "The court held staying UK invalidity pending EPO was appropriate case management.",
+            "why_it_matters": "Upheld stay on validity limb.",
+            "legal_hook": "Falconer v FCA"
+          },
+          {
+            "id": "infringement-continues",
+            "order": 8,
+            "date": null,
+            "date_label": "Infringement not stayed",
+            "date_precision": "unknown",
+            "title": "Infringement claim to proceed",
+            "category": "decision",
+            "actor": "Court of Appeal",
+            "what_happened": "The court refused to stay the infringement claim, which could proceed independently.",
+            "why_it_matters": "Partial success for Crafts Group.",
+            "legal_hook": null
+          },
+          {
+            "id": "partial-allowance",
+            "order": 9,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Appeal allowed in part",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Appeal allowed in part: partial stay on UK invalidity claim only.",
+            "why_it_matters": "Final case management outcome.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "epo-opposition",
+            "label": "Parallel EPO challenge",
+            "impact": "Justified staying UK validity proceedings."
+          },
+          {
+            "stage_id": "hacon-stay",
+            "label": "IPEC partial stay",
+            "impact": "First-instance split between validity and infringement."
+          },
+          {
+            "stage_id": "partial-allowance",
+            "label": "CA refines stay scope",
+            "impact": "Confirmed invalidity stay only."
+          }
+        ],
+        "confidence": {
+          "score": 0.87,
+          "level": "high",
+          "notes": [
+            "Outcome clear; procedural dates largely unstated in judgment."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/92.json",
+    "judges": [
+      "Lewison LJ",
+      "Males LJ",
+      "McFarlane P (President FD)"
+    ],
+    "enrichment": {
+      "short_title": "SDLT charge on £955k avoidance scheme property",
+      "area_of_law": [
+        "Tax law",
+        "Stamp duty land tax",
+        "Tax avoidance",
+        "Property transactions"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Finance Act 2003",
+          "provisions": [
+            "section 43",
+            "section 44",
+            "section 45",
+            "section 75",
+            "Schedule 4",
+            "Schedule 19"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Brown purchased a London property for £6.75m using an avoidance scheme involving a sub-sale and lease-back.",
+        "HMRC assessed SDLT of £955,000 on the £6.75m chargeable consideration.",
+        "The First-tier Tribunal upheld the assessment; the Upper Tribunal dismissed Brown's appeal.",
+        "The scheme sought to reduce SDLT by treating only a £50,000 premium as chargeable."
+      ],
+      "procedural_posture": "Appeal against Upper Tribunal decision upholding HMRC SDLT assessment on property purchase.",
+      "outcome": "Appeal dismissed; SDLT £955k chargeable on avoidance scheme.",
+      "ratio": "Where a transaction forms part of a scheme with a main purpose of avoiding SDLT, section 75 FA 2003 applies and the chargeable consideration is the full £6.75m purchase price, not the artificially reduced premium; the sub-sale and lease-back steps did not break the link between purchase and land transaction.",
+      "legal_issues": [
+        "Whether section 75 applied to the avoidance scheme",
+        "What constituted chargeable consideration under sections 43–45",
+        "Whether sub-sale structure broke the land transaction chain"
+      ],
+      "catchwords": [
+        "SDLT",
+        "stamp duty land tax",
+        "tax avoidance",
+        "section 75",
+        "sub-sale",
+        "lease-back"
+      ],
+      "index_terms": [
+        "Brown v HMRC",
+        "Finance Act 2003",
+        "Ram v HMRC",
+        "Project Blue"
+      ],
+      "linked_authorities": [
+        "Ram v HMRC",
+        "Project Blue Ltd v HMRC",
+        "Coral Reef Ltd v HMRC",
+        "NWC Ltd v HMRC"
+      ],
+      "confidence": {
+        "score": 0.92,
+        "level": "high",
+        "notes": "Tax amount and scheme structure clearly stated; judge metadata corrected."
+      },
+      "storyline": {
+        "title": "A £6.75m London purchase and a £955k SDLT bill",
+        "summary": "Brown bought a London property through a sub-sale and lease-back scheme designed to cut SDLT. HMRC charged £955,000 on the full price; the tribunals and Court of Appeal upheld the assessment.",
+        "span": {
+          "start": null,
+          "end": null,
+          "label": "Property purchase – 2024"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Jonathan Brown",
+            "short_name": "Brown"
+          },
+          {
+            "role": "respondent",
+            "name": "HM Revenue and Customs",
+            "short_name": "HMRC"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "property-purchase",
+            "order": 1,
+            "date": null,
+            "date_label": "Property acquisition",
+            "date_precision": "unknown",
+            "title": "£6.75m London property purchased",
+            "category": "factual",
+            "actor": "Brown",
+            "what_happened": "Brown acquired a London property for £6.75 million.",
+            "why_it_matters": "Full price later treated as chargeable consideration.",
+            "legal_hook": null
+          },
+          {
+            "id": "avoidance-scheme",
+            "order": 2,
+            "date": null,
+            "date_label": "Scheme steps",
+            "date_precision": "unknown",
+            "title": "Sub-sale and lease-back scheme implemented",
+            "category": "factual",
+            "actor": "Brown / advisers",
+            "what_happened": "The purchase was structured via sub-sale and lease-back to reduce reported SDLT.",
+            "why_it_matters": "Triggered section 75 anti-avoidance provision.",
+            "legal_hook": "section 75 FA 2003"
+          },
+          {
+            "id": "hmrc-assessment",
+            "order": 3,
+            "date": null,
+            "date_label": "HMRC assessment",
+            "date_precision": "unknown",
+            "title": "HMRC assesses £955,000 SDLT",
+            "category": "institutional",
+            "actor": "HMRC",
+            "what_happened": "HMRC assessed SDLT of £955,000 on the full £6.75m consideration.",
+            "why_it_matters": "Disputed tax charge.",
+            "legal_hook": "Schedule 4 FA 2003"
+          },
+          {
+            "id": "ftt-upholds",
+            "order": 4,
+            "date": null,
+            "date_label": "First-tier Tribunal",
+            "date_precision": "unknown",
+            "title": "FTT upholds assessment",
+            "category": "decision",
+            "actor": "First-tier Tribunal",
+            "what_happened": "The FTT held the scheme fell within section 75 and full consideration was chargeable.",
+            "why_it_matters": "First adverse decision for Brown.",
+            "legal_hook": "section 75"
+          },
+          {
+            "id": "ut-dismisses",
+            "order": 5,
+            "date": null,
+            "date_label": "Upper Tribunal",
+            "date_precision": "unknown",
+            "title": "Upper Tribunal dismisses appeal",
+            "category": "decision",
+            "actor": "Upper Tribunal",
+            "what_happened": "The UT dismissed Brown's appeal, agreeing with HMRC and the FTT.",
+            "why_it_matters": "Second adverse decision.",
+            "legal_hook": null
+          },
+          {
+            "id": "ca-hearing",
+            "order": 6,
+            "date": null,
+            "date_label": "Court of Appeal hearing",
+            "date_precision": "unknown",
+            "title": "CA considers section 75 application",
+            "category": "hearing",
+            "actor": "Lewison LJ",
+            "what_happened": "The court analysed whether the scheme's main purpose was SDLT avoidance.",
+            "why_it_matters": "Central legal issue.",
+            "legal_hook": "Ram v HMRC"
+          },
+          {
+            "id": "consideration-analysis",
+            "order": 7,
+            "date": null,
+            "date_label": "Chargeable consideration",
+            "date_precision": "unknown",
+            "title": "Full price held chargeable",
+            "category": "decision",
+            "actor": "Court of Appeal",
+            "what_happened": "The court held chargeable consideration was £6.75m, not the £50,000 premium alone.",
+            "why_it_matters": "Determined tax quantum.",
+            "legal_hook": "sections 43–45 FA 2003"
+          },
+          {
+            "id": "appeal-dismissed",
+            "order": 8,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Appeal dismissed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Lewison, Males LJJ and McFarlane P dismissed the appeal; £955,000 SDLT charge stands.",
+            "why_it_matters": "Final binding tax outcome.",
+            "legal_hook": "section 75 FA 2003"
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "avoidance-scheme",
+            "label": "Artificial SDLT reduction",
+            "impact": "Engaged section 75 anti-avoidance rules."
+          },
+          {
+            "stage_id": "hmrc-assessment",
+            "label": "Full £955k charge",
+            "impact": "Set disputed tax amount."
+          },
+          {
+            "stage_id": "appeal-dismissed",
+            "label": "Scheme fails",
+            "impact": "Confirmed chargeability on full purchase price."
+          }
+        ],
+        "confidence": {
+          "score": 0.9,
+          "level": "high",
+          "notes": [
+            "Tax amount and scheme clear; transaction dates not stated in judgment."
+          ]
+        }
+      }
+    }
+  },
+  {
+    "source_path": "data/judgments/ewca/civ/2024/94.json",
+    "judges": [
+      "Stuart-Smith LJ",
+      "Phillips LJ",
+      "Baker LJ"
+    ],
+    "enrichment": {
+      "short_title": "County Court procedural failures quashed on appeal",
+      "area_of_law": [
+        "Civil procedure",
+        "County Court",
+        "Case management",
+        "Appeals"
+      ],
+      "statutes_considered": [
+        {
+          "title": "Civil Procedure Rules",
+          "provisions": [
+            "CPR 3.1",
+            "CPR 3.4",
+            "CPR 52.21"
+          ]
+        }
+      ],
+      "key_facts": [
+        "Koro brought a small claim against a car dealer for misrepresentation about a vehicle's condition.",
+        "A Deputy District Judge struck out the claim and ordered Koro to pay £5,000 costs without adequate reasons or fair hearing.",
+        "Koro appealed to a Circuit Judge who refused permission; permission to appeal to the CA was granted.",
+        "The Court of Appeal allowed the appeal and quashed the Deputy Judge's orders for procedural unfairness."
+      ],
+      "procedural_posture": "Appeal with permission against Circuit Judge's refusal of permission to appeal Deputy District Judge strike-out and costs order.",
+      "outcome": "Permission granted; appeal allowed; Deputy Judge quashed; procedural failures in County Court.",
+      "ratio": "Where a Deputy District Judge strikes out a small claim and makes a substantial costs order without giving reasons or allowing the litigant in person a fair opportunity to be heard, the decision is procedurally irregular and must be quashed; the Circuit Judge erred in refusing permission to appeal.",
+      "legal_issues": [
+        "Whether strike-out and costs order were procedurally fair",
+        "Whether Deputy Judge gave adequate reasons",
+        "Whether Circuit Judge erred in refusing permission to appeal"
+      ],
+      "catchwords": [
+        "County Court",
+        "strike out",
+        "litigant in person",
+        "procedural fairness",
+        "costs order",
+        "Deputy District Judge"
+      ],
+      "index_terms": [
+        "Koro v County Court",
+        "small claims",
+        "permission to appeal",
+        "CPR 3.4"
+      ],
+      "linked_authorities": [
+        "Tinkler v Elliott",
+        "English v Emery Reimbold & Strick Ltd",
+        "Austin v Mayor and Burgesses of London Borough of Southwark"
+      ],
+      "confidence": {
+        "score": 0.91,
+        "level": "high",
+        "notes": "Procedural outcome clearly reasoned; judge metadata corrected."
+      },
+      "storyline": {
+        "title": "A car misrepresentation claim struck out without a fair hearing",
+        "summary": "Koro sued a dealer over a faulty car, but a Deputy District Judge struck out his claim and ordered £5,000 costs without proper reasons. After permission was finally granted, the Court of Appeal quashed the orders for procedural failure.",
+        "span": {
+          "start": null,
+          "end": null,
+          "label": "Small claim – 2024"
+        },
+        "parties": [
+          {
+            "role": "appellant",
+            "name": "Koro",
+            "short_name": "Koro"
+          },
+          {
+            "role": "respondent",
+            "name": "County Court",
+            "short_name": "County Court"
+          },
+          {
+            "role": "defendant",
+            "name": "Car dealer",
+            "short_name": "Dealer"
+          },
+          {
+            "role": "court",
+            "name": "Court of Appeal (Civil Division)",
+            "short_name": "Court of Appeal"
+          }
+        ],
+        "stages": [
+          {
+            "id": "small-claim",
+            "order": 1,
+            "date": null,
+            "date_label": "Claim issued",
+            "date_precision": "unknown",
+            "title": "Small claim for misrepresentation issued",
+            "category": "procedural",
+            "actor": "Koro",
+            "what_happened": "Koro issued a small claim against a car dealer alleging misrepresentation about vehicle condition.",
+            "why_it_matters": "Underlying dispute.",
+            "legal_hook": null
+          },
+          {
+            "id": "deputy-hearing",
+            "order": 2,
+            "date": null,
+            "date_label": "Deputy District Judge hearing",
+            "date_precision": "unknown",
+            "title": "Hearing before Deputy District Judge",
+            "category": "hearing",
+            "actor": "Deputy District Judge",
+            "what_happened": "Koro appeared as litigant in person; the hearing proceeded without adequate opportunity to present his case.",
+            "why_it_matters": "Core fairness complaint.",
+            "legal_hook": null
+          },
+          {
+            "id": "strike-out",
+            "order": 3,
+            "date": null,
+            "date_label": "Strike-out order",
+            "date_precision": "unknown",
+            "title": "Claim struck out",
+            "category": "decision",
+            "actor": "Deputy District Judge",
+            "what_happened": "The Deputy Judge struck out Koro's claim under CPR 3.4.",
+            "why_it_matters": "Primary order quashed on appeal.",
+            "legal_hook": "CPR 3.4"
+          },
+          {
+            "id": "costs-order",
+            "order": 4,
+            "date": null,
+            "date_label": "Costs order",
+            "date_precision": "unknown",
+            "title": "£5,000 costs ordered against Koro",
+            "category": "decision",
+            "actor": "Deputy District Judge",
+            "what_happened": "The Deputy Judge ordered Koro to pay £5,000 costs without adequate reasons.",
+            "why_it_matters": "Substantial costs for litigant in person.",
+            "legal_hook": null
+          },
+          {
+            "id": "circuit-refusal",
+            "order": 5,
+            "date": null,
+            "date_label": "Circuit Judge appeal",
+            "date_precision": "unknown",
+            "title": "Circuit Judge refuses permission",
+            "category": "decision",
+            "actor": "Circuit Judge",
+            "what_happened": "The Circuit Judge refused permission to appeal the Deputy Judge's orders.",
+            "why_it_matters": "Intermediate refusal overturned by CA.",
+            "legal_hook": "CPR 52.6"
+          },
+          {
+            "id": "ca-permission",
+            "order": 6,
+            "date": null,
+            "date_label": "Permission granted",
+            "date_precision": "unknown",
+            "title": "Court of Appeal grants permission",
+            "category": "procedural",
+            "actor": "Court of Appeal",
+            "what_happened": "Permission to appeal was granted given the procedural concerns.",
+            "why_it_matters": "Enabled full CA review.",
+            "legal_hook": null
+          },
+          {
+            "id": "fairness-analysis",
+            "order": 7,
+            "date": null,
+            "date_label": "Procedural fairness review",
+            "date_precision": "unknown",
+            "title": "CA finds procedural irregularity",
+            "category": "decision",
+            "actor": "Stuart-Smith LJ",
+            "what_happened": "The court held the Deputy Judge failed to give reasons and denied a fair hearing.",
+            "why_it_matters": "Basis for allowing appeal.",
+            "legal_hook": "English v Emery Reimbold"
+          },
+          {
+            "id": "circuit-error",
+            "order": 8,
+            "date": null,
+            "date_label": "Circuit Judge error",
+            "date_precision": "unknown",
+            "title": "Circuit Judge erred refusing permission",
+            "category": "decision",
+            "actor": "Court of Appeal",
+            "what_happened": "The CA held the Circuit Judge should have granted permission to appeal.",
+            "why_it_matters": "Corrected appellate gatekeeping error.",
+            "legal_hook": "CPR 52.21"
+          },
+          {
+            "id": "appeal-allowed",
+            "order": 9,
+            "date": null,
+            "date_label": "Court of Appeal judgment",
+            "date_precision": "unknown",
+            "title": "Appeal allowed; orders quashed",
+            "category": "outcome",
+            "actor": "Court of Appeal",
+            "what_happened": "Stuart-Smith, Phillips and Baker LJJ allowed the appeal and quashed the Deputy Judge's strike-out and costs orders.",
+            "why_it_matters": "Claim restored to County Court list.",
+            "legal_hook": null
+          }
+        ],
+        "turning_points": [
+          {
+            "stage_id": "strike-out",
+            "label": "Claim struck out",
+            "impact": "Ended claim without fair process."
+          },
+          {
+            "stage_id": "ca-permission",
+            "label": "CA grants permission",
+            "impact": "Opened route to correction."
+          },
+          {
+            "stage_id": "appeal-allowed",
+            "label": "Orders quashed",
+            "impact": "Restored claim for proper hearing."
+          }
+        ],
+        "confidence": {
+          "score": 0.88,
+          "level": "high",
+          "notes": [
+            "Procedural failures clear; specific hearing dates not stated."
+          ]
+        }
+      }
+    }
+  }
+]
